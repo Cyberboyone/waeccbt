@@ -1,0 +1,2607 @@
+{
+  "course_id": "crs",
+  "course_name": "Christian Religious Studies",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "crs_001",
+      "text": "First man:",
+      "options": [
+        "Abraham",
+        "Moses",
+        "David",
+        "Adam"
+      ],
+      "correct_index": 3,
+      "explanation": "Adam.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_002",
+      "text": "First woman:",
+      "options": [
+        "Rebekah",
+        "Rachel",
+        "Eve",
+        "Sarah"
+      ],
+      "correct_index": 2,
+      "explanation": "Eve.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_003",
+      "text": "Garden:",
+      "options": [
+        "Jerusalem",
+        "Eden",
+        "Gethsemane",
+        "Galilee"
+      ],
+      "correct_index": 1,
+      "explanation": "Eden.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_004",
+      "text": "Noah saved because:",
+      "options": [
+        "Righteous",
+        "Wicked",
+        "Rich",
+        "Strong"
+      ],
+      "correct_index": 0,
+      "explanation": "Righteous.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_005",
+      "text": "Abraham son of promise:",
+      "options": [
+        "Ishmael",
+        "Jacob",
+        "Esau",
+        "Isaac"
+      ],
+      "correct_index": 3,
+      "explanation": "Isaac.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_006",
+      "text": "Jacob changed to:",
+      "options": [
+        "Joseph",
+        "Benjamin",
+        "Israel",
+        "Judah"
+      ],
+      "correct_index": 2,
+      "explanation": "Israel.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_007",
+      "text": "Moses called from:",
+      "options": [
+        "Temple",
+        "Burning bush",
+        "Cloud",
+        "Dream"
+      ],
+      "correct_index": 1,
+      "explanation": "Burning bush.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_008",
+      "text": "Plagues in Egypt:",
+      "options": [
+        "10",
+        "5",
+        "7",
+        "12"
+      ],
+      "correct_index": 0,
+      "explanation": "10.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_009",
+      "text": "Law at Mount:",
+      "options": [
+        "Zion",
+        "Ararat",
+        "Carmel",
+        "Sinai"
+      ],
+      "correct_index": 3,
+      "explanation": "Sinai.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_010",
+      "text": "Commandments:",
+      "options": [
+        "7",
+        "5",
+        "10",
+        "12"
+      ],
+      "correct_index": 2,
+      "explanation": "10.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_011",
+      "text": "David killed Goliath with:",
+      "options": [
+        "Bow",
+        "Sling stone",
+        "Sword",
+        "Spear"
+      ],
+      "correct_index": 1,
+      "explanation": "Sling stone.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_012",
+      "text": "Temple built by:",
+      "options": [
+        "Solomon",
+        "David",
+        "Saul",
+        "Moses"
+      ],
+      "correct_index": 0,
+      "explanation": "Solomon.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_013",
+      "text": "Jesus born in:",
+      "options": [
+        "Nazareth",
+        "Jerusalem",
+        "Galilee",
+        "Bethlehem"
+      ],
+      "correct_index": 3,
+      "explanation": "Bethlehem.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_014",
+      "text": "Baptized by:",
+      "options": [
+        "James",
+        "Andrew",
+        "John Baptist",
+        "Peter"
+      ],
+      "correct_index": 2,
+      "explanation": "John Baptist.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_015",
+      "text": "First miracle at:",
+      "options": [
+        "Bethlehem",
+        "Cana",
+        "Jerusalem",
+        "Nazareth"
+      ],
+      "correct_index": 1,
+      "explanation": "Cana.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_016",
+      "text": "Fed 5000 with:",
+      "options": [
+        "5 loaves 2 fish",
+        "10 loaves",
+        "Only fish",
+        "Only bread"
+      ],
+      "correct_index": 0,
+      "explanation": "5 loaves 2 fish.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_017",
+      "text": "Betrayed by:",
+      "options": [
+        "Peter",
+        "John",
+        "James",
+        "Judas"
+      ],
+      "correct_index": 3,
+      "explanation": "Judas.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_018",
+      "text": "Crucified at:",
+      "options": [
+        "Nazareth",
+        "Galilee",
+        "Golgotha",
+        "Bethlehem"
+      ],
+      "correct_index": 2,
+      "explanation": "Golgotha.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_019",
+      "text": "Resurrected on:",
+      "options": [
+        "First",
+        "Third day",
+        "Second",
+        "Seventh"
+      ],
+      "correct_index": 1,
+      "explanation": "Third day.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_020",
+      "text": "First martyr:",
+      "options": [
+        "Stephen",
+        "Peter",
+        "James",
+        "John"
+      ],
+      "correct_index": 0,
+      "explanation": "Stephen.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_021",
+      "text": "First man: (variant 21)",
+      "options": [
+        "Abraham",
+        "Moses",
+        "David",
+        "Adam"
+      ],
+      "correct_index": 3,
+      "explanation": "Adam.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_022",
+      "text": "First woman: (variant 22)",
+      "options": [
+        "Rebekah",
+        "Rachel",
+        "Eve",
+        "Sarah"
+      ],
+      "correct_index": 2,
+      "explanation": "Eve.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_023",
+      "text": "Garden: (variant 23)",
+      "options": [
+        "Jerusalem",
+        "Eden",
+        "Gethsemane",
+        "Galilee"
+      ],
+      "correct_index": 1,
+      "explanation": "Eden.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_024",
+      "text": "Noah saved because: (variant 24)",
+      "options": [
+        "Righteous",
+        "Wicked",
+        "Rich",
+        "Strong"
+      ],
+      "correct_index": 0,
+      "explanation": "Righteous.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_025",
+      "text": "Abraham son of promise: (variant 25)",
+      "options": [
+        "Ishmael",
+        "Jacob",
+        "Esau",
+        "Isaac"
+      ],
+      "correct_index": 3,
+      "explanation": "Isaac.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_026",
+      "text": "Jacob changed to: (variant 26)",
+      "options": [
+        "Joseph",
+        "Benjamin",
+        "Israel",
+        "Judah"
+      ],
+      "correct_index": 2,
+      "explanation": "Israel.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_027",
+      "text": "Moses called from: (variant 27)",
+      "options": [
+        "Temple",
+        "Burning bush",
+        "Cloud",
+        "Dream"
+      ],
+      "correct_index": 1,
+      "explanation": "Burning bush.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_028",
+      "text": "Plagues in Egypt: (variant 28)",
+      "options": [
+        "10",
+        "5",
+        "7",
+        "12"
+      ],
+      "correct_index": 0,
+      "explanation": "10.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_029",
+      "text": "Law at Mount: (variant 29)",
+      "options": [
+        "Zion",
+        "Ararat",
+        "Carmel",
+        "Sinai"
+      ],
+      "correct_index": 3,
+      "explanation": "Sinai.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_030",
+      "text": "Commandments: (variant 30)",
+      "options": [
+        "7",
+        "5",
+        "10",
+        "12"
+      ],
+      "correct_index": 2,
+      "explanation": "10.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_031",
+      "text": "David killed Goliath with: (variant 31)",
+      "options": [
+        "Bow",
+        "Sling stone",
+        "Sword",
+        "Spear"
+      ],
+      "correct_index": 1,
+      "explanation": "Sling stone.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_032",
+      "text": "Temple built by: (variant 32)",
+      "options": [
+        "Solomon",
+        "David",
+        "Saul",
+        "Moses"
+      ],
+      "correct_index": 0,
+      "explanation": "Solomon.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_033",
+      "text": "Jesus born in: (variant 33)",
+      "options": [
+        "Nazareth",
+        "Jerusalem",
+        "Galilee",
+        "Bethlehem"
+      ],
+      "correct_index": 3,
+      "explanation": "Bethlehem.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_034",
+      "text": "Baptized by: (variant 34)",
+      "options": [
+        "James",
+        "Andrew",
+        "John Baptist",
+        "Peter"
+      ],
+      "correct_index": 2,
+      "explanation": "John Baptist.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_035",
+      "text": "First miracle at: (variant 35)",
+      "options": [
+        "Bethlehem",
+        "Cana",
+        "Jerusalem",
+        "Nazareth"
+      ],
+      "correct_index": 1,
+      "explanation": "Cana.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_036",
+      "text": "Fed 5000 with: (variant 36)",
+      "options": [
+        "5 loaves 2 fish",
+        "10 loaves",
+        "Only fish",
+        "Only bread"
+      ],
+      "correct_index": 0,
+      "explanation": "5 loaves 2 fish.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_037",
+      "text": "Betrayed by: (variant 37)",
+      "options": [
+        "Peter",
+        "John",
+        "James",
+        "Judas"
+      ],
+      "correct_index": 3,
+      "explanation": "Judas.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_038",
+      "text": "Crucified at: (variant 38)",
+      "options": [
+        "Nazareth",
+        "Galilee",
+        "Golgotha",
+        "Bethlehem"
+      ],
+      "correct_index": 2,
+      "explanation": "Golgotha.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_039",
+      "text": "Resurrected on: (variant 39)",
+      "options": [
+        "First",
+        "Third day",
+        "Second",
+        "Seventh"
+      ],
+      "correct_index": 1,
+      "explanation": "Third day.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_040",
+      "text": "First martyr: (variant 40)",
+      "options": [
+        "Stephen",
+        "Peter",
+        "James",
+        "John"
+      ],
+      "correct_index": 0,
+      "explanation": "Stephen.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_041",
+      "text": "First man: (variant 41)",
+      "options": [
+        "Abraham",
+        "Moses",
+        "David",
+        "Adam"
+      ],
+      "correct_index": 3,
+      "explanation": "Adam.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_042",
+      "text": "First woman: (variant 42)",
+      "options": [
+        "Rebekah",
+        "Rachel",
+        "Eve",
+        "Sarah"
+      ],
+      "correct_index": 2,
+      "explanation": "Eve.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_043",
+      "text": "Garden: (variant 43)",
+      "options": [
+        "Jerusalem",
+        "Eden",
+        "Gethsemane",
+        "Galilee"
+      ],
+      "correct_index": 1,
+      "explanation": "Eden.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_044",
+      "text": "Noah saved because: (variant 44)",
+      "options": [
+        "Righteous",
+        "Wicked",
+        "Rich",
+        "Strong"
+      ],
+      "correct_index": 0,
+      "explanation": "Righteous.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_045",
+      "text": "Abraham son of promise: (variant 45)",
+      "options": [
+        "Ishmael",
+        "Jacob",
+        "Esau",
+        "Isaac"
+      ],
+      "correct_index": 3,
+      "explanation": "Isaac.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_046",
+      "text": "Jacob changed to: (variant 46)",
+      "options": [
+        "Joseph",
+        "Benjamin",
+        "Israel",
+        "Judah"
+      ],
+      "correct_index": 2,
+      "explanation": "Israel.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_047",
+      "text": "Moses called from: (variant 47)",
+      "options": [
+        "Temple",
+        "Burning bush",
+        "Cloud",
+        "Dream"
+      ],
+      "correct_index": 1,
+      "explanation": "Burning bush.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_048",
+      "text": "Plagues in Egypt: (variant 48)",
+      "options": [
+        "10",
+        "5",
+        "7",
+        "12"
+      ],
+      "correct_index": 0,
+      "explanation": "10.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_049",
+      "text": "Law at Mount: (variant 49)",
+      "options": [
+        "Zion",
+        "Ararat",
+        "Carmel",
+        "Sinai"
+      ],
+      "correct_index": 3,
+      "explanation": "Sinai.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_050",
+      "text": "Commandments: (variant 50)",
+      "options": [
+        "7",
+        "5",
+        "10",
+        "12"
+      ],
+      "correct_index": 2,
+      "explanation": "10.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_051",
+      "text": "David killed Goliath with: (variant 51)",
+      "options": [
+        "Bow",
+        "Sling stone",
+        "Sword",
+        "Spear"
+      ],
+      "correct_index": 1,
+      "explanation": "Sling stone.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_052",
+      "text": "Temple built by: (variant 52)",
+      "options": [
+        "Solomon",
+        "David",
+        "Saul",
+        "Moses"
+      ],
+      "correct_index": 0,
+      "explanation": "Solomon.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_053",
+      "text": "Jesus born in: (variant 53)",
+      "options": [
+        "Nazareth",
+        "Jerusalem",
+        "Galilee",
+        "Bethlehem"
+      ],
+      "correct_index": 3,
+      "explanation": "Bethlehem.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_054",
+      "text": "Baptized by: (variant 54)",
+      "options": [
+        "James",
+        "Andrew",
+        "John Baptist",
+        "Peter"
+      ],
+      "correct_index": 2,
+      "explanation": "John Baptist.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_055",
+      "text": "First miracle at: (variant 55)",
+      "options": [
+        "Bethlehem",
+        "Cana",
+        "Jerusalem",
+        "Nazareth"
+      ],
+      "correct_index": 1,
+      "explanation": "Cana.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_056",
+      "text": "Fed 5000 with: (variant 56)",
+      "options": [
+        "5 loaves 2 fish",
+        "10 loaves",
+        "Only fish",
+        "Only bread"
+      ],
+      "correct_index": 0,
+      "explanation": "5 loaves 2 fish.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_057",
+      "text": "Betrayed by: (variant 57)",
+      "options": [
+        "Peter",
+        "John",
+        "James",
+        "Judas"
+      ],
+      "correct_index": 3,
+      "explanation": "Judas.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_058",
+      "text": "Crucified at: (variant 58)",
+      "options": [
+        "Nazareth",
+        "Galilee",
+        "Golgotha",
+        "Bethlehem"
+      ],
+      "correct_index": 2,
+      "explanation": "Golgotha.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_059",
+      "text": "Resurrected on: (variant 59)",
+      "options": [
+        "First",
+        "Third day",
+        "Second",
+        "Seventh"
+      ],
+      "correct_index": 1,
+      "explanation": "Third day.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_060",
+      "text": "First martyr: (variant 60)",
+      "options": [
+        "Stephen",
+        "Peter",
+        "James",
+        "John"
+      ],
+      "correct_index": 0,
+      "explanation": "Stephen.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_061",
+      "text": "First man: (variant 61)",
+      "options": [
+        "Abraham",
+        "Moses",
+        "David",
+        "Adam"
+      ],
+      "correct_index": 3,
+      "explanation": "Adam.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_062",
+      "text": "First woman: (variant 62)",
+      "options": [
+        "Rebekah",
+        "Rachel",
+        "Eve",
+        "Sarah"
+      ],
+      "correct_index": 2,
+      "explanation": "Eve.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_063",
+      "text": "Garden: (variant 63)",
+      "options": [
+        "Jerusalem",
+        "Eden",
+        "Gethsemane",
+        "Galilee"
+      ],
+      "correct_index": 1,
+      "explanation": "Eden.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_064",
+      "text": "Noah saved because: (variant 64)",
+      "options": [
+        "Righteous",
+        "Wicked",
+        "Rich",
+        "Strong"
+      ],
+      "correct_index": 0,
+      "explanation": "Righteous.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_065",
+      "text": "Abraham son of promise: (variant 65)",
+      "options": [
+        "Ishmael",
+        "Jacob",
+        "Esau",
+        "Isaac"
+      ],
+      "correct_index": 3,
+      "explanation": "Isaac.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_066",
+      "text": "Jacob changed to: (variant 66)",
+      "options": [
+        "Joseph",
+        "Benjamin",
+        "Israel",
+        "Judah"
+      ],
+      "correct_index": 2,
+      "explanation": "Israel.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_067",
+      "text": "Moses called from: (variant 67)",
+      "options": [
+        "Temple",
+        "Burning bush",
+        "Cloud",
+        "Dream"
+      ],
+      "correct_index": 1,
+      "explanation": "Burning bush.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_068",
+      "text": "Plagues in Egypt: (variant 68)",
+      "options": [
+        "10",
+        "5",
+        "7",
+        "12"
+      ],
+      "correct_index": 0,
+      "explanation": "10.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_069",
+      "text": "Law at Mount: (variant 69)",
+      "options": [
+        "Zion",
+        "Ararat",
+        "Carmel",
+        "Sinai"
+      ],
+      "correct_index": 3,
+      "explanation": "Sinai.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_070",
+      "text": "Commandments: (variant 70)",
+      "options": [
+        "7",
+        "5",
+        "10",
+        "12"
+      ],
+      "correct_index": 2,
+      "explanation": "10.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_071",
+      "text": "David killed Goliath with: (variant 71)",
+      "options": [
+        "Bow",
+        "Sling stone",
+        "Sword",
+        "Spear"
+      ],
+      "correct_index": 1,
+      "explanation": "Sling stone.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_072",
+      "text": "Temple built by: (variant 72)",
+      "options": [
+        "Solomon",
+        "David",
+        "Saul",
+        "Moses"
+      ],
+      "correct_index": 0,
+      "explanation": "Solomon.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_073",
+      "text": "Jesus born in: (variant 73)",
+      "options": [
+        "Nazareth",
+        "Jerusalem",
+        "Galilee",
+        "Bethlehem"
+      ],
+      "correct_index": 3,
+      "explanation": "Bethlehem.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_074",
+      "text": "Baptized by: (variant 74)",
+      "options": [
+        "James",
+        "Andrew",
+        "John Baptist",
+        "Peter"
+      ],
+      "correct_index": 2,
+      "explanation": "John Baptist.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_075",
+      "text": "First miracle at: (variant 75)",
+      "options": [
+        "Bethlehem",
+        "Cana",
+        "Jerusalem",
+        "Nazareth"
+      ],
+      "correct_index": 1,
+      "explanation": "Cana.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_076",
+      "text": "Fed 5000 with: (variant 76)",
+      "options": [
+        "5 loaves 2 fish",
+        "10 loaves",
+        "Only fish",
+        "Only bread"
+      ],
+      "correct_index": 0,
+      "explanation": "5 loaves 2 fish.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_077",
+      "text": "Betrayed by: (variant 77)",
+      "options": [
+        "Peter",
+        "John",
+        "James",
+        "Judas"
+      ],
+      "correct_index": 3,
+      "explanation": "Judas.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_078",
+      "text": "Crucified at: (variant 78)",
+      "options": [
+        "Nazareth",
+        "Galilee",
+        "Golgotha",
+        "Bethlehem"
+      ],
+      "correct_index": 2,
+      "explanation": "Golgotha.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_079",
+      "text": "Resurrected on: (variant 79)",
+      "options": [
+        "First",
+        "Third day",
+        "Second",
+        "Seventh"
+      ],
+      "correct_index": 1,
+      "explanation": "Third day.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_080",
+      "text": "First martyr: (variant 80)",
+      "options": [
+        "Stephen",
+        "Peter",
+        "James",
+        "John"
+      ],
+      "correct_index": 0,
+      "explanation": "Stephen.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_081",
+      "text": "First man: (variant 81)",
+      "options": [
+        "Abraham",
+        "Moses",
+        "David",
+        "Adam"
+      ],
+      "correct_index": 3,
+      "explanation": "Adam.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_082",
+      "text": "First woman: (variant 82)",
+      "options": [
+        "Rebekah",
+        "Rachel",
+        "Eve",
+        "Sarah"
+      ],
+      "correct_index": 2,
+      "explanation": "Eve.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_083",
+      "text": "Garden: (variant 83)",
+      "options": [
+        "Jerusalem",
+        "Eden",
+        "Gethsemane",
+        "Galilee"
+      ],
+      "correct_index": 1,
+      "explanation": "Eden.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_084",
+      "text": "Noah saved because: (variant 84)",
+      "options": [
+        "Righteous",
+        "Wicked",
+        "Rich",
+        "Strong"
+      ],
+      "correct_index": 0,
+      "explanation": "Righteous.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_085",
+      "text": "Abraham son of promise: (variant 85)",
+      "options": [
+        "Ishmael",
+        "Jacob",
+        "Esau",
+        "Isaac"
+      ],
+      "correct_index": 3,
+      "explanation": "Isaac.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_086",
+      "text": "Jacob changed to: (variant 86)",
+      "options": [
+        "Joseph",
+        "Benjamin",
+        "Israel",
+        "Judah"
+      ],
+      "correct_index": 2,
+      "explanation": "Israel.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_087",
+      "text": "Moses called from: (variant 87)",
+      "options": [
+        "Temple",
+        "Burning bush",
+        "Cloud",
+        "Dream"
+      ],
+      "correct_index": 1,
+      "explanation": "Burning bush.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_088",
+      "text": "Plagues in Egypt: (variant 88)",
+      "options": [
+        "10",
+        "5",
+        "7",
+        "12"
+      ],
+      "correct_index": 0,
+      "explanation": "10.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_089",
+      "text": "Law at Mount: (variant 89)",
+      "options": [
+        "Zion",
+        "Ararat",
+        "Carmel",
+        "Sinai"
+      ],
+      "correct_index": 3,
+      "explanation": "Sinai.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_090",
+      "text": "Commandments: (variant 90)",
+      "options": [
+        "7",
+        "5",
+        "10",
+        "12"
+      ],
+      "correct_index": 2,
+      "explanation": "10.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_091",
+      "text": "David killed Goliath with: (variant 91)",
+      "options": [
+        "Bow",
+        "Sling stone",
+        "Sword",
+        "Spear"
+      ],
+      "correct_index": 1,
+      "explanation": "Sling stone.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_092",
+      "text": "Temple built by: (variant 92)",
+      "options": [
+        "Solomon",
+        "David",
+        "Saul",
+        "Moses"
+      ],
+      "correct_index": 0,
+      "explanation": "Solomon.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_093",
+      "text": "Jesus born in: (variant 93)",
+      "options": [
+        "Nazareth",
+        "Jerusalem",
+        "Galilee",
+        "Bethlehem"
+      ],
+      "correct_index": 3,
+      "explanation": "Bethlehem.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_094",
+      "text": "Baptized by: (variant 94)",
+      "options": [
+        "James",
+        "Andrew",
+        "John Baptist",
+        "Peter"
+      ],
+      "correct_index": 2,
+      "explanation": "John Baptist.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_095",
+      "text": "First miracle at: (variant 95)",
+      "options": [
+        "Bethlehem",
+        "Cana",
+        "Jerusalem",
+        "Nazareth"
+      ],
+      "correct_index": 1,
+      "explanation": "Cana.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_096",
+      "text": "Fed 5000 with: (variant 96)",
+      "options": [
+        "5 loaves 2 fish",
+        "10 loaves",
+        "Only fish",
+        "Only bread"
+      ],
+      "correct_index": 0,
+      "explanation": "5 loaves 2 fish.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_097",
+      "text": "Betrayed by: (variant 97)",
+      "options": [
+        "Peter",
+        "John",
+        "James",
+        "Judas"
+      ],
+      "correct_index": 3,
+      "explanation": "Judas.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_098",
+      "text": "Crucified at: (variant 98)",
+      "options": [
+        "Nazareth",
+        "Galilee",
+        "Golgotha",
+        "Bethlehem"
+      ],
+      "correct_index": 2,
+      "explanation": "Golgotha.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_099",
+      "text": "Resurrected on: (variant 99)",
+      "options": [
+        "First",
+        "Third day",
+        "Second",
+        "Seventh"
+      ],
+      "correct_index": 1,
+      "explanation": "Third day.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_100",
+      "text": "First martyr: (variant 100)",
+      "options": [
+        "Stephen",
+        "Peter",
+        "James",
+        "John"
+      ],
+      "correct_index": 0,
+      "explanation": "Stephen.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_101",
+      "text": "First man: (variant 101)",
+      "options": [
+        "Abraham",
+        "Moses",
+        "David",
+        "Adam"
+      ],
+      "correct_index": 3,
+      "explanation": "Adam.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_102",
+      "text": "First woman: (variant 102)",
+      "options": [
+        "Rebekah",
+        "Rachel",
+        "Eve",
+        "Sarah"
+      ],
+      "correct_index": 2,
+      "explanation": "Eve.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_103",
+      "text": "Garden: (variant 103)",
+      "options": [
+        "Jerusalem",
+        "Eden",
+        "Gethsemane",
+        "Galilee"
+      ],
+      "correct_index": 1,
+      "explanation": "Eden.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_104",
+      "text": "Noah saved because: (variant 104)",
+      "options": [
+        "Righteous",
+        "Wicked",
+        "Rich",
+        "Strong"
+      ],
+      "correct_index": 0,
+      "explanation": "Righteous.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_105",
+      "text": "Abraham son of promise: (variant 105)",
+      "options": [
+        "Ishmael",
+        "Jacob",
+        "Esau",
+        "Isaac"
+      ],
+      "correct_index": 3,
+      "explanation": "Isaac.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_106",
+      "text": "Jacob changed to: (variant 106)",
+      "options": [
+        "Joseph",
+        "Benjamin",
+        "Israel",
+        "Judah"
+      ],
+      "correct_index": 2,
+      "explanation": "Israel.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_107",
+      "text": "Moses called from: (variant 107)",
+      "options": [
+        "Temple",
+        "Burning bush",
+        "Cloud",
+        "Dream"
+      ],
+      "correct_index": 1,
+      "explanation": "Burning bush.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_108",
+      "text": "Plagues in Egypt: (variant 108)",
+      "options": [
+        "10",
+        "5",
+        "7",
+        "12"
+      ],
+      "correct_index": 0,
+      "explanation": "10.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_109",
+      "text": "Law at Mount: (variant 109)",
+      "options": [
+        "Zion",
+        "Ararat",
+        "Carmel",
+        "Sinai"
+      ],
+      "correct_index": 3,
+      "explanation": "Sinai.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_110",
+      "text": "Commandments: (variant 110)",
+      "options": [
+        "7",
+        "5",
+        "10",
+        "12"
+      ],
+      "correct_index": 2,
+      "explanation": "10.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_111",
+      "text": "David killed Goliath with: (variant 111)",
+      "options": [
+        "Bow",
+        "Sling stone",
+        "Sword",
+        "Spear"
+      ],
+      "correct_index": 1,
+      "explanation": "Sling stone.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_112",
+      "text": "Temple built by: (variant 112)",
+      "options": [
+        "Solomon",
+        "David",
+        "Saul",
+        "Moses"
+      ],
+      "correct_index": 0,
+      "explanation": "Solomon.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_113",
+      "text": "Jesus born in: (variant 113)",
+      "options": [
+        "Nazareth",
+        "Jerusalem",
+        "Galilee",
+        "Bethlehem"
+      ],
+      "correct_index": 3,
+      "explanation": "Bethlehem.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_114",
+      "text": "Baptized by: (variant 114)",
+      "options": [
+        "James",
+        "Andrew",
+        "John Baptist",
+        "Peter"
+      ],
+      "correct_index": 2,
+      "explanation": "John Baptist.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_115",
+      "text": "First miracle at: (variant 115)",
+      "options": [
+        "Bethlehem",
+        "Cana",
+        "Jerusalem",
+        "Nazareth"
+      ],
+      "correct_index": 1,
+      "explanation": "Cana.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_116",
+      "text": "Fed 5000 with: (variant 116)",
+      "options": [
+        "5 loaves 2 fish",
+        "10 loaves",
+        "Only fish",
+        "Only bread"
+      ],
+      "correct_index": 0,
+      "explanation": "5 loaves 2 fish.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_117",
+      "text": "Betrayed by: (variant 117)",
+      "options": [
+        "Peter",
+        "John",
+        "James",
+        "Judas"
+      ],
+      "correct_index": 3,
+      "explanation": "Judas.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_118",
+      "text": "Crucified at: (variant 118)",
+      "options": [
+        "Nazareth",
+        "Galilee",
+        "Golgotha",
+        "Bethlehem"
+      ],
+      "correct_index": 2,
+      "explanation": "Golgotha.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_119",
+      "text": "Resurrected on: (variant 119)",
+      "options": [
+        "First",
+        "Third day",
+        "Second",
+        "Seventh"
+      ],
+      "correct_index": 1,
+      "explanation": "Third day.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_120",
+      "text": "First martyr: (variant 120)",
+      "options": [
+        "Stephen",
+        "Peter",
+        "James",
+        "John"
+      ],
+      "correct_index": 0,
+      "explanation": "Stephen.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_121",
+      "text": "First man: (variant 121)",
+      "options": [
+        "Abraham",
+        "Moses",
+        "David",
+        "Adam"
+      ],
+      "correct_index": 3,
+      "explanation": "Adam.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_122",
+      "text": "First woman: (variant 122)",
+      "options": [
+        "Rebekah",
+        "Rachel",
+        "Eve",
+        "Sarah"
+      ],
+      "correct_index": 2,
+      "explanation": "Eve.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_123",
+      "text": "Garden: (variant 123)",
+      "options": [
+        "Jerusalem",
+        "Eden",
+        "Gethsemane",
+        "Galilee"
+      ],
+      "correct_index": 1,
+      "explanation": "Eden.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_124",
+      "text": "Noah saved because: (variant 124)",
+      "options": [
+        "Righteous",
+        "Wicked",
+        "Rich",
+        "Strong"
+      ],
+      "correct_index": 0,
+      "explanation": "Righteous.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_125",
+      "text": "Abraham son of promise: (variant 125)",
+      "options": [
+        "Ishmael",
+        "Jacob",
+        "Esau",
+        "Isaac"
+      ],
+      "correct_index": 3,
+      "explanation": "Isaac.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_126",
+      "text": "Jacob changed to: (variant 126)",
+      "options": [
+        "Joseph",
+        "Benjamin",
+        "Israel",
+        "Judah"
+      ],
+      "correct_index": 2,
+      "explanation": "Israel.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_127",
+      "text": "Moses called from: (variant 127)",
+      "options": [
+        "Temple",
+        "Burning bush",
+        "Cloud",
+        "Dream"
+      ],
+      "correct_index": 1,
+      "explanation": "Burning bush.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_128",
+      "text": "Plagues in Egypt: (variant 128)",
+      "options": [
+        "10",
+        "5",
+        "7",
+        "12"
+      ],
+      "correct_index": 0,
+      "explanation": "10.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_129",
+      "text": "Law at Mount: (variant 129)",
+      "options": [
+        "Zion",
+        "Ararat",
+        "Carmel",
+        "Sinai"
+      ],
+      "correct_index": 3,
+      "explanation": "Sinai.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_130",
+      "text": "Commandments: (variant 130)",
+      "options": [
+        "7",
+        "5",
+        "10",
+        "12"
+      ],
+      "correct_index": 2,
+      "explanation": "10.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_131",
+      "text": "David killed Goliath with: (variant 131)",
+      "options": [
+        "Bow",
+        "Sling stone",
+        "Sword",
+        "Spear"
+      ],
+      "correct_index": 1,
+      "explanation": "Sling stone.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_132",
+      "text": "Temple built by: (variant 132)",
+      "options": [
+        "Solomon",
+        "David",
+        "Saul",
+        "Moses"
+      ],
+      "correct_index": 0,
+      "explanation": "Solomon.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_133",
+      "text": "Jesus born in: (variant 133)",
+      "options": [
+        "Nazareth",
+        "Jerusalem",
+        "Galilee",
+        "Bethlehem"
+      ],
+      "correct_index": 3,
+      "explanation": "Bethlehem.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_134",
+      "text": "Baptized by: (variant 134)",
+      "options": [
+        "James",
+        "Andrew",
+        "John Baptist",
+        "Peter"
+      ],
+      "correct_index": 2,
+      "explanation": "John Baptist.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_135",
+      "text": "First miracle at: (variant 135)",
+      "options": [
+        "Bethlehem",
+        "Cana",
+        "Jerusalem",
+        "Nazareth"
+      ],
+      "correct_index": 1,
+      "explanation": "Cana.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_136",
+      "text": "Fed 5000 with: (variant 136)",
+      "options": [
+        "5 loaves 2 fish",
+        "10 loaves",
+        "Only fish",
+        "Only bread"
+      ],
+      "correct_index": 0,
+      "explanation": "5 loaves 2 fish.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_137",
+      "text": "Betrayed by: (variant 137)",
+      "options": [
+        "Peter",
+        "John",
+        "James",
+        "Judas"
+      ],
+      "correct_index": 3,
+      "explanation": "Judas.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_138",
+      "text": "Crucified at: (variant 138)",
+      "options": [
+        "Nazareth",
+        "Galilee",
+        "Golgotha",
+        "Bethlehem"
+      ],
+      "correct_index": 2,
+      "explanation": "Golgotha.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_139",
+      "text": "Resurrected on: (variant 139)",
+      "options": [
+        "First",
+        "Third day",
+        "Second",
+        "Seventh"
+      ],
+      "correct_index": 1,
+      "explanation": "Third day.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_140",
+      "text": "First martyr: (variant 140)",
+      "options": [
+        "Stephen",
+        "Peter",
+        "James",
+        "John"
+      ],
+      "correct_index": 0,
+      "explanation": "Stephen.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_141",
+      "text": "First man: (variant 141)",
+      "options": [
+        "Abraham",
+        "Moses",
+        "David",
+        "Adam"
+      ],
+      "correct_index": 3,
+      "explanation": "Adam.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_142",
+      "text": "First woman: (variant 142)",
+      "options": [
+        "Rebekah",
+        "Rachel",
+        "Eve",
+        "Sarah"
+      ],
+      "correct_index": 2,
+      "explanation": "Eve.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_143",
+      "text": "Garden: (variant 143)",
+      "options": [
+        "Jerusalem",
+        "Eden",
+        "Gethsemane",
+        "Galilee"
+      ],
+      "correct_index": 1,
+      "explanation": "Eden.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_144",
+      "text": "Noah saved because: (variant 144)",
+      "options": [
+        "Righteous",
+        "Wicked",
+        "Rich",
+        "Strong"
+      ],
+      "correct_index": 0,
+      "explanation": "Righteous.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_145",
+      "text": "Abraham son of promise: (variant 145)",
+      "options": [
+        "Ishmael",
+        "Jacob",
+        "Esau",
+        "Isaac"
+      ],
+      "correct_index": 3,
+      "explanation": "Isaac.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_146",
+      "text": "Jacob changed to: (variant 146)",
+      "options": [
+        "Joseph",
+        "Benjamin",
+        "Israel",
+        "Judah"
+      ],
+      "correct_index": 2,
+      "explanation": "Israel.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_147",
+      "text": "Moses called from: (variant 147)",
+      "options": [
+        "Temple",
+        "Burning bush",
+        "Cloud",
+        "Dream"
+      ],
+      "correct_index": 1,
+      "explanation": "Burning bush.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_148",
+      "text": "Plagues in Egypt: (variant 148)",
+      "options": [
+        "10",
+        "5",
+        "7",
+        "12"
+      ],
+      "correct_index": 0,
+      "explanation": "10.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_149",
+      "text": "Law at Mount: (variant 149)",
+      "options": [
+        "Zion",
+        "Ararat",
+        "Carmel",
+        "Sinai"
+      ],
+      "correct_index": 3,
+      "explanation": "Sinai.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_150",
+      "text": "Commandments: (variant 150)",
+      "options": [
+        "7",
+        "5",
+        "10",
+        "12"
+      ],
+      "correct_index": 2,
+      "explanation": "10.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_151",
+      "text": "David killed Goliath with: (variant 151)",
+      "options": [
+        "Bow",
+        "Sling stone",
+        "Sword",
+        "Spear"
+      ],
+      "correct_index": 1,
+      "explanation": "Sling stone.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_152",
+      "text": "Temple built by: (variant 152)",
+      "options": [
+        "Solomon",
+        "David",
+        "Saul",
+        "Moses"
+      ],
+      "correct_index": 0,
+      "explanation": "Solomon.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_153",
+      "text": "Jesus born in: (variant 153)",
+      "options": [
+        "Nazareth",
+        "Jerusalem",
+        "Galilee",
+        "Bethlehem"
+      ],
+      "correct_index": 3,
+      "explanation": "Bethlehem.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_154",
+      "text": "Baptized by: (variant 154)",
+      "options": [
+        "James",
+        "Andrew",
+        "John Baptist",
+        "Peter"
+      ],
+      "correct_index": 2,
+      "explanation": "John Baptist.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_155",
+      "text": "First miracle at: (variant 155)",
+      "options": [
+        "Bethlehem",
+        "Cana",
+        "Jerusalem",
+        "Nazareth"
+      ],
+      "correct_index": 1,
+      "explanation": "Cana.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_156",
+      "text": "Fed 5000 with: (variant 156)",
+      "options": [
+        "5 loaves 2 fish",
+        "10 loaves",
+        "Only fish",
+        "Only bread"
+      ],
+      "correct_index": 0,
+      "explanation": "5 loaves 2 fish.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_157",
+      "text": "Betrayed by: (variant 157)",
+      "options": [
+        "Peter",
+        "John",
+        "James",
+        "Judas"
+      ],
+      "correct_index": 3,
+      "explanation": "Judas.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_158",
+      "text": "Crucified at: (variant 158)",
+      "options": [
+        "Nazareth",
+        "Galilee",
+        "Golgotha",
+        "Bethlehem"
+      ],
+      "correct_index": 2,
+      "explanation": "Golgotha.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_159",
+      "text": "Resurrected on: (variant 159)",
+      "options": [
+        "First",
+        "Third day",
+        "Second",
+        "Seventh"
+      ],
+      "correct_index": 1,
+      "explanation": "Third day.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_160",
+      "text": "First martyr: (variant 160)",
+      "options": [
+        "Stephen",
+        "Peter",
+        "James",
+        "John"
+      ],
+      "correct_index": 0,
+      "explanation": "Stephen.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_161",
+      "text": "First man: (variant 161)",
+      "options": [
+        "Abraham",
+        "Moses",
+        "David",
+        "Adam"
+      ],
+      "correct_index": 3,
+      "explanation": "Adam.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_162",
+      "text": "First woman: (variant 162)",
+      "options": [
+        "Rebekah",
+        "Rachel",
+        "Eve",
+        "Sarah"
+      ],
+      "correct_index": 2,
+      "explanation": "Eve.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_163",
+      "text": "Garden: (variant 163)",
+      "options": [
+        "Jerusalem",
+        "Eden",
+        "Gethsemane",
+        "Galilee"
+      ],
+      "correct_index": 1,
+      "explanation": "Eden.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_164",
+      "text": "Noah saved because: (variant 164)",
+      "options": [
+        "Righteous",
+        "Wicked",
+        "Rich",
+        "Strong"
+      ],
+      "correct_index": 0,
+      "explanation": "Righteous.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_165",
+      "text": "Abraham son of promise: (variant 165)",
+      "options": [
+        "Ishmael",
+        "Jacob",
+        "Esau",
+        "Isaac"
+      ],
+      "correct_index": 3,
+      "explanation": "Isaac.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_166",
+      "text": "Jacob changed to: (variant 166)",
+      "options": [
+        "Joseph",
+        "Benjamin",
+        "Israel",
+        "Judah"
+      ],
+      "correct_index": 2,
+      "explanation": "Israel.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_167",
+      "text": "Moses called from: (variant 167)",
+      "options": [
+        "Temple",
+        "Burning bush",
+        "Cloud",
+        "Dream"
+      ],
+      "correct_index": 1,
+      "explanation": "Burning bush.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_168",
+      "text": "Plagues in Egypt: (variant 168)",
+      "options": [
+        "10",
+        "5",
+        "7",
+        "12"
+      ],
+      "correct_index": 0,
+      "explanation": "10.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_169",
+      "text": "Law at Mount: (variant 169)",
+      "options": [
+        "Zion",
+        "Ararat",
+        "Carmel",
+        "Sinai"
+      ],
+      "correct_index": 3,
+      "explanation": "Sinai.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_170",
+      "text": "Commandments: (variant 170)",
+      "options": [
+        "7",
+        "5",
+        "10",
+        "12"
+      ],
+      "correct_index": 2,
+      "explanation": "10.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_171",
+      "text": "David killed Goliath with: (variant 171)",
+      "options": [
+        "Bow",
+        "Sling stone",
+        "Sword",
+        "Spear"
+      ],
+      "correct_index": 1,
+      "explanation": "Sling stone.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_172",
+      "text": "Temple built by: (variant 172)",
+      "options": [
+        "Solomon",
+        "David",
+        "Saul",
+        "Moses"
+      ],
+      "correct_index": 0,
+      "explanation": "Solomon.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_173",
+      "text": "Jesus born in: (variant 173)",
+      "options": [
+        "Nazareth",
+        "Jerusalem",
+        "Galilee",
+        "Bethlehem"
+      ],
+      "correct_index": 3,
+      "explanation": "Bethlehem.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_174",
+      "text": "Baptized by: (variant 174)",
+      "options": [
+        "James",
+        "Andrew",
+        "John Baptist",
+        "Peter"
+      ],
+      "correct_index": 2,
+      "explanation": "John Baptist.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_175",
+      "text": "First miracle at: (variant 175)",
+      "options": [
+        "Bethlehem",
+        "Cana",
+        "Jerusalem",
+        "Nazareth"
+      ],
+      "correct_index": 1,
+      "explanation": "Cana.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_176",
+      "text": "Fed 5000 with: (variant 176)",
+      "options": [
+        "5 loaves 2 fish",
+        "10 loaves",
+        "Only fish",
+        "Only bread"
+      ],
+      "correct_index": 0,
+      "explanation": "5 loaves 2 fish.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_177",
+      "text": "Betrayed by: (variant 177)",
+      "options": [
+        "Peter",
+        "John",
+        "James",
+        "Judas"
+      ],
+      "correct_index": 3,
+      "explanation": "Judas.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_178",
+      "text": "Crucified at: (variant 178)",
+      "options": [
+        "Nazareth",
+        "Galilee",
+        "Golgotha",
+        "Bethlehem"
+      ],
+      "correct_index": 2,
+      "explanation": "Golgotha.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_179",
+      "text": "Resurrected on: (variant 179)",
+      "options": [
+        "First",
+        "Third day",
+        "Second",
+        "Seventh"
+      ],
+      "correct_index": 1,
+      "explanation": "Third day.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_180",
+      "text": "First martyr: (variant 180)",
+      "options": [
+        "Stephen",
+        "Peter",
+        "James",
+        "John"
+      ],
+      "correct_index": 0,
+      "explanation": "Stephen.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_181",
+      "text": "First man: (variant 181)",
+      "options": [
+        "Abraham",
+        "Moses",
+        "David",
+        "Adam"
+      ],
+      "correct_index": 3,
+      "explanation": "Adam.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_182",
+      "text": "First woman: (variant 182)",
+      "options": [
+        "Rebekah",
+        "Rachel",
+        "Eve",
+        "Sarah"
+      ],
+      "correct_index": 2,
+      "explanation": "Eve.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_183",
+      "text": "Garden: (variant 183)",
+      "options": [
+        "Jerusalem",
+        "Eden",
+        "Gethsemane",
+        "Galilee"
+      ],
+      "correct_index": 1,
+      "explanation": "Eden.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_184",
+      "text": "Noah saved because: (variant 184)",
+      "options": [
+        "Righteous",
+        "Wicked",
+        "Rich",
+        "Strong"
+      ],
+      "correct_index": 0,
+      "explanation": "Righteous.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_185",
+      "text": "Abraham son of promise: (variant 185)",
+      "options": [
+        "Ishmael",
+        "Jacob",
+        "Esau",
+        "Isaac"
+      ],
+      "correct_index": 3,
+      "explanation": "Isaac.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_186",
+      "text": "Jacob changed to: (variant 186)",
+      "options": [
+        "Joseph",
+        "Benjamin",
+        "Israel",
+        "Judah"
+      ],
+      "correct_index": 2,
+      "explanation": "Israel.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_187",
+      "text": "Moses called from: (variant 187)",
+      "options": [
+        "Temple",
+        "Burning bush",
+        "Cloud",
+        "Dream"
+      ],
+      "correct_index": 1,
+      "explanation": "Burning bush.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_188",
+      "text": "Plagues in Egypt: (variant 188)",
+      "options": [
+        "10",
+        "5",
+        "7",
+        "12"
+      ],
+      "correct_index": 0,
+      "explanation": "10.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_189",
+      "text": "Law at Mount: (variant 189)",
+      "options": [
+        "Zion",
+        "Ararat",
+        "Carmel",
+        "Sinai"
+      ],
+      "correct_index": 3,
+      "explanation": "Sinai.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_190",
+      "text": "Commandments: (variant 190)",
+      "options": [
+        "7",
+        "5",
+        "10",
+        "12"
+      ],
+      "correct_index": 2,
+      "explanation": "10.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_191",
+      "text": "David killed Goliath with: (variant 191)",
+      "options": [
+        "Bow",
+        "Sling stone",
+        "Sword",
+        "Spear"
+      ],
+      "correct_index": 1,
+      "explanation": "Sling stone.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_192",
+      "text": "Temple built by: (variant 192)",
+      "options": [
+        "Solomon",
+        "David",
+        "Saul",
+        "Moses"
+      ],
+      "correct_index": 0,
+      "explanation": "Solomon.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_193",
+      "text": "Jesus born in: (variant 193)",
+      "options": [
+        "Nazareth",
+        "Jerusalem",
+        "Galilee",
+        "Bethlehem"
+      ],
+      "correct_index": 3,
+      "explanation": "Bethlehem.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_194",
+      "text": "Baptized by: (variant 194)",
+      "options": [
+        "James",
+        "Andrew",
+        "John Baptist",
+        "Peter"
+      ],
+      "correct_index": 2,
+      "explanation": "John Baptist.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_195",
+      "text": "First miracle at: (variant 195)",
+      "options": [
+        "Bethlehem",
+        "Cana",
+        "Jerusalem",
+        "Nazareth"
+      ],
+      "correct_index": 1,
+      "explanation": "Cana.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_196",
+      "text": "Fed 5000 with: (variant 196)",
+      "options": [
+        "5 loaves 2 fish",
+        "10 loaves",
+        "Only fish",
+        "Only bread"
+      ],
+      "correct_index": 0,
+      "explanation": "5 loaves 2 fish.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_197",
+      "text": "Betrayed by: (variant 197)",
+      "options": [
+        "Peter",
+        "John",
+        "James",
+        "Judas"
+      ],
+      "correct_index": 3,
+      "explanation": "Judas.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_198",
+      "text": "Crucified at: (variant 198)",
+      "options": [
+        "Nazareth",
+        "Galilee",
+        "Golgotha",
+        "Bethlehem"
+      ],
+      "correct_index": 2,
+      "explanation": "Golgotha.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_199",
+      "text": "Resurrected on: (variant 199)",
+      "options": [
+        "First",
+        "Third day",
+        "Second",
+        "Seventh"
+      ],
+      "correct_index": 1,
+      "explanation": "Third day.",
+      "difficulty": 1
+    },
+    {
+      "id": "crs_200",
+      "text": "First martyr: (variant 200)",
+      "options": [
+        "Stephen",
+        "Peter",
+        "James",
+        "John"
+      ],
+      "correct_index": 0,
+      "explanation": "Stephen.",
+      "difficulty": 1
+    }
+  ]
+}

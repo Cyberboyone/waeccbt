@@ -1,0 +1,2607 @@
+{
+  "course_id": "com",
+  "course_name": "Commerce",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "com_001",
+      "text": "Commerce is best defined as the:",
+      "options": [
+        "Distribution and exchange of goods and services",
+        "Manufacturing only",
+        "Banking only",
+        "Production of goods"
+      ],
+      "correct_index": 0,
+      "explanation": "Commerce covers distribution and exchange.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_002",
+      "text": "Commerce is divided into:",
+      "options": [
+        "Import and export",
+        "Buying and selling",
+        "Trade and aids to trade",
+        "Production and consumption"
+      ],
+      "correct_index": 2,
+      "explanation": "Commerce = trade + aids to trade.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_003",
+      "text": "Trade is the:",
+      "options": [
+        "Insurance",
+        "Production of goods",
+        "Buying and selling of goods and services",
+        "Banking"
+      ],
+      "correct_index": 2,
+      "explanation": "Trade = buying and selling.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_004",
+      "text": "Home trade is trade:",
+      "options": [
+        "Between countries",
+        "Within a country",
+        "Only in cities",
+        "Only online"
+      ],
+      "correct_index": 1,
+      "explanation": "Home trade is within one country.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_005",
+      "text": "Foreign trade is trade:",
+      "options": [
+        "Between countries",
+        "Only in villages",
+        "Between regions",
+        "Within a country"
+      ],
+      "correct_index": 0,
+      "explanation": "Foreign trade crosses borders.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_006",
+      "text": "An occupation is a person's:",
+      "options": [
+        "Religion",
+        "Family",
+        "Hobby",
+        "Means of earning a living"
+      ],
+      "correct_index": 3,
+      "explanation": "An occupation is one's job/vocation.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_007",
+      "text": "Occupations are broadly divided into:",
+      "options": [
+        "Paid and unpaid",
+        "Industrial, commercial and service",
+        "Manual and skilled",
+        "Urban and rural"
+      ],
+      "correct_index": 1,
+      "explanation": "Occupations: industrial, commercial, service.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_008",
+      "text": "A person who works in a bank is in the ___ occupation.",
+      "options": [
+        "Industrial",
+        "Commercial",
+        "Service",
+        "Extractive"
+      ],
+      "correct_index": 2,
+      "explanation": "Banking is a service occupation.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_009",
+      "text": "A farmer is in the ___ occupation.",
+      "options": [
+        "Service",
+        "Industrial (extractive)",
+        "Manufacturing",
+        "Commercial"
+      ],
+      "correct_index": 1,
+      "explanation": "Farming is extractive industry.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_010",
+      "text": "A tailor is in the ___ occupation.",
+      "options": [
+        "Commercial",
+        "Direct service",
+        "Extractive",
+        "Manufacturing/industrial"
+      ],
+      "correct_index": 3,
+      "explanation": "Tailoring is manufacturing.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_011",
+      "text": "Production is the creation of:",
+      "options": [
+        "Waste",
+        "Money",
+        "Utility",
+        "Problems"
+      ],
+      "correct_index": 2,
+      "explanation": "Production creates utility.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_012",
+      "text": "The three stages of production are:",
+      "options": [
+        "Primary, secondary, tertiary",
+        "Start, middle, end",
+        "Buying, selling, profit",
+        "Input, process, cost"
+      ],
+      "correct_index": 0,
+      "explanation": "Production stages: primary, secondary, tertiary.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_013",
+      "text": "Primary production involves:",
+      "options": [
+        "Extracting raw materials",
+        "Services",
+        "Retailing",
+        "Manufacturing"
+      ],
+      "correct_index": 0,
+      "explanation": "Primary production extracts raw materials.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_014",
+      "text": "Secondary production involves:",
+      "options": [
+        "Services",
+        "Farming only",
+        "Extraction",
+        "Manufacturing/processing"
+      ],
+      "correct_index": 3,
+      "explanation": "Secondary production manufactures goods.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_015",
+      "text": "Tertiary production involves:",
+      "options": [
+        "Farming",
+        "Manufacturing",
+        "Providing services",
+        "Mining"
+      ],
+      "correct_index": 2,
+      "explanation": "Tertiary = services.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_016",
+      "text": "The extractive industry is concerned with:",
+      "options": [
+        "Retailing",
+        "Obtaining raw materials from nature",
+        "Banking",
+        "Transport"
+      ],
+      "correct_index": 1,
+      "explanation": "Extractive industry gets natural resources.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_017",
+      "text": "Which of the following is an extractive industry?",
+      "options": [
+        "Fishing",
+        "Tailoring",
+        "Transport",
+        "Banking"
+      ],
+      "correct_index": 0,
+      "explanation": "Fishing extracts from nature.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_018",
+      "text": "The manufacturing industry is concerned with:",
+      "options": [
+        "Services",
+        "Trade",
+        "Extraction",
+        "Converting raw materials to finished goods"
+      ],
+      "correct_index": 3,
+      "explanation": "Manufacturing converts raw materials.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_019",
+      "text": "Division of labour is the:",
+      "options": [
+        "Hiring more staff",
+        "Splitting work into tasks",
+        "Working alone",
+        "Reducing workers"
+      ],
+      "correct_index": 1,
+      "explanation": "Division of labour splits tasks.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_020",
+      "text": "Specialisation increases:",
+      "options": [
+        "Costs",
+        "Productivity",
+        "Errors",
+        "Time"
+      ],
+      "correct_index": 1,
+      "explanation": "Specialisation raises productivity.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_021",
+      "text": "A disadvantage of division of labour is:",
+      "options": [
+        "Monotony",
+        "Lower costs",
+        "More skill",
+        "Higher output"
+      ],
+      "correct_index": 0,
+      "explanation": "Repetitive work causes boredom.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_022",
+      "text": "The two main types of trade are:",
+      "options": [
+        "Retail and wholesale",
+        "Cash and credit",
+        "Home and foreign trade",
+        "Import and export"
+      ],
+      "correct_index": 2,
+      "explanation": "Trade = home + foreign.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_023",
+      "text": "Retail trade is selling to the:",
+      "options": [
+        "Exporter",
+        "Wholesaler",
+        "Final consumer",
+        "Manufacturer"
+      ],
+      "correct_index": 2,
+      "explanation": "Retail sells to final consumers.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_024",
+      "text": "Wholesale trade is selling to:",
+      "options": [
+        "Consumers",
+        "Retailers (for resale)",
+        "Manufacturers only",
+        "Government only"
+      ],
+      "correct_index": 1,
+      "explanation": "Wholesale sells to retailers.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_025",
+      "text": "The middleman who buys from the producer and sells to the retailer is the:",
+      "options": [
+        "Wholesaler",
+        "Retailer",
+        "Agent",
+        "Consumer"
+      ],
+      "correct_index": 0,
+      "explanation": "The wholesaler links producer and retailer.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_026",
+      "text": "The middleman who sells directly to consumers is the:",
+      "options": [
+        "Producer",
+        "Agent",
+        "Wholesaler",
+        "Retailer"
+      ],
+      "correct_index": 3,
+      "explanation": "The retailer sells to consumers.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_027",
+      "text": "The removal of middlemen from distribution is called:",
+      "options": [
+        "Retailing",
+        "Channel",
+        "Eliminating middlemen (direct selling)",
+        "Wholesaling"
+      ],
+      "correct_index": 2,
+      "explanation": "Removing middlemen = direct distribution.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_028",
+      "text": "Goods sold to other countries are:",
+      "options": [
+        "Imports",
+        "Exports",
+        "Capital",
+        "Aids"
+      ],
+      "correct_index": 1,
+      "explanation": "Exports are sold abroad.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_029",
+      "text": "Goods bought from other countries are:",
+      "options": [
+        "Imports",
+        "Capital",
+        "Aids",
+        "Exports"
+      ],
+      "correct_index": 0,
+      "explanation": "Imports are bought from abroad.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_030",
+      "text": "A document that lists the goods shipped is the:",
+      "options": [
+        "Cheque",
+        "Receipt",
+        "Invoice",
+        "Bill of lading"
+      ],
+      "correct_index": 3,
+      "explanation": "A bill of lading lists shipped goods.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_031",
+      "text": "The document that states the price and terms of sale is the:",
+      "options": [
+        "Voucher",
+        "Bill of lading",
+        "Invoice",
+        "Pro forma"
+      ],
+      "correct_index": 2,
+      "explanation": "An invoice states price/terms.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_032",
+      "text": "The document used to request payment for goods is the:",
+      "options": [
+        "Invoice",
+        "Order",
+        "Receipt",
+        "Bill of lading"
+      ],
+      "correct_index": 0,
+      "explanation": "An invoice requests payment.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_033",
+      "text": "Cash-and-carry trade is where the buyer:",
+      "options": [
+        "Pays cash and takes goods away",
+        "Orders online",
+        "Barters",
+        "Buys on credit"
+      ],
+      "correct_index": 0,
+      "explanation": "Cash-and-carry: pay and collect.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_034",
+      "text": "Credit trade is where the buyer:",
+      "options": [
+        "Barters",
+        "Pays more",
+        "Pays immediately",
+        "Pays later"
+      ],
+      "correct_index": 3,
+      "explanation": "Credit trade defers payment.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_035",
+      "text": "Barter is the exchange of:",
+      "options": [
+        "Services for cash",
+        "Goods for money",
+        "Goods for goods",
+        "Money for money"
+      ],
+      "correct_index": 2,
+      "explanation": "Barter = goods for goods.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_036",
+      "text": "The main disadvantage of barter is:",
+      "options": [
+        "Too much money",
+        "Double coincidence of wants",
+        "Low taxes",
+        "High prices"
+      ],
+      "correct_index": 1,
+      "explanation": "Barter needs a double coincidence of wants.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_037",
+      "text": "Entrepot trade is the:",
+      "options": [
+        "Retail trade",
+        "Wholesale trade",
+        "Home trade",
+        "Import of goods for re-export"
+      ],
+      "correct_index": 3,
+      "explanation": "Entrepot = import for re-export.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_038",
+      "text": "Visible trade refers to trade in:",
+      "options": [
+        "Invisibles",
+        "Tourism",
+        "Services",
+        "Tangible goods"
+      ],
+      "correct_index": 3,
+      "explanation": "Visible trade = goods.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_039",
+      "text": "Invisible trade refers to trade in:",
+      "options": [
+        "Machinery",
+        "Goods",
+        "Services",
+        "Raw materials"
+      ],
+      "correct_index": 2,
+      "explanation": "Invisible trade = services.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_040",
+      "text": "A contract of sale is an agreement where:",
+      "options": [
+        "Goods are donated",
+        "Ownership of goods transfers for a price",
+        "Services are free",
+        "Nothing happens"
+      ],
+      "correct_index": 1,
+      "explanation": "A sale transfers ownership for a price.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_041",
+      "text": "The document sent by a buyer to order goods is the:",
+      "options": [
+        "Purchase order",
+        "Receipt",
+        "Bill",
+        "Invoice"
+      ],
+      "correct_index": 0,
+      "explanation": "A purchase order orders goods.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_042",
+      "text": "The document sent by a seller quoting prices is the:",
+      "options": [
+        "Receipt",
+        "Invoice",
+        "Order",
+        "Quotation"
+      ],
+      "correct_index": 3,
+      "explanation": "A quotation states prices.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_043",
+      "text": "A document confirming receipt of goods is the:",
+      "options": [
+        "Quotation",
+        "Invoice",
+        "Delivery note",
+        "Order"
+      ],
+      "correct_index": 2,
+      "explanation": "A delivery note confirms delivery.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_044",
+      "text": "A trade discount is given to:",
+      "options": [
+        "Consumers",
+        "Traders/bulk buyers",
+        "Employees",
+        "Government"
+      ],
+      "correct_index": 1,
+      "explanation": "Trade discounts go to traders.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_045",
+      "text": "A cash discount is given for:",
+      "options": [
+        "Prompt payment",
+        "Old customers",
+        "Advertising",
+        "Bulk buying"
+      ],
+      "correct_index": 0,
+      "explanation": "Cash discounts reward prompt payment.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_046",
+      "text": "The aids to trade include all EXCEPT:",
+      "options": [
+        "Insurance",
+        "Production",
+        "Transport",
+        "Banking"
+      ],
+      "correct_index": 1,
+      "explanation": "Production is not an aid to trade.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_047",
+      "text": "Banking aids trade by:",
+      "options": [
+        "Advertising",
+        "Transporting goods",
+        "Providing finance and payments",
+        "Insuring goods"
+      ],
+      "correct_index": 2,
+      "explanation": "Banks finance and process payments.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_048",
+      "text": "Insurance aids trade by:",
+      "options": [
+        "Transporting goods",
+        "Spreading risk",
+        "Making goods",
+        "Advertising"
+      ],
+      "correct_index": 1,
+      "explanation": "Insurance spreads risk.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_049",
+      "text": "Transport aids trade by:",
+      "options": [
+        "Moving goods to where needed",
+        "Insuring goods",
+        "Banking",
+        "Making goods"
+      ],
+      "correct_index": 0,
+      "explanation": "Transport moves goods.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_050",
+      "text": "Advertising aids trade by:",
+      "options": [
+        "Insuring",
+        "Banking",
+        "Producing goods",
+        "Informing consumers about products"
+      ],
+      "correct_index": 3,
+      "explanation": "Advertising informs consumers.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_051",
+      "text": "Warehousing aids trade by:",
+      "options": [
+        "Advertising",
+        "Producing goods",
+        "Storing goods",
+        "Insuring"
+      ],
+      "correct_index": 2,
+      "explanation": "Warehousing stores goods.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_052",
+      "text": "Communication aids trade by:",
+      "options": [
+        "Making goods",
+        "Linking buyers and sellers",
+        "Insuring",
+        "Transporting"
+      ],
+      "correct_index": 1,
+      "explanation": "Communication links parties.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_053",
+      "text": "The modes of transport include:",
+      "options": [
+        "Road and rail only",
+        "Air and sea only",
+        "Pipeline only",
+        "Land, air, water"
+      ],
+      "correct_index": 3,
+      "explanation": "Transport modes: land, air, water, pipeline.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_054",
+      "text": "The fastest mode of transport is:",
+      "options": [
+        "Sea",
+        "Rail",
+        "Road",
+        "Air"
+      ],
+      "correct_index": 3,
+      "explanation": "Air transport is fastest.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_055",
+      "text": "The cheapest mode of transport for bulky goods over long sea distances is:",
+      "options": [
+        "Rail",
+        "Air",
+        "Water (sea)",
+        "Road"
+      ],
+      "correct_index": 2,
+      "explanation": "Sea transport is cheapest for bulk.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_056",
+      "text": "A business owned by one person is a:",
+      "options": [
+        "Partnership",
+        "Sole proprietorship",
+        "Company",
+        "Cooperative"
+      ],
+      "correct_index": 1,
+      "explanation": "A sole proprietorship has one owner.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_057",
+      "text": "A business owned by two to twenty people is a:",
+      "options": [
+        "Partnership",
+        "Company",
+        "Cooperative",
+        "Sole trader"
+      ],
+      "correct_index": 0,
+      "explanation": "A partnership has 2–20 partners.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_058",
+      "text": "A limited liability company has owners called:",
+      "options": [
+        "Sole traders",
+        "Members only",
+        "Partners",
+        "Shareholders"
+      ],
+      "correct_index": 3,
+      "explanation": "Company owners are shareholders.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_059",
+      "text": "A private limited company's name ends with:",
+      "options": [
+        "Corp",
+        "PLC",
+        "Ltd",
+        "Inc"
+      ],
+      "correct_index": 2,
+      "explanation": "Private companies use 'Ltd'.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_060",
+      "text": "A public limited company's name ends with:",
+      "options": [
+        "Ltd",
+        "PLC",
+        "Co",
+        "Inc"
+      ],
+      "correct_index": 1,
+      "explanation": "Public companies use 'PLC'.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_061",
+      "text": "A public limited company can sell shares to the:",
+      "options": [
+        "Only founders",
+        "Only employees",
+        "No one",
+        "Public"
+      ],
+      "correct_index": 3,
+      "explanation": "PLCs sell shares to the public.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_062",
+      "text": "The liability of a sole proprietor is:",
+      "options": [
+        "Zero",
+        "Shared",
+        "Limited",
+        "Unlimited"
+      ],
+      "correct_index": 3,
+      "explanation": "Sole traders have unlimited liability.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_063",
+      "text": "The liability of shareholders in a company is:",
+      "options": [
+        "Shared equally",
+        "Unlimited",
+        "Limited to their investment",
+        "Zero"
+      ],
+      "correct_index": 2,
+      "explanation": "Shareholders' liability is limited.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_064",
+      "text": "A cooperative society is owned and run by:",
+      "options": [
+        "One person",
+        "Its members",
+        "The government",
+        "Shareholders"
+      ],
+      "correct_index": 1,
+      "explanation": "Cooperatives are member-owned.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_065",
+      "text": "A business formed to provide a service to members is a:",
+      "options": [
+        "Cooperative",
+        "Partnership",
+        "PLC",
+        "Sole trader"
+      ],
+      "correct_index": 0,
+      "explanation": "Cooperatives serve members.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_066",
+      "text": "The document that sets out a company's rules is the:",
+      "options": [
+        "Receipt",
+        "Bill",
+        "Invoice",
+        "Memorandum and Articles of Association"
+      ],
+      "correct_index": 3,
+      "explanation": "The Memorandum/Articles set company rules.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_067",
+      "text": "A partnership is governed by a:",
+      "options": [
+        "Cheque",
+        "Deed of partnership",
+        "Invoice",
+        "Receipt"
+      ],
+      "correct_index": 1,
+      "explanation": "A partnership deed governs partners.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_068",
+      "text": "A state-owned enterprise is owned by the:",
+      "options": [
+        "Public",
+        "Government",
+        "Private individuals",
+        "Foreigners"
+      ],
+      "correct_index": 1,
+      "explanation": "State enterprises are government-owned.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_069",
+      "text": "The process of selling a state enterprise to private owners is:",
+      "options": [
+        "Privatisation",
+        "Indigenisation",
+        "Commercialisation",
+        "Nationalisation"
+      ],
+      "correct_index": 0,
+      "explanation": "Privatisation sells to private owners.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_070",
+      "text": "The process of transferring private enterprises to the state is:",
+      "options": [
+        "Liberalisation",
+        "Deregulation",
+        "Privatisation",
+        "Nationalisation"
+      ],
+      "correct_index": 3,
+      "explanation": "Nationalisation transfers to the state.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_071",
+      "text": "A multinational company operates in:",
+      "options": [
+        "One state",
+        "One country",
+        "Many countries",
+        "One city"
+      ],
+      "correct_index": 2,
+      "explanation": "Multinationals operate in many countries.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_072",
+      "text": "A holding company is one that:",
+      "options": [
+        "Produces goods",
+        "Owns shares in other companies",
+        "Only banks",
+        "Only insures"
+      ],
+      "correct_index": 1,
+      "explanation": "A holding company owns other companies' shares.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_073",
+      "text": "A cartel is a group of firms that:",
+      "options": [
+        "Agree to control prices/output",
+        "Produce different goods",
+        "Only trade",
+        "Compete"
+      ],
+      "correct_index": 0,
+      "explanation": "Cartels control prices/output.",
+      "difficulty": 2
+    },
+    {
+      "id": "com_074",
+      "text": "A merger is the:",
+      "options": [
+        "Bankruptcy",
+        "Sale of assets",
+        "Split of a firm",
+        "Combination of two or more firms"
+      ],
+      "correct_index": 3,
+      "explanation": "A merger combines firms.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_075",
+      "text": "The body that registers companies in Nigeria is the:",
+      "options": [
+        "FIRS",
+        "CBN",
+        "Corporate Affairs Commission (CAC)",
+        "NDIC"
+      ],
+      "correct_index": 2,
+      "explanation": "The CAC registers companies.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_076",
+      "text": "The capital contributed by the owner to start a business is:",
+      "options": [
+        "Loan",
+        "Owners' capital/equity",
+        "Overdraft",
+        "Grant"
+      ],
+      "correct_index": 1,
+      "explanation": "Owners' capital is initial funding.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_077",
+      "text": "Borrowed capital is also called:",
+      "options": [
+        "Loan capital",
+        "Profit",
+        "Revenue",
+        "Equity"
+      ],
+      "correct_index": 0,
+      "explanation": "Borrowed capital is debt.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_078",
+      "text": "A loan that is repayable over a long period is a:",
+      "options": [
+        "Overdraft",
+        "Grant",
+        "Short-term loan",
+        "Long-term loan"
+      ],
+      "correct_index": 3,
+      "explanation": "Long-term loans span years.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_079",
+      "text": "An overdraft is a facility that allows an account holder to:",
+      "options": [
+        "Save money",
+        "Earn interest",
+        "Withdraw more than the balance",
+        "Buy shares"
+      ],
+      "correct_index": 2,
+      "explanation": "Overdrafts allow over-withdrawal.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_080",
+      "text": "The interest paid on a loan is the:",
+      "options": [
+        "Principal",
+        "Cost of borrowing",
+        "Profit",
+        "Deposit"
+      ],
+      "correct_index": 1,
+      "explanation": "Interest is the cost of borrowing.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_081",
+      "text": "The principal of a loan is the:",
+      "options": [
+        "Original amount borrowed",
+        "Profit",
+        "Fee",
+        "Interest"
+      ],
+      "correct_index": 0,
+      "explanation": "Principal = original sum borrowed.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_082",
+      "text": "Venture capital is funding provided to:",
+      "options": [
+        "Government",
+        "Banks",
+        "Established firms",
+        "New/risky businesses with growth potential"
+      ],
+      "correct_index": 3,
+      "explanation": "Venture capital funds startups.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_083",
+      "text": "A trade association is an organisation of:",
+      "options": [
+        "Government",
+        "Consumers",
+        "Firms in the same industry",
+        "Workers"
+      ],
+      "correct_index": 2,
+      "explanation": "Trade associations unite firms in an industry.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_084",
+      "text": "A chamber of commerce is an association of:",
+      "options": [
+        "Workers",
+        "Businesses in a locality",
+        "Farmers",
+        "Students"
+      ],
+      "correct_index": 1,
+      "explanation": "Chambers of commerce represent local businesses.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_085",
+      "text": "The manufacturers' association of Nigeria is the:",
+      "options": [
+        "MAN",
+        "NACCIMA",
+        "CBN",
+        "NLC"
+      ],
+      "correct_index": 0,
+      "explanation": "MAN = Manufacturers Association of Nigeria.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_086",
+      "text": "NACCIMA represents:",
+      "options": [
+        "Farmers",
+        "Banks",
+        "Workers",
+        "Chambers of commerce and industry"
+      ],
+      "correct_index": 3,
+      "explanation": "NACCIMA = national chamber body.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_087",
+      "text": "The functions of money include all EXCEPT:",
+      "options": [
+        "Production of goods",
+        "Medium of exchange",
+        "Store of value",
+        "Unit of account"
+      ],
+      "correct_index": 0,
+      "explanation": "Money does not produce goods.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_088",
+      "text": "Legal tender is money that:",
+      "options": [
+        "Must be accepted for payment",
+        "Can be refused",
+        "Is foreign",
+        "Is illegal"
+      ],
+      "correct_index": 0,
+      "explanation": "Legal tender must be accepted.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_089",
+      "text": "The coins and notes issued by the central bank are:",
+      "options": [
+        "Currency",
+        "Cheques",
+        "Shares",
+        "Deposits"
+      ],
+      "correct_index": 0,
+      "explanation": "Currency = coins and notes.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_090",
+      "text": "The currency of Nigeria is the:",
+      "options": [
+        "Cedi",
+        "Pound",
+        "Dollar",
+        "Naira"
+      ],
+      "correct_index": 3,
+      "explanation": "Nigeria's currency is the naira.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_091",
+      "text": "The body that issues currency in Nigeria is the:",
+      "options": [
+        "FIRS",
+        "Commercial banks",
+        "Central Bank of Nigeria",
+        "Ministry of Finance"
+      ],
+      "correct_index": 2,
+      "explanation": "The CBN issues currency.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_092",
+      "text": "Bank deposits that can be withdrawn on demand are:",
+      "options": [
+        "Fixed deposits",
+        "Demand deposits",
+        "Shares",
+        "Bonds"
+      ],
+      "correct_index": 1,
+      "explanation": "Demand deposits are withdrawable anytime.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_093",
+      "text": "A fixed deposit account:",
+      "options": [
+        "Locks money for a fixed period",
+        "Is a current account",
+        "Has no interest",
+        "Allows instant withdrawal"
+      ],
+      "correct_index": 0,
+      "explanation": "Fixed deposits lock funds for a term.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_094",
+      "text": "Near money refers to assets:",
+      "options": [
+        "That cannot be converted",
+        "That are illegal",
+        "That are cash",
+        "Easily convertible to cash"
+      ],
+      "correct_index": 3,
+      "explanation": "Near money converts easily to cash.",
+      "difficulty": 2
+    },
+    {
+      "id": "com_095",
+      "text": "A stock exchange is a market for:",
+      "options": [
+        "Land",
+        "Goods",
+        "Shares and securities",
+        "Labour"
+      ],
+      "correct_index": 2,
+      "explanation": "Stock exchanges trade shares.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_096",
+      "text": "The stock exchange in Nigeria is the:",
+      "options": [
+        "Abuja Stock Exchange",
+        "Nigerian Exchange (NGX)",
+        "Lagos Trade Exchange",
+        "CBN"
+      ],
+      "correct_index": 1,
+      "explanation": "Nigeria's exchange is NGX (formerly NSE).",
+      "difficulty": 1
+    },
+    {
+      "id": "com_097",
+      "text": "A share represents:",
+      "options": [
+        "Ownership in a company",
+        "A debt",
+        "A bond",
+        "A loan"
+      ],
+      "correct_index": 0,
+      "explanation": "Shares represent ownership.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_098",
+      "text": "A person who buys and sells shares for others is a:",
+      "options": [
+        "Auditor",
+        "Insurer",
+        "Banker",
+        "Stockbroker"
+      ],
+      "correct_index": 3,
+      "explanation": "Stockbrokers trade shares.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_099",
+      "text": "The market where new shares are first sold is the:",
+      "options": [
+        "Forex market",
+        "Secondary market",
+        "Primary market",
+        "Black market"
+      ],
+      "correct_index": 2,
+      "explanation": "New issues are in the primary market.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_100",
+      "text": "The market where existing shares are traded is the:",
+      "options": [
+        "Primary market",
+        "Secondary market",
+        "Black market",
+        "Commodity market"
+      ],
+      "correct_index": 1,
+      "explanation": "Existing shares trade on the secondary market.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_101",
+      "text": "The first sale of a company's shares to the public is an:",
+      "options": [
+        "Dividend",
+        "Bond",
+        "Merger",
+        "IPO (Initial Public Offering)"
+      ],
+      "correct_index": 3,
+      "explanation": "An IPO is the first public share sale.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_102",
+      "text": "A dividend is the:",
+      "options": [
+        "Loan",
+        "Tax",
+        "Share price",
+        "Profit distributed to shareholders"
+      ],
+      "correct_index": 3,
+      "explanation": "Dividends distribute profit to shareholders.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_103",
+      "text": "A bond is a:",
+      "options": [
+        "Stock",
+        "Share",
+        "Debt instrument (loan to a firm/government)",
+        "Dividend"
+      ],
+      "correct_index": 2,
+      "explanation": "Bonds are debt instruments.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_104",
+      "text": "A bull market is one where prices are:",
+      "options": [
+        "Falling",
+        "Rising",
+        "Stable",
+        "Zero"
+      ],
+      "correct_index": 1,
+      "explanation": "Bull markets see rising prices.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_105",
+      "text": "A bear market is one where prices are:",
+      "options": [
+        "Falling",
+        "Stable",
+        "Zero",
+        "Rising"
+      ],
+      "correct_index": 0,
+      "explanation": "Bear markets see falling prices.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_106",
+      "text": "The functions of management include:",
+      "options": [
+        "Producing, storing, shipping",
+        "Taxing, spending, saving",
+        "Planning, organising, directing, controlling",
+        "Buying, selling, banking"
+      ],
+      "correct_index": 2,
+      "explanation": "Management functions: plan, organise, direct, control.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_107",
+      "text": "The first function of management is:",
+      "options": [
+        "Directing",
+        "Controlling",
+        "Planning",
+        "Staffing"
+      ],
+      "correct_index": 2,
+      "explanation": "Planning comes first.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_108",
+      "text": "Planning involves:",
+      "options": [
+        "Checking results",
+        "Setting objectives and strategies",
+        "Hiring staff",
+        "Motivating staff"
+      ],
+      "correct_index": 1,
+      "explanation": "Planning sets objectives.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_109",
+      "text": "Organising involves:",
+      "options": [
+        "Allocating resources and tasks",
+        "Measuring results",
+        "Rewarding staff",
+        "Setting goals"
+      ],
+      "correct_index": 0,
+      "explanation": "Organising allocates resources/tasks.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_110",
+      "text": "Controlling involves:",
+      "options": [
+        "Hiring",
+        "Planning",
+        "Setting goals",
+        "Monitoring and correcting performance"
+      ],
+      "correct_index": 3,
+      "explanation": "Controlling monitors/corrects.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_111",
+      "text": "Directing (leading) involves:",
+      "options": [
+        "Planning",
+        "Setting goals",
+        "Motivating and guiding staff",
+        "Checking results"
+      ],
+      "correct_index": 2,
+      "explanation": "Directing motivates staff.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_112",
+      "text": "Authority is the:",
+      "options": [
+        "Responsibility",
+        "Right to give orders and make decisions",
+        "Task assigned",
+        "Salary"
+      ],
+      "correct_index": 1,
+      "explanation": "Authority = right to decide/command.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_113",
+      "text": "Responsibility is the:",
+      "options": [
+        "Obligation to perform assigned duties",
+        "Salary",
+        "Authority",
+        "Right to command"
+      ],
+      "correct_index": 0,
+      "explanation": "Responsibility = duty to perform.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_114",
+      "text": "Delegation of authority means:",
+      "options": [
+        "Removing duties",
+        "Firing staff",
+        "Centralising power",
+        "Assigning authority to subordinates"
+      ],
+      "correct_index": 3,
+      "explanation": "Delegation passes authority down.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_115",
+      "text": "The chain of command is the:",
+      "options": [
+        "Product list",
+        "Salary scale",
+        "Line of authority from top to bottom",
+        "List of customers"
+      ],
+      "correct_index": 2,
+      "explanation": "Chain of command = authority line.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_116",
+      "text": "Marketing is the process of:",
+      "options": [
+        "Only selling",
+        "Identifying and satisfying customer needs profitably",
+        "Only advertising",
+        "Only producing"
+      ],
+      "correct_index": 1,
+      "explanation": "Marketing satisfies customer needs.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_117",
+      "text": "The marketing mix consists of the:",
+      "options": [
+        "3 Cs",
+        "4 Ms",
+        "5 Ws",
+        "4 Ps (Product, Price, Place, Promotion)"
+      ],
+      "correct_index": 3,
+      "explanation": "The 4 Ps form the marketing mix.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_118",
+      "text": "The 'product' in the marketing mix refers to:",
+      "options": [
+        "The place",
+        "The promotion",
+        "The price",
+        "The good/service offered"
+      ],
+      "correct_index": 3,
+      "explanation": "Product = what is offered.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_119",
+      "text": "The 'price' in the marketing mix is the:",
+      "options": [
+        "Discount",
+        "Cost",
+        "Amount charged for the product",
+        "Profit"
+      ],
+      "correct_index": 2,
+      "explanation": "Price = what customers pay.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_120",
+      "text": "The 'place' in the marketing mix refers to:",
+      "options": [
+        "Price",
+        "Distribution channels",
+        "Promotion",
+        "Product"
+      ],
+      "correct_index": 1,
+      "explanation": "Place = distribution.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_121",
+      "text": "The 'promotion' in the marketing mix refers to:",
+      "options": [
+        "Communication with customers",
+        "Price",
+        "Product",
+        "Distribution"
+      ],
+      "correct_index": 0,
+      "explanation": "Promotion communicates with customers.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_122",
+      "text": "A market segment is:",
+      "options": [
+        "A product",
+        "A price",
+        "A shop",
+        "A subgroup of customers with similar needs"
+      ],
+      "correct_index": 3,
+      "explanation": "Segments group similar customers.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_123",
+      "text": "Market segmentation divides the market by:",
+      "options": [
+        "Nothing",
+        "Demographics, geography, behaviour",
+        "Only age",
+        "Only income"
+      ],
+      "correct_index": 1,
+      "explanation": "Segmentation uses demographics etc.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_124",
+      "text": "Advertising is a form of:",
+      "options": [
+        "Distribution",
+        "Promotion",
+        "Production",
+        "Pricing"
+      ],
+      "correct_index": 1,
+      "explanation": "Advertising is promotion.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_125",
+      "text": "Personal selling involves:",
+      "options": [
+        "Direct face-to-face selling",
+        "Billboards",
+        "Posters",
+        "Mass media ads"
+      ],
+      "correct_index": 0,
+      "explanation": "Personal selling is direct.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_126",
+      "text": "Sales promotion includes:",
+      "options": [
+        "Only billboards",
+        "Only radio",
+        "Only TV ads",
+        "Discounts, samples and coupons"
+      ],
+      "correct_index": 3,
+      "explanation": "Sales promotion uses incentives.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_127",
+      "text": "The ultimate goal of marketing is to:",
+      "options": [
+        "Store goods",
+        "Reduce sales",
+        "Satisfy customers and earn profit",
+        "Increase costs"
+      ],
+      "correct_index": 2,
+      "explanation": "Marketing aims for customer satisfaction + profit.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_128",
+      "text": "Consumer goods are goods bought by:",
+      "options": [
+        "Firms",
+        "Final consumers for personal use",
+        "Government only",
+        "Wholesalers only"
+      ],
+      "correct_index": 1,
+      "explanation": "Consumer goods are for personal use.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_129",
+      "text": "Industrial goods are bought by:",
+      "options": [
+        "Firms for production",
+        "Students",
+        "Households",
+        "Consumers"
+      ],
+      "correct_index": 0,
+      "explanation": "Industrial goods serve production.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_130",
+      "text": "A contract is a:",
+      "options": [
+        "Casual chat",
+        "Receipt",
+        "Verbal promise",
+        "Legally binding agreement"
+      ],
+      "correct_index": 3,
+      "explanation": "A contract is legally binding.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_131",
+      "text": "The essential elements of a valid contract include:",
+      "options": [
+        "Signature only",
+        "Offer, acceptance, consideration",
+        "Price only",
+        "Time only"
+      ],
+      "correct_index": 1,
+      "explanation": "Offer, acceptance, consideration are essential.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_132",
+      "text": "Consideration in a contract is:",
+      "options": [
+        "Kindness",
+        "Something of value exchanged",
+        "A promise only",
+        "A signature"
+      ],
+      "correct_index": 1,
+      "explanation": "Consideration = value exchanged.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_133",
+      "text": "An offer is:",
+      "options": [
+        "A proposal to enter a contract",
+        "A receipt",
+        "A signature",
+        "Acceptance"
+      ],
+      "correct_index": 0,
+      "explanation": "An offer proposes a contract.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_134",
+      "text": "Acceptance is the:",
+      "options": [
+        "Receipt",
+        "Delivery",
+        "Proposal",
+        "Agreement to the terms of an offer"
+      ],
+      "correct_index": 3,
+      "explanation": "Acceptance agrees to the offer.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_135",
+      "text": "The law governing the sale of goods in Nigeria is the:",
+      "options": [
+        "Tax Act",
+        "Constitution",
+        "Sale of Goods Act",
+        "Company Act"
+      ],
+      "correct_index": 2,
+      "explanation": "The Sale of Goods Act governs sales.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_136",
+      "text": "A patent protects:",
+      "options": [
+        "Inventions",
+        "Trade names",
+        "Music",
+        "Books"
+      ],
+      "correct_index": 0,
+      "explanation": "Patents protect inventions.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_137",
+      "text": "A trademark protects:",
+      "options": [
+        "Brand names and logos",
+        "Music",
+        "Books",
+        "Inventions"
+      ],
+      "correct_index": 0,
+      "explanation": "Trademarks protect brands.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_138",
+      "text": "Copyright protects:",
+      "options": [
+        "Trade names",
+        "Inventions only",
+        "Inventions",
+        "Literary and artistic works"
+      ],
+      "correct_index": 3,
+      "explanation": "Copyright protects creative works.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_139",
+      "text": "E-commerce is the:",
+      "options": [
+        "Wholesale trade",
+        "Buying and selling via the internet",
+        "Barter trade",
+        "Retail trade"
+      ],
+      "correct_index": 1,
+      "explanation": "E-commerce is online trading.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_140",
+      "text": "The use of computers to process business data is:",
+      "options": [
+        "Manual processing",
+        "Electronic data processing",
+        "Barter",
+        "Posting"
+      ],
+      "correct_index": 1,
+      "explanation": "EDP processes data electronically.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_141",
+      "text": "An advantage of e-commerce is:",
+      "options": [
+        "Global reach and convenience",
+        "Higher costs",
+        "Slower service",
+        "No reach"
+      ],
+      "correct_index": 0,
+      "explanation": "E-commerce offers global reach.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_142",
+      "text": "The transfer of funds electronically between banks is:",
+      "options": [
+        "Barter",
+        "Cheque only",
+        "Cash payment",
+        "Electronic funds transfer (EFT)"
+      ],
+      "correct_index": 3,
+      "explanation": "EFT moves funds electronically.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_143",
+      "text": "An ATM is used to:",
+      "options": [
+        "Store goods",
+        "Make calls",
+        "Withdraw cash and do transactions",
+        "Post letters"
+      ],
+      "correct_index": 2,
+      "explanation": "ATMs enable banking transactions.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_144",
+      "text": "A POS terminal is used for:",
+      "options": [
+        "Printing",
+        "Card payments at the point of sale",
+        "Transport",
+        "Storage"
+      ],
+      "correct_index": 1,
+      "explanation": "POS terminals process card payments.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_145",
+      "text": "The internet has made trade:",
+      "options": [
+        "Faster and more accessible",
+        "Impossible",
+        "More expensive only",
+        "Slower"
+      ],
+      "correct_index": 0,
+      "explanation": "The internet speeds up trade.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_146",
+      "text": "The reward for labour is:",
+      "options": [
+        "Interest",
+        "Profit",
+        "Rent",
+        "Wages"
+      ],
+      "correct_index": 3,
+      "explanation": "Wages reward labour.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_147",
+      "text": "The reward for capital is:",
+      "options": [
+        "Profit",
+        "Wages",
+        "Interest",
+        "Rent"
+      ],
+      "correct_index": 2,
+      "explanation": "Interest rewards capital.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_148",
+      "text": "The reward for enterprise is:",
+      "options": [
+        "Rent",
+        "Profit",
+        "Wages",
+        "Interest"
+      ],
+      "correct_index": 1,
+      "explanation": "Profit rewards the entrepreneur.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_149",
+      "text": "The reward for land is:",
+      "options": [
+        "Rent",
+        "Profit",
+        "Interest",
+        "Wages"
+      ],
+      "correct_index": 0,
+      "explanation": "Rent rewards land.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_150",
+      "text": "A consumer is a person who:",
+      "options": [
+        "Sells goods",
+        "Transports goods",
+        "Produces goods",
+        "Uses goods and services"
+      ],
+      "correct_index": 3,
+      "explanation": "Consumers use goods/services.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_151",
+      "text": "A producer is a person who:",
+      "options": [
+        "Sells only",
+        "Consumes",
+        "Makes goods or provides services",
+        "Buys only"
+      ],
+      "correct_index": 2,
+      "explanation": "Producers make goods/services.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_152",
+      "text": "The person who buys goods in bulk for resale is the:",
+      "options": [
+        "Consumer",
+        "Wholesaler",
+        "Retailer",
+        "Agent"
+      ],
+      "correct_index": 1,
+      "explanation": "Wholesalers buy in bulk.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_153",
+      "text": "The person who acts on behalf of a principal is the:",
+      "options": [
+        "Agent",
+        "Retailer",
+        "Consumer",
+        "Wholesaler"
+      ],
+      "correct_index": 0,
+      "explanation": "Agents act for principals.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_154",
+      "text": "A warehouse is a place for:",
+      "options": [
+        "Making goods",
+        "Advertising",
+        "Selling goods",
+        "Storing goods"
+      ],
+      "correct_index": 3,
+      "explanation": "Warehouses store goods.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_155",
+      "text": "The document used to advertise goods for sale is the:",
+      "options": [
+        "Cheque",
+        "Invoice",
+        "Catalogue",
+        "Receipt"
+      ],
+      "correct_index": 2,
+      "explanation": "Catalogues advertise goods.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_156",
+      "text": "The middleman who does not take ownership of goods is the:",
+      "options": [
+        "Wholesaler",
+        "Agent",
+        "Retailer",
+        "Consumer"
+      ],
+      "correct_index": 1,
+      "explanation": "Agents don't own the goods.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_157",
+      "text": "A superstore is a:",
+      "options": [
+        "Large retail store selling a wide range of goods",
+        "Warehouse",
+        "Market stall",
+        "Small shop"
+      ],
+      "correct_index": 0,
+      "explanation": "Superstores sell many goods.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_158",
+      "text": "A supermarket is a:",
+      "options": [
+        "Warehouse",
+        "Bank",
+        "Wholesaler",
+        "Large self-service retail store"
+      ],
+      "correct_index": 3,
+      "explanation": "Supermarkets are self-service stores.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_159",
+      "text": "A hawker is a:",
+      "options": [
+        "Banker",
+        "Wholesaler",
+        "Mobile retailer selling on the street",
+        "Manufacturer"
+      ],
+      "correct_index": 2,
+      "explanation": "Hawkers sell on the street.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_160",
+      "text": "A franchise is a business arrangement where:",
+      "options": [
+        "One person owns everything",
+        "A franchisee pays to use a franchisor's brand",
+        "The state owns",
+        "No one owns"
+      ],
+      "correct_index": 1,
+      "explanation": "Franchisees license a brand.",
+      "difficulty": 2
+    },
+    {
+      "id": "com_161",
+      "text": "The cost of transporting goods is known as:",
+      "options": [
+        "Freight",
+        "Profit",
+        "Interest",
+        "Insurance"
+      ],
+      "correct_index": 0,
+      "explanation": "Freight is transport cost.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_162",
+      "text": "CIF in foreign trade means:",
+      "options": [
+        "Cost Including Fee",
+        "Credit Invoice Form",
+        "Cost, Insurance, Freight",
+        "Cash in Full"
+      ],
+      "correct_index": 2,
+      "explanation": "CIF = cost, insurance, freight.",
+      "difficulty": 2
+    },
+    {
+      "id": "com_163",
+      "text": "FOB means:",
+      "options": [
+        "Full Order Billing",
+        "Free on Board",
+        "Freight on Buyer",
+        "First Order Basis"
+      ],
+      "correct_index": 1,
+      "explanation": "FOB = free on board.",
+      "difficulty": 2
+    },
+    {
+      "id": "com_164",
+      "text": "A letter of credit is issued by a:",
+      "options": [
+        "Seller",
+        "Bank",
+        "Buyer",
+        "Broker"
+      ],
+      "correct_index": 1,
+      "explanation": "Banks issue letters of credit.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_165",
+      "text": "The document showing the details of goods shipped by sea is the:",
+      "options": [
+        "Bill of lading",
+        "Order",
+        "Quotation",
+        "Invoice"
+      ],
+      "correct_index": 0,
+      "explanation": "Bill of lading details sea cargo.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_166",
+      "text": "The document used to insure goods is the:",
+      "options": [
+        "Order",
+        "Receipt",
+        "Invoice",
+        "Insurance policy"
+      ],
+      "correct_index": 3,
+      "explanation": "An insurance policy insures goods.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_167",
+      "text": "The main aim of a business is to:",
+      "options": [
+        "Employ no one",
+        "Lose money",
+        "Make profit",
+        "Avoid tax"
+      ],
+      "correct_index": 2,
+      "explanation": "Businesses aim for profit.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_168",
+      "text": "The excess of revenue over cost is:",
+      "options": [
+        "Loss",
+        "Profit",
+        "Debt",
+        "Capital"
+      ],
+      "correct_index": 1,
+      "explanation": "Profit = revenue − cost.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_169",
+      "text": "The excess of cost over revenue is:",
+      "options": [
+        "Loss",
+        "Capital",
+        "Interest",
+        "Profit"
+      ],
+      "correct_index": 0,
+      "explanation": "Loss = cost − revenue.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_170",
+      "text": "The goods a business holds for sale are its:",
+      "options": [
+        "Debt",
+        "Revenue",
+        "Capital",
+        "Stock (inventory)"
+      ],
+      "correct_index": 3,
+      "explanation": "Stock = goods held for sale.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_171",
+      "text": "The money owed to a business by customers is:",
+      "options": [
+        "Stock",
+        "Creditors",
+        "Debtors",
+        "Capital"
+      ],
+      "correct_index": 2,
+      "explanation": "Debtors owe the business.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_172",
+      "text": "The money a business owes its suppliers is:",
+      "options": [
+        "Debtors",
+        "Creditors",
+        "Capital",
+        "Stock"
+      ],
+      "correct_index": 1,
+      "explanation": "Creditors are owed by the business.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_173",
+      "text": "The assets of a business are its:",
+      "options": [
+        "Resources/property owned",
+        "Losses",
+        "Expenses",
+        "Debts"
+      ],
+      "correct_index": 0,
+      "explanation": "Assets are what a business owns.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_174",
+      "text": "The liabilities of a business are its:",
+      "options": [
+        "Profits",
+        "Revenue",
+        "Assets",
+        "Debts/obligations"
+      ],
+      "correct_index": 3,
+      "explanation": "Liabilities are what it owes.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_175",
+      "text": "Capital employed in a business is:",
+      "options": [
+        "Only profit",
+        "Only cash",
+        "Total resources invested in the business",
+        "Only loans"
+      ],
+      "correct_index": 2,
+      "explanation": "Capital employed = invested resources.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_176",
+      "text": "Working capital is:",
+      "options": [
+        "Fixed assets",
+        "Current assets minus current liabilities",
+        "Long-term loans",
+        "Share capital"
+      ],
+      "correct_index": 1,
+      "explanation": "Working capital = current assets − current liabilities.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_177",
+      "text": "Fixed assets are assets:",
+      "options": [
+        "Held for long-term use (land, machinery)",
+        "Cash",
+        "Stock",
+        "Held for resale"
+      ],
+      "correct_index": 0,
+      "explanation": "Fixed assets are long-term.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_178",
+      "text": "Current assets are assets:",
+      "options": [
+        "Land",
+        "Buildings",
+        "Held long-term",
+        "Convertible to cash within a year"
+      ],
+      "correct_index": 3,
+      "explanation": "Current assets are short-term.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_179",
+      "text": "The ratio of net profit to capital is the:",
+      "options": [
+        "Debt ratio",
+        "Turnover",
+        "Return on capital",
+        "Liquidity ratio"
+      ],
+      "correct_index": 2,
+      "explanation": "Return on capital = profit/capital.",
+      "difficulty": 2
+    },
+    {
+      "id": "com_180",
+      "text": "Turnover (sales) refers to the:",
+      "options": [
+        "Total value of sales",
+        "Total profit",
+        "Total cost",
+        "Stock"
+      ],
+      "correct_index": 0,
+      "explanation": "Turnover = total sales value.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_181",
+      "text": "The margin (mark-up) is the:",
+      "options": [
+        "Profit added to cost",
+        "Tax",
+        "Discount",
+        "Cost"
+      ],
+      "correct_index": 0,
+      "explanation": "Mark-up is profit added to cost.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_182",
+      "text": "The trade of buying and selling within Nigeria is:",
+      "options": [
+        "Entrepot",
+        "Export trade",
+        "Foreign trade",
+        "Home/domestic trade"
+      ],
+      "correct_index": 3,
+      "explanation": "Home trade is within a country.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_183",
+      "text": "The sale of goods by a Nigerian firm to Ghana is:",
+      "options": [
+        "Retail trade",
+        "Home trade",
+        "Export trade",
+        "Entrepot"
+      ],
+      "correct_index": 2,
+      "explanation": "Selling abroad is export trade.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_184",
+      "text": "The purchase of goods from China by a Nigerian firm is:",
+      "options": [
+        "Export trade",
+        "Import trade",
+        "Home trade",
+        "Retail trade"
+      ],
+      "correct_index": 1,
+      "explanation": "Buying from abroad is import trade.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_185",
+      "text": "The price at which a retailer buys from a wholesaler is the:",
+      "options": [
+        "Wholesale price",
+        "List price",
+        "Market price",
+        "Retail price"
+      ],
+      "correct_index": 0,
+      "explanation": "Wholesale price is charged to retailers.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_186",
+      "text": "The price at which a retailer sells to consumers is the:",
+      "options": [
+        "Cost price",
+        "Factory price",
+        "Wholesale price",
+        "Retail price"
+      ],
+      "correct_index": 3,
+      "explanation": "Retail price is charged to consumers.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_187",
+      "text": "The difference between cost price and selling price is the:",
+      "options": [
+        "Discount",
+        "Loss only",
+        "Profit (or loss)",
+        "Tax"
+      ],
+      "correct_index": 2,
+      "explanation": "Profit/loss = selling price − cost price.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_188",
+      "text": "An invoice that also serves as a receipt is a:",
+      "options": [
+        "Pro forma invoice",
+        "Receipted invoice",
+        "Order",
+        "Quotation"
+      ],
+      "correct_index": 1,
+      "explanation": "A receipted invoice confirms payment.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_189",
+      "text": "A pro forma invoice is sent:",
+      "options": [
+        "Before delivery to indicate cost",
+        "After delivery",
+        "Never",
+        "After payment"
+      ],
+      "correct_index": 0,
+      "explanation": "Pro forma precedes delivery.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_190",
+      "text": "The document a buyer sends to correct an overcharge is a:",
+      "options": [
+        "Receipt",
+        "Order",
+        "Invoice",
+        "Debit note"
+      ],
+      "correct_index": 3,
+      "explanation": "A debit note corrects undercharges.",
+      "difficulty": 2
+    },
+    {
+      "id": "com_191",
+      "text": "The document sent to correct an overcharge to a customer is a:",
+      "options": [
+        "Receipt",
+        "Debit note",
+        "Credit note",
+        "Invoice"
+      ],
+      "correct_index": 2,
+      "explanation": "A credit note corrects overcharges.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_192",
+      "text": "The study of how businesses are managed is:",
+      "options": [
+        "Accounting",
+        "Business administration",
+        "Economics",
+        "Law"
+      ],
+      "correct_index": 1,
+      "explanation": "Business administration studies management.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_193",
+      "text": "The person who manages a company on behalf of shareholders is the:",
+      "options": [
+        "Managing Director/CEO",
+        "Shareholder",
+        "Customer",
+        "Auditor"
+      ],
+      "correct_index": 0,
+      "explanation": "The CEO manages the company.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_194",
+      "text": "The owners of a company are the:",
+      "options": [
+        "Customers",
+        "Suppliers",
+        "Employees",
+        "Shareholders"
+      ],
+      "correct_index": 3,
+      "explanation": "Shareholders own the company.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_195",
+      "text": "The board of directors is elected by the:",
+      "options": [
+        "Government",
+        "Employees",
+        "Shareholders",
+        "Customers"
+      ],
+      "correct_index": 2,
+      "explanation": "Shareholders elect the board.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_196",
+      "text": "The annual general meeting (AGM) is attended by:",
+      "options": [
+        "Employees only",
+        "Shareholders",
+        "Customers",
+        "Suppliers"
+      ],
+      "correct_index": 1,
+      "explanation": "Shareholders attend the AGM.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_197",
+      "text": "The document that shows a company's annual financial performance is the:",
+      "options": [
+        "Annual report/accounts",
+        "Receipt",
+        "Order",
+        "Invoice"
+      ],
+      "correct_index": 0,
+      "explanation": "Annual reports show performance.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_198",
+      "text": "A business that is insolvent:",
+      "options": [
+        "Has no assets",
+        "Is new",
+        "Is profitable",
+        "Cannot pay its debts"
+      ],
+      "correct_index": 3,
+      "explanation": "Insolvency = can't pay debts.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_199",
+      "text": "Bankruptcy applies to:",
+      "options": [
+        "Banks",
+        "Companies",
+        "Individuals",
+        "Governments"
+      ],
+      "correct_index": 2,
+      "explanation": "Bankruptcy applies to individuals.",
+      "difficulty": 1
+    },
+    {
+      "id": "com_200",
+      "text": "Liquidation of a company means:",
+      "options": [
+        "Starting up",
+        "Winding up/closure",
+        "Expansion",
+        "Merger"
+      ],
+      "correct_index": 1,
+      "explanation": "Liquidation winds up a company.",
+      "difficulty": 1
+    }
+  ]
+}

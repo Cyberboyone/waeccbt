@@ -1,0 +1,2607 @@
+{
+  "course_id": "eng",
+  "course_name": "English Language",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "eng_001",
+      "text": "Choose the option nearest in meaning to the word 'lucid'.",
+      "options": [
+        "Clear",
+        "Lengthy",
+        "Turbid",
+        "Obscure"
+      ],
+      "correct_index": 0,
+      "explanation": "'Lucid' means expressed clearly or easy to understand, so 'clear' is nearest in meaning.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_002",
+      "text": "The word 'meticulous' most nearly means:",
+      "options": [
+        "Very careful",
+        "Generous",
+        "Careless",
+        "Hasty"
+      ],
+      "correct_index": 0,
+      "explanation": "'Meticulous' means showing great attention to detail; very careful and precise.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_003",
+      "text": "Choose the option nearest in meaning to 'impeccable'.",
+      "options": [
+        "Ordinary",
+        "Faultless",
+        "Doubtful",
+        "Expensive"
+      ],
+      "correct_index": 1,
+      "explanation": "'Impeccable' means in accordance with the highest standards; faultless.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_004",
+      "text": "'Benevolent' is closest in meaning to:",
+      "options": [
+        "Hostile",
+        "Kind",
+        "Strict",
+        "Wealthy"
+      ],
+      "correct_index": 1,
+      "explanation": "'Benevolent' means well-meaning and kindly, i.e. kind.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_005",
+      "text": "Choose the word nearest in meaning to 'abundant'.",
+      "options": [
+        "Plentiful",
+        "Expensive",
+        "Rare",
+        "Scarce"
+      ],
+      "correct_index": 0,
+      "explanation": "'Abundant' means existing or available in large quantities; plentiful.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_006",
+      "text": "'Candid' most nearly means:",
+      "options": [
+        "Frank",
+        "Rude",
+        "Deceitful",
+        "Secretive"
+      ],
+      "correct_index": 0,
+      "explanation": "'Candid' means truthful and straightforward; frank.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_007",
+      "text": "Choose the option nearest in meaning to 'diligent'.",
+      "options": [
+        "Careless",
+        "Lazy",
+        "Hard-working",
+        "Slow"
+      ],
+      "correct_index": 2,
+      "explanation": "'Diligent' means having or showing care and conscientiousness in one's work.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_008",
+      "text": "'Vigilant' is closest in meaning to:",
+      "options": [
+        "Sleepy",
+        "Alert",
+        "Brave",
+        "Quiet"
+      ],
+      "correct_index": 1,
+      "explanation": "'Vigilant' means keeping careful watch for possible danger; alert.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_009",
+      "text": "Choose the word nearest in meaning to 'coherent'.",
+      "options": [
+        "Logical",
+        "Broken",
+        "Silent",
+        "Confused"
+      ],
+      "correct_index": 0,
+      "explanation": "'Coherent' means logical, consistent and orderly; easy to follow.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_010",
+      "text": "'Adequate' most nearly means:",
+      "options": [
+        "Enough",
+        "Minimal",
+        "Insufficient",
+        "Excessive"
+      ],
+      "correct_index": 0,
+      "explanation": "'Adequate' means satisfactory or acceptable in quality or quantity; enough.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_011",
+      "text": "Choose the option nearest in meaning to 'obsolete'.",
+      "options": [
+        "Repaired",
+        "Modern",
+        "Outdated",
+        "Valuable"
+      ],
+      "correct_index": 2,
+      "explanation": "'Obsolete' means no longer produced or used; out of date.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_012",
+      "text": "'Eloquent' is closest in meaning to:",
+      "options": [
+        "Fluent",
+        "Silent",
+        "Blunt",
+        "Hesitant"
+      ],
+      "correct_index": 0,
+      "explanation": "'Eloquent' means fluent or persuasive in speaking or writing.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_013",
+      "text": "Choose the word nearest in meaning to 'genuine'.",
+      "options": [
+        "Authentic",
+        "Recent",
+        "Common",
+        "Fake"
+      ],
+      "correct_index": 0,
+      "explanation": "'Genuine' means truly what it is said to be; authentic.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_014",
+      "text": "'Inevitable' most nearly means:",
+      "options": [
+        "Improbable",
+        "Desirable",
+        "Avoidable",
+        "Unavoidable"
+      ],
+      "correct_index": 3,
+      "explanation": "'Inevitable' means certain to happen; unavoidable.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_015",
+      "text": "Choose the option nearest in meaning to 'reluctant'.",
+      "options": [
+        "Ready",
+        "Willing",
+        "Eager",
+        "Unwilling"
+      ],
+      "correct_index": 3,
+      "explanation": "'Reluctant' means unwilling and hesitant; disinclined.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_016",
+      "text": "'Transparent' in the sense of openness is closest in meaning to:",
+      "options": [
+        "Opaque",
+        "Honest",
+        "Fragile",
+        "Colourful"
+      ],
+      "correct_index": 1,
+      "explanation": "Figuratively, 'transparent' means open and honest, without hidden motives.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_017",
+      "text": "Choose the word nearest in meaning to 'commence'.",
+      "options": [
+        "Begin",
+        "Pause",
+        "Delay",
+        "Finish"
+      ],
+      "correct_index": 0,
+      "explanation": "'Commence' means to begin or start.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_018",
+      "text": "'Abandon' most nearly means:",
+      "options": [
+        "Desert",
+        "Embrace",
+        "Adopt",
+        "Support"
+      ],
+      "correct_index": 0,
+      "explanation": "'Abandon' means to give up completely or desert.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_019",
+      "text": "Choose the option nearest in meaning to 'proficient'.",
+      "options": [
+        "Careless",
+        "Skilled",
+        "Amateur",
+        "Ignorant"
+      ],
+      "correct_index": 1,
+      "explanation": "'Proficient' means competent or skilled in doing something.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_020",
+      "text": "'Cumbersome' is closest in meaning to:",
+      "options": [
+        "Light",
+        "Awkward",
+        "Portable",
+        "Simple"
+      ],
+      "correct_index": 1,
+      "explanation": "'Cumbersome' means large, heavy, or difficult to handle; awkward.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_021",
+      "text": "Choose the option opposite in meaning to 'scarcity'.",
+      "options": [
+        "Abundance",
+        "Dearth",
+        "Lack",
+        "Shortage"
+      ],
+      "correct_index": 0,
+      "explanation": "'Scarcity' means shortage, so its opposite is 'abundance'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_022",
+      "text": "The word opposite in meaning to 'vague' is:",
+      "options": [
+        "Hazy",
+        "Ambiguous",
+        "Unclear",
+        "Definite"
+      ],
+      "correct_index": 3,
+      "explanation": "'Vague' means unclear, so the opposite is 'definite'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_023",
+      "text": "Choose the option opposite in meaning to 'frugal'.",
+      "options": [
+        "Prudent",
+        "Thrifty",
+        "Economical",
+        "Extravagant"
+      ],
+      "correct_index": 3,
+      "explanation": "'Frugal' means sparing with money, so the opposite is 'extravagant'.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_024",
+      "text": "The opposite of 'optimist' is:",
+      "options": [
+        "Realist",
+        "Pessimist",
+        "Idealist",
+        "Enthusiast"
+      ],
+      "correct_index": 1,
+      "explanation": "An optimist expects good outcomes; a pessimist expects bad ones.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_025",
+      "text": "Choose the option opposite in meaning to 'temporary'.",
+      "options": [
+        "Momentary",
+        "Permanent",
+        "Fleeting",
+        "Brief"
+      ],
+      "correct_index": 1,
+      "explanation": "'Temporary' means lasting a short time; opposite is 'permanent'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_026",
+      "text": "The opposite of 'humble' is:",
+      "options": [
+        "Meek",
+        "Simple",
+        "Modest",
+        "Arrogant"
+      ],
+      "correct_index": 3,
+      "explanation": "'Humble' means modest; opposite is 'arrogant'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_027",
+      "text": "Choose the option opposite in meaning to 'expand'.",
+      "options": [
+        "Increase",
+        "Enlarge",
+        "Contract",
+        "Stretch"
+      ],
+      "correct_index": 2,
+      "explanation": "'Expand' means to make larger; opposite is 'contract' (make smaller).",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_028",
+      "text": "The opposite of 'transparent' is:",
+      "options": [
+        "Clear",
+        "Opaque",
+        "Glass",
+        "Obvious"
+      ],
+      "correct_index": 1,
+      "explanation": "'Transparent' means see-through; 'opaque' means not see-through.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_029",
+      "text": "Choose the option opposite in meaning to 'courage'.",
+      "options": [
+        "Cowardice",
+        "Valour",
+        "Daring",
+        "Bravery"
+      ],
+      "correct_index": 0,
+      "explanation": "'Courage' means bravery; opposite is 'cowardice'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_030",
+      "text": "The opposite of 'permanent' is:",
+      "options": [
+        "Temporary",
+        "Durable",
+        "Lasting",
+        "Stable"
+      ],
+      "correct_index": 0,
+      "explanation": "'Permanent' means lasting forever; opposite is 'temporary'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_031",
+      "text": "Choose the option opposite in meaning to 'compulsory'.",
+      "options": [
+        "Binding",
+        "Mandatory",
+        "Voluntary",
+        "Required"
+      ],
+      "correct_index": 2,
+      "explanation": "'Compulsory' means required; opposite is 'voluntary'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_032",
+      "text": "The opposite of 'decrease' is:",
+      "options": [
+        "Reduce",
+        "Diminish",
+        "Increase",
+        "Lower"
+      ],
+      "correct_index": 2,
+      "explanation": "'Decrease' means to become smaller; opposite is 'increase'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_033",
+      "text": "Choose the option opposite in meaning to 'hostile'.",
+      "options": [
+        "Aggressive",
+        "Unfriendly",
+        "Warlike",
+        "Friendly"
+      ],
+      "correct_index": 3,
+      "explanation": "'Hostile' means unfriendly; opposite is 'friendly'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_034",
+      "text": "The opposite of 'barren' is:",
+      "options": [
+        "Empty",
+        "Dry",
+        "Desolate",
+        "Fertile"
+      ],
+      "correct_index": 3,
+      "explanation": "'Barren' means unable to produce life/crops; opposite is 'fertile'.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_035",
+      "text": "Choose the option opposite in meaning to 'victory'.",
+      "options": [
+        "Win",
+        "Triumph",
+        "Success",
+        "Defeat"
+      ],
+      "correct_index": 3,
+      "explanation": "'Victory' means a win; opposite is 'defeat'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_036",
+      "text": "The opposite of 'modern' is:",
+      "options": [
+        "Current",
+        "Ancient",
+        "New",
+        "Recent"
+      ],
+      "correct_index": 1,
+      "explanation": "'Modern' means present-day; opposite is 'ancient'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_037",
+      "text": "Choose the option opposite in meaning to 'artificial'.",
+      "options": [
+        "Natural",
+        "Fake",
+        "Manufactured",
+        "Synthetic"
+      ],
+      "correct_index": 0,
+      "explanation": "'Artificial' means made by humans; opposite is 'natural'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_038",
+      "text": "The opposite of 'praise' is:",
+      "options": [
+        "Applaud",
+        "Honour",
+        "Commend",
+        "Blame"
+      ],
+      "correct_index": 3,
+      "explanation": "'Praise' means to express approval; opposite is 'blame'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_039",
+      "text": "Choose the option opposite in meaning to 'arid'.",
+      "options": [
+        "Parched",
+        "Dry",
+        "Wet",
+        "Barren"
+      ],
+      "correct_index": 2,
+      "explanation": "'Arid' means very dry; opposite is 'wet' or 'humid'.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_040",
+      "text": "The opposite of 'accept' is:",
+      "options": [
+        "Receive",
+        "Agree",
+        "Reject",
+        "Take"
+      ],
+      "correct_index": 2,
+      "explanation": "'Accept' means to receive willingly; opposite is 'reject'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_041",
+      "text": "Select the option that best interprets the sentence: 'The new policy is a double-edged sword.'",
+      "options": [
+        "It has both advantages and disadvantages",
+        "It is illegal",
+        "It is very expensive",
+        "It is very sharp"
+      ],
+      "correct_index": 0,
+      "explanation": "A 'double-edged sword' is something that can help and harm at the same time.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_042",
+      "text": "'She decided to bury the hatchet with her rival.' This means she decided to:",
+      "options": [
+        "Dig a hole",
+        "Attack her rival",
+        "Hide a weapon",
+        "End their quarrel"
+      ],
+      "correct_index": 3,
+      "explanation": "To 'bury the hatchet' means to end a quarrel and make peace.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_043",
+      "text": "Select the option that best interprets: 'He is the black sheep of the family.'",
+      "options": [
+        "He is the youngest",
+        "He keeps sheep",
+        "He is the most successful",
+        "He is a disreputable member"
+      ],
+      "correct_index": 3,
+      "explanation": "A 'black sheep' is a member of a group regarded as a disgrace or odd one out.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_044",
+      "text": "'The teacher turned a blind eye to the noise.' This means the teacher:",
+      "options": [
+        "Could not see",
+        "Pretended not to notice",
+        "Closed the window",
+        "Was blind"
+      ],
+      "correct_index": 1,
+      "explanation": "To 'turn a blind eye' means to deliberately ignore something.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_045",
+      "text": "Select the option that best interprets: 'Don't count your chickens before they hatch.'",
+      "options": [
+        "Don't plan on things that may not happen",
+        "Count eggs carefully",
+        "Buy more chickens",
+        "Chickens are unreliable"
+      ],
+      "correct_index": 0,
+      "explanation": "The proverb warns against assuming success before it actually occurs.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_046",
+      "text": "'It is raining cats and dogs.' This means:",
+      "options": [
+        "There is a storm warning",
+        "The weather is fine",
+        "Animals are falling",
+        "It is raining heavily"
+      ],
+      "correct_index": 3,
+      "explanation": "'Raining cats and dogs' is an idiom meaning very heavy rain.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_047",
+      "text": "Select the option that best interprets: 'He let the cat out of the bag.'",
+      "options": [
+        "He made a mistake",
+        "He released a cat",
+        "He revealed a secret",
+        "He bought a bag"
+      ],
+      "correct_index": 2,
+      "explanation": "To 'let the cat out of the bag' means to reveal a secret carelessly.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_048",
+      "text": "'She is feeling under the weather.' This means she is:",
+      "options": [
+        "Enjoying the rain",
+        "Unwell",
+        "Very happy",
+        "Travelling"
+      ],
+      "correct_index": 1,
+      "explanation": "'Under the weather' means slightly unwell or sick.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_049",
+      "text": "Select the option that best interprets: 'The ball is in your court now.'",
+      "options": [
+        "It is your turn to act",
+        "You have lost",
+        "The game is over",
+        "You must play tennis"
+      ],
+      "correct_index": 0,
+      "explanation": "'The ball is in your court' means it is now your responsibility to act.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_050",
+      "text": "'They saw eye to eye on the issue.' This means they:",
+      "options": [
+        "Looked at each other",
+        "Avoided the topic",
+        "Disagreed strongly",
+        "Agreed with each other"
+      ],
+      "correct_index": 3,
+      "explanation": "To 'see eye to eye' means to be in full agreement.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_051",
+      "text": "Select the option that best interprets: 'The plan was a flash in the pan.'",
+      "options": [
+        "It took long to prepare",
+        "It succeeded briefly",
+        "It was a huge success",
+        "It was dangerous"
+      ],
+      "correct_index": 1,
+      "explanation": "A 'flash in the pan' is a sudden success that is not repeated; brief.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_052",
+      "text": "'Stop beating about the bush.' This means stop:",
+      "options": [
+        "Cutting trees",
+        "Avoiding the main point",
+        "Fighting",
+        "Working slowly"
+      ],
+      "correct_index": 1,
+      "explanation": "To 'beat about the bush' means to avoid coming to the point.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_053",
+      "text": "Select the option that best interprets: 'A stitch in time saves nine.'",
+      "options": [
+        "Acting early prevents bigger problems",
+        "Nine stitches are enough",
+        "Time is money",
+        "Sewing is important"
+      ],
+      "correct_index": 0,
+      "explanation": "The proverb means dealing with a problem early saves more work later.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_054",
+      "text": "'He is a jack of all trades.' This means he:",
+      "options": [
+        "Is an expert in one thing",
+        "Sells tools",
+        "Is a trader",
+        "Can do many things reasonably well"
+      ],
+      "correct_index": 3,
+      "explanation": "A 'jack of all trades' is someone skilled in many areas (often none mastered).",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_055",
+      "text": "Select the option that best interprets: 'The news came like a bolt from the blue.'",
+      "options": [
+        "It was delayed",
+        "It was expected",
+        "It was sudden and unexpected",
+        "It was good news"
+      ],
+      "correct_index": 2,
+      "explanation": "A 'bolt from the blue' is a sudden, unexpected event.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_056",
+      "text": "'She has an axe to grind with him.' This means she:",
+      "options": [
+        "Wants to sharpen a tool",
+        "Has a private grievance",
+        "Wants to help him",
+        "Is indifferent"
+      ],
+      "correct_index": 1,
+      "explanation": "To 'have an axe to grind' means to have a personal grievance or agenda.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_057",
+      "text": "Select the option that best interprets: 'Every cloud has a silver lining.'",
+      "options": [
+        "Difficulties contain hope",
+        "Weather changes",
+        "Rain is coming",
+        "Clouds are white"
+      ],
+      "correct_index": 0,
+      "explanation": "The proverb means even bad situations have some positive aspect.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_058",
+      "text": "'He gave her the cold shoulder.' This means he:",
+      "options": [
+        "Comforted her",
+        "Scolded her",
+        "Gave her a coat",
+        "Ignored her deliberately"
+      ],
+      "correct_index": 3,
+      "explanation": "To 'give the cold shoulder' means to intentionally ignore someone.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_059",
+      "text": "Select the option that best interprets: 'It cost him an arm and a leg.'",
+      "options": [
+        "He lost his limbs",
+        "It was cheap",
+        "It was very expensive",
+        "He was injured"
+      ],
+      "correct_index": 2,
+      "explanation": "'Cost an arm and a leg' means extremely expensive.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_060",
+      "text": "'Birds of a feather flock together.' This means:",
+      "options": [
+        "Birds are social",
+        "People associate with those similar to themselves",
+        "Birds migrate",
+        "People avoid each other"
+      ],
+      "correct_index": 1,
+      "explanation": "The proverb means similar people tend to associate together.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_061",
+      "text": "Choose the correct option: 'Neither of the boys ___ present.'",
+      "options": [
+        "are",
+        "was",
+        "have been",
+        "were"
+      ],
+      "correct_index": 1,
+      "explanation": "'Neither' is singular, so it takes the singular verb 'was'.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_062",
+      "text": "Select the correct form: 'The committee ___ divided on the issue.'",
+      "options": [
+        "were",
+        "have",
+        "are",
+        "is"
+      ],
+      "correct_index": 3,
+      "explanation": "When a collective noun acts as a single unit, it takes a singular verb ('is').",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_063",
+      "text": "Choose the correct option: 'One of the girls ___ missing.'",
+      "options": [
+        "have been",
+        "are",
+        "were",
+        "is"
+      ],
+      "correct_index": 3,
+      "explanation": "The subject is 'one', which is singular, so 'is' is correct.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_064",
+      "text": "Select the correct form: 'The news ___ good today.'",
+      "options": [
+        "are",
+        "is",
+        "were",
+        "have been"
+      ],
+      "correct_index": 1,
+      "explanation": "'News' is an uncountable noun and takes a singular verb.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_065",
+      "text": "Choose the correct option: 'Each of the students ___ a book.'",
+      "options": [
+        "are having",
+        "has",
+        "were having",
+        "have"
+      ],
+      "correct_index": 1,
+      "explanation": "'Each' is singular, so it takes 'has'.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_066",
+      "text": "Select the correct form: 'Ten thousand naira ___ a lot of money.'",
+      "options": [
+        "were",
+        "have been",
+        "are",
+        "is"
+      ],
+      "correct_index": 3,
+      "explanation": "Sums of money treated as a single amount take a singular verb.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_067",
+      "text": "Choose the correct option: 'Either John or his friends ___ to blame.'",
+      "options": [
+        "has been",
+        "is",
+        "are",
+        "was"
+      ],
+      "correct_index": 2,
+      "explanation": "With 'either...or', the verb agrees with the nearer subject 'friends' (plural).",
+      "difficulty": 3
+    },
+    {
+      "id": "eng_068",
+      "text": "Select the correct form: 'The pair of shoes ___ expensive.'",
+      "options": [
+        "are",
+        "is",
+        "were",
+        "have been"
+      ],
+      "correct_index": 1,
+      "explanation": "'Pair' is the subject and is singular, so 'is' is correct.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_069",
+      "text": "Choose the correct option: 'Everyone ___ invited to the party.'",
+      "options": [
+        "were",
+        "is",
+        "have been",
+        "are"
+      ],
+      "correct_index": 1,
+      "explanation": "'Everyone' is an indefinite singular pronoun, taking 'is'.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_070",
+      "text": "Select the correct form: 'The number of students ___ increasing.'",
+      "options": [
+        "were",
+        "have been",
+        "are",
+        "is"
+      ],
+      "correct_index": 3,
+      "explanation": "'The number' is singular, so 'is' is correct. ('A number of' would be plural.)",
+      "difficulty": 3
+    },
+    {
+      "id": "eng_071",
+      "text": "Choose the correct option: 'Politics ___ a difficult subject.'",
+      "options": [
+        "have been",
+        "are",
+        "were",
+        "is"
+      ],
+      "correct_index": 3,
+      "explanation": "'Politics' (as a field of study) takes a singular verb.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_072",
+      "text": "Select the correct form: 'I ___ him yesterday.'",
+      "options": [
+        "see",
+        "saw",
+        "seen",
+        "have seen"
+      ],
+      "correct_index": 1,
+      "explanation": "A completed action in the past ('yesterday') takes the simple past 'saw'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_073",
+      "text": "Choose the correct option: 'She ___ to school every day.'",
+      "options": [
+        "goes",
+        "going",
+        "gone",
+        "go"
+      ],
+      "correct_index": 0,
+      "explanation": "Third person singular present simple takes 'goes'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_074",
+      "text": "Select the correct form: 'They have ___ their homework.'",
+      "options": [
+        "done",
+        "doing",
+        "do",
+        "did"
+      ],
+      "correct_index": 0,
+      "explanation": "After 'have', the past participle 'done' is used.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_075",
+      "text": "Choose the correct option: 'By next year, I ___ for ten years.'",
+      "options": [
+        "working",
+        "work",
+        "will have worked",
+        "worked"
+      ],
+      "correct_index": 2,
+      "explanation": "The future perfect 'will have worked' expresses completion before a future point.",
+      "difficulty": 3
+    },
+    {
+      "id": "eng_076",
+      "text": "Select the correct form: 'He ___ when the rain started.'",
+      "options": [
+        "walk",
+        "was walking",
+        "walks",
+        "walked"
+      ],
+      "correct_index": 1,
+      "explanation": "Past continuous 'was walking' is used for an action in progress when another interrupted it.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_077",
+      "text": "Choose the correct option: 'I have been living here ___ 2010.'",
+      "options": [
+        "since",
+        "from",
+        "during",
+        "for"
+      ],
+      "correct_index": 0,
+      "explanation": "'Since' is used with a specific starting point in time (2010).",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_078",
+      "text": "Select the correct form: 'She has been waiting ___ two hours.'",
+      "options": [
+        "during",
+        "by",
+        "since",
+        "for"
+      ],
+      "correct_index": 3,
+      "explanation": "'For' is used with a duration of time (two hours).",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_079",
+      "text": "Choose the correct option: 'The children ___ playing when I arrived.'",
+      "options": [
+        "has been",
+        "is",
+        "was",
+        "were"
+      ],
+      "correct_index": 3,
+      "explanation": "'Children' is plural, so the past continuous takes 'were'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_080",
+      "text": "Select the correct form: 'If I ___ rich, I would travel.'",
+      "options": [
+        "am",
+        "were",
+        "is",
+        "be"
+      ],
+      "correct_index": 1,
+      "explanation": "The unreal conditional uses the subjunctive 'were' for all persons.",
+      "difficulty": 3
+    },
+    {
+      "id": "eng_081",
+      "text": "Identify the part of speech of the underlined word: 'She runs FAST.'",
+      "options": [
+        "Adverb",
+        "Noun",
+        "Verb",
+        "Adjective"
+      ],
+      "correct_index": 0,
+      "explanation": "'Fast' modifies the verb 'runs', so it is an adverb.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_082",
+      "text": "In 'The quick brown fox', the word 'quick' is a(n):",
+      "options": [
+        "Adjective",
+        "Adverb",
+        "Noun",
+        "Verb"
+      ],
+      "correct_index": 0,
+      "explanation": "'Quick' describes the noun 'fox', so it is an adjective.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_083",
+      "text": "Identify the part of speech of the underlined word: 'He spoke to the CROWD.'",
+      "options": [
+        "Adverb",
+        "Verb",
+        "Noun",
+        "Adjective"
+      ],
+      "correct_index": 2,
+      "explanation": "'Crowd' is a thing/person named, so it is a noun.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_084",
+      "text": "In 'She sang beautifully', the word 'beautifully' is a(n):",
+      "options": [
+        "Adjective",
+        "Noun",
+        "Adverb",
+        "Pronoun"
+      ],
+      "correct_index": 2,
+      "explanation": "'Beautifully' modifies the verb 'sang', making it an adverb.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_085",
+      "text": "Identify the part of speech: 'They will arrive SOON.'",
+      "options": [
+        "Adverb",
+        "Preposition",
+        "Conjunction",
+        "Adjective"
+      ],
+      "correct_index": 0,
+      "explanation": "'Soon' tells when, modifying the verb; it is an adverb of time.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_086",
+      "text": "In 'The book ON the table is mine', 'on' is a:",
+      "options": [
+        "Adverb",
+        "Adjective",
+        "Conjunction",
+        "Preposition"
+      ],
+      "correct_index": 3,
+      "explanation": "'On' shows the relationship between 'book' and 'table', so it is a preposition.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_087",
+      "text": "Identify the part of speech: 'AND' in 'I eat and sleep.'",
+      "options": [
+        "Interjection",
+        "Preposition",
+        "Adverb",
+        "Conjunction"
+      ],
+      "correct_index": 3,
+      "explanation": "'And' joins two words/clauses, so it is a conjunction.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_088",
+      "text": "In 'She is a doctor', the word 'is' is a:",
+      "options": [
+        "Main verb",
+        "Linking verb",
+        "Auxiliary only",
+        "Adverb"
+      ],
+      "correct_index": 1,
+      "explanation": "'Is' links the subject to its complement, so it is a linking verb.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_089",
+      "text": "Identify the part of speech: 'WOW! That is amazing.'",
+      "options": [
+        "Interjection",
+        "Adjective",
+        "Adverb",
+        "Noun"
+      ],
+      "correct_index": 0,
+      "explanation": "'Wow!' expresses sudden emotion, making it an interjection.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_090",
+      "text": "In 'He gave HER the book', 'her' is a:",
+      "options": [
+        "Subject pronoun",
+        "Reflexive pronoun",
+        "Possessive adjective",
+        "Object pronoun"
+      ],
+      "correct_index": 3,
+      "explanation": "'Her' is the indirect object here, functioning as an object pronoun.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_091",
+      "text": "Choose the correct option: 'Neither the teacher nor the students ___ ready.'",
+      "options": [
+        "has been",
+        "is",
+        "was",
+        "are"
+      ],
+      "correct_index": 3,
+      "explanation": "With 'neither...nor', the verb agrees with the nearer subject 'students' (plural).",
+      "difficulty": 3
+    },
+    {
+      "id": "eng_092",
+      "text": "Select the correct form: 'The man, together with his sons, ___ arrived.'",
+      "options": [
+        "have",
+        "are",
+        "has",
+        "were"
+      ],
+      "correct_index": 2,
+      "explanation": "'Together with' does not make the subject plural; the subject is 'the man' (singular).",
+      "difficulty": 3
+    },
+    {
+      "id": "eng_093",
+      "text": "Choose the correct option: 'I look forward to ___ from you.'",
+      "options": [
+        "hearing",
+        "heard",
+        "hears",
+        "hear"
+      ],
+      "correct_index": 0,
+      "explanation": "After the preposition 'to' in this phrase, the gerund 'hearing' is used.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_094",
+      "text": "Select the correct form: 'She is good ___ mathematics.'",
+      "options": [
+        "at",
+        "for",
+        "in",
+        "on"
+      ],
+      "correct_index": 0,
+      "explanation": "The correct preposition after 'good' is 'at'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_095",
+      "text": "Choose the correct option: 'He is interested ___ music.'",
+      "options": [
+        "with",
+        "at",
+        "on",
+        "in"
+      ],
+      "correct_index": 3,
+      "explanation": "'Interested' takes the preposition 'in'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_096",
+      "text": "Select the correct form: 'We arrived ___ the station at noon.'",
+      "options": [
+        "to",
+        "at",
+        "on",
+        "in"
+      ],
+      "correct_index": 1,
+      "explanation": "'Arrive at' is used for a specific point or place.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_097",
+      "text": "Choose the correct option: 'She is afraid ___ dogs.'",
+      "options": [
+        "from",
+        "with",
+        "by",
+        "of"
+      ],
+      "correct_index": 3,
+      "explanation": "'Afraid' takes the preposition 'of'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_098",
+      "text": "Select the correct form: 'He complained ___ the noise.'",
+      "options": [
+        "on",
+        "at",
+        "for",
+        "about"
+      ],
+      "correct_index": 3,
+      "explanation": "'Complain about' is the standard collocation.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_099",
+      "text": "Choose the correct option: 'I prefer tea ___ coffee.'",
+      "options": [
+        "from",
+        "than",
+        "to",
+        "over"
+      ],
+      "correct_index": 2,
+      "explanation": "'Prefer X to Y' is the correct structure.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_100",
+      "text": "Select the correct form: 'She is married ___ a doctor.'",
+      "options": [
+        "with",
+        "to",
+        "for",
+        "by"
+      ],
+      "correct_index": 1,
+      "explanation": "'Married to' is the standard collocation.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_101",
+      "text": "What type of sentence is: 'The sun rises in the east.'?",
+      "options": [
+        "Complex",
+        "Simple",
+        "Compound-complex",
+        "Compound"
+      ],
+      "correct_index": 1,
+      "explanation": "It has one independent clause with one subject and predicate: a simple sentence.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_102",
+      "text": "'I wanted to go, but it was raining.' is a:",
+      "options": [
+        "Complex sentence",
+        "Fragment",
+        "Simple sentence",
+        "Compound sentence"
+      ],
+      "correct_index": 3,
+      "explanation": "Two independent clauses joined by 'but' form a compound sentence.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_103",
+      "text": "'Although he was tired, he finished the work.' is a:",
+      "options": [
+        "Compound-complex sentence",
+        "Simple sentence",
+        "Compound sentence",
+        "Complex sentence"
+      ],
+      "correct_index": 3,
+      "explanation": "It has one independent clause and one dependent clause: a complex sentence.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_104",
+      "text": "'She laughed and the baby clapped.' is a:",
+      "options": [
+        "Simple sentence",
+        "Compound sentence",
+        "Complex sentence",
+        "Phrase"
+      ],
+      "correct_index": 1,
+      "explanation": "Two independent clauses joined by 'and' make a compound sentence.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_105",
+      "text": "Identify the sentence type: 'Because it was late, we left, and we went home.'",
+      "options": [
+        "Compound",
+        "Complex",
+        "Compound-complex",
+        "Simple"
+      ],
+      "correct_index": 2,
+      "explanation": "It has a dependent clause plus two independent clauses: compound-complex.",
+      "difficulty": 3
+    },
+    {
+      "id": "eng_106",
+      "text": "Which of these is a simple sentence?",
+      "options": [
+        "Because he ran fast, he won.",
+        "He ran fast and he won the race.",
+        "He ran fast and won.",
+        "He ran fast, but he lost."
+      ],
+      "correct_index": 2,
+      "explanation": "A simple sentence has one subject and a compound predicate; 'He ran fast and won' has one clause.",
+      "difficulty": 3
+    },
+    {
+      "id": "eng_107",
+      "text": "'Stop!' is which kind of sentence by function?",
+      "options": [
+        "Exclamatory",
+        "Declarative",
+        "Interrogative",
+        "Imperative"
+      ],
+      "correct_index": 3,
+      "explanation": "'Stop!' gives a command, so it is imperative.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_108",
+      "text": "'What a beautiful day!' is a(n) ___ sentence.",
+      "options": [
+        "Declarative",
+        "Interrogative",
+        "Imperative",
+        "Exclamatory"
+      ],
+      "correct_index": 3,
+      "explanation": "It expresses strong emotion, so it is exclamatory.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_109",
+      "text": "'Did you finish the test?' is a(n) ___ sentence.",
+      "options": [
+        "Interrogative",
+        "Imperative",
+        "Exclamatory",
+        "Declarative"
+      ],
+      "correct_index": 0,
+      "explanation": "It asks a question, so it is interrogative.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_110",
+      "text": "'The meeting starts at nine.' is a(n) ___ sentence.",
+      "options": [
+        "Imperative",
+        "Exclamatory",
+        "Declarative",
+        "Interrogative"
+      ],
+      "correct_index": 2,
+      "explanation": "It makes a statement, so it is declarative.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_111",
+      "text": "Identify the main clause in: 'When the bell rang, the students rushed out.'",
+      "options": [
+        "rushed out",
+        "When the bell rang",
+        "the students rushed out",
+        "When the bell"
+      ],
+      "correct_index": 2,
+      "explanation": "'The students rushed out' can stand alone, so it is the main (independent) clause.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_112",
+      "text": "In 'If you study hard, you will pass', the subordinate clause is:",
+      "options": [
+        "you will pass",
+        "If you study hard",
+        "study hard",
+        "you will pass the exam"
+      ],
+      "correct_index": 1,
+      "explanation": "'If you study hard' cannot stand alone; it is the subordinate (dependent) clause.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_113",
+      "text": "A sentence that contains two or more independent clauses and at least one dependent clause is:",
+      "options": [
+        "Compound",
+        "Complex",
+        "Compound-complex",
+        "Simple"
+      ],
+      "correct_index": 2,
+      "explanation": "That is the definition of a compound-complex sentence.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_114",
+      "text": "Which sentence is correctly punctuated?",
+      "options": [
+        "He asked, 'Are you ready?'",
+        "He asked are you ready?",
+        "He asked, are you ready?",
+        "He asked 'are you ready?'"
+      ],
+      "correct_index": 0,
+      "explanation": "Direct speech needs a comma before the quote and a capital letter inside it.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_115",
+      "text": "Choose the correctly spelt word.",
+      "options": [
+        "Occurencee",
+        "Occurence",
+        "Ocurrence",
+        "Occurrence"
+      ],
+      "correct_index": 3,
+      "explanation": "The correct spelling is 'occurrence' (double c, double r).",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_116",
+      "text": "Select the correctly spelt word.",
+      "options": [
+        "Neccessary",
+        "Necessary",
+        "Necesary",
+        "Necassary"
+      ],
+      "correct_index": 1,
+      "explanation": "'Necessary' has one c and double s.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_117",
+      "text": "Choose the correctly spelt word.",
+      "options": [
+        "Separate",
+        "Sepparate",
+        "Separet",
+        "Seperate"
+      ],
+      "correct_index": 0,
+      "explanation": "The correct spelling is 'separate'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_118",
+      "text": "Select the correctly spelt word.",
+      "options": [
+        "Receeve",
+        "Recive",
+        "Recieve",
+        "Receive"
+      ],
+      "correct_index": 3,
+      "explanation": "'Receive' follows the 'i before e except after c' rule.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_119",
+      "text": "Choose the correctly spelt word.",
+      "options": [
+        "Definetely",
+        "Definately",
+        "Definitely",
+        "Definitly"
+      ],
+      "correct_index": 2,
+      "explanation": "The correct spelling is 'definitely'.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_120",
+      "text": "Select the correctly spelt word.",
+      "options": [
+        "Accomodation",
+        "Accommodation",
+        "Acomodation",
+        "Accommodattion"
+      ],
+      "correct_index": 1,
+      "explanation": "'Accommodation' has double c and double m.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_121",
+      "text": "Choose the correctly spelt word.",
+      "options": [
+        "Goverment",
+        "Governement",
+        "Govermnent",
+        "Government"
+      ],
+      "correct_index": 3,
+      "explanation": "The correct spelling is 'government'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_122",
+      "text": "Select the correctly spelt word.",
+      "options": [
+        "Embaras",
+        "Embarras",
+        "Embarass",
+        "Embarrass"
+      ],
+      "correct_index": 3,
+      "explanation": "'Embarrass' has double r and double s.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_123",
+      "text": "Choose the correctly spelt word.",
+      "options": [
+        "Maintanance",
+        "Maintainance",
+        "Maintenance",
+        "Maintenence"
+      ],
+      "correct_index": 2,
+      "explanation": "The correct spelling is 'maintenance'.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_124",
+      "text": "Select the correctly spelt word.",
+      "options": [
+        "Privilege",
+        "Priviledge",
+        "Privelege",
+        "Priveledge"
+      ],
+      "correct_index": 0,
+      "explanation": "The correct spelling is 'privilege' (no 'd').",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_125",
+      "text": "Which sentence uses the apostrophe correctly?",
+      "options": [
+        "The boy's are here.",
+        "The boys book's are here.",
+        "The boy's books are here's.",
+        "The boys' books are here."
+      ],
+      "correct_index": 3,
+      "explanation": "'Boys'' shows plural possessive (books of the boys).",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_126",
+      "text": "Choose the correctly punctuated sentence.",
+      "options": [
+        "I need to buy, eggs milk and bread.",
+        "I need, to buy eggs milk and bread.",
+        "I need to buy eggs milk and bread.",
+        "I need to buy eggs, milk, and bread."
+      ],
+      "correct_index": 3,
+      "explanation": "Items in a list are separated by commas.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_127",
+      "text": "Which sentence correctly uses a semicolon?",
+      "options": [
+        "He was tired, he; slept.",
+        "He was tired; so he slept.",
+        "He was tired; he slept.",
+        "He; was tired he slept."
+      ],
+      "correct_index": 2,
+      "explanation": "A semicolon joins two related independent clauses without a conjunction.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_128",
+      "text": "Select the correct use of 'their', 'there' or 'they're'.",
+      "options": [
+        "Their going home now.",
+        "There going home now.",
+        "They're going home now.",
+        "They going home now."
+      ],
+      "correct_index": 2,
+      "explanation": "'They're' is the contraction of 'they are'.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_129",
+      "text": "Which word completes the sentence correctly: 'It's ___ book.'",
+      "options": [
+        "you're",
+        "you",
+        "yours",
+        "your"
+      ],
+      "correct_index": 3,
+      "explanation": "'Your' is the possessive adjective needed before the noun 'book'.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_130",
+      "text": "How many vowel sounds are there in the English language?",
+      "options": [
+        "20",
+        "26",
+        "5",
+        "12"
+      ],
+      "correct_index": 0,
+      "explanation": "English has 20 vowel sounds (12 monophthongs and 8 diphthongs).",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_131",
+      "text": "How many consonant sounds are there in English?",
+      "options": [
+        "21",
+        "20",
+        "24",
+        "26"
+      ],
+      "correct_index": 2,
+      "explanation": "English has 24 consonant sounds.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_132",
+      "text": "The word 'ship' contains which vowel sound?",
+      "options": [
+        "Long /iː/",
+        "Short /ɪ/",
+        "Long /æ/",
+        "Short /ʌ/"
+      ],
+      "correct_index": 1,
+      "explanation": "'Ship' has the short vowel /ɪ/, as in 'sit'.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_133",
+      "text": "The vowel sound in 'seat' is a:",
+      "options": [
+        "Long vowel",
+        "Diphthong",
+        "Consonant",
+        "Short vowel"
+      ],
+      "correct_index": 0,
+      "explanation": "'Seat' contains the long vowel /iː/.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_134",
+      "text": "Which of these words contains a diphthong?",
+      "options": [
+        "Bit",
+        "Cup",
+        "Cat",
+        "Boy"
+      ],
+      "correct_index": 3,
+      "explanation": "'Boy' contains the diphthong /ɔɪ/.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_135",
+      "text": "The word 'chair' begins with which consonant sound?",
+      "options": [
+        "/s/",
+        "/k/",
+        "/ʃ/",
+        "/tʃ/"
+      ],
+      "correct_index": 3,
+      "explanation": "'Chair' begins with the affricate /tʃ/.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_136",
+      "text": "The final sound in 'sing' is:",
+      "options": [
+        "/g/",
+        "/n/",
+        "/ŋ/",
+        "/ng/"
+      ],
+      "correct_index": 2,
+      "explanation": "'Sing' ends with the velar nasal /ŋ/.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_137",
+      "text": "Which word has the /θ/ (voiceless 'th') sound?",
+      "options": [
+        "Think",
+        "They",
+        "Mother",
+        "This"
+      ],
+      "correct_index": 0,
+      "explanation": "'Think' has the voiceless /θ/; 'this' and 'they' have voiced /ð/.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_138",
+      "text": "The word 'zoo' begins with a:",
+      "options": [
+        "Vowel",
+        "Nasal",
+        "Voiceless sound",
+        "Voiced sound"
+      ],
+      "correct_index": 3,
+      "explanation": "'Zoo' begins with the voiced /z/.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_139",
+      "text": "In 'church', the initial sound is a(n):",
+      "options": [
+        "Nasal",
+        "Plosive",
+        "Affricate",
+        "Fricative"
+      ],
+      "correct_index": 2,
+      "explanation": "The /tʃ/ in 'church' is an affricate.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_140",
+      "text": "The sound /b/ in 'bat' is classified as a:",
+      "options": [
+        "Fricative",
+        "Plosive",
+        "Nasal",
+        "Lateral"
+      ],
+      "correct_index": 1,
+      "explanation": "/b/ is a bilabial plosive (stop).",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_141",
+      "text": "The sound /s/ in 'sun' is a:",
+      "options": [
+        "Nasal",
+        "Fricative",
+        "Affricate",
+        "Plosive"
+      ],
+      "correct_index": 1,
+      "explanation": "/s/ is a voiceless alveolar fricative.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_142",
+      "text": "Which word contains the /ʒ/ sound (as in 'measure')?",
+      "options": [
+        "Chair",
+        "King",
+        "Ship",
+        "Vision"
+      ],
+      "correct_index": 3,
+      "explanation": "'Vision' contains the voiced /ʒ/ sound.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_143",
+      "text": "The 'l' in 'little' is a:",
+      "options": [
+        "Vowel",
+        "Nasal",
+        "Lateral",
+        "Plosive"
+      ],
+      "correct_index": 2,
+      "explanation": "/l/ is a lateral consonant, made with air flowing around the sides of the tongue.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_144",
+      "text": "The word 'cat' contains how many consonant sounds?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_index": 1,
+      "explanation": "'Cat' has two consonants (/k/ and /t/) and one vowel.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_145",
+      "text": "In the word 'important', the primary stress falls on the:",
+      "options": [
+        "Second syllable",
+        "Third syllable",
+        "All syllables equally",
+        "First syllable"
+      ],
+      "correct_index": 0,
+      "explanation": "'imPORtant' — stress is on the second syllable.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_146",
+      "text": "Which syllable is stressed in 'education'?",
+      "options": [
+        "ca-",
+        "tion",
+        "e-",
+        "du-"
+      ],
+      "correct_index": 0,
+      "explanation": "'eduCAtion' — primary stress is on the third syllable 'ca'.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_147",
+      "text": "The word 'record' is stressed differently depending on whether it is used as a noun or a verb. As a NOUN, the stress is on the:",
+      "options": [
+        "Neither",
+        "First syllable",
+        "Second syllable",
+        "Both equally"
+      ],
+      "correct_index": 1,
+      "explanation": "Nouns take first-syllable stress (REcord); verbs take second (reCORD).",
+      "difficulty": 3
+    },
+    {
+      "id": "eng_148",
+      "text": "In 'photograph', the stressed syllable is:",
+      "options": [
+        "PHO-",
+        "to-",
+        "graph",
+        "Equal stress"
+      ],
+      "correct_index": 0,
+      "explanation": "'PHOtograph' — stress is on the first syllable.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_149",
+      "text": "Which word has its stress on the first syllable?",
+      "options": [
+        "Teacher",
+        "Police",
+        "Machine",
+        "Believe"
+      ],
+      "correct_index": 0,
+      "explanation": "'TEACHer' is stressed on the first syllable; the others on the second.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_150",
+      "text": "The rise and fall of the pitch of the voice when speaking is called:",
+      "options": [
+        "Rhyme",
+        "Rhythm",
+        "Stress",
+        "Intonation"
+      ],
+      "correct_index": 3,
+      "explanation": "Intonation is the variation in pitch across speech.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_151",
+      "text": "The pattern of stressed and unstressed syllables in poetry is called:",
+      "options": [
+        "Theme",
+        "Meter",
+        "Rhyme",
+        "Stanza"
+      ],
+      "correct_index": 1,
+      "explanation": "Meter is the rhythmic pattern of stressed/unstressed syllables.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_152",
+      "text": "Which of the following words is a homophone of 'write'?",
+      "options": [
+        "Ride",
+        "Right",
+        "Rite (both b and c)",
+        "Rate"
+      ],
+      "correct_index": 2,
+      "explanation": "'Write', 'right' and 'rite' all sound alike but differ in spelling/meaning.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_153",
+      "text": "A word that has the same spelling but different meanings is a:",
+      "options": [
+        "Homograph",
+        "Synonym",
+        "Antonym",
+        "Homophone"
+      ],
+      "correct_index": 0,
+      "explanation": "A homograph is spelt the same but has different meanings (e.g. 'bank').",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_154",
+      "text": "'Sea' and 'see' are examples of:",
+      "options": [
+        "Homographs",
+        "Antonyms",
+        "Synonyms",
+        "Homophones"
+      ],
+      "correct_index": 3,
+      "explanation": "They sound alike but differ in spelling and meaning: homophones.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_155",
+      "text": "In a declarative statement, the intonation pattern is typically:",
+      "options": [
+        "Rising-falling",
+        "Rising",
+        "Falling",
+        "Level"
+      ],
+      "correct_index": 2,
+      "explanation": "Statements normally end with falling intonation.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_156",
+      "text": "Yes/no questions typically end with ___ intonation.",
+      "options": [
+        "Falling",
+        "Rising",
+        "Level",
+        "Monotone"
+      ],
+      "correct_index": 1,
+      "explanation": "Yes/no questions use rising intonation at the end.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_157",
+      "text": "In a passage, if an author describes a character as 'frugal', the character is:",
+      "options": [
+        "Careful with money",
+        "Dishonest",
+        "Generous",
+        "Wasteful"
+      ],
+      "correct_index": 0,
+      "explanation": "'Frugal' means economical and careful about spending.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_158",
+      "text": "The primary purpose of a persuasive passage is to:",
+      "options": [
+        "Convince the reader",
+        "List facts only",
+        "Narrate a story",
+        "Describe a place"
+      ],
+      "correct_index": 0,
+      "explanation": "Persuasive writing aims to convince or persuade the reader.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_159",
+      "text": "In comprehension, the main idea of a passage is best found by:",
+      "options": [
+        "Ignoring the title",
+        "Reading only the first word",
+        "Identifying the central point the writer makes",
+        "Counting paragraphs"
+      ],
+      "correct_index": 2,
+      "explanation": "The main idea is the central point or message of the passage.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_160",
+      "text": "A summary of a passage should:",
+      "options": [
+        "Be longer than the original",
+        "Include the key points only",
+        "Copy sentences word-for-word",
+        "Add the reader's opinion"
+      ],
+      "correct_index": 1,
+      "explanation": "A summary condenses a passage to its key points without copying.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_161",
+      "text": "The word 'emigrate' means to:",
+      "options": [
+        "Leave one's country to live elsewhere",
+        "Travel for fun",
+        "Return home",
+        "Enter a country"
+      ],
+      "correct_index": 0,
+      "explanation": "'Emigrate' means to leave one's country to settle in another.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_162",
+      "text": "'Immigrate' means to:",
+      "options": [
+        "Visit briefly",
+        "Become a citizen automatically",
+        "Leave a country",
+        "Enter and settle in a new country"
+      ],
+      "correct_index": 3,
+      "explanation": "'Immigrate' means to come into a country to live there.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_163",
+      "text": "Choose the correct option: 'The lecture was so boring that most students ___ off.'",
+      "options": [
+        "dozes",
+        "dozed",
+        "dazed",
+        "drowsed"
+      ],
+      "correct_index": 1,
+      "explanation": "'Dozed off' is the correct phrasal verb meaning to fall asleep briefly.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_164",
+      "text": "Select the correct option: 'He was accused ___ stealing.'",
+      "options": [
+        "for",
+        "of",
+        "with",
+        "about"
+      ],
+      "correct_index": 1,
+      "explanation": "'Accused of' is the correct collocation.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_165",
+      "text": "Choose the correct option: 'She was absorbed ___ her book.'",
+      "options": [
+        "at",
+        "on",
+        "by",
+        "in"
+      ],
+      "correct_index": 3,
+      "explanation": "'Absorbed in' is the standard collocation.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_166",
+      "text": "Select the correct option: 'The boys were divided ___ two groups.'",
+      "options": [
+        "on",
+        "with",
+        "into",
+        "in"
+      ],
+      "correct_index": 2,
+      "explanation": "'Divided into' is the correct collocation.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_167",
+      "text": "Choose the correct option: 'I am fed up ___ this noise.'",
+      "options": [
+        "for",
+        "of",
+        "with",
+        "by"
+      ],
+      "correct_index": 2,
+      "explanation": "'Fed up with' is the standard expression.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_168",
+      "text": "Select the correct option: 'He congratulated her ___ her success.'",
+      "options": [
+        "for",
+        "on",
+        "at",
+        "with"
+      ],
+      "correct_index": 1,
+      "explanation": "'Congratulate someone on something' is correct.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_169",
+      "text": "Choose the correct option: 'The teacher insisted ___ punctuality.'",
+      "options": [
+        "on",
+        "at",
+        "in",
+        "for"
+      ],
+      "correct_index": 0,
+      "explanation": "'Insist on' is the correct collocation.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_170",
+      "text": "Select the correct option: 'We should always aim ___ excellence.'",
+      "options": [
+        "on",
+        "to",
+        "at",
+        "for"
+      ],
+      "correct_index": 2,
+      "explanation": "'Aim at' is the standard collocation.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_171",
+      "text": "Choose the option nearest in meaning to 'candid' in: 'He gave a candid account of the event.'",
+      "options": [
+        "Biased",
+        "False",
+        "Frank",
+        "Brief"
+      ],
+      "correct_index": 2,
+      "explanation": "'Candid' here means frank and truthful.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_172",
+      "text": "In the sentence 'The drought devastated the crops', 'devastated' means:",
+      "options": [
+        "Improved",
+        "Destroyed",
+        "Watered",
+        "Harvested"
+      ],
+      "correct_index": 1,
+      "explanation": "'Devastated' means ruined or destroyed completely.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_173",
+      "text": "Choose the option nearest in meaning to the word in italics: 'His ARGUMENT was compelling.'",
+      "options": [
+        "Convincing",
+        "Long",
+        "Confusing",
+        "Weak"
+      ],
+      "correct_index": 0,
+      "explanation": "'Compelling' means convincing and persuasive.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_174",
+      "text": "The word 'scanty' in 'scanty rainfall' means:",
+      "options": [
+        "Heavy",
+        "Regular",
+        "Plentiful",
+        "Meagre"
+      ],
+      "correct_index": 3,
+      "explanation": "'Scanty' means small or insufficient in amount; meagre.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_175",
+      "text": "'The officer was impartial in his judgment.' 'Impartial' means:",
+      "options": [
+        "Harsh",
+        "Biased",
+        "Unfair",
+        "Neutral"
+      ],
+      "correct_index": 3,
+      "explanation": "'Impartial' means fair and unbiased; neutral.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_176",
+      "text": "Choose the option that best completes: 'Her sudden wealth was ___ by envy among her peers.'",
+      "options": [
+        "welcomed",
+        "greeted",
+        "followed",
+        "preceded"
+      ],
+      "correct_index": 2,
+      "explanation": "'Followed by' fits the context: wealth then envy.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_177",
+      "text": "Choose the option nearest in meaning to 'procrastinate'.",
+      "options": [
+        "Delay",
+        "Plan",
+        "Decide",
+        "Hurry"
+      ],
+      "correct_index": 0,
+      "explanation": "'Procrastinate' means to delay or postpone action.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_178",
+      "text": "'Ambiguous' most nearly means:",
+      "options": [
+        "Exact",
+        "Short",
+        "Clear",
+        "Having more than one possible meaning"
+      ],
+      "correct_index": 3,
+      "explanation": "'Ambiguous' means open to more than one interpretation.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_179",
+      "text": "Choose the option nearest in meaning to 'concise'.",
+      "options": [
+        "Boring",
+        "Long-winded",
+        "Brief and clear",
+        "Detailed"
+      ],
+      "correct_index": 2,
+      "explanation": "'Concise' means giving much information clearly in few words.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_180",
+      "text": "'Hostile' in 'a hostile environment' means:",
+      "options": [
+        "Friendly",
+        "Unfriendly and harsh",
+        "Comfortable",
+        "Quiet"
+      ],
+      "correct_index": 1,
+      "explanation": "'Hostile' means unfriendly, harsh, or adverse.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_181",
+      "text": "Choose the option nearest in meaning to 'exhausted'.",
+      "options": [
+        "Very tired",
+        "Excited",
+        "Hungry",
+        "Rested"
+      ],
+      "correct_index": 0,
+      "explanation": "'Exhausted' means extremely tired.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_182",
+      "text": "'Vanish' most nearly means:",
+      "options": [
+        "Return",
+        "Grow",
+        "Appear",
+        "Disappear"
+      ],
+      "correct_index": 3,
+      "explanation": "'Vanish' means to disappear suddenly.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_183",
+      "text": "Choose the option nearest in meaning to 'triumph'.",
+      "options": [
+        "Loss",
+        "Defeat",
+        "Victory",
+        "Struggle"
+      ],
+      "correct_index": 2,
+      "explanation": "'Triumph' means a great victory or achievement.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_184",
+      "text": "'Audacious' most nearly means:",
+      "options": [
+        "Cowardly",
+        "Bold",
+        "Timid",
+        "Careful"
+      ],
+      "correct_index": 1,
+      "explanation": "'Audacious' means daring and bold.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_185",
+      "text": "Choose the option nearest in meaning to 'obstinate'.",
+      "options": [
+        "Stubborn",
+        "Obedient",
+        "Kind",
+        "Flexible"
+      ],
+      "correct_index": 0,
+      "explanation": "'Obstinate' means stubbornly refusing to change one's mind.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_186",
+      "text": "'Serene' most nearly means:",
+      "options": [
+        "Stormy",
+        "Busy",
+        "Noisy",
+        "Calm"
+      ],
+      "correct_index": 3,
+      "explanation": "'Serene' means calm, peaceful, and untroubled.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_187",
+      "text": "Choose the option opposite in meaning to 'acquit'.",
+      "options": [
+        "Pardon",
+        "Free",
+        "Convict",
+        "Release"
+      ],
+      "correct_index": 2,
+      "explanation": "'Acquit' means to declare innocent; opposite is 'convict'.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_188",
+      "text": "The opposite of 'attract' is:",
+      "options": [
+        "Draw",
+        "Repel",
+        "Charm",
+        "Pull"
+      ],
+      "correct_index": 1,
+      "explanation": "'Attract' means to draw toward; opposite is 'repel'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_189",
+      "text": "Choose the option opposite in meaning to 'assemble'.",
+      "options": [
+        "Disperse",
+        "Build",
+        "Collect",
+        "Gather"
+      ],
+      "correct_index": 0,
+      "explanation": "'Assemble' means to gather; opposite is 'disperse'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_190",
+      "text": "The opposite of 'ancient' is:",
+      "options": [
+        "Primitive",
+        "Antique",
+        "Old",
+        "Modern"
+      ],
+      "correct_index": 3,
+      "explanation": "'Ancient' means very old; opposite is 'modern'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_191",
+      "text": "Choose the option opposite in meaning to 'confess'.",
+      "options": [
+        "Acknowledge",
+        "Admit",
+        "Deny",
+        "Reveal"
+      ],
+      "correct_index": 2,
+      "explanation": "'Confess' means to admit; opposite is 'deny'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_192",
+      "text": "The opposite of 'generous' is:",
+      "options": [
+        "Kind",
+        "Stingy",
+        "Giving",
+        "Charitable"
+      ],
+      "correct_index": 1,
+      "explanation": "'Generous' means freely giving; opposite is 'stingy'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_193",
+      "text": "Choose the option opposite in meaning to 'applaud'.",
+      "options": [
+        "Boo",
+        "Praise",
+        "Clap",
+        "Cheer"
+      ],
+      "correct_index": 0,
+      "explanation": "'Applaud' means to show approval; opposite is 'boo'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_194",
+      "text": "The opposite of 'arrival' is:",
+      "options": [
+        "Entry",
+        "Advent",
+        "Coming",
+        "Departure"
+      ],
+      "correct_index": 3,
+      "explanation": "'Arrival' means coming; opposite is 'departure'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_195",
+      "text": "Choose the option opposite in meaning to 'sorrow'.",
+      "options": [
+        "Pain",
+        "Sadness",
+        "Joy",
+        "Grief"
+      ],
+      "correct_index": 2,
+      "explanation": "'Sorrow' means sadness; opposite is 'joy'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_196",
+      "text": "The opposite of 'swift' is:",
+      "options": [
+        "Fast",
+        "Slow",
+        "Quick",
+        "Rapid"
+      ],
+      "correct_index": 1,
+      "explanation": "'Swift' means fast; opposite is 'slow'.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_197",
+      "text": "Select the correctly punctuated sentence.",
+      "options": [
+        "Where are you going.",
+        "Where, are you going?",
+        "Where are you going?!",
+        "Where are you going?"
+      ],
+      "correct_index": 3,
+      "explanation": "A question must end with a single question mark.",
+      "difficulty": 1
+    },
+    {
+      "id": "eng_198",
+      "text": "Choose the correct option: 'I ___ my keys; I can't find them anywhere.'",
+      "options": [
+        "am losing",
+        "lost yesterday",
+        "lose",
+        "have lost"
+      ],
+      "correct_index": 3,
+      "explanation": "The present perfect 'have lost' is used for a past action with present relevance.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_199",
+      "text": "Select the correct form: 'By the time we arrived, the film ___.'",
+      "options": [
+        "starts",
+        "started",
+        "has started",
+        "had started"
+      ],
+      "correct_index": 3,
+      "explanation": "Past perfect 'had started' is used for an action completed before another past action.",
+      "difficulty": 2
+    },
+    {
+      "id": "eng_200",
+      "text": "Choose the correct option: 'Hardly had he left ___ it began to rain.'",
+      "options": [
+        "than",
+        "when",
+        "then",
+        "as"
+      ],
+      "correct_index": 1,
+      "explanation": "'Hardly...when' is the correct correlative structure.",
+      "difficulty": 3
+    }
+  ]
+}

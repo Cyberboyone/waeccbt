@@ -1,0 +1,2607 @@
+{
+  "course_id": "bio",
+  "course_name": "Biology",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "bio_001",
+      "text": "The basic unit of life is the:",
+      "options": [
+        "Cell",
+        "Organ",
+        "Organism",
+        "Tissue"
+      ],
+      "correct_index": 0,
+      "explanation": "The cell is the basic structural unit of life.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_002",
+      "text": "The organelle known as the powerhouse of the cell is the:",
+      "options": [
+        "Nucleus",
+        "Golgi body",
+        "Ribosome",
+        "Mitochondrion"
+      ],
+      "correct_index": 3,
+      "explanation": "Mitochondria produce ATP (energy).",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_003",
+      "text": "The control centre of the cell is the:",
+      "options": [
+        "Vacuole",
+        "Cytoplasm",
+        "Nucleus",
+        "Ribosome"
+      ],
+      "correct_index": 2,
+      "explanation": "The nucleus controls cell activities.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_004",
+      "text": "The site of protein synthesis is the:",
+      "options": [
+        "Mitochondrion",
+        "Ribosome",
+        "Lysosome",
+        "Chloroplast"
+      ],
+      "correct_index": 1,
+      "explanation": "Ribosomes synthesise proteins.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_005",
+      "text": "The organelle that contains chlorophyll and carries out photosynthesis is the:",
+      "options": [
+        "Chloroplast",
+        "Ribosome",
+        "Nucleus",
+        "Mitochondrion"
+      ],
+      "correct_index": 0,
+      "explanation": "Chloroplasts perform photosynthesis.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_006",
+      "text": "Which organelle is found in plant cells but not animal cells?",
+      "options": [
+        "Nucleus",
+        "Ribosome",
+        "Mitochondrion",
+        "Chloroplast"
+      ],
+      "correct_index": 3,
+      "explanation": "Chloroplasts are unique to plant cells.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_007",
+      "text": "The cell wall of plants is mainly made of:",
+      "options": [
+        "Chitin",
+        "Protein",
+        "Cellulose",
+        "Lipid"
+      ],
+      "correct_index": 2,
+      "explanation": "Plant cell walls are cellulose.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_008",
+      "text": "The genetic material of a cell is stored in the:",
+      "options": [
+        "Cytoplasm",
+        "Nucleus",
+        "Vacuole",
+        "Cell membrane"
+      ],
+      "correct_index": 1,
+      "explanation": "DNA is in the nucleus.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_009",
+      "text": "The semi-permeable membrane surrounding the cytoplasm is the:",
+      "options": [
+        "Cell (plasma) membrane",
+        "Nuclear membrane",
+        "Vacuole",
+        "Cell wall"
+      ],
+      "correct_index": 0,
+      "explanation": "The plasma membrane surrounds the cytoplasm.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_010",
+      "text": "The jelly-like substance that fills the cell is the:",
+      "options": [
+        "Protoplasm only",
+        "Matrix",
+        "Nucleoplasm",
+        "Cytoplasm"
+      ],
+      "correct_index": 3,
+      "explanation": "Cytoplasm is the jelly-like cell fluid.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_011",
+      "text": "Which of the following is a prokaryotic organism?",
+      "options": [
+        "Paramecium",
+        "Amoeba",
+        "Bacterium",
+        "Euglena"
+      ],
+      "correct_index": 2,
+      "explanation": "Bacteria lack a true nucleus (prokaryotes).",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_012",
+      "text": "Organisms with a true nucleus are called:",
+      "options": [
+        "Prokaryotes",
+        "Eukaryotes",
+        "Viruses",
+        "Prions"
+      ],
+      "correct_index": 1,
+      "explanation": "Eukaryotes have a membrane-bound nucleus.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_013",
+      "text": "The movement of water molecules from high to low concentration through a membrane is:",
+      "options": [
+        "Osmosis",
+        "Active transport",
+        "Phagocytosis",
+        "Diffusion"
+      ],
+      "correct_index": 0,
+      "explanation": "Osmosis is water movement across a membrane.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_014",
+      "text": "The movement of molecules from high to low concentration is:",
+      "options": [
+        "Active transport",
+        "Transpiration",
+        "Osmosis",
+        "Diffusion"
+      ],
+      "correct_index": 3,
+      "explanation": "Diffusion moves molecules down a concentration gradient.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_015",
+      "text": "The movement of substances against a concentration gradient using energy is:",
+      "options": [
+        "Plasmolysis",
+        "Diffusion",
+        "Active transport",
+        "Osmosis"
+      ],
+      "correct_index": 2,
+      "explanation": "Active transport needs energy (ATP).",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_016",
+      "text": "The five kingdoms of classification include all EXCEPT:",
+      "options": [
+        "Monera",
+        "Protista",
+        "Animalia",
+        "Bacteria are in Monera"
+      ],
+      "correct_index": 3,
+      "explanation": "The five kingdoms are Monera, Protista, Fungi, Plantae, Animalia.",
+      "difficulty": 2
+    },
+    {
+      "id": "bio_017",
+      "text": "The binomial system of naming organisms uses:",
+      "options": [
+        "One name",
+        "Three names",
+        "Common names",
+        "Two Latin names"
+      ],
+      "correct_index": 3,
+      "explanation": "Binomial nomenclature uses genus + species.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_018",
+      "text": "The scientific name of humans is:",
+      "options": [
+        "Homo habilis",
+        "Australopithecus",
+        "Homo erectus",
+        "Homo sapiens"
+      ],
+      "correct_index": 3,
+      "explanation": "Humans are Homo sapiens.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_019",
+      "text": "The kingdom of organisms that feed by decomposing organic matter is:",
+      "options": [
+        "Monera",
+        "Plantae",
+        "Fungi",
+        "Animalia"
+      ],
+      "correct_index": 2,
+      "explanation": "Fungi are decomposers.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_020",
+      "text": "Viruses are considered non-living because they:",
+      "options": [
+        "Reproduce independently",
+        "Cannot reproduce outside a host",
+        "Have DNA only",
+        "Are too small"
+      ],
+      "correct_index": 1,
+      "explanation": "Viruses need a host cell to reproduce.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_021",
+      "text": "A group of organisms that can interbreed to produce fertile offspring is a:",
+      "options": [
+        "Species",
+        "Family",
+        "Order",
+        "Genus"
+      ],
+      "correct_index": 0,
+      "explanation": "A species can interbreed with fertile offspring.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_022",
+      "text": "The correct order of taxonomic hierarchy (largest to smallest) is:",
+      "options": [
+        "Kingdom, Class, Phylum, Order, Family, Genus, Species",
+        "Phylum, Kingdom, Class, Order, Family, Genus, Species",
+        "Kingdom, Phylum, Class, Order, Family, Genus, Species",
+        "Species, Genus, Family, Order, Class, Phylum, Kingdom"
+      ],
+      "correct_index": 2,
+      "explanation": "Kingdom → Phylum → Class → Order → Family → Genus → Species.",
+      "difficulty": 2
+    },
+    {
+      "id": "bio_023",
+      "text": "Mushrooms belong to the kingdom:",
+      "options": [
+        "Monera",
+        "Plantae",
+        "Fungi",
+        "Protista"
+      ],
+      "correct_index": 2,
+      "explanation": "Mushrooms are fungi.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_024",
+      "text": "Which of the following is an example of a protist?",
+      "options": [
+        "Yeast",
+        "Amoeba",
+        "Bacterium",
+        "Mould"
+      ],
+      "correct_index": 1,
+      "explanation": "Amoeba is a protist.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_025",
+      "text": "The study of the classification of organisms is called:",
+      "options": [
+        "Taxonomy",
+        "Genetics",
+        "Anatomy",
+        "Ecology"
+      ],
+      "correct_index": 0,
+      "explanation": "Taxonomy is the science of classification.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_026",
+      "text": "The process by which green plants make their food is:",
+      "options": [
+        "Transpiration",
+        "Fermentation",
+        "Respiration",
+        "Photosynthesis"
+      ],
+      "correct_index": 3,
+      "explanation": "Plants make glucose by photosynthesis.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_027",
+      "text": "Photosynthesis takes place mainly in the:",
+      "options": [
+        "Flower",
+        "Root",
+        "Leaf",
+        "Stem only"
+      ],
+      "correct_index": 2,
+      "explanation": "Photosynthesis occurs mostly in leaves.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_028",
+      "text": "The raw materials for photosynthesis are:",
+      "options": [
+        "Oxygen and glucose",
+        "Carbon dioxide and water",
+        "Nitrogen and water",
+        "Oxygen and water"
+      ],
+      "correct_index": 1,
+      "explanation": "CO₂ + H₂O → glucose + O₂.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_029",
+      "text": "The gas released as a by-product of photosynthesis is:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen",
+        "Carbon dioxide"
+      ],
+      "correct_index": 0,
+      "explanation": "Oxygen is released.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_030",
+      "text": "The green pigment that absorbs light for photosynthesis is:",
+      "options": [
+        "Melanin",
+        "Carotene",
+        "Haemoglobin",
+        "Chlorophyll"
+      ],
+      "correct_index": 3,
+      "explanation": "Chlorophyll absorbs light.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_031",
+      "text": "The pores on leaves through which gases are exchanged are called:",
+      "options": [
+        "Xylem",
+        "Lenticels",
+        "Stomata",
+        "Guard cells"
+      ],
+      "correct_index": 2,
+      "explanation": "Stomata allow gas exchange.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_032",
+      "text": "The light-independent stage of photosynthesis is the:",
+      "options": [
+        "Calvin cycle",
+        "Glycolysis",
+        "Krebs cycle",
+        "Electron transport"
+      ],
+      "correct_index": 0,
+      "explanation": "The Calvin cycle fixes CO₂ in the dark stage.",
+      "difficulty": 2
+    },
+    {
+      "id": "bio_033",
+      "text": "The stored form of carbohydrate in plants is:",
+      "options": [
+        "Starch",
+        "Glucose",
+        "Fructose",
+        "Glycogen"
+      ],
+      "correct_index": 0,
+      "explanation": "Plants store starch.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_034",
+      "text": "The loss of water vapour from plant leaves is:",
+      "options": [
+        "Evaporation",
+        "Condensation",
+        "Guttation",
+        "Transpiration"
+      ],
+      "correct_index": 3,
+      "explanation": "Transpiration is water loss from leaves.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_035",
+      "text": "The tissue that transports water in plants is the:",
+      "options": [
+        "Epidermis",
+        "Phloem",
+        "Xylem",
+        "Cambium"
+      ],
+      "correct_index": 2,
+      "explanation": "Xylem transports water and minerals.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_036",
+      "text": "The tissue that transports food (sugars) in plants is the:",
+      "options": [
+        "Xylem",
+        "Phloem",
+        "Cambium",
+        "Cortex"
+      ],
+      "correct_index": 1,
+      "explanation": "Phloem transports sugars.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_037",
+      "text": "Autotrophic nutrition means an organism:",
+      "options": [
+        "Makes its own food",
+        "Feeds on dead matter",
+        "Is parasitic",
+        "Feeds on others"
+      ],
+      "correct_index": 0,
+      "explanation": "Autotrophs make their own food.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_038",
+      "text": "Heterotrophic nutrition means an organism:",
+      "options": [
+        "Uses light",
+        "Fixes nitrogen",
+        "Makes its own food",
+        "Depends on others for food"
+      ],
+      "correct_index": 3,
+      "explanation": "Heterotrophs depend on other organisms.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_039",
+      "text": "The type of nutrition where an organism feeds on dead organic matter is:",
+      "options": [
+        "Symbiotic",
+        "Parasitic",
+        "Saprophytic",
+        "Holozoic"
+      ],
+      "correct_index": 2,
+      "explanation": "Saprophytes feed on dead matter.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_040",
+      "text": "An organism that lives on another and harms it is a:",
+      "options": [
+        "Saprophyte",
+        "Parasite",
+        "Symbiont",
+        "Autotroph"
+      ],
+      "correct_index": 1,
+      "explanation": "Parasites harm their hosts.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_041",
+      "text": "The digestion of food in humans begins in the:",
+      "options": [
+        "Mouth",
+        "Small intestine",
+        "Oesophagus",
+        "Stomach"
+      ],
+      "correct_index": 0,
+      "explanation": "Digestion starts in the mouth (saliva).",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_042",
+      "text": "The enzyme in saliva that digests starch is:",
+      "options": [
+        "Lipase",
+        "Trypsin",
+        "Pepsin",
+        "Amylase"
+      ],
+      "correct_index": 3,
+      "explanation": "Salivary amylase breaks down starch.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_043",
+      "text": "The stomach produces which acid?",
+      "options": [
+        "Acetic acid",
+        "Sulphuric acid",
+        "Hydrochloric acid",
+        "Nitric acid"
+      ],
+      "correct_index": 2,
+      "explanation": "The stomach secretes HCl.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_044",
+      "text": "The enzyme pepsin digests:",
+      "options": [
+        "Starch",
+        "Proteins",
+        "Fats",
+        "Sugars"
+      ],
+      "correct_index": 1,
+      "explanation": "Pepsin digests proteins.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_045",
+      "text": "Bile is produced by the:",
+      "options": [
+        "Liver",
+        "Stomach",
+        "Gall bladder",
+        "Pancreas"
+      ],
+      "correct_index": 0,
+      "explanation": "Bile is produced by the liver.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_046",
+      "text": "Bile is stored in the:",
+      "options": [
+        "Pancreas",
+        "Stomach",
+        "Liver",
+        "Gall bladder"
+      ],
+      "correct_index": 3,
+      "explanation": "Bile is stored in the gall bladder.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_047",
+      "text": "Bile aids in the digestion of:",
+      "options": [
+        "Vitamins",
+        "Proteins",
+        "Fats",
+        "Carbohydrates"
+      ],
+      "correct_index": 2,
+      "explanation": "Bile emulsifies fats.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_048",
+      "text": "The main site of absorption of digested food is the:",
+      "options": [
+        "Stomach",
+        "Small intestine",
+        "Large intestine",
+        "Oesophagus"
+      ],
+      "correct_index": 1,
+      "explanation": "Most absorption occurs in the small intestine.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_049",
+      "text": "The finger-like projections that increase absorption in the small intestine are:",
+      "options": [
+        "Cilia",
+        "Alveoli",
+        "Nephrons",
+        "Villi"
+      ],
+      "correct_index": 3,
+      "explanation": "Villi increase surface area for absorption.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_050",
+      "text": "The end products of carbohydrate digestion are:",
+      "options": [
+        "Fatty acids",
+        "Glycerol",
+        "Amino acids",
+        "Simple sugars (glucose)"
+      ],
+      "correct_index": 3,
+      "explanation": "Carbohydrates → simple sugars.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_051",
+      "text": "The end products of protein digestion are:",
+      "options": [
+        "Glycerol",
+        "Glucose",
+        "Amino acids",
+        "Fatty acids"
+      ],
+      "correct_index": 2,
+      "explanation": "Proteins → amino acids.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_052",
+      "text": "The end products of fat digestion are:",
+      "options": [
+        "Glucose",
+        "Fatty acids and glycerol",
+        "Amino acids",
+        "Sugars"
+      ],
+      "correct_index": 1,
+      "explanation": "Fats → fatty acids + glycerol.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_053",
+      "text": "Which of the following is a vitamin deficiency disease?",
+      "options": [
+        "Scurvy",
+        "Typhoid",
+        "Cholera",
+        "Malaria"
+      ],
+      "correct_index": 0,
+      "explanation": "Scurvy is due to vitamin C deficiency.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_054",
+      "text": "A diet lacking in iodine leads to:",
+      "options": [
+        "Rickets",
+        "Beriberi",
+        "Anaemia",
+        "Goitre"
+      ],
+      "correct_index": 3,
+      "explanation": "Iodine deficiency causes goitre.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_055",
+      "text": "Vitamin D deficiency in children causes:",
+      "options": [
+        "Pellagra",
+        "Scurvy",
+        "Rickets",
+        "Night blindness"
+      ],
+      "correct_index": 2,
+      "explanation": "Rickets results from vitamin D deficiency.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_056",
+      "text": "The fluid that transports oxygen in the blood is:",
+      "options": [
+        "Plasma",
+        "Haemoglobin in red blood cells",
+        "White blood cells",
+        "Platelets"
+      ],
+      "correct_index": 1,
+      "explanation": "Haemoglobin in RBCs carries oxygen.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_057",
+      "text": "The pigment that gives red blood cells their colour and carries oxygen is:",
+      "options": [
+        "Haemoglobin",
+        "Melanin",
+        "Carotene",
+        "Chlorophyll"
+      ],
+      "correct_index": 0,
+      "explanation": "Haemoglobin carries oxygen.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_058",
+      "text": "The blood cells responsible for fighting infection are:",
+      "options": [
+        "Platelets",
+        "Plasma",
+        "Red blood cells",
+        "White blood cells"
+      ],
+      "correct_index": 3,
+      "explanation": "White blood cells fight infection.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_059",
+      "text": "The blood cells responsible for clotting are:",
+      "options": [
+        "Plasma",
+        "Red blood cells",
+        "White blood cells",
+        "Platelets"
+      ],
+      "correct_index": 3,
+      "explanation": "Platelets help blood clotting.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_060",
+      "text": "The liquid part of blood is:",
+      "options": [
+        "Serum",
+        "Plasma",
+        "Lymph",
+        "Water only"
+      ],
+      "correct_index": 1,
+      "explanation": "Plasma is the liquid component of blood.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_061",
+      "text": "The heart is divided into how many chambers?",
+      "options": [
+        "4",
+        "3",
+        "1",
+        "2"
+      ],
+      "correct_index": 0,
+      "explanation": "The human heart has four chambers.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_062",
+      "text": "The blood vessel that carries blood away from the heart is the:",
+      "options": [
+        "Capillary",
+        "Venule",
+        "Vein",
+        "Artery"
+      ],
+      "correct_index": 3,
+      "explanation": "Arteries carry blood from the heart.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_063",
+      "text": "The blood vessel that carries blood toward the heart is the:",
+      "options": [
+        "Arteriole",
+        "Artery",
+        "Vein",
+        "Capillary"
+      ],
+      "correct_index": 2,
+      "explanation": "Veins carry blood to the heart.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_064",
+      "text": "The artery that carries deoxygenated blood is the:",
+      "options": [
+        "Aorta",
+        "Pulmonary artery",
+        "Carotid",
+        "Coronary"
+      ],
+      "correct_index": 1,
+      "explanation": "The pulmonary artery carries deoxygenated blood to the lungs.",
+      "difficulty": 2
+    },
+    {
+      "id": "bio_065",
+      "text": "The vein that carries oxygenated blood is the:",
+      "options": [
+        "Pulmonary vein",
+        "Jugular",
+        "Hepatic vein",
+        "Vena cava"
+      ],
+      "correct_index": 0,
+      "explanation": "The pulmonary vein returns oxygenated blood.",
+      "difficulty": 2
+    },
+    {
+      "id": "bio_066",
+      "text": "The site of gas exchange in the lungs is the:",
+      "options": [
+        "Trachea",
+        "Bronchioles",
+        "Bronchi",
+        "Alveoli"
+      ],
+      "correct_index": 3,
+      "explanation": "Gas exchange occurs in the alveoli.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_067",
+      "text": "The process of breaking down glucose to release energy is:",
+      "options": [
+        "Digestion",
+        "Photosynthesis",
+        "Respiration",
+        "Transpiration"
+      ],
+      "correct_index": 2,
+      "explanation": "Respiration releases energy from glucose.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_068",
+      "text": "The type of respiration that requires oxygen is:",
+      "options": [
+        "Anaerobic",
+        "Aerobic",
+        "Fermentation",
+        "Glycolysis"
+      ],
+      "correct_index": 1,
+      "explanation": "Aerobic respiration uses oxygen.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_069",
+      "text": "Respiration that does not require oxygen is:",
+      "options": [
+        "Anaerobic",
+        "Oxidative",
+        "Cellular",
+        "Aerobic"
+      ],
+      "correct_index": 0,
+      "explanation": "Anaerobic respiration needs no oxygen.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_070",
+      "text": "The end product of anaerobic respiration in animals is:",
+      "options": [
+        "Water",
+        "Glucose",
+        "Ethanol",
+        "Lactic acid"
+      ],
+      "correct_index": 3,
+      "explanation": "Animal anaerobic respiration forms lactic acid.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_071",
+      "text": "The end product of anaerobic respiration in yeast is:",
+      "options": [
+        "Oxygen",
+        "Lactic acid",
+        "Ethanol and CO₂",
+        "Water"
+      ],
+      "correct_index": 2,
+      "explanation": "Yeast fermentation produces ethanol and CO₂.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_072",
+      "text": "The organelle where aerobic respiration occurs is the:",
+      "options": [
+        "Ribosome",
+        "Mitochondrion",
+        "Nucleus",
+        "Chloroplast"
+      ],
+      "correct_index": 1,
+      "explanation": "Aerobic respiration occurs in mitochondria.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_073",
+      "text": "The first stage of respiration (glucose splitting) is:",
+      "options": [
+        "Glycolysis",
+        "Electron transport",
+        "Calvin cycle",
+        "Krebs cycle"
+      ],
+      "correct_index": 0,
+      "explanation": "Glycolysis splits glucose into pyruvate.",
+      "difficulty": 2
+    },
+    {
+      "id": "bio_074",
+      "text": "The gas breathed in during respiration is:",
+      "options": [
+        "Nitrogen",
+        "Hydrogen",
+        "Carbon dioxide",
+        "Oxygen"
+      ],
+      "correct_index": 3,
+      "explanation": "Oxygen is inhaled for respiration.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_075",
+      "text": "The gas breathed out during respiration is:",
+      "options": [
+        "Helium",
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen"
+      ],
+      "correct_index": 2,
+      "explanation": "CO₂ is exhaled.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_076",
+      "text": "The functional unit of the kidney is the:",
+      "options": [
+        "Neuron",
+        "Nephron",
+        "Alveolus",
+        "Villus"
+      ],
+      "correct_index": 1,
+      "explanation": "The nephron is the kidney's functional unit.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_077",
+      "text": "The organs that excrete urine are the:",
+      "options": [
+        "Kidneys",
+        "Skin",
+        "Liver",
+        "Lungs"
+      ],
+      "correct_index": 0,
+      "explanation": "Kidneys excrete urine.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_078",
+      "text": "The main nitrogenous waste excreted by humans is:",
+      "options": [
+        "Ammonia",
+        "Creatinine only",
+        "Uric acid",
+        "Urea"
+      ],
+      "correct_index": 3,
+      "explanation": "Humans excrete urea.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_079",
+      "text": "The process of removing metabolic waste from the body is:",
+      "options": [
+        "Digestion",
+        "Egestion",
+        "Excretion",
+        "Secretion"
+      ],
+      "correct_index": 2,
+      "explanation": "Excretion removes metabolic wastes.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_080",
+      "text": "The lungs excrete which waste product?",
+      "options": [
+        "Urea",
+        "Carbon dioxide",
+        "Uric acid",
+        "Salts"
+      ],
+      "correct_index": 1,
+      "explanation": "The lungs excrete CO₂.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_081",
+      "text": "The skin excretes waste through:",
+      "options": [
+        "Sweat",
+        "Faeces",
+        "Saliva",
+        "Urine"
+      ],
+      "correct_index": 0,
+      "explanation": "The skin excretes via sweat glands.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_082",
+      "text": "The organ that filters blood to form urine is the:",
+      "options": [
+        "Spleen",
+        "Pancreas",
+        "Liver",
+        "Kidney"
+      ],
+      "correct_index": 3,
+      "explanation": "The kidneys filter blood.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_083",
+      "text": "The tube that carries urine from the kidney to the bladder is the:",
+      "options": [
+        "Renal vein",
+        "Urethra",
+        "Ureter",
+        "Nephron"
+      ],
+      "correct_index": 2,
+      "explanation": "The ureter carries urine to the bladder.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_084",
+      "text": "The tube that carries urine out of the body is the:",
+      "options": [
+        "Ureter",
+        "Urethra",
+        "Bladder",
+        "Renal artery"
+      ],
+      "correct_index": 1,
+      "explanation": "The urethra carries urine out.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_085",
+      "text": "The skeleton of humans provides:",
+      "options": [
+        "Support, protection and movement",
+        "Only protection",
+        "Only storage",
+        "Only movement"
+      ],
+      "correct_index": 0,
+      "explanation": "The skeleton supports, protects and enables movement.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_086",
+      "text": "The bones are connected to each other at:",
+      "options": [
+        "Tendons",
+        "Ligaments",
+        "Muscles",
+        "Joints"
+      ],
+      "correct_index": 3,
+      "explanation": "Bones meet at joints.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_087",
+      "text": "The tissue that connects muscle to bone is:",
+      "options": [
+        "Skin",
+        "Ligament",
+        "Tendon",
+        "Cartilage"
+      ],
+      "correct_index": 2,
+      "explanation": "Tendons connect muscle to bone.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_088",
+      "text": "The tissue that connects bone to bone is:",
+      "options": [
+        "Tendon",
+        "Ligament",
+        "Cartilage",
+        "Muscle"
+      ],
+      "correct_index": 1,
+      "explanation": "Ligaments connect bones.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_089",
+      "text": "The bones that protect the heart and lungs form the:",
+      "options": [
+        "Rib cage",
+        "Pelvis",
+        "Spine",
+        "Skull"
+      ],
+      "correct_index": 0,
+      "explanation": "The rib cage protects the heart and lungs.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_090",
+      "text": "The skull protects the:",
+      "options": [
+        "Lungs",
+        "Stomach",
+        "Heart",
+        "Brain"
+      ],
+      "correct_index": 3,
+      "explanation": "The skull protects the brain.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_091",
+      "text": "Muscles work by:",
+      "options": [
+        "Vibrating",
+        "Pushing",
+        "Contraction and relaxation",
+        "Stretching only"
+      ],
+      "correct_index": 2,
+      "explanation": "Muscles contract and relax to move.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_092",
+      "text": "The longest bone in the human body is the:",
+      "options": [
+        "Humerus",
+        "Femur",
+        "Tibia",
+        "Radius"
+      ],
+      "correct_index": 1,
+      "explanation": "The femur (thigh bone) is the longest.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_093",
+      "text": "Plants support themselves mainly through:",
+      "options": [
+        "Turgor pressure and woody tissue",
+        "Muscles",
+        "Cartilage",
+        "Bones"
+      ],
+      "correct_index": 0,
+      "explanation": "Plants use turgidity and lignified tissue.",
+      "difficulty": 2
+    },
+    {
+      "id": "bio_094",
+      "text": "The male gamete in humans is the:",
+      "options": [
+        "Ovum",
+        "Zygote",
+        "Egg",
+        "Sperm"
+      ],
+      "correct_index": 3,
+      "explanation": "Sperm is the male gamete.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_095",
+      "text": "The female gamete in humans is the:",
+      "options": [
+        "Gamete",
+        "Sperm",
+        "Ovum (egg)",
+        "Zygote"
+      ],
+      "correct_index": 2,
+      "explanation": "The ovum is the female gamete.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_096",
+      "text": "The fusion of male and female gametes is called:",
+      "options": [
+        "Pollination",
+        "Fertilisation",
+        "Germination",
+        "Implantation"
+      ],
+      "correct_index": 1,
+      "explanation": "Fertilisation fuses gametes to form a zygote.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_097",
+      "text": "The fertilised egg is called a:",
+      "options": [
+        "Zygote",
+        "Embryo",
+        "Foetus",
+        "Gamete"
+      ],
+      "correct_index": 0,
+      "explanation": "The zygote is the fertilised egg.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_098",
+      "text": "The male reproductive organ that produces sperm is the:",
+      "options": [
+        "Ovary",
+        "Prostate",
+        "Penis",
+        "Testis"
+      ],
+      "correct_index": 3,
+      "explanation": "Testes produce sperm.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_099",
+      "text": "The female reproductive organ that produces eggs is the:",
+      "options": [
+        "Fallopian tube",
+        "Uterus",
+        "Ovary",
+        "Vagina"
+      ],
+      "correct_index": 2,
+      "explanation": "Ovaries produce ova.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_100",
+      "text": "In plants, the transfer of pollen to the stigma is:",
+      "options": [
+        "Fertilisation",
+        "Pollination",
+        "Germination",
+        "Dispersal"
+      ],
+      "correct_index": 1,
+      "explanation": "Pollination transfers pollen to the stigma.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_101",
+      "text": "The male reproductive part of a flower is the:",
+      "options": [
+        "Stamen",
+        "Stigma",
+        "Ovary",
+        "Pistil"
+      ],
+      "correct_index": 0,
+      "explanation": "The stamen is the male part.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_102",
+      "text": "The female reproductive part of a flower is the:",
+      "options": [
+        "Anther",
+        "Filament",
+        "Stamen",
+        "Pistil (carpel)"
+      ],
+      "correct_index": 3,
+      "explanation": "The pistil is the female part.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_103",
+      "text": "Asexual reproduction produces offspring that are:",
+      "options": [
+        "Always male",
+        "Genetically different",
+        "Genetically identical to the parent",
+        "Always seeds"
+      ],
+      "correct_index": 2,
+      "explanation": "Asexual reproduction gives clones.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_104",
+      "text": "Binary fission is a form of asexual reproduction in:",
+      "options": [
+        "Humans",
+        "Bacteria",
+        "Flowers",
+        "Birds"
+      ],
+      "correct_index": 1,
+      "explanation": "Bacteria reproduce by binary fission.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_105",
+      "text": "Budding is a form of asexual reproduction found in:",
+      "options": [
+        "Yeast",
+        "Humans",
+        "Ferns",
+        "Amoeba"
+      ],
+      "correct_index": 0,
+      "explanation": "Yeast reproduces by budding.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_106",
+      "text": "The structure that develops into a new plant in a seed is the:",
+      "options": [
+        "Testa",
+        "Endosperm",
+        "Cotyledon",
+        "Embryo"
+      ],
+      "correct_index": 3,
+      "explanation": "The embryo develops into the new plant.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_107",
+      "text": "The protective outer coat of a seed is the:",
+      "options": [
+        "Plumule",
+        "Embryo",
+        "Testa",
+        "Cotyledon"
+      ],
+      "correct_index": 2,
+      "explanation": "The testa is the seed coat.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_108",
+      "text": "The process by which a seed begins to grow is:",
+      "options": [
+        "Pollination",
+        "Germination",
+        "Fertilisation",
+        "Dispersal"
+      ],
+      "correct_index": 1,
+      "explanation": "Germination is the start of seed growth.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_109",
+      "text": "Growth in living organisms involves an increase in:",
+      "options": [
+        "Cell number and size",
+        "Only weight",
+        "Only height",
+        "Only cell size"
+      ],
+      "correct_index": 0,
+      "explanation": "Growth = increase in cell number/size.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_110",
+      "text": "The growth of a plant toward light is called:",
+      "options": [
+        "Hydrotropism",
+        "Chemotropism",
+        "Geotropism",
+        "Phototropism"
+      ],
+      "correct_index": 3,
+      "explanation": "Phototropism is growth toward light.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_111",
+      "text": "The growth of a plant root toward gravity is:",
+      "options": [
+        "Hydrotropism",
+        "Phototropism",
+        "Geotropism",
+        "Thigmotropism"
+      ],
+      "correct_index": 2,
+      "explanation": "Geotropism is growth in response to gravity.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_112",
+      "text": "The growth of a plant toward water is:",
+      "options": [
+        "Phototropism",
+        "Hydrotropism",
+        "Geotropism",
+        "Nastic movement"
+      ],
+      "correct_index": 1,
+      "explanation": "Hydrotropism is growth toward water.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_113",
+      "text": "The plant hormone that promotes growth is:",
+      "options": [
+        "Auxin",
+        "Adrenaline",
+        "Thyroxine",
+        "Insulin"
+      ],
+      "correct_index": 0,
+      "explanation": "Auxins promote plant growth.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_114",
+      "text": "The nervous system is made up of the brain, spinal cord and:",
+      "options": [
+        "Muscles",
+        "Glands",
+        "Bones",
+        "Nerves"
+      ],
+      "correct_index": 3,
+      "explanation": "Nerves connect the CNS to the body.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_115",
+      "text": "The basic functional unit of the nervous system is the:",
+      "options": [
+        "Villus",
+        "Nephron",
+        "Neuron",
+        "Alveolus"
+      ],
+      "correct_index": 2,
+      "explanation": "The neuron is the nerve cell.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_116",
+      "text": "The brain and spinal cord make up the:",
+      "options": [
+        "Peripheral nervous system",
+        "Central nervous system",
+        "Autonomic system",
+        "Somatic system"
+      ],
+      "correct_index": 1,
+      "explanation": "The CNS = brain + spinal cord.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_117",
+      "text": "The hormone that regulates blood sugar level is:",
+      "options": [
+        "Insulin",
+        "Adrenaline",
+        "Oestrogen",
+        "Thyroxine"
+      ],
+      "correct_index": 0,
+      "explanation": "Insulin regulates blood glucose.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_118",
+      "text": "The gland that secretes insulin is the:",
+      "options": [
+        "Adrenal",
+        "Pituitary",
+        "Thyroid",
+        "Pancreas"
+      ],
+      "correct_index": 3,
+      "explanation": "The pancreas secretes insulin.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_119",
+      "text": "The study of the relationship between organisms and their environment is:",
+      "options": [
+        "Taxonomy",
+        "Genetics",
+        "Ecology",
+        "Anatomy"
+      ],
+      "correct_index": 2,
+      "explanation": "Ecology studies organism-environment relationships.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_120",
+      "text": "A group of organisms of the same species in an area is a:",
+      "options": [
+        "Community",
+        "Population",
+        "Ecosystem",
+        "Biome"
+      ],
+      "correct_index": 1,
+      "explanation": "A population is one species in an area.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_121",
+      "text": "All the populations in an area form a:",
+      "options": [
+        "Community",
+        "Biosphere",
+        "Habitat",
+        "Population"
+      ],
+      "correct_index": 0,
+      "explanation": "A community is all populations together.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_122",
+      "text": "The place where an organism lives is its:",
+      "options": [
+        "Community",
+        "Ecosystem",
+        "Niche",
+        "Habitat"
+      ],
+      "correct_index": 3,
+      "explanation": "A habitat is where an organism lives.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_123",
+      "text": "The role of an organism in its ecosystem is its:",
+      "options": [
+        "Biome",
+        "Habitat",
+        "Niche",
+        "Population"
+      ],
+      "correct_index": 2,
+      "explanation": "A niche is the organism's role.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_124",
+      "text": "A community of organisms interacting with their physical environment is an:",
+      "options": [
+        "Population",
+        "Ecosystem",
+        "Species",
+        "Genus"
+      ],
+      "correct_index": 1,
+      "explanation": "An ecosystem includes living + non-living parts.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_125",
+      "text": "Organisms that produce their own food are called:",
+      "options": [
+        "Producers",
+        "Decomposers",
+        "Herbivores",
+        "Consumers"
+      ],
+      "correct_index": 0,
+      "explanation": "Producers (plants) make food.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_126",
+      "text": "Organisms that feed on producers are called:",
+      "options": [
+        "Secondary consumers",
+        "Producers",
+        "Decomposers",
+        "Primary consumers"
+      ],
+      "correct_index": 3,
+      "explanation": "Primary consumers (herbivores) eat producers.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_127",
+      "text": "Organisms that break down dead matter are:",
+      "options": [
+        "Carnivores",
+        "Producers",
+        "Decomposers",
+        "Herbivores"
+      ],
+      "correct_index": 2,
+      "explanation": "Decomposers recycle nutrients.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_128",
+      "text": "The sequence of organisms through which energy flows is a:",
+      "options": [
+        "Food web",
+        "Food chain",
+        "Trophic level",
+        "Biomass"
+      ],
+      "correct_index": 1,
+      "explanation": "A food chain shows energy flow.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_129",
+      "text": "The interconnected food chains in an ecosystem form a:",
+      "options": [
+        "Food web",
+        "Pyramid",
+        "Cycle",
+        "Food chain"
+      ],
+      "correct_index": 0,
+      "explanation": "A food web links many chains.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_130",
+      "text": "The ultimate source of energy for most ecosystems is the:",
+      "options": [
+        "Wind",
+        "Water",
+        "Moon",
+        "Sun"
+      ],
+      "correct_index": 3,
+      "explanation": "The sun powers photosynthesis.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_131",
+      "text": "A relationship where both organisms benefit is:",
+      "options": [
+        "Competition",
+        "Parasitism",
+        "Mutualism",
+        "Commensalism"
+      ],
+      "correct_index": 2,
+      "explanation": "Mutualism benefits both organisms.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_132",
+      "text": "A relationship where one benefits and the other is unaffected is:",
+      "options": [
+        "Mutualism",
+        "Commensalism",
+        "Parasitism",
+        "Predation"
+      ],
+      "correct_index": 1,
+      "explanation": "Commensalism benefits one, neutral to the other.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_133",
+      "text": "A relationship where one benefits and the other is harmed is:",
+      "options": [
+        "Parasitism",
+        "Mutualism",
+        "Saprophytism",
+        "Commensalism"
+      ],
+      "correct_index": 0,
+      "explanation": "Parasitism harms the host.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_134",
+      "text": "The study of heredity and variation is:",
+      "options": [
+        "Taxonomy",
+        "Embryology",
+        "Ecology",
+        "Genetics"
+      ],
+      "correct_index": 3,
+      "explanation": "Genetics studies heredity.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_135",
+      "text": "The basic unit of heredity is the:",
+      "options": [
+        "Cell",
+        "Chromosome",
+        "Gene",
+        "Nucleus"
+      ],
+      "correct_index": 2,
+      "explanation": "The gene is the unit of heredity.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_136",
+      "text": "Genes are located on:",
+      "options": [
+        "Ribosomes",
+        "Chromosomes",
+        "Mitochondria",
+        "Vacuoles"
+      ],
+      "correct_index": 1,
+      "explanation": "Genes are on chromosomes.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_137",
+      "text": "The father of genetics is:",
+      "options": [
+        "Gregor Mendel",
+        "Watson",
+        "Lamarck",
+        "Darwin"
+      ],
+      "correct_index": 0,
+      "explanation": "Mendel founded genetics.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_138",
+      "text": "The number of chromosomes in a normal human body cell is:",
+      "options": [
+        "44",
+        "48",
+        "23",
+        "46"
+      ],
+      "correct_index": 3,
+      "explanation": "Humans have 46 chromosomes (23 pairs).",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_139",
+      "text": "The number of chromosomes in a human gamete is:",
+      "options": [
+        "48",
+        "46",
+        "23",
+        "44"
+      ],
+      "correct_index": 2,
+      "explanation": "Gametes have 23 chromosomes (haploid).",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_140",
+      "text": "The sex chromosomes in a human female are:",
+      "options": [
+        "XY",
+        "XX",
+        "YY",
+        "XZ"
+      ],
+      "correct_index": 1,
+      "explanation": "Females are XX.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_141",
+      "text": "The sex chromosomes in a human male are:",
+      "options": [
+        "XY",
+        "YY",
+        "XZ",
+        "XX"
+      ],
+      "correct_index": 0,
+      "explanation": "Males are XY.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_142",
+      "text": "An allele that masks another is said to be:",
+      "options": [
+        "Lethal",
+        "Mutant",
+        "Recessive",
+        "Dominant"
+      ],
+      "correct_index": 3,
+      "explanation": "A dominant allele masks the recessive.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_143",
+      "text": "An allele that is masked is:",
+      "options": [
+        "Mutant",
+        "Dominant",
+        "Recessive",
+        "Lethal"
+      ],
+      "correct_index": 2,
+      "explanation": "A recessive allele is masked by a dominant one.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_144",
+      "text": "The physical appearance of an organism is its:",
+      "options": [
+        "Genotype",
+        "Phenotype",
+        "Karyotype",
+        "Genome"
+      ],
+      "correct_index": 1,
+      "explanation": "Phenotype is observable traits.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_145",
+      "text": "The genetic makeup of an organism is its:",
+      "options": [
+        "Genotype",
+        "Karyotype",
+        "Genome",
+        "Phenotype"
+      ],
+      "correct_index": 0,
+      "explanation": "Genotype is the genetic constitution.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_146",
+      "text": "Having two identical alleles for a trait is:",
+      "options": [
+        "Diploid",
+        "Haploid",
+        "Heterozygous",
+        "Homozygous"
+      ],
+      "correct_index": 3,
+      "explanation": "Homozygous = same alleles.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_147",
+      "text": "Having two different alleles for a trait is:",
+      "options": [
+        "Haploid",
+        "Homozygous",
+        "Heterozygous",
+        "Diploid"
+      ],
+      "correct_index": 2,
+      "explanation": "Heterozygous = different alleles.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_148",
+      "text": "The process by which DNA makes a copy of itself is:",
+      "options": [
+        "Transcription",
+        "Replication",
+        "Translation",
+        "Mutation"
+      ],
+      "correct_index": 1,
+      "explanation": "DNA replication copies DNA.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_149",
+      "text": "A sudden change in the genetic material is a:",
+      "options": [
+        "Mutation",
+        "Replication",
+        "Transcription",
+        "Variation"
+      ],
+      "correct_index": 0,
+      "explanation": "A mutation is a change in DNA.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_150",
+      "text": "The structure of DNA was described by:",
+      "options": [
+        "Darwin",
+        "Lamarck",
+        "Mendel",
+        "Watson and Crick"
+      ],
+      "correct_index": 3,
+      "explanation": "Watson and Crick described DNA's double helix.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_151",
+      "text": "DNA stands for:",
+      "options": [
+        "Dinitrogen acid",
+        "Deoxyribonucleic acid",
+        "Ribonucleic acid",
+        "Dinucleotide acid"
+      ],
+      "correct_index": 1,
+      "explanation": "DNA = deoxyribonucleic acid.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_152",
+      "text": "The theory of evolution by natural selection was proposed by:",
+      "options": [
+        "Mendel",
+        "Charles Darwin",
+        "Watson",
+        "Lamarck"
+      ],
+      "correct_index": 1,
+      "explanation": "Darwin proposed natural selection.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_153",
+      "text": "Natural selection is based on:",
+      "options": [
+        "Survival of the fittest",
+        "Random chance only",
+        "Mutation only",
+        "Artificial breeding"
+      ],
+      "correct_index": 0,
+      "explanation": "The fittest survive and reproduce.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_154",
+      "text": "The theory of use and disuse of organs was proposed by:",
+      "options": [
+        "Mendel",
+        "Wallace",
+        "Darwin",
+        "Lamarck"
+      ],
+      "correct_index": 3,
+      "explanation": "Lamarck proposed use/disuse inheritance.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_155",
+      "text": "Which of the following is a microorganism?",
+      "options": [
+        "Fern",
+        "Earthworm",
+        "Bacterium",
+        "Frog"
+      ],
+      "correct_index": 2,
+      "explanation": "Bacteria are microorganisms.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_156",
+      "text": "Diseases caused by microorganisms include:",
+      "options": [
+        "Malaria",
+        "Rickets",
+        "Scurvy",
+        "Goitre"
+      ],
+      "correct_index": 0,
+      "explanation": "Malaria is caused by Plasmodium.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_157",
+      "text": "Malaria is caused by:",
+      "options": [
+        "Plasmodium (protozoan)",
+        "Virus",
+        "Fungus",
+        "Bacteria"
+      ],
+      "correct_index": 0,
+      "explanation": "Plasmodium causes malaria.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_158",
+      "text": "Malaria is transmitted by:",
+      "options": [
+        "Housefly",
+        "Tick",
+        "Tsetse fly",
+        "Female Anopheles mosquito"
+      ],
+      "correct_index": 3,
+      "explanation": "Female Anopheles mosquito transmits malaria.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_159",
+      "text": "The vector of sleeping sickness is the:",
+      "options": [
+        "Flea",
+        "Mosquito",
+        "Tsetse fly",
+        "Housefly"
+      ],
+      "correct_index": 2,
+      "explanation": "The tsetse fly transmits trypanosomiasis.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_160",
+      "text": "The pathogen that causes cholera is a:",
+      "options": [
+        "Virus",
+        "Bacterium (Vibrio)",
+        "Protozoan",
+        "Fungus"
+      ],
+      "correct_index": 1,
+      "explanation": "Vibrio cholerae causes cholera.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_161",
+      "text": "Immunity acquired after vaccination is:",
+      "options": [
+        "Artificial active",
+        "Natural active",
+        "Innate",
+        "Natural passive"
+      ],
+      "correct_index": 0,
+      "explanation": "Vaccination gives artificial active immunity.",
+      "difficulty": 2
+    },
+    {
+      "id": "bio_162",
+      "text": "The process of heating food to kill microorganisms is:",
+      "options": [
+        "Distillation",
+        "Filtration",
+        "Fermentation",
+        "Pasteurisation"
+      ],
+      "correct_index": 3,
+      "explanation": "Pasteurisation kills microbes by heating.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_163",
+      "text": "The scientist who developed the first vaccine was:",
+      "options": [
+        "Pasteur only",
+        "Darwin",
+        "Edward Jenner",
+        "Mendel"
+      ],
+      "correct_index": 2,
+      "explanation": "Edward Jenner developed the smallpox vaccine.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_164",
+      "text": "The conversion of glucose to ethanol by yeast is:",
+      "options": [
+        "Photosynthesis",
+        "Fermentation",
+        "Respiration",
+        "Digestion"
+      ],
+      "correct_index": 1,
+      "explanation": "Yeast ferments sugar to ethanol.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_165",
+      "text": "The process by which bacteria convert ammonia to nitrates is:",
+      "options": [
+        "Nitrification",
+        "Nitrogen fixation",
+        "Ammonification",
+        "Denitrification"
+      ],
+      "correct_index": 0,
+      "explanation": "Nitrification converts ammonia to nitrates.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_166",
+      "text": "The conversion of atmospheric nitrogen to nitrates is:",
+      "options": [
+        "Denitrification",
+        "Ammonification",
+        "Nitrification",
+        "Nitrogen fixation"
+      ],
+      "correct_index": 3,
+      "explanation": "Nitrogen fixation converts N₂ to usable forms.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_167",
+      "text": "The bacteria that fix nitrogen in legume root nodules are:",
+      "options": [
+        "Bacillus",
+        "Lactobacillus",
+        "Rhizobium",
+        "Vibrio"
+      ],
+      "correct_index": 2,
+      "explanation": "Rhizobium fixes nitrogen in legumes.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_168",
+      "text": "The main source of energy for the human body is:",
+      "options": [
+        "Proteins",
+        "Carbohydrates",
+        "Vitamins",
+        "Minerals"
+      ],
+      "correct_index": 1,
+      "explanation": "Carbohydrates are the primary energy source.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_169",
+      "text": "The nutrient that builds and repairs body tissues is:",
+      "options": [
+        "Protein",
+        "Fat",
+        "Vitamin",
+        "Carbohydrate"
+      ],
+      "correct_index": 0,
+      "explanation": "Proteins build and repair tissues.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_170",
+      "text": "The nutrient that stores energy and insulates the body is:",
+      "options": [
+        "Carbohydrate",
+        "Vitamin",
+        "Protein",
+        "Fat"
+      ],
+      "correct_index": 3,
+      "explanation": "Fats store energy and insulate.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_171",
+      "text": "Which of the following is a trace element needed by the body?",
+      "options": [
+        "Oxygen",
+        "Carbon",
+        "Iron",
+        "Hydrogen"
+      ],
+      "correct_index": 2,
+      "explanation": "Iron is a trace element (in haemoglobin).",
+      "difficulty": 2
+    },
+    {
+      "id": "bio_172",
+      "text": "The blood group known as the universal donor is:",
+      "options": [
+        "A",
+        "B",
+        "AB",
+        "O"
+      ],
+      "correct_index": 3,
+      "explanation": "Group O can donate to all groups.",
+      "difficulty": 2
+    },
+    {
+      "id": "bio_173",
+      "text": "The blood group known as the universal recipient is:",
+      "options": [
+        "AB",
+        "A",
+        "B",
+        "O"
+      ],
+      "correct_index": 0,
+      "explanation": "Group AB can receive from all.",
+      "difficulty": 2
+    },
+    {
+      "id": "bio_174",
+      "text": "The Rhesus factor is a protein on the surface of:",
+      "options": [
+        "Platelets",
+        "Plasma",
+        "White blood cells",
+        "Red blood cells"
+      ],
+      "correct_index": 3,
+      "explanation": "Rh factor is on red blood cells.",
+      "difficulty": 2
+    },
+    {
+      "id": "bio_175",
+      "text": "The normal human heart rate at rest is about:",
+      "options": [
+        "150 beats/min",
+        "72 beats/min",
+        "120 beats/min",
+        "20 beats/min"
+      ],
+      "correct_index": 1,
+      "explanation": "Resting heart rate ≈ 72 bpm.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_176",
+      "text": "The chamber of the heart that pumps blood to the body is the:",
+      "options": [
+        "Right atrium",
+        "Left ventricle",
+        "Right ventricle",
+        "Left atrium"
+      ],
+      "correct_index": 1,
+      "explanation": "The left ventricle pumps to the body.",
+      "difficulty": 2
+    },
+    {
+      "id": "bio_177",
+      "text": "The valve between the left atrium and left ventricle is the:",
+      "options": [
+        "Bicuspid (mitral)",
+        "Pulmonary",
+        "Aortic",
+        "Tricuspid"
+      ],
+      "correct_index": 0,
+      "explanation": "The bicuspid/mitral valve separates them.",
+      "difficulty": 2
+    },
+    {
+      "id": "bio_178",
+      "text": "The gas that turns limewater milky is:",
+      "options": [
+        "Nitrogen",
+        "Hydrogen",
+        "Oxygen",
+        "Carbon dioxide"
+      ],
+      "correct_index": 3,
+      "explanation": "CO₂ turns limewater milky.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_179",
+      "text": "The process of breathing in is called:",
+      "options": [
+        "Excretion",
+        "Expiration",
+        "Inspiration",
+        "Respiration"
+      ],
+      "correct_index": 2,
+      "explanation": "Inspiration is inhaling.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_180",
+      "text": "The process of breathing out is called:",
+      "options": [
+        "Inspiration",
+        "Expiration",
+        "Respiration",
+        "Ventilation"
+      ],
+      "correct_index": 1,
+      "explanation": "Expiration is exhaling.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_181",
+      "text": "The muscle that separates the chest from the abdomen and aids breathing is the:",
+      "options": [
+        "Diaphragm",
+        "Abdominal muscle",
+        "Trachea",
+        "Intercostal muscle"
+      ],
+      "correct_index": 0,
+      "explanation": "The diaphragm aids breathing.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_182",
+      "text": "The windpipe is scientifically called the:",
+      "options": [
+        "Bronchus",
+        "Larynx",
+        "Oesophagus",
+        "Trachea"
+      ],
+      "correct_index": 3,
+      "explanation": "The trachea is the windpipe.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_183",
+      "text": "The voice box is the:",
+      "options": [
+        "Bronchus",
+        "Pharynx",
+        "Larynx",
+        "Trachea"
+      ],
+      "correct_index": 2,
+      "explanation": "The larynx is the voice box.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_184",
+      "text": "The largest organ of the human body is the:",
+      "options": [
+        "Liver",
+        "Skin",
+        "Lung",
+        "Brain"
+      ],
+      "correct_index": 1,
+      "explanation": "The skin is the largest organ.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_185",
+      "text": "The largest gland in the human body is the:",
+      "options": [
+        "Liver",
+        "Thyroid",
+        "Salivary gland",
+        "Pancreas"
+      ],
+      "correct_index": 0,
+      "explanation": "The liver is the largest gland.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_186",
+      "text": "The smallest bone in the human body is in the:",
+      "options": [
+        "Foot",
+        "Skull",
+        "Hand",
+        "Ear"
+      ],
+      "correct_index": 3,
+      "explanation": "The stapes in the ear is smallest.",
+      "difficulty": 2
+    },
+    {
+      "id": "bio_187",
+      "text": "The number of bones in an adult human is about:",
+      "options": [
+        "250",
+        "206",
+        "300",
+        "150"
+      ],
+      "correct_index": 1,
+      "explanation": "Adults have about 206 bones.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_188",
+      "text": "The tissue that conducts impulses is the:",
+      "options": [
+        "Muscle tissue",
+        "Nervous tissue",
+        "Epithelial tissue",
+        "Connective tissue"
+      ],
+      "correct_index": 1,
+      "explanation": "Nervous tissue conducts impulses.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_189",
+      "text": "Which of the following is an example of connective tissue?",
+      "options": [
+        "Blood",
+        "Muscle",
+        "Nerve",
+        "Skin"
+      ],
+      "correct_index": 0,
+      "explanation": "Blood is a connective tissue.",
+      "difficulty": 2
+    },
+    {
+      "id": "bio_190",
+      "text": "The process by which green plants lose water through stomata is:",
+      "options": [
+        "Guttation",
+        "Osmosis",
+        "Transpiration",
+        "Respiration"
+      ],
+      "correct_index": 2,
+      "explanation": "Transpiration loses water via stomata.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_191",
+      "text": "The carbohydrate stored in animal muscle and liver is:",
+      "options": [
+        "Cellulose",
+        "Starch",
+        "Glycogen",
+        "Glucose"
+      ],
+      "correct_index": 2,
+      "explanation": "Animals store glycogen.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_192",
+      "text": "The vitamin needed for blood clotting is:",
+      "options": [
+        "Vitamin A",
+        "Vitamin K",
+        "Vitamin C",
+        "Vitamin B"
+      ],
+      "correct_index": 1,
+      "explanation": "Vitamin K aids clotting.",
+      "difficulty": 2
+    },
+    {
+      "id": "bio_193",
+      "text": "Night blindness is caused by deficiency of:",
+      "options": [
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin A"
+      ],
+      "correct_index": 3,
+      "explanation": "Vitamin A deficiency causes night blindness.",
+      "difficulty": 2
+    },
+    {
+      "id": "bio_194",
+      "text": "The disease caused by vitamin B₁ deficiency is:",
+      "options": [
+        "Rickets",
+        "Pellagra",
+        "Scurvy",
+        "Beriberi"
+      ],
+      "correct_index": 3,
+      "explanation": "Beriberi is from vitamin B₁ deficiency.",
+      "difficulty": 2
+    },
+    {
+      "id": "bio_195",
+      "text": "The process by which excess amino acids are broken down in the liver is:",
+      "options": [
+        "Oxidation",
+        "Digestion",
+        "Deamination",
+        "Glycolysis"
+      ],
+      "correct_index": 2,
+      "explanation": "Deamination removes amino groups in the liver.",
+      "difficulty": 2
+    },
+    {
+      "id": "bio_196",
+      "text": "The organ that detoxifies harmful substances in the body is the:",
+      "options": [
+        "Kidney",
+        "Liver",
+        "Spleen",
+        "Lung"
+      ],
+      "correct_index": 1,
+      "explanation": "The liver detoxifies substances.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_197",
+      "text": "The scientist who disproved spontaneous generation was:",
+      "options": [
+        "Louis Pasteur",
+        "Mendel",
+        "Jenner",
+        "Darwin"
+      ],
+      "correct_index": 0,
+      "explanation": "Pasteur disproved spontaneous generation.",
+      "difficulty": 2
+    },
+    {
+      "id": "bio_198",
+      "text": "The theory that living things arise only from living things is:",
+      "options": [
+        "Evolution",
+        "Natural selection",
+        "Spontaneous generation",
+        "Biogenesis"
+      ],
+      "correct_index": 3,
+      "explanation": "Biogenesis = life from life.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_199",
+      "text": "The branch of biology that studies insects is:",
+      "options": [
+        "Botany",
+        "Ornithology",
+        "Entomology",
+        "Ichthyology"
+      ],
+      "correct_index": 2,
+      "explanation": "Entomology studies insects.",
+      "difficulty": 1
+    },
+    {
+      "id": "bio_200",
+      "text": "The branch of biology that studies birds is:",
+      "options": [
+        "Entomology",
+        "Ornithology",
+        "Herpetology",
+        "Zoology"
+      ],
+      "correct_index": 1,
+      "explanation": "Ornithology studies birds.",
+      "difficulty": 1
+    }
+  ]
+}

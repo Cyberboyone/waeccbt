@@ -1,0 +1,2607 @@
+{
+  "course_id": "geo",
+  "course_name": "Geography",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "geo_001",
+      "text": "Geography studies:",
+      "options": [
+        "Only rocks",
+        "Only animals",
+        "Only plants",
+        "Earth and features"
+      ],
+      "correct_index": 3,
+      "explanation": "Earth features.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_002",
+      "text": "Earth shape:",
+      "options": [
+        "Square",
+        "Triangle",
+        "Geoid",
+        "Flat"
+      ],
+      "correct_index": 2,
+      "explanation": "Geoid.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_003",
+      "text": "Rotation period:",
+      "options": [
+        "1 hour",
+        "24 hours",
+        "365 days",
+        "12 hours"
+      ],
+      "correct_index": 1,
+      "explanation": "24 hours.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_004",
+      "text": "Latitude measures:",
+      "options": [
+        "North/south equator",
+        "East/west Greenwich",
+        "Upwards",
+        "Downwards"
+      ],
+      "correct_index": 0,
+      "explanation": "North/south.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_005",
+      "text": "Greenwich is:",
+      "options": [
+        "0° latitude",
+        "90° long",
+        "180° lat",
+        "0° longitude"
+      ],
+      "correct_index": 3,
+      "explanation": "0° longitude.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_006",
+      "text": "Map scale is:",
+      "options": [
+        "Only ground",
+        "No ratio",
+        "Ratio map to ground",
+        "Only map"
+      ],
+      "correct_index": 2,
+      "explanation": "Ratio.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_007",
+      "text": "Igneous formed by:",
+      "options": [
+        "Weathering",
+        "Cooling magma",
+        "Deposition",
+        "Metamorphism"
+      ],
+      "correct_index": 1,
+      "explanation": "Cooling magma.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_008",
+      "text": "Rain gauge measures:",
+      "options": [
+        "Rainfall",
+        "Temperature",
+        "Pressure",
+        "Wind"
+      ],
+      "correct_index": 0,
+      "explanation": "Rainfall.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_009",
+      "text": "Largest ocean:",
+      "options": [
+        "Atlantic",
+        "Indian",
+        "Arctic",
+        "Pacific"
+      ],
+      "correct_index": 3,
+      "explanation": "Pacific.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_010",
+      "text": "Nile longest in:",
+      "options": [
+        "No longest",
+        "Only Nigeria",
+        "Africa",
+        "World"
+      ],
+      "correct_index": 2,
+      "explanation": "Africa.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_011",
+      "text": "Population density:",
+      "options": [
+        "No number",
+        "People per area",
+        "Only number",
+        "Only area"
+      ],
+      "correct_index": 1,
+      "explanation": "People per area.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_012",
+      "text": "Lagos largest city in:",
+      "options": [
+        "Nigeria",
+        "Ghana",
+        "Kenya",
+        "Egypt"
+      ],
+      "correct_index": 0,
+      "explanation": "Nigeria.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_013",
+      "text": "Primary activity:",
+      "options": [
+        "Manufacturing",
+        "Trading",
+        "Teaching",
+        "Farming"
+      ],
+      "correct_index": 3,
+      "explanation": "Farming.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_014",
+      "text": "Petroleum in:",
+      "options": [
+        "Kano",
+        "Borno",
+        "Niger Delta",
+        "Sokoto"
+      ],
+      "correct_index": 2,
+      "explanation": "Niger Delta.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_015",
+      "text": "Contour lines join:",
+      "options": [
+        "Equal pressure",
+        "Equal height",
+        "Equal rain",
+        "Equal temp"
+      ],
+      "correct_index": 1,
+      "explanation": "Equal height.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_016",
+      "text": "GIS means:",
+      "options": [
+        "Geographic Information System",
+        "General",
+        "Geological",
+        "No meaning"
+      ],
+      "correct_index": 0,
+      "explanation": "GIS.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_017",
+      "text": "Desertification common in:",
+      "options": [
+        "South",
+        "No where",
+        "Only coast",
+        "North Nigeria"
+      ],
+      "correct_index": 3,
+      "explanation": "North.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_018",
+      "text": "Renewable resource:",
+      "options": [
+        "Coal",
+        "Gas",
+        "Solar",
+        "Petroleum"
+      ],
+      "correct_index": 2,
+      "explanation": "Solar.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_019",
+      "text": "Nigeria in:",
+      "options": [
+        "South Africa",
+        "West Africa",
+        "East Africa",
+        "North Africa"
+      ],
+      "correct_index": 1,
+      "explanation": "West Africa.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_020",
+      "text": "Time diff 15°:",
+      "options": [
+        "1 hour",
+        "2 hours",
+        "30 mins",
+        "15 mins"
+      ],
+      "correct_index": 0,
+      "explanation": "1 hour.",
+      "difficulty": 2
+    },
+    {
+      "id": "geo_021",
+      "text": "Geography studies: (variant 21)",
+      "options": [
+        "Only rocks",
+        "Only animals",
+        "Only plants",
+        "Earth and features"
+      ],
+      "correct_index": 3,
+      "explanation": "Earth features.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_022",
+      "text": "Earth shape: (variant 22)",
+      "options": [
+        "Square",
+        "Triangle",
+        "Geoid",
+        "Flat"
+      ],
+      "correct_index": 2,
+      "explanation": "Geoid.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_023",
+      "text": "Rotation period: (variant 23)",
+      "options": [
+        "1 hour",
+        "24 hours",
+        "365 days",
+        "12 hours"
+      ],
+      "correct_index": 1,
+      "explanation": "24 hours.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_024",
+      "text": "Latitude measures: (variant 24)",
+      "options": [
+        "North/south equator",
+        "East/west Greenwich",
+        "Upwards",
+        "Downwards"
+      ],
+      "correct_index": 0,
+      "explanation": "North/south.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_025",
+      "text": "Greenwich is: (variant 25)",
+      "options": [
+        "0° latitude",
+        "90° long",
+        "180° lat",
+        "0° longitude"
+      ],
+      "correct_index": 3,
+      "explanation": "0° longitude.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_026",
+      "text": "Map scale is: (variant 26)",
+      "options": [
+        "Only ground",
+        "No ratio",
+        "Ratio map to ground",
+        "Only map"
+      ],
+      "correct_index": 2,
+      "explanation": "Ratio.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_027",
+      "text": "Igneous formed by: (variant 27)",
+      "options": [
+        "Weathering",
+        "Cooling magma",
+        "Deposition",
+        "Metamorphism"
+      ],
+      "correct_index": 1,
+      "explanation": "Cooling magma.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_028",
+      "text": "Rain gauge measures: (variant 28)",
+      "options": [
+        "Rainfall",
+        "Temperature",
+        "Pressure",
+        "Wind"
+      ],
+      "correct_index": 0,
+      "explanation": "Rainfall.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_029",
+      "text": "Largest ocean: (variant 29)",
+      "options": [
+        "Atlantic",
+        "Indian",
+        "Arctic",
+        "Pacific"
+      ],
+      "correct_index": 3,
+      "explanation": "Pacific.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_030",
+      "text": "Nile longest in: (variant 30)",
+      "options": [
+        "No longest",
+        "Only Nigeria",
+        "Africa",
+        "World"
+      ],
+      "correct_index": 2,
+      "explanation": "Africa.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_031",
+      "text": "Population density: (variant 31)",
+      "options": [
+        "No number",
+        "People per area",
+        "Only number",
+        "Only area"
+      ],
+      "correct_index": 1,
+      "explanation": "People per area.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_032",
+      "text": "Lagos largest city in: (variant 32)",
+      "options": [
+        "Nigeria",
+        "Ghana",
+        "Kenya",
+        "Egypt"
+      ],
+      "correct_index": 0,
+      "explanation": "Nigeria.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_033",
+      "text": "Primary activity: (variant 33)",
+      "options": [
+        "Manufacturing",
+        "Trading",
+        "Teaching",
+        "Farming"
+      ],
+      "correct_index": 3,
+      "explanation": "Farming.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_034",
+      "text": "Petroleum in: (variant 34)",
+      "options": [
+        "Kano",
+        "Borno",
+        "Niger Delta",
+        "Sokoto"
+      ],
+      "correct_index": 2,
+      "explanation": "Niger Delta.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_035",
+      "text": "Contour lines join: (variant 35)",
+      "options": [
+        "Equal pressure",
+        "Equal height",
+        "Equal rain",
+        "Equal temp"
+      ],
+      "correct_index": 1,
+      "explanation": "Equal height.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_036",
+      "text": "GIS means: (variant 36)",
+      "options": [
+        "Geographic Information System",
+        "General",
+        "Geological",
+        "No meaning"
+      ],
+      "correct_index": 0,
+      "explanation": "GIS.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_037",
+      "text": "Desertification common in: (variant 37)",
+      "options": [
+        "South",
+        "No where",
+        "Only coast",
+        "North Nigeria"
+      ],
+      "correct_index": 3,
+      "explanation": "North.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_038",
+      "text": "Renewable resource: (variant 38)",
+      "options": [
+        "Coal",
+        "Gas",
+        "Solar",
+        "Petroleum"
+      ],
+      "correct_index": 2,
+      "explanation": "Solar.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_039",
+      "text": "Nigeria in: (variant 39)",
+      "options": [
+        "South Africa",
+        "West Africa",
+        "East Africa",
+        "North Africa"
+      ],
+      "correct_index": 1,
+      "explanation": "West Africa.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_040",
+      "text": "Time diff 15°: (variant 40)",
+      "options": [
+        "1 hour",
+        "2 hours",
+        "30 mins",
+        "15 mins"
+      ],
+      "correct_index": 0,
+      "explanation": "1 hour.",
+      "difficulty": 2
+    },
+    {
+      "id": "geo_041",
+      "text": "Geography studies: (variant 41)",
+      "options": [
+        "Only rocks",
+        "Only animals",
+        "Only plants",
+        "Earth and features"
+      ],
+      "correct_index": 3,
+      "explanation": "Earth features.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_042",
+      "text": "Earth shape: (variant 42)",
+      "options": [
+        "Square",
+        "Triangle",
+        "Geoid",
+        "Flat"
+      ],
+      "correct_index": 2,
+      "explanation": "Geoid.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_043",
+      "text": "Rotation period: (variant 43)",
+      "options": [
+        "1 hour",
+        "24 hours",
+        "365 days",
+        "12 hours"
+      ],
+      "correct_index": 1,
+      "explanation": "24 hours.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_044",
+      "text": "Latitude measures: (variant 44)",
+      "options": [
+        "North/south equator",
+        "East/west Greenwich",
+        "Upwards",
+        "Downwards"
+      ],
+      "correct_index": 0,
+      "explanation": "North/south.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_045",
+      "text": "Greenwich is: (variant 45)",
+      "options": [
+        "0° latitude",
+        "90° long",
+        "180° lat",
+        "0° longitude"
+      ],
+      "correct_index": 3,
+      "explanation": "0° longitude.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_046",
+      "text": "Map scale is: (variant 46)",
+      "options": [
+        "Only ground",
+        "No ratio",
+        "Ratio map to ground",
+        "Only map"
+      ],
+      "correct_index": 2,
+      "explanation": "Ratio.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_047",
+      "text": "Igneous formed by: (variant 47)",
+      "options": [
+        "Weathering",
+        "Cooling magma",
+        "Deposition",
+        "Metamorphism"
+      ],
+      "correct_index": 1,
+      "explanation": "Cooling magma.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_048",
+      "text": "Rain gauge measures: (variant 48)",
+      "options": [
+        "Rainfall",
+        "Temperature",
+        "Pressure",
+        "Wind"
+      ],
+      "correct_index": 0,
+      "explanation": "Rainfall.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_049",
+      "text": "Largest ocean: (variant 49)",
+      "options": [
+        "Atlantic",
+        "Indian",
+        "Arctic",
+        "Pacific"
+      ],
+      "correct_index": 3,
+      "explanation": "Pacific.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_050",
+      "text": "Nile longest in: (variant 50)",
+      "options": [
+        "No longest",
+        "Only Nigeria",
+        "Africa",
+        "World"
+      ],
+      "correct_index": 2,
+      "explanation": "Africa.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_051",
+      "text": "Population density: (variant 51)",
+      "options": [
+        "No number",
+        "People per area",
+        "Only number",
+        "Only area"
+      ],
+      "correct_index": 1,
+      "explanation": "People per area.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_052",
+      "text": "Lagos largest city in: (variant 52)",
+      "options": [
+        "Nigeria",
+        "Ghana",
+        "Kenya",
+        "Egypt"
+      ],
+      "correct_index": 0,
+      "explanation": "Nigeria.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_053",
+      "text": "Primary activity: (variant 53)",
+      "options": [
+        "Manufacturing",
+        "Trading",
+        "Teaching",
+        "Farming"
+      ],
+      "correct_index": 3,
+      "explanation": "Farming.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_054",
+      "text": "Petroleum in: (variant 54)",
+      "options": [
+        "Kano",
+        "Borno",
+        "Niger Delta",
+        "Sokoto"
+      ],
+      "correct_index": 2,
+      "explanation": "Niger Delta.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_055",
+      "text": "Contour lines join: (variant 55)",
+      "options": [
+        "Equal pressure",
+        "Equal height",
+        "Equal rain",
+        "Equal temp"
+      ],
+      "correct_index": 1,
+      "explanation": "Equal height.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_056",
+      "text": "GIS means: (variant 56)",
+      "options": [
+        "Geographic Information System",
+        "General",
+        "Geological",
+        "No meaning"
+      ],
+      "correct_index": 0,
+      "explanation": "GIS.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_057",
+      "text": "Desertification common in: (variant 57)",
+      "options": [
+        "South",
+        "No where",
+        "Only coast",
+        "North Nigeria"
+      ],
+      "correct_index": 3,
+      "explanation": "North.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_058",
+      "text": "Renewable resource: (variant 58)",
+      "options": [
+        "Coal",
+        "Gas",
+        "Solar",
+        "Petroleum"
+      ],
+      "correct_index": 2,
+      "explanation": "Solar.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_059",
+      "text": "Nigeria in: (variant 59)",
+      "options": [
+        "South Africa",
+        "West Africa",
+        "East Africa",
+        "North Africa"
+      ],
+      "correct_index": 1,
+      "explanation": "West Africa.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_060",
+      "text": "Time diff 15°: (variant 60)",
+      "options": [
+        "1 hour",
+        "2 hours",
+        "30 mins",
+        "15 mins"
+      ],
+      "correct_index": 0,
+      "explanation": "1 hour.",
+      "difficulty": 2
+    },
+    {
+      "id": "geo_061",
+      "text": "Geography studies: (variant 61)",
+      "options": [
+        "Only rocks",
+        "Only animals",
+        "Only plants",
+        "Earth and features"
+      ],
+      "correct_index": 3,
+      "explanation": "Earth features.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_062",
+      "text": "Earth shape: (variant 62)",
+      "options": [
+        "Square",
+        "Triangle",
+        "Geoid",
+        "Flat"
+      ],
+      "correct_index": 2,
+      "explanation": "Geoid.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_063",
+      "text": "Rotation period: (variant 63)",
+      "options": [
+        "1 hour",
+        "24 hours",
+        "365 days",
+        "12 hours"
+      ],
+      "correct_index": 1,
+      "explanation": "24 hours.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_064",
+      "text": "Latitude measures: (variant 64)",
+      "options": [
+        "North/south equator",
+        "East/west Greenwich",
+        "Upwards",
+        "Downwards"
+      ],
+      "correct_index": 0,
+      "explanation": "North/south.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_065",
+      "text": "Greenwich is: (variant 65)",
+      "options": [
+        "0° latitude",
+        "90° long",
+        "180° lat",
+        "0° longitude"
+      ],
+      "correct_index": 3,
+      "explanation": "0° longitude.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_066",
+      "text": "Map scale is: (variant 66)",
+      "options": [
+        "Only ground",
+        "No ratio",
+        "Ratio map to ground",
+        "Only map"
+      ],
+      "correct_index": 2,
+      "explanation": "Ratio.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_067",
+      "text": "Igneous formed by: (variant 67)",
+      "options": [
+        "Weathering",
+        "Cooling magma",
+        "Deposition",
+        "Metamorphism"
+      ],
+      "correct_index": 1,
+      "explanation": "Cooling magma.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_068",
+      "text": "Rain gauge measures: (variant 68)",
+      "options": [
+        "Rainfall",
+        "Temperature",
+        "Pressure",
+        "Wind"
+      ],
+      "correct_index": 0,
+      "explanation": "Rainfall.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_069",
+      "text": "Largest ocean: (variant 69)",
+      "options": [
+        "Atlantic",
+        "Indian",
+        "Arctic",
+        "Pacific"
+      ],
+      "correct_index": 3,
+      "explanation": "Pacific.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_070",
+      "text": "Nile longest in: (variant 70)",
+      "options": [
+        "No longest",
+        "Only Nigeria",
+        "Africa",
+        "World"
+      ],
+      "correct_index": 2,
+      "explanation": "Africa.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_071",
+      "text": "Population density: (variant 71)",
+      "options": [
+        "No number",
+        "People per area",
+        "Only number",
+        "Only area"
+      ],
+      "correct_index": 1,
+      "explanation": "People per area.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_072",
+      "text": "Lagos largest city in: (variant 72)",
+      "options": [
+        "Nigeria",
+        "Ghana",
+        "Kenya",
+        "Egypt"
+      ],
+      "correct_index": 0,
+      "explanation": "Nigeria.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_073",
+      "text": "Primary activity: (variant 73)",
+      "options": [
+        "Manufacturing",
+        "Trading",
+        "Teaching",
+        "Farming"
+      ],
+      "correct_index": 3,
+      "explanation": "Farming.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_074",
+      "text": "Petroleum in: (variant 74)",
+      "options": [
+        "Kano",
+        "Borno",
+        "Niger Delta",
+        "Sokoto"
+      ],
+      "correct_index": 2,
+      "explanation": "Niger Delta.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_075",
+      "text": "Contour lines join: (variant 75)",
+      "options": [
+        "Equal pressure",
+        "Equal height",
+        "Equal rain",
+        "Equal temp"
+      ],
+      "correct_index": 1,
+      "explanation": "Equal height.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_076",
+      "text": "GIS means: (variant 76)",
+      "options": [
+        "Geographic Information System",
+        "General",
+        "Geological",
+        "No meaning"
+      ],
+      "correct_index": 0,
+      "explanation": "GIS.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_077",
+      "text": "Desertification common in: (variant 77)",
+      "options": [
+        "South",
+        "No where",
+        "Only coast",
+        "North Nigeria"
+      ],
+      "correct_index": 3,
+      "explanation": "North.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_078",
+      "text": "Renewable resource: (variant 78)",
+      "options": [
+        "Coal",
+        "Gas",
+        "Solar",
+        "Petroleum"
+      ],
+      "correct_index": 2,
+      "explanation": "Solar.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_079",
+      "text": "Nigeria in: (variant 79)",
+      "options": [
+        "South Africa",
+        "West Africa",
+        "East Africa",
+        "North Africa"
+      ],
+      "correct_index": 1,
+      "explanation": "West Africa.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_080",
+      "text": "Time diff 15°: (variant 80)",
+      "options": [
+        "1 hour",
+        "2 hours",
+        "30 mins",
+        "15 mins"
+      ],
+      "correct_index": 0,
+      "explanation": "1 hour.",
+      "difficulty": 2
+    },
+    {
+      "id": "geo_081",
+      "text": "Geography studies: (variant 81)",
+      "options": [
+        "Only rocks",
+        "Only animals",
+        "Only plants",
+        "Earth and features"
+      ],
+      "correct_index": 3,
+      "explanation": "Earth features.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_082",
+      "text": "Earth shape: (variant 82)",
+      "options": [
+        "Square",
+        "Triangle",
+        "Geoid",
+        "Flat"
+      ],
+      "correct_index": 2,
+      "explanation": "Geoid.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_083",
+      "text": "Rotation period: (variant 83)",
+      "options": [
+        "1 hour",
+        "24 hours",
+        "365 days",
+        "12 hours"
+      ],
+      "correct_index": 1,
+      "explanation": "24 hours.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_084",
+      "text": "Latitude measures: (variant 84)",
+      "options": [
+        "North/south equator",
+        "East/west Greenwich",
+        "Upwards",
+        "Downwards"
+      ],
+      "correct_index": 0,
+      "explanation": "North/south.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_085",
+      "text": "Greenwich is: (variant 85)",
+      "options": [
+        "0° latitude",
+        "90° long",
+        "180° lat",
+        "0° longitude"
+      ],
+      "correct_index": 3,
+      "explanation": "0° longitude.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_086",
+      "text": "Map scale is: (variant 86)",
+      "options": [
+        "Only ground",
+        "No ratio",
+        "Ratio map to ground",
+        "Only map"
+      ],
+      "correct_index": 2,
+      "explanation": "Ratio.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_087",
+      "text": "Igneous formed by: (variant 87)",
+      "options": [
+        "Weathering",
+        "Cooling magma",
+        "Deposition",
+        "Metamorphism"
+      ],
+      "correct_index": 1,
+      "explanation": "Cooling magma.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_088",
+      "text": "Rain gauge measures: (variant 88)",
+      "options": [
+        "Rainfall",
+        "Temperature",
+        "Pressure",
+        "Wind"
+      ],
+      "correct_index": 0,
+      "explanation": "Rainfall.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_089",
+      "text": "Largest ocean: (variant 89)",
+      "options": [
+        "Atlantic",
+        "Indian",
+        "Arctic",
+        "Pacific"
+      ],
+      "correct_index": 3,
+      "explanation": "Pacific.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_090",
+      "text": "Nile longest in: (variant 90)",
+      "options": [
+        "No longest",
+        "Only Nigeria",
+        "Africa",
+        "World"
+      ],
+      "correct_index": 2,
+      "explanation": "Africa.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_091",
+      "text": "Population density: (variant 91)",
+      "options": [
+        "No number",
+        "People per area",
+        "Only number",
+        "Only area"
+      ],
+      "correct_index": 1,
+      "explanation": "People per area.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_092",
+      "text": "Lagos largest city in: (variant 92)",
+      "options": [
+        "Nigeria",
+        "Ghana",
+        "Kenya",
+        "Egypt"
+      ],
+      "correct_index": 0,
+      "explanation": "Nigeria.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_093",
+      "text": "Primary activity: (variant 93)",
+      "options": [
+        "Manufacturing",
+        "Trading",
+        "Teaching",
+        "Farming"
+      ],
+      "correct_index": 3,
+      "explanation": "Farming.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_094",
+      "text": "Petroleum in: (variant 94)",
+      "options": [
+        "Kano",
+        "Borno",
+        "Niger Delta",
+        "Sokoto"
+      ],
+      "correct_index": 2,
+      "explanation": "Niger Delta.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_095",
+      "text": "Contour lines join: (variant 95)",
+      "options": [
+        "Equal pressure",
+        "Equal height",
+        "Equal rain",
+        "Equal temp"
+      ],
+      "correct_index": 1,
+      "explanation": "Equal height.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_096",
+      "text": "GIS means: (variant 96)",
+      "options": [
+        "Geographic Information System",
+        "General",
+        "Geological",
+        "No meaning"
+      ],
+      "correct_index": 0,
+      "explanation": "GIS.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_097",
+      "text": "Desertification common in: (variant 97)",
+      "options": [
+        "South",
+        "No where",
+        "Only coast",
+        "North Nigeria"
+      ],
+      "correct_index": 3,
+      "explanation": "North.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_098",
+      "text": "Renewable resource: (variant 98)",
+      "options": [
+        "Coal",
+        "Gas",
+        "Solar",
+        "Petroleum"
+      ],
+      "correct_index": 2,
+      "explanation": "Solar.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_099",
+      "text": "Nigeria in: (variant 99)",
+      "options": [
+        "South Africa",
+        "West Africa",
+        "East Africa",
+        "North Africa"
+      ],
+      "correct_index": 1,
+      "explanation": "West Africa.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_100",
+      "text": "Time diff 15°: (variant 100)",
+      "options": [
+        "1 hour",
+        "2 hours",
+        "30 mins",
+        "15 mins"
+      ],
+      "correct_index": 0,
+      "explanation": "1 hour.",
+      "difficulty": 2
+    },
+    {
+      "id": "geo_101",
+      "text": "Geography studies: (variant 101)",
+      "options": [
+        "Only rocks",
+        "Only animals",
+        "Only plants",
+        "Earth and features"
+      ],
+      "correct_index": 3,
+      "explanation": "Earth features.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_102",
+      "text": "Earth shape: (variant 102)",
+      "options": [
+        "Square",
+        "Triangle",
+        "Geoid",
+        "Flat"
+      ],
+      "correct_index": 2,
+      "explanation": "Geoid.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_103",
+      "text": "Rotation period: (variant 103)",
+      "options": [
+        "1 hour",
+        "24 hours",
+        "365 days",
+        "12 hours"
+      ],
+      "correct_index": 1,
+      "explanation": "24 hours.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_104",
+      "text": "Latitude measures: (variant 104)",
+      "options": [
+        "North/south equator",
+        "East/west Greenwich",
+        "Upwards",
+        "Downwards"
+      ],
+      "correct_index": 0,
+      "explanation": "North/south.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_105",
+      "text": "Greenwich is: (variant 105)",
+      "options": [
+        "0° latitude",
+        "90° long",
+        "180° lat",
+        "0° longitude"
+      ],
+      "correct_index": 3,
+      "explanation": "0° longitude.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_106",
+      "text": "Map scale is: (variant 106)",
+      "options": [
+        "Only ground",
+        "No ratio",
+        "Ratio map to ground",
+        "Only map"
+      ],
+      "correct_index": 2,
+      "explanation": "Ratio.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_107",
+      "text": "Igneous formed by: (variant 107)",
+      "options": [
+        "Weathering",
+        "Cooling magma",
+        "Deposition",
+        "Metamorphism"
+      ],
+      "correct_index": 1,
+      "explanation": "Cooling magma.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_108",
+      "text": "Rain gauge measures: (variant 108)",
+      "options": [
+        "Rainfall",
+        "Temperature",
+        "Pressure",
+        "Wind"
+      ],
+      "correct_index": 0,
+      "explanation": "Rainfall.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_109",
+      "text": "Largest ocean: (variant 109)",
+      "options": [
+        "Atlantic",
+        "Indian",
+        "Arctic",
+        "Pacific"
+      ],
+      "correct_index": 3,
+      "explanation": "Pacific.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_110",
+      "text": "Nile longest in: (variant 110)",
+      "options": [
+        "No longest",
+        "Only Nigeria",
+        "Africa",
+        "World"
+      ],
+      "correct_index": 2,
+      "explanation": "Africa.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_111",
+      "text": "Population density: (variant 111)",
+      "options": [
+        "No number",
+        "People per area",
+        "Only number",
+        "Only area"
+      ],
+      "correct_index": 1,
+      "explanation": "People per area.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_112",
+      "text": "Lagos largest city in: (variant 112)",
+      "options": [
+        "Nigeria",
+        "Ghana",
+        "Kenya",
+        "Egypt"
+      ],
+      "correct_index": 0,
+      "explanation": "Nigeria.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_113",
+      "text": "Primary activity: (variant 113)",
+      "options": [
+        "Manufacturing",
+        "Trading",
+        "Teaching",
+        "Farming"
+      ],
+      "correct_index": 3,
+      "explanation": "Farming.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_114",
+      "text": "Petroleum in: (variant 114)",
+      "options": [
+        "Kano",
+        "Borno",
+        "Niger Delta",
+        "Sokoto"
+      ],
+      "correct_index": 2,
+      "explanation": "Niger Delta.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_115",
+      "text": "Contour lines join: (variant 115)",
+      "options": [
+        "Equal pressure",
+        "Equal height",
+        "Equal rain",
+        "Equal temp"
+      ],
+      "correct_index": 1,
+      "explanation": "Equal height.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_116",
+      "text": "GIS means: (variant 116)",
+      "options": [
+        "Geographic Information System",
+        "General",
+        "Geological",
+        "No meaning"
+      ],
+      "correct_index": 0,
+      "explanation": "GIS.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_117",
+      "text": "Desertification common in: (variant 117)",
+      "options": [
+        "South",
+        "No where",
+        "Only coast",
+        "North Nigeria"
+      ],
+      "correct_index": 3,
+      "explanation": "North.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_118",
+      "text": "Renewable resource: (variant 118)",
+      "options": [
+        "Coal",
+        "Gas",
+        "Solar",
+        "Petroleum"
+      ],
+      "correct_index": 2,
+      "explanation": "Solar.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_119",
+      "text": "Nigeria in: (variant 119)",
+      "options": [
+        "South Africa",
+        "West Africa",
+        "East Africa",
+        "North Africa"
+      ],
+      "correct_index": 1,
+      "explanation": "West Africa.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_120",
+      "text": "Time diff 15°: (variant 120)",
+      "options": [
+        "1 hour",
+        "2 hours",
+        "30 mins",
+        "15 mins"
+      ],
+      "correct_index": 0,
+      "explanation": "1 hour.",
+      "difficulty": 2
+    },
+    {
+      "id": "geo_121",
+      "text": "Geography studies: (variant 121)",
+      "options": [
+        "Only rocks",
+        "Only animals",
+        "Only plants",
+        "Earth and features"
+      ],
+      "correct_index": 3,
+      "explanation": "Earth features.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_122",
+      "text": "Earth shape: (variant 122)",
+      "options": [
+        "Square",
+        "Triangle",
+        "Geoid",
+        "Flat"
+      ],
+      "correct_index": 2,
+      "explanation": "Geoid.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_123",
+      "text": "Rotation period: (variant 123)",
+      "options": [
+        "1 hour",
+        "24 hours",
+        "365 days",
+        "12 hours"
+      ],
+      "correct_index": 1,
+      "explanation": "24 hours.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_124",
+      "text": "Latitude measures: (variant 124)",
+      "options": [
+        "North/south equator",
+        "East/west Greenwich",
+        "Upwards",
+        "Downwards"
+      ],
+      "correct_index": 0,
+      "explanation": "North/south.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_125",
+      "text": "Greenwich is: (variant 125)",
+      "options": [
+        "0° latitude",
+        "90° long",
+        "180° lat",
+        "0° longitude"
+      ],
+      "correct_index": 3,
+      "explanation": "0° longitude.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_126",
+      "text": "Map scale is: (variant 126)",
+      "options": [
+        "Only ground",
+        "No ratio",
+        "Ratio map to ground",
+        "Only map"
+      ],
+      "correct_index": 2,
+      "explanation": "Ratio.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_127",
+      "text": "Igneous formed by: (variant 127)",
+      "options": [
+        "Weathering",
+        "Cooling magma",
+        "Deposition",
+        "Metamorphism"
+      ],
+      "correct_index": 1,
+      "explanation": "Cooling magma.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_128",
+      "text": "Rain gauge measures: (variant 128)",
+      "options": [
+        "Rainfall",
+        "Temperature",
+        "Pressure",
+        "Wind"
+      ],
+      "correct_index": 0,
+      "explanation": "Rainfall.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_129",
+      "text": "Largest ocean: (variant 129)",
+      "options": [
+        "Atlantic",
+        "Indian",
+        "Arctic",
+        "Pacific"
+      ],
+      "correct_index": 3,
+      "explanation": "Pacific.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_130",
+      "text": "Nile longest in: (variant 130)",
+      "options": [
+        "No longest",
+        "Only Nigeria",
+        "Africa",
+        "World"
+      ],
+      "correct_index": 2,
+      "explanation": "Africa.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_131",
+      "text": "Population density: (variant 131)",
+      "options": [
+        "No number",
+        "People per area",
+        "Only number",
+        "Only area"
+      ],
+      "correct_index": 1,
+      "explanation": "People per area.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_132",
+      "text": "Lagos largest city in: (variant 132)",
+      "options": [
+        "Nigeria",
+        "Ghana",
+        "Kenya",
+        "Egypt"
+      ],
+      "correct_index": 0,
+      "explanation": "Nigeria.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_133",
+      "text": "Primary activity: (variant 133)",
+      "options": [
+        "Manufacturing",
+        "Trading",
+        "Teaching",
+        "Farming"
+      ],
+      "correct_index": 3,
+      "explanation": "Farming.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_134",
+      "text": "Petroleum in: (variant 134)",
+      "options": [
+        "Kano",
+        "Borno",
+        "Niger Delta",
+        "Sokoto"
+      ],
+      "correct_index": 2,
+      "explanation": "Niger Delta.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_135",
+      "text": "Contour lines join: (variant 135)",
+      "options": [
+        "Equal pressure",
+        "Equal height",
+        "Equal rain",
+        "Equal temp"
+      ],
+      "correct_index": 1,
+      "explanation": "Equal height.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_136",
+      "text": "GIS means: (variant 136)",
+      "options": [
+        "Geographic Information System",
+        "General",
+        "Geological",
+        "No meaning"
+      ],
+      "correct_index": 0,
+      "explanation": "GIS.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_137",
+      "text": "Desertification common in: (variant 137)",
+      "options": [
+        "South",
+        "No where",
+        "Only coast",
+        "North Nigeria"
+      ],
+      "correct_index": 3,
+      "explanation": "North.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_138",
+      "text": "Renewable resource: (variant 138)",
+      "options": [
+        "Coal",
+        "Gas",
+        "Solar",
+        "Petroleum"
+      ],
+      "correct_index": 2,
+      "explanation": "Solar.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_139",
+      "text": "Nigeria in: (variant 139)",
+      "options": [
+        "South Africa",
+        "West Africa",
+        "East Africa",
+        "North Africa"
+      ],
+      "correct_index": 1,
+      "explanation": "West Africa.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_140",
+      "text": "Time diff 15°: (variant 140)",
+      "options": [
+        "1 hour",
+        "2 hours",
+        "30 mins",
+        "15 mins"
+      ],
+      "correct_index": 0,
+      "explanation": "1 hour.",
+      "difficulty": 2
+    },
+    {
+      "id": "geo_141",
+      "text": "Geography studies: (variant 141)",
+      "options": [
+        "Only rocks",
+        "Only animals",
+        "Only plants",
+        "Earth and features"
+      ],
+      "correct_index": 3,
+      "explanation": "Earth features.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_142",
+      "text": "Earth shape: (variant 142)",
+      "options": [
+        "Square",
+        "Triangle",
+        "Geoid",
+        "Flat"
+      ],
+      "correct_index": 2,
+      "explanation": "Geoid.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_143",
+      "text": "Rotation period: (variant 143)",
+      "options": [
+        "1 hour",
+        "24 hours",
+        "365 days",
+        "12 hours"
+      ],
+      "correct_index": 1,
+      "explanation": "24 hours.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_144",
+      "text": "Latitude measures: (variant 144)",
+      "options": [
+        "North/south equator",
+        "East/west Greenwich",
+        "Upwards",
+        "Downwards"
+      ],
+      "correct_index": 0,
+      "explanation": "North/south.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_145",
+      "text": "Greenwich is: (variant 145)",
+      "options": [
+        "0° latitude",
+        "90° long",
+        "180° lat",
+        "0° longitude"
+      ],
+      "correct_index": 3,
+      "explanation": "0° longitude.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_146",
+      "text": "Map scale is: (variant 146)",
+      "options": [
+        "Only ground",
+        "No ratio",
+        "Ratio map to ground",
+        "Only map"
+      ],
+      "correct_index": 2,
+      "explanation": "Ratio.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_147",
+      "text": "Igneous formed by: (variant 147)",
+      "options": [
+        "Weathering",
+        "Cooling magma",
+        "Deposition",
+        "Metamorphism"
+      ],
+      "correct_index": 1,
+      "explanation": "Cooling magma.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_148",
+      "text": "Rain gauge measures: (variant 148)",
+      "options": [
+        "Rainfall",
+        "Temperature",
+        "Pressure",
+        "Wind"
+      ],
+      "correct_index": 0,
+      "explanation": "Rainfall.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_149",
+      "text": "Largest ocean: (variant 149)",
+      "options": [
+        "Atlantic",
+        "Indian",
+        "Arctic",
+        "Pacific"
+      ],
+      "correct_index": 3,
+      "explanation": "Pacific.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_150",
+      "text": "Nile longest in: (variant 150)",
+      "options": [
+        "No longest",
+        "Only Nigeria",
+        "Africa",
+        "World"
+      ],
+      "correct_index": 2,
+      "explanation": "Africa.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_151",
+      "text": "Population density: (variant 151)",
+      "options": [
+        "No number",
+        "People per area",
+        "Only number",
+        "Only area"
+      ],
+      "correct_index": 1,
+      "explanation": "People per area.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_152",
+      "text": "Lagos largest city in: (variant 152)",
+      "options": [
+        "Nigeria",
+        "Ghana",
+        "Kenya",
+        "Egypt"
+      ],
+      "correct_index": 0,
+      "explanation": "Nigeria.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_153",
+      "text": "Primary activity: (variant 153)",
+      "options": [
+        "Manufacturing",
+        "Trading",
+        "Teaching",
+        "Farming"
+      ],
+      "correct_index": 3,
+      "explanation": "Farming.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_154",
+      "text": "Petroleum in: (variant 154)",
+      "options": [
+        "Kano",
+        "Borno",
+        "Niger Delta",
+        "Sokoto"
+      ],
+      "correct_index": 2,
+      "explanation": "Niger Delta.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_155",
+      "text": "Contour lines join: (variant 155)",
+      "options": [
+        "Equal pressure",
+        "Equal height",
+        "Equal rain",
+        "Equal temp"
+      ],
+      "correct_index": 1,
+      "explanation": "Equal height.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_156",
+      "text": "GIS means: (variant 156)",
+      "options": [
+        "Geographic Information System",
+        "General",
+        "Geological",
+        "No meaning"
+      ],
+      "correct_index": 0,
+      "explanation": "GIS.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_157",
+      "text": "Desertification common in: (variant 157)",
+      "options": [
+        "South",
+        "No where",
+        "Only coast",
+        "North Nigeria"
+      ],
+      "correct_index": 3,
+      "explanation": "North.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_158",
+      "text": "Renewable resource: (variant 158)",
+      "options": [
+        "Coal",
+        "Gas",
+        "Solar",
+        "Petroleum"
+      ],
+      "correct_index": 2,
+      "explanation": "Solar.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_159",
+      "text": "Nigeria in: (variant 159)",
+      "options": [
+        "South Africa",
+        "West Africa",
+        "East Africa",
+        "North Africa"
+      ],
+      "correct_index": 1,
+      "explanation": "West Africa.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_160",
+      "text": "Time diff 15°: (variant 160)",
+      "options": [
+        "1 hour",
+        "2 hours",
+        "30 mins",
+        "15 mins"
+      ],
+      "correct_index": 0,
+      "explanation": "1 hour.",
+      "difficulty": 2
+    },
+    {
+      "id": "geo_161",
+      "text": "Geography studies: (variant 161)",
+      "options": [
+        "Only rocks",
+        "Only animals",
+        "Only plants",
+        "Earth and features"
+      ],
+      "correct_index": 3,
+      "explanation": "Earth features.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_162",
+      "text": "Earth shape: (variant 162)",
+      "options": [
+        "Square",
+        "Triangle",
+        "Geoid",
+        "Flat"
+      ],
+      "correct_index": 2,
+      "explanation": "Geoid.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_163",
+      "text": "Rotation period: (variant 163)",
+      "options": [
+        "1 hour",
+        "24 hours",
+        "365 days",
+        "12 hours"
+      ],
+      "correct_index": 1,
+      "explanation": "24 hours.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_164",
+      "text": "Latitude measures: (variant 164)",
+      "options": [
+        "North/south equator",
+        "East/west Greenwich",
+        "Upwards",
+        "Downwards"
+      ],
+      "correct_index": 0,
+      "explanation": "North/south.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_165",
+      "text": "Greenwich is: (variant 165)",
+      "options": [
+        "0° latitude",
+        "90° long",
+        "180° lat",
+        "0° longitude"
+      ],
+      "correct_index": 3,
+      "explanation": "0° longitude.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_166",
+      "text": "Map scale is: (variant 166)",
+      "options": [
+        "Only ground",
+        "No ratio",
+        "Ratio map to ground",
+        "Only map"
+      ],
+      "correct_index": 2,
+      "explanation": "Ratio.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_167",
+      "text": "Igneous formed by: (variant 167)",
+      "options": [
+        "Weathering",
+        "Cooling magma",
+        "Deposition",
+        "Metamorphism"
+      ],
+      "correct_index": 1,
+      "explanation": "Cooling magma.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_168",
+      "text": "Rain gauge measures: (variant 168)",
+      "options": [
+        "Rainfall",
+        "Temperature",
+        "Pressure",
+        "Wind"
+      ],
+      "correct_index": 0,
+      "explanation": "Rainfall.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_169",
+      "text": "Largest ocean: (variant 169)",
+      "options": [
+        "Atlantic",
+        "Indian",
+        "Arctic",
+        "Pacific"
+      ],
+      "correct_index": 3,
+      "explanation": "Pacific.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_170",
+      "text": "Nile longest in: (variant 170)",
+      "options": [
+        "No longest",
+        "Only Nigeria",
+        "Africa",
+        "World"
+      ],
+      "correct_index": 2,
+      "explanation": "Africa.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_171",
+      "text": "Population density: (variant 171)",
+      "options": [
+        "No number",
+        "People per area",
+        "Only number",
+        "Only area"
+      ],
+      "correct_index": 1,
+      "explanation": "People per area.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_172",
+      "text": "Lagos largest city in: (variant 172)",
+      "options": [
+        "Nigeria",
+        "Ghana",
+        "Kenya",
+        "Egypt"
+      ],
+      "correct_index": 0,
+      "explanation": "Nigeria.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_173",
+      "text": "Primary activity: (variant 173)",
+      "options": [
+        "Manufacturing",
+        "Trading",
+        "Teaching",
+        "Farming"
+      ],
+      "correct_index": 3,
+      "explanation": "Farming.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_174",
+      "text": "Petroleum in: (variant 174)",
+      "options": [
+        "Kano",
+        "Borno",
+        "Niger Delta",
+        "Sokoto"
+      ],
+      "correct_index": 2,
+      "explanation": "Niger Delta.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_175",
+      "text": "Contour lines join: (variant 175)",
+      "options": [
+        "Equal pressure",
+        "Equal height",
+        "Equal rain",
+        "Equal temp"
+      ],
+      "correct_index": 1,
+      "explanation": "Equal height.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_176",
+      "text": "GIS means: (variant 176)",
+      "options": [
+        "Geographic Information System",
+        "General",
+        "Geological",
+        "No meaning"
+      ],
+      "correct_index": 0,
+      "explanation": "GIS.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_177",
+      "text": "Desertification common in: (variant 177)",
+      "options": [
+        "South",
+        "No where",
+        "Only coast",
+        "North Nigeria"
+      ],
+      "correct_index": 3,
+      "explanation": "North.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_178",
+      "text": "Renewable resource: (variant 178)",
+      "options": [
+        "Coal",
+        "Gas",
+        "Solar",
+        "Petroleum"
+      ],
+      "correct_index": 2,
+      "explanation": "Solar.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_179",
+      "text": "Nigeria in: (variant 179)",
+      "options": [
+        "South Africa",
+        "West Africa",
+        "East Africa",
+        "North Africa"
+      ],
+      "correct_index": 1,
+      "explanation": "West Africa.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_180",
+      "text": "Time diff 15°: (variant 180)",
+      "options": [
+        "1 hour",
+        "2 hours",
+        "30 mins",
+        "15 mins"
+      ],
+      "correct_index": 0,
+      "explanation": "1 hour.",
+      "difficulty": 2
+    },
+    {
+      "id": "geo_181",
+      "text": "Geography studies: (variant 181)",
+      "options": [
+        "Only rocks",
+        "Only animals",
+        "Only plants",
+        "Earth and features"
+      ],
+      "correct_index": 3,
+      "explanation": "Earth features.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_182",
+      "text": "Earth shape: (variant 182)",
+      "options": [
+        "Square",
+        "Triangle",
+        "Geoid",
+        "Flat"
+      ],
+      "correct_index": 2,
+      "explanation": "Geoid.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_183",
+      "text": "Rotation period: (variant 183)",
+      "options": [
+        "1 hour",
+        "24 hours",
+        "365 days",
+        "12 hours"
+      ],
+      "correct_index": 1,
+      "explanation": "24 hours.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_184",
+      "text": "Latitude measures: (variant 184)",
+      "options": [
+        "North/south equator",
+        "East/west Greenwich",
+        "Upwards",
+        "Downwards"
+      ],
+      "correct_index": 0,
+      "explanation": "North/south.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_185",
+      "text": "Greenwich is: (variant 185)",
+      "options": [
+        "0° latitude",
+        "90° long",
+        "180° lat",
+        "0° longitude"
+      ],
+      "correct_index": 3,
+      "explanation": "0° longitude.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_186",
+      "text": "Map scale is: (variant 186)",
+      "options": [
+        "Only ground",
+        "No ratio",
+        "Ratio map to ground",
+        "Only map"
+      ],
+      "correct_index": 2,
+      "explanation": "Ratio.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_187",
+      "text": "Igneous formed by: (variant 187)",
+      "options": [
+        "Weathering",
+        "Cooling magma",
+        "Deposition",
+        "Metamorphism"
+      ],
+      "correct_index": 1,
+      "explanation": "Cooling magma.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_188",
+      "text": "Rain gauge measures: (variant 188)",
+      "options": [
+        "Rainfall",
+        "Temperature",
+        "Pressure",
+        "Wind"
+      ],
+      "correct_index": 0,
+      "explanation": "Rainfall.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_189",
+      "text": "Largest ocean: (variant 189)",
+      "options": [
+        "Atlantic",
+        "Indian",
+        "Arctic",
+        "Pacific"
+      ],
+      "correct_index": 3,
+      "explanation": "Pacific.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_190",
+      "text": "Nile longest in: (variant 190)",
+      "options": [
+        "No longest",
+        "Only Nigeria",
+        "Africa",
+        "World"
+      ],
+      "correct_index": 2,
+      "explanation": "Africa.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_191",
+      "text": "Population density: (variant 191)",
+      "options": [
+        "No number",
+        "People per area",
+        "Only number",
+        "Only area"
+      ],
+      "correct_index": 1,
+      "explanation": "People per area.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_192",
+      "text": "Lagos largest city in: (variant 192)",
+      "options": [
+        "Nigeria",
+        "Ghana",
+        "Kenya",
+        "Egypt"
+      ],
+      "correct_index": 0,
+      "explanation": "Nigeria.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_193",
+      "text": "Primary activity: (variant 193)",
+      "options": [
+        "Manufacturing",
+        "Trading",
+        "Teaching",
+        "Farming"
+      ],
+      "correct_index": 3,
+      "explanation": "Farming.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_194",
+      "text": "Petroleum in: (variant 194)",
+      "options": [
+        "Kano",
+        "Borno",
+        "Niger Delta",
+        "Sokoto"
+      ],
+      "correct_index": 2,
+      "explanation": "Niger Delta.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_195",
+      "text": "Contour lines join: (variant 195)",
+      "options": [
+        "Equal pressure",
+        "Equal height",
+        "Equal rain",
+        "Equal temp"
+      ],
+      "correct_index": 1,
+      "explanation": "Equal height.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_196",
+      "text": "GIS means: (variant 196)",
+      "options": [
+        "Geographic Information System",
+        "General",
+        "Geological",
+        "No meaning"
+      ],
+      "correct_index": 0,
+      "explanation": "GIS.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_197",
+      "text": "Desertification common in: (variant 197)",
+      "options": [
+        "South",
+        "No where",
+        "Only coast",
+        "North Nigeria"
+      ],
+      "correct_index": 3,
+      "explanation": "North.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_198",
+      "text": "Renewable resource: (variant 198)",
+      "options": [
+        "Coal",
+        "Gas",
+        "Solar",
+        "Petroleum"
+      ],
+      "correct_index": 2,
+      "explanation": "Solar.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_199",
+      "text": "Nigeria in: (variant 199)",
+      "options": [
+        "South Africa",
+        "West Africa",
+        "East Africa",
+        "North Africa"
+      ],
+      "correct_index": 1,
+      "explanation": "West Africa.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_200",
+      "text": "Time diff 15°: (variant 200)",
+      "options": [
+        "1 hour",
+        "2 hours",
+        "30 mins",
+        "15 mins"
+      ],
+      "correct_index": 0,
+      "explanation": "1 hour.",
+      "difficulty": 2
+    }
+  ]
+}

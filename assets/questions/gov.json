@@ -1,0 +1,2607 @@
+{
+  "course_id": "gov",
+  "course_name": "Government",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "gov_001",
+      "text": "Government is best defined as the:",
+      "options": [
+        "Machinery through which the state exercises power",
+        "President",
+        "Civil service",
+        "Ruling party"
+      ],
+      "correct_index": 0,
+      "explanation": "Government is the machinery of state power.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_002",
+      "text": "The study of government is also called:",
+      "options": [
+        "Economics",
+        "History",
+        "Sociology",
+        "Political science"
+      ],
+      "correct_index": 3,
+      "explanation": "Government = political science.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_003",
+      "text": "The three organs of government are:",
+      "options": [
+        "Federal, state, local",
+        "Legislature, executive, judiciary",
+        "President, governor, minister",
+        "Army, police, courts"
+      ],
+      "correct_index": 1,
+      "explanation": "The organs are legislature, executive, judiciary.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_004",
+      "text": "The power to make laws belongs to the:",
+      "options": [
+        "Executive",
+        "Legislature",
+        "Judiciary",
+        "Police"
+      ],
+      "correct_index": 1,
+      "explanation": "The legislature makes laws.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_005",
+      "text": "The power to implement laws belongs to the:",
+      "options": [
+        "Executive",
+        "Judiciary",
+        "Civil society",
+        "Legislature"
+      ],
+      "correct_index": 0,
+      "explanation": "The executive implements laws.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_006",
+      "text": "The power to interpret laws belongs to the:",
+      "options": [
+        "Judiciary",
+        "Police",
+        "Executive",
+        "Legislature"
+      ],
+      "correct_index": 0,
+      "explanation": "The judiciary interprets laws.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_007",
+      "text": "A state is defined by all EXCEPT:",
+      "options": [
+        "A single political party",
+        "Population",
+        "Territory",
+        "Government"
+      ],
+      "correct_index": 0,
+      "explanation": "A state needs population, territory, government and sovereignty.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_008",
+      "text": "Sovereignty is the:",
+      "options": [
+        "Wealth of a state",
+        "Supreme power of the state",
+        "Size of the state",
+        "Population"
+      ],
+      "correct_index": 1,
+      "explanation": "Sovereignty is supreme authority.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_009",
+      "text": "A nation is a group of people with:",
+      "options": [
+        "Shared culture, history and identity",
+        "Only shared language",
+        "Nothing in common",
+        "Only shared territory"
+      ],
+      "correct_index": 0,
+      "explanation": "A nation shares culture and identity.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_010",
+      "text": "Power is best defined as the:",
+      "options": [
+        "Size of an army",
+        "Popularity",
+        "Wealth of a person",
+        "Ability to make others do what you want"
+      ],
+      "correct_index": 3,
+      "explanation": "Power is the ability to influence others.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_011",
+      "text": "Authority is power that is:",
+      "options": [
+        "Temporary",
+        "Illegal",
+        "Legitimate/accepted",
+        "Coercive only"
+      ],
+      "correct_index": 2,
+      "explanation": "Authority is legitimate power.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_012",
+      "text": "Legitimacy means the:",
+      "options": [
+        "Legality of a law",
+        "Acceptance of the right to rule",
+        "Size of government",
+        "Wealth of rulers"
+      ],
+      "correct_index": 1,
+      "explanation": "Legitimacy = acceptance of the right to rule.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_013",
+      "text": "A constitution is a:",
+      "options": [
+        "Political party",
+        "Court ruling",
+        "Government ministry",
+        "Set of fundamental laws/principles of a state"
+      ],
+      "correct_index": 3,
+      "explanation": "A constitution sets out state principles.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_014",
+      "text": "A written constitution is one that is:",
+      "options": [
+        "Based on customs",
+        "Illegal",
+        "Unwritten",
+        "Contained in a single document"
+      ],
+      "correct_index": 3,
+      "explanation": "A written constitution is in one document.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_015",
+      "text": "An unwritten constitution is based on:",
+      "options": [
+        "Court cases only",
+        "A single document",
+        "Customs, conventions and statutes",
+        "Only statutes"
+      ],
+      "correct_index": 2,
+      "explanation": "Unwritten constitutions derive from customs and conventions.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_016",
+      "text": "Which country has an unwritten constitution?",
+      "options": [
+        "Nigeria",
+        "Britain",
+        "USA",
+        "Ghana"
+      ],
+      "correct_index": 1,
+      "explanation": "Britain has an unwritten constitution.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_017",
+      "text": "A rigid constitution is one that is:",
+      "options": [
+        "Difficult to amend",
+        "Unwritten",
+        "Illegal",
+        "Easy to amend"
+      ],
+      "correct_index": 0,
+      "explanation": "Rigid constitutions are hard to amend.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_018",
+      "text": "A flexible constitution is one that is:",
+      "options": [
+        "Written only",
+        "Rigid",
+        "Hard to amend",
+        "Easy to amend"
+      ],
+      "correct_index": 3,
+      "explanation": "Flexible constitutions are easily amended.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_019",
+      "text": "The principle of separation of powers was popularised by:",
+      "options": [
+        "Hobbes",
+        "Rousseau",
+        "Montesquieu",
+        "Locke"
+      ],
+      "correct_index": 2,
+      "explanation": "Montesquieu popularised separation of powers.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_020",
+      "text": "The principle of separation of powers aims to prevent:",
+      "options": [
+        "Elections",
+        "Abuse of power",
+        "Taxation",
+        "Law-making"
+      ],
+      "correct_index": 1,
+      "explanation": "It prevents concentration/abuse of power.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_021",
+      "text": "Checks and balances refers to:",
+      "options": [
+        "Each organ checking the others",
+        "Military rule",
+        "Elections",
+        "Banking"
+      ],
+      "correct_index": 0,
+      "explanation": "Organs check and balance each other.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_022",
+      "text": "The rule of law means:",
+      "options": [
+        "Rule by the rich",
+        "Rule by one person",
+        "Rule by the military",
+        "Equality before the law and supremacy of law"
+      ],
+      "correct_index": 3,
+      "explanation": "Rule of law = no one is above the law.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_023",
+      "text": "The rule of law was popularised by:",
+      "options": [
+        "Marx",
+        "Montesquieu",
+        "A.V. Dicey",
+        "Locke"
+      ],
+      "correct_index": 2,
+      "explanation": "Dicey articulated the rule of law.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_024",
+      "text": "Socialism advocates:",
+      "options": [
+        "Private ownership",
+        "Public ownership of the means of production",
+        "Free markets",
+        "Monarchy"
+      ],
+      "correct_index": 1,
+      "explanation": "Socialism favours public ownership.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_025",
+      "text": "Capitalism advocates:",
+      "options": [
+        "Private ownership and free markets",
+        "Government control",
+        "No trade",
+        "Public ownership"
+      ],
+      "correct_index": 0,
+      "explanation": "Capitalism favours private ownership.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_026",
+      "text": "Communism was propounded by:",
+      "options": [
+        "Keynes",
+        "Locke",
+        "Adam Smith",
+        "Karl Marx"
+      ],
+      "correct_index": 3,
+      "explanation": "Marx propounded communism.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_027",
+      "text": "Fascism is a political ideology that is:",
+      "options": [
+        "Liberal",
+        "Democratic",
+        "Authoritarian and nationalist",
+        "Socialist"
+      ],
+      "correct_index": 2,
+      "explanation": "Fascism is authoritarian nationalism.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_028",
+      "text": "Liberalism emphasises:",
+      "options": [
+        "State control",
+        "Individual freedom and rights",
+        "Dictatorship",
+        "Monarchy"
+      ],
+      "correct_index": 1,
+      "explanation": "Liberalism values individual liberty.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_029",
+      "text": "The ideology that rejects all forms of government is:",
+      "options": [
+        "Anarchism",
+        "Fascism",
+        "Communism",
+        "Socialism"
+      ],
+      "correct_index": 0,
+      "explanation": "Anarchism rejects government.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_030",
+      "text": "A bicameral legislature has:",
+      "options": [
+        "Three houses",
+        "No houses",
+        "One house",
+        "Two houses"
+      ],
+      "correct_index": 3,
+      "explanation": "Bicameral = two chambers.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_031",
+      "text": "A unicameral legislature has:",
+      "options": [
+        "No houses",
+        "Two houses",
+        "One house",
+        "Three houses"
+      ],
+      "correct_index": 2,
+      "explanation": "Unicameral = one chamber.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_032",
+      "text": "Nigeria's federal legislature is:",
+      "options": [
+        "Unicameral",
+        "Bicameral",
+        "Tricameral",
+        "None"
+      ],
+      "correct_index": 1,
+      "explanation": "Nigeria has a bicameral National Assembly.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_033",
+      "text": "The two houses of Nigeria's National Assembly are:",
+      "options": [
+        "Senate and House of Lords",
+        "Congress and Senate",
+        "Council and Senate",
+        "Senate and House of Representatives"
+      ],
+      "correct_index": 3,
+      "explanation": "Senate + House of Representatives.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_034",
+      "text": "The head of the executive in Nigeria is the:",
+      "options": [
+        "Senate President",
+        "Speaker",
+        "Chief Justice",
+        "President"
+      ],
+      "correct_index": 3,
+      "explanation": "The President heads the executive.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_035",
+      "text": "The head of the judiciary in Nigeria is the:",
+      "options": [
+        "Senate President",
+        "President",
+        "Chief Justice of Nigeria",
+        "Attorney-General"
+      ],
+      "correct_index": 2,
+      "explanation": "The Chief Justice heads the judiciary.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_036",
+      "text": "The chief law officer of the federation is the:",
+      "options": [
+        "Chief Justice",
+        "Attorney-General",
+        "IGP",
+        "President"
+      ],
+      "correct_index": 1,
+      "explanation": "The Attorney-General is chief law officer.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_037",
+      "text": "The presiding officer of the Senate is the:",
+      "options": [
+        "Senate President",
+        "Clerk",
+        "Whip",
+        "Speaker"
+      ],
+      "correct_index": 0,
+      "explanation": "The Senate President presides over the Senate.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_038",
+      "text": "The presiding officer of the House of Representatives is the:",
+      "options": [
+        "Clerk",
+        "Majority Leader",
+        "Senate President",
+        "Speaker"
+      ],
+      "correct_index": 3,
+      "explanation": "The Speaker presides over the House.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_039",
+      "text": "A bill becomes law after it is signed by the:",
+      "options": [
+        "IGP",
+        "Chief Justice",
+        "President (assent)",
+        "Speaker"
+      ],
+      "correct_index": 2,
+      "explanation": "The President's assent makes a bill law.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_040",
+      "text": "Federalism is a system where power is shared between:",
+      "options": [
+        "The central and component units",
+        "Only the centre",
+        "Only states",
+        "The army"
+      ],
+      "correct_index": 0,
+      "explanation": "Federalism divides power between centre and units.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_041",
+      "text": "Nigeria became a federation in:",
+      "options": [
+        "1954",
+        "1946",
+        "1963",
+        "1960"
+      ],
+      "correct_index": 0,
+      "explanation": "The Lyttleton Constitution (1954) made Nigeria a federation.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_042",
+      "text": "The number of states in Nigeria is:",
+      "options": [
+        "40",
+        "25",
+        "30",
+        "36"
+      ],
+      "correct_index": 3,
+      "explanation": "Nigeria has 36 states.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_043",
+      "text": "The current Federal Capital Territory of Nigeria is:",
+      "options": [
+        "Ibadan",
+        "Lagos",
+        "Abuja",
+        "Kano"
+      ],
+      "correct_index": 2,
+      "explanation": "Abuja is the FCT.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_044",
+      "text": "The former capital of Nigeria was:",
+      "options": [
+        "Abuja",
+        "Lagos",
+        "Calabar",
+        "Port Harcourt"
+      ],
+      "correct_index": 1,
+      "explanation": "Lagos was the former capital.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_045",
+      "text": "The federal system is most suitable for a country that is:",
+      "options": [
+        "Large and diverse",
+        "Only rural",
+        "Only urban",
+        "Small and homogeneous"
+      ],
+      "correct_index": 0,
+      "explanation": "Federalism suits large, diverse states.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_046",
+      "text": "In a unitary system, power is concentrated in the:",
+      "options": [
+        "Local councils",
+        "Regions",
+        "States",
+        "Central government"
+      ],
+      "correct_index": 3,
+      "explanation": "Unitary systems centralise power.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_047",
+      "text": "A confederation is a union where the component units:",
+      "options": [
+        "Disappear",
+        "Lose sovereignty",
+        "Retain their sovereignty",
+        "Merge completely"
+      ],
+      "correct_index": 2,
+      "explanation": "In a confederation, units keep sovereignty.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_048",
+      "text": "The exclusive legislative list contains matters for the:",
+      "options": [
+        "States",
+        "Federal government",
+        "Local government",
+        "Traditional rulers"
+      ],
+      "correct_index": 1,
+      "explanation": "Exclusive list = federal matters.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_049",
+      "text": "The concurrent legislative list contains matters for:",
+      "options": [
+        "Both federal and state governments",
+        "Local government only",
+        "The judiciary",
+        "The federal government only"
+      ],
+      "correct_index": 0,
+      "explanation": "Concurrent list = shared federal/state matters.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_050",
+      "text": "Citizenship is the:",
+      "options": [
+        "Visiting a country",
+        "Paying tax",
+        "Residence in a country",
+        "Legal membership of a state with rights and duties"
+      ],
+      "correct_index": 3,
+      "explanation": "Citizenship is legal membership of a state.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_051",
+      "text": "Citizenship by birth is called:",
+      "options": [
+        "Marriage",
+        "Naturalisation",
+        "Jus sanguinis/jus soli",
+        "Registration"
+      ],
+      "correct_index": 2,
+      "explanation": "Birth citizenship = jus sanguinis or jus soli.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_052",
+      "text": "Citizenship acquired through legal application by a foreigner is:",
+      "options": [
+        "By birth",
+        "Naturalisation",
+        "By descent",
+        "By registration"
+      ],
+      "correct_index": 1,
+      "explanation": "Naturalisation grants citizenship by application.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_053",
+      "text": "The right to vote in elections is called:",
+      "options": [
+        "Citizenship",
+        "Naturalisation",
+        "Franchise only",
+        "Suffrage"
+      ],
+      "correct_index": 3,
+      "explanation": "Suffrage (franchise) is the right to vote.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_054",
+      "text": "Universal adult suffrage means the right to vote for:",
+      "options": [
+        "Only the rich",
+        "Only the educated",
+        "Only men",
+        "All qualified adults"
+      ],
+      "correct_index": 3,
+      "explanation": "Universal adult suffrage extends to all adults.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_055",
+      "text": "A duty of a citizen is to:",
+      "options": [
+        "Own property",
+        "Vote only",
+        "Obey the laws and pay taxes",
+        "Travel freely"
+      ],
+      "correct_index": 2,
+      "explanation": "Citizens must obey laws and pay taxes.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_056",
+      "text": "A right enjoyed by citizens is the right to:",
+      "options": [
+        "Break laws",
+        "Freedom of speech and association",
+        "Avoid taxes",
+        "Disobey courts"
+      ],
+      "correct_index": 1,
+      "explanation": "Citizens have civil rights like free speech.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_057",
+      "text": "A political party is an organisation that:",
+      "options": [
+        "Contests elections to gain power",
+        "Enforces laws",
+        "Collects taxes",
+        "Runs businesses"
+      ],
+      "correct_index": 0,
+      "explanation": "Parties contest elections for power.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_058",
+      "text": "A one-party system exists when:",
+      "options": [
+        "No parties exist",
+        "Two parties exist",
+        "Many parties exist",
+        "Only one party is legally allowed"
+      ],
+      "correct_index": 3,
+      "explanation": "One-party systems permit one party.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_059",
+      "text": "A two-party system has:",
+      "options": [
+        "No parties",
+        "One dominant party",
+        "Two major parties",
+        "Many parties"
+      ],
+      "correct_index": 2,
+      "explanation": "Two-party systems have two major parties.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_060",
+      "text": "A multi-party system has:",
+      "options": [
+        "One party",
+        "Two parties",
+        "Many political parties",
+        "No parties"
+      ],
+      "correct_index": 2,
+      "explanation": "Multi-party systems have many parties.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_061",
+      "text": "Nigeria operates a:",
+      "options": [
+        "Two-party system",
+        "Multi-party system",
+        "No-party system",
+        "One-party system"
+      ],
+      "correct_index": 1,
+      "explanation": "Nigeria has a multi-party system.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_062",
+      "text": "The party in power that forms the government is the:",
+      "options": [
+        "Pressure group",
+        "Faction",
+        "Opposition party",
+        "Ruling party"
+      ],
+      "correct_index": 3,
+      "explanation": "The ruling party forms government.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_063",
+      "text": "The main function of the opposition party is to:",
+      "options": [
+        "Make laws alone",
+        "Support everything",
+        "Criticise and check the government",
+        "Collect taxes"
+      ],
+      "correct_index": 2,
+      "explanation": "The opposition checks the government.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_064",
+      "text": "The body that registers political parties in Nigeria is:",
+      "options": [
+        "CBN",
+        "INEC",
+        "NDIC",
+        "NEC"
+      ],
+      "correct_index": 1,
+      "explanation": "INEC registers political parties.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_065",
+      "text": "INEC stands for:",
+      "options": [
+        "Internal National Electoral Council",
+        "Independent Nigerian Electoral Committee",
+        "National Electoral Commission",
+        "Independent National Electoral Commission"
+      ],
+      "correct_index": 3,
+      "explanation": "INEC = Independent National Electoral Commission.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_066",
+      "text": "A pressure group is an organisation that:",
+      "options": [
+        "Makes laws",
+        "Enforces laws",
+        "Contests elections",
+        "Tries to influence government policy"
+      ],
+      "correct_index": 3,
+      "explanation": "Pressure groups influence policy without contesting elections.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_067",
+      "text": "The main difference between a political party and a pressure group is that a party:",
+      "options": [
+        "Has interests",
+        "Influences policy",
+        "Contests elections for power",
+        "Has members"
+      ],
+      "correct_index": 2,
+      "explanation": "Parties seek power via elections.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_068",
+      "text": "The Nigerian Labour Congress (NLC) is an example of a:",
+      "options": [
+        "Political party",
+        "Pressure group",
+        "Government body",
+        "Court"
+      ],
+      "correct_index": 1,
+      "explanation": "The NLC is a labour pressure group.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_069",
+      "text": "Public opinion is the:",
+      "options": [
+        "Aggregate of citizens' views on issues",
+        "Judges' view",
+        "Party view",
+        "Government's view"
+      ],
+      "correct_index": 0,
+      "explanation": "Public opinion is the collective view of the people.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_070",
+      "text": "Public opinion can be measured through:",
+      "options": [
+        "Taxation",
+        "Rumours",
+        "Elections and opinion polls",
+        "War"
+      ],
+      "correct_index": 2,
+      "explanation": "Polls and elections measure public opinion.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_071",
+      "text": "An election is the process of:",
+      "options": [
+        "Appointing judges",
+        "Making laws",
+        "Choosing representatives by voting",
+        "Collecting taxes"
+      ],
+      "correct_index": 2,
+      "explanation": "Elections choose representatives by vote.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_072",
+      "text": "A referendum is a:",
+      "options": [
+        "General election",
+        "Direct vote by citizens on a specific issue",
+        "Party primary",
+        "Court case"
+      ],
+      "correct_index": 1,
+      "explanation": "A referendum lets citizens vote on an issue.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_073",
+      "text": "A by-election is held to fill:",
+      "options": [
+        "A vacant seat between general elections",
+        "The presidency",
+        "Judicial posts",
+        "All seats"
+      ],
+      "correct_index": 0,
+      "explanation": "By-elections fill vacancies.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_074",
+      "text": "The first-past-the-post system awards the seat to the candidate with:",
+      "options": [
+        "Two-thirds",
+        "All votes",
+        "The most votes",
+        "Over 50%"
+      ],
+      "correct_index": 2,
+      "explanation": "FPTP = simple majority wins.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_075",
+      "text": "The secret ballot means voting is:",
+      "options": [
+        "Open",
+        "Public",
+        "Confidential/anonymous",
+        "By show of hands"
+      ],
+      "correct_index": 2,
+      "explanation": "Secret ballot protects voter privacy.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_076",
+      "text": "Gerrymandering is the:",
+      "options": [
+        "Fair drawing of constituencies",
+        "Manipulation of constituency boundaries for advantage",
+        "Counting votes",
+        "Registering voters"
+      ],
+      "correct_index": 1,
+      "explanation": "Gerrymandering manipulates boundaries.",
+      "difficulty": 2
+    },
+    {
+      "id": "gov_077",
+      "text": "The voting age in Nigeria is:",
+      "options": [
+        "18",
+        "21",
+        "20",
+        "16"
+      ],
+      "correct_index": 0,
+      "explanation": "Voting age in Nigeria is 18.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_078",
+      "text": "The first colonial constitution of Nigeria was the:",
+      "options": [
+        "Macpherson (1951)",
+        "Lyttleton (1954)",
+        "Clifford Constitution (1922)",
+        "Richard Constitution (1946)"
+      ],
+      "correct_index": 2,
+      "explanation": "Clifford Constitution (1922) was first.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_079",
+      "text": "The Richard Constitution of 1946 divided Nigeria into:",
+      "options": [
+        "Six zones",
+        "States",
+        "Three regions",
+        "Two regions"
+      ],
+      "correct_index": 2,
+      "explanation": "The Richard Constitution created three regions.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_080",
+      "text": "The Lyttleton Constitution of 1954 established:",
+      "options": [
+        "Unitary government",
+        "A federal system",
+        "Military rule",
+        "Monarchy"
+      ],
+      "correct_index": 1,
+      "explanation": "Lyttleton (1954) established federalism.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_081",
+      "text": "Nigeria gained independence on:",
+      "options": [
+        "1 October 1963",
+        "1 January 1960",
+        "29 May 1999",
+        "1 October 1960"
+      ],
+      "correct_index": 3,
+      "explanation": "Independence was 1 October 1960.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_082",
+      "text": "Nigeria became a republic in:",
+      "options": [
+        "1966",
+        "1979",
+        "1960",
+        "1963"
+      ],
+      "correct_index": 3,
+      "explanation": "Nigeria became a republic in 1963.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_083",
+      "text": "Nigeria's first President was:",
+      "options": [
+        "Ahmadu Bello",
+        "Tafawa Balewa",
+        "Nnamdi Azikiwe",
+        "Obafemi Awolowo"
+      ],
+      "correct_index": 2,
+      "explanation": "Azikiwe was first President (ceremonial).",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_084",
+      "text": "Nigeria's first Prime Minister was:",
+      "options": [
+        "Nnamdi Azikiwe",
+        "Abubakar Tafawa Balewa",
+        "Ahmadu Bello",
+        "Awolowo"
+      ],
+      "correct_index": 1,
+      "explanation": "Balewa was first Prime Minister.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_085",
+      "text": "Nigeria's first military coup was in:",
+      "options": [
+        "1966",
+        "1967",
+        "1970",
+        "1963"
+      ],
+      "correct_index": 0,
+      "explanation": "The first coup was January 1966.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_086",
+      "text": "The Nigerian Civil War lasted from:",
+      "options": [
+        "1970–1973",
+        "1963–1966",
+        "1967–1970",
+        "1966–1967"
+      ],
+      "correct_index": 2,
+      "explanation": "The Civil War was 1967–1970.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_087",
+      "text": "The leader of Biafra during the Civil War was:",
+      "options": [
+        "Obasanjo",
+        "Gowon",
+        "Ojukwu",
+        "Ironsi"
+      ],
+      "correct_index": 2,
+      "explanation": "Odumegwu Ojukwu led Biafra.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_088",
+      "text": "The head of state who prosecuted the Civil War was:",
+      "options": [
+        "Ironsi",
+        "Yakubu Gowon",
+        "Buhari",
+        "Babangida"
+      ],
+      "correct_index": 1,
+      "explanation": "Gowon was head of state during the war.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_089",
+      "text": "The 'no victor, no vanquished' declaration was made by:",
+      "options": [
+        "Ojukwu",
+        "Obasanjo",
+        "Shagari",
+        "Gowon"
+      ],
+      "correct_index": 3,
+      "explanation": "Gowon declared 'no victor, no vanquished'.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_090",
+      "text": "The first military head of state of Nigeria was:",
+      "options": [
+        "Obasanjo",
+        "Murtala",
+        "Gowon",
+        "Aguiyi-Ironsi"
+      ],
+      "correct_index": 3,
+      "explanation": "Ironsi was the first military head of state.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_091",
+      "text": "The head of state assassinated in 1976 was:",
+      "options": [
+        "Abacha",
+        "Ironsi",
+        "Murtala Mohammed",
+        "Gowon"
+      ],
+      "correct_index": 2,
+      "explanation": "Murtala Mohammed was assassinated in 1976.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_092",
+      "text": "The head of state who returned Nigeria to civilian rule in 1979 was:",
+      "options": [
+        "Murtala",
+        "Olusegun Obasanjo",
+        "Gowon",
+        "Buhari"
+      ],
+      "correct_index": 1,
+      "explanation": "Obasanjo handed over to civilians in 1979.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_093",
+      "text": "The President of the Second Republic was:",
+      "options": [
+        "Shehu Shagari",
+        "Shonekan",
+        "Babangida",
+        "Obasanjo"
+      ],
+      "correct_index": 0,
+      "explanation": "Shagari was Second Republic president.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_094",
+      "text": "The head of state who annulled the 1993 election was:",
+      "options": [
+        "Abacha",
+        "Gowon",
+        "Buhari",
+        "Ibrahim Babangida"
+      ],
+      "correct_index": 3,
+      "explanation": "Babangida annulled the June 12, 1993 election.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_095",
+      "text": "The winner of the annulled 1993 election was:",
+      "options": [
+        "Obasanjo",
+        "Abiola",
+        "Tofa",
+        "Shagari"
+      ],
+      "correct_index": 1,
+      "explanation": "M.K.O. Abiola won the June 12 election.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_096",
+      "text": "The Interim National Government (1993) was headed by:",
+      "options": [
+        "Abacha",
+        "Ernest Shonekan",
+        "Babangida",
+        "Abiola"
+      ],
+      "correct_index": 1,
+      "explanation": "Shonekan headed the ING.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_097",
+      "text": "The head of state who died in office in 1998 was:",
+      "options": [
+        "Sani Abacha",
+        "Buhari",
+        "Ironsi",
+        "Babangida"
+      ],
+      "correct_index": 0,
+      "explanation": "Abacha died in office in 1998.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_098",
+      "text": "The head of state who handed over to democracy in 1999 was:",
+      "options": [
+        "Babangida",
+        "Buhari",
+        "Abacha",
+        "Abdulsalami Abubakar"
+      ],
+      "correct_index": 3,
+      "explanation": "Abdulsalami Abubakar handed over in 1999.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_099",
+      "text": "Nigeria's current democracy (Fourth Republic) began in:",
+      "options": [
+        "2007",
+        "1993",
+        "1999",
+        "1979"
+      ],
+      "correct_index": 2,
+      "explanation": "The Fourth Republic began in 1999.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_100",
+      "text": "The first President of the Fourth Republic was:",
+      "options": [
+        "Obasanjo",
+        "Yar'Adua",
+        "Jonathan",
+        "Buhari"
+      ],
+      "correct_index": 0,
+      "explanation": "Obasanjo was first Fourth Republic president.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_101",
+      "text": "The 1999 Constitution established:",
+      "options": [
+        "Presidential system",
+        "Monarchy",
+        "Military rule",
+        "Parliamentary system"
+      ],
+      "correct_index": 0,
+      "explanation": "The 1999 Constitution is presidential.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_102",
+      "text": "A military government rules by:",
+      "options": [
+        "Referenda",
+        "Consensus",
+        "Elections",
+        "Decrees"
+      ],
+      "correct_index": 3,
+      "explanation": "Military regimes rule by decree.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_103",
+      "text": "A decree is a law made by the:",
+      "options": [
+        "Local council",
+        "Legislature",
+        "Military government",
+        "Judiciary"
+      ],
+      "correct_index": 2,
+      "explanation": "Decrees are military-made laws.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_104",
+      "text": "A coup d'état is the:",
+      "options": [
+        "Peaceful transfer of power",
+        "Violent seizure of government",
+        "Election",
+        "Referendum"
+      ],
+      "correct_index": 1,
+      "explanation": "A coup is a violent takeover.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_105",
+      "text": "One disadvantage of military rule is:",
+      "options": [
+        "Abuse of human rights",
+        "Discipline",
+        "Speed",
+        "Order"
+      ],
+      "correct_index": 0,
+      "explanation": "Military rule often abuses rights.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_106",
+      "text": "Foreign policy is a country's:",
+      "options": [
+        "Economic plans",
+        "Tax policy",
+        "Internal policies",
+        "Policies toward other countries"
+      ],
+      "correct_index": 3,
+      "explanation": "Foreign policy governs external relations.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_107",
+      "text": "The main focus of Nigeria's foreign policy is:",
+      "options": [
+        "Isolation",
+        "Asia first",
+        "Africa as centrepiece",
+        "Europe only"
+      ],
+      "correct_index": 2,
+      "explanation": "Africa is the centrepiece of Nigeria's foreign policy.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_108",
+      "text": "The UN was founded in:",
+      "options": [
+        "1945",
+        "1919",
+        "1948",
+        "1960"
+      ],
+      "correct_index": 0,
+      "explanation": "The UN was founded in 1945.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_109",
+      "text": "The headquarters of the UN is in:",
+      "options": [
+        "New York",
+        "Paris",
+        "London",
+        "Geneva"
+      ],
+      "correct_index": 0,
+      "explanation": "The UN headquarters is in New York.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_110",
+      "text": "The main organ of the UN responsible for peace and security is the:",
+      "options": [
+        "Secretariat",
+        "ECOSOC",
+        "General Assembly",
+        "Security Council"
+      ],
+      "correct_index": 3,
+      "explanation": "The Security Council maintains peace.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_111",
+      "text": "The five permanent members of the UN Security Council are:",
+      "options": [
+        "USA, Russia, China, Brazil, UK",
+        "USA, UK, France, Russia, China",
+        "USA, UK, Germany, Japan, China",
+        "USA, UK, France, India, China"
+      ],
+      "correct_index": 1,
+      "explanation": "The P5: USA, UK, France, Russia, China.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_112",
+      "text": "The AU was formerly called the:",
+      "options": [
+        "ECOWAS",
+        "OAU",
+        "League of Nations",
+        "Commonwealth"
+      ],
+      "correct_index": 1,
+      "explanation": "The AU succeeded the OAU.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_113",
+      "text": "The headquarters of the African Union is in:",
+      "options": [
+        "Addis Ababa",
+        "Nairobi",
+        "Accra",
+        "Lagos"
+      ],
+      "correct_index": 0,
+      "explanation": "The AU is headquartered in Addis Ababa.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_114",
+      "text": "The AU was founded in:",
+      "options": [
+        "1999",
+        "1945",
+        "2002",
+        "1963"
+      ],
+      "correct_index": 2,
+      "explanation": "The AU was launched in 2002.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_115",
+      "text": "The OAU was founded in:",
+      "options": [
+        "1975",
+        "1963",
+        "2002",
+        "1945"
+      ],
+      "correct_index": 1,
+      "explanation": "The OAU was founded in 1963.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_116",
+      "text": "The headquarters of ECOWAS is in:",
+      "options": [
+        "Accra",
+        "Abuja",
+        "Lome",
+        "Dakar"
+      ],
+      "correct_index": 1,
+      "explanation": "ECOWAS is headquartered in Abuja.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_117",
+      "text": "The Commonwealth is an association of:",
+      "options": [
+        "Mostly former British colonies",
+        "American states",
+        "Asian states",
+        "African states"
+      ],
+      "correct_index": 0,
+      "explanation": "The Commonwealth comprises mostly former British colonies.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_118",
+      "text": "The head of the Commonwealth is the:",
+      "options": [
+        "AU Chairperson",
+        "US President",
+        "UN Secretary-General",
+        "British monarch"
+      ],
+      "correct_index": 3,
+      "explanation": "The British monarch heads the Commonwealth.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_119",
+      "text": "Nigeria's membership of the Commonwealth was suspended during:",
+      "options": [
+        "Independence",
+        "Civilian rule",
+        "Military rule (especially under Abacha)",
+        "Colonial rule"
+      ],
+      "correct_index": 2,
+      "explanation": "Nigeria was suspended under Abacha.",
+      "difficulty": 2
+    },
+    {
+      "id": "gov_120",
+      "text": "The ECOWAS protocol concerns:",
+      "options": [
+        "Free movement of persons and goods",
+        "Military alliance only",
+        "Taxation",
+        "Religion"
+      ],
+      "correct_index": 0,
+      "explanation": "ECOWAS promotes free movement and trade.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_121",
+      "text": "The main organ of the AU is the:",
+      "options": [
+        "Parliament",
+        "Court",
+        "Commission",
+        "Assembly"
+      ],
+      "correct_index": 3,
+      "explanation": "The Assembly of Heads of State is the main organ.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_122",
+      "text": "The Secretary-General heads the:",
+      "options": [
+        "General Assembly",
+        "ECOSOC",
+        "Security Council",
+        "UN Secretariat"
+      ],
+      "correct_index": 3,
+      "explanation": "The Secretary-General heads the Secretariat.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_123",
+      "text": "Non-alignment in foreign policy means:",
+      "options": [
+        "Neutrality in all matters",
+        "Joining blocs",
+        "Not aligning with any major power bloc",
+        "Isolation"
+      ],
+      "correct_index": 2,
+      "explanation": "Non-alignment avoids power blocs.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_124",
+      "text": "The Non-Aligned Movement was formed during the:",
+      "options": [
+        "Cold War",
+        "World War I",
+        "Colonial era",
+        "2000s"
+      ],
+      "correct_index": 0,
+      "explanation": "NAM formed during the Cold War.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_125",
+      "text": "The main aim of Nigeria's membership of international organisations is to:",
+      "options": [
+        "Promote cooperation and development",
+        "Isolate",
+        "Tax others",
+        "Dominate"
+      ],
+      "correct_index": 0,
+      "explanation": "Membership fosters cooperation.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_126",
+      "text": "The colonial power that ruled Nigeria was:",
+      "options": [
+        "Portugal",
+        "Germany",
+        "France",
+        "Britain"
+      ],
+      "correct_index": 3,
+      "explanation": "Britain colonised Nigeria.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_127",
+      "text": "Indirect rule in Nigeria was associated with:",
+      "options": [
+        "Richards",
+        "Goldie",
+        "Lord Lugard",
+        "Clifford"
+      ],
+      "correct_index": 2,
+      "explanation": "Lugard practised indirect rule.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_128",
+      "text": "The amalgamation of Nigeria was in:",
+      "options": [
+        "1914",
+        "1900",
+        "1922",
+        "1946"
+      ],
+      "correct_index": 0,
+      "explanation": "Nigeria was amalgamated in 1914.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_129",
+      "text": "The person who amalgamated Nigeria was:",
+      "options": [
+        "Lord Lugard",
+        "Richards",
+        "Macpherson",
+        "Clifford"
+      ],
+      "correct_index": 0,
+      "explanation": "Lugard amalgamated Nigeria in 1914.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_130",
+      "text": "The body that made laws in colonial Nigeria was the:",
+      "options": [
+        "Senate",
+        "Assembly",
+        "Parliament",
+        "Legislative Council"
+      ],
+      "correct_index": 3,
+      "explanation": "The Legislative Council made colonial laws.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_131",
+      "text": "The Clifford Constitution established:",
+      "options": [
+        "Republic",
+        "Federalism",
+        "An elected Legislative Council",
+        "Independence"
+      ],
+      "correct_index": 2,
+      "explanation": "Clifford (1922) introduced an elected council.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_132",
+      "text": "The first political party in Nigeria was the:",
+      "options": [
+        "NCNC",
+        "NNPP",
+        "Action Group",
+        "NPC"
+      ],
+      "correct_index": 1,
+      "explanation": "The Nigerian National Democratic Party (NNDP, 1923) was first.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_133",
+      "text": "The NCNC was founded by:",
+      "options": [
+        "Herbert Macaulay and Nnamdi Azikiwe",
+        "Ahmadu Bello",
+        "Balewa",
+        "Awolowo"
+      ],
+      "correct_index": 0,
+      "explanation": "Macaulay and Azikiwe founded the NCNC.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_134",
+      "text": "The Action Group was founded by:",
+      "options": [
+        "Bello",
+        "Balewa",
+        "Azikiwe",
+        "Obafemi Awolowo"
+      ],
+      "correct_index": 3,
+      "explanation": "Awolowo founded the Action Group.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_135",
+      "text": "The NPC was led by:",
+      "options": [
+        "Ojukwu",
+        "Awolowo",
+        "Ahmadu Bello",
+        "Azikiwe"
+      ],
+      "correct_index": 2,
+      "explanation": "Ahmadu Bello led the NPC.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_136",
+      "text": "The head of state who created 12 states in 1967 was:",
+      "options": [
+        "Ironsi",
+        "Yakubu Gowon",
+        "Obasanjo",
+        "Buhari"
+      ],
+      "correct_index": 1,
+      "explanation": "Gowon created 12 states in 1967.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_137",
+      "text": "The number of regions in Nigeria at independence was:",
+      "options": [
+        "3",
+        "2",
+        "5",
+        "4"
+      ],
+      "correct_index": 0,
+      "explanation": "Nigeria had three regions at independence.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_138",
+      "text": "The Mid-Western Region was created in:",
+      "options": [
+        "1954",
+        "1976",
+        "1963",
+        "1967"
+      ],
+      "correct_index": 2,
+      "explanation": "The Mid-West was created in 1963.",
+      "difficulty": 2
+    },
+    {
+      "id": "gov_139",
+      "text": "The current Nigerian Constitution came into effect in:",
+      "options": [
+        "1963",
+        "1999",
+        "1979",
+        "1995"
+      ],
+      "correct_index": 1,
+      "explanation": "The 1999 Constitution is current.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_140",
+      "text": "The head of the local government in Nigeria is the:",
+      "options": [
+        "Governor",
+        "Chairman",
+        "President",
+        "Chief"
+      ],
+      "correct_index": 1,
+      "explanation": "A chairman heads local government.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_141",
+      "text": "The number of local government areas in Nigeria is:",
+      "options": [
+        "776",
+        "770",
+        "780",
+        "774"
+      ],
+      "correct_index": 3,
+      "explanation": "Nigeria has 774 LGAs.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_142",
+      "text": "The head of a state government in Nigeria is the:",
+      "options": [
+        "Chairman",
+        "Minister",
+        "President",
+        "Governor"
+      ],
+      "correct_index": 3,
+      "explanation": "A governor heads a state.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_143",
+      "text": "The term of office of the Nigerian President is:",
+      "options": [
+        "3 years",
+        "4 years",
+        "5 years",
+        "6 years"
+      ],
+      "correct_index": 1,
+      "explanation": "The President serves a 4-year term.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_144",
+      "text": "The minimum age to be President of Nigeria is:",
+      "options": [
+        "30",
+        "40",
+        "35",
+        "45"
+      ],
+      "correct_index": 1,
+      "explanation": "A presidential candidate must be at least 40.",
+      "difficulty": 2
+    },
+    {
+      "id": "gov_145",
+      "text": "The legislature of a Nigerian state is the:",
+      "options": [
+        "House of Assembly",
+        "Senate",
+        "Council",
+        "National Assembly"
+      ],
+      "correct_index": 0,
+      "explanation": "States have a House of Assembly.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_146",
+      "text": "The supreme court is the highest court in:",
+      "options": [
+        "Each LGA",
+        "The Commonwealth",
+        "Each state",
+        "Nigeria"
+      ],
+      "correct_index": 3,
+      "explanation": "The Supreme Court is Nigeria's highest court.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_147",
+      "text": "The number of Justices of the Supreme Court of Nigeria is:",
+      "options": [
+        "30",
+        "21",
+        "15",
+        "10"
+      ],
+      "correct_index": 1,
+      "explanation": "The Supreme Court has up to 21 Justices.",
+      "difficulty": 2
+    },
+    {
+      "id": "gov_148",
+      "text": "The body that advises the President on legal matters is the:",
+      "options": [
+        "Senate",
+        "Attorney-General and Minister of Justice",
+        "Speaker",
+        "IGP"
+      ],
+      "correct_index": 1,
+      "explanation": "The Attorney-General advises on law.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_149",
+      "text": "The police is headed by the:",
+      "options": [
+        "Inspector-General of Police",
+        "Attorney-General",
+        "Chief Justice",
+        "Minister"
+      ],
+      "correct_index": 0,
+      "explanation": "The IGP heads the police.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_150",
+      "text": "The armed forces are headed by the:",
+      "options": [
+        "Chief Justice",
+        "Senate President",
+        "IGP",
+        "President (Commander-in-Chief)"
+      ],
+      "correct_index": 3,
+      "explanation": "The President is Commander-in-Chief.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_151",
+      "text": "The document that contains fundamental human rights in Nigeria is the:",
+      "options": [
+        "Census",
+        "Constitution",
+        "Budget",
+        "Party manifesto"
+      ],
+      "correct_index": 1,
+      "explanation": "The Constitution contains fundamental rights.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_152",
+      "text": "The ombudsman that investigates complaints against government is the:",
+      "options": [
+        "Court",
+        "Public Complaints Commission",
+        "Police",
+        "Senate"
+      ],
+      "correct_index": 1,
+      "explanation": "The Public Complaints Commission is the ombudsman.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_153",
+      "text": "In a presidential system, the president is:",
+      "options": [
+        "Both head of state and head of government",
+        "Only head of government",
+        "Appointed by parliament",
+        "Part of the legislature"
+      ],
+      "correct_index": 0,
+      "explanation": "The president is both head of state and government.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_154",
+      "text": "In a parliamentary system, the head of government is the:",
+      "options": [
+        "President",
+        "Speaker",
+        "Monarch",
+        "Prime Minister"
+      ],
+      "correct_index": 3,
+      "explanation": "The Prime Minister heads government.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_155",
+      "text": "In a parliamentary system, the head of state may be the:",
+      "options": [
+        "Chief Justice",
+        "Prime Minister",
+        "Monarch or President (ceremonial)",
+        "Speaker"
+      ],
+      "correct_index": 2,
+      "explanation": "A monarch/president is ceremonial head of state.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_156",
+      "text": "A monarchy is a system ruled by a:",
+      "options": [
+        "President",
+        "King or Queen",
+        "Prime Minister",
+        "Dictator"
+      ],
+      "correct_index": 1,
+      "explanation": "Monarchies are ruled by royalty.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_157",
+      "text": "A republic is a state without a:",
+      "options": [
+        "Monarch",
+        "Government",
+        "Flag",
+        "Constitution"
+      ],
+      "correct_index": 0,
+      "explanation": "A republic has no monarch.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_158",
+      "text": "A dictatorship is characterised by:",
+      "options": [
+        "Rule of law",
+        "Multi-party politics",
+        "Free elections",
+        "Absolute, unchecked power"
+      ],
+      "correct_index": 3,
+      "explanation": "Dictators hold unchecked power.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_159",
+      "text": "An oligarchy is rule by:",
+      "options": [
+        "Religious leaders",
+        "The people",
+        "A few people",
+        "One person"
+      ],
+      "correct_index": 2,
+      "explanation": "Oligarchy = rule by a few.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_160",
+      "text": "An aristocracy is rule by the:",
+      "options": [
+        "Poor",
+        "Nobility/privileged class",
+        "Military",
+        "People"
+      ],
+      "correct_index": 1,
+      "explanation": "Aristocracy = rule by the privileged.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_161",
+      "text": "Democracy is government by:",
+      "options": [
+        "The people",
+        "The military",
+        "A few",
+        "One person"
+      ],
+      "correct_index": 0,
+      "explanation": "Democracy = rule by the people.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_162",
+      "text": "Direct democracy is practised through:",
+      "options": [
+        "Parliament",
+        "Courts",
+        "Representatives",
+        "Referenda and town meetings"
+      ],
+      "correct_index": 3,
+      "explanation": "Direct democracy uses referenda.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_163",
+      "text": "Representative democracy means the people rule through:",
+      "options": [
+        "The military",
+        "Referenda",
+        "Elected representatives",
+        "The monarch"
+      ],
+      "correct_index": 2,
+      "explanation": "Representatives act for the people.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_164",
+      "text": "The separation of powers divides government into:",
+      "options": [
+        "One organ",
+        "Legislative, executive, judicial",
+        "Federal and state",
+        "Army and police"
+      ],
+      "correct_index": 1,
+      "explanation": "Three organs are separated.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_165",
+      "text": "The principle that no one is above the law is:",
+      "options": [
+        "Rule of law",
+        "Sovereignty",
+        "Checks and balances",
+        "Federalism"
+      ],
+      "correct_index": 0,
+      "explanation": "Rule of law = equality before the law.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_166",
+      "text": "Fundamental human rights include the right to:",
+      "options": [
+        "Avoid taxes",
+        "Harm others",
+        "Break laws",
+        "Life, liberty and fair trial"
+      ],
+      "correct_index": 3,
+      "explanation": "Rights include life, liberty, fair trial.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_167",
+      "text": "The right to freedom of the press is part of:",
+      "options": [
+        "Military law",
+        "Fundamental rights",
+        "Government duties",
+        "Tax law"
+      ],
+      "correct_index": 1,
+      "explanation": "Press freedom is a fundamental right.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_168",
+      "text": "The process of law-making by the legislature is called:",
+      "options": [
+        "Execution",
+        "Legislation",
+        "Adjudication",
+        "Administration"
+      ],
+      "correct_index": 1,
+      "explanation": "Legislation is law-making.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_169",
+      "text": "A proposed law before passage is called a:",
+      "options": [
+        "Bill",
+        "Edict",
+        "Act",
+        "Decree"
+      ],
+      "correct_index": 0,
+      "explanation": "A bill is a proposed law.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_170",
+      "text": "A law made by the federal legislature is called an:",
+      "options": [
+        "Bye-law",
+        "Decree",
+        "Edict",
+        "Act"
+      ],
+      "correct_index": 3,
+      "explanation": "Federal laws are Acts.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_171",
+      "text": "A law made by a state legislature is called an:",
+      "options": [
+        "Bye-law",
+        "Act",
+        "Edict or Law",
+        "Decree"
+      ],
+      "correct_index": 2,
+      "explanation": "States make Edicts (now Laws).",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_172",
+      "text": "A law made by a local government is a:",
+      "options": [
+        "Act",
+        "Bye-law",
+        "Decree",
+        "Edict"
+      ],
+      "correct_index": 1,
+      "explanation": "LGAs make bye-laws.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_173",
+      "text": "The civil service is the body of:",
+      "options": [
+        "Permanent government officials",
+        "Soldiers",
+        "Judges",
+        "Elected officials"
+      ],
+      "correct_index": 0,
+      "explanation": "The civil service is permanent bureaucracy.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_174",
+      "text": "The head of the civil service in Nigeria is the:",
+      "options": [
+        "Minister",
+        "Governor",
+        "President",
+        "Head of Civil Service"
+      ],
+      "correct_index": 3,
+      "explanation": "The Head of Civil Service leads it.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_175",
+      "text": "The civil service is expected to be:",
+      "options": [
+        "Temporary",
+        "Partisan",
+        "Neutral and permanent",
+        "Elected"
+      ],
+      "correct_index": 2,
+      "explanation": "The civil service is neutral and permanent.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_176",
+      "text": "A minister is a:",
+      "options": [
+        "Civil servant",
+        "Political appointee heading a ministry",
+        "Judge",
+        "Governor"
+      ],
+      "correct_index": 1,
+      "explanation": "Ministers are political appointees.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_177",
+      "text": "The process of a minister answering to parliament is:",
+      "options": [
+        "Ministerial responsibility",
+        "Federalism",
+        "Bicameralism",
+        "Judicial review"
+      ],
+      "correct_index": 0,
+      "explanation": "Ministers are accountable to parliament.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_178",
+      "text": "The doctrine of collective responsibility applies to the:",
+      "options": [
+        "Civil service",
+        "Police",
+        "Judiciary",
+        "Cabinet"
+      ],
+      "correct_index": 3,
+      "explanation": "The cabinet is collectively responsible.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_179",
+      "text": "The body that checks the legality of government actions is the:",
+      "options": [
+        "Police",
+        "Cabinet",
+        "Judiciary (judicial review)",
+        "Civil service"
+      ],
+      "correct_index": 2,
+      "explanation": "Courts review legality of actions.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_180",
+      "text": "Judicial review is the power of courts to:",
+      "options": [
+        "Make laws",
+        "Declare laws/actions unconstitutional",
+        "Execute laws",
+        "Appoint ministers"
+      ],
+      "correct_index": 1,
+      "explanation": "Courts review constitutionality.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_181",
+      "text": "The power to grant pardon in Nigeria belongs to the:",
+      "options": [
+        "President",
+        "Senate",
+        "IGP",
+        "Chief Justice"
+      ],
+      "correct_index": 0,
+      "explanation": "The President grants pardons.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_182",
+      "text": "The National Assembly can remove the President through:",
+      "options": [
+        "A coup",
+        "Referendum",
+        "A decree",
+        "Impeachment"
+      ],
+      "correct_index": 3,
+      "explanation": "Impeachment removes the President.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_183",
+      "text": "The two-third majority is often required to:",
+      "options": [
+        "Collect taxes",
+        "Pass ordinary bills",
+        "Impeach or amend the constitution",
+        "Appoint officials"
+      ],
+      "correct_index": 2,
+      "explanation": "Impeachment/amendments need two-thirds.",
+      "difficulty": 2
+    },
+    {
+      "id": "gov_184",
+      "text": "The quorum is the:",
+      "options": [
+        "Maximum members",
+        "Minimum members required for a valid meeting",
+        "Speaker",
+        "Clerk"
+      ],
+      "correct_index": 1,
+      "explanation": "A quorum is the minimum for validity.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_185",
+      "text": "The process of voting a candidate out of office is:",
+      "options": [
+        "Recall",
+        "Coup",
+        "Pardon",
+        "Impeachment"
+      ],
+      "correct_index": 0,
+      "explanation": "Recall removes a representative.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_186",
+      "text": "A manifesto is a document stating:",
+      "options": [
+        "Tax laws",
+        "Census results",
+        "A party's policies",
+        "Court rulings"
+      ],
+      "correct_index": 2,
+      "explanation": "A manifesto states party policies.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_187",
+      "text": "The electorate refers to the:",
+      "options": [
+        "Parties",
+        "Candidates",
+        "Voters",
+        "Officials"
+      ],
+      "correct_index": 2,
+      "explanation": "The electorate are the voters.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_188",
+      "text": "The body that divides constituencies in Nigeria is:",
+      "options": [
+        "CBN",
+        "INEC",
+        "FIRS",
+        "NDIC"
+      ],
+      "correct_index": 1,
+      "explanation": "INEC delimits constituencies.",
+      "difficulty": 2
+    },
+    {
+      "id": "gov_189",
+      "text": "The first military coup in Nigeria was led by:",
+      "options": [
+        "Chukwuma Kaduna Nzeogwu",
+        "Ironsi",
+        "Obasanjo",
+        "Gowon"
+      ],
+      "correct_index": 0,
+      "explanation": "Nzeogwu led the 1966 coup.",
+      "difficulty": 2
+    },
+    {
+      "id": "gov_190",
+      "text": "The counter-coup of July 1966 brought which leader to power?",
+      "options": [
+        "Nzeogwu",
+        "Obasanjo",
+        "Gowon",
+        "Ironsi"
+      ],
+      "correct_index": 2,
+      "explanation": "Gowon emerged after the July 1966 counter-coup.",
+      "difficulty": 2
+    },
+    {
+      "id": "gov_191",
+      "text": "The 'three Rs' of post-war reconciliation were:",
+      "options": [
+        "Rest, Recovery, Relief",
+        "Reconciliation, Reconstruction, Rehabilitation",
+        "Rights, Rules, Revenue",
+        "Reform, Rehab, Renewal"
+      ],
+      "correct_index": 1,
+      "explanation": "Gowon's 3Rs: Reconciliation, Reconstruction, Rehabilitation.",
+      "difficulty": 2
+    },
+    {
+      "id": "gov_192",
+      "text": "The NYSC scheme was established in:",
+      "options": [
+        "1973",
+        "1976",
+        "1960",
+        "1999"
+      ],
+      "correct_index": 0,
+      "explanation": "NYSC was established in 1973.",
+      "difficulty": 2
+    },
+    {
+      "id": "gov_193",
+      "text": "The head of state who created the NYSC was:",
+      "options": [
+        "Obasanjo",
+        "Buhari",
+        "Babangida",
+        "Gowon"
+      ],
+      "correct_index": 3,
+      "explanation": "Gowon established NYSC.",
+      "difficulty": 2
+    },
+    {
+      "id": "gov_194",
+      "text": "The Constitution that introduced the presidential system in Nigeria was the:",
+      "options": [
+        "1963 Constitution",
+        "1960 Constitution",
+        "1999 Constitution",
+        "1979 Constitution"
+      ],
+      "correct_index": 3,
+      "explanation": "The 1979 Constitution introduced presidentialism.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_195",
+      "text": "The Second Republic lasted from:",
+      "options": [
+        "1975–1979",
+        "1979–1983",
+        "1960–1966",
+        "1999–2007"
+      ],
+      "correct_index": 1,
+      "explanation": "The Second Republic was 1979–1983.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_196",
+      "text": "The military coup that ended the Second Republic was in:",
+      "options": [
+        "1979",
+        "1983",
+        "1993",
+        "1966"
+      ],
+      "correct_index": 1,
+      "explanation": "The 1983 coup ended the Second Republic.",
+      "difficulty": 2
+    },
+    {
+      "id": "gov_197",
+      "text": "The head of state ousted in the 1983 coup was:",
+      "options": [
+        "Shehu Shagari",
+        "Gowon",
+        "Babangida",
+        "Obasanjo"
+      ],
+      "correct_index": 0,
+      "explanation": "Shagari was ousted in 1983.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_198",
+      "text": "The head of state who introduced Structural Adjustment Programme (SAP) was:",
+      "options": [
+        "Abacha",
+        "Gowon",
+        "Buhari",
+        "Ibrahim Babangida"
+      ],
+      "correct_index": 3,
+      "explanation": "Babangida introduced SAP in 1986.",
+      "difficulty": 1
+    },
+    {
+      "id": "gov_199",
+      "text": "The head of state who created 36 states was:",
+      "options": [
+        "Buhari",
+        "Gowon",
+        "Sani Abacha",
+        "Babangida"
+      ],
+      "correct_index": 2,
+      "explanation": "Abacha created the current 36-state structure.",
+      "difficulty": 2
+    },
+    {
+      "id": "gov_200",
+      "text": "The June 12 election was held in:",
+      "options": [
+        "1993",
+        "1999",
+        "1991",
+        "1983"
+      ],
+      "correct_index": 0,
+      "explanation": "The June 12 election was in 1993.",
+      "difficulty": 1
+    }
+  ]
+}

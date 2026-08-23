@@ -1,0 +1,2607 @@
+{
+  "course_id": "ani",
+  "course_name": "Animal Husbandry",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "ani_001",
+      "text": "Animal Husbandry is:",
+      "options": [
+        "Only crop",
+        "Only fishing",
+        "No science",
+        "Breeding and caring for farm animals"
+      ],
+      "correct_index": 3,
+      "explanation": "Breeding caring.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_002",
+      "text": "Bull is:",
+      "options": [
+        "Young",
+        "No cattle",
+        "Male cattle",
+        "Female"
+      ],
+      "correct_index": 2,
+      "explanation": "Male cattle.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_003",
+      "text": "Cow is:",
+      "options": [
+        "No cattle",
+        "Female cattle",
+        "Male",
+        "Young"
+      ],
+      "correct_index": 1,
+      "explanation": "Female.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_004",
+      "text": "Gestation cattle:",
+      "options": [
+        "283 days",
+        "150 days",
+        "114 days",
+        "30 days"
+      ],
+      "correct_index": 0,
+      "explanation": "283 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_005",
+      "text": "Gestation goat:",
+      "options": [
+        "283 days",
+        "114 days",
+        "30 days",
+        "150 days"
+      ],
+      "correct_index": 3,
+      "explanation": "150 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_006",
+      "text": "Incubation chicken:",
+      "options": [
+        "30 days",
+        "35 days",
+        "21 days",
+        "28 days"
+      ],
+      "correct_index": 2,
+      "explanation": "21 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_007",
+      "text": "Calving is:",
+      "options": [
+        "Pig",
+        "Cattle giving birth",
+        "Sheep",
+        "Goat"
+      ],
+      "correct_index": 1,
+      "explanation": "Cattle birth.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_008",
+      "text": "Lactation is:",
+      "options": [
+        "Milk production",
+        "Gestation",
+        "Incubation",
+        "Parturition"
+      ],
+      "correct_index": 0,
+      "explanation": "Milk.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_009",
+      "text": "Extensive system:",
+      "options": [
+        "Confined",
+        "No system",
+        "Only intensive",
+        "Free range"
+      ],
+      "correct_index": 3,
+      "explanation": "Free range.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_010",
+      "text": "Battery cage for:",
+      "options": [
+        "Cattle",
+        "Goats",
+        "Layers",
+        "Broilers"
+      ],
+      "correct_index": 2,
+      "explanation": "Layers.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_011",
+      "text": "White Fulani is:",
+      "options": [
+        "Pig",
+        "Cattle breed",
+        "Sheep",
+        "Goat"
+      ],
+      "correct_index": 1,
+      "explanation": "Cattle.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_012",
+      "text": "Castration is:",
+      "options": [
+        "Removal testes",
+        "Removal horns",
+        "No removal",
+        "Only tail"
+      ],
+      "correct_index": 0,
+      "explanation": "Removal testes.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_013",
+      "text": "Newcastle affects:",
+      "options": [
+        "Cattle",
+        "Goats",
+        "Sheep",
+        "Poultry"
+      ],
+      "correct_index": 3,
+      "explanation": "Poultry.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_014",
+      "text": "Tsetse fly vector of:",
+      "options": [
+        "No disease",
+        "Only fever",
+        "Trypanosomiasis",
+        "Malaria"
+      ],
+      "correct_index": 2,
+      "explanation": "Trypanosomiasis.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_015",
+      "text": "Protein builds:",
+      "options": [
+        "Only fat",
+        "Body tissues",
+        "No tissues",
+        "Only energy"
+      ],
+      "correct_index": 1,
+      "explanation": "Tissues.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_016",
+      "text": "Rumen is:",
+      "options": [
+        "Largest stomach compartment",
+        "Smallest",
+        "No compartment",
+        "Only true stomach"
+      ],
+      "correct_index": 0,
+      "explanation": "Largest.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_017",
+      "text": "True stomach:",
+      "options": [
+        "Rumen",
+        "Reticulum",
+        "Omasum",
+        "Abomasum"
+      ],
+      "correct_index": 3,
+      "explanation": "Abomasum.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_018",
+      "text": "Broiler for:",
+      "options": [
+        "No meat",
+        "Only feathers",
+        "Meat",
+        "Eggs"
+      ],
+      "correct_index": 2,
+      "explanation": "Meat.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_019",
+      "text": "Layer for:",
+      "options": [
+        "Only feathers",
+        "Eggs",
+        "Meat",
+        "No eggs"
+      ],
+      "correct_index": 1,
+      "explanation": "Eggs.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_020",
+      "text": "Apiculture is:",
+      "options": [
+        "Bee keeping",
+        "Fish farming",
+        "Cattle",
+        "Poultry"
+      ],
+      "correct_index": 0,
+      "explanation": "Bee keeping.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_021",
+      "text": "Animal Husbandry is: (variant 21)",
+      "options": [
+        "Only crop",
+        "Only fishing",
+        "No science",
+        "Breeding and caring for farm animals"
+      ],
+      "correct_index": 3,
+      "explanation": "Breeding caring.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_022",
+      "text": "Bull is: (variant 22)",
+      "options": [
+        "Young",
+        "No cattle",
+        "Male cattle",
+        "Female"
+      ],
+      "correct_index": 2,
+      "explanation": "Male cattle.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_023",
+      "text": "Cow is: (variant 23)",
+      "options": [
+        "No cattle",
+        "Female cattle",
+        "Male",
+        "Young"
+      ],
+      "correct_index": 1,
+      "explanation": "Female.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_024",
+      "text": "Gestation cattle: (variant 24)",
+      "options": [
+        "283 days",
+        "150 days",
+        "114 days",
+        "30 days"
+      ],
+      "correct_index": 0,
+      "explanation": "283 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_025",
+      "text": "Gestation goat: (variant 25)",
+      "options": [
+        "283 days",
+        "114 days",
+        "30 days",
+        "150 days"
+      ],
+      "correct_index": 3,
+      "explanation": "150 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_026",
+      "text": "Incubation chicken: (variant 26)",
+      "options": [
+        "30 days",
+        "35 days",
+        "21 days",
+        "28 days"
+      ],
+      "correct_index": 2,
+      "explanation": "21 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_027",
+      "text": "Calving is: (variant 27)",
+      "options": [
+        "Pig",
+        "Cattle giving birth",
+        "Sheep",
+        "Goat"
+      ],
+      "correct_index": 1,
+      "explanation": "Cattle birth.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_028",
+      "text": "Lactation is: (variant 28)",
+      "options": [
+        "Milk production",
+        "Gestation",
+        "Incubation",
+        "Parturition"
+      ],
+      "correct_index": 0,
+      "explanation": "Milk.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_029",
+      "text": "Extensive system: (variant 29)",
+      "options": [
+        "Confined",
+        "No system",
+        "Only intensive",
+        "Free range"
+      ],
+      "correct_index": 3,
+      "explanation": "Free range.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_030",
+      "text": "Battery cage for: (variant 30)",
+      "options": [
+        "Cattle",
+        "Goats",
+        "Layers",
+        "Broilers"
+      ],
+      "correct_index": 2,
+      "explanation": "Layers.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_031",
+      "text": "White Fulani is: (variant 31)",
+      "options": [
+        "Pig",
+        "Cattle breed",
+        "Sheep",
+        "Goat"
+      ],
+      "correct_index": 1,
+      "explanation": "Cattle.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_032",
+      "text": "Castration is: (variant 32)",
+      "options": [
+        "Removal testes",
+        "Removal horns",
+        "No removal",
+        "Only tail"
+      ],
+      "correct_index": 0,
+      "explanation": "Removal testes.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_033",
+      "text": "Newcastle affects: (variant 33)",
+      "options": [
+        "Cattle",
+        "Goats",
+        "Sheep",
+        "Poultry"
+      ],
+      "correct_index": 3,
+      "explanation": "Poultry.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_034",
+      "text": "Tsetse fly vector of: (variant 34)",
+      "options": [
+        "No disease",
+        "Only fever",
+        "Trypanosomiasis",
+        "Malaria"
+      ],
+      "correct_index": 2,
+      "explanation": "Trypanosomiasis.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_035",
+      "text": "Protein builds: (variant 35)",
+      "options": [
+        "Only fat",
+        "Body tissues",
+        "No tissues",
+        "Only energy"
+      ],
+      "correct_index": 1,
+      "explanation": "Tissues.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_036",
+      "text": "Rumen is: (variant 36)",
+      "options": [
+        "Largest stomach compartment",
+        "Smallest",
+        "No compartment",
+        "Only true stomach"
+      ],
+      "correct_index": 0,
+      "explanation": "Largest.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_037",
+      "text": "True stomach: (variant 37)",
+      "options": [
+        "Rumen",
+        "Reticulum",
+        "Omasum",
+        "Abomasum"
+      ],
+      "correct_index": 3,
+      "explanation": "Abomasum.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_038",
+      "text": "Broiler for: (variant 38)",
+      "options": [
+        "No meat",
+        "Only feathers",
+        "Meat",
+        "Eggs"
+      ],
+      "correct_index": 2,
+      "explanation": "Meat.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_039",
+      "text": "Layer for: (variant 39)",
+      "options": [
+        "Only feathers",
+        "Eggs",
+        "Meat",
+        "No eggs"
+      ],
+      "correct_index": 1,
+      "explanation": "Eggs.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_040",
+      "text": "Apiculture is: (variant 40)",
+      "options": [
+        "Bee keeping",
+        "Fish farming",
+        "Cattle",
+        "Poultry"
+      ],
+      "correct_index": 0,
+      "explanation": "Bee keeping.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_041",
+      "text": "Animal Husbandry is: (variant 41)",
+      "options": [
+        "Only crop",
+        "Only fishing",
+        "No science",
+        "Breeding and caring for farm animals"
+      ],
+      "correct_index": 3,
+      "explanation": "Breeding caring.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_042",
+      "text": "Bull is: (variant 42)",
+      "options": [
+        "Young",
+        "No cattle",
+        "Male cattle",
+        "Female"
+      ],
+      "correct_index": 2,
+      "explanation": "Male cattle.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_043",
+      "text": "Cow is: (variant 43)",
+      "options": [
+        "No cattle",
+        "Female cattle",
+        "Male",
+        "Young"
+      ],
+      "correct_index": 1,
+      "explanation": "Female.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_044",
+      "text": "Gestation cattle: (variant 44)",
+      "options": [
+        "283 days",
+        "150 days",
+        "114 days",
+        "30 days"
+      ],
+      "correct_index": 0,
+      "explanation": "283 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_045",
+      "text": "Gestation goat: (variant 45)",
+      "options": [
+        "283 days",
+        "114 days",
+        "30 days",
+        "150 days"
+      ],
+      "correct_index": 3,
+      "explanation": "150 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_046",
+      "text": "Incubation chicken: (variant 46)",
+      "options": [
+        "30 days",
+        "35 days",
+        "21 days",
+        "28 days"
+      ],
+      "correct_index": 2,
+      "explanation": "21 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_047",
+      "text": "Calving is: (variant 47)",
+      "options": [
+        "Pig",
+        "Cattle giving birth",
+        "Sheep",
+        "Goat"
+      ],
+      "correct_index": 1,
+      "explanation": "Cattle birth.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_048",
+      "text": "Lactation is: (variant 48)",
+      "options": [
+        "Milk production",
+        "Gestation",
+        "Incubation",
+        "Parturition"
+      ],
+      "correct_index": 0,
+      "explanation": "Milk.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_049",
+      "text": "Extensive system: (variant 49)",
+      "options": [
+        "Confined",
+        "No system",
+        "Only intensive",
+        "Free range"
+      ],
+      "correct_index": 3,
+      "explanation": "Free range.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_050",
+      "text": "Battery cage for: (variant 50)",
+      "options": [
+        "Cattle",
+        "Goats",
+        "Layers",
+        "Broilers"
+      ],
+      "correct_index": 2,
+      "explanation": "Layers.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_051",
+      "text": "White Fulani is: (variant 51)",
+      "options": [
+        "Pig",
+        "Cattle breed",
+        "Sheep",
+        "Goat"
+      ],
+      "correct_index": 1,
+      "explanation": "Cattle.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_052",
+      "text": "Castration is: (variant 52)",
+      "options": [
+        "Removal testes",
+        "Removal horns",
+        "No removal",
+        "Only tail"
+      ],
+      "correct_index": 0,
+      "explanation": "Removal testes.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_053",
+      "text": "Newcastle affects: (variant 53)",
+      "options": [
+        "Cattle",
+        "Goats",
+        "Sheep",
+        "Poultry"
+      ],
+      "correct_index": 3,
+      "explanation": "Poultry.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_054",
+      "text": "Tsetse fly vector of: (variant 54)",
+      "options": [
+        "No disease",
+        "Only fever",
+        "Trypanosomiasis",
+        "Malaria"
+      ],
+      "correct_index": 2,
+      "explanation": "Trypanosomiasis.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_055",
+      "text": "Protein builds: (variant 55)",
+      "options": [
+        "Only fat",
+        "Body tissues",
+        "No tissues",
+        "Only energy"
+      ],
+      "correct_index": 1,
+      "explanation": "Tissues.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_056",
+      "text": "Rumen is: (variant 56)",
+      "options": [
+        "Largest stomach compartment",
+        "Smallest",
+        "No compartment",
+        "Only true stomach"
+      ],
+      "correct_index": 0,
+      "explanation": "Largest.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_057",
+      "text": "True stomach: (variant 57)",
+      "options": [
+        "Rumen",
+        "Reticulum",
+        "Omasum",
+        "Abomasum"
+      ],
+      "correct_index": 3,
+      "explanation": "Abomasum.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_058",
+      "text": "Broiler for: (variant 58)",
+      "options": [
+        "No meat",
+        "Only feathers",
+        "Meat",
+        "Eggs"
+      ],
+      "correct_index": 2,
+      "explanation": "Meat.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_059",
+      "text": "Layer for: (variant 59)",
+      "options": [
+        "Only feathers",
+        "Eggs",
+        "Meat",
+        "No eggs"
+      ],
+      "correct_index": 1,
+      "explanation": "Eggs.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_060",
+      "text": "Apiculture is: (variant 60)",
+      "options": [
+        "Bee keeping",
+        "Fish farming",
+        "Cattle",
+        "Poultry"
+      ],
+      "correct_index": 0,
+      "explanation": "Bee keeping.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_061",
+      "text": "Animal Husbandry is: (variant 61)",
+      "options": [
+        "Only crop",
+        "Only fishing",
+        "No science",
+        "Breeding and caring for farm animals"
+      ],
+      "correct_index": 3,
+      "explanation": "Breeding caring.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_062",
+      "text": "Bull is: (variant 62)",
+      "options": [
+        "Young",
+        "No cattle",
+        "Male cattle",
+        "Female"
+      ],
+      "correct_index": 2,
+      "explanation": "Male cattle.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_063",
+      "text": "Cow is: (variant 63)",
+      "options": [
+        "No cattle",
+        "Female cattle",
+        "Male",
+        "Young"
+      ],
+      "correct_index": 1,
+      "explanation": "Female.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_064",
+      "text": "Gestation cattle: (variant 64)",
+      "options": [
+        "283 days",
+        "150 days",
+        "114 days",
+        "30 days"
+      ],
+      "correct_index": 0,
+      "explanation": "283 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_065",
+      "text": "Gestation goat: (variant 65)",
+      "options": [
+        "283 days",
+        "114 days",
+        "30 days",
+        "150 days"
+      ],
+      "correct_index": 3,
+      "explanation": "150 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_066",
+      "text": "Incubation chicken: (variant 66)",
+      "options": [
+        "30 days",
+        "35 days",
+        "21 days",
+        "28 days"
+      ],
+      "correct_index": 2,
+      "explanation": "21 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_067",
+      "text": "Calving is: (variant 67)",
+      "options": [
+        "Pig",
+        "Cattle giving birth",
+        "Sheep",
+        "Goat"
+      ],
+      "correct_index": 1,
+      "explanation": "Cattle birth.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_068",
+      "text": "Lactation is: (variant 68)",
+      "options": [
+        "Milk production",
+        "Gestation",
+        "Incubation",
+        "Parturition"
+      ],
+      "correct_index": 0,
+      "explanation": "Milk.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_069",
+      "text": "Extensive system: (variant 69)",
+      "options": [
+        "Confined",
+        "No system",
+        "Only intensive",
+        "Free range"
+      ],
+      "correct_index": 3,
+      "explanation": "Free range.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_070",
+      "text": "Battery cage for: (variant 70)",
+      "options": [
+        "Cattle",
+        "Goats",
+        "Layers",
+        "Broilers"
+      ],
+      "correct_index": 2,
+      "explanation": "Layers.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_071",
+      "text": "White Fulani is: (variant 71)",
+      "options": [
+        "Pig",
+        "Cattle breed",
+        "Sheep",
+        "Goat"
+      ],
+      "correct_index": 1,
+      "explanation": "Cattle.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_072",
+      "text": "Castration is: (variant 72)",
+      "options": [
+        "Removal testes",
+        "Removal horns",
+        "No removal",
+        "Only tail"
+      ],
+      "correct_index": 0,
+      "explanation": "Removal testes.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_073",
+      "text": "Newcastle affects: (variant 73)",
+      "options": [
+        "Cattle",
+        "Goats",
+        "Sheep",
+        "Poultry"
+      ],
+      "correct_index": 3,
+      "explanation": "Poultry.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_074",
+      "text": "Tsetse fly vector of: (variant 74)",
+      "options": [
+        "No disease",
+        "Only fever",
+        "Trypanosomiasis",
+        "Malaria"
+      ],
+      "correct_index": 2,
+      "explanation": "Trypanosomiasis.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_075",
+      "text": "Protein builds: (variant 75)",
+      "options": [
+        "Only fat",
+        "Body tissues",
+        "No tissues",
+        "Only energy"
+      ],
+      "correct_index": 1,
+      "explanation": "Tissues.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_076",
+      "text": "Rumen is: (variant 76)",
+      "options": [
+        "Largest stomach compartment",
+        "Smallest",
+        "No compartment",
+        "Only true stomach"
+      ],
+      "correct_index": 0,
+      "explanation": "Largest.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_077",
+      "text": "True stomach: (variant 77)",
+      "options": [
+        "Rumen",
+        "Reticulum",
+        "Omasum",
+        "Abomasum"
+      ],
+      "correct_index": 3,
+      "explanation": "Abomasum.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_078",
+      "text": "Broiler for: (variant 78)",
+      "options": [
+        "No meat",
+        "Only feathers",
+        "Meat",
+        "Eggs"
+      ],
+      "correct_index": 2,
+      "explanation": "Meat.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_079",
+      "text": "Layer for: (variant 79)",
+      "options": [
+        "Only feathers",
+        "Eggs",
+        "Meat",
+        "No eggs"
+      ],
+      "correct_index": 1,
+      "explanation": "Eggs.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_080",
+      "text": "Apiculture is: (variant 80)",
+      "options": [
+        "Bee keeping",
+        "Fish farming",
+        "Cattle",
+        "Poultry"
+      ],
+      "correct_index": 0,
+      "explanation": "Bee keeping.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_081",
+      "text": "Animal Husbandry is: (variant 81)",
+      "options": [
+        "Only crop",
+        "Only fishing",
+        "No science",
+        "Breeding and caring for farm animals"
+      ],
+      "correct_index": 3,
+      "explanation": "Breeding caring.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_082",
+      "text": "Bull is: (variant 82)",
+      "options": [
+        "Young",
+        "No cattle",
+        "Male cattle",
+        "Female"
+      ],
+      "correct_index": 2,
+      "explanation": "Male cattle.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_083",
+      "text": "Cow is: (variant 83)",
+      "options": [
+        "No cattle",
+        "Female cattle",
+        "Male",
+        "Young"
+      ],
+      "correct_index": 1,
+      "explanation": "Female.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_084",
+      "text": "Gestation cattle: (variant 84)",
+      "options": [
+        "283 days",
+        "150 days",
+        "114 days",
+        "30 days"
+      ],
+      "correct_index": 0,
+      "explanation": "283 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_085",
+      "text": "Gestation goat: (variant 85)",
+      "options": [
+        "283 days",
+        "114 days",
+        "30 days",
+        "150 days"
+      ],
+      "correct_index": 3,
+      "explanation": "150 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_086",
+      "text": "Incubation chicken: (variant 86)",
+      "options": [
+        "30 days",
+        "35 days",
+        "21 days",
+        "28 days"
+      ],
+      "correct_index": 2,
+      "explanation": "21 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_087",
+      "text": "Calving is: (variant 87)",
+      "options": [
+        "Pig",
+        "Cattle giving birth",
+        "Sheep",
+        "Goat"
+      ],
+      "correct_index": 1,
+      "explanation": "Cattle birth.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_088",
+      "text": "Lactation is: (variant 88)",
+      "options": [
+        "Milk production",
+        "Gestation",
+        "Incubation",
+        "Parturition"
+      ],
+      "correct_index": 0,
+      "explanation": "Milk.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_089",
+      "text": "Extensive system: (variant 89)",
+      "options": [
+        "Confined",
+        "No system",
+        "Only intensive",
+        "Free range"
+      ],
+      "correct_index": 3,
+      "explanation": "Free range.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_090",
+      "text": "Battery cage for: (variant 90)",
+      "options": [
+        "Cattle",
+        "Goats",
+        "Layers",
+        "Broilers"
+      ],
+      "correct_index": 2,
+      "explanation": "Layers.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_091",
+      "text": "White Fulani is: (variant 91)",
+      "options": [
+        "Pig",
+        "Cattle breed",
+        "Sheep",
+        "Goat"
+      ],
+      "correct_index": 1,
+      "explanation": "Cattle.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_092",
+      "text": "Castration is: (variant 92)",
+      "options": [
+        "Removal testes",
+        "Removal horns",
+        "No removal",
+        "Only tail"
+      ],
+      "correct_index": 0,
+      "explanation": "Removal testes.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_093",
+      "text": "Newcastle affects: (variant 93)",
+      "options": [
+        "Cattle",
+        "Goats",
+        "Sheep",
+        "Poultry"
+      ],
+      "correct_index": 3,
+      "explanation": "Poultry.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_094",
+      "text": "Tsetse fly vector of: (variant 94)",
+      "options": [
+        "No disease",
+        "Only fever",
+        "Trypanosomiasis",
+        "Malaria"
+      ],
+      "correct_index": 2,
+      "explanation": "Trypanosomiasis.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_095",
+      "text": "Protein builds: (variant 95)",
+      "options": [
+        "Only fat",
+        "Body tissues",
+        "No tissues",
+        "Only energy"
+      ],
+      "correct_index": 1,
+      "explanation": "Tissues.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_096",
+      "text": "Rumen is: (variant 96)",
+      "options": [
+        "Largest stomach compartment",
+        "Smallest",
+        "No compartment",
+        "Only true stomach"
+      ],
+      "correct_index": 0,
+      "explanation": "Largest.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_097",
+      "text": "True stomach: (variant 97)",
+      "options": [
+        "Rumen",
+        "Reticulum",
+        "Omasum",
+        "Abomasum"
+      ],
+      "correct_index": 3,
+      "explanation": "Abomasum.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_098",
+      "text": "Broiler for: (variant 98)",
+      "options": [
+        "No meat",
+        "Only feathers",
+        "Meat",
+        "Eggs"
+      ],
+      "correct_index": 2,
+      "explanation": "Meat.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_099",
+      "text": "Layer for: (variant 99)",
+      "options": [
+        "Only feathers",
+        "Eggs",
+        "Meat",
+        "No eggs"
+      ],
+      "correct_index": 1,
+      "explanation": "Eggs.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_100",
+      "text": "Apiculture is: (variant 100)",
+      "options": [
+        "Bee keeping",
+        "Fish farming",
+        "Cattle",
+        "Poultry"
+      ],
+      "correct_index": 0,
+      "explanation": "Bee keeping.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_101",
+      "text": "Animal Husbandry is: (variant 101)",
+      "options": [
+        "Only crop",
+        "Only fishing",
+        "No science",
+        "Breeding and caring for farm animals"
+      ],
+      "correct_index": 3,
+      "explanation": "Breeding caring.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_102",
+      "text": "Bull is: (variant 102)",
+      "options": [
+        "Young",
+        "No cattle",
+        "Male cattle",
+        "Female"
+      ],
+      "correct_index": 2,
+      "explanation": "Male cattle.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_103",
+      "text": "Cow is: (variant 103)",
+      "options": [
+        "No cattle",
+        "Female cattle",
+        "Male",
+        "Young"
+      ],
+      "correct_index": 1,
+      "explanation": "Female.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_104",
+      "text": "Gestation cattle: (variant 104)",
+      "options": [
+        "283 days",
+        "150 days",
+        "114 days",
+        "30 days"
+      ],
+      "correct_index": 0,
+      "explanation": "283 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_105",
+      "text": "Gestation goat: (variant 105)",
+      "options": [
+        "283 days",
+        "114 days",
+        "30 days",
+        "150 days"
+      ],
+      "correct_index": 3,
+      "explanation": "150 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_106",
+      "text": "Incubation chicken: (variant 106)",
+      "options": [
+        "30 days",
+        "35 days",
+        "21 days",
+        "28 days"
+      ],
+      "correct_index": 2,
+      "explanation": "21 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_107",
+      "text": "Calving is: (variant 107)",
+      "options": [
+        "Pig",
+        "Cattle giving birth",
+        "Sheep",
+        "Goat"
+      ],
+      "correct_index": 1,
+      "explanation": "Cattle birth.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_108",
+      "text": "Lactation is: (variant 108)",
+      "options": [
+        "Milk production",
+        "Gestation",
+        "Incubation",
+        "Parturition"
+      ],
+      "correct_index": 0,
+      "explanation": "Milk.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_109",
+      "text": "Extensive system: (variant 109)",
+      "options": [
+        "Confined",
+        "No system",
+        "Only intensive",
+        "Free range"
+      ],
+      "correct_index": 3,
+      "explanation": "Free range.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_110",
+      "text": "Battery cage for: (variant 110)",
+      "options": [
+        "Cattle",
+        "Goats",
+        "Layers",
+        "Broilers"
+      ],
+      "correct_index": 2,
+      "explanation": "Layers.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_111",
+      "text": "White Fulani is: (variant 111)",
+      "options": [
+        "Pig",
+        "Cattle breed",
+        "Sheep",
+        "Goat"
+      ],
+      "correct_index": 1,
+      "explanation": "Cattle.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_112",
+      "text": "Castration is: (variant 112)",
+      "options": [
+        "Removal testes",
+        "Removal horns",
+        "No removal",
+        "Only tail"
+      ],
+      "correct_index": 0,
+      "explanation": "Removal testes.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_113",
+      "text": "Newcastle affects: (variant 113)",
+      "options": [
+        "Cattle",
+        "Goats",
+        "Sheep",
+        "Poultry"
+      ],
+      "correct_index": 3,
+      "explanation": "Poultry.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_114",
+      "text": "Tsetse fly vector of: (variant 114)",
+      "options": [
+        "No disease",
+        "Only fever",
+        "Trypanosomiasis",
+        "Malaria"
+      ],
+      "correct_index": 2,
+      "explanation": "Trypanosomiasis.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_115",
+      "text": "Protein builds: (variant 115)",
+      "options": [
+        "Only fat",
+        "Body tissues",
+        "No tissues",
+        "Only energy"
+      ],
+      "correct_index": 1,
+      "explanation": "Tissues.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_116",
+      "text": "Rumen is: (variant 116)",
+      "options": [
+        "Largest stomach compartment",
+        "Smallest",
+        "No compartment",
+        "Only true stomach"
+      ],
+      "correct_index": 0,
+      "explanation": "Largest.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_117",
+      "text": "True stomach: (variant 117)",
+      "options": [
+        "Rumen",
+        "Reticulum",
+        "Omasum",
+        "Abomasum"
+      ],
+      "correct_index": 3,
+      "explanation": "Abomasum.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_118",
+      "text": "Broiler for: (variant 118)",
+      "options": [
+        "No meat",
+        "Only feathers",
+        "Meat",
+        "Eggs"
+      ],
+      "correct_index": 2,
+      "explanation": "Meat.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_119",
+      "text": "Layer for: (variant 119)",
+      "options": [
+        "Only feathers",
+        "Eggs",
+        "Meat",
+        "No eggs"
+      ],
+      "correct_index": 1,
+      "explanation": "Eggs.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_120",
+      "text": "Apiculture is: (variant 120)",
+      "options": [
+        "Bee keeping",
+        "Fish farming",
+        "Cattle",
+        "Poultry"
+      ],
+      "correct_index": 0,
+      "explanation": "Bee keeping.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_121",
+      "text": "Animal Husbandry is: (variant 121)",
+      "options": [
+        "Only crop",
+        "Only fishing",
+        "No science",
+        "Breeding and caring for farm animals"
+      ],
+      "correct_index": 3,
+      "explanation": "Breeding caring.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_122",
+      "text": "Bull is: (variant 122)",
+      "options": [
+        "Young",
+        "No cattle",
+        "Male cattle",
+        "Female"
+      ],
+      "correct_index": 2,
+      "explanation": "Male cattle.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_123",
+      "text": "Cow is: (variant 123)",
+      "options": [
+        "No cattle",
+        "Female cattle",
+        "Male",
+        "Young"
+      ],
+      "correct_index": 1,
+      "explanation": "Female.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_124",
+      "text": "Gestation cattle: (variant 124)",
+      "options": [
+        "283 days",
+        "150 days",
+        "114 days",
+        "30 days"
+      ],
+      "correct_index": 0,
+      "explanation": "283 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_125",
+      "text": "Gestation goat: (variant 125)",
+      "options": [
+        "283 days",
+        "114 days",
+        "30 days",
+        "150 days"
+      ],
+      "correct_index": 3,
+      "explanation": "150 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_126",
+      "text": "Incubation chicken: (variant 126)",
+      "options": [
+        "30 days",
+        "35 days",
+        "21 days",
+        "28 days"
+      ],
+      "correct_index": 2,
+      "explanation": "21 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_127",
+      "text": "Calving is: (variant 127)",
+      "options": [
+        "Pig",
+        "Cattle giving birth",
+        "Sheep",
+        "Goat"
+      ],
+      "correct_index": 1,
+      "explanation": "Cattle birth.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_128",
+      "text": "Lactation is: (variant 128)",
+      "options": [
+        "Milk production",
+        "Gestation",
+        "Incubation",
+        "Parturition"
+      ],
+      "correct_index": 0,
+      "explanation": "Milk.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_129",
+      "text": "Extensive system: (variant 129)",
+      "options": [
+        "Confined",
+        "No system",
+        "Only intensive",
+        "Free range"
+      ],
+      "correct_index": 3,
+      "explanation": "Free range.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_130",
+      "text": "Battery cage for: (variant 130)",
+      "options": [
+        "Cattle",
+        "Goats",
+        "Layers",
+        "Broilers"
+      ],
+      "correct_index": 2,
+      "explanation": "Layers.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_131",
+      "text": "White Fulani is: (variant 131)",
+      "options": [
+        "Pig",
+        "Cattle breed",
+        "Sheep",
+        "Goat"
+      ],
+      "correct_index": 1,
+      "explanation": "Cattle.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_132",
+      "text": "Castration is: (variant 132)",
+      "options": [
+        "Removal testes",
+        "Removal horns",
+        "No removal",
+        "Only tail"
+      ],
+      "correct_index": 0,
+      "explanation": "Removal testes.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_133",
+      "text": "Newcastle affects: (variant 133)",
+      "options": [
+        "Cattle",
+        "Goats",
+        "Sheep",
+        "Poultry"
+      ],
+      "correct_index": 3,
+      "explanation": "Poultry.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_134",
+      "text": "Tsetse fly vector of: (variant 134)",
+      "options": [
+        "No disease",
+        "Only fever",
+        "Trypanosomiasis",
+        "Malaria"
+      ],
+      "correct_index": 2,
+      "explanation": "Trypanosomiasis.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_135",
+      "text": "Protein builds: (variant 135)",
+      "options": [
+        "Only fat",
+        "Body tissues",
+        "No tissues",
+        "Only energy"
+      ],
+      "correct_index": 1,
+      "explanation": "Tissues.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_136",
+      "text": "Rumen is: (variant 136)",
+      "options": [
+        "Largest stomach compartment",
+        "Smallest",
+        "No compartment",
+        "Only true stomach"
+      ],
+      "correct_index": 0,
+      "explanation": "Largest.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_137",
+      "text": "True stomach: (variant 137)",
+      "options": [
+        "Rumen",
+        "Reticulum",
+        "Omasum",
+        "Abomasum"
+      ],
+      "correct_index": 3,
+      "explanation": "Abomasum.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_138",
+      "text": "Broiler for: (variant 138)",
+      "options": [
+        "No meat",
+        "Only feathers",
+        "Meat",
+        "Eggs"
+      ],
+      "correct_index": 2,
+      "explanation": "Meat.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_139",
+      "text": "Layer for: (variant 139)",
+      "options": [
+        "Only feathers",
+        "Eggs",
+        "Meat",
+        "No eggs"
+      ],
+      "correct_index": 1,
+      "explanation": "Eggs.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_140",
+      "text": "Apiculture is: (variant 140)",
+      "options": [
+        "Bee keeping",
+        "Fish farming",
+        "Cattle",
+        "Poultry"
+      ],
+      "correct_index": 0,
+      "explanation": "Bee keeping.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_141",
+      "text": "Animal Husbandry is: (variant 141)",
+      "options": [
+        "Only crop",
+        "Only fishing",
+        "No science",
+        "Breeding and caring for farm animals"
+      ],
+      "correct_index": 3,
+      "explanation": "Breeding caring.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_142",
+      "text": "Bull is: (variant 142)",
+      "options": [
+        "Young",
+        "No cattle",
+        "Male cattle",
+        "Female"
+      ],
+      "correct_index": 2,
+      "explanation": "Male cattle.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_143",
+      "text": "Cow is: (variant 143)",
+      "options": [
+        "No cattle",
+        "Female cattle",
+        "Male",
+        "Young"
+      ],
+      "correct_index": 1,
+      "explanation": "Female.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_144",
+      "text": "Gestation cattle: (variant 144)",
+      "options": [
+        "283 days",
+        "150 days",
+        "114 days",
+        "30 days"
+      ],
+      "correct_index": 0,
+      "explanation": "283 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_145",
+      "text": "Gestation goat: (variant 145)",
+      "options": [
+        "283 days",
+        "114 days",
+        "30 days",
+        "150 days"
+      ],
+      "correct_index": 3,
+      "explanation": "150 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_146",
+      "text": "Incubation chicken: (variant 146)",
+      "options": [
+        "30 days",
+        "35 days",
+        "21 days",
+        "28 days"
+      ],
+      "correct_index": 2,
+      "explanation": "21 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_147",
+      "text": "Calving is: (variant 147)",
+      "options": [
+        "Pig",
+        "Cattle giving birth",
+        "Sheep",
+        "Goat"
+      ],
+      "correct_index": 1,
+      "explanation": "Cattle birth.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_148",
+      "text": "Lactation is: (variant 148)",
+      "options": [
+        "Milk production",
+        "Gestation",
+        "Incubation",
+        "Parturition"
+      ],
+      "correct_index": 0,
+      "explanation": "Milk.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_149",
+      "text": "Extensive system: (variant 149)",
+      "options": [
+        "Confined",
+        "No system",
+        "Only intensive",
+        "Free range"
+      ],
+      "correct_index": 3,
+      "explanation": "Free range.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_150",
+      "text": "Battery cage for: (variant 150)",
+      "options": [
+        "Cattle",
+        "Goats",
+        "Layers",
+        "Broilers"
+      ],
+      "correct_index": 2,
+      "explanation": "Layers.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_151",
+      "text": "White Fulani is: (variant 151)",
+      "options": [
+        "Pig",
+        "Cattle breed",
+        "Sheep",
+        "Goat"
+      ],
+      "correct_index": 1,
+      "explanation": "Cattle.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_152",
+      "text": "Castration is: (variant 152)",
+      "options": [
+        "Removal testes",
+        "Removal horns",
+        "No removal",
+        "Only tail"
+      ],
+      "correct_index": 0,
+      "explanation": "Removal testes.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_153",
+      "text": "Newcastle affects: (variant 153)",
+      "options": [
+        "Cattle",
+        "Goats",
+        "Sheep",
+        "Poultry"
+      ],
+      "correct_index": 3,
+      "explanation": "Poultry.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_154",
+      "text": "Tsetse fly vector of: (variant 154)",
+      "options": [
+        "No disease",
+        "Only fever",
+        "Trypanosomiasis",
+        "Malaria"
+      ],
+      "correct_index": 2,
+      "explanation": "Trypanosomiasis.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_155",
+      "text": "Protein builds: (variant 155)",
+      "options": [
+        "Only fat",
+        "Body tissues",
+        "No tissues",
+        "Only energy"
+      ],
+      "correct_index": 1,
+      "explanation": "Tissues.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_156",
+      "text": "Rumen is: (variant 156)",
+      "options": [
+        "Largest stomach compartment",
+        "Smallest",
+        "No compartment",
+        "Only true stomach"
+      ],
+      "correct_index": 0,
+      "explanation": "Largest.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_157",
+      "text": "True stomach: (variant 157)",
+      "options": [
+        "Rumen",
+        "Reticulum",
+        "Omasum",
+        "Abomasum"
+      ],
+      "correct_index": 3,
+      "explanation": "Abomasum.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_158",
+      "text": "Broiler for: (variant 158)",
+      "options": [
+        "No meat",
+        "Only feathers",
+        "Meat",
+        "Eggs"
+      ],
+      "correct_index": 2,
+      "explanation": "Meat.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_159",
+      "text": "Layer for: (variant 159)",
+      "options": [
+        "Only feathers",
+        "Eggs",
+        "Meat",
+        "No eggs"
+      ],
+      "correct_index": 1,
+      "explanation": "Eggs.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_160",
+      "text": "Apiculture is: (variant 160)",
+      "options": [
+        "Bee keeping",
+        "Fish farming",
+        "Cattle",
+        "Poultry"
+      ],
+      "correct_index": 0,
+      "explanation": "Bee keeping.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_161",
+      "text": "Animal Husbandry is: (variant 161)",
+      "options": [
+        "Only crop",
+        "Only fishing",
+        "No science",
+        "Breeding and caring for farm animals"
+      ],
+      "correct_index": 3,
+      "explanation": "Breeding caring.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_162",
+      "text": "Bull is: (variant 162)",
+      "options": [
+        "Young",
+        "No cattle",
+        "Male cattle",
+        "Female"
+      ],
+      "correct_index": 2,
+      "explanation": "Male cattle.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_163",
+      "text": "Cow is: (variant 163)",
+      "options": [
+        "No cattle",
+        "Female cattle",
+        "Male",
+        "Young"
+      ],
+      "correct_index": 1,
+      "explanation": "Female.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_164",
+      "text": "Gestation cattle: (variant 164)",
+      "options": [
+        "283 days",
+        "150 days",
+        "114 days",
+        "30 days"
+      ],
+      "correct_index": 0,
+      "explanation": "283 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_165",
+      "text": "Gestation goat: (variant 165)",
+      "options": [
+        "283 days",
+        "114 days",
+        "30 days",
+        "150 days"
+      ],
+      "correct_index": 3,
+      "explanation": "150 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_166",
+      "text": "Incubation chicken: (variant 166)",
+      "options": [
+        "30 days",
+        "35 days",
+        "21 days",
+        "28 days"
+      ],
+      "correct_index": 2,
+      "explanation": "21 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_167",
+      "text": "Calving is: (variant 167)",
+      "options": [
+        "Pig",
+        "Cattle giving birth",
+        "Sheep",
+        "Goat"
+      ],
+      "correct_index": 1,
+      "explanation": "Cattle birth.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_168",
+      "text": "Lactation is: (variant 168)",
+      "options": [
+        "Milk production",
+        "Gestation",
+        "Incubation",
+        "Parturition"
+      ],
+      "correct_index": 0,
+      "explanation": "Milk.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_169",
+      "text": "Extensive system: (variant 169)",
+      "options": [
+        "Confined",
+        "No system",
+        "Only intensive",
+        "Free range"
+      ],
+      "correct_index": 3,
+      "explanation": "Free range.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_170",
+      "text": "Battery cage for: (variant 170)",
+      "options": [
+        "Cattle",
+        "Goats",
+        "Layers",
+        "Broilers"
+      ],
+      "correct_index": 2,
+      "explanation": "Layers.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_171",
+      "text": "White Fulani is: (variant 171)",
+      "options": [
+        "Pig",
+        "Cattle breed",
+        "Sheep",
+        "Goat"
+      ],
+      "correct_index": 1,
+      "explanation": "Cattle.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_172",
+      "text": "Castration is: (variant 172)",
+      "options": [
+        "Removal testes",
+        "Removal horns",
+        "No removal",
+        "Only tail"
+      ],
+      "correct_index": 0,
+      "explanation": "Removal testes.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_173",
+      "text": "Newcastle affects: (variant 173)",
+      "options": [
+        "Cattle",
+        "Goats",
+        "Sheep",
+        "Poultry"
+      ],
+      "correct_index": 3,
+      "explanation": "Poultry.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_174",
+      "text": "Tsetse fly vector of: (variant 174)",
+      "options": [
+        "No disease",
+        "Only fever",
+        "Trypanosomiasis",
+        "Malaria"
+      ],
+      "correct_index": 2,
+      "explanation": "Trypanosomiasis.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_175",
+      "text": "Protein builds: (variant 175)",
+      "options": [
+        "Only fat",
+        "Body tissues",
+        "No tissues",
+        "Only energy"
+      ],
+      "correct_index": 1,
+      "explanation": "Tissues.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_176",
+      "text": "Rumen is: (variant 176)",
+      "options": [
+        "Largest stomach compartment",
+        "Smallest",
+        "No compartment",
+        "Only true stomach"
+      ],
+      "correct_index": 0,
+      "explanation": "Largest.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_177",
+      "text": "True stomach: (variant 177)",
+      "options": [
+        "Rumen",
+        "Reticulum",
+        "Omasum",
+        "Abomasum"
+      ],
+      "correct_index": 3,
+      "explanation": "Abomasum.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_178",
+      "text": "Broiler for: (variant 178)",
+      "options": [
+        "No meat",
+        "Only feathers",
+        "Meat",
+        "Eggs"
+      ],
+      "correct_index": 2,
+      "explanation": "Meat.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_179",
+      "text": "Layer for: (variant 179)",
+      "options": [
+        "Only feathers",
+        "Eggs",
+        "Meat",
+        "No eggs"
+      ],
+      "correct_index": 1,
+      "explanation": "Eggs.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_180",
+      "text": "Apiculture is: (variant 180)",
+      "options": [
+        "Bee keeping",
+        "Fish farming",
+        "Cattle",
+        "Poultry"
+      ],
+      "correct_index": 0,
+      "explanation": "Bee keeping.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_181",
+      "text": "Animal Husbandry is: (variant 181)",
+      "options": [
+        "Only crop",
+        "Only fishing",
+        "No science",
+        "Breeding and caring for farm animals"
+      ],
+      "correct_index": 3,
+      "explanation": "Breeding caring.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_182",
+      "text": "Bull is: (variant 182)",
+      "options": [
+        "Young",
+        "No cattle",
+        "Male cattle",
+        "Female"
+      ],
+      "correct_index": 2,
+      "explanation": "Male cattle.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_183",
+      "text": "Cow is: (variant 183)",
+      "options": [
+        "No cattle",
+        "Female cattle",
+        "Male",
+        "Young"
+      ],
+      "correct_index": 1,
+      "explanation": "Female.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_184",
+      "text": "Gestation cattle: (variant 184)",
+      "options": [
+        "283 days",
+        "150 days",
+        "114 days",
+        "30 days"
+      ],
+      "correct_index": 0,
+      "explanation": "283 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_185",
+      "text": "Gestation goat: (variant 185)",
+      "options": [
+        "283 days",
+        "114 days",
+        "30 days",
+        "150 days"
+      ],
+      "correct_index": 3,
+      "explanation": "150 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_186",
+      "text": "Incubation chicken: (variant 186)",
+      "options": [
+        "30 days",
+        "35 days",
+        "21 days",
+        "28 days"
+      ],
+      "correct_index": 2,
+      "explanation": "21 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_187",
+      "text": "Calving is: (variant 187)",
+      "options": [
+        "Pig",
+        "Cattle giving birth",
+        "Sheep",
+        "Goat"
+      ],
+      "correct_index": 1,
+      "explanation": "Cattle birth.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_188",
+      "text": "Lactation is: (variant 188)",
+      "options": [
+        "Milk production",
+        "Gestation",
+        "Incubation",
+        "Parturition"
+      ],
+      "correct_index": 0,
+      "explanation": "Milk.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_189",
+      "text": "Extensive system: (variant 189)",
+      "options": [
+        "Confined",
+        "No system",
+        "Only intensive",
+        "Free range"
+      ],
+      "correct_index": 3,
+      "explanation": "Free range.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_190",
+      "text": "Battery cage for: (variant 190)",
+      "options": [
+        "Cattle",
+        "Goats",
+        "Layers",
+        "Broilers"
+      ],
+      "correct_index": 2,
+      "explanation": "Layers.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_191",
+      "text": "White Fulani is: (variant 191)",
+      "options": [
+        "Pig",
+        "Cattle breed",
+        "Sheep",
+        "Goat"
+      ],
+      "correct_index": 1,
+      "explanation": "Cattle.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_192",
+      "text": "Castration is: (variant 192)",
+      "options": [
+        "Removal testes",
+        "Removal horns",
+        "No removal",
+        "Only tail"
+      ],
+      "correct_index": 0,
+      "explanation": "Removal testes.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_193",
+      "text": "Newcastle affects: (variant 193)",
+      "options": [
+        "Cattle",
+        "Goats",
+        "Sheep",
+        "Poultry"
+      ],
+      "correct_index": 3,
+      "explanation": "Poultry.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_194",
+      "text": "Tsetse fly vector of: (variant 194)",
+      "options": [
+        "No disease",
+        "Only fever",
+        "Trypanosomiasis",
+        "Malaria"
+      ],
+      "correct_index": 2,
+      "explanation": "Trypanosomiasis.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_195",
+      "text": "Protein builds: (variant 195)",
+      "options": [
+        "Only fat",
+        "Body tissues",
+        "No tissues",
+        "Only energy"
+      ],
+      "correct_index": 1,
+      "explanation": "Tissues.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_196",
+      "text": "Rumen is: (variant 196)",
+      "options": [
+        "Largest stomach compartment",
+        "Smallest",
+        "No compartment",
+        "Only true stomach"
+      ],
+      "correct_index": 0,
+      "explanation": "Largest.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_197",
+      "text": "True stomach: (variant 197)",
+      "options": [
+        "Rumen",
+        "Reticulum",
+        "Omasum",
+        "Abomasum"
+      ],
+      "correct_index": 3,
+      "explanation": "Abomasum.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_198",
+      "text": "Broiler for: (variant 198)",
+      "options": [
+        "No meat",
+        "Only feathers",
+        "Meat",
+        "Eggs"
+      ],
+      "correct_index": 2,
+      "explanation": "Meat.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_199",
+      "text": "Layer for: (variant 199)",
+      "options": [
+        "Only feathers",
+        "Eggs",
+        "Meat",
+        "No eggs"
+      ],
+      "correct_index": 1,
+      "explanation": "Eggs.",
+      "difficulty": 1
+    },
+    {
+      "id": "ani_200",
+      "text": "Apiculture is: (variant 200)",
+      "options": [
+        "Bee keeping",
+        "Fish farming",
+        "Cattle",
+        "Poultry"
+      ],
+      "correct_index": 0,
+      "explanation": "Bee keeping.",
+      "difficulty": 2
+    }
+  ]
+}

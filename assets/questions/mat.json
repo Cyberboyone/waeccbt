@@ -1,0 +1,2607 @@
+{
+  "course_id": "mat",
+  "course_name": "General Mathematics",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "mat_001",
+      "text": "Express 10110₂ in base 10.",
+      "options": [
+        "22",
+        "24",
+        "26",
+        "20"
+      ],
+      "correct_index": 0,
+      "explanation": "10110₂ = 16+0+4+2+0 = 22.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_002",
+      "text": "Convert 45 (base 10) to base 2.",
+      "options": [
+        "101001₂",
+        "11101₂",
+        "101101₂",
+        "110101₂"
+      ],
+      "correct_index": 2,
+      "explanation": "45 = 32+8+4+1 = 101101₂.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_003",
+      "text": "Express 77₈ in base 10.",
+      "options": [
+        "70",
+        "61",
+        "63",
+        "56"
+      ],
+      "correct_index": 2,
+      "explanation": "77₈ = 7×8 + 7 = 63.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_004",
+      "text": "Convert 35 (base 10) to base 5.",
+      "options": [
+        "120₅",
+        "125₅",
+        "110₅",
+        "130₅"
+      ],
+      "correct_index": 0,
+      "explanation": "35 = 1×25 + 2×5 + 0 = 120₅.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_005",
+      "text": "Evaluate 101₂ + 11₂, giving the answer in base 2.",
+      "options": [
+        "1000₂",
+        "111₂",
+        "1011₂",
+        "110₂"
+      ],
+      "correct_index": 0,
+      "explanation": "101₂(5) + 11₂(3) = 8 = 1000₂.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_006",
+      "text": "Simplify 1101₂ − 110₂.",
+      "options": [
+        "111₂ in base 10 is 7",
+        "1001₂",
+        "111₂",
+        "101₁₀"
+      ],
+      "correct_index": 2,
+      "explanation": "1101₂(13) − 110₂(6) = 7 = 111₂.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_007",
+      "text": "Evaluate 101₂ × 11₂.",
+      "options": [
+        "1101₂",
+        "1111₂",
+        "1110₂",
+        "1001₂"
+      ],
+      "correct_index": 1,
+      "explanation": "101₂(5) × 11₂(3) = 15 = 1111₂.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_008",
+      "text": "Convert 21₃ to base 10.",
+      "options": [
+        "7",
+        "6",
+        "8",
+        "9"
+      ],
+      "correct_index": 0,
+      "explanation": "21₃ = 2×3 + 1 = 7.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_009",
+      "text": "What is the value of 10₁₀ in binary?",
+      "options": [
+        "1100₂",
+        "1001₂",
+        "1011₂",
+        "1010₂"
+      ],
+      "correct_index": 3,
+      "explanation": "10 = 8+2 = 1010₂.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_010",
+      "text": "Convert 0.5 (base 10) to base 2.",
+      "options": [
+        "0.11₂",
+        "0.101₂",
+        "0.1₂",
+        "0.01₂"
+      ],
+      "correct_index": 2,
+      "explanation": "0.5 = 1/2 = 0.1₂.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_011",
+      "text": "Simplify 3/4 + 1/2.",
+      "options": [
+        "3/8",
+        "5/4",
+        "4/6",
+        "1"
+      ],
+      "correct_index": 1,
+      "explanation": "3/4 + 2/4 = 5/4.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_012",
+      "text": "Evaluate 2/3 − 1/6.",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/6",
+        "2/6"
+      ],
+      "correct_index": 0,
+      "explanation": "4/6 − 1/6 = 3/6 = 1/2.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_013",
+      "text": "Find 3/5 × 5/9.",
+      "options": [
+        "15/45",
+        "3/9",
+        "1/2",
+        "1/3"
+      ],
+      "correct_index": 3,
+      "explanation": "(3×5)/(5×9) = 15/45 = 1/3.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_014",
+      "text": "Divide 3/4 by 2/3.",
+      "options": [
+        "1/2",
+        "8/9",
+        "9/8",
+        "6/12"
+      ],
+      "correct_index": 2,
+      "explanation": "3/4 ÷ 2/3 = 3/4 × 3/2 = 9/8.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_015",
+      "text": "Express 0.75 as a fraction in lowest terms.",
+      "options": [
+        "3/5",
+        "3/4",
+        "75/100",
+        "7/5"
+      ],
+      "correct_index": 1,
+      "explanation": "0.75 = 75/100 = 3/4.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_016",
+      "text": "Write 3/8 as a decimal.",
+      "options": [
+        "0.375",
+        "0.38",
+        "0.3",
+        "0.35"
+      ],
+      "correct_index": 0,
+      "explanation": "3/8 = 0.375.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_017",
+      "text": "Round 3.14159 to 2 decimal places.",
+      "options": [
+        "3.15",
+        "3.1",
+        "3.142",
+        "3.14"
+      ],
+      "correct_index": 3,
+      "explanation": "The third decimal is 1 (<5), so 3.14.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_018",
+      "text": "Express 0.00045 in standard form.",
+      "options": [
+        "45 × 10⁻⁵",
+        "4.5 × 10⁻³",
+        "4.5 × 10⁻⁴",
+        "4.5 × 10⁴"
+      ],
+      "correct_index": 2,
+      "explanation": "Move the decimal 4 places right: 4.5 × 10⁻⁴.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_019",
+      "text": "What is 15% of 240?",
+      "options": [
+        "40",
+        "36",
+        "30",
+        "24"
+      ],
+      "correct_index": 1,
+      "explanation": "0.15 × 240 = 36.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_020",
+      "text": "Express 4/25 as a percentage.",
+      "options": [
+        "16%",
+        "4%",
+        "20%",
+        "12%"
+      ],
+      "correct_index": 0,
+      "explanation": "4/25 = 0.16 = 16%.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_021",
+      "text": "Increase 500 by 10%.",
+      "options": [
+        "510",
+        "600",
+        "505",
+        "550"
+      ],
+      "correct_index": 3,
+      "explanation": "10% of 500 is 50; 500 + 50 = 550.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_022",
+      "text": "A student scored 54 out of 72. Express this as a percentage.",
+      "options": [
+        "80%",
+        "65%",
+        "75%",
+        "70%"
+      ],
+      "correct_index": 2,
+      "explanation": "54/72 = 0.75 = 75%.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_023",
+      "text": "Simplify 2³ × 2⁴.",
+      "options": [
+        "2¹",
+        "2⁷",
+        "2¹²",
+        "4⁷"
+      ],
+      "correct_index": 1,
+      "explanation": "Add the indices: 2^(3+4) = 2⁷.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_024",
+      "text": "Evaluate 3⁵ ÷ 3².",
+      "options": [
+        "3³",
+        "3⁷",
+        "3¹⁰",
+        "9³"
+      ],
+      "correct_index": 0,
+      "explanation": "Subtract indices: 3^(5−2) = 3³.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_025",
+      "text": "Simplify (x²)³.",
+      "options": [
+        "x⁵",
+        "x⁹",
+        "x⁸",
+        "x⁶"
+      ],
+      "correct_index": 3,
+      "explanation": "Multiply indices: x^(2×3) = x⁶.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_026",
+      "text": "Evaluate 5⁰.",
+      "options": [
+        "5",
+        "Undefined",
+        "0",
+        "1"
+      ],
+      "correct_index": 3,
+      "explanation": "Any non-zero number raised to power 0 equals 1.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_027",
+      "text": "Simplify (a²b³)².",
+      "options": [
+        "a⁴b⁹",
+        "a⁴b⁶",
+        "a²b⁶",
+        "a⁴b⁵"
+      ],
+      "correct_index": 1,
+      "explanation": "Square each factor: a⁴b⁶.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_028",
+      "text": "Evaluate 8^(2/3).",
+      "options": [
+        "4",
+        "2",
+        "16",
+        "8"
+      ],
+      "correct_index": 0,
+      "explanation": "8^(2/3) = (cube root of 8)² = 2² = 4.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_029",
+      "text": "Simplify 2⁻³.",
+      "options": [
+        "−8",
+        "8",
+        "−1/8",
+        "1/8"
+      ],
+      "correct_index": 3,
+      "explanation": "2⁻³ = 1/2³ = 1/8.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_030",
+      "text": "Write log₁₀ 1000.",
+      "options": [
+        "10",
+        "100",
+        "2",
+        "3"
+      ],
+      "correct_index": 3,
+      "explanation": "10³ = 1000, so log₁₀ 1000 = 3.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_031",
+      "text": "Evaluate log₂ 32.",
+      "options": [
+        "16",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct_index": 2,
+      "explanation": "2⁵ = 32, so log₂ 32 = 5.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_032",
+      "text": "Simplify log₁₀ 5 + log₁₀ 2.",
+      "options": [
+        "log₁₀ 7",
+        "1",
+        "log₁₀ 10",
+        "10"
+      ],
+      "correct_index": 1,
+      "explanation": "log 5 + log 2 = log(5×2) = log 10 = 1.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_033",
+      "text": "Simplify log₁₀ 100 − log₁₀ 10.",
+      "options": [
+        "10",
+        "2",
+        "0",
+        "1"
+      ],
+      "correct_index": 3,
+      "explanation": "log 100 − log 10 = 2 − 1 = 1.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_034",
+      "text": "Simplify √50.",
+      "options": [
+        "25√2",
+        "10√5",
+        "5√2",
+        "2√5"
+      ],
+      "correct_index": 2,
+      "explanation": "√50 = √(25×2) = 5√2.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_035",
+      "text": "Rationalise 1/√2.",
+      "options": [
+        "1/2",
+        "√2/2",
+        "√2",
+        "2/√2"
+      ],
+      "correct_index": 1,
+      "explanation": "Multiply by √2/√2: √2/2.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_036",
+      "text": "Simplify (2√3)².",
+      "options": [
+        "12",
+        "6",
+        "4√3",
+        "18"
+      ],
+      "correct_index": 0,
+      "explanation": "(2√3)² = 4 × 3 = 12.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_037",
+      "text": "Simplify √8 + √18.",
+      "options": [
+        "√26",
+        "2√13",
+        "7√2",
+        "5√2"
+      ],
+      "correct_index": 3,
+      "explanation": "2√2 + 3√2 = 5√2.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_038",
+      "text": "If A = {1, 2, 3, 4} and B = {3, 4, 5}, find A ∪ B.",
+      "options": [
+        "{1,2,5}",
+        "{1,2,3,4}",
+        "{1,2,3,4,5}",
+        "{3,4}"
+      ],
+      "correct_index": 2,
+      "explanation": "Union combines all elements: {1,2,3,4,5}.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_039",
+      "text": "If A = {1, 2, 3, 4} and B = {3, 4, 5}, find A ∩ B.",
+      "options": [
+        "{1,2,3,4,5}",
+        "{1,2}",
+        "{3,4}",
+        "{5}"
+      ],
+      "correct_index": 2,
+      "explanation": "Intersection contains common elements {3,4}.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_040",
+      "text": "If U = {1,2,3,4,5} and A = {1,2}, the complement A' is:",
+      "options": [
+        "{3,4,5}",
+        "{1,2}",
+        "{1,2,3}",
+        "{}"
+      ],
+      "correct_index": 0,
+      "explanation": "A' = elements of U not in A = {3,4,5}.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_041",
+      "text": "The number of elements in set P = {a, b, c, d} is:",
+      "options": [
+        "4",
+        "5",
+        "2",
+        "3"
+      ],
+      "correct_index": 0,
+      "explanation": "n(P) = 4.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_042",
+      "text": "If A ⊂ B, then every element of A is:",
+      "options": [
+        "Greater than B",
+        "Equal to B",
+        "Not in B",
+        "Also in B"
+      ],
+      "correct_index": 3,
+      "explanation": "A subset means all elements of A are in B.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_043",
+      "text": "Find the number of subsets of {1, 2, 3}.",
+      "options": [
+        "9",
+        "6",
+        "8",
+        "3"
+      ],
+      "correct_index": 2,
+      "explanation": "2³ = 8 subsets.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_044",
+      "text": "If A = {x : x is a prime number less than 10}, list A.",
+      "options": [
+        "{2,3,5,7}",
+        "{1,2,3,5,7}",
+        "{2,3,5}",
+        "{3,5,7}"
+      ],
+      "correct_index": 0,
+      "explanation": "Primes below 10 are 2, 3, 5, 7.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_045",
+      "text": "Two sets with no common elements are said to be:",
+      "options": [
+        "Disjoint",
+        "Equivalent",
+        "Universal",
+        "Equal"
+      ],
+      "correct_index": 0,
+      "explanation": "Disjoint sets have empty intersection.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_046",
+      "text": "If n(A) = 5 and n(B) = 3, and A and B are disjoint, then n(A ∪ B) =",
+      "options": [
+        "15",
+        "5",
+        "8",
+        "2"
+      ],
+      "correct_index": 2,
+      "explanation": "n(A∪B) = n(A) + n(B) = 8 when disjoint.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_047",
+      "text": "In a class of 40, 25 like maths and 20 like physics, and 10 like both. How many like neither?",
+      "options": [
+        "0",
+        "5",
+        "10",
+        "15"
+      ],
+      "correct_index": 1,
+      "explanation": "Union = 25+20−10 = 35; neither = 40−35 = 5.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_048",
+      "text": "If f(x) = 2x² − 3x + 1, find f(2).",
+      "options": [
+        "3",
+        "5",
+        "1",
+        "7"
+      ],
+      "correct_index": 0,
+      "explanation": "f(2) = 8 − 6 + 1 = 3.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_049",
+      "text": "Find the remainder when x² + 3x + 2 is divided by x + 1.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "correct_index": 3,
+      "explanation": "f(−1) = 1 − 3 + 2 = 0.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_050",
+      "text": "If (x − 2) is a factor of x² − 5x + 6, the other factor is:",
+      "options": [
+        "x − 2",
+        "x + 2",
+        "x − 3",
+        "x + 3"
+      ],
+      "correct_index": 2,
+      "explanation": "x² − 5x + 6 = (x−2)(x−3).",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_051",
+      "text": "Expand (x + 3)(x − 2).",
+      "options": [
+        "x² − x − 6",
+        "x² + x − 6",
+        "x² − 5x − 6",
+        "x² + 5x − 6"
+      ],
+      "correct_index": 1,
+      "explanation": "(x+3)(x−2) = x² + x − 6.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_052",
+      "text": "Factorise x² − 9.",
+      "options": [
+        "(x−3)(x+3)",
+        "(x−9)(x+1)",
+        "(x−3)²",
+        "(x+3)²"
+      ],
+      "correct_index": 0,
+      "explanation": "Difference of squares: x² − 9 = (x−3)(x+3).",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_053",
+      "text": "Find the roots of x² − 5x + 6 = 0.",
+      "options": [
+        "x = −2, −3",
+        "x = 1, 6",
+        "x = 2, −3",
+        "x = 2, 3"
+      ],
+      "correct_index": 3,
+      "explanation": "(x−2)(x−3)=0 → x = 2 or 3.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_054",
+      "text": "The sum of the roots of 2x² − 7x + 3 = 0 is:",
+      "options": [
+        "−7/2",
+        "3",
+        "7/2",
+        "3/2"
+      ],
+      "correct_index": 2,
+      "explanation": "Sum of roots = −b/a = 7/2.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_055",
+      "text": "The product of the roots of 3x² − 6x + 9 = 0 is:",
+      "options": [
+        "9",
+        "3",
+        "2",
+        "−2"
+      ],
+      "correct_index": 1,
+      "explanation": "Product = c/a = 9/3 = 3.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_056",
+      "text": "If x + 3 is a factor of x² + kx + 6, find k.",
+      "options": [
+        "5",
+        "−5",
+        "2",
+        "3"
+      ],
+      "correct_index": 0,
+      "explanation": "f(−3)=0 → 9 − 3k + 6 = 0 → k = 5.",
+      "difficulty": 3
+    },
+    {
+      "id": "mat_057",
+      "text": "Simplify (x² − 4)/(x − 2).",
+      "options": [
+        "x − 2",
+        "x² − 2",
+        "x + 4",
+        "x + 2"
+      ],
+      "correct_index": 3,
+      "explanation": "(x−2)(x+2)/(x−2) = x + 2.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_058",
+      "text": "If y varies directly as x, and y = 12 when x = 3, find y when x = 7.",
+      "options": [
+        "36",
+        "21",
+        "28",
+        "24"
+      ],
+      "correct_index": 2,
+      "explanation": "y = kx; k = 12/3 = 4; y = 4×7 = 28.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_059",
+      "text": "If y varies inversely as x, and y = 6 when x = 2, find y when x = 4.",
+      "options": [
+        "2",
+        "3",
+        "12",
+        "6"
+      ],
+      "correct_index": 1,
+      "explanation": "y = k/x; k = 12; y = 12/4 = 3.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_060",
+      "text": "If p is directly proportional to q², and p = 18 when q = 3, find p when q = 2.",
+      "options": [
+        "8",
+        "12",
+        "6",
+        "9"
+      ],
+      "correct_index": 0,
+      "explanation": "p = kq²; k = 18/9 = 2; p = 2×4 = 8.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_061",
+      "text": "y varies directly as x and inversely as z. If y = 4 when x = 8 and z = 2, find the constant of variation.",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "1"
+      ],
+      "correct_index": 3,
+      "explanation": "y = kx/z; k = yz/x = 4×2/8 = 1.",
+      "difficulty": 3
+    },
+    {
+      "id": "mat_062",
+      "text": "If a varies jointly as b and c, and a = 24 when b = 2 and c = 3, find a when b = 4 and c = 1.",
+      "options": [
+        "8",
+        "24",
+        "16",
+        "12"
+      ],
+      "correct_index": 2,
+      "explanation": "a = kbc; k = 24/6 = 4; a = 4×4×1 = 16.",
+      "difficulty": 3
+    },
+    {
+      "id": "mat_063",
+      "text": "The time t taken to travel a fixed distance is inversely proportional to speed s. If t = 3 h at 60 km/h, find t at 90 km/h.",
+      "options": [
+        "2.5 h",
+        "2 h",
+        "4 h",
+        "4.5 h"
+      ],
+      "correct_index": 1,
+      "explanation": "t = k/s; k = 180; t = 180/90 = 2 h.",
+      "difficulty": 3
+    },
+    {
+      "id": "mat_064",
+      "text": "Solve: x + 5 > 12.",
+      "options": [
+        "x > 7",
+        "x > 17",
+        "x < 7",
+        "x > −7"
+      ],
+      "correct_index": 0,
+      "explanation": "Subtract 5: x > 7.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_065",
+      "text": "Solve: 3x − 4 ≤ 8.",
+      "options": [
+        "x ≤ 12",
+        "x ≥ 4",
+        "x ≤ 4/3",
+        "x ≤ 4"
+      ],
+      "correct_index": 3,
+      "explanation": "3x ≤ 12 → x ≤ 4.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_066",
+      "text": "Solve: −2x < 6.",
+      "options": [
+        "x > 3",
+        "x < 3",
+        "x > −3",
+        "x < −3"
+      ],
+      "correct_index": 2,
+      "explanation": "Dividing by a negative reverses the inequality: x > −3.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_067",
+      "text": "Solve: 2 < x ≤ 5. The integer values of x are:",
+      "options": [
+        "2, 3, 4",
+        "3, 4, 5",
+        "2, 3, 4, 5",
+        "3, 4"
+      ],
+      "correct_index": 1,
+      "explanation": "x > 2 and x ≤ 5 → integers 3, 4, 5.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_068",
+      "text": "Solve x² − 4 < 0.",
+      "options": [
+        "−2 < x < 2",
+        "x < −2 or x > 2",
+        "x < 2",
+        "x > −2"
+      ],
+      "correct_index": 0,
+      "explanation": "x² < 4 → −2 < x < 2.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_069",
+      "text": "Find the solution set of x² − x − 6 ≤ 0.",
+      "options": [
+        "x ≤ −2 or x ≥ 3",
+        "2 ≤ x ≤ 3",
+        "−3 ≤ x ≤ 2",
+        "−2 ≤ x ≤ 3"
+      ],
+      "correct_index": 3,
+      "explanation": "(x−3)(x+2) ≤ 0 → −2 ≤ x ≤ 3.",
+      "difficulty": 3
+    },
+    {
+      "id": "mat_070",
+      "text": "Find the 10th term of the AP: 2, 5, 8, 11, ...",
+      "options": [
+        "27",
+        "32",
+        "29",
+        "30"
+      ],
+      "correct_index": 2,
+      "explanation": "a=2, d=3; T₁₀ = 2 + 9×3 = 29.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_071",
+      "text": "Find the sum of the first 10 terms of the AP: 1, 3, 5, 7, ...",
+      "options": [
+        "55",
+        "100",
+        "90",
+        "110"
+      ],
+      "correct_index": 1,
+      "explanation": "Sn = n/2(2a+(n−1)d) = 5(2+18) = 100.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_072",
+      "text": "Find the 5th term of the GP: 3, 6, 12, ...",
+      "options": [
+        "48",
+        "24",
+        "96",
+        "36"
+      ],
+      "correct_index": 0,
+      "explanation": "a=3, r=2; T₅ = 3×2⁴ = 48.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_073",
+      "text": "Find the sum to infinity of the GP: 1, 1/2, 1/4, ...",
+      "options": [
+        "1",
+        "4",
+        "3/2",
+        "2"
+      ],
+      "correct_index": 3,
+      "explanation": "S∞ = a/(1−r) = 1/(1−1/2) = 2.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_074",
+      "text": "The first term of an AP is 5 and the common difference is 3. Find the 8th term.",
+      "options": [
+        "23",
+        "24",
+        "26",
+        "29"
+      ],
+      "correct_index": 2,
+      "explanation": "T₈ = 5 + 7×3 = 26.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_075",
+      "text": "In a GP, the first term is 2 and the 3rd term is 18. Find the common ratio (positive).",
+      "options": [
+        "4",
+        "3",
+        "6",
+        "9"
+      ],
+      "correct_index": 1,
+      "explanation": "ar² = 18 → 2r² = 18 → r = 3.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_076",
+      "text": "Find the common difference of the AP: 12, 8, 4, 0, ...",
+      "options": [
+        "−4",
+        "4",
+        "−8",
+        "8"
+      ],
+      "correct_index": 0,
+      "explanation": "d = 8 − 12 = −4.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_077",
+      "text": "The sum of the first n natural numbers 1+2+3+...+n is:",
+      "options": [
+        "n²",
+        "n(n−1)/2",
+        "2n",
+        "n(n+1)/2"
+      ],
+      "correct_index": 3,
+      "explanation": "Sum = n(n+1)/2.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_078",
+      "text": "An operation * is defined by a * b = a + b − 2. Find 5 * 3.",
+      "options": [
+        "10",
+        "4",
+        "6",
+        "8"
+      ],
+      "correct_index": 2,
+      "explanation": "5 + 3 − 2 = 6.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_079",
+      "text": "If x * y = xy + x, find 2 * 3.",
+      "options": [
+        "11",
+        "8",
+        "9",
+        "6"
+      ],
+      "correct_index": 1,
+      "explanation": "2×3 + 2 = 8.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_080",
+      "text": "An operation ⊕ is defined by a ⊕ b = a² − b. Find 4 ⊕ 3.",
+      "options": [
+        "13",
+        "10",
+        "16",
+        "19"
+      ],
+      "correct_index": 0,
+      "explanation": "4² − 3 = 13.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_081",
+      "text": "If a * b = (a + b)/2, find 8 * 4.",
+      "options": [
+        "12",
+        "4",
+        "2",
+        "6"
+      ],
+      "correct_index": 3,
+      "explanation": "(8+4)/2 = 6.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_082",
+      "text": "For the operation a * b = ab − a − b, find the identity element (if any).",
+      "options": [
+        "2",
+        "None",
+        "0",
+        "1"
+      ],
+      "correct_index": 2,
+      "explanation": "No simple identity fits; by substitution e=0 gives a*0 = −a ≠ a, so none.",
+      "difficulty": 3
+    },
+    {
+      "id": "mat_083",
+      "text": "Find the determinant of [[3, 2], [1, 4]].",
+      "options": [
+        "6",
+        "10",
+        "14",
+        "8"
+      ],
+      "correct_index": 1,
+      "explanation": "det = 3×4 − 2×1 = 10.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_084",
+      "text": "Find the determinant of [[2, −1], [3, 4]].",
+      "options": [
+        "11",
+        "5",
+        "−11",
+        "8"
+      ],
+      "correct_index": 0,
+      "explanation": "2×4 − (−1)×3 = 8 + 3 = 11.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_085",
+      "text": "If A = [[1, 2], [3, 4]], find the trace of A (sum of diagonal elements).",
+      "options": [
+        "4",
+        "6",
+        "3",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "1 + 4 = 5.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_086",
+      "text": "Add the matrices [[1, 2], [3, 4]] and [[5, 6], [7, 8]].",
+      "options": [
+        "[[6,8],[10,11]]",
+        "[[1,2],[3,4]]",
+        "[[6,8],[10,12]]",
+        "[[5,12],[21,32]]"
+      ],
+      "correct_index": 2,
+      "explanation": "Add corresponding entries.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_087",
+      "text": "If A is a 2×2 matrix with det(A) = 0, then A is:",
+      "options": [
+        "Transpose",
+        "Singular",
+        "Non-singular",
+        "Identity"
+      ],
+      "correct_index": 1,
+      "explanation": "A zero determinant means the matrix is singular (no inverse).",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_088",
+      "text": "Find the determinant of the identity matrix I₂.",
+      "options": [
+        "1",
+        "0",
+        "2",
+        "4"
+      ],
+      "correct_index": 0,
+      "explanation": "det(I₂) = 1.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_089",
+      "text": "If det(A) = 5 for a 2×2 matrix A, find det(A⁻¹).",
+      "options": [
+        "5",
+        "−5",
+        "0",
+        "1/5"
+      ],
+      "correct_index": 3,
+      "explanation": "det(A⁻¹) = 1/det(A) = 1/5.",
+      "difficulty": 3
+    },
+    {
+      "id": "mat_090",
+      "text": "The transpose of [[a, b], [c, d]] is:",
+      "options": [
+        "[[a, b], [c, d]]",
+        "[[d, c], [b, a]]",
+        "[[a, c], [b, d]]",
+        "[[d, b], [c, a]]"
+      ],
+      "correct_index": 2,
+      "explanation": "Transpose swaps rows and columns.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_091",
+      "text": "The sum of the interior angles of a triangle is:",
+      "options": [
+        "270°",
+        "180°",
+        "360°",
+        "90°"
+      ],
+      "correct_index": 1,
+      "explanation": "Interior angles of a triangle sum to 180°.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_092",
+      "text": "The sum of the interior angles of a quadrilateral is:",
+      "options": [
+        "360°",
+        "180°",
+        "540°",
+        "270°"
+      ],
+      "correct_index": 0,
+      "explanation": "(n−2)×180 = (4−2)×180 = 360°.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_093",
+      "text": "Each interior angle of a regular pentagon is:",
+      "options": [
+        "120°",
+        "90°",
+        "72°",
+        "108°"
+      ],
+      "correct_index": 3,
+      "explanation": "540°/5 = 108°.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_094",
+      "text": "In a triangle, the exterior angle equals:",
+      "options": [
+        "180°",
+        "90°",
+        "The sum of the two opposite interior angles",
+        "The third angle"
+      ],
+      "correct_index": 2,
+      "explanation": "Exterior angle = sum of two opposite interior angles.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_095",
+      "text": "Angles on a straight line add up to:",
+      "options": [
+        "45°",
+        "180°",
+        "90°",
+        "360°"
+      ],
+      "correct_index": 1,
+      "explanation": "Angles on a straight line sum to 180°.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_096",
+      "text": "The angle in a semicircle is:",
+      "options": [
+        "90°",
+        "180°",
+        "45°",
+        "60°"
+      ],
+      "correct_index": 0,
+      "explanation": "Angle subtended by a diameter at the circumference is 90°.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_097",
+      "text": "Vertically opposite angles are:",
+      "options": [
+        "Supplementary",
+        "Complementary",
+        "Unequal",
+        "Equal"
+      ],
+      "correct_index": 3,
+      "explanation": "Vertically opposite angles are equal.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_098",
+      "text": "Two angles are complementary if their sum is:",
+      "options": [
+        "360°",
+        "45°",
+        "90°",
+        "180°"
+      ],
+      "correct_index": 2,
+      "explanation": "Complementary angles sum to 90°.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_099",
+      "text": "Two angles are supplementary if their sum is:",
+      "options": [
+        "270°",
+        "180°",
+        "90°",
+        "360°"
+      ],
+      "correct_index": 1,
+      "explanation": "Supplementary angles sum to 180°.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_100",
+      "text": "The number of sides of a polygon whose interior angles sum to 720° is:",
+      "options": [
+        "6",
+        "5",
+        "7",
+        "8"
+      ],
+      "correct_index": 0,
+      "explanation": "(n−2)×180 = 720 → n = 6.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_101",
+      "text": "Find the area of a rectangle 8 cm by 5 cm.",
+      "options": [
+        "13 cm²",
+        "26 cm²",
+        "80 cm²",
+        "40 cm²"
+      ],
+      "correct_index": 3,
+      "explanation": "Area = 8 × 5 = 40 cm².",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_102",
+      "text": "Find the area of a triangle with base 10 cm and height 6 cm.",
+      "options": [
+        "16 cm²",
+        "36 cm²",
+        "30 cm²",
+        "60 cm²"
+      ],
+      "correct_index": 2,
+      "explanation": "Area = ½ × 10 × 6 = 30 cm².",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_103",
+      "text": "Find the circumference of a circle of radius 7 cm (take π = 22/7).",
+      "options": [
+        "88 cm",
+        "44 cm",
+        "22 cm",
+        "154 cm"
+      ],
+      "correct_index": 1,
+      "explanation": "C = 2πr = 2 × 22/7 × 7 = 44 cm.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_104",
+      "text": "Find the area of a circle of radius 7 cm (π = 22/7).",
+      "options": [
+        "154 cm²",
+        "44 cm²",
+        "308 cm²",
+        "49 cm²"
+      ],
+      "correct_index": 0,
+      "explanation": "A = πr² = 22/7 × 49 = 154 cm².",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_105",
+      "text": "Find the volume of a cube of side 4 cm.",
+      "options": [
+        "16 cm³",
+        "48 cm³",
+        "24 cm³",
+        "64 cm³"
+      ],
+      "correct_index": 3,
+      "explanation": "V = 4³ = 64 cm³.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_106",
+      "text": "Find the volume of a cylinder of radius 3 cm and height 7 cm (π = 22/7).",
+      "options": [
+        "132 cm³",
+        "154 cm³",
+        "198 cm³",
+        "66 cm³"
+      ],
+      "correct_index": 2,
+      "explanation": "V = πr²h = 22/7 × 9 × 7 = 198 cm³.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_107",
+      "text": "Find the area of a trapezium with parallel sides 6 cm and 10 cm and height 4 cm.",
+      "options": [
+        "40 cm²",
+        "32 cm²",
+        "64 cm²",
+        "24 cm²"
+      ],
+      "correct_index": 1,
+      "explanation": "A = ½(6+10)×4 = 32 cm².",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_108",
+      "text": "The total surface area of a cube of side 3 cm is:",
+      "options": [
+        "54 cm²",
+        "27 cm²",
+        "36 cm²",
+        "18 cm²"
+      ],
+      "correct_index": 0,
+      "explanation": "TSA = 6 × 3² = 54 cm².",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_109",
+      "text": "Find the area of a sector of radius 6 cm subtending 60° at the centre (π = 22/7).",
+      "options": [
+        "132 cm²",
+        "66/7 cm²",
+        "36 cm²",
+        "132/7 cm²"
+      ],
+      "correct_index": 3,
+      "explanation": "A = (θ/360)πr² = (60/360)(22/7)(36) = 132/7 cm².",
+      "difficulty": 3
+    },
+    {
+      "id": "mat_110",
+      "text": "The volume of a sphere of radius 3 cm (π = 22/7) is:",
+      "options": [
+        "36 cm³",
+        "113 cm³",
+        "792/7 cm³",
+        "792 cm³"
+      ],
+      "correct_index": 2,
+      "explanation": "V = 4/3 πr³ = 4/3 × 22/7 × 27 = 792/7 cm³.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_111",
+      "text": "Find the midpoint of the line joining (2, 3) and (6, 9).",
+      "options": [
+        "(2, 6)",
+        "(4, 6)",
+        "(3, 3)",
+        "(8, 12)"
+      ],
+      "correct_index": 1,
+      "explanation": "Midpoint = ((2+6)/2, (3+9)/2) = (4, 6).",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_112",
+      "text": "Find the distance between points (1, 2) and (4, 6).",
+      "options": [
+        "5",
+        "3",
+        "7",
+        "√25"
+      ],
+      "correct_index": 0,
+      "explanation": "√((4−1)² + (6−2)²) = √(9+16) = 5.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_113",
+      "text": "Find the gradient of the line joining (1, 1) and (3, 7).",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "3"
+      ],
+      "correct_index": 3,
+      "explanation": "Gradient = (7−1)/(3−1) = 3.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_114",
+      "text": "Find the gradient of the line y = 2x + 5.",
+      "options": [
+        "−2",
+        "1/2",
+        "2",
+        "5"
+      ],
+      "correct_index": 2,
+      "explanation": "In y = mx + c, m = 2.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_115",
+      "text": "Find the y-intercept of the line y = 3x − 4.",
+      "options": [
+        "−3",
+        "−4",
+        "3",
+        "4"
+      ],
+      "correct_index": 1,
+      "explanation": "y-intercept is c = −4.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_116",
+      "text": "Find the equation of a line with gradient 2 passing through (1, 3).",
+      "options": [
+        "y = 2x + 1",
+        "y = 2x + 3",
+        "y = 3x + 2",
+        "y = x + 2"
+      ],
+      "correct_index": 0,
+      "explanation": "y − 3 = 2(x − 1) → y = 2x + 1.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_117",
+      "text": "Find the gradient of a line perpendicular to y = 3x + 1.",
+      "options": [
+        "3",
+        "−3",
+        "1/3",
+        "−1/3"
+      ],
+      "correct_index": 3,
+      "explanation": "Perpendicular gradients multiply to −1: m = −1/3.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_118",
+      "text": "Find the equation of the circle with centre (0, 0) and radius 5.",
+      "options": [
+        "x + y = 25",
+        "x² + y² = 50",
+        "x² + y² = 25",
+        "x² + y² = 5"
+      ],
+      "correct_index": 2,
+      "explanation": "x² + y² = r² = 25.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_119",
+      "text": "In a right triangle, sin θ equals:",
+      "options": [
+        "Hypotenuse/Opposite",
+        "Opposite/Hypotenuse",
+        "Adjacent/Hypotenuse",
+        "Opposite/Adjacent"
+      ],
+      "correct_index": 1,
+      "explanation": "sin = opposite/hypotenuse.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_120",
+      "text": "cos θ is defined as:",
+      "options": [
+        "Adjacent/Hypotenuse",
+        "Opposite/Hypotenuse",
+        "Opposite/Adjacent",
+        "Adjacent/Opposite"
+      ],
+      "correct_index": 0,
+      "explanation": "cos = adjacent/hypotenuse.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_121",
+      "text": "tan θ equals:",
+      "options": [
+        "Adjacent/Opposite",
+        "Opposite/Hypotenuse",
+        "Adjacent/Hypotenuse",
+        "Opposite/Adjacent"
+      ],
+      "correct_index": 3,
+      "explanation": "tan = opposite/adjacent.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_122",
+      "text": "The value of sin 30° is:",
+      "options": [
+        "1",
+        "√2/2",
+        "1/2",
+        "√3/2"
+      ],
+      "correct_index": 2,
+      "explanation": "sin 30° = 1/2.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_123",
+      "text": "The value of cos 60° is:",
+      "options": [
+        "0",
+        "1/2",
+        "√3/2",
+        "1"
+      ],
+      "correct_index": 1,
+      "explanation": "cos 60° = 1/2.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_124",
+      "text": "The value of tan 45° is:",
+      "options": [
+        "1",
+        "0",
+        "√3",
+        "Undefined"
+      ],
+      "correct_index": 0,
+      "explanation": "tan 45° = 1.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_125",
+      "text": "sin²θ + cos²θ equals:",
+      "options": [
+        "0",
+        "2",
+        "tan²θ",
+        "1"
+      ],
+      "correct_index": 3,
+      "explanation": "Fundamental identity: sin²θ + cos²θ = 1.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_126",
+      "text": "Convert 90° to radians.",
+      "options": [
+        "2π",
+        "π/4",
+        "π/2",
+        "π"
+      ],
+      "correct_index": 2,
+      "explanation": "90° = π/2 radians.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_127",
+      "text": "Convert π radians to degrees.",
+      "options": [
+        "270°",
+        "180°",
+        "90°",
+        "360°"
+      ],
+      "correct_index": 1,
+      "explanation": "π radians = 180°.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_128",
+      "text": "In triangle ABC, if a/sinA = b/sinB = c/sinC, this is the:",
+      "options": [
+        "Sine rule",
+        "Cosine rule",
+        "Pythagoras theorem",
+        "Tangent rule"
+      ],
+      "correct_index": 0,
+      "explanation": "This is the sine rule.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_129",
+      "text": "Find the derivative of y = x².",
+      "options": [
+        "x",
+        "2x²",
+        "x²",
+        "2x"
+      ],
+      "correct_index": 3,
+      "explanation": "dy/dx = 2x.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_130",
+      "text": "Find the derivative of y = 3x³.",
+      "options": [
+        "9x³",
+        "6x²",
+        "9x²",
+        "3x²"
+      ],
+      "correct_index": 2,
+      "explanation": "dy/dx = 9x².",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_131",
+      "text": "Find the derivative of y = 5x² + 3x − 2.",
+      "options": [
+        "10x",
+        "10x + 3",
+        "10x + 3x",
+        "5x + 3"
+      ],
+      "correct_index": 1,
+      "explanation": "dy/dx = 10x + 3.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_132",
+      "text": "Find the derivative of y = 4 (a constant).",
+      "options": [
+        "0",
+        "4",
+        "1",
+        "x"
+      ],
+      "correct_index": 0,
+      "explanation": "The derivative of a constant is 0.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_133",
+      "text": "Find the derivative of y = x⁻².",
+      "options": [
+        "−2x⁻¹",
+        "2x⁻³",
+        "x⁻³",
+        "−2x⁻³"
+      ],
+      "correct_index": 3,
+      "explanation": "dy/dx = −2x⁻³.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_134",
+      "text": "Find the derivative of y = √x.",
+      "options": [
+        "2√x",
+        "1/√x",
+        "1/(2√x)",
+        "√x/2"
+      ],
+      "correct_index": 2,
+      "explanation": "x^(1/2) → (1/2)x^(−1/2) = 1/(2√x).",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_135",
+      "text": "The derivative of sin x is:",
+      "options": [
+        "tan x",
+        "cos x",
+        "−cos x",
+        "−sin x"
+      ],
+      "correct_index": 1,
+      "explanation": "d/dx(sin x) = cos x.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_136",
+      "text": "The derivative of cos x is:",
+      "options": [
+        "−sin x",
+        "sin x",
+        "cos x",
+        "−cos x"
+      ],
+      "correct_index": 0,
+      "explanation": "d/dx(cos x) = −sin x.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_137",
+      "text": "The gradient of the curve y = x² at x = 3 is:",
+      "options": [
+        "9",
+        "3",
+        "2x",
+        "6"
+      ],
+      "correct_index": 3,
+      "explanation": "dy/dx = 2x = 6 at x = 3.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_138",
+      "text": "Find the turning point of y = x² − 4x + 1.",
+      "options": [
+        "(−2, 3)",
+        "(4, 1)",
+        "(2, −3)",
+        "(2, 3)"
+      ],
+      "correct_index": 2,
+      "explanation": "dy/dx = 2x − 4 = 0 → x = 2; y = 4 − 8 + 1 = −3.",
+      "difficulty": 3
+    },
+    {
+      "id": "mat_139",
+      "text": "The turning point of y = x² − 4x + 1 is a:",
+      "options": [
+        "Neither",
+        "Minimum",
+        "Maximum",
+        "Point of inflection"
+      ],
+      "correct_index": 1,
+      "explanation": "Second derivative = 2 > 0, so it is a minimum.",
+      "difficulty": 3
+    },
+    {
+      "id": "mat_140",
+      "text": "For y = 2x² − 8x, the minimum value of y occurs at x =",
+      "options": [
+        "2",
+        "−2",
+        "4",
+        "8"
+      ],
+      "correct_index": 0,
+      "explanation": "dy/dx = 4x − 8 = 0 → x = 2.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_141",
+      "text": "The gradient of a curve is zero at a:",
+      "options": [
+        "Point of maximum slope",
+        "Intercept",
+        "Origin",
+        "Turning point"
+      ],
+      "correct_index": 3,
+      "explanation": "A zero gradient indicates a turning (stationary) point.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_142",
+      "text": "∫ x dx =",
+      "options": [
+        "x + c",
+        "2x + c",
+        "x²/2 + c",
+        "x² + c"
+      ],
+      "correct_index": 2,
+      "explanation": "∫x dx = x²/2 + c.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_143",
+      "text": "∫ 2x dx =",
+      "options": [
+        "x²/2 + c",
+        "x² + c",
+        "2x² + c",
+        "x + c"
+      ],
+      "correct_index": 1,
+      "explanation": "∫2x dx = x² + c.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_144",
+      "text": "∫ 3x² dx =",
+      "options": [
+        "x³ + c",
+        "3x³ + c",
+        "x² + c",
+        "6x + c"
+      ],
+      "correct_index": 0,
+      "explanation": "∫3x² dx = x³ + c.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_145",
+      "text": "∫ (2x + 1) dx =",
+      "options": [
+        "x² + c",
+        "2x² + x + c",
+        "x² + x",
+        "x² + x + c"
+      ],
+      "correct_index": 3,
+      "explanation": "∫(2x+1)dx = x² + x + c.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_146",
+      "text": "∫₁² x dx =",
+      "options": [
+        "2",
+        "5/2",
+        "3/2",
+        "1"
+      ],
+      "correct_index": 2,
+      "explanation": "[x²/2]₁² = 2 − 1/2 = 3/2.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_147",
+      "text": "∫ cos x dx =",
+      "options": [
+        "tan x + c",
+        "sin x + c",
+        "−sin x + c",
+        "cos x + c"
+      ],
+      "correct_index": 1,
+      "explanation": "∫cos x dx = sin x + c.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_148",
+      "text": "Find the mean of 2, 4, 6, 8, 10.",
+      "options": [
+        "6",
+        "5",
+        "7",
+        "8"
+      ],
+      "correct_index": 0,
+      "explanation": "(2+4+6+8+10)/5 = 30/5 = 6.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_149",
+      "text": "Find the median of 3, 7, 1, 5, 9.",
+      "options": [
+        "7",
+        "3",
+        "1",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "Ordered: 1,3,5,7,9 → median = 5.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_150",
+      "text": "Find the mode of 2, 3, 3, 4, 5, 3, 6.",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "2"
+      ],
+      "correct_index": 2,
+      "explanation": "3 occurs most often.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_151",
+      "text": "Find the range of 12, 5, 8, 20, 3.",
+      "options": [
+        "12",
+        "17",
+        "20",
+        "8"
+      ],
+      "correct_index": 1,
+      "explanation": "20 − 3 = 17.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_152",
+      "text": "The mean of 4 numbers is 10. Find their total.",
+      "options": [
+        "40",
+        "10",
+        "14",
+        "25"
+      ],
+      "correct_index": 0,
+      "explanation": "Total = mean × n = 40.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_153",
+      "text": "The variance of a dataset measures:",
+      "options": [
+        "Centre",
+        "Position",
+        "Highest value",
+        "Spread"
+      ],
+      "correct_index": 3,
+      "explanation": "Variance measures how spread out the data is.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_154",
+      "text": "The standard deviation is the:",
+      "options": [
+        "Mean",
+        "Median",
+        "Square root of variance",
+        "Square of variance"
+      ],
+      "correct_index": 2,
+      "explanation": "SD = √variance.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_155",
+      "text": "Find the mean of the distribution: 1(×2), 2(×3), 3(×1).",
+      "options": [
+        "3",
+        "1.83",
+        "2",
+        "1.5"
+      ],
+      "correct_index": 1,
+      "explanation": "Total = 2+6+3 = 11; n = 6; mean = 11/6 ≈ 1.83.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_156",
+      "text": "The median of an even number of data values is the:",
+      "options": [
+        "Average of the two middle values",
+        "Largest value",
+        "First value",
+        "Mode"
+      ],
+      "correct_index": 0,
+      "explanation": "For even n, median = mean of the two middle values.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_157",
+      "text": "A pie chart is best used to show:",
+      "options": [
+        "Trends over time",
+        "Exact values",
+        "Frequency over classes",
+        "Parts of a whole"
+      ],
+      "correct_index": 3,
+      "explanation": "Pie charts display proportions of a whole.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_158",
+      "text": "A fair die is rolled. The probability of getting a 6 is:",
+      "options": [
+        "1/3",
+        "5/6",
+        "1/6",
+        "1/2"
+      ],
+      "correct_index": 2,
+      "explanation": "One favourable outcome out of six.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_159",
+      "text": "A fair coin is tossed. P(head) =",
+      "options": [
+        "0",
+        "1/2",
+        "1/4",
+        "1"
+      ],
+      "correct_index": 1,
+      "explanation": "Two equally likely outcomes.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_160",
+      "text": "A bag has 3 red and 2 blue balls. P(red) =",
+      "options": [
+        "3/5",
+        "2/5",
+        "1/2",
+        "3/2"
+      ],
+      "correct_index": 0,
+      "explanation": "3 red out of 5 total.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_161",
+      "text": "Two fair coins are tossed. P(two heads) =",
+      "options": [
+        "1/2",
+        "3/4",
+        "1",
+        "1/4"
+      ],
+      "correct_index": 3,
+      "explanation": "HH, HT, TH, TT → 1/4.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_162",
+      "text": "Two dice are rolled. P(sum of 7) =",
+      "options": [
+        "1/36",
+        "7/36",
+        "1/6",
+        "1/12"
+      ],
+      "correct_index": 2,
+      "explanation": "6 favourable outcomes (1,6),(2,5)...(6,1) out of 36 = 6/36 = 1/6.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_163",
+      "text": "The probability of an event that must occur is:",
+      "options": [
+        "Impossible",
+        "1",
+        "0",
+        "1/2"
+      ],
+      "correct_index": 1,
+      "explanation": "A certain event has probability 1.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_164",
+      "text": "The probability of an impossible event is:",
+      "options": [
+        "0",
+        "1",
+        "1/2",
+        "Undefined"
+      ],
+      "correct_index": 0,
+      "explanation": "An impossible event has probability 0.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_165",
+      "text": "If P(A) = 0.3, then P(not A) =",
+      "options": [
+        "0.3",
+        "1",
+        "0",
+        "0.7"
+      ],
+      "correct_index": 3,
+      "explanation": "P(not A) = 1 − 0.3 = 0.7.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_166",
+      "text": "In how many ways can 4 people be arranged in a row?",
+      "options": [
+        "12",
+        "4",
+        "24",
+        "16"
+      ],
+      "correct_index": 2,
+      "explanation": "4! = 24.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_167",
+      "text": "Find ⁵P₂ (permutations of 5 taken 2).",
+      "options": [
+        "15",
+        "20",
+        "10",
+        "25"
+      ],
+      "correct_index": 1,
+      "explanation": "5!/(5−2)! = 5×4 = 20.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_168",
+      "text": "Find ⁵C₂ (combinations of 5 taken 2).",
+      "options": [
+        "10",
+        "20",
+        "5",
+        "15"
+      ],
+      "correct_index": 0,
+      "explanation": "5!/(2!3!) = 10.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_169",
+      "text": "In how many ways can a committee of 3 be chosen from 6 people?",
+      "options": [
+        "120",
+        "6",
+        "60",
+        "20"
+      ],
+      "correct_index": 3,
+      "explanation": "⁶C₃ = 20.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_170",
+      "text": "How many 3-digit numbers can be formed from the digits 1, 2, 3, 4 (no repetition)?",
+      "options": [
+        "12",
+        "4",
+        "24",
+        "64"
+      ],
+      "correct_index": 2,
+      "explanation": "4P3 = 4×3×2 = 24.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_171",
+      "text": "Simplify √12 × √3.",
+      "options": [
+        "12",
+        "6",
+        "36",
+        "√36"
+      ],
+      "correct_index": 1,
+      "explanation": "√(12×3) = √36 = 6.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_172",
+      "text": "If x² = 49, then x =",
+      "options": [
+        "±7",
+        "7",
+        "−7",
+        "49"
+      ],
+      "correct_index": 0,
+      "explanation": "x = ±7.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_173",
+      "text": "Solve 2x + 5 = 15.",
+      "options": [
+        "10",
+        "7",
+        "6",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "2x = 10 → x = 5.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_174",
+      "text": "Solve 3(x − 2) = 12.",
+      "options": [
+        "2",
+        "18",
+        "6",
+        "4"
+      ],
+      "correct_index": 2,
+      "explanation": "3x − 6 = 12 → x = 6.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_175",
+      "text": "Simplify (a³)² ÷ a².",
+      "options": [
+        "a⁶",
+        "a⁴",
+        "a³",
+        "a²"
+      ],
+      "correct_index": 1,
+      "explanation": "a⁶ ÷ a² = a⁴.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_176",
+      "text": "If x + y = 10 and x − y = 2, find x.",
+      "options": [
+        "6",
+        "4",
+        "8",
+        "12"
+      ],
+      "correct_index": 0,
+      "explanation": "Adding: 2x = 12 → x = 6.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_177",
+      "text": "Solve x² − 7x + 12 = 0.",
+      "options": [
+        "x = −3, −4",
+        "x = 3, −4",
+        "x = −3, 4",
+        "x = 3, 4"
+      ],
+      "correct_index": 3,
+      "explanation": "(x−3)(x−4) = 0.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_178",
+      "text": "The gradient of the line 3x − 2y = 6 is:",
+      "options": [
+        "2/3",
+        "3",
+        "3/2",
+        "−3/2"
+      ],
+      "correct_index": 2,
+      "explanation": "Rearrange: y = (3/2)x − 3; gradient = 3/2.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_179",
+      "text": "Find the angle marked x if two angles of a triangle are 50° and 60°.",
+      "options": [
+        "110°",
+        "70°",
+        "60°",
+        "80°"
+      ],
+      "correct_index": 1,
+      "explanation": "180 − 50 − 60 = 70°.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_180",
+      "text": "The volume of a cone is (1/3)πr²h. Find V when r = 3, h = 7 (π = 22/7).",
+      "options": [
+        "66 cm³",
+        "198 cm³",
+        "22 cm³",
+        "132 cm³"
+      ],
+      "correct_index": 0,
+      "explanation": "V = 1/3 × 22/7 × 9 × 7 = 66 cm³.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_181",
+      "text": "Express 0.2 recurring (0.222...) as a fraction.",
+      "options": [
+        "1/5",
+        "2/10",
+        "1/4",
+        "2/9"
+      ],
+      "correct_index": 3,
+      "explanation": "Let x = 0.222...; 10x = 2.222...; 9x = 2 → x = 2/9.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_182",
+      "text": "Simplify 5a + 3b − 2a + b.",
+      "options": [
+        "7a + 4b",
+        "3a + 2b",
+        "3a + 4b",
+        "3a + 3b"
+      ],
+      "correct_index": 2,
+      "explanation": "5a − 2a = 3a; 3b + b = 4b.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_183",
+      "text": "Expand 2x(3x + 4).",
+      "options": [
+        "6x² + 4",
+        "6x² + 8x",
+        "6x + 8",
+        "5x² + 8x"
+      ],
+      "correct_index": 1,
+      "explanation": "2x × 3x = 6x²; 2x × 4 = 8x.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_184",
+      "text": "Find the HCF of 12 and 18.",
+      "options": [
+        "6",
+        "3",
+        "12",
+        "36"
+      ],
+      "correct_index": 0,
+      "explanation": "Highest common factor is 6.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_185",
+      "text": "Find the LCM of 6 and 8.",
+      "options": [
+        "12",
+        "48",
+        "16",
+        "24"
+      ],
+      "correct_index": 3,
+      "explanation": "LCM(6,8) = 24.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_186",
+      "text": "Express 240 as a product of its prime factors.",
+      "options": [
+        "2⁴ × 3 × 5²",
+        "2² × 3 × 5",
+        "2⁴ × 3 × 5",
+        "2³ × 3 × 5"
+      ],
+      "correct_index": 2,
+      "explanation": "240 = 16 × 3 × 5 = 2⁴ × 3 × 5.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_187",
+      "text": "Simplify 4/9 ÷ 2/3.",
+      "options": [
+        "2/9",
+        "2/3",
+        "3/2",
+        "8/27"
+      ],
+      "correct_index": 1,
+      "explanation": "4/9 × 3/2 = 12/18 = 2/3.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_188",
+      "text": "What is 20% of 60?",
+      "options": [
+        "12",
+        "6",
+        "20",
+        "30"
+      ],
+      "correct_index": 0,
+      "explanation": "0.2 × 60 = 12.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_189",
+      "text": "If an item costing ₦500 is sold at a 20% discount, the selling price is:",
+      "options": [
+        "₦480",
+        "₦450",
+        "₦100",
+        "₦400"
+      ],
+      "correct_index": 3,
+      "explanation": "Discount = 100; SP = 500 − 100 = 400.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_190",
+      "text": "A number is increased by 25% and becomes 100. The original number is:",
+      "options": [
+        "125",
+        "90",
+        "80",
+        "75"
+      ],
+      "correct_index": 2,
+      "explanation": "1.25x = 100 → x = 80.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_191",
+      "text": "Evaluate log₁₀ 10000.",
+      "options": [
+        "2",
+        "4",
+        "3",
+        "5"
+      ],
+      "correct_index": 1,
+      "explanation": "10⁴ = 10000.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_192",
+      "text": "Simplify 3√2 + 5√2.",
+      "options": [
+        "8√2",
+        "8√4",
+        "15√2",
+        "8"
+      ],
+      "correct_index": 0,
+      "explanation": "Like surds: 8√2.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_193",
+      "text": "If n(U) = 30, n(A) = 18, n(B) = 15 and n(A∩B) = 8, find n(A∪B).",
+      "options": [
+        "33",
+        "17",
+        "22",
+        "25"
+      ],
+      "correct_index": 3,
+      "explanation": "18 + 15 − 8 = 25.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_194",
+      "text": "Solve: 2x − 3 < 5.",
+      "options": [
+        "x > 4",
+        "x < 8",
+        "x < 4",
+        "x < 1"
+      ],
+      "correct_index": 2,
+      "explanation": "2x < 8 → x < 4.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_195",
+      "text": "Find the sum of the first 20 natural numbers.",
+      "options": [
+        "220",
+        "210",
+        "200",
+        "190"
+      ],
+      "correct_index": 1,
+      "explanation": "20×21/2 = 210.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_196",
+      "text": "The nth term of an AP is given by 3n + 2. Find the 10th term.",
+      "options": [
+        "32",
+        "30",
+        "35",
+        "28"
+      ],
+      "correct_index": 0,
+      "explanation": "3×10 + 2 = 32.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_197",
+      "text": "Find the derivative of y = x³ − 2x + 1.",
+      "options": [
+        "3x² − 2x",
+        "x² − 2",
+        "3x² + 1",
+        "3x² − 2"
+      ],
+      "correct_index": 3,
+      "explanation": "dy/dx = 3x² − 2.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_198",
+      "text": "∫ 4 dx =",
+      "options": [
+        "4x² + c",
+        "x + c",
+        "4x + c",
+        "4 + c"
+      ],
+      "correct_index": 2,
+      "explanation": "∫4 dx = 4x + c.",
+      "difficulty": 1
+    },
+    {
+      "id": "mat_199",
+      "text": "Find the median of 8, 3, 9, 2, 5, 7.",
+      "options": [
+        "8",
+        "6",
+        "7",
+        "5"
+      ],
+      "correct_index": 1,
+      "explanation": "Ordered: 2,3,5,7,8,9 → median = (5+7)/2 = 6.",
+      "difficulty": 2
+    },
+    {
+      "id": "mat_200",
+      "text": "A card is drawn from a pack of 52. P(an ace) =",
+      "options": [
+        "1/13",
+        "1/52",
+        "4/52",
+        "1/4"
+      ],
+      "correct_index": 0,
+      "explanation": "4 aces out of 52 = 1/13.",
+      "difficulty": 2
+    }
+  ]
+}

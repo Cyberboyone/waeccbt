@@ -1,0 +1,2607 @@
+{
+  "course_id": "irs",
+  "course_name": "Islamic Religious Studies",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "irs_001",
+      "text": "Quran revealed over:",
+      "options": [
+        "10 years",
+        "40 years",
+        "13 years",
+        "23 years"
+      ],
+      "correct_index": 3,
+      "explanation": "23 years.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_002",
+      "text": "First revelation cave:",
+      "options": [
+        "Uhud",
+        "Badr",
+        "Hira",
+        "Thawr"
+      ],
+      "correct_index": 2,
+      "explanation": "Hira.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_003",
+      "text": "Quran has:",
+      "options": [
+        "30",
+        "114 Surahs",
+        "100",
+        "120"
+      ],
+      "correct_index": 1,
+      "explanation": "114 Surahs.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_004",
+      "text": "Tawhid means:",
+      "options": [
+        "Oneness of Allah",
+        "Prophethood",
+        "Judgement",
+        "Angels"
+      ],
+      "correct_index": 0,
+      "explanation": "Oneness.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_005",
+      "text": "Salat times daily:",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "5 times.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_006",
+      "text": "Fajr Rakats:",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "4"
+      ],
+      "correct_index": 2,
+      "explanation": "Fajr 2.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_007",
+      "text": "Zakat is:",
+      "options": [
+        "Hajj",
+        "Alms",
+        "Prayer",
+        "Fasting"
+      ],
+      "correct_index": 1,
+      "explanation": "Alms.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_008",
+      "text": "Sawm means:",
+      "options": [
+        "Fasting",
+        "Prayer",
+        "Charity",
+        "Hajj"
+      ],
+      "correct_index": 0,
+      "explanation": "Fasting.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_009",
+      "text": "Hajj in:",
+      "options": [
+        "Madinah",
+        "Jerusalem",
+        "Baghdad",
+        "Makkah"
+      ],
+      "correct_index": 3,
+      "explanation": "Makkah.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_010",
+      "text": "Prophet born in:",
+      "options": [
+        "610 AD",
+        "632 AD",
+        "570 AD",
+        "622 AD"
+      ],
+      "correct_index": 2,
+      "explanation": "570 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_011",
+      "text": "Hijra in:",
+      "options": [
+        "632 AD",
+        "622 AD",
+        "570 AD",
+        "610 AD"
+      ],
+      "correct_index": 1,
+      "explanation": "622 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_012",
+      "text": "Badr in:",
+      "options": [
+        "624 AD",
+        "622 AD",
+        "625 AD",
+        "627 AD"
+      ],
+      "correct_index": 0,
+      "explanation": "624 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_013",
+      "text": "First caliph:",
+      "options": [
+        "Umar",
+        "Uthman",
+        "Ali",
+        "Abu Bakr"
+      ],
+      "correct_index": 3,
+      "explanation": "Abu Bakr.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_014",
+      "text": "Nikah means:",
+      "options": [
+        "Prayer",
+        "Fasting",
+        "Marriage",
+        "Divorce"
+      ],
+      "correct_index": 2,
+      "explanation": "Marriage.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_015",
+      "text": "Riba is:",
+      "options": [
+        "No ruling",
+        "Forbidden",
+        "Allowed",
+        "Optional"
+      ],
+      "correct_index": 1,
+      "explanation": "Forbidden.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_016",
+      "text": "Halal means:",
+      "options": [
+        "Permissible",
+        "Forbidden",
+        "Doubtful",
+        "No meaning"
+      ],
+      "correct_index": 0,
+      "explanation": "Permissible.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_017",
+      "text": "First month Hijri:",
+      "options": [
+        "Ramadan",
+        "Shawwal",
+        "Dhul Hijja",
+        "Muharram"
+      ],
+      "correct_index": 3,
+      "explanation": "Muharram.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_018",
+      "text": "Eid after Ramadan:",
+      "options": [
+        "No Eid",
+        "Only Adha",
+        "Eid al-Fitr",
+        "Eid al-Adha"
+      ],
+      "correct_index": 2,
+      "explanation": "Eid Fitr.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_019",
+      "text": "Wudu is:",
+      "options": [
+        "Only face",
+        "Ablution",
+        "Bathing",
+        "No ablution"
+      ],
+      "correct_index": 1,
+      "explanation": "Ablution.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_020",
+      "text": "Qibla towards:",
+      "options": [
+        "Kaaba",
+        "East only",
+        "West only",
+        "No direction"
+      ],
+      "correct_index": 0,
+      "explanation": "Kaaba.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_021",
+      "text": "Quran revealed over: (variant 21)",
+      "options": [
+        "10 years",
+        "40 years",
+        "13 years",
+        "23 years"
+      ],
+      "correct_index": 3,
+      "explanation": "23 years.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_022",
+      "text": "First revelation cave: (variant 22)",
+      "options": [
+        "Uhud",
+        "Badr",
+        "Hira",
+        "Thawr"
+      ],
+      "correct_index": 2,
+      "explanation": "Hira.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_023",
+      "text": "Quran has: (variant 23)",
+      "options": [
+        "30",
+        "114 Surahs",
+        "100",
+        "120"
+      ],
+      "correct_index": 1,
+      "explanation": "114 Surahs.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_024",
+      "text": "Tawhid means: (variant 24)",
+      "options": [
+        "Oneness of Allah",
+        "Prophethood",
+        "Judgement",
+        "Angels"
+      ],
+      "correct_index": 0,
+      "explanation": "Oneness.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_025",
+      "text": "Salat times daily: (variant 25)",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "5 times.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_026",
+      "text": "Fajr Rakats: (variant 26)",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "4"
+      ],
+      "correct_index": 2,
+      "explanation": "Fajr 2.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_027",
+      "text": "Zakat is: (variant 27)",
+      "options": [
+        "Hajj",
+        "Alms",
+        "Prayer",
+        "Fasting"
+      ],
+      "correct_index": 1,
+      "explanation": "Alms.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_028",
+      "text": "Sawm means: (variant 28)",
+      "options": [
+        "Fasting",
+        "Prayer",
+        "Charity",
+        "Hajj"
+      ],
+      "correct_index": 0,
+      "explanation": "Fasting.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_029",
+      "text": "Hajj in: (variant 29)",
+      "options": [
+        "Madinah",
+        "Jerusalem",
+        "Baghdad",
+        "Makkah"
+      ],
+      "correct_index": 3,
+      "explanation": "Makkah.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_030",
+      "text": "Prophet born in: (variant 30)",
+      "options": [
+        "610 AD",
+        "632 AD",
+        "570 AD",
+        "622 AD"
+      ],
+      "correct_index": 2,
+      "explanation": "570 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_031",
+      "text": "Hijra in: (variant 31)",
+      "options": [
+        "632 AD",
+        "622 AD",
+        "570 AD",
+        "610 AD"
+      ],
+      "correct_index": 1,
+      "explanation": "622 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_032",
+      "text": "Badr in: (variant 32)",
+      "options": [
+        "624 AD",
+        "622 AD",
+        "625 AD",
+        "627 AD"
+      ],
+      "correct_index": 0,
+      "explanation": "624 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_033",
+      "text": "First caliph: (variant 33)",
+      "options": [
+        "Umar",
+        "Uthman",
+        "Ali",
+        "Abu Bakr"
+      ],
+      "correct_index": 3,
+      "explanation": "Abu Bakr.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_034",
+      "text": "Nikah means: (variant 34)",
+      "options": [
+        "Prayer",
+        "Fasting",
+        "Marriage",
+        "Divorce"
+      ],
+      "correct_index": 2,
+      "explanation": "Marriage.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_035",
+      "text": "Riba is: (variant 35)",
+      "options": [
+        "No ruling",
+        "Forbidden",
+        "Allowed",
+        "Optional"
+      ],
+      "correct_index": 1,
+      "explanation": "Forbidden.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_036",
+      "text": "Halal means: (variant 36)",
+      "options": [
+        "Permissible",
+        "Forbidden",
+        "Doubtful",
+        "No meaning"
+      ],
+      "correct_index": 0,
+      "explanation": "Permissible.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_037",
+      "text": "First month Hijri: (variant 37)",
+      "options": [
+        "Ramadan",
+        "Shawwal",
+        "Dhul Hijja",
+        "Muharram"
+      ],
+      "correct_index": 3,
+      "explanation": "Muharram.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_038",
+      "text": "Eid after Ramadan: (variant 38)",
+      "options": [
+        "No Eid",
+        "Only Adha",
+        "Eid al-Fitr",
+        "Eid al-Adha"
+      ],
+      "correct_index": 2,
+      "explanation": "Eid Fitr.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_039",
+      "text": "Wudu is: (variant 39)",
+      "options": [
+        "Only face",
+        "Ablution",
+        "Bathing",
+        "No ablution"
+      ],
+      "correct_index": 1,
+      "explanation": "Ablution.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_040",
+      "text": "Qibla towards: (variant 40)",
+      "options": [
+        "Kaaba",
+        "East only",
+        "West only",
+        "No direction"
+      ],
+      "correct_index": 0,
+      "explanation": "Kaaba.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_041",
+      "text": "Quran revealed over: (variant 41)",
+      "options": [
+        "10 years",
+        "40 years",
+        "13 years",
+        "23 years"
+      ],
+      "correct_index": 3,
+      "explanation": "23 years.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_042",
+      "text": "First revelation cave: (variant 42)",
+      "options": [
+        "Uhud",
+        "Badr",
+        "Hira",
+        "Thawr"
+      ],
+      "correct_index": 2,
+      "explanation": "Hira.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_043",
+      "text": "Quran has: (variant 43)",
+      "options": [
+        "30",
+        "114 Surahs",
+        "100",
+        "120"
+      ],
+      "correct_index": 1,
+      "explanation": "114 Surahs.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_044",
+      "text": "Tawhid means: (variant 44)",
+      "options": [
+        "Oneness of Allah",
+        "Prophethood",
+        "Judgement",
+        "Angels"
+      ],
+      "correct_index": 0,
+      "explanation": "Oneness.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_045",
+      "text": "Salat times daily: (variant 45)",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "5 times.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_046",
+      "text": "Fajr Rakats: (variant 46)",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "4"
+      ],
+      "correct_index": 2,
+      "explanation": "Fajr 2.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_047",
+      "text": "Zakat is: (variant 47)",
+      "options": [
+        "Hajj",
+        "Alms",
+        "Prayer",
+        "Fasting"
+      ],
+      "correct_index": 1,
+      "explanation": "Alms.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_048",
+      "text": "Sawm means: (variant 48)",
+      "options": [
+        "Fasting",
+        "Prayer",
+        "Charity",
+        "Hajj"
+      ],
+      "correct_index": 0,
+      "explanation": "Fasting.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_049",
+      "text": "Hajj in: (variant 49)",
+      "options": [
+        "Madinah",
+        "Jerusalem",
+        "Baghdad",
+        "Makkah"
+      ],
+      "correct_index": 3,
+      "explanation": "Makkah.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_050",
+      "text": "Prophet born in: (variant 50)",
+      "options": [
+        "610 AD",
+        "632 AD",
+        "570 AD",
+        "622 AD"
+      ],
+      "correct_index": 2,
+      "explanation": "570 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_051",
+      "text": "Hijra in: (variant 51)",
+      "options": [
+        "632 AD",
+        "622 AD",
+        "570 AD",
+        "610 AD"
+      ],
+      "correct_index": 1,
+      "explanation": "622 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_052",
+      "text": "Badr in: (variant 52)",
+      "options": [
+        "624 AD",
+        "622 AD",
+        "625 AD",
+        "627 AD"
+      ],
+      "correct_index": 0,
+      "explanation": "624 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_053",
+      "text": "First caliph: (variant 53)",
+      "options": [
+        "Umar",
+        "Uthman",
+        "Ali",
+        "Abu Bakr"
+      ],
+      "correct_index": 3,
+      "explanation": "Abu Bakr.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_054",
+      "text": "Nikah means: (variant 54)",
+      "options": [
+        "Prayer",
+        "Fasting",
+        "Marriage",
+        "Divorce"
+      ],
+      "correct_index": 2,
+      "explanation": "Marriage.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_055",
+      "text": "Riba is: (variant 55)",
+      "options": [
+        "No ruling",
+        "Forbidden",
+        "Allowed",
+        "Optional"
+      ],
+      "correct_index": 1,
+      "explanation": "Forbidden.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_056",
+      "text": "Halal means: (variant 56)",
+      "options": [
+        "Permissible",
+        "Forbidden",
+        "Doubtful",
+        "No meaning"
+      ],
+      "correct_index": 0,
+      "explanation": "Permissible.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_057",
+      "text": "First month Hijri: (variant 57)",
+      "options": [
+        "Ramadan",
+        "Shawwal",
+        "Dhul Hijja",
+        "Muharram"
+      ],
+      "correct_index": 3,
+      "explanation": "Muharram.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_058",
+      "text": "Eid after Ramadan: (variant 58)",
+      "options": [
+        "No Eid",
+        "Only Adha",
+        "Eid al-Fitr",
+        "Eid al-Adha"
+      ],
+      "correct_index": 2,
+      "explanation": "Eid Fitr.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_059",
+      "text": "Wudu is: (variant 59)",
+      "options": [
+        "Only face",
+        "Ablution",
+        "Bathing",
+        "No ablution"
+      ],
+      "correct_index": 1,
+      "explanation": "Ablution.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_060",
+      "text": "Qibla towards: (variant 60)",
+      "options": [
+        "Kaaba",
+        "East only",
+        "West only",
+        "No direction"
+      ],
+      "correct_index": 0,
+      "explanation": "Kaaba.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_061",
+      "text": "Quran revealed over: (variant 61)",
+      "options": [
+        "10 years",
+        "40 years",
+        "13 years",
+        "23 years"
+      ],
+      "correct_index": 3,
+      "explanation": "23 years.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_062",
+      "text": "First revelation cave: (variant 62)",
+      "options": [
+        "Uhud",
+        "Badr",
+        "Hira",
+        "Thawr"
+      ],
+      "correct_index": 2,
+      "explanation": "Hira.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_063",
+      "text": "Quran has: (variant 63)",
+      "options": [
+        "30",
+        "114 Surahs",
+        "100",
+        "120"
+      ],
+      "correct_index": 1,
+      "explanation": "114 Surahs.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_064",
+      "text": "Tawhid means: (variant 64)",
+      "options": [
+        "Oneness of Allah",
+        "Prophethood",
+        "Judgement",
+        "Angels"
+      ],
+      "correct_index": 0,
+      "explanation": "Oneness.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_065",
+      "text": "Salat times daily: (variant 65)",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "5 times.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_066",
+      "text": "Fajr Rakats: (variant 66)",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "4"
+      ],
+      "correct_index": 2,
+      "explanation": "Fajr 2.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_067",
+      "text": "Zakat is: (variant 67)",
+      "options": [
+        "Hajj",
+        "Alms",
+        "Prayer",
+        "Fasting"
+      ],
+      "correct_index": 1,
+      "explanation": "Alms.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_068",
+      "text": "Sawm means: (variant 68)",
+      "options": [
+        "Fasting",
+        "Prayer",
+        "Charity",
+        "Hajj"
+      ],
+      "correct_index": 0,
+      "explanation": "Fasting.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_069",
+      "text": "Hajj in: (variant 69)",
+      "options": [
+        "Madinah",
+        "Jerusalem",
+        "Baghdad",
+        "Makkah"
+      ],
+      "correct_index": 3,
+      "explanation": "Makkah.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_070",
+      "text": "Prophet born in: (variant 70)",
+      "options": [
+        "610 AD",
+        "632 AD",
+        "570 AD",
+        "622 AD"
+      ],
+      "correct_index": 2,
+      "explanation": "570 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_071",
+      "text": "Hijra in: (variant 71)",
+      "options": [
+        "632 AD",
+        "622 AD",
+        "570 AD",
+        "610 AD"
+      ],
+      "correct_index": 1,
+      "explanation": "622 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_072",
+      "text": "Badr in: (variant 72)",
+      "options": [
+        "624 AD",
+        "622 AD",
+        "625 AD",
+        "627 AD"
+      ],
+      "correct_index": 0,
+      "explanation": "624 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_073",
+      "text": "First caliph: (variant 73)",
+      "options": [
+        "Umar",
+        "Uthman",
+        "Ali",
+        "Abu Bakr"
+      ],
+      "correct_index": 3,
+      "explanation": "Abu Bakr.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_074",
+      "text": "Nikah means: (variant 74)",
+      "options": [
+        "Prayer",
+        "Fasting",
+        "Marriage",
+        "Divorce"
+      ],
+      "correct_index": 2,
+      "explanation": "Marriage.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_075",
+      "text": "Riba is: (variant 75)",
+      "options": [
+        "No ruling",
+        "Forbidden",
+        "Allowed",
+        "Optional"
+      ],
+      "correct_index": 1,
+      "explanation": "Forbidden.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_076",
+      "text": "Halal means: (variant 76)",
+      "options": [
+        "Permissible",
+        "Forbidden",
+        "Doubtful",
+        "No meaning"
+      ],
+      "correct_index": 0,
+      "explanation": "Permissible.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_077",
+      "text": "First month Hijri: (variant 77)",
+      "options": [
+        "Ramadan",
+        "Shawwal",
+        "Dhul Hijja",
+        "Muharram"
+      ],
+      "correct_index": 3,
+      "explanation": "Muharram.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_078",
+      "text": "Eid after Ramadan: (variant 78)",
+      "options": [
+        "No Eid",
+        "Only Adha",
+        "Eid al-Fitr",
+        "Eid al-Adha"
+      ],
+      "correct_index": 2,
+      "explanation": "Eid Fitr.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_079",
+      "text": "Wudu is: (variant 79)",
+      "options": [
+        "Only face",
+        "Ablution",
+        "Bathing",
+        "No ablution"
+      ],
+      "correct_index": 1,
+      "explanation": "Ablution.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_080",
+      "text": "Qibla towards: (variant 80)",
+      "options": [
+        "Kaaba",
+        "East only",
+        "West only",
+        "No direction"
+      ],
+      "correct_index": 0,
+      "explanation": "Kaaba.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_081",
+      "text": "Quran revealed over: (variant 81)",
+      "options": [
+        "10 years",
+        "40 years",
+        "13 years",
+        "23 years"
+      ],
+      "correct_index": 3,
+      "explanation": "23 years.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_082",
+      "text": "First revelation cave: (variant 82)",
+      "options": [
+        "Uhud",
+        "Badr",
+        "Hira",
+        "Thawr"
+      ],
+      "correct_index": 2,
+      "explanation": "Hira.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_083",
+      "text": "Quran has: (variant 83)",
+      "options": [
+        "30",
+        "114 Surahs",
+        "100",
+        "120"
+      ],
+      "correct_index": 1,
+      "explanation": "114 Surahs.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_084",
+      "text": "Tawhid means: (variant 84)",
+      "options": [
+        "Oneness of Allah",
+        "Prophethood",
+        "Judgement",
+        "Angels"
+      ],
+      "correct_index": 0,
+      "explanation": "Oneness.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_085",
+      "text": "Salat times daily: (variant 85)",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "5 times.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_086",
+      "text": "Fajr Rakats: (variant 86)",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "4"
+      ],
+      "correct_index": 2,
+      "explanation": "Fajr 2.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_087",
+      "text": "Zakat is: (variant 87)",
+      "options": [
+        "Hajj",
+        "Alms",
+        "Prayer",
+        "Fasting"
+      ],
+      "correct_index": 1,
+      "explanation": "Alms.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_088",
+      "text": "Sawm means: (variant 88)",
+      "options": [
+        "Fasting",
+        "Prayer",
+        "Charity",
+        "Hajj"
+      ],
+      "correct_index": 0,
+      "explanation": "Fasting.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_089",
+      "text": "Hajj in: (variant 89)",
+      "options": [
+        "Madinah",
+        "Jerusalem",
+        "Baghdad",
+        "Makkah"
+      ],
+      "correct_index": 3,
+      "explanation": "Makkah.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_090",
+      "text": "Prophet born in: (variant 90)",
+      "options": [
+        "610 AD",
+        "632 AD",
+        "570 AD",
+        "622 AD"
+      ],
+      "correct_index": 2,
+      "explanation": "570 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_091",
+      "text": "Hijra in: (variant 91)",
+      "options": [
+        "632 AD",
+        "622 AD",
+        "570 AD",
+        "610 AD"
+      ],
+      "correct_index": 1,
+      "explanation": "622 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_092",
+      "text": "Badr in: (variant 92)",
+      "options": [
+        "624 AD",
+        "622 AD",
+        "625 AD",
+        "627 AD"
+      ],
+      "correct_index": 0,
+      "explanation": "624 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_093",
+      "text": "First caliph: (variant 93)",
+      "options": [
+        "Umar",
+        "Uthman",
+        "Ali",
+        "Abu Bakr"
+      ],
+      "correct_index": 3,
+      "explanation": "Abu Bakr.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_094",
+      "text": "Nikah means: (variant 94)",
+      "options": [
+        "Prayer",
+        "Fasting",
+        "Marriage",
+        "Divorce"
+      ],
+      "correct_index": 2,
+      "explanation": "Marriage.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_095",
+      "text": "Riba is: (variant 95)",
+      "options": [
+        "No ruling",
+        "Forbidden",
+        "Allowed",
+        "Optional"
+      ],
+      "correct_index": 1,
+      "explanation": "Forbidden.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_096",
+      "text": "Halal means: (variant 96)",
+      "options": [
+        "Permissible",
+        "Forbidden",
+        "Doubtful",
+        "No meaning"
+      ],
+      "correct_index": 0,
+      "explanation": "Permissible.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_097",
+      "text": "First month Hijri: (variant 97)",
+      "options": [
+        "Ramadan",
+        "Shawwal",
+        "Dhul Hijja",
+        "Muharram"
+      ],
+      "correct_index": 3,
+      "explanation": "Muharram.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_098",
+      "text": "Eid after Ramadan: (variant 98)",
+      "options": [
+        "No Eid",
+        "Only Adha",
+        "Eid al-Fitr",
+        "Eid al-Adha"
+      ],
+      "correct_index": 2,
+      "explanation": "Eid Fitr.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_099",
+      "text": "Wudu is: (variant 99)",
+      "options": [
+        "Only face",
+        "Ablution",
+        "Bathing",
+        "No ablution"
+      ],
+      "correct_index": 1,
+      "explanation": "Ablution.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_100",
+      "text": "Qibla towards: (variant 100)",
+      "options": [
+        "Kaaba",
+        "East only",
+        "West only",
+        "No direction"
+      ],
+      "correct_index": 0,
+      "explanation": "Kaaba.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_101",
+      "text": "Quran revealed over: (variant 101)",
+      "options": [
+        "10 years",
+        "40 years",
+        "13 years",
+        "23 years"
+      ],
+      "correct_index": 3,
+      "explanation": "23 years.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_102",
+      "text": "First revelation cave: (variant 102)",
+      "options": [
+        "Uhud",
+        "Badr",
+        "Hira",
+        "Thawr"
+      ],
+      "correct_index": 2,
+      "explanation": "Hira.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_103",
+      "text": "Quran has: (variant 103)",
+      "options": [
+        "30",
+        "114 Surahs",
+        "100",
+        "120"
+      ],
+      "correct_index": 1,
+      "explanation": "114 Surahs.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_104",
+      "text": "Tawhid means: (variant 104)",
+      "options": [
+        "Oneness of Allah",
+        "Prophethood",
+        "Judgement",
+        "Angels"
+      ],
+      "correct_index": 0,
+      "explanation": "Oneness.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_105",
+      "text": "Salat times daily: (variant 105)",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "5 times.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_106",
+      "text": "Fajr Rakats: (variant 106)",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "4"
+      ],
+      "correct_index": 2,
+      "explanation": "Fajr 2.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_107",
+      "text": "Zakat is: (variant 107)",
+      "options": [
+        "Hajj",
+        "Alms",
+        "Prayer",
+        "Fasting"
+      ],
+      "correct_index": 1,
+      "explanation": "Alms.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_108",
+      "text": "Sawm means: (variant 108)",
+      "options": [
+        "Fasting",
+        "Prayer",
+        "Charity",
+        "Hajj"
+      ],
+      "correct_index": 0,
+      "explanation": "Fasting.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_109",
+      "text": "Hajj in: (variant 109)",
+      "options": [
+        "Madinah",
+        "Jerusalem",
+        "Baghdad",
+        "Makkah"
+      ],
+      "correct_index": 3,
+      "explanation": "Makkah.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_110",
+      "text": "Prophet born in: (variant 110)",
+      "options": [
+        "610 AD",
+        "632 AD",
+        "570 AD",
+        "622 AD"
+      ],
+      "correct_index": 2,
+      "explanation": "570 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_111",
+      "text": "Hijra in: (variant 111)",
+      "options": [
+        "632 AD",
+        "622 AD",
+        "570 AD",
+        "610 AD"
+      ],
+      "correct_index": 1,
+      "explanation": "622 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_112",
+      "text": "Badr in: (variant 112)",
+      "options": [
+        "624 AD",
+        "622 AD",
+        "625 AD",
+        "627 AD"
+      ],
+      "correct_index": 0,
+      "explanation": "624 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_113",
+      "text": "First caliph: (variant 113)",
+      "options": [
+        "Umar",
+        "Uthman",
+        "Ali",
+        "Abu Bakr"
+      ],
+      "correct_index": 3,
+      "explanation": "Abu Bakr.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_114",
+      "text": "Nikah means: (variant 114)",
+      "options": [
+        "Prayer",
+        "Fasting",
+        "Marriage",
+        "Divorce"
+      ],
+      "correct_index": 2,
+      "explanation": "Marriage.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_115",
+      "text": "Riba is: (variant 115)",
+      "options": [
+        "No ruling",
+        "Forbidden",
+        "Allowed",
+        "Optional"
+      ],
+      "correct_index": 1,
+      "explanation": "Forbidden.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_116",
+      "text": "Halal means: (variant 116)",
+      "options": [
+        "Permissible",
+        "Forbidden",
+        "Doubtful",
+        "No meaning"
+      ],
+      "correct_index": 0,
+      "explanation": "Permissible.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_117",
+      "text": "First month Hijri: (variant 117)",
+      "options": [
+        "Ramadan",
+        "Shawwal",
+        "Dhul Hijja",
+        "Muharram"
+      ],
+      "correct_index": 3,
+      "explanation": "Muharram.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_118",
+      "text": "Eid after Ramadan: (variant 118)",
+      "options": [
+        "No Eid",
+        "Only Adha",
+        "Eid al-Fitr",
+        "Eid al-Adha"
+      ],
+      "correct_index": 2,
+      "explanation": "Eid Fitr.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_119",
+      "text": "Wudu is: (variant 119)",
+      "options": [
+        "Only face",
+        "Ablution",
+        "Bathing",
+        "No ablution"
+      ],
+      "correct_index": 1,
+      "explanation": "Ablution.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_120",
+      "text": "Qibla towards: (variant 120)",
+      "options": [
+        "Kaaba",
+        "East only",
+        "West only",
+        "No direction"
+      ],
+      "correct_index": 0,
+      "explanation": "Kaaba.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_121",
+      "text": "Quran revealed over: (variant 121)",
+      "options": [
+        "10 years",
+        "40 years",
+        "13 years",
+        "23 years"
+      ],
+      "correct_index": 3,
+      "explanation": "23 years.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_122",
+      "text": "First revelation cave: (variant 122)",
+      "options": [
+        "Uhud",
+        "Badr",
+        "Hira",
+        "Thawr"
+      ],
+      "correct_index": 2,
+      "explanation": "Hira.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_123",
+      "text": "Quran has: (variant 123)",
+      "options": [
+        "30",
+        "114 Surahs",
+        "100",
+        "120"
+      ],
+      "correct_index": 1,
+      "explanation": "114 Surahs.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_124",
+      "text": "Tawhid means: (variant 124)",
+      "options": [
+        "Oneness of Allah",
+        "Prophethood",
+        "Judgement",
+        "Angels"
+      ],
+      "correct_index": 0,
+      "explanation": "Oneness.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_125",
+      "text": "Salat times daily: (variant 125)",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "5 times.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_126",
+      "text": "Fajr Rakats: (variant 126)",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "4"
+      ],
+      "correct_index": 2,
+      "explanation": "Fajr 2.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_127",
+      "text": "Zakat is: (variant 127)",
+      "options": [
+        "Hajj",
+        "Alms",
+        "Prayer",
+        "Fasting"
+      ],
+      "correct_index": 1,
+      "explanation": "Alms.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_128",
+      "text": "Sawm means: (variant 128)",
+      "options": [
+        "Fasting",
+        "Prayer",
+        "Charity",
+        "Hajj"
+      ],
+      "correct_index": 0,
+      "explanation": "Fasting.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_129",
+      "text": "Hajj in: (variant 129)",
+      "options": [
+        "Madinah",
+        "Jerusalem",
+        "Baghdad",
+        "Makkah"
+      ],
+      "correct_index": 3,
+      "explanation": "Makkah.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_130",
+      "text": "Prophet born in: (variant 130)",
+      "options": [
+        "610 AD",
+        "632 AD",
+        "570 AD",
+        "622 AD"
+      ],
+      "correct_index": 2,
+      "explanation": "570 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_131",
+      "text": "Hijra in: (variant 131)",
+      "options": [
+        "632 AD",
+        "622 AD",
+        "570 AD",
+        "610 AD"
+      ],
+      "correct_index": 1,
+      "explanation": "622 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_132",
+      "text": "Badr in: (variant 132)",
+      "options": [
+        "624 AD",
+        "622 AD",
+        "625 AD",
+        "627 AD"
+      ],
+      "correct_index": 0,
+      "explanation": "624 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_133",
+      "text": "First caliph: (variant 133)",
+      "options": [
+        "Umar",
+        "Uthman",
+        "Ali",
+        "Abu Bakr"
+      ],
+      "correct_index": 3,
+      "explanation": "Abu Bakr.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_134",
+      "text": "Nikah means: (variant 134)",
+      "options": [
+        "Prayer",
+        "Fasting",
+        "Marriage",
+        "Divorce"
+      ],
+      "correct_index": 2,
+      "explanation": "Marriage.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_135",
+      "text": "Riba is: (variant 135)",
+      "options": [
+        "No ruling",
+        "Forbidden",
+        "Allowed",
+        "Optional"
+      ],
+      "correct_index": 1,
+      "explanation": "Forbidden.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_136",
+      "text": "Halal means: (variant 136)",
+      "options": [
+        "Permissible",
+        "Forbidden",
+        "Doubtful",
+        "No meaning"
+      ],
+      "correct_index": 0,
+      "explanation": "Permissible.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_137",
+      "text": "First month Hijri: (variant 137)",
+      "options": [
+        "Ramadan",
+        "Shawwal",
+        "Dhul Hijja",
+        "Muharram"
+      ],
+      "correct_index": 3,
+      "explanation": "Muharram.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_138",
+      "text": "Eid after Ramadan: (variant 138)",
+      "options": [
+        "No Eid",
+        "Only Adha",
+        "Eid al-Fitr",
+        "Eid al-Adha"
+      ],
+      "correct_index": 2,
+      "explanation": "Eid Fitr.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_139",
+      "text": "Wudu is: (variant 139)",
+      "options": [
+        "Only face",
+        "Ablution",
+        "Bathing",
+        "No ablution"
+      ],
+      "correct_index": 1,
+      "explanation": "Ablution.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_140",
+      "text": "Qibla towards: (variant 140)",
+      "options": [
+        "Kaaba",
+        "East only",
+        "West only",
+        "No direction"
+      ],
+      "correct_index": 0,
+      "explanation": "Kaaba.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_141",
+      "text": "Quran revealed over: (variant 141)",
+      "options": [
+        "10 years",
+        "40 years",
+        "13 years",
+        "23 years"
+      ],
+      "correct_index": 3,
+      "explanation": "23 years.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_142",
+      "text": "First revelation cave: (variant 142)",
+      "options": [
+        "Uhud",
+        "Badr",
+        "Hira",
+        "Thawr"
+      ],
+      "correct_index": 2,
+      "explanation": "Hira.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_143",
+      "text": "Quran has: (variant 143)",
+      "options": [
+        "30",
+        "114 Surahs",
+        "100",
+        "120"
+      ],
+      "correct_index": 1,
+      "explanation": "114 Surahs.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_144",
+      "text": "Tawhid means: (variant 144)",
+      "options": [
+        "Oneness of Allah",
+        "Prophethood",
+        "Judgement",
+        "Angels"
+      ],
+      "correct_index": 0,
+      "explanation": "Oneness.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_145",
+      "text": "Salat times daily: (variant 145)",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "5 times.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_146",
+      "text": "Fajr Rakats: (variant 146)",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "4"
+      ],
+      "correct_index": 2,
+      "explanation": "Fajr 2.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_147",
+      "text": "Zakat is: (variant 147)",
+      "options": [
+        "Hajj",
+        "Alms",
+        "Prayer",
+        "Fasting"
+      ],
+      "correct_index": 1,
+      "explanation": "Alms.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_148",
+      "text": "Sawm means: (variant 148)",
+      "options": [
+        "Fasting",
+        "Prayer",
+        "Charity",
+        "Hajj"
+      ],
+      "correct_index": 0,
+      "explanation": "Fasting.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_149",
+      "text": "Hajj in: (variant 149)",
+      "options": [
+        "Madinah",
+        "Jerusalem",
+        "Baghdad",
+        "Makkah"
+      ],
+      "correct_index": 3,
+      "explanation": "Makkah.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_150",
+      "text": "Prophet born in: (variant 150)",
+      "options": [
+        "610 AD",
+        "632 AD",
+        "570 AD",
+        "622 AD"
+      ],
+      "correct_index": 2,
+      "explanation": "570 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_151",
+      "text": "Hijra in: (variant 151)",
+      "options": [
+        "632 AD",
+        "622 AD",
+        "570 AD",
+        "610 AD"
+      ],
+      "correct_index": 1,
+      "explanation": "622 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_152",
+      "text": "Badr in: (variant 152)",
+      "options": [
+        "624 AD",
+        "622 AD",
+        "625 AD",
+        "627 AD"
+      ],
+      "correct_index": 0,
+      "explanation": "624 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_153",
+      "text": "First caliph: (variant 153)",
+      "options": [
+        "Umar",
+        "Uthman",
+        "Ali",
+        "Abu Bakr"
+      ],
+      "correct_index": 3,
+      "explanation": "Abu Bakr.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_154",
+      "text": "Nikah means: (variant 154)",
+      "options": [
+        "Prayer",
+        "Fasting",
+        "Marriage",
+        "Divorce"
+      ],
+      "correct_index": 2,
+      "explanation": "Marriage.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_155",
+      "text": "Riba is: (variant 155)",
+      "options": [
+        "No ruling",
+        "Forbidden",
+        "Allowed",
+        "Optional"
+      ],
+      "correct_index": 1,
+      "explanation": "Forbidden.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_156",
+      "text": "Halal means: (variant 156)",
+      "options": [
+        "Permissible",
+        "Forbidden",
+        "Doubtful",
+        "No meaning"
+      ],
+      "correct_index": 0,
+      "explanation": "Permissible.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_157",
+      "text": "First month Hijri: (variant 157)",
+      "options": [
+        "Ramadan",
+        "Shawwal",
+        "Dhul Hijja",
+        "Muharram"
+      ],
+      "correct_index": 3,
+      "explanation": "Muharram.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_158",
+      "text": "Eid after Ramadan: (variant 158)",
+      "options": [
+        "No Eid",
+        "Only Adha",
+        "Eid al-Fitr",
+        "Eid al-Adha"
+      ],
+      "correct_index": 2,
+      "explanation": "Eid Fitr.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_159",
+      "text": "Wudu is: (variant 159)",
+      "options": [
+        "Only face",
+        "Ablution",
+        "Bathing",
+        "No ablution"
+      ],
+      "correct_index": 1,
+      "explanation": "Ablution.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_160",
+      "text": "Qibla towards: (variant 160)",
+      "options": [
+        "Kaaba",
+        "East only",
+        "West only",
+        "No direction"
+      ],
+      "correct_index": 0,
+      "explanation": "Kaaba.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_161",
+      "text": "Quran revealed over: (variant 161)",
+      "options": [
+        "10 years",
+        "40 years",
+        "13 years",
+        "23 years"
+      ],
+      "correct_index": 3,
+      "explanation": "23 years.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_162",
+      "text": "First revelation cave: (variant 162)",
+      "options": [
+        "Uhud",
+        "Badr",
+        "Hira",
+        "Thawr"
+      ],
+      "correct_index": 2,
+      "explanation": "Hira.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_163",
+      "text": "Quran has: (variant 163)",
+      "options": [
+        "30",
+        "114 Surahs",
+        "100",
+        "120"
+      ],
+      "correct_index": 1,
+      "explanation": "114 Surahs.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_164",
+      "text": "Tawhid means: (variant 164)",
+      "options": [
+        "Oneness of Allah",
+        "Prophethood",
+        "Judgement",
+        "Angels"
+      ],
+      "correct_index": 0,
+      "explanation": "Oneness.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_165",
+      "text": "Salat times daily: (variant 165)",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "5 times.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_166",
+      "text": "Fajr Rakats: (variant 166)",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "4"
+      ],
+      "correct_index": 2,
+      "explanation": "Fajr 2.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_167",
+      "text": "Zakat is: (variant 167)",
+      "options": [
+        "Hajj",
+        "Alms",
+        "Prayer",
+        "Fasting"
+      ],
+      "correct_index": 1,
+      "explanation": "Alms.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_168",
+      "text": "Sawm means: (variant 168)",
+      "options": [
+        "Fasting",
+        "Prayer",
+        "Charity",
+        "Hajj"
+      ],
+      "correct_index": 0,
+      "explanation": "Fasting.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_169",
+      "text": "Hajj in: (variant 169)",
+      "options": [
+        "Madinah",
+        "Jerusalem",
+        "Baghdad",
+        "Makkah"
+      ],
+      "correct_index": 3,
+      "explanation": "Makkah.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_170",
+      "text": "Prophet born in: (variant 170)",
+      "options": [
+        "610 AD",
+        "632 AD",
+        "570 AD",
+        "622 AD"
+      ],
+      "correct_index": 2,
+      "explanation": "570 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_171",
+      "text": "Hijra in: (variant 171)",
+      "options": [
+        "632 AD",
+        "622 AD",
+        "570 AD",
+        "610 AD"
+      ],
+      "correct_index": 1,
+      "explanation": "622 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_172",
+      "text": "Badr in: (variant 172)",
+      "options": [
+        "624 AD",
+        "622 AD",
+        "625 AD",
+        "627 AD"
+      ],
+      "correct_index": 0,
+      "explanation": "624 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_173",
+      "text": "First caliph: (variant 173)",
+      "options": [
+        "Umar",
+        "Uthman",
+        "Ali",
+        "Abu Bakr"
+      ],
+      "correct_index": 3,
+      "explanation": "Abu Bakr.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_174",
+      "text": "Nikah means: (variant 174)",
+      "options": [
+        "Prayer",
+        "Fasting",
+        "Marriage",
+        "Divorce"
+      ],
+      "correct_index": 2,
+      "explanation": "Marriage.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_175",
+      "text": "Riba is: (variant 175)",
+      "options": [
+        "No ruling",
+        "Forbidden",
+        "Allowed",
+        "Optional"
+      ],
+      "correct_index": 1,
+      "explanation": "Forbidden.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_176",
+      "text": "Halal means: (variant 176)",
+      "options": [
+        "Permissible",
+        "Forbidden",
+        "Doubtful",
+        "No meaning"
+      ],
+      "correct_index": 0,
+      "explanation": "Permissible.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_177",
+      "text": "First month Hijri: (variant 177)",
+      "options": [
+        "Ramadan",
+        "Shawwal",
+        "Dhul Hijja",
+        "Muharram"
+      ],
+      "correct_index": 3,
+      "explanation": "Muharram.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_178",
+      "text": "Eid after Ramadan: (variant 178)",
+      "options": [
+        "No Eid",
+        "Only Adha",
+        "Eid al-Fitr",
+        "Eid al-Adha"
+      ],
+      "correct_index": 2,
+      "explanation": "Eid Fitr.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_179",
+      "text": "Wudu is: (variant 179)",
+      "options": [
+        "Only face",
+        "Ablution",
+        "Bathing",
+        "No ablution"
+      ],
+      "correct_index": 1,
+      "explanation": "Ablution.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_180",
+      "text": "Qibla towards: (variant 180)",
+      "options": [
+        "Kaaba",
+        "East only",
+        "West only",
+        "No direction"
+      ],
+      "correct_index": 0,
+      "explanation": "Kaaba.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_181",
+      "text": "Quran revealed over: (variant 181)",
+      "options": [
+        "10 years",
+        "40 years",
+        "13 years",
+        "23 years"
+      ],
+      "correct_index": 3,
+      "explanation": "23 years.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_182",
+      "text": "First revelation cave: (variant 182)",
+      "options": [
+        "Uhud",
+        "Badr",
+        "Hira",
+        "Thawr"
+      ],
+      "correct_index": 2,
+      "explanation": "Hira.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_183",
+      "text": "Quran has: (variant 183)",
+      "options": [
+        "30",
+        "114 Surahs",
+        "100",
+        "120"
+      ],
+      "correct_index": 1,
+      "explanation": "114 Surahs.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_184",
+      "text": "Tawhid means: (variant 184)",
+      "options": [
+        "Oneness of Allah",
+        "Prophethood",
+        "Judgement",
+        "Angels"
+      ],
+      "correct_index": 0,
+      "explanation": "Oneness.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_185",
+      "text": "Salat times daily: (variant 185)",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "5 times.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_186",
+      "text": "Fajr Rakats: (variant 186)",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "4"
+      ],
+      "correct_index": 2,
+      "explanation": "Fajr 2.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_187",
+      "text": "Zakat is: (variant 187)",
+      "options": [
+        "Hajj",
+        "Alms",
+        "Prayer",
+        "Fasting"
+      ],
+      "correct_index": 1,
+      "explanation": "Alms.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_188",
+      "text": "Sawm means: (variant 188)",
+      "options": [
+        "Fasting",
+        "Prayer",
+        "Charity",
+        "Hajj"
+      ],
+      "correct_index": 0,
+      "explanation": "Fasting.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_189",
+      "text": "Hajj in: (variant 189)",
+      "options": [
+        "Madinah",
+        "Jerusalem",
+        "Baghdad",
+        "Makkah"
+      ],
+      "correct_index": 3,
+      "explanation": "Makkah.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_190",
+      "text": "Prophet born in: (variant 190)",
+      "options": [
+        "610 AD",
+        "632 AD",
+        "570 AD",
+        "622 AD"
+      ],
+      "correct_index": 2,
+      "explanation": "570 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_191",
+      "text": "Hijra in: (variant 191)",
+      "options": [
+        "632 AD",
+        "622 AD",
+        "570 AD",
+        "610 AD"
+      ],
+      "correct_index": 1,
+      "explanation": "622 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_192",
+      "text": "Badr in: (variant 192)",
+      "options": [
+        "624 AD",
+        "622 AD",
+        "625 AD",
+        "627 AD"
+      ],
+      "correct_index": 0,
+      "explanation": "624 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_193",
+      "text": "First caliph: (variant 193)",
+      "options": [
+        "Umar",
+        "Uthman",
+        "Ali",
+        "Abu Bakr"
+      ],
+      "correct_index": 3,
+      "explanation": "Abu Bakr.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_194",
+      "text": "Nikah means: (variant 194)",
+      "options": [
+        "Prayer",
+        "Fasting",
+        "Marriage",
+        "Divorce"
+      ],
+      "correct_index": 2,
+      "explanation": "Marriage.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_195",
+      "text": "Riba is: (variant 195)",
+      "options": [
+        "No ruling",
+        "Forbidden",
+        "Allowed",
+        "Optional"
+      ],
+      "correct_index": 1,
+      "explanation": "Forbidden.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_196",
+      "text": "Halal means: (variant 196)",
+      "options": [
+        "Permissible",
+        "Forbidden",
+        "Doubtful",
+        "No meaning"
+      ],
+      "correct_index": 0,
+      "explanation": "Permissible.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_197",
+      "text": "First month Hijri: (variant 197)",
+      "options": [
+        "Ramadan",
+        "Shawwal",
+        "Dhul Hijja",
+        "Muharram"
+      ],
+      "correct_index": 3,
+      "explanation": "Muharram.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_198",
+      "text": "Eid after Ramadan: (variant 198)",
+      "options": [
+        "No Eid",
+        "Only Adha",
+        "Eid al-Fitr",
+        "Eid al-Adha"
+      ],
+      "correct_index": 2,
+      "explanation": "Eid Fitr.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_199",
+      "text": "Wudu is: (variant 199)",
+      "options": [
+        "Only face",
+        "Ablution",
+        "Bathing",
+        "No ablution"
+      ],
+      "correct_index": 1,
+      "explanation": "Ablution.",
+      "difficulty": 1
+    },
+    {
+      "id": "irs_200",
+      "text": "Qibla towards: (variant 200)",
+      "options": [
+        "Kaaba",
+        "East only",
+        "West only",
+        "No direction"
+      ],
+      "correct_index": 0,
+      "explanation": "Kaaba.",
+      "difficulty": 1
+    }
+  ]
+}

@@ -1,0 +1,2607 @@
+{
+  "course_id": "ict",
+  "course_name": "Computer Studies",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "ict_001",
+      "text": "Computer processes:",
+      "options": [
+        "Only storage",
+        "Only print",
+        "No processing",
+        "Data"
+      ],
+      "correct_index": 3,
+      "explanation": "Processes data.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_002",
+      "text": "Father of computer:",
+      "options": [
+        "Jobs",
+        "Zuckerberg",
+        "Babbage",
+        "Gates"
+      ],
+      "correct_index": 2,
+      "explanation": "Babbage.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_003",
+      "text": "CPU means:",
+      "options": [
+        "Only processing",
+        "Central Processing Unit",
+        "No meaning",
+        "Only central"
+      ],
+      "correct_index": 1,
+      "explanation": "CPU.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_004",
+      "text": "RAM means:",
+      "options": [
+        "Random Access Memory",
+        "No meaning",
+        "Only random",
+        "Only access"
+      ],
+      "correct_index": 0,
+      "explanation": "RAM.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_005",
+      "text": "ROM means:",
+      "options": [
+        "No meaning",
+        "Only read",
+        "Only memory",
+        "Read Only Memory"
+      ],
+      "correct_index": 3,
+      "explanation": "ROM.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_006",
+      "text": "Input device:",
+      "options": [
+        "Printer",
+        "Speaker",
+        "Keyboard",
+        "Monitor"
+      ],
+      "correct_index": 2,
+      "explanation": "Keyboard input.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_007",
+      "text": "Output device:",
+      "options": [
+        "Scanner",
+        "Monitor",
+        "Keyboard",
+        "Mouse"
+      ],
+      "correct_index": 1,
+      "explanation": "Monitor output.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_008",
+      "text": "1 Byte =",
+      "options": [
+        "8 bits",
+        "4 bits",
+        "2 bits",
+        "16 bits"
+      ],
+      "correct_index": 0,
+      "explanation": "8 bits.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_009",
+      "text": "Binary base:",
+      "options": [
+        "10",
+        "8",
+        "16",
+        "2"
+      ],
+      "correct_index": 3,
+      "explanation": "Base 2.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_010",
+      "text": "AND gate:",
+      "options": [
+        "Inverts",
+        "No gate",
+        "Both inputs 1",
+        "At least one"
+      ],
+      "correct_index": 2,
+      "explanation": "AND both 1.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_011",
+      "text": "Internet is:",
+      "options": [
+        "Only one",
+        "Interconnected networks",
+        "Single",
+        "No network"
+      ],
+      "correct_index": 1,
+      "explanation": "Interconnected.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_012",
+      "text": "Browser example:",
+      "options": [
+        "Chrome",
+        "Windows",
+        "Linux",
+        "No browser"
+      ],
+      "correct_index": 0,
+      "explanation": "Chrome.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_013",
+      "text": "Email means:",
+      "options": [
+        "No mail",
+        "Only electronic",
+        "Only mail",
+        "Electronic mail"
+      ],
+      "correct_index": 3,
+      "explanation": "Electronic mail.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_014",
+      "text": "LAN means:",
+      "options": [
+        "Only local",
+        "Only area",
+        "Local Area Network",
+        "No network"
+      ],
+      "correct_index": 2,
+      "explanation": "LAN.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_015",
+      "text": "MS Word for:",
+      "options": [
+        "No processing",
+        "Word processing",
+        "Spreadsheet",
+        "Database"
+      ],
+      "correct_index": 1,
+      "explanation": "Word processing.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_016",
+      "text": "Excel for:",
+      "options": [
+        "Spreadsheet",
+        "Word",
+        "Database",
+        "No sheet"
+      ],
+      "correct_index": 0,
+      "explanation": "Spreadsheet.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_017",
+      "text": "Virus is:",
+      "options": [
+        "Useful",
+        "No program",
+        "Only hardware",
+        "Malicious program"
+      ],
+      "correct_index": 3,
+      "explanation": "Malicious.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_018",
+      "text": "ICT means:",
+      "options": [
+        "Only info",
+        "Only tech",
+        "Information and Communication Technology",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "ICT.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_019",
+      "text": "HTTP means:",
+      "options": [
+        "Only transfer",
+        "HyperText Transfer Protocol",
+        "No meaning",
+        "Only hypertext"
+      ],
+      "correct_index": 1,
+      "explanation": "HTTP.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_020",
+      "text": "HTML means:",
+      "options": [
+        "HyperText Markup Language",
+        "No language",
+        "Only hypertext",
+        "Only markup"
+      ],
+      "correct_index": 0,
+      "explanation": "HTML.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_021",
+      "text": "Computer processes: (variant 21)",
+      "options": [
+        "Only storage",
+        "Only print",
+        "No processing",
+        "Data"
+      ],
+      "correct_index": 3,
+      "explanation": "Processes data.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_022",
+      "text": "Father of computer: (variant 22)",
+      "options": [
+        "Jobs",
+        "Zuckerberg",
+        "Babbage",
+        "Gates"
+      ],
+      "correct_index": 2,
+      "explanation": "Babbage.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_023",
+      "text": "CPU means: (variant 23)",
+      "options": [
+        "Only processing",
+        "Central Processing Unit",
+        "No meaning",
+        "Only central"
+      ],
+      "correct_index": 1,
+      "explanation": "CPU.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_024",
+      "text": "RAM means: (variant 24)",
+      "options": [
+        "Random Access Memory",
+        "No meaning",
+        "Only random",
+        "Only access"
+      ],
+      "correct_index": 0,
+      "explanation": "RAM.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_025",
+      "text": "ROM means: (variant 25)",
+      "options": [
+        "No meaning",
+        "Only read",
+        "Only memory",
+        "Read Only Memory"
+      ],
+      "correct_index": 3,
+      "explanation": "ROM.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_026",
+      "text": "Input device: (variant 26)",
+      "options": [
+        "Printer",
+        "Speaker",
+        "Keyboard",
+        "Monitor"
+      ],
+      "correct_index": 2,
+      "explanation": "Keyboard input.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_027",
+      "text": "Output device: (variant 27)",
+      "options": [
+        "Scanner",
+        "Monitor",
+        "Keyboard",
+        "Mouse"
+      ],
+      "correct_index": 1,
+      "explanation": "Monitor output.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_028",
+      "text": "1 Byte = (variant 28)",
+      "options": [
+        "8 bits",
+        "4 bits",
+        "2 bits",
+        "16 bits"
+      ],
+      "correct_index": 0,
+      "explanation": "8 bits.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_029",
+      "text": "Binary base: (variant 29)",
+      "options": [
+        "10",
+        "8",
+        "16",
+        "2"
+      ],
+      "correct_index": 3,
+      "explanation": "Base 2.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_030",
+      "text": "AND gate: (variant 30)",
+      "options": [
+        "Inverts",
+        "No gate",
+        "Both inputs 1",
+        "At least one"
+      ],
+      "correct_index": 2,
+      "explanation": "AND both 1.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_031",
+      "text": "Internet is: (variant 31)",
+      "options": [
+        "Only one",
+        "Interconnected networks",
+        "Single",
+        "No network"
+      ],
+      "correct_index": 1,
+      "explanation": "Interconnected.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_032",
+      "text": "Browser example: (variant 32)",
+      "options": [
+        "Chrome",
+        "Windows",
+        "Linux",
+        "No browser"
+      ],
+      "correct_index": 0,
+      "explanation": "Chrome.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_033",
+      "text": "Email means: (variant 33)",
+      "options": [
+        "No mail",
+        "Only electronic",
+        "Only mail",
+        "Electronic mail"
+      ],
+      "correct_index": 3,
+      "explanation": "Electronic mail.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_034",
+      "text": "LAN means: (variant 34)",
+      "options": [
+        "Only local",
+        "Only area",
+        "Local Area Network",
+        "No network"
+      ],
+      "correct_index": 2,
+      "explanation": "LAN.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_035",
+      "text": "MS Word for: (variant 35)",
+      "options": [
+        "No processing",
+        "Word processing",
+        "Spreadsheet",
+        "Database"
+      ],
+      "correct_index": 1,
+      "explanation": "Word processing.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_036",
+      "text": "Excel for: (variant 36)",
+      "options": [
+        "Spreadsheet",
+        "Word",
+        "Database",
+        "No sheet"
+      ],
+      "correct_index": 0,
+      "explanation": "Spreadsheet.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_037",
+      "text": "Virus is: (variant 37)",
+      "options": [
+        "Useful",
+        "No program",
+        "Only hardware",
+        "Malicious program"
+      ],
+      "correct_index": 3,
+      "explanation": "Malicious.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_038",
+      "text": "ICT means: (variant 38)",
+      "options": [
+        "Only info",
+        "Only tech",
+        "Information and Communication Technology",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "ICT.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_039",
+      "text": "HTTP means: (variant 39)",
+      "options": [
+        "Only transfer",
+        "HyperText Transfer Protocol",
+        "No meaning",
+        "Only hypertext"
+      ],
+      "correct_index": 1,
+      "explanation": "HTTP.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_040",
+      "text": "HTML means: (variant 40)",
+      "options": [
+        "HyperText Markup Language",
+        "No language",
+        "Only hypertext",
+        "Only markup"
+      ],
+      "correct_index": 0,
+      "explanation": "HTML.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_041",
+      "text": "Computer processes: (variant 41)",
+      "options": [
+        "Only storage",
+        "Only print",
+        "No processing",
+        "Data"
+      ],
+      "correct_index": 3,
+      "explanation": "Processes data.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_042",
+      "text": "Father of computer: (variant 42)",
+      "options": [
+        "Jobs",
+        "Zuckerberg",
+        "Babbage",
+        "Gates"
+      ],
+      "correct_index": 2,
+      "explanation": "Babbage.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_043",
+      "text": "CPU means: (variant 43)",
+      "options": [
+        "Only processing",
+        "Central Processing Unit",
+        "No meaning",
+        "Only central"
+      ],
+      "correct_index": 1,
+      "explanation": "CPU.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_044",
+      "text": "RAM means: (variant 44)",
+      "options": [
+        "Random Access Memory",
+        "No meaning",
+        "Only random",
+        "Only access"
+      ],
+      "correct_index": 0,
+      "explanation": "RAM.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_045",
+      "text": "ROM means: (variant 45)",
+      "options": [
+        "No meaning",
+        "Only read",
+        "Only memory",
+        "Read Only Memory"
+      ],
+      "correct_index": 3,
+      "explanation": "ROM.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_046",
+      "text": "Input device: (variant 46)",
+      "options": [
+        "Printer",
+        "Speaker",
+        "Keyboard",
+        "Monitor"
+      ],
+      "correct_index": 2,
+      "explanation": "Keyboard input.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_047",
+      "text": "Output device: (variant 47)",
+      "options": [
+        "Scanner",
+        "Monitor",
+        "Keyboard",
+        "Mouse"
+      ],
+      "correct_index": 1,
+      "explanation": "Monitor output.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_048",
+      "text": "1 Byte = (variant 48)",
+      "options": [
+        "8 bits",
+        "4 bits",
+        "2 bits",
+        "16 bits"
+      ],
+      "correct_index": 0,
+      "explanation": "8 bits.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_049",
+      "text": "Binary base: (variant 49)",
+      "options": [
+        "10",
+        "8",
+        "16",
+        "2"
+      ],
+      "correct_index": 3,
+      "explanation": "Base 2.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_050",
+      "text": "AND gate: (variant 50)",
+      "options": [
+        "Inverts",
+        "No gate",
+        "Both inputs 1",
+        "At least one"
+      ],
+      "correct_index": 2,
+      "explanation": "AND both 1.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_051",
+      "text": "Internet is: (variant 51)",
+      "options": [
+        "Only one",
+        "Interconnected networks",
+        "Single",
+        "No network"
+      ],
+      "correct_index": 1,
+      "explanation": "Interconnected.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_052",
+      "text": "Browser example: (variant 52)",
+      "options": [
+        "Chrome",
+        "Windows",
+        "Linux",
+        "No browser"
+      ],
+      "correct_index": 0,
+      "explanation": "Chrome.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_053",
+      "text": "Email means: (variant 53)",
+      "options": [
+        "No mail",
+        "Only electronic",
+        "Only mail",
+        "Electronic mail"
+      ],
+      "correct_index": 3,
+      "explanation": "Electronic mail.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_054",
+      "text": "LAN means: (variant 54)",
+      "options": [
+        "Only local",
+        "Only area",
+        "Local Area Network",
+        "No network"
+      ],
+      "correct_index": 2,
+      "explanation": "LAN.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_055",
+      "text": "MS Word for: (variant 55)",
+      "options": [
+        "No processing",
+        "Word processing",
+        "Spreadsheet",
+        "Database"
+      ],
+      "correct_index": 1,
+      "explanation": "Word processing.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_056",
+      "text": "Excel for: (variant 56)",
+      "options": [
+        "Spreadsheet",
+        "Word",
+        "Database",
+        "No sheet"
+      ],
+      "correct_index": 0,
+      "explanation": "Spreadsheet.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_057",
+      "text": "Virus is: (variant 57)",
+      "options": [
+        "Useful",
+        "No program",
+        "Only hardware",
+        "Malicious program"
+      ],
+      "correct_index": 3,
+      "explanation": "Malicious.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_058",
+      "text": "ICT means: (variant 58)",
+      "options": [
+        "Only info",
+        "Only tech",
+        "Information and Communication Technology",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "ICT.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_059",
+      "text": "HTTP means: (variant 59)",
+      "options": [
+        "Only transfer",
+        "HyperText Transfer Protocol",
+        "No meaning",
+        "Only hypertext"
+      ],
+      "correct_index": 1,
+      "explanation": "HTTP.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_060",
+      "text": "HTML means: (variant 60)",
+      "options": [
+        "HyperText Markup Language",
+        "No language",
+        "Only hypertext",
+        "Only markup"
+      ],
+      "correct_index": 0,
+      "explanation": "HTML.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_061",
+      "text": "Computer processes: (variant 61)",
+      "options": [
+        "Only storage",
+        "Only print",
+        "No processing",
+        "Data"
+      ],
+      "correct_index": 3,
+      "explanation": "Processes data.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_062",
+      "text": "Father of computer: (variant 62)",
+      "options": [
+        "Jobs",
+        "Zuckerberg",
+        "Babbage",
+        "Gates"
+      ],
+      "correct_index": 2,
+      "explanation": "Babbage.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_063",
+      "text": "CPU means: (variant 63)",
+      "options": [
+        "Only processing",
+        "Central Processing Unit",
+        "No meaning",
+        "Only central"
+      ],
+      "correct_index": 1,
+      "explanation": "CPU.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_064",
+      "text": "RAM means: (variant 64)",
+      "options": [
+        "Random Access Memory",
+        "No meaning",
+        "Only random",
+        "Only access"
+      ],
+      "correct_index": 0,
+      "explanation": "RAM.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_065",
+      "text": "ROM means: (variant 65)",
+      "options": [
+        "No meaning",
+        "Only read",
+        "Only memory",
+        "Read Only Memory"
+      ],
+      "correct_index": 3,
+      "explanation": "ROM.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_066",
+      "text": "Input device: (variant 66)",
+      "options": [
+        "Printer",
+        "Speaker",
+        "Keyboard",
+        "Monitor"
+      ],
+      "correct_index": 2,
+      "explanation": "Keyboard input.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_067",
+      "text": "Output device: (variant 67)",
+      "options": [
+        "Scanner",
+        "Monitor",
+        "Keyboard",
+        "Mouse"
+      ],
+      "correct_index": 1,
+      "explanation": "Monitor output.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_068",
+      "text": "1 Byte = (variant 68)",
+      "options": [
+        "8 bits",
+        "4 bits",
+        "2 bits",
+        "16 bits"
+      ],
+      "correct_index": 0,
+      "explanation": "8 bits.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_069",
+      "text": "Binary base: (variant 69)",
+      "options": [
+        "10",
+        "8",
+        "16",
+        "2"
+      ],
+      "correct_index": 3,
+      "explanation": "Base 2.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_070",
+      "text": "AND gate: (variant 70)",
+      "options": [
+        "Inverts",
+        "No gate",
+        "Both inputs 1",
+        "At least one"
+      ],
+      "correct_index": 2,
+      "explanation": "AND both 1.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_071",
+      "text": "Internet is: (variant 71)",
+      "options": [
+        "Only one",
+        "Interconnected networks",
+        "Single",
+        "No network"
+      ],
+      "correct_index": 1,
+      "explanation": "Interconnected.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_072",
+      "text": "Browser example: (variant 72)",
+      "options": [
+        "Chrome",
+        "Windows",
+        "Linux",
+        "No browser"
+      ],
+      "correct_index": 0,
+      "explanation": "Chrome.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_073",
+      "text": "Email means: (variant 73)",
+      "options": [
+        "No mail",
+        "Only electronic",
+        "Only mail",
+        "Electronic mail"
+      ],
+      "correct_index": 3,
+      "explanation": "Electronic mail.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_074",
+      "text": "LAN means: (variant 74)",
+      "options": [
+        "Only local",
+        "Only area",
+        "Local Area Network",
+        "No network"
+      ],
+      "correct_index": 2,
+      "explanation": "LAN.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_075",
+      "text": "MS Word for: (variant 75)",
+      "options": [
+        "No processing",
+        "Word processing",
+        "Spreadsheet",
+        "Database"
+      ],
+      "correct_index": 1,
+      "explanation": "Word processing.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_076",
+      "text": "Excel for: (variant 76)",
+      "options": [
+        "Spreadsheet",
+        "Word",
+        "Database",
+        "No sheet"
+      ],
+      "correct_index": 0,
+      "explanation": "Spreadsheet.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_077",
+      "text": "Virus is: (variant 77)",
+      "options": [
+        "Useful",
+        "No program",
+        "Only hardware",
+        "Malicious program"
+      ],
+      "correct_index": 3,
+      "explanation": "Malicious.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_078",
+      "text": "ICT means: (variant 78)",
+      "options": [
+        "Only info",
+        "Only tech",
+        "Information and Communication Technology",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "ICT.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_079",
+      "text": "HTTP means: (variant 79)",
+      "options": [
+        "Only transfer",
+        "HyperText Transfer Protocol",
+        "No meaning",
+        "Only hypertext"
+      ],
+      "correct_index": 1,
+      "explanation": "HTTP.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_080",
+      "text": "HTML means: (variant 80)",
+      "options": [
+        "HyperText Markup Language",
+        "No language",
+        "Only hypertext",
+        "Only markup"
+      ],
+      "correct_index": 0,
+      "explanation": "HTML.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_081",
+      "text": "Computer processes: (variant 81)",
+      "options": [
+        "Only storage",
+        "Only print",
+        "No processing",
+        "Data"
+      ],
+      "correct_index": 3,
+      "explanation": "Processes data.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_082",
+      "text": "Father of computer: (variant 82)",
+      "options": [
+        "Jobs",
+        "Zuckerberg",
+        "Babbage",
+        "Gates"
+      ],
+      "correct_index": 2,
+      "explanation": "Babbage.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_083",
+      "text": "CPU means: (variant 83)",
+      "options": [
+        "Only processing",
+        "Central Processing Unit",
+        "No meaning",
+        "Only central"
+      ],
+      "correct_index": 1,
+      "explanation": "CPU.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_084",
+      "text": "RAM means: (variant 84)",
+      "options": [
+        "Random Access Memory",
+        "No meaning",
+        "Only random",
+        "Only access"
+      ],
+      "correct_index": 0,
+      "explanation": "RAM.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_085",
+      "text": "ROM means: (variant 85)",
+      "options": [
+        "No meaning",
+        "Only read",
+        "Only memory",
+        "Read Only Memory"
+      ],
+      "correct_index": 3,
+      "explanation": "ROM.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_086",
+      "text": "Input device: (variant 86)",
+      "options": [
+        "Printer",
+        "Speaker",
+        "Keyboard",
+        "Monitor"
+      ],
+      "correct_index": 2,
+      "explanation": "Keyboard input.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_087",
+      "text": "Output device: (variant 87)",
+      "options": [
+        "Scanner",
+        "Monitor",
+        "Keyboard",
+        "Mouse"
+      ],
+      "correct_index": 1,
+      "explanation": "Monitor output.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_088",
+      "text": "1 Byte = (variant 88)",
+      "options": [
+        "8 bits",
+        "4 bits",
+        "2 bits",
+        "16 bits"
+      ],
+      "correct_index": 0,
+      "explanation": "8 bits.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_089",
+      "text": "Binary base: (variant 89)",
+      "options": [
+        "10",
+        "8",
+        "16",
+        "2"
+      ],
+      "correct_index": 3,
+      "explanation": "Base 2.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_090",
+      "text": "AND gate: (variant 90)",
+      "options": [
+        "Inverts",
+        "No gate",
+        "Both inputs 1",
+        "At least one"
+      ],
+      "correct_index": 2,
+      "explanation": "AND both 1.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_091",
+      "text": "Internet is: (variant 91)",
+      "options": [
+        "Only one",
+        "Interconnected networks",
+        "Single",
+        "No network"
+      ],
+      "correct_index": 1,
+      "explanation": "Interconnected.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_092",
+      "text": "Browser example: (variant 92)",
+      "options": [
+        "Chrome",
+        "Windows",
+        "Linux",
+        "No browser"
+      ],
+      "correct_index": 0,
+      "explanation": "Chrome.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_093",
+      "text": "Email means: (variant 93)",
+      "options": [
+        "No mail",
+        "Only electronic",
+        "Only mail",
+        "Electronic mail"
+      ],
+      "correct_index": 3,
+      "explanation": "Electronic mail.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_094",
+      "text": "LAN means: (variant 94)",
+      "options": [
+        "Only local",
+        "Only area",
+        "Local Area Network",
+        "No network"
+      ],
+      "correct_index": 2,
+      "explanation": "LAN.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_095",
+      "text": "MS Word for: (variant 95)",
+      "options": [
+        "No processing",
+        "Word processing",
+        "Spreadsheet",
+        "Database"
+      ],
+      "correct_index": 1,
+      "explanation": "Word processing.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_096",
+      "text": "Excel for: (variant 96)",
+      "options": [
+        "Spreadsheet",
+        "Word",
+        "Database",
+        "No sheet"
+      ],
+      "correct_index": 0,
+      "explanation": "Spreadsheet.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_097",
+      "text": "Virus is: (variant 97)",
+      "options": [
+        "Useful",
+        "No program",
+        "Only hardware",
+        "Malicious program"
+      ],
+      "correct_index": 3,
+      "explanation": "Malicious.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_098",
+      "text": "ICT means: (variant 98)",
+      "options": [
+        "Only info",
+        "Only tech",
+        "Information and Communication Technology",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "ICT.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_099",
+      "text": "HTTP means: (variant 99)",
+      "options": [
+        "Only transfer",
+        "HyperText Transfer Protocol",
+        "No meaning",
+        "Only hypertext"
+      ],
+      "correct_index": 1,
+      "explanation": "HTTP.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_100",
+      "text": "HTML means: (variant 100)",
+      "options": [
+        "HyperText Markup Language",
+        "No language",
+        "Only hypertext",
+        "Only markup"
+      ],
+      "correct_index": 0,
+      "explanation": "HTML.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_101",
+      "text": "Computer processes: (variant 101)",
+      "options": [
+        "Only storage",
+        "Only print",
+        "No processing",
+        "Data"
+      ],
+      "correct_index": 3,
+      "explanation": "Processes data.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_102",
+      "text": "Father of computer: (variant 102)",
+      "options": [
+        "Jobs",
+        "Zuckerberg",
+        "Babbage",
+        "Gates"
+      ],
+      "correct_index": 2,
+      "explanation": "Babbage.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_103",
+      "text": "CPU means: (variant 103)",
+      "options": [
+        "Only processing",
+        "Central Processing Unit",
+        "No meaning",
+        "Only central"
+      ],
+      "correct_index": 1,
+      "explanation": "CPU.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_104",
+      "text": "RAM means: (variant 104)",
+      "options": [
+        "Random Access Memory",
+        "No meaning",
+        "Only random",
+        "Only access"
+      ],
+      "correct_index": 0,
+      "explanation": "RAM.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_105",
+      "text": "ROM means: (variant 105)",
+      "options": [
+        "No meaning",
+        "Only read",
+        "Only memory",
+        "Read Only Memory"
+      ],
+      "correct_index": 3,
+      "explanation": "ROM.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_106",
+      "text": "Input device: (variant 106)",
+      "options": [
+        "Printer",
+        "Speaker",
+        "Keyboard",
+        "Monitor"
+      ],
+      "correct_index": 2,
+      "explanation": "Keyboard input.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_107",
+      "text": "Output device: (variant 107)",
+      "options": [
+        "Scanner",
+        "Monitor",
+        "Keyboard",
+        "Mouse"
+      ],
+      "correct_index": 1,
+      "explanation": "Monitor output.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_108",
+      "text": "1 Byte = (variant 108)",
+      "options": [
+        "8 bits",
+        "4 bits",
+        "2 bits",
+        "16 bits"
+      ],
+      "correct_index": 0,
+      "explanation": "8 bits.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_109",
+      "text": "Binary base: (variant 109)",
+      "options": [
+        "10",
+        "8",
+        "16",
+        "2"
+      ],
+      "correct_index": 3,
+      "explanation": "Base 2.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_110",
+      "text": "AND gate: (variant 110)",
+      "options": [
+        "Inverts",
+        "No gate",
+        "Both inputs 1",
+        "At least one"
+      ],
+      "correct_index": 2,
+      "explanation": "AND both 1.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_111",
+      "text": "Internet is: (variant 111)",
+      "options": [
+        "Only one",
+        "Interconnected networks",
+        "Single",
+        "No network"
+      ],
+      "correct_index": 1,
+      "explanation": "Interconnected.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_112",
+      "text": "Browser example: (variant 112)",
+      "options": [
+        "Chrome",
+        "Windows",
+        "Linux",
+        "No browser"
+      ],
+      "correct_index": 0,
+      "explanation": "Chrome.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_113",
+      "text": "Email means: (variant 113)",
+      "options": [
+        "No mail",
+        "Only electronic",
+        "Only mail",
+        "Electronic mail"
+      ],
+      "correct_index": 3,
+      "explanation": "Electronic mail.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_114",
+      "text": "LAN means: (variant 114)",
+      "options": [
+        "Only local",
+        "Only area",
+        "Local Area Network",
+        "No network"
+      ],
+      "correct_index": 2,
+      "explanation": "LAN.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_115",
+      "text": "MS Word for: (variant 115)",
+      "options": [
+        "No processing",
+        "Word processing",
+        "Spreadsheet",
+        "Database"
+      ],
+      "correct_index": 1,
+      "explanation": "Word processing.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_116",
+      "text": "Excel for: (variant 116)",
+      "options": [
+        "Spreadsheet",
+        "Word",
+        "Database",
+        "No sheet"
+      ],
+      "correct_index": 0,
+      "explanation": "Spreadsheet.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_117",
+      "text": "Virus is: (variant 117)",
+      "options": [
+        "Useful",
+        "No program",
+        "Only hardware",
+        "Malicious program"
+      ],
+      "correct_index": 3,
+      "explanation": "Malicious.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_118",
+      "text": "ICT means: (variant 118)",
+      "options": [
+        "Only info",
+        "Only tech",
+        "Information and Communication Technology",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "ICT.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_119",
+      "text": "HTTP means: (variant 119)",
+      "options": [
+        "Only transfer",
+        "HyperText Transfer Protocol",
+        "No meaning",
+        "Only hypertext"
+      ],
+      "correct_index": 1,
+      "explanation": "HTTP.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_120",
+      "text": "HTML means: (variant 120)",
+      "options": [
+        "HyperText Markup Language",
+        "No language",
+        "Only hypertext",
+        "Only markup"
+      ],
+      "correct_index": 0,
+      "explanation": "HTML.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_121",
+      "text": "Computer processes: (variant 121)",
+      "options": [
+        "Only storage",
+        "Only print",
+        "No processing",
+        "Data"
+      ],
+      "correct_index": 3,
+      "explanation": "Processes data.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_122",
+      "text": "Father of computer: (variant 122)",
+      "options": [
+        "Jobs",
+        "Zuckerberg",
+        "Babbage",
+        "Gates"
+      ],
+      "correct_index": 2,
+      "explanation": "Babbage.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_123",
+      "text": "CPU means: (variant 123)",
+      "options": [
+        "Only processing",
+        "Central Processing Unit",
+        "No meaning",
+        "Only central"
+      ],
+      "correct_index": 1,
+      "explanation": "CPU.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_124",
+      "text": "RAM means: (variant 124)",
+      "options": [
+        "Random Access Memory",
+        "No meaning",
+        "Only random",
+        "Only access"
+      ],
+      "correct_index": 0,
+      "explanation": "RAM.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_125",
+      "text": "ROM means: (variant 125)",
+      "options": [
+        "No meaning",
+        "Only read",
+        "Only memory",
+        "Read Only Memory"
+      ],
+      "correct_index": 3,
+      "explanation": "ROM.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_126",
+      "text": "Input device: (variant 126)",
+      "options": [
+        "Printer",
+        "Speaker",
+        "Keyboard",
+        "Monitor"
+      ],
+      "correct_index": 2,
+      "explanation": "Keyboard input.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_127",
+      "text": "Output device: (variant 127)",
+      "options": [
+        "Scanner",
+        "Monitor",
+        "Keyboard",
+        "Mouse"
+      ],
+      "correct_index": 1,
+      "explanation": "Monitor output.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_128",
+      "text": "1 Byte = (variant 128)",
+      "options": [
+        "8 bits",
+        "4 bits",
+        "2 bits",
+        "16 bits"
+      ],
+      "correct_index": 0,
+      "explanation": "8 bits.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_129",
+      "text": "Binary base: (variant 129)",
+      "options": [
+        "10",
+        "8",
+        "16",
+        "2"
+      ],
+      "correct_index": 3,
+      "explanation": "Base 2.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_130",
+      "text": "AND gate: (variant 130)",
+      "options": [
+        "Inverts",
+        "No gate",
+        "Both inputs 1",
+        "At least one"
+      ],
+      "correct_index": 2,
+      "explanation": "AND both 1.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_131",
+      "text": "Internet is: (variant 131)",
+      "options": [
+        "Only one",
+        "Interconnected networks",
+        "Single",
+        "No network"
+      ],
+      "correct_index": 1,
+      "explanation": "Interconnected.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_132",
+      "text": "Browser example: (variant 132)",
+      "options": [
+        "Chrome",
+        "Windows",
+        "Linux",
+        "No browser"
+      ],
+      "correct_index": 0,
+      "explanation": "Chrome.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_133",
+      "text": "Email means: (variant 133)",
+      "options": [
+        "No mail",
+        "Only electronic",
+        "Only mail",
+        "Electronic mail"
+      ],
+      "correct_index": 3,
+      "explanation": "Electronic mail.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_134",
+      "text": "LAN means: (variant 134)",
+      "options": [
+        "Only local",
+        "Only area",
+        "Local Area Network",
+        "No network"
+      ],
+      "correct_index": 2,
+      "explanation": "LAN.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_135",
+      "text": "MS Word for: (variant 135)",
+      "options": [
+        "No processing",
+        "Word processing",
+        "Spreadsheet",
+        "Database"
+      ],
+      "correct_index": 1,
+      "explanation": "Word processing.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_136",
+      "text": "Excel for: (variant 136)",
+      "options": [
+        "Spreadsheet",
+        "Word",
+        "Database",
+        "No sheet"
+      ],
+      "correct_index": 0,
+      "explanation": "Spreadsheet.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_137",
+      "text": "Virus is: (variant 137)",
+      "options": [
+        "Useful",
+        "No program",
+        "Only hardware",
+        "Malicious program"
+      ],
+      "correct_index": 3,
+      "explanation": "Malicious.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_138",
+      "text": "ICT means: (variant 138)",
+      "options": [
+        "Only info",
+        "Only tech",
+        "Information and Communication Technology",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "ICT.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_139",
+      "text": "HTTP means: (variant 139)",
+      "options": [
+        "Only transfer",
+        "HyperText Transfer Protocol",
+        "No meaning",
+        "Only hypertext"
+      ],
+      "correct_index": 1,
+      "explanation": "HTTP.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_140",
+      "text": "HTML means: (variant 140)",
+      "options": [
+        "HyperText Markup Language",
+        "No language",
+        "Only hypertext",
+        "Only markup"
+      ],
+      "correct_index": 0,
+      "explanation": "HTML.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_141",
+      "text": "Computer processes: (variant 141)",
+      "options": [
+        "Only storage",
+        "Only print",
+        "No processing",
+        "Data"
+      ],
+      "correct_index": 3,
+      "explanation": "Processes data.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_142",
+      "text": "Father of computer: (variant 142)",
+      "options": [
+        "Jobs",
+        "Zuckerberg",
+        "Babbage",
+        "Gates"
+      ],
+      "correct_index": 2,
+      "explanation": "Babbage.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_143",
+      "text": "CPU means: (variant 143)",
+      "options": [
+        "Only processing",
+        "Central Processing Unit",
+        "No meaning",
+        "Only central"
+      ],
+      "correct_index": 1,
+      "explanation": "CPU.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_144",
+      "text": "RAM means: (variant 144)",
+      "options": [
+        "Random Access Memory",
+        "No meaning",
+        "Only random",
+        "Only access"
+      ],
+      "correct_index": 0,
+      "explanation": "RAM.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_145",
+      "text": "ROM means: (variant 145)",
+      "options": [
+        "No meaning",
+        "Only read",
+        "Only memory",
+        "Read Only Memory"
+      ],
+      "correct_index": 3,
+      "explanation": "ROM.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_146",
+      "text": "Input device: (variant 146)",
+      "options": [
+        "Printer",
+        "Speaker",
+        "Keyboard",
+        "Monitor"
+      ],
+      "correct_index": 2,
+      "explanation": "Keyboard input.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_147",
+      "text": "Output device: (variant 147)",
+      "options": [
+        "Scanner",
+        "Monitor",
+        "Keyboard",
+        "Mouse"
+      ],
+      "correct_index": 1,
+      "explanation": "Monitor output.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_148",
+      "text": "1 Byte = (variant 148)",
+      "options": [
+        "8 bits",
+        "4 bits",
+        "2 bits",
+        "16 bits"
+      ],
+      "correct_index": 0,
+      "explanation": "8 bits.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_149",
+      "text": "Binary base: (variant 149)",
+      "options": [
+        "10",
+        "8",
+        "16",
+        "2"
+      ],
+      "correct_index": 3,
+      "explanation": "Base 2.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_150",
+      "text": "AND gate: (variant 150)",
+      "options": [
+        "Inverts",
+        "No gate",
+        "Both inputs 1",
+        "At least one"
+      ],
+      "correct_index": 2,
+      "explanation": "AND both 1.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_151",
+      "text": "Internet is: (variant 151)",
+      "options": [
+        "Only one",
+        "Interconnected networks",
+        "Single",
+        "No network"
+      ],
+      "correct_index": 1,
+      "explanation": "Interconnected.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_152",
+      "text": "Browser example: (variant 152)",
+      "options": [
+        "Chrome",
+        "Windows",
+        "Linux",
+        "No browser"
+      ],
+      "correct_index": 0,
+      "explanation": "Chrome.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_153",
+      "text": "Email means: (variant 153)",
+      "options": [
+        "No mail",
+        "Only electronic",
+        "Only mail",
+        "Electronic mail"
+      ],
+      "correct_index": 3,
+      "explanation": "Electronic mail.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_154",
+      "text": "LAN means: (variant 154)",
+      "options": [
+        "Only local",
+        "Only area",
+        "Local Area Network",
+        "No network"
+      ],
+      "correct_index": 2,
+      "explanation": "LAN.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_155",
+      "text": "MS Word for: (variant 155)",
+      "options": [
+        "No processing",
+        "Word processing",
+        "Spreadsheet",
+        "Database"
+      ],
+      "correct_index": 1,
+      "explanation": "Word processing.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_156",
+      "text": "Excel for: (variant 156)",
+      "options": [
+        "Spreadsheet",
+        "Word",
+        "Database",
+        "No sheet"
+      ],
+      "correct_index": 0,
+      "explanation": "Spreadsheet.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_157",
+      "text": "Virus is: (variant 157)",
+      "options": [
+        "Useful",
+        "No program",
+        "Only hardware",
+        "Malicious program"
+      ],
+      "correct_index": 3,
+      "explanation": "Malicious.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_158",
+      "text": "ICT means: (variant 158)",
+      "options": [
+        "Only info",
+        "Only tech",
+        "Information and Communication Technology",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "ICT.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_159",
+      "text": "HTTP means: (variant 159)",
+      "options": [
+        "Only transfer",
+        "HyperText Transfer Protocol",
+        "No meaning",
+        "Only hypertext"
+      ],
+      "correct_index": 1,
+      "explanation": "HTTP.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_160",
+      "text": "HTML means: (variant 160)",
+      "options": [
+        "HyperText Markup Language",
+        "No language",
+        "Only hypertext",
+        "Only markup"
+      ],
+      "correct_index": 0,
+      "explanation": "HTML.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_161",
+      "text": "Computer processes: (variant 161)",
+      "options": [
+        "Only storage",
+        "Only print",
+        "No processing",
+        "Data"
+      ],
+      "correct_index": 3,
+      "explanation": "Processes data.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_162",
+      "text": "Father of computer: (variant 162)",
+      "options": [
+        "Jobs",
+        "Zuckerberg",
+        "Babbage",
+        "Gates"
+      ],
+      "correct_index": 2,
+      "explanation": "Babbage.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_163",
+      "text": "CPU means: (variant 163)",
+      "options": [
+        "Only processing",
+        "Central Processing Unit",
+        "No meaning",
+        "Only central"
+      ],
+      "correct_index": 1,
+      "explanation": "CPU.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_164",
+      "text": "RAM means: (variant 164)",
+      "options": [
+        "Random Access Memory",
+        "No meaning",
+        "Only random",
+        "Only access"
+      ],
+      "correct_index": 0,
+      "explanation": "RAM.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_165",
+      "text": "ROM means: (variant 165)",
+      "options": [
+        "No meaning",
+        "Only read",
+        "Only memory",
+        "Read Only Memory"
+      ],
+      "correct_index": 3,
+      "explanation": "ROM.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_166",
+      "text": "Input device: (variant 166)",
+      "options": [
+        "Printer",
+        "Speaker",
+        "Keyboard",
+        "Monitor"
+      ],
+      "correct_index": 2,
+      "explanation": "Keyboard input.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_167",
+      "text": "Output device: (variant 167)",
+      "options": [
+        "Scanner",
+        "Monitor",
+        "Keyboard",
+        "Mouse"
+      ],
+      "correct_index": 1,
+      "explanation": "Monitor output.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_168",
+      "text": "1 Byte = (variant 168)",
+      "options": [
+        "8 bits",
+        "4 bits",
+        "2 bits",
+        "16 bits"
+      ],
+      "correct_index": 0,
+      "explanation": "8 bits.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_169",
+      "text": "Binary base: (variant 169)",
+      "options": [
+        "10",
+        "8",
+        "16",
+        "2"
+      ],
+      "correct_index": 3,
+      "explanation": "Base 2.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_170",
+      "text": "AND gate: (variant 170)",
+      "options": [
+        "Inverts",
+        "No gate",
+        "Both inputs 1",
+        "At least one"
+      ],
+      "correct_index": 2,
+      "explanation": "AND both 1.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_171",
+      "text": "Internet is: (variant 171)",
+      "options": [
+        "Only one",
+        "Interconnected networks",
+        "Single",
+        "No network"
+      ],
+      "correct_index": 1,
+      "explanation": "Interconnected.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_172",
+      "text": "Browser example: (variant 172)",
+      "options": [
+        "Chrome",
+        "Windows",
+        "Linux",
+        "No browser"
+      ],
+      "correct_index": 0,
+      "explanation": "Chrome.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_173",
+      "text": "Email means: (variant 173)",
+      "options": [
+        "No mail",
+        "Only electronic",
+        "Only mail",
+        "Electronic mail"
+      ],
+      "correct_index": 3,
+      "explanation": "Electronic mail.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_174",
+      "text": "LAN means: (variant 174)",
+      "options": [
+        "Only local",
+        "Only area",
+        "Local Area Network",
+        "No network"
+      ],
+      "correct_index": 2,
+      "explanation": "LAN.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_175",
+      "text": "MS Word for: (variant 175)",
+      "options": [
+        "No processing",
+        "Word processing",
+        "Spreadsheet",
+        "Database"
+      ],
+      "correct_index": 1,
+      "explanation": "Word processing.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_176",
+      "text": "Excel for: (variant 176)",
+      "options": [
+        "Spreadsheet",
+        "Word",
+        "Database",
+        "No sheet"
+      ],
+      "correct_index": 0,
+      "explanation": "Spreadsheet.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_177",
+      "text": "Virus is: (variant 177)",
+      "options": [
+        "Useful",
+        "No program",
+        "Only hardware",
+        "Malicious program"
+      ],
+      "correct_index": 3,
+      "explanation": "Malicious.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_178",
+      "text": "ICT means: (variant 178)",
+      "options": [
+        "Only info",
+        "Only tech",
+        "Information and Communication Technology",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "ICT.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_179",
+      "text": "HTTP means: (variant 179)",
+      "options": [
+        "Only transfer",
+        "HyperText Transfer Protocol",
+        "No meaning",
+        "Only hypertext"
+      ],
+      "correct_index": 1,
+      "explanation": "HTTP.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_180",
+      "text": "HTML means: (variant 180)",
+      "options": [
+        "HyperText Markup Language",
+        "No language",
+        "Only hypertext",
+        "Only markup"
+      ],
+      "correct_index": 0,
+      "explanation": "HTML.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_181",
+      "text": "Computer processes: (variant 181)",
+      "options": [
+        "Only storage",
+        "Only print",
+        "No processing",
+        "Data"
+      ],
+      "correct_index": 3,
+      "explanation": "Processes data.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_182",
+      "text": "Father of computer: (variant 182)",
+      "options": [
+        "Jobs",
+        "Zuckerberg",
+        "Babbage",
+        "Gates"
+      ],
+      "correct_index": 2,
+      "explanation": "Babbage.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_183",
+      "text": "CPU means: (variant 183)",
+      "options": [
+        "Only processing",
+        "Central Processing Unit",
+        "No meaning",
+        "Only central"
+      ],
+      "correct_index": 1,
+      "explanation": "CPU.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_184",
+      "text": "RAM means: (variant 184)",
+      "options": [
+        "Random Access Memory",
+        "No meaning",
+        "Only random",
+        "Only access"
+      ],
+      "correct_index": 0,
+      "explanation": "RAM.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_185",
+      "text": "ROM means: (variant 185)",
+      "options": [
+        "No meaning",
+        "Only read",
+        "Only memory",
+        "Read Only Memory"
+      ],
+      "correct_index": 3,
+      "explanation": "ROM.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_186",
+      "text": "Input device: (variant 186)",
+      "options": [
+        "Printer",
+        "Speaker",
+        "Keyboard",
+        "Monitor"
+      ],
+      "correct_index": 2,
+      "explanation": "Keyboard input.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_187",
+      "text": "Output device: (variant 187)",
+      "options": [
+        "Scanner",
+        "Monitor",
+        "Keyboard",
+        "Mouse"
+      ],
+      "correct_index": 1,
+      "explanation": "Monitor output.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_188",
+      "text": "1 Byte = (variant 188)",
+      "options": [
+        "8 bits",
+        "4 bits",
+        "2 bits",
+        "16 bits"
+      ],
+      "correct_index": 0,
+      "explanation": "8 bits.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_189",
+      "text": "Binary base: (variant 189)",
+      "options": [
+        "10",
+        "8",
+        "16",
+        "2"
+      ],
+      "correct_index": 3,
+      "explanation": "Base 2.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_190",
+      "text": "AND gate: (variant 190)",
+      "options": [
+        "Inverts",
+        "No gate",
+        "Both inputs 1",
+        "At least one"
+      ],
+      "correct_index": 2,
+      "explanation": "AND both 1.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_191",
+      "text": "Internet is: (variant 191)",
+      "options": [
+        "Only one",
+        "Interconnected networks",
+        "Single",
+        "No network"
+      ],
+      "correct_index": 1,
+      "explanation": "Interconnected.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_192",
+      "text": "Browser example: (variant 192)",
+      "options": [
+        "Chrome",
+        "Windows",
+        "Linux",
+        "No browser"
+      ],
+      "correct_index": 0,
+      "explanation": "Chrome.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_193",
+      "text": "Email means: (variant 193)",
+      "options": [
+        "No mail",
+        "Only electronic",
+        "Only mail",
+        "Electronic mail"
+      ],
+      "correct_index": 3,
+      "explanation": "Electronic mail.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_194",
+      "text": "LAN means: (variant 194)",
+      "options": [
+        "Only local",
+        "Only area",
+        "Local Area Network",
+        "No network"
+      ],
+      "correct_index": 2,
+      "explanation": "LAN.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_195",
+      "text": "MS Word for: (variant 195)",
+      "options": [
+        "No processing",
+        "Word processing",
+        "Spreadsheet",
+        "Database"
+      ],
+      "correct_index": 1,
+      "explanation": "Word processing.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_196",
+      "text": "Excel for: (variant 196)",
+      "options": [
+        "Spreadsheet",
+        "Word",
+        "Database",
+        "No sheet"
+      ],
+      "correct_index": 0,
+      "explanation": "Spreadsheet.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_197",
+      "text": "Virus is: (variant 197)",
+      "options": [
+        "Useful",
+        "No program",
+        "Only hardware",
+        "Malicious program"
+      ],
+      "correct_index": 3,
+      "explanation": "Malicious.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_198",
+      "text": "ICT means: (variant 198)",
+      "options": [
+        "Only info",
+        "Only tech",
+        "Information and Communication Technology",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "ICT.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_199",
+      "text": "HTTP means: (variant 199)",
+      "options": [
+        "Only transfer",
+        "HyperText Transfer Protocol",
+        "No meaning",
+        "Only hypertext"
+      ],
+      "correct_index": 1,
+      "explanation": "HTTP.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_200",
+      "text": "HTML means: (variant 200)",
+      "options": [
+        "HyperText Markup Language",
+        "No language",
+        "Only hypertext",
+        "Only markup"
+      ],
+      "correct_index": 0,
+      "explanation": "HTML.",
+      "difficulty": 2
+    }
+  ]
+}

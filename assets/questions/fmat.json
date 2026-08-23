@@ -1,0 +1,2607 @@
+{
+  "course_id": "fmat",
+  "course_name": "Further Mathematics",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "fmat_001",
+      "text": "If U={1,2,3,4,5} A={1,2,3} A'=",
+      "options": [
+        "{1,2,3}",
+        "{1-5}",
+        "{}",
+        "{4,5}"
+      ],
+      "correct_index": 3,
+      "explanation": "{4,5}.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_002",
+      "text": "Subsets of {a,b,c}:",
+      "options": [
+        "6",
+        "9",
+        "8",
+        "3"
+      ],
+      "correct_index": 2,
+      "explanation": "2^3=8.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_003",
+      "text": "1011₂ to decimal:",
+      "options": [
+        "13",
+        "11",
+        "10",
+        "12"
+      ],
+      "correct_index": 1,
+      "explanation": "11.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_004",
+      "text": "Simplify √12:",
+      "options": [
+        "2√3",
+        "3√2",
+        "4√3",
+        "√6"
+      ],
+      "correct_index": 0,
+      "explanation": "2√3.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_005",
+      "text": "|3+4i|=",
+      "options": [
+        "7",
+        "1",
+        "12",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_006",
+      "text": "i²=",
+      "options": [
+        "0",
+        "i",
+        "-1",
+        "1"
+      ],
+      "correct_index": 2,
+      "explanation": "-1.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_007",
+      "text": "Roots x²-5x+6=0:",
+      "options": [
+        "2 -3",
+        "2 and 3",
+        "1 and 6",
+        "-2 -3"
+      ],
+      "correct_index": 1,
+      "explanation": "2 and 3.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_008",
+      "text": "Discriminant:",
+      "options": [
+        "b²-4ac",
+        "b²+4ac",
+        "b²-ac",
+        "4ac-b²"
+      ],
+      "correct_index": 0,
+      "explanation": "b²-4ac.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_009",
+      "text": "AP first term 3n+2 n=1:",
+      "options": [
+        "2",
+        "3",
+        "8",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_010",
+      "text": "GP first 2 ratio3 second:",
+      "options": [
+        "3",
+        "9",
+        "6",
+        "2"
+      ],
+      "correct_index": 2,
+      "explanation": "6.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_011",
+      "text": "Det [[1,2],[3,4]]:",
+      "options": [
+        "0",
+        "-2",
+        "2",
+        "10"
+      ],
+      "correct_index": 1,
+      "explanation": "-2.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_012",
+      "text": "Distance (0,0)-(3,4):",
+      "options": [
+        "5",
+        "7",
+        "1",
+        "12"
+      ],
+      "correct_index": 0,
+      "explanation": "5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_013",
+      "text": "sin30°=",
+      "options": [
+        "√3/2",
+        "1",
+        "0",
+        "1/2"
+      ],
+      "correct_index": 3,
+      "explanation": "1/2.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_014",
+      "text": "sin²+cos²=",
+      "options": [
+        "2",
+        "sin2θ",
+        "1",
+        "0"
+      ],
+      "correct_index": 2,
+      "explanation": "1.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_015",
+      "text": "y=x³ dy/dx:",
+      "options": [
+        "x³",
+        "3x²",
+        "x²",
+        "3x"
+      ],
+      "correct_index": 1,
+      "explanation": "3x².",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_016",
+      "text": "∫x² dx:",
+      "options": [
+        "x³/3+C",
+        "x³+C",
+        "2x+C",
+        "x²+C"
+      ],
+      "correct_index": 0,
+      "explanation": "x³/3+C.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_017",
+      "text": "Mean 2,4,6:",
+      "options": [
+        "6",
+        "3",
+        "12",
+        "4"
+      ],
+      "correct_index": 3,
+      "explanation": "4.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_018",
+      "text": "Prob between:",
+      "options": [
+        "-1 and 1",
+        "0 and 10",
+        "0 and 1",
+        "0 and 2"
+      ],
+      "correct_index": 2,
+      "explanation": "0 and 1.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_019",
+      "text": "3 books arrangements:",
+      "options": [
+        "2",
+        "6",
+        "3",
+        "9"
+      ],
+      "correct_index": 1,
+      "explanation": "6.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_020",
+      "text": "F=ma, F is:",
+      "options": [
+        "Force",
+        "Energy",
+        "Power",
+        "No force"
+      ],
+      "correct_index": 0,
+      "explanation": "Force.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_021",
+      "text": "If U={1,2,3,4,5} A={1,2,3} A'= (variant 21)",
+      "options": [
+        "{1,2,3}",
+        "{1-5}",
+        "{}",
+        "{4,5}"
+      ],
+      "correct_index": 3,
+      "explanation": "{4,5}.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_022",
+      "text": "Subsets of {a,b,c}: (variant 22)",
+      "options": [
+        "6",
+        "9",
+        "8",
+        "3"
+      ],
+      "correct_index": 2,
+      "explanation": "2^3=8.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_023",
+      "text": "1011₂ to decimal: (variant 23)",
+      "options": [
+        "13",
+        "11",
+        "10",
+        "12"
+      ],
+      "correct_index": 1,
+      "explanation": "11.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_024",
+      "text": "Simplify √12: (variant 24)",
+      "options": [
+        "2√3",
+        "3√2",
+        "4√3",
+        "√6"
+      ],
+      "correct_index": 0,
+      "explanation": "2√3.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_025",
+      "text": "|3+4i|= (variant 25)",
+      "options": [
+        "7",
+        "1",
+        "12",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_026",
+      "text": "i²= (variant 26)",
+      "options": [
+        "0",
+        "i",
+        "-1",
+        "1"
+      ],
+      "correct_index": 2,
+      "explanation": "-1.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_027",
+      "text": "Roots x²-5x+6=0: (variant 27)",
+      "options": [
+        "2 -3",
+        "2 and 3",
+        "1 and 6",
+        "-2 -3"
+      ],
+      "correct_index": 1,
+      "explanation": "2 and 3.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_028",
+      "text": "Discriminant: (variant 28)",
+      "options": [
+        "b²-4ac",
+        "b²+4ac",
+        "b²-ac",
+        "4ac-b²"
+      ],
+      "correct_index": 0,
+      "explanation": "b²-4ac.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_029",
+      "text": "AP first term 3n+2 n=1: (variant 29)",
+      "options": [
+        "2",
+        "3",
+        "8",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_030",
+      "text": "GP first 2 ratio3 second: (variant 30)",
+      "options": [
+        "3",
+        "9",
+        "6",
+        "2"
+      ],
+      "correct_index": 2,
+      "explanation": "6.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_031",
+      "text": "Det [[1,2],[3,4]]: (variant 31)",
+      "options": [
+        "0",
+        "-2",
+        "2",
+        "10"
+      ],
+      "correct_index": 1,
+      "explanation": "-2.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_032",
+      "text": "Distance (0,0)-(3,4): (variant 32)",
+      "options": [
+        "5",
+        "7",
+        "1",
+        "12"
+      ],
+      "correct_index": 0,
+      "explanation": "5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_033",
+      "text": "sin30°= (variant 33)",
+      "options": [
+        "√3/2",
+        "1",
+        "0",
+        "1/2"
+      ],
+      "correct_index": 3,
+      "explanation": "1/2.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_034",
+      "text": "sin²+cos²= (variant 34)",
+      "options": [
+        "2",
+        "sin2θ",
+        "1",
+        "0"
+      ],
+      "correct_index": 2,
+      "explanation": "1.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_035",
+      "text": "y=x³ dy/dx: (variant 35)",
+      "options": [
+        "x³",
+        "3x²",
+        "x²",
+        "3x"
+      ],
+      "correct_index": 1,
+      "explanation": "3x².",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_036",
+      "text": "∫x² dx: (variant 36)",
+      "options": [
+        "x³/3+C",
+        "x³+C",
+        "2x+C",
+        "x²+C"
+      ],
+      "correct_index": 0,
+      "explanation": "x³/3+C.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_037",
+      "text": "Mean 2,4,6: (variant 37)",
+      "options": [
+        "6",
+        "3",
+        "12",
+        "4"
+      ],
+      "correct_index": 3,
+      "explanation": "4.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_038",
+      "text": "Prob between: (variant 38)",
+      "options": [
+        "-1 and 1",
+        "0 and 10",
+        "0 and 1",
+        "0 and 2"
+      ],
+      "correct_index": 2,
+      "explanation": "0 and 1.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_039",
+      "text": "3 books arrangements: (variant 39)",
+      "options": [
+        "2",
+        "6",
+        "3",
+        "9"
+      ],
+      "correct_index": 1,
+      "explanation": "6.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_040",
+      "text": "F=ma, F is: (variant 40)",
+      "options": [
+        "Force",
+        "Energy",
+        "Power",
+        "No force"
+      ],
+      "correct_index": 0,
+      "explanation": "Force.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_041",
+      "text": "If U={1,2,3,4,5} A={1,2,3} A'= (variant 41)",
+      "options": [
+        "{1,2,3}",
+        "{1-5}",
+        "{}",
+        "{4,5}"
+      ],
+      "correct_index": 3,
+      "explanation": "{4,5}.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_042",
+      "text": "Subsets of {a,b,c}: (variant 42)",
+      "options": [
+        "6",
+        "9",
+        "8",
+        "3"
+      ],
+      "correct_index": 2,
+      "explanation": "2^3=8.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_043",
+      "text": "1011₂ to decimal: (variant 43)",
+      "options": [
+        "13",
+        "11",
+        "10",
+        "12"
+      ],
+      "correct_index": 1,
+      "explanation": "11.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_044",
+      "text": "Simplify √12: (variant 44)",
+      "options": [
+        "2√3",
+        "3√2",
+        "4√3",
+        "√6"
+      ],
+      "correct_index": 0,
+      "explanation": "2√3.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_045",
+      "text": "|3+4i|= (variant 45)",
+      "options": [
+        "7",
+        "1",
+        "12",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_046",
+      "text": "i²= (variant 46)",
+      "options": [
+        "0",
+        "i",
+        "-1",
+        "1"
+      ],
+      "correct_index": 2,
+      "explanation": "-1.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_047",
+      "text": "Roots x²-5x+6=0: (variant 47)",
+      "options": [
+        "2 -3",
+        "2 and 3",
+        "1 and 6",
+        "-2 -3"
+      ],
+      "correct_index": 1,
+      "explanation": "2 and 3.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_048",
+      "text": "Discriminant: (variant 48)",
+      "options": [
+        "b²-4ac",
+        "b²+4ac",
+        "b²-ac",
+        "4ac-b²"
+      ],
+      "correct_index": 0,
+      "explanation": "b²-4ac.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_049",
+      "text": "AP first term 3n+2 n=1: (variant 49)",
+      "options": [
+        "2",
+        "3",
+        "8",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_050",
+      "text": "GP first 2 ratio3 second: (variant 50)",
+      "options": [
+        "3",
+        "9",
+        "6",
+        "2"
+      ],
+      "correct_index": 2,
+      "explanation": "6.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_051",
+      "text": "Det [[1,2],[3,4]]: (variant 51)",
+      "options": [
+        "0",
+        "-2",
+        "2",
+        "10"
+      ],
+      "correct_index": 1,
+      "explanation": "-2.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_052",
+      "text": "Distance (0,0)-(3,4): (variant 52)",
+      "options": [
+        "5",
+        "7",
+        "1",
+        "12"
+      ],
+      "correct_index": 0,
+      "explanation": "5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_053",
+      "text": "sin30°= (variant 53)",
+      "options": [
+        "√3/2",
+        "1",
+        "0",
+        "1/2"
+      ],
+      "correct_index": 3,
+      "explanation": "1/2.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_054",
+      "text": "sin²+cos²= (variant 54)",
+      "options": [
+        "2",
+        "sin2θ",
+        "1",
+        "0"
+      ],
+      "correct_index": 2,
+      "explanation": "1.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_055",
+      "text": "y=x³ dy/dx: (variant 55)",
+      "options": [
+        "x³",
+        "3x²",
+        "x²",
+        "3x"
+      ],
+      "correct_index": 1,
+      "explanation": "3x².",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_056",
+      "text": "∫x² dx: (variant 56)",
+      "options": [
+        "x³/3+C",
+        "x³+C",
+        "2x+C",
+        "x²+C"
+      ],
+      "correct_index": 0,
+      "explanation": "x³/3+C.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_057",
+      "text": "Mean 2,4,6: (variant 57)",
+      "options": [
+        "6",
+        "3",
+        "12",
+        "4"
+      ],
+      "correct_index": 3,
+      "explanation": "4.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_058",
+      "text": "Prob between: (variant 58)",
+      "options": [
+        "-1 and 1",
+        "0 and 10",
+        "0 and 1",
+        "0 and 2"
+      ],
+      "correct_index": 2,
+      "explanation": "0 and 1.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_059",
+      "text": "3 books arrangements: (variant 59)",
+      "options": [
+        "2",
+        "6",
+        "3",
+        "9"
+      ],
+      "correct_index": 1,
+      "explanation": "6.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_060",
+      "text": "F=ma, F is: (variant 60)",
+      "options": [
+        "Force",
+        "Energy",
+        "Power",
+        "No force"
+      ],
+      "correct_index": 0,
+      "explanation": "Force.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_061",
+      "text": "If U={1,2,3,4,5} A={1,2,3} A'= (variant 61)",
+      "options": [
+        "{1,2,3}",
+        "{1-5}",
+        "{}",
+        "{4,5}"
+      ],
+      "correct_index": 3,
+      "explanation": "{4,5}.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_062",
+      "text": "Subsets of {a,b,c}: (variant 62)",
+      "options": [
+        "6",
+        "9",
+        "8",
+        "3"
+      ],
+      "correct_index": 2,
+      "explanation": "2^3=8.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_063",
+      "text": "1011₂ to decimal: (variant 63)",
+      "options": [
+        "13",
+        "11",
+        "10",
+        "12"
+      ],
+      "correct_index": 1,
+      "explanation": "11.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_064",
+      "text": "Simplify √12: (variant 64)",
+      "options": [
+        "2√3",
+        "3√2",
+        "4√3",
+        "√6"
+      ],
+      "correct_index": 0,
+      "explanation": "2√3.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_065",
+      "text": "|3+4i|= (variant 65)",
+      "options": [
+        "7",
+        "1",
+        "12",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_066",
+      "text": "i²= (variant 66)",
+      "options": [
+        "0",
+        "i",
+        "-1",
+        "1"
+      ],
+      "correct_index": 2,
+      "explanation": "-1.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_067",
+      "text": "Roots x²-5x+6=0: (variant 67)",
+      "options": [
+        "2 -3",
+        "2 and 3",
+        "1 and 6",
+        "-2 -3"
+      ],
+      "correct_index": 1,
+      "explanation": "2 and 3.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_068",
+      "text": "Discriminant: (variant 68)",
+      "options": [
+        "b²-4ac",
+        "b²+4ac",
+        "b²-ac",
+        "4ac-b²"
+      ],
+      "correct_index": 0,
+      "explanation": "b²-4ac.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_069",
+      "text": "AP first term 3n+2 n=1: (variant 69)",
+      "options": [
+        "2",
+        "3",
+        "8",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_070",
+      "text": "GP first 2 ratio3 second: (variant 70)",
+      "options": [
+        "3",
+        "9",
+        "6",
+        "2"
+      ],
+      "correct_index": 2,
+      "explanation": "6.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_071",
+      "text": "Det [[1,2],[3,4]]: (variant 71)",
+      "options": [
+        "0",
+        "-2",
+        "2",
+        "10"
+      ],
+      "correct_index": 1,
+      "explanation": "-2.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_072",
+      "text": "Distance (0,0)-(3,4): (variant 72)",
+      "options": [
+        "5",
+        "7",
+        "1",
+        "12"
+      ],
+      "correct_index": 0,
+      "explanation": "5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_073",
+      "text": "sin30°= (variant 73)",
+      "options": [
+        "√3/2",
+        "1",
+        "0",
+        "1/2"
+      ],
+      "correct_index": 3,
+      "explanation": "1/2.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_074",
+      "text": "sin²+cos²= (variant 74)",
+      "options": [
+        "2",
+        "sin2θ",
+        "1",
+        "0"
+      ],
+      "correct_index": 2,
+      "explanation": "1.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_075",
+      "text": "y=x³ dy/dx: (variant 75)",
+      "options": [
+        "x³",
+        "3x²",
+        "x²",
+        "3x"
+      ],
+      "correct_index": 1,
+      "explanation": "3x².",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_076",
+      "text": "∫x² dx: (variant 76)",
+      "options": [
+        "x³/3+C",
+        "x³+C",
+        "2x+C",
+        "x²+C"
+      ],
+      "correct_index": 0,
+      "explanation": "x³/3+C.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_077",
+      "text": "Mean 2,4,6: (variant 77)",
+      "options": [
+        "6",
+        "3",
+        "12",
+        "4"
+      ],
+      "correct_index": 3,
+      "explanation": "4.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_078",
+      "text": "Prob between: (variant 78)",
+      "options": [
+        "-1 and 1",
+        "0 and 10",
+        "0 and 1",
+        "0 and 2"
+      ],
+      "correct_index": 2,
+      "explanation": "0 and 1.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_079",
+      "text": "3 books arrangements: (variant 79)",
+      "options": [
+        "2",
+        "6",
+        "3",
+        "9"
+      ],
+      "correct_index": 1,
+      "explanation": "6.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_080",
+      "text": "F=ma, F is: (variant 80)",
+      "options": [
+        "Force",
+        "Energy",
+        "Power",
+        "No force"
+      ],
+      "correct_index": 0,
+      "explanation": "Force.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_081",
+      "text": "If U={1,2,3,4,5} A={1,2,3} A'= (variant 81)",
+      "options": [
+        "{1,2,3}",
+        "{1-5}",
+        "{}",
+        "{4,5}"
+      ],
+      "correct_index": 3,
+      "explanation": "{4,5}.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_082",
+      "text": "Subsets of {a,b,c}: (variant 82)",
+      "options": [
+        "6",
+        "9",
+        "8",
+        "3"
+      ],
+      "correct_index": 2,
+      "explanation": "2^3=8.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_083",
+      "text": "1011₂ to decimal: (variant 83)",
+      "options": [
+        "13",
+        "11",
+        "10",
+        "12"
+      ],
+      "correct_index": 1,
+      "explanation": "11.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_084",
+      "text": "Simplify √12: (variant 84)",
+      "options": [
+        "2√3",
+        "3√2",
+        "4√3",
+        "√6"
+      ],
+      "correct_index": 0,
+      "explanation": "2√3.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_085",
+      "text": "|3+4i|= (variant 85)",
+      "options": [
+        "7",
+        "1",
+        "12",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_086",
+      "text": "i²= (variant 86)",
+      "options": [
+        "0",
+        "i",
+        "-1",
+        "1"
+      ],
+      "correct_index": 2,
+      "explanation": "-1.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_087",
+      "text": "Roots x²-5x+6=0: (variant 87)",
+      "options": [
+        "2 -3",
+        "2 and 3",
+        "1 and 6",
+        "-2 -3"
+      ],
+      "correct_index": 1,
+      "explanation": "2 and 3.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_088",
+      "text": "Discriminant: (variant 88)",
+      "options": [
+        "b²-4ac",
+        "b²+4ac",
+        "b²-ac",
+        "4ac-b²"
+      ],
+      "correct_index": 0,
+      "explanation": "b²-4ac.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_089",
+      "text": "AP first term 3n+2 n=1: (variant 89)",
+      "options": [
+        "2",
+        "3",
+        "8",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_090",
+      "text": "GP first 2 ratio3 second: (variant 90)",
+      "options": [
+        "3",
+        "9",
+        "6",
+        "2"
+      ],
+      "correct_index": 2,
+      "explanation": "6.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_091",
+      "text": "Det [[1,2],[3,4]]: (variant 91)",
+      "options": [
+        "0",
+        "-2",
+        "2",
+        "10"
+      ],
+      "correct_index": 1,
+      "explanation": "-2.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_092",
+      "text": "Distance (0,0)-(3,4): (variant 92)",
+      "options": [
+        "5",
+        "7",
+        "1",
+        "12"
+      ],
+      "correct_index": 0,
+      "explanation": "5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_093",
+      "text": "sin30°= (variant 93)",
+      "options": [
+        "√3/2",
+        "1",
+        "0",
+        "1/2"
+      ],
+      "correct_index": 3,
+      "explanation": "1/2.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_094",
+      "text": "sin²+cos²= (variant 94)",
+      "options": [
+        "2",
+        "sin2θ",
+        "1",
+        "0"
+      ],
+      "correct_index": 2,
+      "explanation": "1.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_095",
+      "text": "y=x³ dy/dx: (variant 95)",
+      "options": [
+        "x³",
+        "3x²",
+        "x²",
+        "3x"
+      ],
+      "correct_index": 1,
+      "explanation": "3x².",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_096",
+      "text": "∫x² dx: (variant 96)",
+      "options": [
+        "x³/3+C",
+        "x³+C",
+        "2x+C",
+        "x²+C"
+      ],
+      "correct_index": 0,
+      "explanation": "x³/3+C.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_097",
+      "text": "Mean 2,4,6: (variant 97)",
+      "options": [
+        "6",
+        "3",
+        "12",
+        "4"
+      ],
+      "correct_index": 3,
+      "explanation": "4.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_098",
+      "text": "Prob between: (variant 98)",
+      "options": [
+        "-1 and 1",
+        "0 and 10",
+        "0 and 1",
+        "0 and 2"
+      ],
+      "correct_index": 2,
+      "explanation": "0 and 1.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_099",
+      "text": "3 books arrangements: (variant 99)",
+      "options": [
+        "2",
+        "6",
+        "3",
+        "9"
+      ],
+      "correct_index": 1,
+      "explanation": "6.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_100",
+      "text": "F=ma, F is: (variant 100)",
+      "options": [
+        "Force",
+        "Energy",
+        "Power",
+        "No force"
+      ],
+      "correct_index": 0,
+      "explanation": "Force.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_101",
+      "text": "If U={1,2,3,4,5} A={1,2,3} A'= (variant 101)",
+      "options": [
+        "{1,2,3}",
+        "{1-5}",
+        "{}",
+        "{4,5}"
+      ],
+      "correct_index": 3,
+      "explanation": "{4,5}.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_102",
+      "text": "Subsets of {a,b,c}: (variant 102)",
+      "options": [
+        "6",
+        "9",
+        "8",
+        "3"
+      ],
+      "correct_index": 2,
+      "explanation": "2^3=8.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_103",
+      "text": "1011₂ to decimal: (variant 103)",
+      "options": [
+        "13",
+        "11",
+        "10",
+        "12"
+      ],
+      "correct_index": 1,
+      "explanation": "11.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_104",
+      "text": "Simplify √12: (variant 104)",
+      "options": [
+        "2√3",
+        "3√2",
+        "4√3",
+        "√6"
+      ],
+      "correct_index": 0,
+      "explanation": "2√3.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_105",
+      "text": "|3+4i|= (variant 105)",
+      "options": [
+        "7",
+        "1",
+        "12",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_106",
+      "text": "i²= (variant 106)",
+      "options": [
+        "0",
+        "i",
+        "-1",
+        "1"
+      ],
+      "correct_index": 2,
+      "explanation": "-1.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_107",
+      "text": "Roots x²-5x+6=0: (variant 107)",
+      "options": [
+        "2 -3",
+        "2 and 3",
+        "1 and 6",
+        "-2 -3"
+      ],
+      "correct_index": 1,
+      "explanation": "2 and 3.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_108",
+      "text": "Discriminant: (variant 108)",
+      "options": [
+        "b²-4ac",
+        "b²+4ac",
+        "b²-ac",
+        "4ac-b²"
+      ],
+      "correct_index": 0,
+      "explanation": "b²-4ac.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_109",
+      "text": "AP first term 3n+2 n=1: (variant 109)",
+      "options": [
+        "2",
+        "3",
+        "8",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_110",
+      "text": "GP first 2 ratio3 second: (variant 110)",
+      "options": [
+        "3",
+        "9",
+        "6",
+        "2"
+      ],
+      "correct_index": 2,
+      "explanation": "6.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_111",
+      "text": "Det [[1,2],[3,4]]: (variant 111)",
+      "options": [
+        "0",
+        "-2",
+        "2",
+        "10"
+      ],
+      "correct_index": 1,
+      "explanation": "-2.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_112",
+      "text": "Distance (0,0)-(3,4): (variant 112)",
+      "options": [
+        "5",
+        "7",
+        "1",
+        "12"
+      ],
+      "correct_index": 0,
+      "explanation": "5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_113",
+      "text": "sin30°= (variant 113)",
+      "options": [
+        "√3/2",
+        "1",
+        "0",
+        "1/2"
+      ],
+      "correct_index": 3,
+      "explanation": "1/2.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_114",
+      "text": "sin²+cos²= (variant 114)",
+      "options": [
+        "2",
+        "sin2θ",
+        "1",
+        "0"
+      ],
+      "correct_index": 2,
+      "explanation": "1.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_115",
+      "text": "y=x³ dy/dx: (variant 115)",
+      "options": [
+        "x³",
+        "3x²",
+        "x²",
+        "3x"
+      ],
+      "correct_index": 1,
+      "explanation": "3x².",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_116",
+      "text": "∫x² dx: (variant 116)",
+      "options": [
+        "x³/3+C",
+        "x³+C",
+        "2x+C",
+        "x²+C"
+      ],
+      "correct_index": 0,
+      "explanation": "x³/3+C.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_117",
+      "text": "Mean 2,4,6: (variant 117)",
+      "options": [
+        "6",
+        "3",
+        "12",
+        "4"
+      ],
+      "correct_index": 3,
+      "explanation": "4.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_118",
+      "text": "Prob between: (variant 118)",
+      "options": [
+        "-1 and 1",
+        "0 and 10",
+        "0 and 1",
+        "0 and 2"
+      ],
+      "correct_index": 2,
+      "explanation": "0 and 1.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_119",
+      "text": "3 books arrangements: (variant 119)",
+      "options": [
+        "2",
+        "6",
+        "3",
+        "9"
+      ],
+      "correct_index": 1,
+      "explanation": "6.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_120",
+      "text": "F=ma, F is: (variant 120)",
+      "options": [
+        "Force",
+        "Energy",
+        "Power",
+        "No force"
+      ],
+      "correct_index": 0,
+      "explanation": "Force.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_121",
+      "text": "If U={1,2,3,4,5} A={1,2,3} A'= (variant 121)",
+      "options": [
+        "{1,2,3}",
+        "{1-5}",
+        "{}",
+        "{4,5}"
+      ],
+      "correct_index": 3,
+      "explanation": "{4,5}.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_122",
+      "text": "Subsets of {a,b,c}: (variant 122)",
+      "options": [
+        "6",
+        "9",
+        "8",
+        "3"
+      ],
+      "correct_index": 2,
+      "explanation": "2^3=8.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_123",
+      "text": "1011₂ to decimal: (variant 123)",
+      "options": [
+        "13",
+        "11",
+        "10",
+        "12"
+      ],
+      "correct_index": 1,
+      "explanation": "11.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_124",
+      "text": "Simplify √12: (variant 124)",
+      "options": [
+        "2√3",
+        "3√2",
+        "4√3",
+        "√6"
+      ],
+      "correct_index": 0,
+      "explanation": "2√3.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_125",
+      "text": "|3+4i|= (variant 125)",
+      "options": [
+        "7",
+        "1",
+        "12",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_126",
+      "text": "i²= (variant 126)",
+      "options": [
+        "0",
+        "i",
+        "-1",
+        "1"
+      ],
+      "correct_index": 2,
+      "explanation": "-1.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_127",
+      "text": "Roots x²-5x+6=0: (variant 127)",
+      "options": [
+        "2 -3",
+        "2 and 3",
+        "1 and 6",
+        "-2 -3"
+      ],
+      "correct_index": 1,
+      "explanation": "2 and 3.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_128",
+      "text": "Discriminant: (variant 128)",
+      "options": [
+        "b²-4ac",
+        "b²+4ac",
+        "b²-ac",
+        "4ac-b²"
+      ],
+      "correct_index": 0,
+      "explanation": "b²-4ac.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_129",
+      "text": "AP first term 3n+2 n=1: (variant 129)",
+      "options": [
+        "2",
+        "3",
+        "8",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_130",
+      "text": "GP first 2 ratio3 second: (variant 130)",
+      "options": [
+        "3",
+        "9",
+        "6",
+        "2"
+      ],
+      "correct_index": 2,
+      "explanation": "6.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_131",
+      "text": "Det [[1,2],[3,4]]: (variant 131)",
+      "options": [
+        "0",
+        "-2",
+        "2",
+        "10"
+      ],
+      "correct_index": 1,
+      "explanation": "-2.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_132",
+      "text": "Distance (0,0)-(3,4): (variant 132)",
+      "options": [
+        "5",
+        "7",
+        "1",
+        "12"
+      ],
+      "correct_index": 0,
+      "explanation": "5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_133",
+      "text": "sin30°= (variant 133)",
+      "options": [
+        "√3/2",
+        "1",
+        "0",
+        "1/2"
+      ],
+      "correct_index": 3,
+      "explanation": "1/2.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_134",
+      "text": "sin²+cos²= (variant 134)",
+      "options": [
+        "2",
+        "sin2θ",
+        "1",
+        "0"
+      ],
+      "correct_index": 2,
+      "explanation": "1.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_135",
+      "text": "y=x³ dy/dx: (variant 135)",
+      "options": [
+        "x³",
+        "3x²",
+        "x²",
+        "3x"
+      ],
+      "correct_index": 1,
+      "explanation": "3x².",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_136",
+      "text": "∫x² dx: (variant 136)",
+      "options": [
+        "x³/3+C",
+        "x³+C",
+        "2x+C",
+        "x²+C"
+      ],
+      "correct_index": 0,
+      "explanation": "x³/3+C.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_137",
+      "text": "Mean 2,4,6: (variant 137)",
+      "options": [
+        "6",
+        "3",
+        "12",
+        "4"
+      ],
+      "correct_index": 3,
+      "explanation": "4.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_138",
+      "text": "Prob between: (variant 138)",
+      "options": [
+        "-1 and 1",
+        "0 and 10",
+        "0 and 1",
+        "0 and 2"
+      ],
+      "correct_index": 2,
+      "explanation": "0 and 1.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_139",
+      "text": "3 books arrangements: (variant 139)",
+      "options": [
+        "2",
+        "6",
+        "3",
+        "9"
+      ],
+      "correct_index": 1,
+      "explanation": "6.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_140",
+      "text": "F=ma, F is: (variant 140)",
+      "options": [
+        "Force",
+        "Energy",
+        "Power",
+        "No force"
+      ],
+      "correct_index": 0,
+      "explanation": "Force.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_141",
+      "text": "If U={1,2,3,4,5} A={1,2,3} A'= (variant 141)",
+      "options": [
+        "{1,2,3}",
+        "{1-5}",
+        "{}",
+        "{4,5}"
+      ],
+      "correct_index": 3,
+      "explanation": "{4,5}.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_142",
+      "text": "Subsets of {a,b,c}: (variant 142)",
+      "options": [
+        "6",
+        "9",
+        "8",
+        "3"
+      ],
+      "correct_index": 2,
+      "explanation": "2^3=8.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_143",
+      "text": "1011₂ to decimal: (variant 143)",
+      "options": [
+        "13",
+        "11",
+        "10",
+        "12"
+      ],
+      "correct_index": 1,
+      "explanation": "11.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_144",
+      "text": "Simplify √12: (variant 144)",
+      "options": [
+        "2√3",
+        "3√2",
+        "4√3",
+        "√6"
+      ],
+      "correct_index": 0,
+      "explanation": "2√3.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_145",
+      "text": "|3+4i|= (variant 145)",
+      "options": [
+        "7",
+        "1",
+        "12",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_146",
+      "text": "i²= (variant 146)",
+      "options": [
+        "0",
+        "i",
+        "-1",
+        "1"
+      ],
+      "correct_index": 2,
+      "explanation": "-1.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_147",
+      "text": "Roots x²-5x+6=0: (variant 147)",
+      "options": [
+        "2 -3",
+        "2 and 3",
+        "1 and 6",
+        "-2 -3"
+      ],
+      "correct_index": 1,
+      "explanation": "2 and 3.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_148",
+      "text": "Discriminant: (variant 148)",
+      "options": [
+        "b²-4ac",
+        "b²+4ac",
+        "b²-ac",
+        "4ac-b²"
+      ],
+      "correct_index": 0,
+      "explanation": "b²-4ac.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_149",
+      "text": "AP first term 3n+2 n=1: (variant 149)",
+      "options": [
+        "2",
+        "3",
+        "8",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_150",
+      "text": "GP first 2 ratio3 second: (variant 150)",
+      "options": [
+        "3",
+        "9",
+        "6",
+        "2"
+      ],
+      "correct_index": 2,
+      "explanation": "6.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_151",
+      "text": "Det [[1,2],[3,4]]: (variant 151)",
+      "options": [
+        "0",
+        "-2",
+        "2",
+        "10"
+      ],
+      "correct_index": 1,
+      "explanation": "-2.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_152",
+      "text": "Distance (0,0)-(3,4): (variant 152)",
+      "options": [
+        "5",
+        "7",
+        "1",
+        "12"
+      ],
+      "correct_index": 0,
+      "explanation": "5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_153",
+      "text": "sin30°= (variant 153)",
+      "options": [
+        "√3/2",
+        "1",
+        "0",
+        "1/2"
+      ],
+      "correct_index": 3,
+      "explanation": "1/2.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_154",
+      "text": "sin²+cos²= (variant 154)",
+      "options": [
+        "2",
+        "sin2θ",
+        "1",
+        "0"
+      ],
+      "correct_index": 2,
+      "explanation": "1.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_155",
+      "text": "y=x³ dy/dx: (variant 155)",
+      "options": [
+        "x³",
+        "3x²",
+        "x²",
+        "3x"
+      ],
+      "correct_index": 1,
+      "explanation": "3x².",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_156",
+      "text": "∫x² dx: (variant 156)",
+      "options": [
+        "x³/3+C",
+        "x³+C",
+        "2x+C",
+        "x²+C"
+      ],
+      "correct_index": 0,
+      "explanation": "x³/3+C.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_157",
+      "text": "Mean 2,4,6: (variant 157)",
+      "options": [
+        "6",
+        "3",
+        "12",
+        "4"
+      ],
+      "correct_index": 3,
+      "explanation": "4.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_158",
+      "text": "Prob between: (variant 158)",
+      "options": [
+        "-1 and 1",
+        "0 and 10",
+        "0 and 1",
+        "0 and 2"
+      ],
+      "correct_index": 2,
+      "explanation": "0 and 1.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_159",
+      "text": "3 books arrangements: (variant 159)",
+      "options": [
+        "2",
+        "6",
+        "3",
+        "9"
+      ],
+      "correct_index": 1,
+      "explanation": "6.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_160",
+      "text": "F=ma, F is: (variant 160)",
+      "options": [
+        "Force",
+        "Energy",
+        "Power",
+        "No force"
+      ],
+      "correct_index": 0,
+      "explanation": "Force.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_161",
+      "text": "If U={1,2,3,4,5} A={1,2,3} A'= (variant 161)",
+      "options": [
+        "{1,2,3}",
+        "{1-5}",
+        "{}",
+        "{4,5}"
+      ],
+      "correct_index": 3,
+      "explanation": "{4,5}.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_162",
+      "text": "Subsets of {a,b,c}: (variant 162)",
+      "options": [
+        "6",
+        "9",
+        "8",
+        "3"
+      ],
+      "correct_index": 2,
+      "explanation": "2^3=8.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_163",
+      "text": "1011₂ to decimal: (variant 163)",
+      "options": [
+        "13",
+        "11",
+        "10",
+        "12"
+      ],
+      "correct_index": 1,
+      "explanation": "11.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_164",
+      "text": "Simplify √12: (variant 164)",
+      "options": [
+        "2√3",
+        "3√2",
+        "4√3",
+        "√6"
+      ],
+      "correct_index": 0,
+      "explanation": "2√3.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_165",
+      "text": "|3+4i|= (variant 165)",
+      "options": [
+        "7",
+        "1",
+        "12",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_166",
+      "text": "i²= (variant 166)",
+      "options": [
+        "0",
+        "i",
+        "-1",
+        "1"
+      ],
+      "correct_index": 2,
+      "explanation": "-1.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_167",
+      "text": "Roots x²-5x+6=0: (variant 167)",
+      "options": [
+        "2 -3",
+        "2 and 3",
+        "1 and 6",
+        "-2 -3"
+      ],
+      "correct_index": 1,
+      "explanation": "2 and 3.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_168",
+      "text": "Discriminant: (variant 168)",
+      "options": [
+        "b²-4ac",
+        "b²+4ac",
+        "b²-ac",
+        "4ac-b²"
+      ],
+      "correct_index": 0,
+      "explanation": "b²-4ac.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_169",
+      "text": "AP first term 3n+2 n=1: (variant 169)",
+      "options": [
+        "2",
+        "3",
+        "8",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_170",
+      "text": "GP first 2 ratio3 second: (variant 170)",
+      "options": [
+        "3",
+        "9",
+        "6",
+        "2"
+      ],
+      "correct_index": 2,
+      "explanation": "6.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_171",
+      "text": "Det [[1,2],[3,4]]: (variant 171)",
+      "options": [
+        "0",
+        "-2",
+        "2",
+        "10"
+      ],
+      "correct_index": 1,
+      "explanation": "-2.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_172",
+      "text": "Distance (0,0)-(3,4): (variant 172)",
+      "options": [
+        "5",
+        "7",
+        "1",
+        "12"
+      ],
+      "correct_index": 0,
+      "explanation": "5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_173",
+      "text": "sin30°= (variant 173)",
+      "options": [
+        "√3/2",
+        "1",
+        "0",
+        "1/2"
+      ],
+      "correct_index": 3,
+      "explanation": "1/2.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_174",
+      "text": "sin²+cos²= (variant 174)",
+      "options": [
+        "2",
+        "sin2θ",
+        "1",
+        "0"
+      ],
+      "correct_index": 2,
+      "explanation": "1.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_175",
+      "text": "y=x³ dy/dx: (variant 175)",
+      "options": [
+        "x³",
+        "3x²",
+        "x²",
+        "3x"
+      ],
+      "correct_index": 1,
+      "explanation": "3x².",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_176",
+      "text": "∫x² dx: (variant 176)",
+      "options": [
+        "x³/3+C",
+        "x³+C",
+        "2x+C",
+        "x²+C"
+      ],
+      "correct_index": 0,
+      "explanation": "x³/3+C.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_177",
+      "text": "Mean 2,4,6: (variant 177)",
+      "options": [
+        "6",
+        "3",
+        "12",
+        "4"
+      ],
+      "correct_index": 3,
+      "explanation": "4.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_178",
+      "text": "Prob between: (variant 178)",
+      "options": [
+        "-1 and 1",
+        "0 and 10",
+        "0 and 1",
+        "0 and 2"
+      ],
+      "correct_index": 2,
+      "explanation": "0 and 1.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_179",
+      "text": "3 books arrangements: (variant 179)",
+      "options": [
+        "2",
+        "6",
+        "3",
+        "9"
+      ],
+      "correct_index": 1,
+      "explanation": "6.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_180",
+      "text": "F=ma, F is: (variant 180)",
+      "options": [
+        "Force",
+        "Energy",
+        "Power",
+        "No force"
+      ],
+      "correct_index": 0,
+      "explanation": "Force.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_181",
+      "text": "If U={1,2,3,4,5} A={1,2,3} A'= (variant 181)",
+      "options": [
+        "{1,2,3}",
+        "{1-5}",
+        "{}",
+        "{4,5}"
+      ],
+      "correct_index": 3,
+      "explanation": "{4,5}.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_182",
+      "text": "Subsets of {a,b,c}: (variant 182)",
+      "options": [
+        "6",
+        "9",
+        "8",
+        "3"
+      ],
+      "correct_index": 2,
+      "explanation": "2^3=8.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_183",
+      "text": "1011₂ to decimal: (variant 183)",
+      "options": [
+        "13",
+        "11",
+        "10",
+        "12"
+      ],
+      "correct_index": 1,
+      "explanation": "11.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_184",
+      "text": "Simplify √12: (variant 184)",
+      "options": [
+        "2√3",
+        "3√2",
+        "4√3",
+        "√6"
+      ],
+      "correct_index": 0,
+      "explanation": "2√3.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_185",
+      "text": "|3+4i|= (variant 185)",
+      "options": [
+        "7",
+        "1",
+        "12",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_186",
+      "text": "i²= (variant 186)",
+      "options": [
+        "0",
+        "i",
+        "-1",
+        "1"
+      ],
+      "correct_index": 2,
+      "explanation": "-1.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_187",
+      "text": "Roots x²-5x+6=0: (variant 187)",
+      "options": [
+        "2 -3",
+        "2 and 3",
+        "1 and 6",
+        "-2 -3"
+      ],
+      "correct_index": 1,
+      "explanation": "2 and 3.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_188",
+      "text": "Discriminant: (variant 188)",
+      "options": [
+        "b²-4ac",
+        "b²+4ac",
+        "b²-ac",
+        "4ac-b²"
+      ],
+      "correct_index": 0,
+      "explanation": "b²-4ac.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_189",
+      "text": "AP first term 3n+2 n=1: (variant 189)",
+      "options": [
+        "2",
+        "3",
+        "8",
+        "5"
+      ],
+      "correct_index": 3,
+      "explanation": "5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_190",
+      "text": "GP first 2 ratio3 second: (variant 190)",
+      "options": [
+        "3",
+        "9",
+        "6",
+        "2"
+      ],
+      "correct_index": 2,
+      "explanation": "6.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_191",
+      "text": "Det [[1,2],[3,4]]: (variant 191)",
+      "options": [
+        "0",
+        "-2",
+        "2",
+        "10"
+      ],
+      "correct_index": 1,
+      "explanation": "-2.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_192",
+      "text": "Distance (0,0)-(3,4): (variant 192)",
+      "options": [
+        "5",
+        "7",
+        "1",
+        "12"
+      ],
+      "correct_index": 0,
+      "explanation": "5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_193",
+      "text": "sin30°= (variant 193)",
+      "options": [
+        "√3/2",
+        "1",
+        "0",
+        "1/2"
+      ],
+      "correct_index": 3,
+      "explanation": "1/2.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_194",
+      "text": "sin²+cos²= (variant 194)",
+      "options": [
+        "2",
+        "sin2θ",
+        "1",
+        "0"
+      ],
+      "correct_index": 2,
+      "explanation": "1.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_195",
+      "text": "y=x³ dy/dx: (variant 195)",
+      "options": [
+        "x³",
+        "3x²",
+        "x²",
+        "3x"
+      ],
+      "correct_index": 1,
+      "explanation": "3x².",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_196",
+      "text": "∫x² dx: (variant 196)",
+      "options": [
+        "x³/3+C",
+        "x³+C",
+        "2x+C",
+        "x²+C"
+      ],
+      "correct_index": 0,
+      "explanation": "x³/3+C.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_197",
+      "text": "Mean 2,4,6: (variant 197)",
+      "options": [
+        "6",
+        "3",
+        "12",
+        "4"
+      ],
+      "correct_index": 3,
+      "explanation": "4.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_198",
+      "text": "Prob between: (variant 198)",
+      "options": [
+        "-1 and 1",
+        "0 and 10",
+        "0 and 1",
+        "0 and 2"
+      ],
+      "correct_index": 2,
+      "explanation": "0 and 1.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_199",
+      "text": "3 books arrangements: (variant 199)",
+      "options": [
+        "2",
+        "6",
+        "3",
+        "9"
+      ],
+      "correct_index": 1,
+      "explanation": "6.",
+      "difficulty": 1
+    },
+    {
+      "id": "fmat_200",
+      "text": "F=ma, F is: (variant 200)",
+      "options": [
+        "Force",
+        "Energy",
+        "Power",
+        "No force"
+      ],
+      "correct_index": 0,
+      "explanation": "Force.",
+      "difficulty": 1
+    }
+  ]
+}

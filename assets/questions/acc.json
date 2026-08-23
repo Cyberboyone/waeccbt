@@ -1,0 +1,2607 @@
+{
+  "course_id": "acc",
+  "course_name": "Financial Accounting",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "acc_001",
+      "text": "Bookkeeping is the process of:",
+      "options": [
+        "Auditing",
+        "Taxing",
+        "Marketing",
+        "Recording financial transactions"
+      ],
+      "correct_index": 3,
+      "explanation": "Bookkeeping records transactions.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_002",
+      "text": "Accounting is best defined as:",
+      "options": [
+        "Auditing",
+        "Filing returns",
+        "Recording only",
+        "Recording, classifying and summarising financial transactions"
+      ],
+      "correct_index": 3,
+      "explanation": "Accounting records, classifies, summarises.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_003",
+      "text": "The father of double-entry bookkeeping is:",
+      "options": [
+        "Ricardo",
+        "Adam Smith",
+        "Luca Pacioli",
+        "Keynes"
+      ],
+      "correct_index": 2,
+      "explanation": "Luca Pacioli documented double entry.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_004",
+      "text": "The main purpose of accounting is to:",
+      "options": [
+        "Pay tax only",
+        "Provide financial information for decision-making",
+        "Hide losses",
+        "Decorate"
+      ],
+      "correct_index": 1,
+      "explanation": "Accounting informs decisions.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_005",
+      "text": "The users of accounting information include:",
+      "options": [
+        "Only owners",
+        "Only government",
+        "Only auditors",
+        "Owners, creditors, government"
+      ],
+      "correct_index": 3,
+      "explanation": "Many parties use accounting info.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_006",
+      "text": "The source documents of accounting include all EXCEPT:",
+      "options": [
+        "Cheques",
+        "Newspapers",
+        "Invoices",
+        "Receipts"
+      ],
+      "correct_index": 1,
+      "explanation": "Newspapers are not source documents.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_007",
+      "text": "A business transaction is:",
+      "options": [
+        "A meeting",
+        "Any event",
+        "An event that affects the financial position",
+        "A rumour"
+      ],
+      "correct_index": 2,
+      "explanation": "Transactions affect financial position.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_008",
+      "text": "The book of original entry is the:",
+      "options": [
+        "Ledger",
+        "Journal/day book",
+        "Trial balance",
+        "Balance sheet"
+      ],
+      "correct_index": 1,
+      "explanation": "Journals are books of prime entry.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_009",
+      "text": "The principal book of account is the:",
+      "options": [
+        "Ledger",
+        "Invoice",
+        "Cash book",
+        "Journal"
+      ],
+      "correct_index": 0,
+      "explanation": "The ledger is the principal book.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_010",
+      "text": "A ledger is a book containing:",
+      "options": [
+        "Invoices",
+        "Receipts",
+        "Journals",
+        "Accounts"
+      ],
+      "correct_index": 3,
+      "explanation": "The ledger holds accounts.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_011",
+      "text": "The double-entry system records each transaction in:",
+      "options": [
+        "No account",
+        "One account",
+        "Two accounts (debit and credit)",
+        "Three accounts"
+      ],
+      "correct_index": 2,
+      "explanation": "Every transaction has a debit and credit.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_012",
+      "text": "In double entry, a debit entry is made on the:",
+      "options": [
+        "Right side",
+        "Left side",
+        "Top",
+        "Bottom"
+      ],
+      "correct_index": 1,
+      "explanation": "Debits go on the left.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_013",
+      "text": "A credit entry is made on the:",
+      "options": [
+        "Right side",
+        "Top",
+        "Bottom",
+        "Left side"
+      ],
+      "correct_index": 0,
+      "explanation": "Credits go on the right.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_014",
+      "text": "Assets increase with a:",
+      "options": [
+        "Both",
+        "Neither",
+        "Credit",
+        "Debit"
+      ],
+      "correct_index": 3,
+      "explanation": "Assets increase on the debit side.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_015",
+      "text": "Liabilities increase with a:",
+      "options": [
+        "Neither",
+        "Debit",
+        "Credit",
+        "Both"
+      ],
+      "correct_index": 2,
+      "explanation": "Liabilities increase on the credit side.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_016",
+      "text": "Capital increases with a:",
+      "options": [
+        "Debit",
+        "Credit",
+        "Both",
+        "Neither"
+      ],
+      "correct_index": 1,
+      "explanation": "Capital increases on the credit side.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_017",
+      "text": "Expenses increase with a:",
+      "options": [
+        "Debit",
+        "Both",
+        "Neither",
+        "Credit"
+      ],
+      "correct_index": 0,
+      "explanation": "Expenses increase on the debit side.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_018",
+      "text": "Income increases with a:",
+      "options": [
+        "Both",
+        "Neither",
+        "Debit",
+        "Credit"
+      ],
+      "correct_index": 3,
+      "explanation": "Income increases on the credit side.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_019",
+      "text": "The accounting equation is:",
+      "options": [
+        "Assets = Liabilities × Capital",
+        "Assets = Liabilities + Capital",
+        "Assets = Liabilities − Capital",
+        "Capital = Assets + Liabilities"
+      ],
+      "correct_index": 1,
+      "explanation": "Assets = Liabilities + Capital.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_020",
+      "text": "Purchases of goods for resale are recorded in the:",
+      "options": [
+        "Sales account",
+        "Purchases account",
+        "Capital account",
+        "Cash account"
+      ],
+      "correct_index": 1,
+      "explanation": "Goods bought go to the purchases account.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_021",
+      "text": "Sales of goods are recorded in the:",
+      "options": [
+        "Sales account",
+        "Capital account",
+        "Bank account",
+        "Purchases account"
+      ],
+      "correct_index": 0,
+      "explanation": "Goods sold go to the sales account.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_022",
+      "text": "When goods are bought on credit, the supplier's account is:",
+      "options": [
+        "Ignored",
+        "Closed",
+        "Debited",
+        "Credited"
+      ],
+      "correct_index": 3,
+      "explanation": "Creditors are credited.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_023",
+      "text": "When cash is received, the cash account is:",
+      "options": [
+        "Closed",
+        "Credited",
+        "Debited",
+        "Ignored"
+      ],
+      "correct_index": 2,
+      "explanation": "Cash received = debit cash.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_024",
+      "text": "The account debited when a business pays rent is:",
+      "options": [
+        "Cash",
+        "Rent account",
+        "Capital",
+        "Bank"
+      ],
+      "correct_index": 1,
+      "explanation": "Rent (expense) is debited.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_025",
+      "text": "The fundamental ethical principle in accounting includes:",
+      "options": [
+        "Integrity and objectivity",
+        "Secrecy from regulators",
+        "Bias",
+        "Dishonesty"
+      ],
+      "correct_index": 0,
+      "explanation": "Accountants must be honest and objective.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_026",
+      "text": "Confidentiality in accounting means the accountant should:",
+      "options": [
+        "Sell information",
+        "Gossip",
+        "Share client secrets",
+        "Keep client information private"
+      ],
+      "correct_index": 3,
+      "explanation": "Accountants keep information confidential.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_027",
+      "text": "Independence of an auditor means the auditor must be:",
+      "options": [
+        "A shareholder",
+        "Related to the client",
+        "Free from bias/conflict of interest",
+        "Employed by the client"
+      ],
+      "correct_index": 2,
+      "explanation": "Auditors must be independent.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_028",
+      "text": "The cash book is a book of:",
+      "options": [
+        "Secondary entry only",
+        "Prime entry that combines cash and bank",
+        "Final accounts",
+        "Memoranda"
+      ],
+      "correct_index": 1,
+      "explanation": "The cash book records cash and bank.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_029",
+      "text": "A two-column cash book has columns for:",
+      "options": [
+        "Cash and bank",
+        "Bank and discount",
+        "Cash only",
+        "Cash and discount"
+      ],
+      "correct_index": 0,
+      "explanation": "Two-column = cash and bank.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_030",
+      "text": "A three-column cash book has columns for:",
+      "options": [
+        "Discount only",
+        "Cash only",
+        "Cash, bank and discount",
+        "Cash and bank"
+      ],
+      "correct_index": 2,
+      "explanation": "Three-column = cash, bank, discount.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_031",
+      "text": "The petty cash book records:",
+      "options": [
+        "Investments",
+        "Large payments",
+        "Small cash payments",
+        "Credit sales"
+      ],
+      "correct_index": 2,
+      "explanation": "Petty cash records small payments.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_032",
+      "text": "The system where petty cash is topped up to a fixed amount is the:",
+      "options": [
+        "Fixed system",
+        "Imprest system",
+        "Credit system",
+        "Bank system"
+      ],
+      "correct_index": 1,
+      "explanation": "The imprest system restores the float.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_033",
+      "text": "A contra entry in the cash book occurs when:",
+      "options": [
+        "Cash is transferred between cash and bank",
+        "Goods are sold",
+        "A loan is taken",
+        "Cash is paid out"
+      ],
+      "correct_index": 0,
+      "explanation": "Contra entries link cash and bank.",
+      "difficulty": 2
+    },
+    {
+      "id": "acc_034",
+      "text": "Discount received is recorded on the ___ side of the cash book.",
+      "options": [
+        "Both",
+        "Neither",
+        "Debit",
+        "Credit"
+      ],
+      "correct_index": 3,
+      "explanation": "Discount received is credited.",
+      "difficulty": 2
+    },
+    {
+      "id": "acc_035",
+      "text": "Discount allowed is recorded on the ___ side of the cash book.",
+      "options": [
+        "Neither",
+        "Credit",
+        "Debit",
+        "Both"
+      ],
+      "correct_index": 2,
+      "explanation": "Discount allowed is debited.",
+      "difficulty": 2
+    },
+    {
+      "id": "acc_036",
+      "text": "A bank reconciliation statement reconciles the:",
+      "options": [
+        "Cash book and bank statement balances",
+        "Two bank accounts",
+        "Debtors and creditors",
+        "Sales and purchases"
+      ],
+      "correct_index": 0,
+      "explanation": "It reconciles cash book with bank statement.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_037",
+      "text": "The document sent by the bank showing account activity is the:",
+      "options": [
+        "Bank statement",
+        "Cheque book",
+        "Receipt",
+        "Invoice"
+      ],
+      "correct_index": 0,
+      "explanation": "Banks issue statements.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_038",
+      "text": "An unpresented cheque is one:",
+      "options": [
+        "Deposited",
+        "Lost",
+        "Paid by the bank",
+        "Issued but not yet presented for payment"
+      ],
+      "correct_index": 3,
+      "explanation": "Unpresented cheques are not yet paid.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_039",
+      "text": "An uncredited cheque is one:",
+      "options": [
+        "Bounced",
+        "Paid out",
+        "Deposited but not yet credited by the bank",
+        "Cancelled"
+      ],
+      "correct_index": 2,
+      "explanation": "Uncredited cheques are not yet in the account.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_040",
+      "text": "Bank charges appear in the:",
+      "options": [
+        "Cash book only",
+        "Bank statement (not yet in cash book)",
+        "Ledger only",
+        "Journal"
+      ],
+      "correct_index": 1,
+      "explanation": "Bank charges appear on the statement first.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_041",
+      "text": "A standing order is:",
+      "options": [
+        "A regular payment authorised to the bank",
+        "A deposit",
+        "A loan",
+        "A cheque"
+      ],
+      "correct_index": 0,
+      "explanation": "Standing orders are regular bank payments.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_042",
+      "text": "A credit transfer into the account appears first in the:",
+      "options": [
+        "Ledger",
+        "Journal",
+        "Cash book",
+        "Bank statement"
+      ],
+      "correct_index": 3,
+      "explanation": "Credit transfers show on the statement.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_043",
+      "text": "Dishonoured (bounced) cheques must be:",
+      "options": [
+        "Framed",
+        "Ignored",
+        "Adjusted in the cash book",
+        "Destroyed"
+      ],
+      "correct_index": 2,
+      "explanation": "Dishonoured cheques are reversed.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_044",
+      "text": "The final accounts of a sole trader consist of:",
+      "options": [
+        "Trading, profit and loss account and balance sheet",
+        "Cash book only",
+        "Journal only",
+        "Ledger only"
+      ],
+      "correct_index": 0,
+      "explanation": "Final accounts: trading + P&L + balance sheet.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_045",
+      "text": "The trading account is used to calculate:",
+      "options": [
+        "Gross profit",
+        "Capital",
+        "Assets",
+        "Net profit"
+      ],
+      "correct_index": 0,
+      "explanation": "The trading account shows gross profit.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_046",
+      "text": "Gross profit equals:",
+      "options": [
+        "Revenue − all expenses",
+        "Assets − liabilities",
+        "Sales − cost of goods sold",
+        "Sales + expenses"
+      ],
+      "correct_index": 2,
+      "explanation": "Gross profit = sales − COGS.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_047",
+      "text": "Cost of goods sold equals:",
+      "options": [
+        "Closing stock − purchases",
+        "Opening stock + purchases − closing stock",
+        "Sales − profit",
+        "Purchases only"
+      ],
+      "correct_index": 1,
+      "explanation": "COGS = opening stock + purchases − closing stock.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_048",
+      "text": "Net profit equals:",
+      "options": [
+        "Gross profit − expenses",
+        "Gross profit + expenses",
+        "Sales − purchases",
+        "Assets − liabilities"
+      ],
+      "correct_index": 0,
+      "explanation": "Net profit = gross profit − expenses.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_049",
+      "text": "The profit and loss account shows:",
+      "options": [
+        "Net profit or loss",
+        "Assets",
+        "Capital",
+        "Gross profit"
+      ],
+      "correct_index": 0,
+      "explanation": "The P&L shows net profit/loss.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_050",
+      "text": "The balance sheet is a statement of:",
+      "options": [
+        "Sales",
+        "Expenses",
+        "Profit",
+        "Assets, liabilities and capital"
+      ],
+      "correct_index": 3,
+      "explanation": "The balance sheet shows financial position.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_051",
+      "text": "The balance sheet equation is:",
+      "options": [
+        "Assets = Revenue",
+        "Assets = Liabilities + Capital",
+        "Assets = Liabilities − Capital",
+        "Profit = Revenue − Cost"
+      ],
+      "correct_index": 1,
+      "explanation": "Assets = Liabilities + Capital.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_052",
+      "text": "Which of the following is a current asset?",
+      "options": [
+        "Land",
+        "Stock",
+        "Buildings",
+        "Machinery"
+      ],
+      "correct_index": 1,
+      "explanation": "Stock is a current asset.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_053",
+      "text": "Which of the following is a fixed asset?",
+      "options": [
+        "Machinery",
+        "Stock",
+        "Debtors",
+        "Cash"
+      ],
+      "correct_index": 0,
+      "explanation": "Machinery is a fixed asset.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_054",
+      "text": "Which of the following is a current liability?",
+      "options": [
+        "Capital",
+        "Buildings",
+        "Loan (long-term)",
+        "Creditors"
+      ],
+      "correct_index": 3,
+      "explanation": "Creditors are current liabilities.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_055",
+      "text": "Depreciation is the:",
+      "options": [
+        "Revenue",
+        "Increase in asset value",
+        "Allocation of an asset's cost over its useful life",
+        "Profit"
+      ],
+      "correct_index": 2,
+      "explanation": "Depreciation spreads asset cost.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_056",
+      "text": "The straight-line method of depreciation charges:",
+      "options": [
+        "A varying amount",
+        "An equal amount each year",
+        "Nothing",
+        "A growing amount"
+      ],
+      "correct_index": 1,
+      "explanation": "Straight line = equal annual charge.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_057",
+      "text": "The reducing balance method charges depreciation on the:",
+      "options": [
+        "Net book value",
+        "Market value",
+        "Scrap value",
+        "Cost"
+      ],
+      "correct_index": 0,
+      "explanation": "Reducing balance uses net book value.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_058",
+      "text": "Accrued expenses are expenses:",
+      "options": [
+        "Cancelled",
+        "Refunded",
+        "Paid in advance",
+        "Incurred but not yet paid"
+      ],
+      "correct_index": 3,
+      "explanation": "Accruals are unpaid expenses.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_059",
+      "text": "Prepaid expenses are expenses:",
+      "options": [
+        "Refunded",
+        "Not yet incurred",
+        "Paid in advance",
+        "Cancelled"
+      ],
+      "correct_index": 2,
+      "explanation": "Prepayments are paid in advance.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_060",
+      "text": "Accrued income is income:",
+      "options": [
+        "Received",
+        "Earned but not yet received",
+        "Refunded",
+        "Lost"
+      ],
+      "correct_index": 1,
+      "explanation": "Accrued income is earned but uncollected.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_061",
+      "text": "Income received in advance is:",
+      "options": [
+        "Received but not yet earned",
+        "Refunded",
+        "Lost",
+        "Earned"
+      ],
+      "correct_index": 0,
+      "explanation": "It is received before being earned.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_062",
+      "text": "Bad debts are debts that are:",
+      "options": [
+        "New",
+        "Paid early",
+        "Collected",
+        "Unlikely to be collected"
+      ],
+      "correct_index": 3,
+      "explanation": "Bad debts are uncollectible.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_063",
+      "text": "A provision for doubtful debts is:",
+      "options": [
+        "Cash",
+        "An asset",
+        "An allowance for possible bad debts",
+        "Revenue"
+      ],
+      "correct_index": 2,
+      "explanation": "It provides for possible losses.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_064",
+      "text": "Carriage inwards is added to:",
+      "options": [
+        "Sales",
+        "Purchases",
+        "Expenses",
+        "Capital"
+      ],
+      "correct_index": 1,
+      "explanation": "Carriage inwards is a purchase cost.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_065",
+      "text": "Carriage outwards is treated as a(n):",
+      "options": [
+        "Expense",
+        "Income",
+        "Liability",
+        "Asset"
+      ],
+      "correct_index": 0,
+      "explanation": "Carriage outwards is an expense.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_066",
+      "text": "Returns inwards are:",
+      "options": [
+        "Cash sales",
+        "Purchases",
+        "Goods returned by customers",
+        "Goods returned to suppliers"
+      ],
+      "correct_index": 2,
+      "explanation": "Returns inwards = from customers.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_067",
+      "text": "Returns outwards are:",
+      "options": [
+        "Sales",
+        "From customers",
+        "Goods returned to suppliers",
+        "Cash sales"
+      ],
+      "correct_index": 2,
+      "explanation": "Returns outwards = to suppliers.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_068",
+      "text": "The working capital of a business is:",
+      "options": [
+        "Fixed assets",
+        "Current assets − current liabilities",
+        "Total assets",
+        "Capital"
+      ],
+      "correct_index": 1,
+      "explanation": "Working capital = CA − CL.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_069",
+      "text": "Stock is usually valued at the lower of:",
+      "options": [
+        "Cost or market + 20%",
+        "Cost only",
+        "Market only",
+        "Cost or net realisable value"
+      ],
+      "correct_index": 3,
+      "explanation": "Stock = lower of cost and NRV.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_070",
+      "text": "The FIFO method of stock valuation means:",
+      "options": [
+        "Average cost",
+        "Highest cost",
+        "First-in, first-out",
+        "Last-in, first-out"
+      ],
+      "correct_index": 2,
+      "explanation": "FIFO = first-in, first-out.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_071",
+      "text": "The LIFO method means:",
+      "options": [
+        "Lowest cost",
+        "First-in, first-out",
+        "Last-in, first-out",
+        "Average cost"
+      ],
+      "correct_index": 2,
+      "explanation": "LIFO = last-in, first-out.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_072",
+      "text": "The average cost method values stock at:",
+      "options": [
+        "Highest cost",
+        "Average cost of units",
+        "Lowest cost",
+        "Market price"
+      ],
+      "correct_index": 1,
+      "explanation": "Average cost uses the mean unit cost.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_073",
+      "text": "Closing stock appears in the:",
+      "options": [
+        "Cash book",
+        "Journal",
+        "Ledger only",
+        "Trading account and balance sheet"
+      ],
+      "correct_index": 3,
+      "explanation": "Closing stock is in trading account + balance sheet.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_074",
+      "text": "Opening stock is:",
+      "options": [
+        "Purchases",
+        "Sales",
+        "Stock at the end",
+        "Stock at the beginning of a period"
+      ],
+      "correct_index": 3,
+      "explanation": "Opening stock starts the period.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_075",
+      "text": "A sales ledger control account summarises the:",
+      "options": [
+        "Capital",
+        "Creditors ledger",
+        "Debtors ledger",
+        "Cash book"
+      ],
+      "correct_index": 2,
+      "explanation": "Sales ledger control = debtors.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_076",
+      "text": "A purchases ledger control account summarises the:",
+      "options": [
+        "Debtors ledger",
+        "Creditors ledger",
+        "Cash book",
+        "Capital"
+      ],
+      "correct_index": 1,
+      "explanation": "Purchases ledger control = creditors.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_077",
+      "text": "Control accounts are kept in the:",
+      "options": [
+        "General ledger",
+        "Cash book",
+        "Journal",
+        "Sales ledger"
+      ],
+      "correct_index": 0,
+      "explanation": "Control accounts are in the general ledger.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_078",
+      "text": "The purpose of control accounts is to:",
+      "options": [
+        "Hide errors",
+        "Avoid audits",
+        "Replace ledgers",
+        "Check the accuracy of the ledgers"
+      ],
+      "correct_index": 3,
+      "explanation": "Control accounts verify ledgers.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_079",
+      "text": "Single entry (incomplete records) is a system where:",
+      "options": [
+        "Only cash is recorded",
+        "All entries are complete",
+        "Not all transactions are recorded in double entry",
+        "No records exist"
+      ],
+      "correct_index": 2,
+      "explanation": "Single entry is incomplete.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_080",
+      "text": "When records are incomplete, profit is calculated using:",
+      "options": [
+        "The balance sheet only",
+        "The statement of affairs/equity comparison",
+        "The cash book",
+        "Nothing"
+      ],
+      "correct_index": 1,
+      "explanation": "Profit = closing capital − opening capital (+ drawings − capital introduced).",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_081",
+      "text": "A statement of affairs is similar to a:",
+      "options": [
+        "Cash book",
+        "Journal",
+        "Trial balance",
+        "Balance sheet"
+      ],
+      "correct_index": 3,
+      "explanation": "A statement of affairs shows position.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_082",
+      "text": "Drawings are:",
+      "options": [
+        "Sales",
+        "Loans",
+        "Capital introduced",
+        "Money/goods taken out by the owner"
+      ],
+      "correct_index": 3,
+      "explanation": "Drawings are owner withdrawals.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_083",
+      "text": "A manufacturing account calculates the:",
+      "options": [
+        "Capital",
+        "Net profit",
+        "Cost of production",
+        "Sales"
+      ],
+      "correct_index": 2,
+      "explanation": "Manufacturing account finds cost of production.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_084",
+      "text": "Direct costs are costs:",
+      "options": [
+        "Not traceable to products",
+        "Directly traceable to production",
+        "Of administration",
+        "Of selling"
+      ],
+      "correct_index": 1,
+      "explanation": "Direct costs trace to production.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_085",
+      "text": "Direct materials are part of:",
+      "options": [
+        "Prime cost",
+        "Indirect cost",
+        "Selling cost",
+        "Overheads"
+      ],
+      "correct_index": 0,
+      "explanation": "Direct materials are prime cost.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_086",
+      "text": "Prime cost equals:",
+      "options": [
+        "Indirect costs",
+        "Selling costs",
+        "Direct materials + direct labour + direct expenses",
+        "All costs"
+      ],
+      "correct_index": 2,
+      "explanation": "Prime cost = direct costs.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_087",
+      "text": "Factory overheads are:",
+      "options": [
+        "Direct materials",
+        "Direct costs",
+        "Indirect production costs",
+        "Selling costs"
+      ],
+      "correct_index": 2,
+      "explanation": "Factory overheads are indirect.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_088",
+      "text": "Work-in-progress is:",
+      "options": [
+        "Finished goods",
+        "Partially completed goods",
+        "Raw materials",
+        "Scrap"
+      ],
+      "correct_index": 1,
+      "explanation": "WIP is partially completed.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_089",
+      "text": "A not-for-profit organisation prepares:",
+      "options": [
+        "Income and expenditure account",
+        "Profit and loss account",
+        "Manufacturing account",
+        "Trading account"
+      ],
+      "correct_index": 0,
+      "explanation": "NPOs prepare income & expenditure accounts.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_090",
+      "text": "The capital of a not-for-profit organisation is called:",
+      "options": [
+        "Drawings",
+        "Profit",
+        "Share capital",
+        "Accumulated fund"
+      ],
+      "correct_index": 3,
+      "explanation": "NPOs have an accumulated fund.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_091",
+      "text": "A receipts and payments account records:",
+      "options": [
+        "Depreciation",
+        "Accruals",
+        "Cash received and paid",
+        "Credit sales"
+      ],
+      "correct_index": 2,
+      "explanation": "Receipts & payments is cash-based.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_092",
+      "text": "The surplus of an NPO is the excess of:",
+      "options": [
+        "Expenses over income",
+        "Income over expenditure",
+        "Assets over liabilities",
+        "Cash over bank"
+      ],
+      "correct_index": 1,
+      "explanation": "Surplus = income − expenditure.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_093",
+      "text": "Subscription in arrears is:",
+      "options": [
+        "Owed by members",
+        "Refunded",
+        "Waived",
+        "Paid in advance"
+      ],
+      "correct_index": 0,
+      "explanation": "Arrears are unpaid subscriptions.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_094",
+      "text": "Subscriptions in advance are:",
+      "options": [
+        "Refunded",
+        "Waived",
+        "Owed",
+        "Paid for future periods"
+      ],
+      "correct_index": 3,
+      "explanation": "Advance subscriptions are prepaid.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_095",
+      "text": "A partnership is governed by a:",
+      "options": [
+        "Receipt",
+        "Memorandum",
+        "Partnership deed/agreement",
+        "Invoice"
+      ],
+      "correct_index": 2,
+      "explanation": "A partnership deed governs partners.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_096",
+      "text": "Partners' profits are shared in the:",
+      "options": [
+        "Profit and loss appropriation account",
+        "Trading account",
+        "Cash book",
+        "Balance sheet"
+      ],
+      "correct_index": 0,
+      "explanation": "The appropriation account shares profit.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_097",
+      "text": "In a partnership, interest on capital is:",
+      "options": [
+        "An appropriation of profit",
+        "A liability only",
+        "Revenue",
+        "An expense"
+      ],
+      "correct_index": 0,
+      "explanation": "Interest on capital is an appropriation.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_098",
+      "text": "A company's owners are its:",
+      "options": [
+        "Employees",
+        "Customers",
+        "Partners",
+        "Shareholders"
+      ],
+      "correct_index": 3,
+      "explanation": "Shareholders own a company.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_099",
+      "text": "The capital of a company is called:",
+      "options": [
+        "Reserve only",
+        "Accumulated fund",
+        "Share capital",
+        "Drawings"
+      ],
+      "correct_index": 2,
+      "explanation": "Companies have share capital.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_100",
+      "text": "The profit distributed to shareholders is a:",
+      "options": [
+        "Loan",
+        "Dividend",
+        "Fee",
+        "Tax"
+      ],
+      "correct_index": 1,
+      "explanation": "Dividends go to shareholders.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_101",
+      "text": "Retained earnings are:",
+      "options": [
+        "Profit kept in the business",
+        "Losses",
+        "Taxes",
+        "Distributed profit"
+      ],
+      "correct_index": 0,
+      "explanation": "Retained earnings are reinvested.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_102",
+      "text": "The authorised share capital is the:",
+      "options": [
+        "Paid-up amount",
+        "Dividend",
+        "Issued amount",
+        "Maximum capital a company may raise"
+      ],
+      "correct_index": 3,
+      "explanation": "Authorised capital is the maximum.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_103",
+      "text": "Issued share capital is the capital:",
+      "options": [
+        "Borrowed",
+        "Authorised",
+        "Actually issued to shareholders",
+        "Paid as dividend"
+      ],
+      "correct_index": 2,
+      "explanation": "Issued capital is allotted.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_104",
+      "text": "Called-up capital is the:",
+      "options": [
+        "Maximum",
+        "Amount shareholders are required to pay",
+        "Dividend",
+        "Reserve"
+      ],
+      "correct_index": 1,
+      "explanation": "Called-up capital is demanded from shareholders.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_105",
+      "text": "Government accounting is based on:",
+      "options": [
+        "Cash basis (usually)",
+        "Credit basis",
+        "Barter",
+        "Accrual only"
+      ],
+      "correct_index": 0,
+      "explanation": "Government often uses cash basis.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_106",
+      "text": "The body that sets accounting standards in Nigeria is the:",
+      "options": [
+        "NDIC",
+        "FIRS",
+        "CBN",
+        "Financial Reporting Council of Nigeria (FRCN)"
+      ],
+      "correct_index": 3,
+      "explanation": "The FRCN sets standards.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_107",
+      "text": "The use of computers in accounting is:",
+      "options": [
+        "Auditing only",
+        "Manual accounting",
+        "Computerised accounting",
+        "Barter"
+      ],
+      "correct_index": 2,
+      "explanation": "Computers automate accounting.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_108",
+      "text": "An advantage of computerised accounting is:",
+      "options": [
+        "Slower processing",
+        "Speed and accuracy",
+        "More errors",
+        "Higher manual work"
+      ],
+      "correct_index": 1,
+      "explanation": "Computers are fast and accurate.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_109",
+      "text": "The software used to manage accounts electronically is:",
+      "options": [
+        "Word processor",
+        "Browser",
+        "Game",
+        "Spreadsheet/accounting software"
+      ],
+      "correct_index": 3,
+      "explanation": "Accounting software manages accounts.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_110",
+      "text": "A trial balance is prepared to:",
+      "options": [
+        "Show assets",
+        "Pay tax",
+        "Check the arithmetic accuracy of ledgers",
+        "Show profit"
+      ],
+      "correct_index": 2,
+      "explanation": "A trial balance checks accuracy.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_111",
+      "text": "A trial balance is a list of:",
+      "options": [
+        "Only income",
+        "All ledger balances",
+        "Only expenses",
+        "Only assets"
+      ],
+      "correct_index": 1,
+      "explanation": "It lists all ledger balances.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_112",
+      "text": "The trial balance agrees when total debits equal:",
+      "options": [
+        "Total credits",
+        "Total assets",
+        "Total sales",
+        "Total capital"
+      ],
+      "correct_index": 0,
+      "explanation": "Debits must equal credits.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_113",
+      "text": "The journal is used to record:",
+      "options": [
+        "Non-routine and adjusting entries",
+        "Sales only",
+        "Purchases only",
+        "Cash transactions"
+      ],
+      "correct_index": 0,
+      "explanation": "The journal records adjustments.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_114",
+      "text": "The process of transferring entries from journal to ledger is:",
+      "options": [
+        "Balancing",
+        "Auditing",
+        "Journalising",
+        "Posting"
+      ],
+      "correct_index": 3,
+      "explanation": "Posting transfers to the ledger.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_115",
+      "text": "The examination of accounts by an independent person is:",
+      "options": [
+        "Journalising",
+        "Bookkeeping",
+        "Auditing",
+        "Posting"
+      ],
+      "correct_index": 2,
+      "explanation": "Auditing examines accounts.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_116",
+      "text": "The person who audits accounts is the:",
+      "options": [
+        "Accountant",
+        "Auditor",
+        "Bookkeeper",
+        "Manager"
+      ],
+      "correct_index": 1,
+      "explanation": "Auditors examine accounts.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_117",
+      "text": "The balance sheet is also called the:",
+      "options": [
+        "Statement of financial position",
+        "Cash flow",
+        "Trading account",
+        "Profit statement"
+      ],
+      "correct_index": 0,
+      "explanation": "Balance sheet = statement of financial position.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_118",
+      "text": "The statement showing cash inflows and outflows is the:",
+      "options": [
+        "Trading account",
+        "Trial balance",
+        "Cash flow statement",
+        "Balance sheet"
+      ],
+      "correct_index": 2,
+      "explanation": "Cash flow shows cash movement.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_119",
+      "text": "Capital expenditure is spending on:",
+      "options": [
+        "Rent",
+        "Daily expenses",
+        "Acquiring fixed assets",
+        "Salaries"
+      ],
+      "correct_index": 2,
+      "explanation": "Capital expenditure buys fixed assets.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_120",
+      "text": "Revenue expenditure is spending on:",
+      "options": [
+        "Fixed assets",
+        "Day-to-day running costs",
+        "Land",
+        "Buildings"
+      ],
+      "correct_index": 1,
+      "explanation": "Revenue expenditure is routine.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_121",
+      "text": "An asset is:",
+      "options": [
+        "A resource owned that has value",
+        "A loss",
+        "An expense",
+        "A debt"
+      ],
+      "correct_index": 0,
+      "explanation": "Assets are owned resources.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_122",
+      "text": "A liability is:",
+      "options": [
+        "Capital",
+        "Revenue",
+        "An asset",
+        "An amount owed to others"
+      ],
+      "correct_index": 3,
+      "explanation": "Liabilities are debts owed.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_123",
+      "text": "Owner's equity is:",
+      "options": [
+        "An expense",
+        "A liability only",
+        "The owner's stake in the business",
+        "A debt"
+      ],
+      "correct_index": 2,
+      "explanation": "Equity = owner's interest.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_124",
+      "text": "The double-entry for a cash sale is: debit cash, credit:",
+      "options": [
+        "Purchases",
+        "Sales",
+        "Capital",
+        "Debtors"
+      ],
+      "correct_index": 1,
+      "explanation": "Cash sales credit the sales account.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_125",
+      "text": "The double-entry for buying a machine for cash is: debit machinery, credit:",
+      "options": [
+        "Bank",
+        "Sales",
+        "Capital",
+        "Cash"
+      ],
+      "correct_index": 3,
+      "explanation": "Cash is credited when paying cash.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_126",
+      "text": "The double-entry for paying a creditor by cheque is: debit creditor, credit:",
+      "options": [
+        "Purchases",
+        "Sales",
+        "Cash",
+        "Bank"
+      ],
+      "correct_index": 3,
+      "explanation": "Bank is credited for payments.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_127",
+      "text": "The double-entry for receiving money from a debtor is: debit cash, credit:",
+      "options": [
+        "Capital",
+        "Sales",
+        "Debtor",
+        "Purchases"
+      ],
+      "correct_index": 2,
+      "explanation": "The debtor's account is credited.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_128",
+      "text": "A nominal account records:",
+      "options": [
+        "Persons",
+        "Assets",
+        "Income and expenses",
+        "Liabilities"
+      ],
+      "correct_index": 2,
+      "explanation": "Nominal accounts record income/expenses.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_129",
+      "text": "A real account records:",
+      "options": [
+        "Assets",
+        "Expenses",
+        "Persons",
+        "Income"
+      ],
+      "correct_index": 0,
+      "explanation": "Real accounts record assets.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_130",
+      "text": "A personal account records:",
+      "options": [
+        "Income",
+        "Expenses",
+        "Assets",
+        "Transactions with individuals/firms"
+      ],
+      "correct_index": 3,
+      "explanation": "Personal accounts record persons/firms.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_131",
+      "text": "The ledger that contains customers' accounts is the:",
+      "options": [
+        "Cash book",
+        "Purchases ledger",
+        "Sales ledger",
+        "General ledger"
+      ],
+      "correct_index": 2,
+      "explanation": "The sales ledger holds customers.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_132",
+      "text": "The ledger that contains suppliers' accounts is the:",
+      "options": [
+        "Sales ledger",
+        "Purchases ledger",
+        "General ledger",
+        "Cash book"
+      ],
+      "correct_index": 1,
+      "explanation": "The purchases ledger holds suppliers.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_133",
+      "text": "The general ledger contains:",
+      "options": [
+        "All other accounts (assets, capital, etc.)",
+        "Only suppliers",
+        "Only cash",
+        "Only customers"
+      ],
+      "correct_index": 0,
+      "explanation": "The general ledger holds the rest.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_134",
+      "text": "The cash flow statement is prepared under:",
+      "options": [
+        "Credit basis",
+        "Barter",
+        "Accrual basis",
+        "Cash basis"
+      ],
+      "correct_index": 3,
+      "explanation": "Cash flow uses cash basis.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_135",
+      "text": "A bank overdraft is:",
+      "options": [
+        "Revenue",
+        "An asset",
+        "A current liability",
+        "Capital"
+      ],
+      "correct_index": 2,
+      "explanation": "An overdraft is a liability.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_136",
+      "text": "The provision for depreciation is:",
+      "options": [
+        "An expense",
+        "A contra-asset account",
+        "Revenue",
+        "A liability"
+      ],
+      "correct_index": 1,
+      "explanation": "It reduces the asset's value.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_137",
+      "text": "Goodwill is a(n):",
+      "options": [
+        "Intangible asset",
+        "Liability",
+        "Expense",
+        "Tangible asset"
+      ],
+      "correct_index": 0,
+      "explanation": "Goodwill is intangible.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_138",
+      "text": "The process of recording only credit sales in the:",
+      "options": [
+        "Petty cash",
+        "Ledger only",
+        "Cash book",
+        "Sales day book"
+      ],
+      "correct_index": 3,
+      "explanation": "Credit sales go in the sales day book.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_139",
+      "text": "The purchases day book records:",
+      "options": [
+        "Credit sales",
+        "Cash purchases",
+        "Credit purchases",
+        "Cash sales"
+      ],
+      "correct_index": 2,
+      "explanation": "Credit purchases go in the purchases day book.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_140",
+      "text": "The returns inwards day book records:",
+      "options": [
+        "Goods returned by customers",
+        "Goods returned to suppliers",
+        "Cash",
+        "Expenses"
+      ],
+      "correct_index": 0,
+      "explanation": "Returns inwards = from customers.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_141",
+      "text": "The returns outwards day book records:",
+      "options": [
+        "Goods returned to suppliers",
+        "Cash",
+        "Sales",
+        "From customers"
+      ],
+      "correct_index": 0,
+      "explanation": "Returns outwards = to suppliers.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_142",
+      "text": "The petty cash book is maintained under the:",
+      "options": [
+        "Accrual system",
+        "Cash system only",
+        "Imprest system",
+        "Credit system"
+      ],
+      "correct_index": 2,
+      "explanation": "Petty cash uses the imprest system.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_143",
+      "text": "A suspense account is used to:",
+      "options": [
+        "Pay tax",
+        "Hold errors pending correction",
+        "Record sales",
+        "Record cash"
+      ],
+      "correct_index": 1,
+      "explanation": "A suspense account holds discrepancies.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_144",
+      "text": "An error of commission is:",
+      "options": [
+        "Posting to the wrong account of the same class",
+        "Posting to a wrong side",
+        "Omitting an entry",
+        "A calculation error"
+      ],
+      "correct_index": 0,
+      "explanation": "Commission = wrong account, same class.",
+      "difficulty": 2
+    },
+    {
+      "id": "acc_145",
+      "text": "An error of omission is:",
+      "options": [
+        "Leaving out an entry entirely",
+        "Posting wrong side",
+        "Wrong figure",
+        "Posting to wrong account"
+      ],
+      "correct_index": 0,
+      "explanation": "Omission = entry left out.",
+      "difficulty": 2
+    },
+    {
+      "id": "acc_146",
+      "text": "An error of principle is posting to:",
+      "options": [
+        "Wrong amount",
+        "Nothing",
+        "A wrong account type (e.g. expense as asset)",
+        "Wrong side"
+      ],
+      "correct_index": 2,
+      "explanation": "Principle errors misclassify accounts.",
+      "difficulty": 2
+    },
+    {
+      "id": "acc_147",
+      "text": "An error of original entry is:",
+      "options": [
+        "A commission",
+        "A wrong figure in both accounts",
+        "An omission",
+        "A wrong side"
+      ],
+      "correct_index": 1,
+      "explanation": "Original entry = wrong figure recorded twice.",
+      "difficulty": 2
+    },
+    {
+      "id": "acc_148",
+      "text": "A compensating error is when:",
+      "options": [
+        "Two errors cancel each other",
+        "One error",
+        "No error",
+        "An omission"
+      ],
+      "correct_index": 0,
+      "explanation": "Compensating errors cancel out.",
+      "difficulty": 2
+    },
+    {
+      "id": "acc_149",
+      "text": "The gross profit margin is gross profit expressed as a percentage of:",
+      "options": [
+        "Sales",
+        "Capital",
+        "Expenses",
+        "Cost of sales"
+      ],
+      "correct_index": 0,
+      "explanation": "GPM = GP/sales × 100.",
+      "difficulty": 2
+    },
+    {
+      "id": "acc_150",
+      "text": "The net profit margin is net profit as a percentage of:",
+      "options": [
+        "Capital",
+        "Assets",
+        "Expenses",
+        "Sales"
+      ],
+      "correct_index": 3,
+      "explanation": "NPM = NP/sales × 100.",
+      "difficulty": 2
+    },
+    {
+      "id": "acc_151",
+      "text": "The current ratio is:",
+      "options": [
+        "Profit / capital",
+        "Current assets / current liabilities",
+        "Fixed assets / capital",
+        "Sales / stock"
+      ],
+      "correct_index": 1,
+      "explanation": "Current ratio = CA/CL.",
+      "difficulty": 2
+    },
+    {
+      "id": "acc_152",
+      "text": "The quick (acid test) ratio excludes:",
+      "options": [
+        "Cash",
+        "Stock",
+        "Debtors",
+        "Bank"
+      ],
+      "correct_index": 1,
+      "explanation": "Quick ratio excludes stock.",
+      "difficulty": 2
+    },
+    {
+      "id": "acc_153",
+      "text": "The ratio that measures liquidity is the:",
+      "options": [
+        "Current ratio",
+        "Asset ratio",
+        "Turnover ratio",
+        "Profit ratio"
+      ],
+      "correct_index": 0,
+      "explanation": "Current ratio measures liquidity.",
+      "difficulty": 2
+    },
+    {
+      "id": "acc_154",
+      "text": "The rate of stock turnover is:",
+      "options": [
+        "Sales / capital",
+        "Profit / stock",
+        "Cost of goods sold / average stock",
+        "Stock / sales"
+      ],
+      "correct_index": 2,
+      "explanation": "Stock turnover = COGS/average stock.",
+      "difficulty": 2
+    },
+    {
+      "id": "acc_155",
+      "text": "The debtor's collection period measures:",
+      "options": [
+        "Liquidity",
+        "How long debtors take to pay",
+        "Stock holding",
+        "Profit"
+      ],
+      "correct_index": 1,
+      "explanation": "It measures collection time.",
+      "difficulty": 2
+    },
+    {
+      "id": "acc_156",
+      "text": "The creditor's payment period measures:",
+      "options": [
+        "Collection time",
+        "How long the business takes to pay suppliers",
+        "Profit",
+        "Liquidity"
+      ],
+      "correct_index": 1,
+      "explanation": "It measures payment to suppliers.",
+      "difficulty": 2
+    },
+    {
+      "id": "acc_157",
+      "text": "Depreciation is provided in the accounts to:",
+      "options": [
+        "Increase profit",
+        "Avoid tax only",
+        "Sell assets",
+        "Match asset cost with revenue earned"
+      ],
+      "correct_index": 3,
+      "explanation": "Depreciation matches cost to revenue.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_158",
+      "text": "The book value of an asset is its cost minus:",
+      "options": [
+        "Sales",
+        "Revenue",
+        "Profit",
+        "Accumulated depreciation"
+      ],
+      "correct_index": 3,
+      "explanation": "Book value = cost − accumulated depreciation.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_159",
+      "text": "If an asset costing ₦100,000 depreciates at 10% straight line, the annual depreciation is:",
+      "options": [
+        "₦9,000",
+        "₦10,000",
+        "₦1,000",
+        "₦100,000"
+      ],
+      "correct_index": 1,
+      "explanation": "10% × 100,000 = 10,000.",
+      "difficulty": 2
+    },
+    {
+      "id": "acc_160",
+      "text": "The reducing balance method gives:",
+      "options": [
+        "Equal charges",
+        "Decreasing annual charges",
+        "Increasing charges",
+        "No charge"
+      ],
+      "correct_index": 1,
+      "explanation": "Reducing balance charges decrease over time.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_161",
+      "text": "An asset bought for ₦50,000 with a residual value of ₦5,000 and 5-year life has straight-line depreciation of:",
+      "options": [
+        "₦10,000",
+        "₦5,000",
+        "₦45,000",
+        "₦9,000"
+      ],
+      "correct_index": 3,
+      "explanation": "(50,000 − 5,000)/5 = 9,000.",
+      "difficulty": 2
+    },
+    {
+      "id": "acc_162",
+      "text": "The entry to record depreciation is: debit depreciation expense, credit:",
+      "options": [
+        "Cash",
+        "Capital",
+        "Asset account",
+        "Provision for depreciation"
+      ],
+      "correct_index": 3,
+      "explanation": "Provision for depreciation is credited.",
+      "difficulty": 2
+    },
+    {
+      "id": "acc_163",
+      "text": "The cash book balance and bank statement balance differ due to:",
+      "options": [
+        "Nothing",
+        "Timing differences and errors",
+        "Only errors",
+        "Only timing"
+      ],
+      "correct_index": 1,
+      "explanation": "Timing differences and errors cause differences.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_164",
+      "text": "When the cash book shows a credit balance, it means:",
+      "options": [
+        "Cash in hand",
+        "A bank overdraft",
+        "A profit",
+        "No cash"
+      ],
+      "correct_index": 1,
+      "explanation": "Credit cash book = overdraft.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_165",
+      "text": "The balance carried down (bal c/d) is placed:",
+      "options": [
+        "On the smaller side",
+        "In the journal",
+        "Nowhere",
+        "On the larger side to balance the account"
+      ],
+      "correct_index": 0,
+      "explanation": "bal c/d balances the account on the smaller side.",
+      "difficulty": 2
+    },
+    {
+      "id": "acc_166",
+      "text": "The balance brought down (bal b/d) is the:",
+      "options": [
+        "Profit",
+        "Sales",
+        "Closing balance",
+        "Opening balance of the next period"
+      ],
+      "correct_index": 3,
+      "explanation": "bal b/d opens the next period.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_167",
+      "text": "The trial balance is prepared from the:",
+      "options": [
+        "Invoices",
+        "Journal",
+        "Ledger balances",
+        "Cash book"
+      ],
+      "correct_index": 2,
+      "explanation": "Ledger balances form the trial balance.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_168",
+      "text": "If the trial balance does not agree, the difference is placed in a:",
+      "options": [
+        "Suspense account",
+        "Sales account",
+        "Capital account",
+        "Cash account"
+      ],
+      "correct_index": 0,
+      "explanation": "A suspense account holds the difference.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_169",
+      "text": "The main books of account are the:",
+      "options": [
+        "Invoice and receipt",
+        "Cash book only",
+        "Day books only",
+        "Journal and ledger"
+      ],
+      "correct_index": 3,
+      "explanation": "Journal and ledger are the main books.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_170",
+      "text": "The petty cashier is reimbursed under the imprest system to:",
+      "options": [
+        "Pay dividends",
+        "Buy assets",
+        "Increase the float",
+        "Restore the float to its original amount"
+      ],
+      "correct_index": 3,
+      "explanation": "Reimbursement restores the float.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_171",
+      "text": "The imprest amount is the:",
+      "options": [
+        "Loan",
+        "Spent amount",
+        "Fixed petty cash float",
+        "Profit"
+      ],
+      "correct_index": 2,
+      "explanation": "The imprest is the fixed float.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_172",
+      "text": "The account used to correct errors and balances is the:",
+      "options": [
+        "Sales account",
+        "Suspense account",
+        "Capital account",
+        "Bank account"
+      ],
+      "correct_index": 1,
+      "explanation": "Suspense holds errors.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_173",
+      "text": "The value of a business's reputation is its:",
+      "options": [
+        "Goodwill",
+        "Cash",
+        "Debtors",
+        "Stock"
+      ],
+      "correct_index": 0,
+      "explanation": "Goodwill is reputational value.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_174",
+      "text": "A company's financial statements are prepared by the:",
+      "options": [
+        "Shareholders",
+        "Customers",
+        "Auditors",
+        "Accountants (management)"
+      ],
+      "correct_index": 3,
+      "explanation": "Management/accountants prepare statements.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_175",
+      "text": "The auditor's report expresses:",
+      "options": [
+        "Dividend",
+        "A sales forecast",
+        "An opinion on the financial statements",
+        "Tax liability"
+      ],
+      "correct_index": 2,
+      "explanation": "The auditor gives an opinion.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_176",
+      "text": "The accounting period is usually:",
+      "options": [
+        "One year",
+        "One month",
+        "One week",
+        "Ten years"
+      ],
+      "correct_index": 0,
+      "explanation": "The accounting period is a year.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_177",
+      "text": "The going concern concept assumes the business will:",
+      "options": [
+        "Continue operating indefinitely",
+        "Be sold",
+        "Liquidate",
+        "Close soon"
+      ],
+      "correct_index": 0,
+      "explanation": "Going concern assumes continuity.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_178",
+      "text": "The accruals concept states that transactions are recorded:",
+      "options": [
+        "Only at year end",
+        "Never",
+        "When cash moves",
+        "When they occur, regardless of cash"
+      ],
+      "correct_index": 3,
+      "explanation": "Accruals record when incurred.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_179",
+      "text": "The consistency concept means using:",
+      "options": [
+        "Random methods",
+        "Different methods each year",
+        "The same accounting methods over time",
+        "No methods"
+      ],
+      "correct_index": 2,
+      "explanation": "Consistency = same methods over time.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_180",
+      "text": "The prudence (conservatism) concept means:",
+      "options": [
+        "Overstating profit",
+        "Not overstating assets/income, providing for losses",
+        "Ignoring losses",
+        "Hiding debts"
+      ],
+      "correct_index": 1,
+      "explanation": "Prudence avoids overstatement.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_181",
+      "text": "The matching concept matches:",
+      "options": [
+        "Revenue with the expenses incurred to earn it",
+        "Cash with bank",
+        "Debtors with creditors",
+        "Assets with liabilities"
+      ],
+      "correct_index": 0,
+      "explanation": "Matching links revenue and expenses.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_182",
+      "text": "The realisation concept recognises revenue when:",
+      "options": [
+        "Ordered",
+        "Invoiced only",
+        "Cash is received",
+        "The sale is earned (goods delivered)"
+      ],
+      "correct_index": 3,
+      "explanation": "Revenue is recognised when earned.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_183",
+      "text": "The money measurement concept records only:",
+      "options": [
+        "Feelings",
+        "Qualitative items",
+        "Transactions measurable in money",
+        "Opinions"
+      ],
+      "correct_index": 2,
+      "explanation": "Only money-measurable items are recorded.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_184",
+      "text": "The entity concept separates:",
+      "options": [
+        "Business and owner's affairs",
+        "Assets and liabilities",
+        "Income and expenses",
+        "Cash and bank"
+      ],
+      "correct_index": 0,
+      "explanation": "The entity is separate from the owner.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_185",
+      "text": "The dual aspect concept is the basis of:",
+      "options": [
+        "Double entry",
+        "Cash accounting",
+        "Budgeting",
+        "Single entry"
+      ],
+      "correct_index": 0,
+      "explanation": "Dual aspect underpins double entry.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_186",
+      "text": "The historical cost concept records assets at:",
+      "options": [
+        "Replacement cost",
+        "Scrap value",
+        "Market value",
+        "Original cost"
+      ],
+      "correct_index": 3,
+      "explanation": "Assets are at original cost.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_187",
+      "text": "A budget is a:",
+      "options": [
+        "Invoice",
+        "Record of the past",
+        "Plan expressed in financial terms for the future",
+        "Receipt"
+      ],
+      "correct_index": 2,
+      "explanation": "A budget is a financial plan.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_188",
+      "text": "Variance analysis compares:",
+      "options": [
+        "Two companies",
+        "Actual results with budgeted figures",
+        "Cash and bank",
+        "Assets and liabilities"
+      ],
+      "correct_index": 1,
+      "explanation": "Variance = actual vs budget.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_189",
+      "text": "A favourable variance is when actual cost is:",
+      "options": [
+        "Lower than budget",
+        "Equal",
+        "Zero",
+        "Higher than budget"
+      ],
+      "correct_index": 0,
+      "explanation": "Lower actual cost is favourable.",
+      "difficulty": 2
+    },
+    {
+      "id": "acc_190",
+      "text": "An adverse variance is when actual cost is:",
+      "options": [
+        "Equal",
+        "Zero",
+        "Lower than budget",
+        "Higher than budget"
+      ],
+      "correct_index": 3,
+      "explanation": "Higher actual cost is adverse.",
+      "difficulty": 2
+    },
+    {
+      "id": "acc_191",
+      "text": "Cost accounting deals with:",
+      "options": [
+        "Only sales",
+        "Determining the cost of products",
+        "Only tax",
+        "Only cash"
+      ],
+      "correct_index": 1,
+      "explanation": "Cost accounting determines product costs.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_192",
+      "text": "Management accounting provides information for:",
+      "options": [
+        "External users only",
+        "Internal decision-making",
+        "Tax authorities only",
+        "Shareholders only"
+      ],
+      "correct_index": 1,
+      "explanation": "Management accounting serves managers.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_193",
+      "text": "Financial accounting provides information for:",
+      "options": [
+        "External users (investors, creditors)",
+        "Employees only",
+        "No one",
+        "Managers only"
+      ],
+      "correct_index": 0,
+      "explanation": "Financial accounting serves external users.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_194",
+      "text": "The payroll records show:",
+      "options": [
+        "Stock",
+        "Assets",
+        "Sales",
+        "Employees' wages and deductions"
+      ],
+      "correct_index": 3,
+      "explanation": "Payroll records wages.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_195",
+      "text": "Gross pay is:",
+      "options": [
+        "Pension only",
+        "Net pay",
+        "Total earnings before deductions",
+        "Tax only"
+      ],
+      "correct_index": 2,
+      "explanation": "Gross pay = before deductions.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_196",
+      "text": "Net pay is:",
+      "options": [
+        "Gross pay",
+        "Gross pay minus deductions",
+        "Tax only",
+        "Bonus"
+      ],
+      "correct_index": 1,
+      "explanation": "Net pay = gross − deductions.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_197",
+      "text": "Deductions from wages include:",
+      "options": [
+        "Tax and pension contributions",
+        "Overtime",
+        "Allowances",
+        "Bonuses"
+      ],
+      "correct_index": 0,
+      "explanation": "Tax/pension are deducted.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_198",
+      "text": "The bank statement is a copy of the customer's account kept by the:",
+      "options": [
+        "Auditor",
+        "Registrar",
+        "Customer",
+        "Bank"
+      ],
+      "correct_index": 3,
+      "explanation": "The bank keeps the statement.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_199",
+      "text": "The cash book is kept by the:",
+      "options": [
+        "Registrar",
+        "Bank",
+        "Business (customer)",
+        "Auditor"
+      ],
+      "correct_index": 2,
+      "explanation": "The business keeps the cash book.",
+      "difficulty": 1
+    },
+    {
+      "id": "acc_200",
+      "text": "A cheque is a:",
+      "options": [
+        "Currency",
+        "Written order to a bank to pay money",
+        "Loan",
+        "Receipt"
+      ],
+      "correct_index": 1,
+      "explanation": "A cheque orders a payment.",
+      "difficulty": 1
+    }
+  ]
+}

@@ -1,0 +1,2607 @@
+{
+  "course_id": "agr",
+  "course_name": "Agricultural Science",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "agr_001",
+      "text": "Agriculture is:",
+      "options": [
+        "Only trading",
+        "Only fishing",
+        "Only hunting",
+        "Art and science of crop and animal production"
+      ],
+      "correct_index": 3,
+      "explanation": "Agriculture art science crop animal.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_002",
+      "text": "Agronomy deals with:",
+      "options": [
+        "Forestry",
+        "Fishery",
+        "Crop production",
+        "Animal"
+      ],
+      "correct_index": 2,
+      "explanation": "Agronomy crop.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_003",
+      "text": "Soil texture is:",
+      "options": [
+        "Taste only",
+        "Proportion of sand silt clay",
+        "Colour only",
+        "Smell only"
+      ],
+      "correct_index": 1,
+      "explanation": "Texture proportion.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_004",
+      "text": "Loamy soil is:",
+      "options": [
+        "Best for agriculture",
+        "Worst",
+        "No use",
+        "Only building"
+      ],
+      "correct_index": 0,
+      "explanation": "Loamy best.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_005",
+      "text": "Fertilizer provides:",
+      "options": [
+        "Water only",
+        "Air only",
+        "Nothing",
+        "Nutrients"
+      ],
+      "correct_index": 3,
+      "explanation": "Fertilizer nutrients.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_006",
+      "text": "Maize botanical name:",
+      "options": [
+        "Manihot esculenta",
+        "Dioscorea",
+        "Zea mays",
+        "Oryza sativa"
+      ],
+      "correct_index": 2,
+      "explanation": "Zea mays maize.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_007",
+      "text": "Cassava planting material:",
+      "options": [
+        "Leaf",
+        "Stem cutting",
+        "Seed",
+        "Root"
+      ],
+      "correct_index": 1,
+      "explanation": "Cassava stem cutting.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_008",
+      "text": "Ruminant example:",
+      "options": [
+        "Cattle",
+        "Poultry",
+        "Pig",
+        "Rabbit"
+      ],
+      "correct_index": 0,
+      "explanation": "Cattle ruminant.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_009",
+      "text": "Incubation chicken:",
+      "options": [
+        "10 days",
+        "30 days",
+        "40 days",
+        "21 days"
+      ],
+      "correct_index": 3,
+      "explanation": "Chicken 21 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_010",
+      "text": "Gestation cattle:",
+      "options": [
+        "30 days",
+        "21 days",
+        "283 days",
+        "150 days"
+      ],
+      "correct_index": 2,
+      "explanation": "Cattle 283 days.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_011",
+      "text": "Demand means:",
+      "options": [
+        "No willingness",
+        "Willingness and ability to buy",
+        "Only willingness",
+        "Only ability"
+      ],
+      "correct_index": 1,
+      "explanation": "Demand willingness ability.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_012",
+      "text": "Photosynthesis requires:",
+      "options": [
+        "CO2 water sunlight",
+        "Only water",
+        "Only CO2",
+        "Only oxygen"
+      ],
+      "correct_index": 0,
+      "explanation": "Photosynthesis CO2 water sunlight.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_013",
+      "text": "Irrigation necessary in:",
+      "options": [
+        "Rainy only",
+        "No areas",
+        "All always",
+        "Dry areas"
+      ],
+      "correct_index": 3,
+      "explanation": "Irrigation dry areas.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_014",
+      "text": "Weeding important because:",
+      "options": [
+        "No importance",
+        "Kills crops",
+        "Reduces competition",
+        "Increases"
+      ],
+      "correct_index": 2,
+      "explanation": "Weeding reduces competition.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_015",
+      "text": "Silo is for:",
+      "options": [
+        "School",
+        "Grain storage",
+        "Car",
+        "House"
+      ],
+      "correct_index": 1,
+      "explanation": "Silo grain storage.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_016",
+      "text": "IITA conducts:",
+      "options": [
+        "Agricultural research",
+        "No research",
+        "Only oil",
+        "Only gas"
+      ],
+      "correct_index": 0,
+      "explanation": "IITA research.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_017",
+      "text": "Land tenure means:",
+      "options": [
+        "No ownership",
+        "Only renting",
+        "Only buying",
+        "System of land ownership"
+      ],
+      "correct_index": 3,
+      "explanation": "Land tenure ownership.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_018",
+      "text": "Millet tolerates:",
+      "options": [
+        "Only flood",
+        "Only high rain",
+        "Drought",
+        "No drought"
+      ],
+      "correct_index": 2,
+      "explanation": "Millet drought.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_019",
+      "text": "Young cattle called:",
+      "options": [
+        "Piglet",
+        "Calf",
+        "Kid",
+        "Lamb"
+      ],
+      "correct_index": 1,
+      "explanation": "Calf.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_020",
+      "text": "Pruning is:",
+      "options": [
+        "Cutting unwanted branches",
+        "Planting",
+        "Harvesting",
+        "Weeding"
+      ],
+      "correct_index": 0,
+      "explanation": "Pruning cutting branches.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_021",
+      "text": "Agriculture is: (variant 21)",
+      "options": [
+        "Only trading",
+        "Only fishing",
+        "Only hunting",
+        "Art and science of crop and animal production"
+      ],
+      "correct_index": 3,
+      "explanation": "Agriculture art science crop animal.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_022",
+      "text": "Agronomy deals with: (variant 22)",
+      "options": [
+        "Forestry",
+        "Fishery",
+        "Crop production",
+        "Animal"
+      ],
+      "correct_index": 2,
+      "explanation": "Agronomy crop.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_023",
+      "text": "Soil texture is: (variant 23)",
+      "options": [
+        "Taste only",
+        "Proportion of sand silt clay",
+        "Colour only",
+        "Smell only"
+      ],
+      "correct_index": 1,
+      "explanation": "Texture proportion.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_024",
+      "text": "Loamy soil is: (variant 24)",
+      "options": [
+        "Best for agriculture",
+        "Worst",
+        "No use",
+        "Only building"
+      ],
+      "correct_index": 0,
+      "explanation": "Loamy best.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_025",
+      "text": "Fertilizer provides: (variant 25)",
+      "options": [
+        "Water only",
+        "Air only",
+        "Nothing",
+        "Nutrients"
+      ],
+      "correct_index": 3,
+      "explanation": "Fertilizer nutrients.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_026",
+      "text": "Maize botanical name: (variant 26)",
+      "options": [
+        "Manihot esculenta",
+        "Dioscorea",
+        "Zea mays",
+        "Oryza sativa"
+      ],
+      "correct_index": 2,
+      "explanation": "Zea mays maize.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_027",
+      "text": "Cassava planting material: (variant 27)",
+      "options": [
+        "Leaf",
+        "Stem cutting",
+        "Seed",
+        "Root"
+      ],
+      "correct_index": 1,
+      "explanation": "Cassava stem cutting.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_028",
+      "text": "Ruminant example: (variant 28)",
+      "options": [
+        "Cattle",
+        "Poultry",
+        "Pig",
+        "Rabbit"
+      ],
+      "correct_index": 0,
+      "explanation": "Cattle ruminant.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_029",
+      "text": "Incubation chicken: (variant 29)",
+      "options": [
+        "10 days",
+        "30 days",
+        "40 days",
+        "21 days"
+      ],
+      "correct_index": 3,
+      "explanation": "Chicken 21 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_030",
+      "text": "Gestation cattle: (variant 30)",
+      "options": [
+        "30 days",
+        "21 days",
+        "283 days",
+        "150 days"
+      ],
+      "correct_index": 2,
+      "explanation": "Cattle 283 days.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_031",
+      "text": "Demand means: (variant 31)",
+      "options": [
+        "No willingness",
+        "Willingness and ability to buy",
+        "Only willingness",
+        "Only ability"
+      ],
+      "correct_index": 1,
+      "explanation": "Demand willingness ability.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_032",
+      "text": "Photosynthesis requires: (variant 32)",
+      "options": [
+        "CO2 water sunlight",
+        "Only water",
+        "Only CO2",
+        "Only oxygen"
+      ],
+      "correct_index": 0,
+      "explanation": "Photosynthesis CO2 water sunlight.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_033",
+      "text": "Irrigation necessary in: (variant 33)",
+      "options": [
+        "Rainy only",
+        "No areas",
+        "All always",
+        "Dry areas"
+      ],
+      "correct_index": 3,
+      "explanation": "Irrigation dry areas.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_034",
+      "text": "Weeding important because: (variant 34)",
+      "options": [
+        "No importance",
+        "Kills crops",
+        "Reduces competition",
+        "Increases"
+      ],
+      "correct_index": 2,
+      "explanation": "Weeding reduces competition.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_035",
+      "text": "Silo is for: (variant 35)",
+      "options": [
+        "School",
+        "Grain storage",
+        "Car",
+        "House"
+      ],
+      "correct_index": 1,
+      "explanation": "Silo grain storage.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_036",
+      "text": "IITA conducts: (variant 36)",
+      "options": [
+        "Agricultural research",
+        "No research",
+        "Only oil",
+        "Only gas"
+      ],
+      "correct_index": 0,
+      "explanation": "IITA research.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_037",
+      "text": "Land tenure means: (variant 37)",
+      "options": [
+        "No ownership",
+        "Only renting",
+        "Only buying",
+        "System of land ownership"
+      ],
+      "correct_index": 3,
+      "explanation": "Land tenure ownership.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_038",
+      "text": "Millet tolerates: (variant 38)",
+      "options": [
+        "Only flood",
+        "Only high rain",
+        "Drought",
+        "No drought"
+      ],
+      "correct_index": 2,
+      "explanation": "Millet drought.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_039",
+      "text": "Young cattle called: (variant 39)",
+      "options": [
+        "Piglet",
+        "Calf",
+        "Kid",
+        "Lamb"
+      ],
+      "correct_index": 1,
+      "explanation": "Calf.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_040",
+      "text": "Pruning is: (variant 40)",
+      "options": [
+        "Cutting unwanted branches",
+        "Planting",
+        "Harvesting",
+        "Weeding"
+      ],
+      "correct_index": 0,
+      "explanation": "Pruning cutting branches.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_041",
+      "text": "Agriculture is: (variant 41)",
+      "options": [
+        "Only trading",
+        "Only fishing",
+        "Only hunting",
+        "Art and science of crop and animal production"
+      ],
+      "correct_index": 3,
+      "explanation": "Agriculture art science crop animal.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_042",
+      "text": "Agronomy deals with: (variant 42)",
+      "options": [
+        "Forestry",
+        "Fishery",
+        "Crop production",
+        "Animal"
+      ],
+      "correct_index": 2,
+      "explanation": "Agronomy crop.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_043",
+      "text": "Soil texture is: (variant 43)",
+      "options": [
+        "Taste only",
+        "Proportion of sand silt clay",
+        "Colour only",
+        "Smell only"
+      ],
+      "correct_index": 1,
+      "explanation": "Texture proportion.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_044",
+      "text": "Loamy soil is: (variant 44)",
+      "options": [
+        "Best for agriculture",
+        "Worst",
+        "No use",
+        "Only building"
+      ],
+      "correct_index": 0,
+      "explanation": "Loamy best.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_045",
+      "text": "Fertilizer provides: (variant 45)",
+      "options": [
+        "Water only",
+        "Air only",
+        "Nothing",
+        "Nutrients"
+      ],
+      "correct_index": 3,
+      "explanation": "Fertilizer nutrients.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_046",
+      "text": "Maize botanical name: (variant 46)",
+      "options": [
+        "Manihot esculenta",
+        "Dioscorea",
+        "Zea mays",
+        "Oryza sativa"
+      ],
+      "correct_index": 2,
+      "explanation": "Zea mays maize.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_047",
+      "text": "Cassava planting material: (variant 47)",
+      "options": [
+        "Leaf",
+        "Stem cutting",
+        "Seed",
+        "Root"
+      ],
+      "correct_index": 1,
+      "explanation": "Cassava stem cutting.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_048",
+      "text": "Ruminant example: (variant 48)",
+      "options": [
+        "Cattle",
+        "Poultry",
+        "Pig",
+        "Rabbit"
+      ],
+      "correct_index": 0,
+      "explanation": "Cattle ruminant.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_049",
+      "text": "Incubation chicken: (variant 49)",
+      "options": [
+        "10 days",
+        "30 days",
+        "40 days",
+        "21 days"
+      ],
+      "correct_index": 3,
+      "explanation": "Chicken 21 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_050",
+      "text": "Gestation cattle: (variant 50)",
+      "options": [
+        "30 days",
+        "21 days",
+        "283 days",
+        "150 days"
+      ],
+      "correct_index": 2,
+      "explanation": "Cattle 283 days.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_051",
+      "text": "Demand means: (variant 51)",
+      "options": [
+        "No willingness",
+        "Willingness and ability to buy",
+        "Only willingness",
+        "Only ability"
+      ],
+      "correct_index": 1,
+      "explanation": "Demand willingness ability.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_052",
+      "text": "Photosynthesis requires: (variant 52)",
+      "options": [
+        "CO2 water sunlight",
+        "Only water",
+        "Only CO2",
+        "Only oxygen"
+      ],
+      "correct_index": 0,
+      "explanation": "Photosynthesis CO2 water sunlight.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_053",
+      "text": "Irrigation necessary in: (variant 53)",
+      "options": [
+        "Rainy only",
+        "No areas",
+        "All always",
+        "Dry areas"
+      ],
+      "correct_index": 3,
+      "explanation": "Irrigation dry areas.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_054",
+      "text": "Weeding important because: (variant 54)",
+      "options": [
+        "No importance",
+        "Kills crops",
+        "Reduces competition",
+        "Increases"
+      ],
+      "correct_index": 2,
+      "explanation": "Weeding reduces competition.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_055",
+      "text": "Silo is for: (variant 55)",
+      "options": [
+        "School",
+        "Grain storage",
+        "Car",
+        "House"
+      ],
+      "correct_index": 1,
+      "explanation": "Silo grain storage.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_056",
+      "text": "IITA conducts: (variant 56)",
+      "options": [
+        "Agricultural research",
+        "No research",
+        "Only oil",
+        "Only gas"
+      ],
+      "correct_index": 0,
+      "explanation": "IITA research.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_057",
+      "text": "Land tenure means: (variant 57)",
+      "options": [
+        "No ownership",
+        "Only renting",
+        "Only buying",
+        "System of land ownership"
+      ],
+      "correct_index": 3,
+      "explanation": "Land tenure ownership.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_058",
+      "text": "Millet tolerates: (variant 58)",
+      "options": [
+        "Only flood",
+        "Only high rain",
+        "Drought",
+        "No drought"
+      ],
+      "correct_index": 2,
+      "explanation": "Millet drought.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_059",
+      "text": "Young cattle called: (variant 59)",
+      "options": [
+        "Piglet",
+        "Calf",
+        "Kid",
+        "Lamb"
+      ],
+      "correct_index": 1,
+      "explanation": "Calf.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_060",
+      "text": "Pruning is: (variant 60)",
+      "options": [
+        "Cutting unwanted branches",
+        "Planting",
+        "Harvesting",
+        "Weeding"
+      ],
+      "correct_index": 0,
+      "explanation": "Pruning cutting branches.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_061",
+      "text": "Agriculture is: (variant 61)",
+      "options": [
+        "Only trading",
+        "Only fishing",
+        "Only hunting",
+        "Art and science of crop and animal production"
+      ],
+      "correct_index": 3,
+      "explanation": "Agriculture art science crop animal.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_062",
+      "text": "Agronomy deals with: (variant 62)",
+      "options": [
+        "Forestry",
+        "Fishery",
+        "Crop production",
+        "Animal"
+      ],
+      "correct_index": 2,
+      "explanation": "Agronomy crop.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_063",
+      "text": "Soil texture is: (variant 63)",
+      "options": [
+        "Taste only",
+        "Proportion of sand silt clay",
+        "Colour only",
+        "Smell only"
+      ],
+      "correct_index": 1,
+      "explanation": "Texture proportion.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_064",
+      "text": "Loamy soil is: (variant 64)",
+      "options": [
+        "Best for agriculture",
+        "Worst",
+        "No use",
+        "Only building"
+      ],
+      "correct_index": 0,
+      "explanation": "Loamy best.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_065",
+      "text": "Fertilizer provides: (variant 65)",
+      "options": [
+        "Water only",
+        "Air only",
+        "Nothing",
+        "Nutrients"
+      ],
+      "correct_index": 3,
+      "explanation": "Fertilizer nutrients.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_066",
+      "text": "Maize botanical name: (variant 66)",
+      "options": [
+        "Manihot esculenta",
+        "Dioscorea",
+        "Zea mays",
+        "Oryza sativa"
+      ],
+      "correct_index": 2,
+      "explanation": "Zea mays maize.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_067",
+      "text": "Cassava planting material: (variant 67)",
+      "options": [
+        "Leaf",
+        "Stem cutting",
+        "Seed",
+        "Root"
+      ],
+      "correct_index": 1,
+      "explanation": "Cassava stem cutting.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_068",
+      "text": "Ruminant example: (variant 68)",
+      "options": [
+        "Cattle",
+        "Poultry",
+        "Pig",
+        "Rabbit"
+      ],
+      "correct_index": 0,
+      "explanation": "Cattle ruminant.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_069",
+      "text": "Incubation chicken: (variant 69)",
+      "options": [
+        "10 days",
+        "30 days",
+        "40 days",
+        "21 days"
+      ],
+      "correct_index": 3,
+      "explanation": "Chicken 21 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_070",
+      "text": "Gestation cattle: (variant 70)",
+      "options": [
+        "30 days",
+        "21 days",
+        "283 days",
+        "150 days"
+      ],
+      "correct_index": 2,
+      "explanation": "Cattle 283 days.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_071",
+      "text": "Demand means: (variant 71)",
+      "options": [
+        "No willingness",
+        "Willingness and ability to buy",
+        "Only willingness",
+        "Only ability"
+      ],
+      "correct_index": 1,
+      "explanation": "Demand willingness ability.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_072",
+      "text": "Photosynthesis requires: (variant 72)",
+      "options": [
+        "CO2 water sunlight",
+        "Only water",
+        "Only CO2",
+        "Only oxygen"
+      ],
+      "correct_index": 0,
+      "explanation": "Photosynthesis CO2 water sunlight.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_073",
+      "text": "Irrigation necessary in: (variant 73)",
+      "options": [
+        "Rainy only",
+        "No areas",
+        "All always",
+        "Dry areas"
+      ],
+      "correct_index": 3,
+      "explanation": "Irrigation dry areas.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_074",
+      "text": "Weeding important because: (variant 74)",
+      "options": [
+        "No importance",
+        "Kills crops",
+        "Reduces competition",
+        "Increases"
+      ],
+      "correct_index": 2,
+      "explanation": "Weeding reduces competition.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_075",
+      "text": "Silo is for: (variant 75)",
+      "options": [
+        "School",
+        "Grain storage",
+        "Car",
+        "House"
+      ],
+      "correct_index": 1,
+      "explanation": "Silo grain storage.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_076",
+      "text": "IITA conducts: (variant 76)",
+      "options": [
+        "Agricultural research",
+        "No research",
+        "Only oil",
+        "Only gas"
+      ],
+      "correct_index": 0,
+      "explanation": "IITA research.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_077",
+      "text": "Land tenure means: (variant 77)",
+      "options": [
+        "No ownership",
+        "Only renting",
+        "Only buying",
+        "System of land ownership"
+      ],
+      "correct_index": 3,
+      "explanation": "Land tenure ownership.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_078",
+      "text": "Millet tolerates: (variant 78)",
+      "options": [
+        "Only flood",
+        "Only high rain",
+        "Drought",
+        "No drought"
+      ],
+      "correct_index": 2,
+      "explanation": "Millet drought.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_079",
+      "text": "Young cattle called: (variant 79)",
+      "options": [
+        "Piglet",
+        "Calf",
+        "Kid",
+        "Lamb"
+      ],
+      "correct_index": 1,
+      "explanation": "Calf.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_080",
+      "text": "Pruning is: (variant 80)",
+      "options": [
+        "Cutting unwanted branches",
+        "Planting",
+        "Harvesting",
+        "Weeding"
+      ],
+      "correct_index": 0,
+      "explanation": "Pruning cutting branches.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_081",
+      "text": "Agriculture is: (variant 81)",
+      "options": [
+        "Only trading",
+        "Only fishing",
+        "Only hunting",
+        "Art and science of crop and animal production"
+      ],
+      "correct_index": 3,
+      "explanation": "Agriculture art science crop animal.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_082",
+      "text": "Agronomy deals with: (variant 82)",
+      "options": [
+        "Forestry",
+        "Fishery",
+        "Crop production",
+        "Animal"
+      ],
+      "correct_index": 2,
+      "explanation": "Agronomy crop.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_083",
+      "text": "Soil texture is: (variant 83)",
+      "options": [
+        "Taste only",
+        "Proportion of sand silt clay",
+        "Colour only",
+        "Smell only"
+      ],
+      "correct_index": 1,
+      "explanation": "Texture proportion.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_084",
+      "text": "Loamy soil is: (variant 84)",
+      "options": [
+        "Best for agriculture",
+        "Worst",
+        "No use",
+        "Only building"
+      ],
+      "correct_index": 0,
+      "explanation": "Loamy best.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_085",
+      "text": "Fertilizer provides: (variant 85)",
+      "options": [
+        "Water only",
+        "Air only",
+        "Nothing",
+        "Nutrients"
+      ],
+      "correct_index": 3,
+      "explanation": "Fertilizer nutrients.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_086",
+      "text": "Maize botanical name: (variant 86)",
+      "options": [
+        "Manihot esculenta",
+        "Dioscorea",
+        "Zea mays",
+        "Oryza sativa"
+      ],
+      "correct_index": 2,
+      "explanation": "Zea mays maize.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_087",
+      "text": "Cassava planting material: (variant 87)",
+      "options": [
+        "Leaf",
+        "Stem cutting",
+        "Seed",
+        "Root"
+      ],
+      "correct_index": 1,
+      "explanation": "Cassava stem cutting.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_088",
+      "text": "Ruminant example: (variant 88)",
+      "options": [
+        "Cattle",
+        "Poultry",
+        "Pig",
+        "Rabbit"
+      ],
+      "correct_index": 0,
+      "explanation": "Cattle ruminant.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_089",
+      "text": "Incubation chicken: (variant 89)",
+      "options": [
+        "10 days",
+        "30 days",
+        "40 days",
+        "21 days"
+      ],
+      "correct_index": 3,
+      "explanation": "Chicken 21 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_090",
+      "text": "Gestation cattle: (variant 90)",
+      "options": [
+        "30 days",
+        "21 days",
+        "283 days",
+        "150 days"
+      ],
+      "correct_index": 2,
+      "explanation": "Cattle 283 days.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_091",
+      "text": "Demand means: (variant 91)",
+      "options": [
+        "No willingness",
+        "Willingness and ability to buy",
+        "Only willingness",
+        "Only ability"
+      ],
+      "correct_index": 1,
+      "explanation": "Demand willingness ability.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_092",
+      "text": "Photosynthesis requires: (variant 92)",
+      "options": [
+        "CO2 water sunlight",
+        "Only water",
+        "Only CO2",
+        "Only oxygen"
+      ],
+      "correct_index": 0,
+      "explanation": "Photosynthesis CO2 water sunlight.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_093",
+      "text": "Irrigation necessary in: (variant 93)",
+      "options": [
+        "Rainy only",
+        "No areas",
+        "All always",
+        "Dry areas"
+      ],
+      "correct_index": 3,
+      "explanation": "Irrigation dry areas.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_094",
+      "text": "Weeding important because: (variant 94)",
+      "options": [
+        "No importance",
+        "Kills crops",
+        "Reduces competition",
+        "Increases"
+      ],
+      "correct_index": 2,
+      "explanation": "Weeding reduces competition.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_095",
+      "text": "Silo is for: (variant 95)",
+      "options": [
+        "School",
+        "Grain storage",
+        "Car",
+        "House"
+      ],
+      "correct_index": 1,
+      "explanation": "Silo grain storage.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_096",
+      "text": "IITA conducts: (variant 96)",
+      "options": [
+        "Agricultural research",
+        "No research",
+        "Only oil",
+        "Only gas"
+      ],
+      "correct_index": 0,
+      "explanation": "IITA research.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_097",
+      "text": "Land tenure means: (variant 97)",
+      "options": [
+        "No ownership",
+        "Only renting",
+        "Only buying",
+        "System of land ownership"
+      ],
+      "correct_index": 3,
+      "explanation": "Land tenure ownership.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_098",
+      "text": "Millet tolerates: (variant 98)",
+      "options": [
+        "Only flood",
+        "Only high rain",
+        "Drought",
+        "No drought"
+      ],
+      "correct_index": 2,
+      "explanation": "Millet drought.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_099",
+      "text": "Young cattle called: (variant 99)",
+      "options": [
+        "Piglet",
+        "Calf",
+        "Kid",
+        "Lamb"
+      ],
+      "correct_index": 1,
+      "explanation": "Calf.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_100",
+      "text": "Pruning is: (variant 100)",
+      "options": [
+        "Cutting unwanted branches",
+        "Planting",
+        "Harvesting",
+        "Weeding"
+      ],
+      "correct_index": 0,
+      "explanation": "Pruning cutting branches.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_101",
+      "text": "Agriculture is: (variant 101)",
+      "options": [
+        "Only trading",
+        "Only fishing",
+        "Only hunting",
+        "Art and science of crop and animal production"
+      ],
+      "correct_index": 3,
+      "explanation": "Agriculture art science crop animal.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_102",
+      "text": "Agronomy deals with: (variant 102)",
+      "options": [
+        "Forestry",
+        "Fishery",
+        "Crop production",
+        "Animal"
+      ],
+      "correct_index": 2,
+      "explanation": "Agronomy crop.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_103",
+      "text": "Soil texture is: (variant 103)",
+      "options": [
+        "Taste only",
+        "Proportion of sand silt clay",
+        "Colour only",
+        "Smell only"
+      ],
+      "correct_index": 1,
+      "explanation": "Texture proportion.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_104",
+      "text": "Loamy soil is: (variant 104)",
+      "options": [
+        "Best for agriculture",
+        "Worst",
+        "No use",
+        "Only building"
+      ],
+      "correct_index": 0,
+      "explanation": "Loamy best.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_105",
+      "text": "Fertilizer provides: (variant 105)",
+      "options": [
+        "Water only",
+        "Air only",
+        "Nothing",
+        "Nutrients"
+      ],
+      "correct_index": 3,
+      "explanation": "Fertilizer nutrients.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_106",
+      "text": "Maize botanical name: (variant 106)",
+      "options": [
+        "Manihot esculenta",
+        "Dioscorea",
+        "Zea mays",
+        "Oryza sativa"
+      ],
+      "correct_index": 2,
+      "explanation": "Zea mays maize.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_107",
+      "text": "Cassava planting material: (variant 107)",
+      "options": [
+        "Leaf",
+        "Stem cutting",
+        "Seed",
+        "Root"
+      ],
+      "correct_index": 1,
+      "explanation": "Cassava stem cutting.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_108",
+      "text": "Ruminant example: (variant 108)",
+      "options": [
+        "Cattle",
+        "Poultry",
+        "Pig",
+        "Rabbit"
+      ],
+      "correct_index": 0,
+      "explanation": "Cattle ruminant.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_109",
+      "text": "Incubation chicken: (variant 109)",
+      "options": [
+        "10 days",
+        "30 days",
+        "40 days",
+        "21 days"
+      ],
+      "correct_index": 3,
+      "explanation": "Chicken 21 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_110",
+      "text": "Gestation cattle: (variant 110)",
+      "options": [
+        "30 days",
+        "21 days",
+        "283 days",
+        "150 days"
+      ],
+      "correct_index": 2,
+      "explanation": "Cattle 283 days.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_111",
+      "text": "Demand means: (variant 111)",
+      "options": [
+        "No willingness",
+        "Willingness and ability to buy",
+        "Only willingness",
+        "Only ability"
+      ],
+      "correct_index": 1,
+      "explanation": "Demand willingness ability.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_112",
+      "text": "Photosynthesis requires: (variant 112)",
+      "options": [
+        "CO2 water sunlight",
+        "Only water",
+        "Only CO2",
+        "Only oxygen"
+      ],
+      "correct_index": 0,
+      "explanation": "Photosynthesis CO2 water sunlight.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_113",
+      "text": "Irrigation necessary in: (variant 113)",
+      "options": [
+        "Rainy only",
+        "No areas",
+        "All always",
+        "Dry areas"
+      ],
+      "correct_index": 3,
+      "explanation": "Irrigation dry areas.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_114",
+      "text": "Weeding important because: (variant 114)",
+      "options": [
+        "No importance",
+        "Kills crops",
+        "Reduces competition",
+        "Increases"
+      ],
+      "correct_index": 2,
+      "explanation": "Weeding reduces competition.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_115",
+      "text": "Silo is for: (variant 115)",
+      "options": [
+        "School",
+        "Grain storage",
+        "Car",
+        "House"
+      ],
+      "correct_index": 1,
+      "explanation": "Silo grain storage.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_116",
+      "text": "IITA conducts: (variant 116)",
+      "options": [
+        "Agricultural research",
+        "No research",
+        "Only oil",
+        "Only gas"
+      ],
+      "correct_index": 0,
+      "explanation": "IITA research.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_117",
+      "text": "Land tenure means: (variant 117)",
+      "options": [
+        "No ownership",
+        "Only renting",
+        "Only buying",
+        "System of land ownership"
+      ],
+      "correct_index": 3,
+      "explanation": "Land tenure ownership.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_118",
+      "text": "Millet tolerates: (variant 118)",
+      "options": [
+        "Only flood",
+        "Only high rain",
+        "Drought",
+        "No drought"
+      ],
+      "correct_index": 2,
+      "explanation": "Millet drought.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_119",
+      "text": "Young cattle called: (variant 119)",
+      "options": [
+        "Piglet",
+        "Calf",
+        "Kid",
+        "Lamb"
+      ],
+      "correct_index": 1,
+      "explanation": "Calf.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_120",
+      "text": "Pruning is: (variant 120)",
+      "options": [
+        "Cutting unwanted branches",
+        "Planting",
+        "Harvesting",
+        "Weeding"
+      ],
+      "correct_index": 0,
+      "explanation": "Pruning cutting branches.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_121",
+      "text": "Agriculture is: (variant 121)",
+      "options": [
+        "Only trading",
+        "Only fishing",
+        "Only hunting",
+        "Art and science of crop and animal production"
+      ],
+      "correct_index": 3,
+      "explanation": "Agriculture art science crop animal.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_122",
+      "text": "Agronomy deals with: (variant 122)",
+      "options": [
+        "Forestry",
+        "Fishery",
+        "Crop production",
+        "Animal"
+      ],
+      "correct_index": 2,
+      "explanation": "Agronomy crop.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_123",
+      "text": "Soil texture is: (variant 123)",
+      "options": [
+        "Taste only",
+        "Proportion of sand silt clay",
+        "Colour only",
+        "Smell only"
+      ],
+      "correct_index": 1,
+      "explanation": "Texture proportion.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_124",
+      "text": "Loamy soil is: (variant 124)",
+      "options": [
+        "Best for agriculture",
+        "Worst",
+        "No use",
+        "Only building"
+      ],
+      "correct_index": 0,
+      "explanation": "Loamy best.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_125",
+      "text": "Fertilizer provides: (variant 125)",
+      "options": [
+        "Water only",
+        "Air only",
+        "Nothing",
+        "Nutrients"
+      ],
+      "correct_index": 3,
+      "explanation": "Fertilizer nutrients.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_126",
+      "text": "Maize botanical name: (variant 126)",
+      "options": [
+        "Manihot esculenta",
+        "Dioscorea",
+        "Zea mays",
+        "Oryza sativa"
+      ],
+      "correct_index": 2,
+      "explanation": "Zea mays maize.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_127",
+      "text": "Cassava planting material: (variant 127)",
+      "options": [
+        "Leaf",
+        "Stem cutting",
+        "Seed",
+        "Root"
+      ],
+      "correct_index": 1,
+      "explanation": "Cassava stem cutting.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_128",
+      "text": "Ruminant example: (variant 128)",
+      "options": [
+        "Cattle",
+        "Poultry",
+        "Pig",
+        "Rabbit"
+      ],
+      "correct_index": 0,
+      "explanation": "Cattle ruminant.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_129",
+      "text": "Incubation chicken: (variant 129)",
+      "options": [
+        "10 days",
+        "30 days",
+        "40 days",
+        "21 days"
+      ],
+      "correct_index": 3,
+      "explanation": "Chicken 21 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_130",
+      "text": "Gestation cattle: (variant 130)",
+      "options": [
+        "30 days",
+        "21 days",
+        "283 days",
+        "150 days"
+      ],
+      "correct_index": 2,
+      "explanation": "Cattle 283 days.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_131",
+      "text": "Demand means: (variant 131)",
+      "options": [
+        "No willingness",
+        "Willingness and ability to buy",
+        "Only willingness",
+        "Only ability"
+      ],
+      "correct_index": 1,
+      "explanation": "Demand willingness ability.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_132",
+      "text": "Photosynthesis requires: (variant 132)",
+      "options": [
+        "CO2 water sunlight",
+        "Only water",
+        "Only CO2",
+        "Only oxygen"
+      ],
+      "correct_index": 0,
+      "explanation": "Photosynthesis CO2 water sunlight.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_133",
+      "text": "Irrigation necessary in: (variant 133)",
+      "options": [
+        "Rainy only",
+        "No areas",
+        "All always",
+        "Dry areas"
+      ],
+      "correct_index": 3,
+      "explanation": "Irrigation dry areas.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_134",
+      "text": "Weeding important because: (variant 134)",
+      "options": [
+        "No importance",
+        "Kills crops",
+        "Reduces competition",
+        "Increases"
+      ],
+      "correct_index": 2,
+      "explanation": "Weeding reduces competition.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_135",
+      "text": "Silo is for: (variant 135)",
+      "options": [
+        "School",
+        "Grain storage",
+        "Car",
+        "House"
+      ],
+      "correct_index": 1,
+      "explanation": "Silo grain storage.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_136",
+      "text": "IITA conducts: (variant 136)",
+      "options": [
+        "Agricultural research",
+        "No research",
+        "Only oil",
+        "Only gas"
+      ],
+      "correct_index": 0,
+      "explanation": "IITA research.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_137",
+      "text": "Land tenure means: (variant 137)",
+      "options": [
+        "No ownership",
+        "Only renting",
+        "Only buying",
+        "System of land ownership"
+      ],
+      "correct_index": 3,
+      "explanation": "Land tenure ownership.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_138",
+      "text": "Millet tolerates: (variant 138)",
+      "options": [
+        "Only flood",
+        "Only high rain",
+        "Drought",
+        "No drought"
+      ],
+      "correct_index": 2,
+      "explanation": "Millet drought.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_139",
+      "text": "Young cattle called: (variant 139)",
+      "options": [
+        "Piglet",
+        "Calf",
+        "Kid",
+        "Lamb"
+      ],
+      "correct_index": 1,
+      "explanation": "Calf.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_140",
+      "text": "Pruning is: (variant 140)",
+      "options": [
+        "Cutting unwanted branches",
+        "Planting",
+        "Harvesting",
+        "Weeding"
+      ],
+      "correct_index": 0,
+      "explanation": "Pruning cutting branches.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_141",
+      "text": "Agriculture is: (variant 141)",
+      "options": [
+        "Only trading",
+        "Only fishing",
+        "Only hunting",
+        "Art and science of crop and animal production"
+      ],
+      "correct_index": 3,
+      "explanation": "Agriculture art science crop animal.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_142",
+      "text": "Agronomy deals with: (variant 142)",
+      "options": [
+        "Forestry",
+        "Fishery",
+        "Crop production",
+        "Animal"
+      ],
+      "correct_index": 2,
+      "explanation": "Agronomy crop.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_143",
+      "text": "Soil texture is: (variant 143)",
+      "options": [
+        "Taste only",
+        "Proportion of sand silt clay",
+        "Colour only",
+        "Smell only"
+      ],
+      "correct_index": 1,
+      "explanation": "Texture proportion.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_144",
+      "text": "Loamy soil is: (variant 144)",
+      "options": [
+        "Best for agriculture",
+        "Worst",
+        "No use",
+        "Only building"
+      ],
+      "correct_index": 0,
+      "explanation": "Loamy best.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_145",
+      "text": "Fertilizer provides: (variant 145)",
+      "options": [
+        "Water only",
+        "Air only",
+        "Nothing",
+        "Nutrients"
+      ],
+      "correct_index": 3,
+      "explanation": "Fertilizer nutrients.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_146",
+      "text": "Maize botanical name: (variant 146)",
+      "options": [
+        "Manihot esculenta",
+        "Dioscorea",
+        "Zea mays",
+        "Oryza sativa"
+      ],
+      "correct_index": 2,
+      "explanation": "Zea mays maize.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_147",
+      "text": "Cassava planting material: (variant 147)",
+      "options": [
+        "Leaf",
+        "Stem cutting",
+        "Seed",
+        "Root"
+      ],
+      "correct_index": 1,
+      "explanation": "Cassava stem cutting.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_148",
+      "text": "Ruminant example: (variant 148)",
+      "options": [
+        "Cattle",
+        "Poultry",
+        "Pig",
+        "Rabbit"
+      ],
+      "correct_index": 0,
+      "explanation": "Cattle ruminant.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_149",
+      "text": "Incubation chicken: (variant 149)",
+      "options": [
+        "10 days",
+        "30 days",
+        "40 days",
+        "21 days"
+      ],
+      "correct_index": 3,
+      "explanation": "Chicken 21 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_150",
+      "text": "Gestation cattle: (variant 150)",
+      "options": [
+        "30 days",
+        "21 days",
+        "283 days",
+        "150 days"
+      ],
+      "correct_index": 2,
+      "explanation": "Cattle 283 days.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_151",
+      "text": "Demand means: (variant 151)",
+      "options": [
+        "No willingness",
+        "Willingness and ability to buy",
+        "Only willingness",
+        "Only ability"
+      ],
+      "correct_index": 1,
+      "explanation": "Demand willingness ability.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_152",
+      "text": "Photosynthesis requires: (variant 152)",
+      "options": [
+        "CO2 water sunlight",
+        "Only water",
+        "Only CO2",
+        "Only oxygen"
+      ],
+      "correct_index": 0,
+      "explanation": "Photosynthesis CO2 water sunlight.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_153",
+      "text": "Irrigation necessary in: (variant 153)",
+      "options": [
+        "Rainy only",
+        "No areas",
+        "All always",
+        "Dry areas"
+      ],
+      "correct_index": 3,
+      "explanation": "Irrigation dry areas.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_154",
+      "text": "Weeding important because: (variant 154)",
+      "options": [
+        "No importance",
+        "Kills crops",
+        "Reduces competition",
+        "Increases"
+      ],
+      "correct_index": 2,
+      "explanation": "Weeding reduces competition.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_155",
+      "text": "Silo is for: (variant 155)",
+      "options": [
+        "School",
+        "Grain storage",
+        "Car",
+        "House"
+      ],
+      "correct_index": 1,
+      "explanation": "Silo grain storage.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_156",
+      "text": "IITA conducts: (variant 156)",
+      "options": [
+        "Agricultural research",
+        "No research",
+        "Only oil",
+        "Only gas"
+      ],
+      "correct_index": 0,
+      "explanation": "IITA research.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_157",
+      "text": "Land tenure means: (variant 157)",
+      "options": [
+        "No ownership",
+        "Only renting",
+        "Only buying",
+        "System of land ownership"
+      ],
+      "correct_index": 3,
+      "explanation": "Land tenure ownership.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_158",
+      "text": "Millet tolerates: (variant 158)",
+      "options": [
+        "Only flood",
+        "Only high rain",
+        "Drought",
+        "No drought"
+      ],
+      "correct_index": 2,
+      "explanation": "Millet drought.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_159",
+      "text": "Young cattle called: (variant 159)",
+      "options": [
+        "Piglet",
+        "Calf",
+        "Kid",
+        "Lamb"
+      ],
+      "correct_index": 1,
+      "explanation": "Calf.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_160",
+      "text": "Pruning is: (variant 160)",
+      "options": [
+        "Cutting unwanted branches",
+        "Planting",
+        "Harvesting",
+        "Weeding"
+      ],
+      "correct_index": 0,
+      "explanation": "Pruning cutting branches.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_161",
+      "text": "Agriculture is: (variant 161)",
+      "options": [
+        "Only trading",
+        "Only fishing",
+        "Only hunting",
+        "Art and science of crop and animal production"
+      ],
+      "correct_index": 3,
+      "explanation": "Agriculture art science crop animal.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_162",
+      "text": "Agronomy deals with: (variant 162)",
+      "options": [
+        "Forestry",
+        "Fishery",
+        "Crop production",
+        "Animal"
+      ],
+      "correct_index": 2,
+      "explanation": "Agronomy crop.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_163",
+      "text": "Soil texture is: (variant 163)",
+      "options": [
+        "Taste only",
+        "Proportion of sand silt clay",
+        "Colour only",
+        "Smell only"
+      ],
+      "correct_index": 1,
+      "explanation": "Texture proportion.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_164",
+      "text": "Loamy soil is: (variant 164)",
+      "options": [
+        "Best for agriculture",
+        "Worst",
+        "No use",
+        "Only building"
+      ],
+      "correct_index": 0,
+      "explanation": "Loamy best.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_165",
+      "text": "Fertilizer provides: (variant 165)",
+      "options": [
+        "Water only",
+        "Air only",
+        "Nothing",
+        "Nutrients"
+      ],
+      "correct_index": 3,
+      "explanation": "Fertilizer nutrients.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_166",
+      "text": "Maize botanical name: (variant 166)",
+      "options": [
+        "Manihot esculenta",
+        "Dioscorea",
+        "Zea mays",
+        "Oryza sativa"
+      ],
+      "correct_index": 2,
+      "explanation": "Zea mays maize.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_167",
+      "text": "Cassava planting material: (variant 167)",
+      "options": [
+        "Leaf",
+        "Stem cutting",
+        "Seed",
+        "Root"
+      ],
+      "correct_index": 1,
+      "explanation": "Cassava stem cutting.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_168",
+      "text": "Ruminant example: (variant 168)",
+      "options": [
+        "Cattle",
+        "Poultry",
+        "Pig",
+        "Rabbit"
+      ],
+      "correct_index": 0,
+      "explanation": "Cattle ruminant.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_169",
+      "text": "Incubation chicken: (variant 169)",
+      "options": [
+        "10 days",
+        "30 days",
+        "40 days",
+        "21 days"
+      ],
+      "correct_index": 3,
+      "explanation": "Chicken 21 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_170",
+      "text": "Gestation cattle: (variant 170)",
+      "options": [
+        "30 days",
+        "21 days",
+        "283 days",
+        "150 days"
+      ],
+      "correct_index": 2,
+      "explanation": "Cattle 283 days.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_171",
+      "text": "Demand means: (variant 171)",
+      "options": [
+        "No willingness",
+        "Willingness and ability to buy",
+        "Only willingness",
+        "Only ability"
+      ],
+      "correct_index": 1,
+      "explanation": "Demand willingness ability.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_172",
+      "text": "Photosynthesis requires: (variant 172)",
+      "options": [
+        "CO2 water sunlight",
+        "Only water",
+        "Only CO2",
+        "Only oxygen"
+      ],
+      "correct_index": 0,
+      "explanation": "Photosynthesis CO2 water sunlight.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_173",
+      "text": "Irrigation necessary in: (variant 173)",
+      "options": [
+        "Rainy only",
+        "No areas",
+        "All always",
+        "Dry areas"
+      ],
+      "correct_index": 3,
+      "explanation": "Irrigation dry areas.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_174",
+      "text": "Weeding important because: (variant 174)",
+      "options": [
+        "No importance",
+        "Kills crops",
+        "Reduces competition",
+        "Increases"
+      ],
+      "correct_index": 2,
+      "explanation": "Weeding reduces competition.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_175",
+      "text": "Silo is for: (variant 175)",
+      "options": [
+        "School",
+        "Grain storage",
+        "Car",
+        "House"
+      ],
+      "correct_index": 1,
+      "explanation": "Silo grain storage.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_176",
+      "text": "IITA conducts: (variant 176)",
+      "options": [
+        "Agricultural research",
+        "No research",
+        "Only oil",
+        "Only gas"
+      ],
+      "correct_index": 0,
+      "explanation": "IITA research.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_177",
+      "text": "Land tenure means: (variant 177)",
+      "options": [
+        "No ownership",
+        "Only renting",
+        "Only buying",
+        "System of land ownership"
+      ],
+      "correct_index": 3,
+      "explanation": "Land tenure ownership.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_178",
+      "text": "Millet tolerates: (variant 178)",
+      "options": [
+        "Only flood",
+        "Only high rain",
+        "Drought",
+        "No drought"
+      ],
+      "correct_index": 2,
+      "explanation": "Millet drought.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_179",
+      "text": "Young cattle called: (variant 179)",
+      "options": [
+        "Piglet",
+        "Calf",
+        "Kid",
+        "Lamb"
+      ],
+      "correct_index": 1,
+      "explanation": "Calf.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_180",
+      "text": "Pruning is: (variant 180)",
+      "options": [
+        "Cutting unwanted branches",
+        "Planting",
+        "Harvesting",
+        "Weeding"
+      ],
+      "correct_index": 0,
+      "explanation": "Pruning cutting branches.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_181",
+      "text": "Agriculture is: (variant 181)",
+      "options": [
+        "Only trading",
+        "Only fishing",
+        "Only hunting",
+        "Art and science of crop and animal production"
+      ],
+      "correct_index": 3,
+      "explanation": "Agriculture art science crop animal.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_182",
+      "text": "Agronomy deals with: (variant 182)",
+      "options": [
+        "Forestry",
+        "Fishery",
+        "Crop production",
+        "Animal"
+      ],
+      "correct_index": 2,
+      "explanation": "Agronomy crop.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_183",
+      "text": "Soil texture is: (variant 183)",
+      "options": [
+        "Taste only",
+        "Proportion of sand silt clay",
+        "Colour only",
+        "Smell only"
+      ],
+      "correct_index": 1,
+      "explanation": "Texture proportion.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_184",
+      "text": "Loamy soil is: (variant 184)",
+      "options": [
+        "Best for agriculture",
+        "Worst",
+        "No use",
+        "Only building"
+      ],
+      "correct_index": 0,
+      "explanation": "Loamy best.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_185",
+      "text": "Fertilizer provides: (variant 185)",
+      "options": [
+        "Water only",
+        "Air only",
+        "Nothing",
+        "Nutrients"
+      ],
+      "correct_index": 3,
+      "explanation": "Fertilizer nutrients.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_186",
+      "text": "Maize botanical name: (variant 186)",
+      "options": [
+        "Manihot esculenta",
+        "Dioscorea",
+        "Zea mays",
+        "Oryza sativa"
+      ],
+      "correct_index": 2,
+      "explanation": "Zea mays maize.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_187",
+      "text": "Cassava planting material: (variant 187)",
+      "options": [
+        "Leaf",
+        "Stem cutting",
+        "Seed",
+        "Root"
+      ],
+      "correct_index": 1,
+      "explanation": "Cassava stem cutting.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_188",
+      "text": "Ruminant example: (variant 188)",
+      "options": [
+        "Cattle",
+        "Poultry",
+        "Pig",
+        "Rabbit"
+      ],
+      "correct_index": 0,
+      "explanation": "Cattle ruminant.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_189",
+      "text": "Incubation chicken: (variant 189)",
+      "options": [
+        "10 days",
+        "30 days",
+        "40 days",
+        "21 days"
+      ],
+      "correct_index": 3,
+      "explanation": "Chicken 21 days.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_190",
+      "text": "Gestation cattle: (variant 190)",
+      "options": [
+        "30 days",
+        "21 days",
+        "283 days",
+        "150 days"
+      ],
+      "correct_index": 2,
+      "explanation": "Cattle 283 days.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_191",
+      "text": "Demand means: (variant 191)",
+      "options": [
+        "No willingness",
+        "Willingness and ability to buy",
+        "Only willingness",
+        "Only ability"
+      ],
+      "correct_index": 1,
+      "explanation": "Demand willingness ability.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_192",
+      "text": "Photosynthesis requires: (variant 192)",
+      "options": [
+        "CO2 water sunlight",
+        "Only water",
+        "Only CO2",
+        "Only oxygen"
+      ],
+      "correct_index": 0,
+      "explanation": "Photosynthesis CO2 water sunlight.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_193",
+      "text": "Irrigation necessary in: (variant 193)",
+      "options": [
+        "Rainy only",
+        "No areas",
+        "All always",
+        "Dry areas"
+      ],
+      "correct_index": 3,
+      "explanation": "Irrigation dry areas.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_194",
+      "text": "Weeding important because: (variant 194)",
+      "options": [
+        "No importance",
+        "Kills crops",
+        "Reduces competition",
+        "Increases"
+      ],
+      "correct_index": 2,
+      "explanation": "Weeding reduces competition.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_195",
+      "text": "Silo is for: (variant 195)",
+      "options": [
+        "School",
+        "Grain storage",
+        "Car",
+        "House"
+      ],
+      "correct_index": 1,
+      "explanation": "Silo grain storage.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_196",
+      "text": "IITA conducts: (variant 196)",
+      "options": [
+        "Agricultural research",
+        "No research",
+        "Only oil",
+        "Only gas"
+      ],
+      "correct_index": 0,
+      "explanation": "IITA research.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_197",
+      "text": "Land tenure means: (variant 197)",
+      "options": [
+        "No ownership",
+        "Only renting",
+        "Only buying",
+        "System of land ownership"
+      ],
+      "correct_index": 3,
+      "explanation": "Land tenure ownership.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_198",
+      "text": "Millet tolerates: (variant 198)",
+      "options": [
+        "Only flood",
+        "Only high rain",
+        "Drought",
+        "No drought"
+      ],
+      "correct_index": 2,
+      "explanation": "Millet drought.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_199",
+      "text": "Young cattle called: (variant 199)",
+      "options": [
+        "Piglet",
+        "Calf",
+        "Kid",
+        "Lamb"
+      ],
+      "correct_index": 1,
+      "explanation": "Calf.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_200",
+      "text": "Pruning is: (variant 200)",
+      "options": [
+        "Cutting unwanted branches",
+        "Planting",
+        "Harvesting",
+        "Weeding"
+      ],
+      "correct_index": 0,
+      "explanation": "Pruning cutting branches.",
+      "difficulty": 1
+    }
+  ]
+}

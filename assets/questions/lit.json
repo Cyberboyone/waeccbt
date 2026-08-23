@@ -1,0 +1,2607 @@
+{
+  "course_id": "lit",
+  "course_name": "Literature in English",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "lit_001",
+      "text": "The three main genres of literature are:",
+      "options": [
+        "Novel, story, essay",
+        "Tragedy, comedy, satire",
+        "Fiction, non-fiction, myth",
+        "Prose, poetry and drama"
+      ],
+      "correct_index": 3,
+      "explanation": "Literature divides into prose, poetry and drama.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_002",
+      "text": "A literary work written in ordinary (non-verse) language is:",
+      "options": [
+        "Drama",
+        "Lyric",
+        "Poetry",
+        "Prose"
+      ],
+      "correct_index": 3,
+      "explanation": "Prose uses ordinary language.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_003",
+      "text": "A literary work written in verse is:",
+      "options": [
+        "Essay",
+        "Prose",
+        "Poetry",
+        "Drama"
+      ],
+      "correct_index": 2,
+      "explanation": "Poetry is written in verse.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_004",
+      "text": "A literary work intended to be performed on stage is:",
+      "options": [
+        "Prose",
+        "Poetry",
+        "Drama",
+        "Novel"
+      ],
+      "correct_index": 2,
+      "explanation": "Drama is written for performance.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_005",
+      "text": "The term 'literature' broadly means:",
+      "options": [
+        "Creative written or oral works of artistic value",
+        "Only novels",
+        "Only plays",
+        "Only written poems"
+      ],
+      "correct_index": 0,
+      "explanation": "Literature is artistic written/oral expression.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_006",
+      "text": "Oral literature is literature that is:",
+      "options": [
+        "Printed",
+        "Translated",
+        "Written",
+        "Passed down by word of mouth"
+      ],
+      "correct_index": 3,
+      "explanation": "Oral literature is transmitted by speech.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_007",
+      "text": "A genre is a:",
+      "options": [
+        "Stanza",
+        "Type or category of literature",
+        "Single poem",
+        "Figure of speech"
+      ],
+      "correct_index": 1,
+      "explanation": "A genre is a category of literature.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_008",
+      "text": "Fiction refers to writing that is:",
+      "options": [
+        "Factual",
+        "Imaginary/invented",
+        "Historical only",
+        "Autobiographical"
+      ],
+      "correct_index": 1,
+      "explanation": "Fiction is invented narrative.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_009",
+      "text": "Non-fiction is writing based on:",
+      "options": [
+        "Facts and reality",
+        "Fantasy",
+        "Myth",
+        "Imagination"
+      ],
+      "correct_index": 0,
+      "explanation": "Non-fiction deals with real events/people.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_010",
+      "text": "A short story is:",
+      "options": [
+        "A poem",
+        "A play",
+        "A long novel",
+        "A brief work of prose fiction"
+      ],
+      "correct_index": 3,
+      "explanation": "A short story is brief prose fiction.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_011",
+      "text": "The author of a play is called a:",
+      "options": [
+        "Essayist",
+        "Poet",
+        "Playwright",
+        "Novelist"
+      ],
+      "correct_index": 2,
+      "explanation": "A playwright writes plays.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_012",
+      "text": "The author of a poem is called a:",
+      "options": [
+        "Playwright",
+        "Poet",
+        "Novelist",
+        "Critic"
+      ],
+      "correct_index": 1,
+      "explanation": "A poet writes poems.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_013",
+      "text": "The author of a novel is called a:",
+      "options": [
+        "Novelist",
+        "Playwright",
+        "Dramatist",
+        "Poet"
+      ],
+      "correct_index": 0,
+      "explanation": "A novelist writes novels.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_014",
+      "text": "A drama that ends unhappily with the fall of the hero is a:",
+      "options": [
+        "Farce",
+        "Melodrama",
+        "Comedy",
+        "Tragedy"
+      ],
+      "correct_index": 3,
+      "explanation": "A tragedy ends with the hero's downfall.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_015",
+      "text": "A drama that ends happily is a:",
+      "options": [
+        "Melodrama",
+        "Tragedy",
+        "Comedy",
+        "Tragicomedy"
+      ],
+      "correct_index": 2,
+      "explanation": "A comedy ends happily.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_016",
+      "text": "A play that mixes tragic and comic elements is a:",
+      "options": [
+        "Comedy",
+        "Tragicomedy",
+        "Farce",
+        "Satire"
+      ],
+      "correct_index": 1,
+      "explanation": "Tragicomedy blends both.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_017",
+      "text": "The major division of a play is an:",
+      "options": [
+        "Act",
+        "Stanza",
+        "Chapter",
+        "Scene"
+      ],
+      "correct_index": 0,
+      "explanation": "Plays are divided into acts.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_018",
+      "text": "The subdivision of an act is a:",
+      "options": [
+        "Chapter",
+        "Canto",
+        "Stanza",
+        "Scene"
+      ],
+      "correct_index": 3,
+      "explanation": "Acts divide into scenes.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_019",
+      "text": "The words spoken by characters in a play are:",
+      "options": [
+        "Stage direction",
+        "Dialogue",
+        "Monologue",
+        "Narration"
+      ],
+      "correct_index": 1,
+      "explanation": "Dialogue is characters' spoken words.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_020",
+      "text": "A long speech by one character alone on stage is a:",
+      "options": [
+        "Dialogue",
+        "Soliloquy",
+        "Duologue",
+        "Aside"
+      ],
+      "correct_index": 1,
+      "explanation": "A soliloquy is a solo speech.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_021",
+      "text": "A remark by a character meant to be heard by the audience but not other characters is an:",
+      "options": [
+        "Aside",
+        "Monologue",
+        "Dialogue",
+        "Soliloquy"
+      ],
+      "correct_index": 0,
+      "explanation": "An aside is heard only by the audience.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_022",
+      "text": "The instructions in a play about action and setting are:",
+      "options": [
+        "Soliloquy",
+        "Plot",
+        "Dialogue",
+        "Stage directions"
+      ],
+      "correct_index": 3,
+      "explanation": "Stage directions guide performance.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_023",
+      "text": "The main character in a play or story is the:",
+      "options": [
+        "Narrator",
+        "Antagonist",
+        "Protagonist",
+        "Foil"
+      ],
+      "correct_index": 2,
+      "explanation": "The protagonist is the main character.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_024",
+      "text": "The character who opposes the main character is the:",
+      "options": [
+        "Protagonist",
+        "Antagonist",
+        "Heroine",
+        "Foil"
+      ],
+      "correct_index": 1,
+      "explanation": "The antagonist opposes the protagonist.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_025",
+      "text": "The leading character who suffers a downfall in a tragedy is the:",
+      "options": [
+        "Tragic hero",
+        "Foil",
+        "Clown",
+        "Villain"
+      ],
+      "correct_index": 0,
+      "explanation": "The tragic hero suffers downfall.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_026",
+      "text": "The sequence of events in a play or story is the:",
+      "options": [
+        "Setting",
+        "Style",
+        "Theme",
+        "Plot"
+      ],
+      "correct_index": 3,
+      "explanation": "The plot is the sequence of events.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_027",
+      "text": "The time and place of a literary work is its:",
+      "options": [
+        "Tone",
+        "Theme",
+        "Setting",
+        "Plot"
+      ],
+      "correct_index": 2,
+      "explanation": "Setting = time and place.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_028",
+      "text": "The central idea or message of a work is its:",
+      "options": [
+        "Plot",
+        "Theme",
+        "Setting",
+        "Character"
+      ],
+      "correct_index": 1,
+      "explanation": "Theme is the central message.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_029",
+      "text": "The group of actors in a play is the:",
+      "options": [
+        "Cast",
+        "Crew",
+        "Chorus",
+        "Audience"
+      ],
+      "correct_index": 0,
+      "explanation": "The cast are the actors.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_030",
+      "text": "The audience is the group of people who:",
+      "options": [
+        "Write a play",
+        "Direct a play",
+        "Perform a play",
+        "Watch a play"
+      ],
+      "correct_index": 3,
+      "explanation": "The audience watches the play.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_031",
+      "text": "The director of a play is the person who:",
+      "options": [
+        "Acts in it",
+        "Writes it",
+        "Supervises its performance",
+        "Watches it"
+      ],
+      "correct_index": 2,
+      "explanation": "The director supervises production.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_032",
+      "text": "A drama that ridicules human weakness to bring about reform is a:",
+      "options": [
+        "Farce",
+        "Satire",
+        "Melodrama",
+        "Romance"
+      ],
+      "correct_index": 1,
+      "explanation": "Satire ridicules to reform.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_033",
+      "text": "A farce is a comedy characterised by:",
+      "options": [
+        "Exaggerated, absurd situations",
+        "Tragedy",
+        "Realism",
+        "Serious themes"
+      ],
+      "correct_index": 0,
+      "explanation": "Farce uses absurd, exaggerated situations.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_034",
+      "text": "A long prose narrative is a:",
+      "options": [
+        "Poem",
+        "Play",
+        "Short story",
+        "Novel"
+      ],
+      "correct_index": 3,
+      "explanation": "A novel is a long prose narrative.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_035",
+      "text": "A novella is:",
+      "options": [
+        "A play",
+        "Longer than a novel",
+        "Shorter than a novel but longer than a short story",
+        "A poem"
+      ],
+      "correct_index": 2,
+      "explanation": "A novella is mid-length fiction.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_036",
+      "text": "The person who tells the story is the:",
+      "options": [
+        "Author",
+        "Narrator",
+        "Protagonist",
+        "Editor"
+      ],
+      "correct_index": 1,
+      "explanation": "The narrator tells the story.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_037",
+      "text": "The first-person point of view uses the pronoun:",
+      "options": [
+        "I",
+        "They",
+        "She",
+        "He"
+      ],
+      "correct_index": 0,
+      "explanation": "First person uses 'I'.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_038",
+      "text": "The third-person point of view uses pronouns like:",
+      "options": [
+        "We",
+        "You",
+        "I",
+        "He/she/they"
+      ],
+      "correct_index": 3,
+      "explanation": "Third person uses he/she/they.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_039",
+      "text": "An all-knowing narrator is said to be:",
+      "options": [
+        "First-person",
+        "Limited",
+        "Omniscient",
+        "Unreliable"
+      ],
+      "correct_index": 2,
+      "explanation": "An omniscient narrator knows everything.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_040",
+      "text": "The sequence of events in a story is the:",
+      "options": [
+        "Theme",
+        "Plot",
+        "Setting",
+        "Style"
+      ],
+      "correct_index": 1,
+      "explanation": "Plot is the sequence of events.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_041",
+      "text": "The turning point of a story is the:",
+      "options": [
+        "Climax",
+        "Denouement",
+        "Falling action",
+        "Exposition"
+      ],
+      "correct_index": 0,
+      "explanation": "The climax is the turning point.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_042",
+      "text": "The resolution at the end of a story is the:",
+      "options": [
+        "Climax",
+        "Conflict",
+        "Exposition",
+        "Denouement"
+      ],
+      "correct_index": 3,
+      "explanation": "The denouement resolves the plot.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_043",
+      "text": "The beginning of a story that introduces characters and setting is the:",
+      "options": [
+        "Conflict",
+        "Climax",
+        "Exposition",
+        "Resolution"
+      ],
+      "correct_index": 2,
+      "explanation": "Exposition introduces the story's world.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_044",
+      "text": "The struggle between opposing forces in a story is the:",
+      "options": [
+        "Theme",
+        "Conflict",
+        "Setting",
+        "Style"
+      ],
+      "correct_index": 1,
+      "explanation": "Conflict is the central struggle.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_045",
+      "text": "A conflict between a character and another character is:",
+      "options": [
+        "External conflict",
+        "Man vs self",
+        "No conflict",
+        "Internal conflict"
+      ],
+      "correct_index": 0,
+      "explanation": "Character vs character is external conflict.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_046",
+      "text": "A conflict within a character's mind is:",
+      "options": [
+        "Social",
+        "Physical",
+        "External",
+        "Internal conflict"
+      ],
+      "correct_index": 3,
+      "explanation": "Man vs self is internal conflict.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_047",
+      "text": "A flashback is a:",
+      "options": [
+        "Type of ending",
+        "Look into the future",
+        "Return to an earlier time in the story",
+        "Jump in plot"
+      ],
+      "correct_index": 2,
+      "explanation": "A flashback goes back in time.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_048",
+      "text": "Foreshadowing is:",
+      "options": [
+        "A flashback",
+        "A hint of what is to come",
+        "The climax",
+        "The theme"
+      ],
+      "correct_index": 1,
+      "explanation": "Foreshadowing hints at future events.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_049",
+      "text": "A person's life story written by themselves is a(n):",
+      "options": [
+        "Autobiography",
+        "Novel",
+        "Essay",
+        "Biography"
+      ],
+      "correct_index": 0,
+      "explanation": "An autobiography is self-written life story.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_050",
+      "text": "A person's life story written by another is a:",
+      "options": [
+        "Memoir",
+        "Novel",
+        "Autobiography",
+        "Biography"
+      ],
+      "correct_index": 3,
+      "explanation": "A biography is written by another person.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_051",
+      "text": "An essay is a:",
+      "options": [
+        "Play",
+        "Long novel",
+        "Short piece of prose on a subject",
+        "Poem"
+      ],
+      "correct_index": 2,
+      "explanation": "An essay is a short prose composition.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_052",
+      "text": "A fable is a story that:",
+      "options": [
+        "Is always true",
+        "Teaches a moral, often with animals",
+        "Is a poem",
+        "Is a play"
+      ],
+      "correct_index": 1,
+      "explanation": "Fables teach morals, often using animals.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_053",
+      "text": "A myth is a traditional story that:",
+      "options": [
+        "Is factual",
+        "Is a poem",
+        "Is a novel",
+        "Explains natural phenomena or origins"
+      ],
+      "correct_index": 3,
+      "explanation": "Myths explain origins/phenomena.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_054",
+      "text": "A legend is a story:",
+      "options": [
+        "Purely imaginary",
+        "A poem",
+        "Based on history but exaggerated",
+        "Purely factual"
+      ],
+      "correct_index": 2,
+      "explanation": "Legends have a historical basis with exaggeration.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_055",
+      "text": "An allegory is a story with:",
+      "options": [
+        "Only dialogue",
+        "One meaning",
+        "A hidden/secondary meaning",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "Allegories carry hidden meanings.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_056",
+      "text": "A parable is a short story that:",
+      "options": [
+        "Is a poem",
+        "Illustrates a moral or spiritual lesson",
+        "Is a play",
+        "Has no lesson"
+      ],
+      "correct_index": 1,
+      "explanation": "Parables teach moral/spiritual lessons.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_057",
+      "text": "An epic is a:",
+      "options": [
+        "Long narrative poem about heroic deeds",
+        "Novel",
+        "Play",
+        "Short poem"
+      ],
+      "correct_index": 0,
+      "explanation": "An epic is a long heroic narrative poem.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_058",
+      "text": "A satire is a work that:",
+      "options": [
+        "Is always tragic",
+        "Is factual",
+        "Praises society",
+        "Ridicules vices and follies"
+      ],
+      "correct_index": 3,
+      "explanation": "Satire mocks vices/follies.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_059",
+      "text": "A line of poetry is called a:",
+      "options": [
+        "Line",
+        "Stanza",
+        "Verse",
+        "Canto"
+      ],
+      "correct_index": 2,
+      "explanation": "A line of poetry is a verse.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_060",
+      "text": "A group of lines in a poem is a:",
+      "options": [
+        "Verse",
+        "Stanza",
+        "Canto",
+        "Line"
+      ],
+      "correct_index": 1,
+      "explanation": "A stanza is a group of lines.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_061",
+      "text": "A stanza of two lines is a:",
+      "options": [
+        "Couplet",
+        "Quatrain",
+        "Sestet",
+        "Tercet"
+      ],
+      "correct_index": 0,
+      "explanation": "A couplet is two lines.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_062",
+      "text": "A stanza of four lines is a:",
+      "options": [
+        "Tercet",
+        "Octave",
+        "Couplet",
+        "Quatrain"
+      ],
+      "correct_index": 3,
+      "explanation": "A quatrain is four lines.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_063",
+      "text": "A stanza of three lines is a:",
+      "options": [
+        "Sestet",
+        "Couplet",
+        "Tercet",
+        "Quatrain"
+      ],
+      "correct_index": 2,
+      "explanation": "A tercet is three lines.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_064",
+      "text": "A poem of fourteen lines is a:",
+      "options": [
+        "Ballad",
+        "Sonnet",
+        "Ode",
+        "Epic"
+      ],
+      "correct_index": 1,
+      "explanation": "A sonnet has 14 lines.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_065",
+      "text": "A poem that tells a story is a:",
+      "options": [
+        "Narrative poem",
+        "Ode",
+        "Elegy",
+        "Lyric"
+      ],
+      "correct_index": 0,
+      "explanation": "Narrative poems tell stories.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_066",
+      "text": "A poem expressing personal feelings is a:",
+      "options": [
+        "Epic",
+        "Ballad",
+        "Narrative",
+        "Lyric"
+      ],
+      "correct_index": 3,
+      "explanation": "Lyrics express personal emotion.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_067",
+      "text": "A poem mourning the dead is an:",
+      "options": [
+        "Ballad",
+        "Ode",
+        "Elegy",
+        "Sonnet"
+      ],
+      "correct_index": 2,
+      "explanation": "An elegy laments the dead.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_068",
+      "text": "A poem of praise is an:",
+      "options": [
+        "Elegy",
+        "Ode",
+        "Satire",
+        "Epigram"
+      ],
+      "correct_index": 1,
+      "explanation": "An ode praises a person/thing.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_069",
+      "text": "A short, witty poem is an:",
+      "options": [
+        "Epigram",
+        "Epic",
+        "Elegy",
+        "Ode"
+      ],
+      "correct_index": 0,
+      "explanation": "An epigram is short and witty.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_070",
+      "text": "A long poem celebrating heroic deeds is an:",
+      "options": [
+        "Sonnet",
+        "Ode",
+        "Lyric",
+        "Epic"
+      ],
+      "correct_index": 3,
+      "explanation": "An epic celebrates heroic deeds.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_071",
+      "text": "A poem with no regular rhyme or metre is:",
+      "options": [
+        "Ballad",
+        "Blank verse",
+        "Free verse",
+        "Sonnet"
+      ],
+      "correct_index": 2,
+      "explanation": "Free verse has no regular pattern.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_072",
+      "text": "Unrhymed poetry written in iambic pentameter is:",
+      "options": [
+        "Free verse",
+        "Blank verse",
+        "Sonnet",
+        "Ode"
+      ],
+      "correct_index": 1,
+      "explanation": "Blank verse is unrhymed iambic pentameter.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_073",
+      "text": "The repetition of initial consonant sounds is:",
+      "options": [
+        "Alliteration",
+        "Consonance",
+        "Onomatopoeia",
+        "Assonance"
+      ],
+      "correct_index": 0,
+      "explanation": "Alliteration repeats initial consonants.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_074",
+      "text": "The repetition of vowel sounds is:",
+      "options": [
+        "Consonance",
+        "Rhyme",
+        "Alliteration",
+        "Assonance"
+      ],
+      "correct_index": 3,
+      "explanation": "Assonance repeats vowel sounds.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_075",
+      "text": "The repetition of consonant sounds within words is:",
+      "options": [
+        "Onomatopoeia",
+        "Assonance",
+        "Consonance",
+        "Alliteration"
+      ],
+      "correct_index": 2,
+      "explanation": "Consonance repeats consonants.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_076",
+      "text": "The use of words that imitate sounds is:",
+      "options": [
+        "Alliteration",
+        "Onomatopoeia",
+        "Assonance",
+        "Metaphor"
+      ],
+      "correct_index": 1,
+      "explanation": "Onomatopoeia imitates sounds (buzz, hiss).",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_077",
+      "text": "The repetition of similar sounds at the end of lines is:",
+      "options": [
+        "Rhyme",
+        "Assonance",
+        "Metre",
+        "Alliteration"
+      ],
+      "correct_index": 0,
+      "explanation": "Rhyme repeats end sounds.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_078",
+      "text": "The pattern of stressed and unstressed syllables is:",
+      "options": [
+        "Alliteration",
+        "Stanza",
+        "Rhyme",
+        "Metre"
+      ],
+      "correct_index": 3,
+      "explanation": "Metre is the rhythmic pattern.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_079",
+      "text": "The repetition of a word or phrase at the start of successive lines is:",
+      "options": [
+        "Irony",
+        "Metaphor",
+        "Anaphora",
+        "Simile"
+      ],
+      "correct_index": 2,
+      "explanation": "Anaphora repeats opening words.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_080",
+      "text": "The repetition of the same word or phrase at the end of successive clauses is:",
+      "options": [
+        "Anaphora",
+        "Epistrophe",
+        "Simile",
+        "Hyperbole"
+      ],
+      "correct_index": 1,
+      "explanation": "Epistrophe repeats ending words.",
+      "difficulty": 2
+    },
+    {
+      "id": "lit_081",
+      "text": "The pattern of rhymes in a poem is the:",
+      "options": [
+        "Rhyme scheme",
+        "Stanza",
+        "Refrain",
+        "Metre"
+      ],
+      "correct_index": 0,
+      "explanation": "A rhyme scheme maps rhyming lines.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_082",
+      "text": "A refrain is a:",
+      "options": [
+        "Type of stanza",
+        "Figure of speech",
+        "Single line",
+        "Repeated line or group of lines"
+      ],
+      "correct_index": 3,
+      "explanation": "A refrain repeats in a poem.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_083",
+      "text": "The poet's attitude toward the subject is the:",
+      "options": [
+        "Plot",
+        "Theme",
+        "Tone",
+        "Setting"
+      ],
+      "correct_index": 2,
+      "explanation": "Tone reflects the poet's attitude.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_084",
+      "text": "The atmosphere or feeling created in a literary work is the:",
+      "options": [
+        "Tone",
+        "Mood",
+        "Theme",
+        "Style"
+      ],
+      "correct_index": 1,
+      "explanation": "Mood is the emotional atmosphere.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_085",
+      "text": "A direct comparison using 'like' or 'as' is a:",
+      "options": [
+        "Simile",
+        "Personification",
+        "Hyperbole",
+        "Metaphor"
+      ],
+      "correct_index": 0,
+      "explanation": "A simile uses 'like' or 'as'.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_086",
+      "text": "An implied comparison without 'like' or 'as' is a:",
+      "options": [
+        "Irony",
+        "Allusion",
+        "Simile",
+        "Metaphor"
+      ],
+      "correct_index": 3,
+      "explanation": "A metaphor compares directly.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_087",
+      "text": "'She is as brave as a lion' is an example of:",
+      "options": [
+        "Irony",
+        "Metaphor",
+        "Simile",
+        "Personification"
+      ],
+      "correct_index": 2,
+      "explanation": "It uses 'as...as', so it is a simile.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_088",
+      "text": "'The world is a stage' is a:",
+      "options": [
+        "Simile",
+        "Metaphor",
+        "Hyperbole",
+        "Paradox"
+      ],
+      "correct_index": 1,
+      "explanation": "It compares directly without 'like/as'.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_089",
+      "text": "Giving human qualities to non-human things is:",
+      "options": [
+        "Personification",
+        "Simile",
+        "Irony",
+        "Metaphor"
+      ],
+      "correct_index": 0,
+      "explanation": "Personification gives human traits to things.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_090",
+      "text": "'The wind whispered through the trees' is an example of:",
+      "options": [
+        "Metaphor",
+        "Hyperbole",
+        "Simile",
+        "Personification"
+      ],
+      "correct_index": 3,
+      "explanation": "The wind is given a human action.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_091",
+      "text": "A deliberate exaggeration for effect is:",
+      "options": [
+        "Simile",
+        "Irony",
+        "Hyperbole",
+        "Understatement"
+      ],
+      "correct_index": 2,
+      "explanation": "Hyperbole is exaggeration.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_092",
+      "text": "'I have a million things to do' is an example of:",
+      "options": [
+        "Simile",
+        "Hyperbole",
+        "Metaphor",
+        "Irony"
+      ],
+      "correct_index": 1,
+      "explanation": "It exaggerates for effect.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_093",
+      "text": "Saying the opposite of what is meant is:",
+      "options": [
+        "Irony",
+        "Metaphor",
+        "Simile",
+        "Hyperbole"
+      ],
+      "correct_index": 0,
+      "explanation": "Irony means the opposite of what is said.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_094",
+      "text": "The use of a part to represent the whole is:",
+      "options": [
+        "Metonymy",
+        "Hyperbole",
+        "Irony",
+        "Synecdoche"
+      ],
+      "correct_index": 3,
+      "explanation": "Synecdoche: part for whole (e.g. 'all hands').",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_095",
+      "text": "Substituting a related word for another (e.g. 'the crown' for monarchy) is:",
+      "options": [
+        "Simile",
+        "Synecdoche",
+        "Metonymy",
+        "Metaphor"
+      ],
+      "correct_index": 2,
+      "explanation": "Metonymy substitutes a related term.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_096",
+      "text": "A reference to a well-known person or event is an:",
+      "options": [
+        "Metaphor",
+        "Allusion",
+        "Simile",
+        "Irony"
+      ],
+      "correct_index": 1,
+      "explanation": "An allusion references something known.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_097",
+      "text": "Addressing an absent person or object is:",
+      "options": [
+        "Apostrophe",
+        "Irony",
+        "Simile",
+        "Allusion"
+      ],
+      "correct_index": 0,
+      "explanation": "Apostrophe addresses the absent.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_098",
+      "text": "A statement that seems contradictory but contains truth is a:",
+      "options": [
+        "Simile",
+        "Hyperbole",
+        "Irony",
+        "Paradox"
+      ],
+      "correct_index": 3,
+      "explanation": "A paradox is apparently contradictory yet true.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_099",
+      "text": "An oxymoron is:",
+      "options": [
+        "An allusion",
+        "Two contradictory words together",
+        "A metaphor",
+        "A simile"
+      ],
+      "correct_index": 1,
+      "explanation": "An oxymoron joins opposites ('deafening silence').",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_100",
+      "text": "'Deafening silence' is an example of:",
+      "options": [
+        "Simile",
+        "Oxymoron",
+        "Metaphor",
+        "Irony"
+      ],
+      "correct_index": 1,
+      "explanation": "It combines contradictory terms.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_101",
+      "text": "Using polite language to soften harsh reality is:",
+      "options": [
+        "Euphemism",
+        "Hyperbole",
+        "Metaphor",
+        "Irony"
+      ],
+      "correct_index": 0,
+      "explanation": "A euphemism softens bluntness.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_102",
+      "text": "'He passed away' instead of 'he died' is a:",
+      "options": [
+        "Hyperbole",
+        "Paradox",
+        "Simile",
+        "Euphemism"
+      ],
+      "correct_index": 3,
+      "explanation": "It is a mild expression for death.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_103",
+      "text": "Repetition of a consonant at the start of words ('Peter Piper picked') is:",
+      "options": [
+        "Metre",
+        "Assonance",
+        "Alliteration",
+        "Rhyme"
+      ],
+      "correct_index": 2,
+      "explanation": "Alliteration repeats initial consonants.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_104",
+      "text": "A rhetorical question is one that:",
+      "options": [
+        "Needs an answer",
+        "Is asked for effect, not an answer",
+        "Has no punctuation",
+        "Is always literal"
+      ],
+      "correct_index": 1,
+      "explanation": "Rhetorical questions seek no answer.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_105",
+      "text": "The arrangement of words to create a pleasing sound is:",
+      "options": [
+        "Euphony",
+        "Irony",
+        "Theme",
+        "Plot"
+      ],
+      "correct_index": 0,
+      "explanation": "Euphony is pleasing sound.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_106",
+      "text": "A harsh, discordant sound in poetry is:",
+      "options": [
+        "Rhyme",
+        "Metre",
+        "Euphony",
+        "Cacophony"
+      ],
+      "correct_index": 3,
+      "explanation": "Cacophony is harsh sound.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_107",
+      "text": "The literal or dictionary meaning of a word is its:",
+      "options": [
+        "Tone",
+        "Connotation",
+        "Denotation",
+        "Irony"
+      ],
+      "correct_index": 2,
+      "explanation": "Denotation is literal meaning.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_108",
+      "text": "The emotional association of a word is its:",
+      "options": [
+        "Denotation",
+        "Connotation",
+        "Syntax",
+        "Metre"
+      ],
+      "correct_index": 1,
+      "explanation": "Connotation is implied meaning.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_109",
+      "text": "Imagery in literature appeals to the:",
+      "options": [
+        "Senses",
+        "Conscience",
+        "None",
+        "Intellect only"
+      ],
+      "correct_index": 0,
+      "explanation": "Imagery appeals to the senses.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_110",
+      "text": "The use of symbols to represent ideas is:",
+      "options": [
+        "Irony",
+        "Satire",
+        "Imagery",
+        "Symbolism"
+      ],
+      "correct_index": 3,
+      "explanation": "Symbolism uses symbols for ideas.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_111",
+      "text": "A recurring symbol or theme in a work is a:",
+      "options": [
+        "Setting",
+        "Symbol",
+        "Motif",
+        "Plot"
+      ],
+      "correct_index": 2,
+      "explanation": "A motif recurs throughout a work.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_112",
+      "text": "The main character's speech pattern or word choice is:",
+      "options": [
+        "Plot",
+        "Diction",
+        "Setting",
+        "Theme"
+      ],
+      "correct_index": 1,
+      "explanation": "Diction is word choice.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_113",
+      "text": "The deliberate arrangement of words in a sentence is:",
+      "options": [
+        "Syntax",
+        "Tone",
+        "Mood",
+        "Diction"
+      ],
+      "correct_index": 0,
+      "explanation": "Syntax is word arrangement.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_114",
+      "text": "In a poem, 'the road not taken' often symbolises:",
+      "options": [
+        "A journey",
+        "A map",
+        "A literal road",
+        "A life choice"
+      ],
+      "correct_index": 3,
+      "explanation": "The road symbolises a choice in life.",
+      "difficulty": 2
+    },
+    {
+      "id": "lit_115",
+      "text": "The phrase 'the golden sun smiled down' contains:",
+      "options": [
+        "Irony",
+        "Simile",
+        "Personification",
+        "Hyperbole"
+      ],
+      "correct_index": 2,
+      "explanation": "The sun is personified as smiling.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_116",
+      "text": "'Time is money' is a:",
+      "options": [
+        "Simile",
+        "Metaphor",
+        "Personification",
+        "Allusion"
+      ],
+      "correct_index": 1,
+      "explanation": "It compares time to money directly.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_117",
+      "text": "'The classroom was a zoo' is an example of:",
+      "options": [
+        "Metaphor",
+        "Hyperbole",
+        "Irony",
+        "Simile"
+      ],
+      "correct_index": 0,
+      "explanation": "Direct comparison without like/as.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_118",
+      "text": "'He runs like the wind' is a:",
+      "options": [
+        "Personification",
+        "Oxymoron",
+        "Metaphor",
+        "Simile"
+      ],
+      "correct_index": 3,
+      "explanation": "It uses 'like', so it is a simile.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_119",
+      "text": "'The early bird catches the worm' is a:",
+      "options": [
+        "Legend",
+        "Fable",
+        "Proverb",
+        "Myth"
+      ],
+      "correct_index": 2,
+      "explanation": "It is a proverb (wise saying).",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_120",
+      "text": "The term 'protagonist' is best described as the:",
+      "options": [
+        "Villain",
+        "Main character",
+        "Narrator",
+        "Minor character"
+      ],
+      "correct_index": 1,
+      "explanation": "The protagonist is the central character.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_121",
+      "text": "The 'climax' of a story is its:",
+      "options": [
+        "Highest point of tension",
+        "Ending",
+        "Setting",
+        "Beginning"
+      ],
+      "correct_index": 0,
+      "explanation": "The climax is the peak of tension.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_122",
+      "text": "A story told by a character within the story uses the ___ narrator.",
+      "options": [
+        "Third-person",
+        "Objective",
+        "Omniscient",
+        "First-person"
+      ],
+      "correct_index": 3,
+      "explanation": "A character narrator is first-person.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_123",
+      "text": "The 'plot' of a story refers to its:",
+      "options": [
+        "Characters",
+        "Theme",
+        "Sequence of events",
+        "Setting"
+      ],
+      "correct_index": 2,
+      "explanation": "Plot = sequence of events.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_124",
+      "text": "The 'characterisation' of a work refers to:",
+      "options": [
+        "The plot",
+        "How characters are presented",
+        "The setting",
+        "The title"
+      ],
+      "correct_index": 1,
+      "explanation": "Characterisation is how characters are built.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_125",
+      "text": "A 'round' character is one who is:",
+      "options": [
+        "Fully developed and complex",
+        "Minor",
+        "Static",
+        "Flat"
+      ],
+      "correct_index": 0,
+      "explanation": "Round characters are complex.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_126",
+      "text": "A 'flat' character is one who is:",
+      "options": [
+        "Main",
+        "Dynamic",
+        "Complex",
+        "One-dimensional/simple"
+      ],
+      "correct_index": 3,
+      "explanation": "Flat characters are simple.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_127",
+      "text": "A character who changes during a story is:",
+      "options": [
+        "Minor",
+        "Static",
+        "Dynamic",
+        "Flat"
+      ],
+      "correct_index": 2,
+      "explanation": "Dynamic characters change.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_128",
+      "text": "A character who does not change is:",
+      "options": [
+        "Dynamic",
+        "Static",
+        "Round",
+        "Protagonist"
+      ],
+      "correct_index": 1,
+      "explanation": "Static characters stay the same.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_129",
+      "text": "The 'theme' of a work is its:",
+      "options": [
+        "Central message/idea",
+        "Plot",
+        "Characters",
+        "Setting"
+      ],
+      "correct_index": 0,
+      "explanation": "Theme is the central idea.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_130",
+      "text": "The 'setting' of a work is its:",
+      "options": [
+        "Plot",
+        "Style",
+        "Theme",
+        "Time and place"
+      ],
+      "correct_index": 3,
+      "explanation": "Setting = time and place.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_131",
+      "text": "The 'tone' of a work is the author's:",
+      "options": [
+        "Characters",
+        "Setting",
+        "Attitude toward the subject",
+        "Plot"
+      ],
+      "correct_index": 2,
+      "explanation": "Tone = author's attitude.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_132",
+      "text": "The 'mood' of a work is the:",
+      "options": [
+        "Author's attitude",
+        "Feeling/atmosphere evoked",
+        "Plot",
+        "Setting"
+      ],
+      "correct_index": 1,
+      "explanation": "Mood is the evoked atmosphere.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_133",
+      "text": "A 'flashback' in a narrative is used to:",
+      "options": [
+        "Show past events",
+        "End the story",
+        "Introduce the title",
+        "Predict the future"
+      ],
+      "correct_index": 0,
+      "explanation": "Flashbacks reveal the past.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_134",
+      "text": "'Suspense' in a story is:",
+      "options": [
+        "The setting",
+        "The title",
+        "The ending",
+        "Anxious uncertainty about what will happen"
+      ],
+      "correct_index": 3,
+      "explanation": "Suspense builds tension about outcomes.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_135",
+      "text": "The 'denouement' of a story is its:",
+      "options": [
+        "Conflict",
+        "Beginning",
+        "Final resolution",
+        "Climax"
+      ],
+      "correct_index": 2,
+      "explanation": "The denouement resolves the plot.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_136",
+      "text": "A 'prologue' is found at the:",
+      "options": [
+        "End of a work",
+        "Beginning of a work",
+        "Middle",
+        "Nowhere"
+      ],
+      "correct_index": 1,
+      "explanation": "A prologue introduces at the start.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_137",
+      "text": "An 'epilogue' is found at the:",
+      "options": [
+        "End of a work",
+        "Middle",
+        "Nowhere",
+        "Beginning"
+      ],
+      "correct_index": 0,
+      "explanation": "An epilogue concludes at the end.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_138",
+      "text": "The 'subplot' of a story is a:",
+      "options": [
+        "Theme",
+        "Setting",
+        "Main plot",
+        "Secondary plot"
+      ],
+      "correct_index": 3,
+      "explanation": "A subplot is a secondary story line.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_139",
+      "text": "A 'foil' character serves to:",
+      "options": [
+        "Narrate",
+        "Replace the hero",
+        "Contrast with and highlight the main character",
+        "End the story"
+      ],
+      "correct_index": 2,
+      "explanation": "A foil contrasts with the protagonist.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_140",
+      "text": "The 'anti-hero' is a protagonist who:",
+      "options": [
+        "Is perfect",
+        "Lacks conventional heroic qualities",
+        "Is a villain",
+        "Never appears"
+      ],
+      "correct_index": 1,
+      "explanation": "Anti-heroes lack heroic traits.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_141",
+      "text": "'Bildungsroman' is a novel about:",
+      "options": [
+        "A character's growth from youth to maturity",
+        "Romance",
+        "Mystery",
+        "War"
+      ],
+      "correct_index": 0,
+      "explanation": "Bildungsroman = coming-of-age novel.",
+      "difficulty": 2
+    },
+    {
+      "id": "lit_142",
+      "text": "The 'omniscient' point of view means the narrator:",
+      "options": [
+        "Knows nothing",
+        "Is a character",
+        "Knows only one character",
+        "Knows all characters' thoughts"
+      ],
+      "correct_index": 3,
+      "explanation": "Omniscient narrators know everything.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_143",
+      "text": "A 'dramatic monologue' is a poem in which:",
+      "options": [
+        "It is sung",
+        "Many speak",
+        "A single speaker addresses a silent audience",
+        "Nobody speaks"
+      ],
+      "correct_index": 2,
+      "explanation": "A dramatic monologue has one speaker.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_144",
+      "text": "The 'chorus' in classical drama:",
+      "options": [
+        "Performs",
+        "Comments on the action",
+        "Writes the play",
+        "Directs"
+      ],
+      "correct_index": 1,
+      "explanation": "The chorus comments on action.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_145",
+      "text": "A 'tragic flaw' is a:",
+      "options": [
+        "Character defect that causes the hero's downfall",
+        "Setting",
+        "Plot device",
+        "Perfect trait"
+      ],
+      "correct_index": 0,
+      "explanation": "A tragic flaw causes downfall.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_146",
+      "text": "'Hamartia' means:",
+      "options": [
+        "Comedy",
+        "Revenge",
+        "Victory",
+        "Tragic flaw/error"
+      ],
+      "correct_index": 3,
+      "explanation": "Hamartia = tragic error/flaw.",
+      "difficulty": 2
+    },
+    {
+      "id": "lit_147",
+      "text": "'Catharsis' in tragedy is the:",
+      "options": [
+        "Setting",
+        "Purging of emotions in the audience",
+        "Climax",
+        "Conflict"
+      ],
+      "correct_index": 1,
+      "explanation": "Catharsis purges pity and fear.",
+      "difficulty": 2
+    },
+    {
+      "id": "lit_148",
+      "text": "The term 'in medias res' means beginning a story:",
+      "options": [
+        "At the beginning",
+        "In the middle of action",
+        "At the end",
+        "With a flashback"
+      ],
+      "correct_index": 1,
+      "explanation": "In medias res = in the middle of things.",
+      "difficulty": 2
+    },
+    {
+      "id": "lit_149",
+      "text": "'Verisimilitude' in literature means:",
+      "options": [
+        "The appearance of being true/real",
+        "Fantasy",
+        "Symbolism",
+        "Exaggeration"
+      ],
+      "correct_index": 0,
+      "explanation": "Verisimilitude = lifelike realism.",
+      "difficulty": 2
+    },
+    {
+      "id": "lit_150",
+      "text": "The 'persona' in a poem is the:",
+      "options": [
+        "Author",
+        "Publisher",
+        "Reader",
+        "Voice/speaker of the poem"
+      ],
+      "correct_index": 3,
+      "explanation": "The persona is the poem's speaker.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_151",
+      "text": "A 'ballad' is a poem that:",
+      "options": [
+        "Is 14 lines",
+        "Tells a story, often meant to be sung",
+        "Expresses feelings",
+        "Praises someone"
+      ],
+      "correct_index": 1,
+      "explanation": "Ballads are narrative songs.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_152",
+      "text": "The 'lyric I' refers to the:",
+      "options": [
+        "Reader",
+        "First-person speaker in a lyric",
+        "Author",
+        "Editor"
+      ],
+      "correct_index": 1,
+      "explanation": "The lyric I is the first-person speaker.",
+      "difficulty": 2
+    },
+    {
+      "id": "lit_153",
+      "text": "A 'rhetorical device' is used to:",
+      "options": [
+        "Persuade or create effect",
+        "End a story",
+        "Set the scene",
+        "Confuse the reader"
+      ],
+      "correct_index": 0,
+      "explanation": "Rhetorical devices persuade/effect.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_154",
+      "text": "'Diction' refers to the writer's:",
+      "options": [
+        "Setting",
+        "Characters",
+        "Plot",
+        "Choice of words"
+      ],
+      "correct_index": 3,
+      "explanation": "Diction = word choice.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_155",
+      "text": "The 'subject matter' of a poem is its:",
+      "options": [
+        "Length",
+        "Rhyme",
+        "Topic/content",
+        "Metre"
+      ],
+      "correct_index": 2,
+      "explanation": "Subject matter = what the poem is about.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_156",
+      "text": "A 'monologue' is a:",
+      "options": [
+        "Dialogue",
+        "Long speech by one person",
+        "Song",
+        "Chorus"
+      ],
+      "correct_index": 1,
+      "explanation": "A monologue is one person's speech.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_157",
+      "text": "The 'style' of a writer refers to:",
+      "options": [
+        "The distinctive way they write",
+        "The setting",
+        "The title",
+        "The plot"
+      ],
+      "correct_index": 0,
+      "explanation": "Style is the writer's distinctive manner.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_158",
+      "text": "A 'simile' and a 'metaphor' both are forms of:",
+      "options": [
+        "Narration",
+        "Setting",
+        "Rhyme",
+        "Comparison"
+      ],
+      "correct_index": 3,
+      "explanation": "Both are comparisons.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_159",
+      "text": "'Her eyes were stars' is a:",
+      "options": [
+        "Personification",
+        "Simile",
+        "Metaphor",
+        "Hyperbole"
+      ],
+      "correct_index": 2,
+      "explanation": "Direct comparison (no like/as).",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_160",
+      "text": "'He is as cunning as a fox' is a:",
+      "options": [
+        "Metaphor",
+        "Simile",
+        "Irony",
+        "Paradox"
+      ],
+      "correct_index": 1,
+      "explanation": "Uses 'as...as', so it is a simile.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_161",
+      "text": "'The trees danced in the wind' uses:",
+      "options": [
+        "Personification",
+        "Irony",
+        "Metaphor",
+        "Simile"
+      ],
+      "correct_index": 0,
+      "explanation": "Trees are given human action.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_162",
+      "text": "'I've told you a thousand times' is:",
+      "options": [
+        "Simile",
+        "Metaphor",
+        "Irony",
+        "Hyperbole"
+      ],
+      "correct_index": 3,
+      "explanation": "Exaggeration = hyperbole.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_163",
+      "text": "'He is so kind that he'd give you the shirt off his back' suggests the man is:",
+      "options": [
+        "Careless",
+        "Selfish",
+        "Generous",
+        "Poor"
+      ],
+      "correct_index": 2,
+      "explanation": "The expression implies generosity.",
+      "difficulty": 2
+    },
+    {
+      "id": "lit_164",
+      "text": "The 'plot' of a narrative is usually arranged in:",
+      "options": [
+        "Random order",
+        "Beginning, middle and end",
+        "No order",
+        "Alphabetical order"
+      ],
+      "correct_index": 1,
+      "explanation": "Plots follow a structured sequence.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_165",
+      "text": "A 'narrative' is a:",
+      "options": [
+        "Story or account of events",
+        "Play only",
+        "Song",
+        "Poem only"
+      ],
+      "correct_index": 0,
+      "explanation": "A narrative tells a story.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_166",
+      "text": "The 'setting' of a story includes its:",
+      "options": [
+        "Characters",
+        "Theme",
+        "Plot",
+        "Time and place"
+      ],
+      "correct_index": 3,
+      "explanation": "Setting = time and place.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_167",
+      "text": "A 'dialogue' is:",
+      "options": [
+        "Narration",
+        "A solo speech",
+        "Conversation between characters",
+        "Stage direction"
+      ],
+      "correct_index": 2,
+      "explanation": "Dialogue is spoken exchange.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_168",
+      "text": "The 'villain' of a story is the:",
+      "options": [
+        "Hero",
+        "Evil character",
+        "Narrator",
+        "Setting"
+      ],
+      "correct_index": 1,
+      "explanation": "The villain is the evil character.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_169",
+      "text": "The 'hero' of a story is the:",
+      "options": [
+        "Main admirable character",
+        "Narrator",
+        "Setting",
+        "Villain"
+      ],
+      "correct_index": 0,
+      "explanation": "The hero is the admirable protagonist.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_170",
+      "text": "The 'heroine' is the:",
+      "options": [
+        "Villain",
+        "Narrator",
+        "Male hero",
+        "Female hero"
+      ],
+      "correct_index": 3,
+      "explanation": "The heroine is a female hero.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_171",
+      "text": "A 'protagonist' and an 'antagonist' are:",
+      "options": [
+        "Settings",
+        "The same",
+        "Opposing forces/characters",
+        "Narrators"
+      ],
+      "correct_index": 2,
+      "explanation": "They oppose each other.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_172",
+      "text": "The 'exposition' of a story is its:",
+      "options": [
+        "Ending",
+        "Introductory part",
+        "Climax",
+        "Conflict"
+      ],
+      "correct_index": 1,
+      "explanation": "Exposition introduces the story.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_173",
+      "text": "The 'rising action' builds toward the:",
+      "options": [
+        "Climax",
+        "Denouement",
+        "Prologue",
+        "Exposition"
+      ],
+      "correct_index": 0,
+      "explanation": "Rising action leads to the climax.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_174",
+      "text": "The 'falling action' follows the:",
+      "options": [
+        "Prologue",
+        "Conflict",
+        "Exposition",
+        "Climax"
+      ],
+      "correct_index": 3,
+      "explanation": "Falling action comes after the climax.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_175",
+      "text": "A 'play' is divided into:",
+      "options": [
+        "Cantos",
+        "Chapters",
+        "Acts and scenes",
+        "Stanzas"
+      ],
+      "correct_index": 2,
+      "explanation": "Plays divide into acts and scenes.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_176",
+      "text": "A 'novel' is divided into:",
+      "options": [
+        "Acts",
+        "Chapters",
+        "Stanzas",
+        "Scenes"
+      ],
+      "correct_index": 1,
+      "explanation": "Novels divide into chapters.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_177",
+      "text": "A 'poem' is divided into:",
+      "options": [
+        "Stanzas",
+        "Acts",
+        "Scenes",
+        "Chapters"
+      ],
+      "correct_index": 0,
+      "explanation": "Poems divide into stanzas.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_178",
+      "text": "The 'plot' of a drama is its:",
+      "options": [
+        "Theme",
+        "Cast",
+        "Setting",
+        "Story/sequence of events"
+      ],
+      "correct_index": 3,
+      "explanation": "Plot = the story's events.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_179",
+      "text": "A 'proverb' is a:",
+      "options": [
+        "Play",
+        "Long story",
+        "Short wise saying",
+        "Poem"
+      ],
+      "correct_index": 2,
+      "explanation": "A proverb is a short wise saying.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_180",
+      "text": "A 'riddle' is a:",
+      "options": [
+        "Story",
+        "Puzzle or question to be solved",
+        "Poem",
+        "Proverb"
+      ],
+      "correct_index": 1,
+      "explanation": "A riddle is a puzzle.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_181",
+      "text": "An 'idiom' is a:",
+      "options": [
+        "Phrase whose meaning is not literal",
+        "Single word",
+        "Poem",
+        "Literal phrase"
+      ],
+      "correct_index": 0,
+      "explanation": "Idioms have non-literal meanings.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_182",
+      "text": "The 'moral' of a story is its:",
+      "options": [
+        "Setting",
+        "Characters",
+        "Plot",
+        "Lesson"
+      ],
+      "correct_index": 3,
+      "explanation": "The moral is the lesson taught.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_183",
+      "text": "A 'novel of ideas' focuses on:",
+      "options": [
+        "Setting",
+        "Action only",
+        "Exploring concepts/ideas",
+        "Romance only"
+      ],
+      "correct_index": 2,
+      "explanation": "It explores ideas/themes.",
+      "difficulty": 2
+    },
+    {
+      "id": "lit_184",
+      "text": "'Irony' occurs when:",
+      "options": [
+        "Everything is as expected",
+        "There is a contrast between expectation and reality",
+        "Only happy things happen",
+        "Nothing happens"
+      ],
+      "correct_index": 1,
+      "explanation": "Irony is a contrast of expectation/reality.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_185",
+      "text": "'Dramatic irony' occurs when:",
+      "options": [
+        "Nobody knows anything",
+        "Characters are honest",
+        "The play is happy",
+        "The audience knows what characters do not"
+      ],
+      "correct_index": 3,
+      "explanation": "Audience knows more than characters.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_186",
+      "text": "'Situational irony' is:",
+      "options": [
+        "A metaphor",
+        "A simile",
+        "Expected outcome",
+        "An outcome opposite to what was expected"
+      ],
+      "correct_index": 3,
+      "explanation": "Situational irony reverses expectations.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_187",
+      "text": "'Verbal irony' is:",
+      "options": [
+        "Exaggeration",
+        "Saying what you mean",
+        "Saying the opposite of what you mean",
+        "Silence"
+      ],
+      "correct_index": 2,
+      "explanation": "Verbal irony says the opposite.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_188",
+      "text": "A 'sonnet' has how many lines?",
+      "options": [
+        "12",
+        "14",
+        "16",
+        "10"
+      ],
+      "correct_index": 1,
+      "explanation": "A sonnet has 14 lines.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_189",
+      "text": "The 'octave' of a sonnet has:",
+      "options": [
+        "8 lines",
+        "4 lines",
+        "2 lines",
+        "6 lines"
+      ],
+      "correct_index": 0,
+      "explanation": "The octave is 8 lines.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_190",
+      "text": "The 'sestet' of a sonnet has:",
+      "options": [
+        "4 lines",
+        "14 lines",
+        "8 lines",
+        "6 lines"
+      ],
+      "correct_index": 3,
+      "explanation": "The sestet is 6 lines.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_191",
+      "text": "The Shakespearean sonnet ends with a:",
+      "options": [
+        "Quatrain",
+        "Sestet",
+        "Rhyming couplet",
+        "Octave"
+      ],
+      "correct_index": 2,
+      "explanation": "It ends with a rhyming couplet.",
+      "difficulty": 2
+    },
+    {
+      "id": "lit_192",
+      "text": "The Petrarchan sonnet divides into:",
+      "options": [
+        "Two quatrains",
+        "An octave and a sestet",
+        "Three quatrains",
+        "Six couplets"
+      ],
+      "correct_index": 1,
+      "explanation": "Octave + sestet.",
+      "difficulty": 2
+    },
+    {
+      "id": "lit_193",
+      "text": "A 'haiku' is a poem with:",
+      "options": [
+        "Three lines (5-7-5 syllables)",
+        "Four lines",
+        "Two lines",
+        "14 lines"
+      ],
+      "correct_index": 0,
+      "explanation": "Haiku has three lines.",
+      "difficulty": 2
+    },
+    {
+      "id": "lit_194",
+      "text": "An 'epitaph' is:",
+      "options": [
+        "A war poem",
+        "A song",
+        "A love poem",
+        "An inscription on a tomb"
+      ],
+      "correct_index": 3,
+      "explanation": "An epitaph is on a tombstone.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_195",
+      "text": "A 'eulogy' is a speech or writing:",
+      "options": [
+        "About nature",
+        "Criticising someone",
+        "In praise of someone (often dead)",
+        "About war"
+      ],
+      "correct_index": 2,
+      "explanation": "A eulogy praises the dead.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_196",
+      "text": "A 'dirge' is a:",
+      "options": [
+        "Happy song",
+        "Song of mourning",
+        "Love poem",
+        "Comedy"
+      ],
+      "correct_index": 1,
+      "explanation": "A dirge mourns the dead.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_197",
+      "text": "The 'meter' of a poem refers to its:",
+      "options": [
+        "Rhythmic pattern",
+        "Length",
+        "Title",
+        "Meaning"
+      ],
+      "correct_index": 0,
+      "explanation": "Meter is the rhythm pattern.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_198",
+      "text": "'Iambic pentameter' has ___ feet per line.",
+      "options": [
+        "Six",
+        "Eight",
+        "Four",
+        "Five"
+      ],
+      "correct_index": 3,
+      "explanation": "Pentameter = five metrical feet.",
+      "difficulty": 2
+    },
+    {
+      "id": "lit_199",
+      "text": "A 'couplet' is:",
+      "options": [
+        "Eight lines",
+        "Four lines",
+        "Two consecutive rhyming lines",
+        "Six lines"
+      ],
+      "correct_index": 2,
+      "explanation": "A couplet is two rhyming lines.",
+      "difficulty": 1
+    },
+    {
+      "id": "lit_200",
+      "text": "The 'refrain' of a poem is its:",
+      "options": [
+        "Title",
+        "Repeated line(s)",
+        "Last line",
+        "First line"
+      ],
+      "correct_index": 1,
+      "explanation": "A refrain repeats.",
+      "difficulty": 1
+    }
+  ]
+}

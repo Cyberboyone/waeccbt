@@ -1,0 +1,2607 @@
+{
+  "course_id": "fsh",
+  "course_name": "Fisheries",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "fsh_001",
+      "text": "Fisheries is:",
+      "options": [
+        "Only crop",
+        "Only animal",
+        "No study",
+        "Fish production"
+      ],
+      "correct_index": 3,
+      "explanation": "Fish production.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_002",
+      "text": "Aquaculture means:",
+      "options": [
+        "No farming",
+        "Only hunting",
+        "Fish farming",
+        "Crop farming"
+      ],
+      "correct_index": 2,
+      "explanation": "Fish farming.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_003",
+      "text": "Common cultured fish:",
+      "options": [
+        "Only carp",
+        "Catfish",
+        "No fish",
+        "Only tilapia"
+      ],
+      "correct_index": 1,
+      "explanation": "Catfish.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_004",
+      "text": "Fish breathes through:",
+      "options": [
+        "Gills",
+        "Lungs",
+        "Skin only",
+        "No gills"
+      ],
+      "correct_index": 0,
+      "explanation": "Gills.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_005",
+      "text": "Movement organ:",
+      "options": [
+        "Legs",
+        "Wings",
+        "No fins",
+        "Fins"
+      ],
+      "correct_index": 3,
+      "explanation": "Fins.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_006",
+      "text": "Young fish hatched:",
+      "options": [
+        "Juvenile",
+        "Adult",
+        "Fry",
+        "Fingerling"
+      ],
+      "correct_index": 2,
+      "explanation": "Fry.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_007",
+      "text": "Best soil for pond:",
+      "options": [
+        "Gravel",
+        "Clay",
+        "Sand",
+        "Loam"
+      ],
+      "correct_index": 1,
+      "explanation": "Clay.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_008",
+      "text": "pH for fish:",
+      "options": [
+        "6.5-9.0",
+        "1-2",
+        "12-14",
+        "No pH"
+      ],
+      "correct_index": 0,
+      "explanation": "6.5-9.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_009",
+      "text": "DO should be:",
+      "options": [
+        "Below 1",
+        "No oxygen",
+        "Only 0",
+        "Above 5 mg/L"
+      ],
+      "correct_index": 3,
+      "explanation": "Above 5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_010",
+      "text": "Protein fingerlings:",
+      "options": [
+        "5%",
+        "No protein",
+        "40%",
+        "10%"
+      ],
+      "correct_index": 2,
+      "explanation": "40%.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_011",
+      "text": "Natural food:",
+      "options": [
+        "Only pellets",
+        "Plankton",
+        "No plankton",
+        "Only artificial"
+      ],
+      "correct_index": 1,
+      "explanation": "Plankton.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_012",
+      "text": "Active gear:",
+      "options": [
+        "Trawl net",
+        "Set net",
+        "No gear",
+        "Only passive"
+      ],
+      "correct_index": 0,
+      "explanation": "Trawl.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_013",
+      "text": "Preservation method:",
+      "options": [
+        "No preservation",
+        "Only fresh",
+        "Only raw",
+        "Smoking"
+      ],
+      "correct_index": 3,
+      "explanation": "Smoking.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_014",
+      "text": "Overfishing leads to:",
+      "options": [
+        "No depletion",
+        "Only increase",
+        "Depletion",
+        "Increase"
+      ],
+      "correct_index": 2,
+      "explanation": "Depletion.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_015",
+      "text": "Closed season means:",
+      "options": [
+        "Only fishing",
+        "No fishing breeding",
+        "Fishing always",
+        "No breeding"
+      ],
+      "correct_index": 1,
+      "explanation": "No fishing breeding.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_016",
+      "text": "Fish is rich in:",
+      "options": [
+        "Protein",
+        "Carb",
+        "No protein",
+        "Only fat"
+      ],
+      "correct_index": 0,
+      "explanation": "Protein.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_017",
+      "text": "Lateral line for:",
+      "options": [
+        "No sensing",
+        "Only swimming",
+        "Only breathing",
+        "Sensing vibrations"
+      ],
+      "correct_index": 3,
+      "explanation": "Sensing.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_018",
+      "text": "Swim bladder for:",
+      "options": [
+        "Only swimming",
+        "Only breathing",
+        "Buoyancy",
+        "No buoyancy"
+      ],
+      "correct_index": 2,
+      "explanation": "Buoyancy.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_019",
+      "text": "Feed cost is:",
+      "options": [
+        "Only labour",
+        "Most important",
+        "No cost",
+        "Only construction"
+      ],
+      "correct_index": 1,
+      "explanation": "Most important.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_020",
+      "text": "Brackish is:",
+      "options": [
+        "Fresh+salt mixture",
+        "Fresh only",
+        "Salt only",
+        "No mixture"
+      ],
+      "correct_index": 0,
+      "explanation": "Fresh+salt.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_021",
+      "text": "Fisheries is: (variant 21)",
+      "options": [
+        "Only crop",
+        "Only animal",
+        "No study",
+        "Fish production"
+      ],
+      "correct_index": 3,
+      "explanation": "Fish production.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_022",
+      "text": "Aquaculture means: (variant 22)",
+      "options": [
+        "No farming",
+        "Only hunting",
+        "Fish farming",
+        "Crop farming"
+      ],
+      "correct_index": 2,
+      "explanation": "Fish farming.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_023",
+      "text": "Common cultured fish: (variant 23)",
+      "options": [
+        "Only carp",
+        "Catfish",
+        "No fish",
+        "Only tilapia"
+      ],
+      "correct_index": 1,
+      "explanation": "Catfish.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_024",
+      "text": "Fish breathes through: (variant 24)",
+      "options": [
+        "Gills",
+        "Lungs",
+        "Skin only",
+        "No gills"
+      ],
+      "correct_index": 0,
+      "explanation": "Gills.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_025",
+      "text": "Movement organ: (variant 25)",
+      "options": [
+        "Legs",
+        "Wings",
+        "No fins",
+        "Fins"
+      ],
+      "correct_index": 3,
+      "explanation": "Fins.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_026",
+      "text": "Young fish hatched: (variant 26)",
+      "options": [
+        "Juvenile",
+        "Adult",
+        "Fry",
+        "Fingerling"
+      ],
+      "correct_index": 2,
+      "explanation": "Fry.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_027",
+      "text": "Best soil for pond: (variant 27)",
+      "options": [
+        "Gravel",
+        "Clay",
+        "Sand",
+        "Loam"
+      ],
+      "correct_index": 1,
+      "explanation": "Clay.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_028",
+      "text": "pH for fish: (variant 28)",
+      "options": [
+        "6.5-9.0",
+        "1-2",
+        "12-14",
+        "No pH"
+      ],
+      "correct_index": 0,
+      "explanation": "6.5-9.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_029",
+      "text": "DO should be: (variant 29)",
+      "options": [
+        "Below 1",
+        "No oxygen",
+        "Only 0",
+        "Above 5 mg/L"
+      ],
+      "correct_index": 3,
+      "explanation": "Above 5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_030",
+      "text": "Protein fingerlings: (variant 30)",
+      "options": [
+        "5%",
+        "No protein",
+        "40%",
+        "10%"
+      ],
+      "correct_index": 2,
+      "explanation": "40%.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_031",
+      "text": "Natural food: (variant 31)",
+      "options": [
+        "Only pellets",
+        "Plankton",
+        "No plankton",
+        "Only artificial"
+      ],
+      "correct_index": 1,
+      "explanation": "Plankton.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_032",
+      "text": "Active gear: (variant 32)",
+      "options": [
+        "Trawl net",
+        "Set net",
+        "No gear",
+        "Only passive"
+      ],
+      "correct_index": 0,
+      "explanation": "Trawl.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_033",
+      "text": "Preservation method: (variant 33)",
+      "options": [
+        "No preservation",
+        "Only fresh",
+        "Only raw",
+        "Smoking"
+      ],
+      "correct_index": 3,
+      "explanation": "Smoking.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_034",
+      "text": "Overfishing leads to: (variant 34)",
+      "options": [
+        "No depletion",
+        "Only increase",
+        "Depletion",
+        "Increase"
+      ],
+      "correct_index": 2,
+      "explanation": "Depletion.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_035",
+      "text": "Closed season means: (variant 35)",
+      "options": [
+        "Only fishing",
+        "No fishing breeding",
+        "Fishing always",
+        "No breeding"
+      ],
+      "correct_index": 1,
+      "explanation": "No fishing breeding.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_036",
+      "text": "Fish is rich in: (variant 36)",
+      "options": [
+        "Protein",
+        "Carb",
+        "No protein",
+        "Only fat"
+      ],
+      "correct_index": 0,
+      "explanation": "Protein.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_037",
+      "text": "Lateral line for: (variant 37)",
+      "options": [
+        "No sensing",
+        "Only swimming",
+        "Only breathing",
+        "Sensing vibrations"
+      ],
+      "correct_index": 3,
+      "explanation": "Sensing.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_038",
+      "text": "Swim bladder for: (variant 38)",
+      "options": [
+        "Only swimming",
+        "Only breathing",
+        "Buoyancy",
+        "No buoyancy"
+      ],
+      "correct_index": 2,
+      "explanation": "Buoyancy.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_039",
+      "text": "Feed cost is: (variant 39)",
+      "options": [
+        "Only labour",
+        "Most important",
+        "No cost",
+        "Only construction"
+      ],
+      "correct_index": 1,
+      "explanation": "Most important.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_040",
+      "text": "Brackish is: (variant 40)",
+      "options": [
+        "Fresh+salt mixture",
+        "Fresh only",
+        "Salt only",
+        "No mixture"
+      ],
+      "correct_index": 0,
+      "explanation": "Fresh+salt.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_041",
+      "text": "Fisheries is: (variant 41)",
+      "options": [
+        "Only crop",
+        "Only animal",
+        "No study",
+        "Fish production"
+      ],
+      "correct_index": 3,
+      "explanation": "Fish production.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_042",
+      "text": "Aquaculture means: (variant 42)",
+      "options": [
+        "No farming",
+        "Only hunting",
+        "Fish farming",
+        "Crop farming"
+      ],
+      "correct_index": 2,
+      "explanation": "Fish farming.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_043",
+      "text": "Common cultured fish: (variant 43)",
+      "options": [
+        "Only carp",
+        "Catfish",
+        "No fish",
+        "Only tilapia"
+      ],
+      "correct_index": 1,
+      "explanation": "Catfish.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_044",
+      "text": "Fish breathes through: (variant 44)",
+      "options": [
+        "Gills",
+        "Lungs",
+        "Skin only",
+        "No gills"
+      ],
+      "correct_index": 0,
+      "explanation": "Gills.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_045",
+      "text": "Movement organ: (variant 45)",
+      "options": [
+        "Legs",
+        "Wings",
+        "No fins",
+        "Fins"
+      ],
+      "correct_index": 3,
+      "explanation": "Fins.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_046",
+      "text": "Young fish hatched: (variant 46)",
+      "options": [
+        "Juvenile",
+        "Adult",
+        "Fry",
+        "Fingerling"
+      ],
+      "correct_index": 2,
+      "explanation": "Fry.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_047",
+      "text": "Best soil for pond: (variant 47)",
+      "options": [
+        "Gravel",
+        "Clay",
+        "Sand",
+        "Loam"
+      ],
+      "correct_index": 1,
+      "explanation": "Clay.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_048",
+      "text": "pH for fish: (variant 48)",
+      "options": [
+        "6.5-9.0",
+        "1-2",
+        "12-14",
+        "No pH"
+      ],
+      "correct_index": 0,
+      "explanation": "6.5-9.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_049",
+      "text": "DO should be: (variant 49)",
+      "options": [
+        "Below 1",
+        "No oxygen",
+        "Only 0",
+        "Above 5 mg/L"
+      ],
+      "correct_index": 3,
+      "explanation": "Above 5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_050",
+      "text": "Protein fingerlings: (variant 50)",
+      "options": [
+        "5%",
+        "No protein",
+        "40%",
+        "10%"
+      ],
+      "correct_index": 2,
+      "explanation": "40%.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_051",
+      "text": "Natural food: (variant 51)",
+      "options": [
+        "Only pellets",
+        "Plankton",
+        "No plankton",
+        "Only artificial"
+      ],
+      "correct_index": 1,
+      "explanation": "Plankton.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_052",
+      "text": "Active gear: (variant 52)",
+      "options": [
+        "Trawl net",
+        "Set net",
+        "No gear",
+        "Only passive"
+      ],
+      "correct_index": 0,
+      "explanation": "Trawl.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_053",
+      "text": "Preservation method: (variant 53)",
+      "options": [
+        "No preservation",
+        "Only fresh",
+        "Only raw",
+        "Smoking"
+      ],
+      "correct_index": 3,
+      "explanation": "Smoking.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_054",
+      "text": "Overfishing leads to: (variant 54)",
+      "options": [
+        "No depletion",
+        "Only increase",
+        "Depletion",
+        "Increase"
+      ],
+      "correct_index": 2,
+      "explanation": "Depletion.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_055",
+      "text": "Closed season means: (variant 55)",
+      "options": [
+        "Only fishing",
+        "No fishing breeding",
+        "Fishing always",
+        "No breeding"
+      ],
+      "correct_index": 1,
+      "explanation": "No fishing breeding.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_056",
+      "text": "Fish is rich in: (variant 56)",
+      "options": [
+        "Protein",
+        "Carb",
+        "No protein",
+        "Only fat"
+      ],
+      "correct_index": 0,
+      "explanation": "Protein.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_057",
+      "text": "Lateral line for: (variant 57)",
+      "options": [
+        "No sensing",
+        "Only swimming",
+        "Only breathing",
+        "Sensing vibrations"
+      ],
+      "correct_index": 3,
+      "explanation": "Sensing.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_058",
+      "text": "Swim bladder for: (variant 58)",
+      "options": [
+        "Only swimming",
+        "Only breathing",
+        "Buoyancy",
+        "No buoyancy"
+      ],
+      "correct_index": 2,
+      "explanation": "Buoyancy.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_059",
+      "text": "Feed cost is: (variant 59)",
+      "options": [
+        "Only labour",
+        "Most important",
+        "No cost",
+        "Only construction"
+      ],
+      "correct_index": 1,
+      "explanation": "Most important.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_060",
+      "text": "Brackish is: (variant 60)",
+      "options": [
+        "Fresh+salt mixture",
+        "Fresh only",
+        "Salt only",
+        "No mixture"
+      ],
+      "correct_index": 0,
+      "explanation": "Fresh+salt.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_061",
+      "text": "Fisheries is: (variant 61)",
+      "options": [
+        "Only crop",
+        "Only animal",
+        "No study",
+        "Fish production"
+      ],
+      "correct_index": 3,
+      "explanation": "Fish production.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_062",
+      "text": "Aquaculture means: (variant 62)",
+      "options": [
+        "No farming",
+        "Only hunting",
+        "Fish farming",
+        "Crop farming"
+      ],
+      "correct_index": 2,
+      "explanation": "Fish farming.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_063",
+      "text": "Common cultured fish: (variant 63)",
+      "options": [
+        "Only carp",
+        "Catfish",
+        "No fish",
+        "Only tilapia"
+      ],
+      "correct_index": 1,
+      "explanation": "Catfish.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_064",
+      "text": "Fish breathes through: (variant 64)",
+      "options": [
+        "Gills",
+        "Lungs",
+        "Skin only",
+        "No gills"
+      ],
+      "correct_index": 0,
+      "explanation": "Gills.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_065",
+      "text": "Movement organ: (variant 65)",
+      "options": [
+        "Legs",
+        "Wings",
+        "No fins",
+        "Fins"
+      ],
+      "correct_index": 3,
+      "explanation": "Fins.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_066",
+      "text": "Young fish hatched: (variant 66)",
+      "options": [
+        "Juvenile",
+        "Adult",
+        "Fry",
+        "Fingerling"
+      ],
+      "correct_index": 2,
+      "explanation": "Fry.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_067",
+      "text": "Best soil for pond: (variant 67)",
+      "options": [
+        "Gravel",
+        "Clay",
+        "Sand",
+        "Loam"
+      ],
+      "correct_index": 1,
+      "explanation": "Clay.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_068",
+      "text": "pH for fish: (variant 68)",
+      "options": [
+        "6.5-9.0",
+        "1-2",
+        "12-14",
+        "No pH"
+      ],
+      "correct_index": 0,
+      "explanation": "6.5-9.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_069",
+      "text": "DO should be: (variant 69)",
+      "options": [
+        "Below 1",
+        "No oxygen",
+        "Only 0",
+        "Above 5 mg/L"
+      ],
+      "correct_index": 3,
+      "explanation": "Above 5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_070",
+      "text": "Protein fingerlings: (variant 70)",
+      "options": [
+        "5%",
+        "No protein",
+        "40%",
+        "10%"
+      ],
+      "correct_index": 2,
+      "explanation": "40%.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_071",
+      "text": "Natural food: (variant 71)",
+      "options": [
+        "Only pellets",
+        "Plankton",
+        "No plankton",
+        "Only artificial"
+      ],
+      "correct_index": 1,
+      "explanation": "Plankton.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_072",
+      "text": "Active gear: (variant 72)",
+      "options": [
+        "Trawl net",
+        "Set net",
+        "No gear",
+        "Only passive"
+      ],
+      "correct_index": 0,
+      "explanation": "Trawl.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_073",
+      "text": "Preservation method: (variant 73)",
+      "options": [
+        "No preservation",
+        "Only fresh",
+        "Only raw",
+        "Smoking"
+      ],
+      "correct_index": 3,
+      "explanation": "Smoking.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_074",
+      "text": "Overfishing leads to: (variant 74)",
+      "options": [
+        "No depletion",
+        "Only increase",
+        "Depletion",
+        "Increase"
+      ],
+      "correct_index": 2,
+      "explanation": "Depletion.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_075",
+      "text": "Closed season means: (variant 75)",
+      "options": [
+        "Only fishing",
+        "No fishing breeding",
+        "Fishing always",
+        "No breeding"
+      ],
+      "correct_index": 1,
+      "explanation": "No fishing breeding.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_076",
+      "text": "Fish is rich in: (variant 76)",
+      "options": [
+        "Protein",
+        "Carb",
+        "No protein",
+        "Only fat"
+      ],
+      "correct_index": 0,
+      "explanation": "Protein.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_077",
+      "text": "Lateral line for: (variant 77)",
+      "options": [
+        "No sensing",
+        "Only swimming",
+        "Only breathing",
+        "Sensing vibrations"
+      ],
+      "correct_index": 3,
+      "explanation": "Sensing.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_078",
+      "text": "Swim bladder for: (variant 78)",
+      "options": [
+        "Only swimming",
+        "Only breathing",
+        "Buoyancy",
+        "No buoyancy"
+      ],
+      "correct_index": 2,
+      "explanation": "Buoyancy.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_079",
+      "text": "Feed cost is: (variant 79)",
+      "options": [
+        "Only labour",
+        "Most important",
+        "No cost",
+        "Only construction"
+      ],
+      "correct_index": 1,
+      "explanation": "Most important.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_080",
+      "text": "Brackish is: (variant 80)",
+      "options": [
+        "Fresh+salt mixture",
+        "Fresh only",
+        "Salt only",
+        "No mixture"
+      ],
+      "correct_index": 0,
+      "explanation": "Fresh+salt.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_081",
+      "text": "Fisheries is: (variant 81)",
+      "options": [
+        "Only crop",
+        "Only animal",
+        "No study",
+        "Fish production"
+      ],
+      "correct_index": 3,
+      "explanation": "Fish production.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_082",
+      "text": "Aquaculture means: (variant 82)",
+      "options": [
+        "No farming",
+        "Only hunting",
+        "Fish farming",
+        "Crop farming"
+      ],
+      "correct_index": 2,
+      "explanation": "Fish farming.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_083",
+      "text": "Common cultured fish: (variant 83)",
+      "options": [
+        "Only carp",
+        "Catfish",
+        "No fish",
+        "Only tilapia"
+      ],
+      "correct_index": 1,
+      "explanation": "Catfish.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_084",
+      "text": "Fish breathes through: (variant 84)",
+      "options": [
+        "Gills",
+        "Lungs",
+        "Skin only",
+        "No gills"
+      ],
+      "correct_index": 0,
+      "explanation": "Gills.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_085",
+      "text": "Movement organ: (variant 85)",
+      "options": [
+        "Legs",
+        "Wings",
+        "No fins",
+        "Fins"
+      ],
+      "correct_index": 3,
+      "explanation": "Fins.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_086",
+      "text": "Young fish hatched: (variant 86)",
+      "options": [
+        "Juvenile",
+        "Adult",
+        "Fry",
+        "Fingerling"
+      ],
+      "correct_index": 2,
+      "explanation": "Fry.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_087",
+      "text": "Best soil for pond: (variant 87)",
+      "options": [
+        "Gravel",
+        "Clay",
+        "Sand",
+        "Loam"
+      ],
+      "correct_index": 1,
+      "explanation": "Clay.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_088",
+      "text": "pH for fish: (variant 88)",
+      "options": [
+        "6.5-9.0",
+        "1-2",
+        "12-14",
+        "No pH"
+      ],
+      "correct_index": 0,
+      "explanation": "6.5-9.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_089",
+      "text": "DO should be: (variant 89)",
+      "options": [
+        "Below 1",
+        "No oxygen",
+        "Only 0",
+        "Above 5 mg/L"
+      ],
+      "correct_index": 3,
+      "explanation": "Above 5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_090",
+      "text": "Protein fingerlings: (variant 90)",
+      "options": [
+        "5%",
+        "No protein",
+        "40%",
+        "10%"
+      ],
+      "correct_index": 2,
+      "explanation": "40%.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_091",
+      "text": "Natural food: (variant 91)",
+      "options": [
+        "Only pellets",
+        "Plankton",
+        "No plankton",
+        "Only artificial"
+      ],
+      "correct_index": 1,
+      "explanation": "Plankton.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_092",
+      "text": "Active gear: (variant 92)",
+      "options": [
+        "Trawl net",
+        "Set net",
+        "No gear",
+        "Only passive"
+      ],
+      "correct_index": 0,
+      "explanation": "Trawl.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_093",
+      "text": "Preservation method: (variant 93)",
+      "options": [
+        "No preservation",
+        "Only fresh",
+        "Only raw",
+        "Smoking"
+      ],
+      "correct_index": 3,
+      "explanation": "Smoking.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_094",
+      "text": "Overfishing leads to: (variant 94)",
+      "options": [
+        "No depletion",
+        "Only increase",
+        "Depletion",
+        "Increase"
+      ],
+      "correct_index": 2,
+      "explanation": "Depletion.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_095",
+      "text": "Closed season means: (variant 95)",
+      "options": [
+        "Only fishing",
+        "No fishing breeding",
+        "Fishing always",
+        "No breeding"
+      ],
+      "correct_index": 1,
+      "explanation": "No fishing breeding.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_096",
+      "text": "Fish is rich in: (variant 96)",
+      "options": [
+        "Protein",
+        "Carb",
+        "No protein",
+        "Only fat"
+      ],
+      "correct_index": 0,
+      "explanation": "Protein.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_097",
+      "text": "Lateral line for: (variant 97)",
+      "options": [
+        "No sensing",
+        "Only swimming",
+        "Only breathing",
+        "Sensing vibrations"
+      ],
+      "correct_index": 3,
+      "explanation": "Sensing.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_098",
+      "text": "Swim bladder for: (variant 98)",
+      "options": [
+        "Only swimming",
+        "Only breathing",
+        "Buoyancy",
+        "No buoyancy"
+      ],
+      "correct_index": 2,
+      "explanation": "Buoyancy.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_099",
+      "text": "Feed cost is: (variant 99)",
+      "options": [
+        "Only labour",
+        "Most important",
+        "No cost",
+        "Only construction"
+      ],
+      "correct_index": 1,
+      "explanation": "Most important.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_100",
+      "text": "Brackish is: (variant 100)",
+      "options": [
+        "Fresh+salt mixture",
+        "Fresh only",
+        "Salt only",
+        "No mixture"
+      ],
+      "correct_index": 0,
+      "explanation": "Fresh+salt.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_101",
+      "text": "Fisheries is: (variant 101)",
+      "options": [
+        "Only crop",
+        "Only animal",
+        "No study",
+        "Fish production"
+      ],
+      "correct_index": 3,
+      "explanation": "Fish production.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_102",
+      "text": "Aquaculture means: (variant 102)",
+      "options": [
+        "No farming",
+        "Only hunting",
+        "Fish farming",
+        "Crop farming"
+      ],
+      "correct_index": 2,
+      "explanation": "Fish farming.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_103",
+      "text": "Common cultured fish: (variant 103)",
+      "options": [
+        "Only carp",
+        "Catfish",
+        "No fish",
+        "Only tilapia"
+      ],
+      "correct_index": 1,
+      "explanation": "Catfish.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_104",
+      "text": "Fish breathes through: (variant 104)",
+      "options": [
+        "Gills",
+        "Lungs",
+        "Skin only",
+        "No gills"
+      ],
+      "correct_index": 0,
+      "explanation": "Gills.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_105",
+      "text": "Movement organ: (variant 105)",
+      "options": [
+        "Legs",
+        "Wings",
+        "No fins",
+        "Fins"
+      ],
+      "correct_index": 3,
+      "explanation": "Fins.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_106",
+      "text": "Young fish hatched: (variant 106)",
+      "options": [
+        "Juvenile",
+        "Adult",
+        "Fry",
+        "Fingerling"
+      ],
+      "correct_index": 2,
+      "explanation": "Fry.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_107",
+      "text": "Best soil for pond: (variant 107)",
+      "options": [
+        "Gravel",
+        "Clay",
+        "Sand",
+        "Loam"
+      ],
+      "correct_index": 1,
+      "explanation": "Clay.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_108",
+      "text": "pH for fish: (variant 108)",
+      "options": [
+        "6.5-9.0",
+        "1-2",
+        "12-14",
+        "No pH"
+      ],
+      "correct_index": 0,
+      "explanation": "6.5-9.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_109",
+      "text": "DO should be: (variant 109)",
+      "options": [
+        "Below 1",
+        "No oxygen",
+        "Only 0",
+        "Above 5 mg/L"
+      ],
+      "correct_index": 3,
+      "explanation": "Above 5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_110",
+      "text": "Protein fingerlings: (variant 110)",
+      "options": [
+        "5%",
+        "No protein",
+        "40%",
+        "10%"
+      ],
+      "correct_index": 2,
+      "explanation": "40%.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_111",
+      "text": "Natural food: (variant 111)",
+      "options": [
+        "Only pellets",
+        "Plankton",
+        "No plankton",
+        "Only artificial"
+      ],
+      "correct_index": 1,
+      "explanation": "Plankton.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_112",
+      "text": "Active gear: (variant 112)",
+      "options": [
+        "Trawl net",
+        "Set net",
+        "No gear",
+        "Only passive"
+      ],
+      "correct_index": 0,
+      "explanation": "Trawl.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_113",
+      "text": "Preservation method: (variant 113)",
+      "options": [
+        "No preservation",
+        "Only fresh",
+        "Only raw",
+        "Smoking"
+      ],
+      "correct_index": 3,
+      "explanation": "Smoking.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_114",
+      "text": "Overfishing leads to: (variant 114)",
+      "options": [
+        "No depletion",
+        "Only increase",
+        "Depletion",
+        "Increase"
+      ],
+      "correct_index": 2,
+      "explanation": "Depletion.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_115",
+      "text": "Closed season means: (variant 115)",
+      "options": [
+        "Only fishing",
+        "No fishing breeding",
+        "Fishing always",
+        "No breeding"
+      ],
+      "correct_index": 1,
+      "explanation": "No fishing breeding.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_116",
+      "text": "Fish is rich in: (variant 116)",
+      "options": [
+        "Protein",
+        "Carb",
+        "No protein",
+        "Only fat"
+      ],
+      "correct_index": 0,
+      "explanation": "Protein.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_117",
+      "text": "Lateral line for: (variant 117)",
+      "options": [
+        "No sensing",
+        "Only swimming",
+        "Only breathing",
+        "Sensing vibrations"
+      ],
+      "correct_index": 3,
+      "explanation": "Sensing.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_118",
+      "text": "Swim bladder for: (variant 118)",
+      "options": [
+        "Only swimming",
+        "Only breathing",
+        "Buoyancy",
+        "No buoyancy"
+      ],
+      "correct_index": 2,
+      "explanation": "Buoyancy.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_119",
+      "text": "Feed cost is: (variant 119)",
+      "options": [
+        "Only labour",
+        "Most important",
+        "No cost",
+        "Only construction"
+      ],
+      "correct_index": 1,
+      "explanation": "Most important.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_120",
+      "text": "Brackish is: (variant 120)",
+      "options": [
+        "Fresh+salt mixture",
+        "Fresh only",
+        "Salt only",
+        "No mixture"
+      ],
+      "correct_index": 0,
+      "explanation": "Fresh+salt.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_121",
+      "text": "Fisheries is: (variant 121)",
+      "options": [
+        "Only crop",
+        "Only animal",
+        "No study",
+        "Fish production"
+      ],
+      "correct_index": 3,
+      "explanation": "Fish production.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_122",
+      "text": "Aquaculture means: (variant 122)",
+      "options": [
+        "No farming",
+        "Only hunting",
+        "Fish farming",
+        "Crop farming"
+      ],
+      "correct_index": 2,
+      "explanation": "Fish farming.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_123",
+      "text": "Common cultured fish: (variant 123)",
+      "options": [
+        "Only carp",
+        "Catfish",
+        "No fish",
+        "Only tilapia"
+      ],
+      "correct_index": 1,
+      "explanation": "Catfish.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_124",
+      "text": "Fish breathes through: (variant 124)",
+      "options": [
+        "Gills",
+        "Lungs",
+        "Skin only",
+        "No gills"
+      ],
+      "correct_index": 0,
+      "explanation": "Gills.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_125",
+      "text": "Movement organ: (variant 125)",
+      "options": [
+        "Legs",
+        "Wings",
+        "No fins",
+        "Fins"
+      ],
+      "correct_index": 3,
+      "explanation": "Fins.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_126",
+      "text": "Young fish hatched: (variant 126)",
+      "options": [
+        "Juvenile",
+        "Adult",
+        "Fry",
+        "Fingerling"
+      ],
+      "correct_index": 2,
+      "explanation": "Fry.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_127",
+      "text": "Best soil for pond: (variant 127)",
+      "options": [
+        "Gravel",
+        "Clay",
+        "Sand",
+        "Loam"
+      ],
+      "correct_index": 1,
+      "explanation": "Clay.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_128",
+      "text": "pH for fish: (variant 128)",
+      "options": [
+        "6.5-9.0",
+        "1-2",
+        "12-14",
+        "No pH"
+      ],
+      "correct_index": 0,
+      "explanation": "6.5-9.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_129",
+      "text": "DO should be: (variant 129)",
+      "options": [
+        "Below 1",
+        "No oxygen",
+        "Only 0",
+        "Above 5 mg/L"
+      ],
+      "correct_index": 3,
+      "explanation": "Above 5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_130",
+      "text": "Protein fingerlings: (variant 130)",
+      "options": [
+        "5%",
+        "No protein",
+        "40%",
+        "10%"
+      ],
+      "correct_index": 2,
+      "explanation": "40%.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_131",
+      "text": "Natural food: (variant 131)",
+      "options": [
+        "Only pellets",
+        "Plankton",
+        "No plankton",
+        "Only artificial"
+      ],
+      "correct_index": 1,
+      "explanation": "Plankton.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_132",
+      "text": "Active gear: (variant 132)",
+      "options": [
+        "Trawl net",
+        "Set net",
+        "No gear",
+        "Only passive"
+      ],
+      "correct_index": 0,
+      "explanation": "Trawl.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_133",
+      "text": "Preservation method: (variant 133)",
+      "options": [
+        "No preservation",
+        "Only fresh",
+        "Only raw",
+        "Smoking"
+      ],
+      "correct_index": 3,
+      "explanation": "Smoking.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_134",
+      "text": "Overfishing leads to: (variant 134)",
+      "options": [
+        "No depletion",
+        "Only increase",
+        "Depletion",
+        "Increase"
+      ],
+      "correct_index": 2,
+      "explanation": "Depletion.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_135",
+      "text": "Closed season means: (variant 135)",
+      "options": [
+        "Only fishing",
+        "No fishing breeding",
+        "Fishing always",
+        "No breeding"
+      ],
+      "correct_index": 1,
+      "explanation": "No fishing breeding.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_136",
+      "text": "Fish is rich in: (variant 136)",
+      "options": [
+        "Protein",
+        "Carb",
+        "No protein",
+        "Only fat"
+      ],
+      "correct_index": 0,
+      "explanation": "Protein.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_137",
+      "text": "Lateral line for: (variant 137)",
+      "options": [
+        "No sensing",
+        "Only swimming",
+        "Only breathing",
+        "Sensing vibrations"
+      ],
+      "correct_index": 3,
+      "explanation": "Sensing.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_138",
+      "text": "Swim bladder for: (variant 138)",
+      "options": [
+        "Only swimming",
+        "Only breathing",
+        "Buoyancy",
+        "No buoyancy"
+      ],
+      "correct_index": 2,
+      "explanation": "Buoyancy.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_139",
+      "text": "Feed cost is: (variant 139)",
+      "options": [
+        "Only labour",
+        "Most important",
+        "No cost",
+        "Only construction"
+      ],
+      "correct_index": 1,
+      "explanation": "Most important.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_140",
+      "text": "Brackish is: (variant 140)",
+      "options": [
+        "Fresh+salt mixture",
+        "Fresh only",
+        "Salt only",
+        "No mixture"
+      ],
+      "correct_index": 0,
+      "explanation": "Fresh+salt.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_141",
+      "text": "Fisheries is: (variant 141)",
+      "options": [
+        "Only crop",
+        "Only animal",
+        "No study",
+        "Fish production"
+      ],
+      "correct_index": 3,
+      "explanation": "Fish production.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_142",
+      "text": "Aquaculture means: (variant 142)",
+      "options": [
+        "No farming",
+        "Only hunting",
+        "Fish farming",
+        "Crop farming"
+      ],
+      "correct_index": 2,
+      "explanation": "Fish farming.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_143",
+      "text": "Common cultured fish: (variant 143)",
+      "options": [
+        "Only carp",
+        "Catfish",
+        "No fish",
+        "Only tilapia"
+      ],
+      "correct_index": 1,
+      "explanation": "Catfish.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_144",
+      "text": "Fish breathes through: (variant 144)",
+      "options": [
+        "Gills",
+        "Lungs",
+        "Skin only",
+        "No gills"
+      ],
+      "correct_index": 0,
+      "explanation": "Gills.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_145",
+      "text": "Movement organ: (variant 145)",
+      "options": [
+        "Legs",
+        "Wings",
+        "No fins",
+        "Fins"
+      ],
+      "correct_index": 3,
+      "explanation": "Fins.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_146",
+      "text": "Young fish hatched: (variant 146)",
+      "options": [
+        "Juvenile",
+        "Adult",
+        "Fry",
+        "Fingerling"
+      ],
+      "correct_index": 2,
+      "explanation": "Fry.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_147",
+      "text": "Best soil for pond: (variant 147)",
+      "options": [
+        "Gravel",
+        "Clay",
+        "Sand",
+        "Loam"
+      ],
+      "correct_index": 1,
+      "explanation": "Clay.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_148",
+      "text": "pH for fish: (variant 148)",
+      "options": [
+        "6.5-9.0",
+        "1-2",
+        "12-14",
+        "No pH"
+      ],
+      "correct_index": 0,
+      "explanation": "6.5-9.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_149",
+      "text": "DO should be: (variant 149)",
+      "options": [
+        "Below 1",
+        "No oxygen",
+        "Only 0",
+        "Above 5 mg/L"
+      ],
+      "correct_index": 3,
+      "explanation": "Above 5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_150",
+      "text": "Protein fingerlings: (variant 150)",
+      "options": [
+        "5%",
+        "No protein",
+        "40%",
+        "10%"
+      ],
+      "correct_index": 2,
+      "explanation": "40%.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_151",
+      "text": "Natural food: (variant 151)",
+      "options": [
+        "Only pellets",
+        "Plankton",
+        "No plankton",
+        "Only artificial"
+      ],
+      "correct_index": 1,
+      "explanation": "Plankton.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_152",
+      "text": "Active gear: (variant 152)",
+      "options": [
+        "Trawl net",
+        "Set net",
+        "No gear",
+        "Only passive"
+      ],
+      "correct_index": 0,
+      "explanation": "Trawl.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_153",
+      "text": "Preservation method: (variant 153)",
+      "options": [
+        "No preservation",
+        "Only fresh",
+        "Only raw",
+        "Smoking"
+      ],
+      "correct_index": 3,
+      "explanation": "Smoking.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_154",
+      "text": "Overfishing leads to: (variant 154)",
+      "options": [
+        "No depletion",
+        "Only increase",
+        "Depletion",
+        "Increase"
+      ],
+      "correct_index": 2,
+      "explanation": "Depletion.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_155",
+      "text": "Closed season means: (variant 155)",
+      "options": [
+        "Only fishing",
+        "No fishing breeding",
+        "Fishing always",
+        "No breeding"
+      ],
+      "correct_index": 1,
+      "explanation": "No fishing breeding.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_156",
+      "text": "Fish is rich in: (variant 156)",
+      "options": [
+        "Protein",
+        "Carb",
+        "No protein",
+        "Only fat"
+      ],
+      "correct_index": 0,
+      "explanation": "Protein.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_157",
+      "text": "Lateral line for: (variant 157)",
+      "options": [
+        "No sensing",
+        "Only swimming",
+        "Only breathing",
+        "Sensing vibrations"
+      ],
+      "correct_index": 3,
+      "explanation": "Sensing.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_158",
+      "text": "Swim bladder for: (variant 158)",
+      "options": [
+        "Only swimming",
+        "Only breathing",
+        "Buoyancy",
+        "No buoyancy"
+      ],
+      "correct_index": 2,
+      "explanation": "Buoyancy.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_159",
+      "text": "Feed cost is: (variant 159)",
+      "options": [
+        "Only labour",
+        "Most important",
+        "No cost",
+        "Only construction"
+      ],
+      "correct_index": 1,
+      "explanation": "Most important.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_160",
+      "text": "Brackish is: (variant 160)",
+      "options": [
+        "Fresh+salt mixture",
+        "Fresh only",
+        "Salt only",
+        "No mixture"
+      ],
+      "correct_index": 0,
+      "explanation": "Fresh+salt.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_161",
+      "text": "Fisheries is: (variant 161)",
+      "options": [
+        "Only crop",
+        "Only animal",
+        "No study",
+        "Fish production"
+      ],
+      "correct_index": 3,
+      "explanation": "Fish production.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_162",
+      "text": "Aquaculture means: (variant 162)",
+      "options": [
+        "No farming",
+        "Only hunting",
+        "Fish farming",
+        "Crop farming"
+      ],
+      "correct_index": 2,
+      "explanation": "Fish farming.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_163",
+      "text": "Common cultured fish: (variant 163)",
+      "options": [
+        "Only carp",
+        "Catfish",
+        "No fish",
+        "Only tilapia"
+      ],
+      "correct_index": 1,
+      "explanation": "Catfish.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_164",
+      "text": "Fish breathes through: (variant 164)",
+      "options": [
+        "Gills",
+        "Lungs",
+        "Skin only",
+        "No gills"
+      ],
+      "correct_index": 0,
+      "explanation": "Gills.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_165",
+      "text": "Movement organ: (variant 165)",
+      "options": [
+        "Legs",
+        "Wings",
+        "No fins",
+        "Fins"
+      ],
+      "correct_index": 3,
+      "explanation": "Fins.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_166",
+      "text": "Young fish hatched: (variant 166)",
+      "options": [
+        "Juvenile",
+        "Adult",
+        "Fry",
+        "Fingerling"
+      ],
+      "correct_index": 2,
+      "explanation": "Fry.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_167",
+      "text": "Best soil for pond: (variant 167)",
+      "options": [
+        "Gravel",
+        "Clay",
+        "Sand",
+        "Loam"
+      ],
+      "correct_index": 1,
+      "explanation": "Clay.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_168",
+      "text": "pH for fish: (variant 168)",
+      "options": [
+        "6.5-9.0",
+        "1-2",
+        "12-14",
+        "No pH"
+      ],
+      "correct_index": 0,
+      "explanation": "6.5-9.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_169",
+      "text": "DO should be: (variant 169)",
+      "options": [
+        "Below 1",
+        "No oxygen",
+        "Only 0",
+        "Above 5 mg/L"
+      ],
+      "correct_index": 3,
+      "explanation": "Above 5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_170",
+      "text": "Protein fingerlings: (variant 170)",
+      "options": [
+        "5%",
+        "No protein",
+        "40%",
+        "10%"
+      ],
+      "correct_index": 2,
+      "explanation": "40%.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_171",
+      "text": "Natural food: (variant 171)",
+      "options": [
+        "Only pellets",
+        "Plankton",
+        "No plankton",
+        "Only artificial"
+      ],
+      "correct_index": 1,
+      "explanation": "Plankton.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_172",
+      "text": "Active gear: (variant 172)",
+      "options": [
+        "Trawl net",
+        "Set net",
+        "No gear",
+        "Only passive"
+      ],
+      "correct_index": 0,
+      "explanation": "Trawl.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_173",
+      "text": "Preservation method: (variant 173)",
+      "options": [
+        "No preservation",
+        "Only fresh",
+        "Only raw",
+        "Smoking"
+      ],
+      "correct_index": 3,
+      "explanation": "Smoking.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_174",
+      "text": "Overfishing leads to: (variant 174)",
+      "options": [
+        "No depletion",
+        "Only increase",
+        "Depletion",
+        "Increase"
+      ],
+      "correct_index": 2,
+      "explanation": "Depletion.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_175",
+      "text": "Closed season means: (variant 175)",
+      "options": [
+        "Only fishing",
+        "No fishing breeding",
+        "Fishing always",
+        "No breeding"
+      ],
+      "correct_index": 1,
+      "explanation": "No fishing breeding.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_176",
+      "text": "Fish is rich in: (variant 176)",
+      "options": [
+        "Protein",
+        "Carb",
+        "No protein",
+        "Only fat"
+      ],
+      "correct_index": 0,
+      "explanation": "Protein.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_177",
+      "text": "Lateral line for: (variant 177)",
+      "options": [
+        "No sensing",
+        "Only swimming",
+        "Only breathing",
+        "Sensing vibrations"
+      ],
+      "correct_index": 3,
+      "explanation": "Sensing.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_178",
+      "text": "Swim bladder for: (variant 178)",
+      "options": [
+        "Only swimming",
+        "Only breathing",
+        "Buoyancy",
+        "No buoyancy"
+      ],
+      "correct_index": 2,
+      "explanation": "Buoyancy.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_179",
+      "text": "Feed cost is: (variant 179)",
+      "options": [
+        "Only labour",
+        "Most important",
+        "No cost",
+        "Only construction"
+      ],
+      "correct_index": 1,
+      "explanation": "Most important.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_180",
+      "text": "Brackish is: (variant 180)",
+      "options": [
+        "Fresh+salt mixture",
+        "Fresh only",
+        "Salt only",
+        "No mixture"
+      ],
+      "correct_index": 0,
+      "explanation": "Fresh+salt.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_181",
+      "text": "Fisheries is: (variant 181)",
+      "options": [
+        "Only crop",
+        "Only animal",
+        "No study",
+        "Fish production"
+      ],
+      "correct_index": 3,
+      "explanation": "Fish production.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_182",
+      "text": "Aquaculture means: (variant 182)",
+      "options": [
+        "No farming",
+        "Only hunting",
+        "Fish farming",
+        "Crop farming"
+      ],
+      "correct_index": 2,
+      "explanation": "Fish farming.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_183",
+      "text": "Common cultured fish: (variant 183)",
+      "options": [
+        "Only carp",
+        "Catfish",
+        "No fish",
+        "Only tilapia"
+      ],
+      "correct_index": 1,
+      "explanation": "Catfish.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_184",
+      "text": "Fish breathes through: (variant 184)",
+      "options": [
+        "Gills",
+        "Lungs",
+        "Skin only",
+        "No gills"
+      ],
+      "correct_index": 0,
+      "explanation": "Gills.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_185",
+      "text": "Movement organ: (variant 185)",
+      "options": [
+        "Legs",
+        "Wings",
+        "No fins",
+        "Fins"
+      ],
+      "correct_index": 3,
+      "explanation": "Fins.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_186",
+      "text": "Young fish hatched: (variant 186)",
+      "options": [
+        "Juvenile",
+        "Adult",
+        "Fry",
+        "Fingerling"
+      ],
+      "correct_index": 2,
+      "explanation": "Fry.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_187",
+      "text": "Best soil for pond: (variant 187)",
+      "options": [
+        "Gravel",
+        "Clay",
+        "Sand",
+        "Loam"
+      ],
+      "correct_index": 1,
+      "explanation": "Clay.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_188",
+      "text": "pH for fish: (variant 188)",
+      "options": [
+        "6.5-9.0",
+        "1-2",
+        "12-14",
+        "No pH"
+      ],
+      "correct_index": 0,
+      "explanation": "6.5-9.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_189",
+      "text": "DO should be: (variant 189)",
+      "options": [
+        "Below 1",
+        "No oxygen",
+        "Only 0",
+        "Above 5 mg/L"
+      ],
+      "correct_index": 3,
+      "explanation": "Above 5.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_190",
+      "text": "Protein fingerlings: (variant 190)",
+      "options": [
+        "5%",
+        "No protein",
+        "40%",
+        "10%"
+      ],
+      "correct_index": 2,
+      "explanation": "40%.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_191",
+      "text": "Natural food: (variant 191)",
+      "options": [
+        "Only pellets",
+        "Plankton",
+        "No plankton",
+        "Only artificial"
+      ],
+      "correct_index": 1,
+      "explanation": "Plankton.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_192",
+      "text": "Active gear: (variant 192)",
+      "options": [
+        "Trawl net",
+        "Set net",
+        "No gear",
+        "Only passive"
+      ],
+      "correct_index": 0,
+      "explanation": "Trawl.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_193",
+      "text": "Preservation method: (variant 193)",
+      "options": [
+        "No preservation",
+        "Only fresh",
+        "Only raw",
+        "Smoking"
+      ],
+      "correct_index": 3,
+      "explanation": "Smoking.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_194",
+      "text": "Overfishing leads to: (variant 194)",
+      "options": [
+        "No depletion",
+        "Only increase",
+        "Depletion",
+        "Increase"
+      ],
+      "correct_index": 2,
+      "explanation": "Depletion.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_195",
+      "text": "Closed season means: (variant 195)",
+      "options": [
+        "Only fishing",
+        "No fishing breeding",
+        "Fishing always",
+        "No breeding"
+      ],
+      "correct_index": 1,
+      "explanation": "No fishing breeding.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_196",
+      "text": "Fish is rich in: (variant 196)",
+      "options": [
+        "Protein",
+        "Carb",
+        "No protein",
+        "Only fat"
+      ],
+      "correct_index": 0,
+      "explanation": "Protein.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_197",
+      "text": "Lateral line for: (variant 197)",
+      "options": [
+        "No sensing",
+        "Only swimming",
+        "Only breathing",
+        "Sensing vibrations"
+      ],
+      "correct_index": 3,
+      "explanation": "Sensing.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_198",
+      "text": "Swim bladder for: (variant 198)",
+      "options": [
+        "Only swimming",
+        "Only breathing",
+        "Buoyancy",
+        "No buoyancy"
+      ],
+      "correct_index": 2,
+      "explanation": "Buoyancy.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_199",
+      "text": "Feed cost is: (variant 199)",
+      "options": [
+        "Only labour",
+        "Most important",
+        "No cost",
+        "Only construction"
+      ],
+      "correct_index": 1,
+      "explanation": "Most important.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_200",
+      "text": "Brackish is: (variant 200)",
+      "options": [
+        "Fresh+salt mixture",
+        "Fresh only",
+        "Salt only",
+        "No mixture"
+      ],
+      "correct_index": 0,
+      "explanation": "Fresh+salt.",
+      "difficulty": 1
+    }
+  ]
+}

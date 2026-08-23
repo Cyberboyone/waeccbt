@@ -1,0 +1,2607 @@
+{
+  "course_id": "che",
+  "course_name": "Chemistry",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "che_001",
+      "text": "The separation technique used to obtain a solid from a solution is:",
+      "options": [
+        "Evaporation",
+        "Distillation",
+        "Sublimation",
+        "Filtration"
+      ],
+      "correct_index": 0,
+      "explanation": "Evaporation removes the solvent, leaving the solid.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_002",
+      "text": "Filtration is used to separate:",
+      "options": [
+        "A soluble solid from a liquid",
+        "Two gases",
+        "Two liquids",
+        "An insoluble solid from a liquid"
+      ],
+      "correct_index": 3,
+      "explanation": "Filtration separates insoluble solids from liquids.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_003",
+      "text": "The method used to separate a mixture of liquids with different boiling points is:",
+      "options": [
+        "Decantation",
+        "Filtration",
+        "Fractional distillation",
+        "Evaporation"
+      ],
+      "correct_index": 2,
+      "explanation": "Fractional distillation separates liquids by boiling point.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_004",
+      "text": "A mixture of salt and water can be separated by:",
+      "options": [
+        "Filtration",
+        "Evaporation",
+        "Magnetisation",
+        "Sieving"
+      ],
+      "correct_index": 1,
+      "explanation": "Evaporate the water to recover the salt.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_005",
+      "text": "Which technique separates a mixture of iron filings and sand?",
+      "options": [
+        "Magnetic separation",
+        "Distillation",
+        "Chromatography",
+        "Filtration"
+      ],
+      "correct_index": 0,
+      "explanation": "A magnet attracts the iron filings.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_006",
+      "text": "Chromatography is used to separate:",
+      "options": [
+        "Immiscible liquids",
+        "Metals",
+        "Coloured components of a mixture",
+        "Solids from liquids"
+      ],
+      "correct_index": 2,
+      "explanation": "Chromatography separates coloured solutes.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_007",
+      "text": "The process by which a solid changes directly to gas is:",
+      "options": [
+        "Condensation",
+        "Melting",
+        "Sublimation",
+        "Evaporation"
+      ],
+      "correct_index": 2,
+      "explanation": "Sublimation is solid → gas directly (e.g. iodine).",
+      "difficulty": 1
+    },
+    {
+      "id": "che_008",
+      "text": "A mixture of two immiscible liquids is best separated using a:",
+      "options": [
+        "Filter",
+        "Separating funnel",
+        "Condenser",
+        "Magnet"
+      ],
+      "correct_index": 1,
+      "explanation": "Immiscible liquids are separated with a separating funnel.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_009",
+      "text": "A pure substance has:",
+      "options": [
+        "A sharp, fixed melting point",
+        "Many components",
+        "No definite composition",
+        "A variable boiling point"
+      ],
+      "correct_index": 0,
+      "explanation": "Pure substances melt/boil at a fixed temperature.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_010",
+      "text": "Which of these is a physical change?",
+      "options": [
+        "Rusting iron",
+        "Fermenting sugar",
+        "Burning wood",
+        "Melting ice"
+      ],
+      "correct_index": 3,
+      "explanation": "Melting is a change of state, not a new substance.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_011",
+      "text": "The law of conservation of mass states that mass is:",
+      "options": [
+        "Variable",
+        "Created in reactions",
+        "Conserved in reactions",
+        "Destroyed in reactions"
+      ],
+      "correct_index": 2,
+      "explanation": "Mass is neither created nor destroyed.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_012",
+      "text": "The law of definite proportions states that a compound always contains:",
+      "options": [
+        "Variable proportions",
+        "The same elements in the same ratio",
+        "Only one element",
+        "No fixed ratio"
+      ],
+      "correct_index": 1,
+      "explanation": "A compound has a fixed composition by mass.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_013",
+      "text": "One mole of any substance contains ___ particles (Avogadro's number).",
+      "options": [
+        "3.01 × 10²³",
+        "6.02 × 10²²",
+        "1 × 10²³",
+        "6.02 × 10²³"
+      ],
+      "correct_index": 3,
+      "explanation": "Avogadro's number is 6.02 × 10²³.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_014",
+      "text": "The molar mass of water (H₂O) is: (H=1, O=16)",
+      "options": [
+        "16 g/mol",
+        "20 g/mol",
+        "18 g/mol",
+        "17 g/mol"
+      ],
+      "correct_index": 2,
+      "explanation": "2×1 + 16 = 18 g/mol.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_015",
+      "text": "The number of moles in 44 g of CO₂ (C=12, O=16) is:",
+      "options": [
+        "44 mol",
+        "1 mol",
+        "2 mol",
+        "0.5 mol"
+      ],
+      "correct_index": 1,
+      "explanation": "Molar mass CO₂ = 44 g/mol; 44/44 = 1 mol.",
+      "difficulty": 2
+    },
+    {
+      "id": "che_016",
+      "text": "The empirical formula shows the:",
+      "options": [
+        "Simplest whole-number ratio of atoms",
+        "Actual number of atoms",
+        "Molecular mass",
+        "Atomic mass"
+      ],
+      "correct_index": 0,
+      "explanation": "Empirical formula = simplest ratio.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_017",
+      "text": "The molecular formula shows the:",
+      "options": [
+        "Actual number of atoms in a molecule",
+        "Valency",
+        "Charge",
+        "Simplest ratio"
+      ],
+      "correct_index": 0,
+      "explanation": "Molecular formula gives actual atom counts.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_018",
+      "text": "The valency of oxygen is:",
+      "options": [
+        "3",
+        "4",
+        "1",
+        "2"
+      ],
+      "correct_index": 3,
+      "explanation": "Oxygen has valency 2.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_019",
+      "text": "The valency of hydrogen is:",
+      "options": [
+        "4",
+        "1",
+        "2",
+        "3"
+      ],
+      "correct_index": 1,
+      "explanation": "Hydrogen has valency 1.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_020",
+      "text": "The formula of sodium chloride is:",
+      "options": [
+        "NaCl",
+        "NaCl₂",
+        "Na₂Cl",
+        "Na₂Cl₂"
+      ],
+      "correct_index": 0,
+      "explanation": "Na⁺ and Cl⁻ combine 1:1 → NaCl.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_021",
+      "text": "The chemical formula of sulphuric acid is:",
+      "options": [
+        "H₂SO₃",
+        "HSO₄",
+        "H₂S",
+        "H₂SO₄"
+      ],
+      "correct_index": 3,
+      "explanation": "Sulphuric acid is H₂SO₄.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_022",
+      "text": "A chemical equation must be balanced to obey:",
+      "options": [
+        "Charles's law",
+        "Boyle's law",
+        "The law of conservation of mass",
+        "Newton's law"
+      ],
+      "correct_index": 2,
+      "explanation": "Balancing conserves atoms (mass).",
+      "difficulty": 1
+    },
+    {
+      "id": "che_023",
+      "text": "According to the kinetic theory, gas particles are in:",
+      "options": [
+        "No motion",
+        "Fixed positions",
+        "Constant random motion",
+        "Slow vibration only"
+      ],
+      "correct_index": 2,
+      "explanation": "Gas particles move constantly and randomly.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_024",
+      "text": "The three states of matter are:",
+      "options": [
+        "Solid, liquid, gas",
+        "Solid, vapour, plasma",
+        "Liquid, gas, energy",
+        "Solid, liquid, steam"
+      ],
+      "correct_index": 0,
+      "explanation": "States of matter: solid, liquid, gas.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_025",
+      "text": "Diffusion is fastest in:",
+      "options": [
+        "Liquids",
+        "Gases",
+        "All equally",
+        "Solids"
+      ],
+      "correct_index": 1,
+      "explanation": "Gases diffuse fastest due to large inter-particle spaces.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_026",
+      "text": "Boyle's law states that at constant temperature, PV is:",
+      "options": [
+        "Zero",
+        "Infinite",
+        "Constant",
+        "Variable"
+      ],
+      "correct_index": 2,
+      "explanation": "PV = constant at constant T.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_027",
+      "text": "Charles's law states V ∝ T at constant:",
+      "options": [
+        "Temperature",
+        "Pressure",
+        "Volume",
+        "Mass"
+      ],
+      "correct_index": 1,
+      "explanation": "V ∝ T at constant pressure.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_028",
+      "text": "The ideal gas equation is:",
+      "options": [
+        "PV = nRT",
+        "PT = nRV",
+        "PV = nT",
+        "P = nRT"
+      ],
+      "correct_index": 0,
+      "explanation": "PV = nRT.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_029",
+      "text": "The atom consists of a nucleus and:",
+      "options": [
+        "Only protons",
+        "Only neutrons",
+        "Ions",
+        "Electrons"
+      ],
+      "correct_index": 3,
+      "explanation": "Electrons orbit the nucleus.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_030",
+      "text": "The subatomic particles in the nucleus are:",
+      "options": [
+        "Neutrons and electrons",
+        "Ions",
+        "Protons and electrons",
+        "Protons and neutrons"
+      ],
+      "correct_index": 3,
+      "explanation": "The nucleus holds protons and neutrons.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_031",
+      "text": "The atomic number equals the number of:",
+      "options": [
+        "Nucleons",
+        "Neutrons",
+        "Protons",
+        "Electrons + neutrons"
+      ],
+      "correct_index": 2,
+      "explanation": "Atomic number = protons.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_032",
+      "text": "The mass number equals protons plus:",
+      "options": [
+        "Electrons",
+        "Neutrons",
+        "Ions",
+        "Charge"
+      ],
+      "correct_index": 1,
+      "explanation": "Mass number = protons + neutrons.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_033",
+      "text": "The maximum number of electrons in the first shell is:",
+      "options": [
+        "8",
+        "18",
+        "32",
+        "2"
+      ],
+      "correct_index": 3,
+      "explanation": "The first shell holds 2 electrons.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_034",
+      "text": "The maximum number of electrons in the second shell is:",
+      "options": [
+        "18",
+        "32",
+        "2",
+        "8"
+      ],
+      "correct_index": 3,
+      "explanation": "The second shell holds 8 electrons.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_035",
+      "text": "The electronic configuration of sodium (Z=11) is:",
+      "options": [
+        "2, 1",
+        "2, 8, 1",
+        "2, 8, 8",
+        "2, 8, 2"
+      ],
+      "correct_index": 1,
+      "explanation": "Na: 2, 8, 1.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_036",
+      "text": "The electronic configuration of chlorine (Z=17) is:",
+      "options": [
+        "2, 8, 7",
+        "2, 8, 8",
+        "2, 8, 18",
+        "2, 7"
+      ],
+      "correct_index": 0,
+      "explanation": "Cl: 2, 8, 7.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_037",
+      "text": "An ionic bond is formed by:",
+      "options": [
+        "Transfer of electrons",
+        "Sharing of protons",
+        "Transfer of neutrons",
+        "Sharing of electrons"
+      ],
+      "correct_index": 0,
+      "explanation": "Ionic bonds involve electron transfer.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_038",
+      "text": "A covalent bond is formed by:",
+      "options": [
+        "Loss of protons",
+        "Gain of neutrons",
+        "Transfer of electrons",
+        "Sharing of electrons"
+      ],
+      "correct_index": 3,
+      "explanation": "Covalent bonds involve electron sharing.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_039",
+      "text": "Which of the following is an ionic compound?",
+      "options": [
+        "H₂O",
+        "CH₄",
+        "NaCl",
+        "CO₂"
+      ],
+      "correct_index": 2,
+      "explanation": "NaCl is ionic (metal + non-metal).",
+      "difficulty": 1
+    },
+    {
+      "id": "che_040",
+      "text": "Which of the following is a covalent compound?",
+      "options": [
+        "NaCl",
+        "MgO",
+        "H₂O",
+        "KCl"
+      ],
+      "correct_index": 2,
+      "explanation": "H₂O is covalent (non-metal + non-metal).",
+      "difficulty": 1
+    },
+    {
+      "id": "che_041",
+      "text": "Isotopes have the same number of protons but different:",
+      "options": [
+        "Neutrons",
+        "Charge",
+        "Atomic number",
+        "Electrons"
+      ],
+      "correct_index": 0,
+      "explanation": "Isotopes differ in neutron number.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_042",
+      "text": "The relative atomic mass of an element is measured relative to:",
+      "options": [
+        "Oxygen-16",
+        "Nitrogen-14",
+        "Hydrogen-1",
+        "Carbon-12"
+      ],
+      "correct_index": 3,
+      "explanation": "Atomic masses are relative to carbon-12.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_043",
+      "text": "The number of neutrons in ²³Na (Z=11) is:",
+      "options": [
+        "34",
+        "11",
+        "12",
+        "23"
+      ],
+      "correct_index": 2,
+      "explanation": "Neutrons = 23 − 11 = 12.",
+      "difficulty": 2
+    },
+    {
+      "id": "che_044",
+      "text": "The most abundant gas in air is:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Argon"
+      ],
+      "correct_index": 1,
+      "explanation": "Nitrogen is about 78% of air.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_045",
+      "text": "The approximate percentage of oxygen in air is:",
+      "options": [
+        "21%",
+        "1%",
+        "50%",
+        "78%"
+      ],
+      "correct_index": 0,
+      "explanation": "Oxygen ≈ 21%.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_046",
+      "text": "The gas used by plants for photosynthesis is:",
+      "options": [
+        "Nitrogen",
+        "Argon",
+        "Oxygen",
+        "Carbon dioxide"
+      ],
+      "correct_index": 3,
+      "explanation": "Plants take in CO₂.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_047",
+      "text": "The gas that supports combustion is:",
+      "options": [
+        "Helium",
+        "Nitrogen",
+        "Oxygen",
+        "Carbon dioxide"
+      ],
+      "correct_index": 2,
+      "explanation": "Oxygen supports burning.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_048",
+      "text": "The active part of air is:",
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Argon",
+        "Carbon dioxide"
+      ],
+      "correct_index": 1,
+      "explanation": "Oxygen is the reactive component.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_049",
+      "text": "Pure water boils at (at standard pressure):",
+      "options": [
+        "0°C",
+        "212°C",
+        "90°C",
+        "100°C"
+      ],
+      "correct_index": 3,
+      "explanation": "Water boils at 100°C at 1 atm.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_050",
+      "text": "Water is said to be hard when it contains dissolved:",
+      "options": [
+        "Sugar",
+        "Oxygen",
+        "Sodium salts",
+        "Calcium or magnesium salts"
+      ],
+      "correct_index": 3,
+      "explanation": "Hard water has Ca²⁺/Mg²⁺ salts.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_051",
+      "text": "Temporary hardness of water is caused by:",
+      "options": [
+        "Magnesium chloride",
+        "Calcium hydrogen carbonate",
+        "Calcium sulphate",
+        "Sodium chloride"
+      ],
+      "correct_index": 1,
+      "explanation": "Temporary hardness is from calcium hydrogen carbonate.",
+      "difficulty": 2
+    },
+    {
+      "id": "che_052",
+      "text": "Temporary hardness can be removed by:",
+      "options": [
+        "Boiling",
+        "Adding more salt",
+        "Cooling",
+        "Freezing"
+      ],
+      "correct_index": 0,
+      "explanation": "Boiling precipitates calcium carbonate.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_053",
+      "text": "Water is purified for drinking by:",
+      "options": [
+        "Filtration and chlorination",
+        "Adding sugar",
+        "Heating only",
+        "Adding salt"
+      ],
+      "correct_index": 0,
+      "explanation": "Filtration + chlorination disinfects water.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_054",
+      "text": "Solubility is the amount of solute that dissolves in:",
+      "options": [
+        "Any volume",
+        "100 g of solute",
+        "100 g of solvent",
+        "1 g of solvent"
+      ],
+      "correct_index": 2,
+      "explanation": "Solubility = g solute per 100 g solvent at a temperature.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_055",
+      "text": "A saturated solution contains:",
+      "options": [
+        "Only solvent",
+        "No solute",
+        "The maximum dissolved solute",
+        "Any amount"
+      ],
+      "correct_index": 2,
+      "explanation": "A saturated solution holds maximum solute.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_056",
+      "text": "For most solids, solubility ___ with increasing temperature.",
+      "options": [
+        "Decreases",
+        "Increases",
+        "Is unchanged",
+        "Becomes zero"
+      ],
+      "correct_index": 1,
+      "explanation": "Most solids dissolve more when heated.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_057",
+      "text": "The solubility of gases in water generally ___ with increasing temperature.",
+      "options": [
+        "Decreases",
+        "Stays constant",
+        "Doubles",
+        "Increases"
+      ],
+      "correct_index": 0,
+      "explanation": "Gases are less soluble at higher temperature.",
+      "difficulty": 2
+    },
+    {
+      "id": "che_058",
+      "text": "A supersaturated solution is:",
+      "options": [
+        "Dilute",
+        "Unsaturated",
+        "Unstable",
+        "Stable"
+      ],
+      "correct_index": 2,
+      "explanation": "Supersaturated solutions hold more than normal and are unstable.",
+      "difficulty": 2
+    },
+    {
+      "id": "che_059",
+      "text": "The gas mainly responsible for acid rain is:",
+      "options": [
+        "Hydrogen",
+        "Oxygen",
+        "Sulphur dioxide",
+        "Nitrogen"
+      ],
+      "correct_index": 2,
+      "explanation": "SO₂ dissolves in rain to form acid rain.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_060",
+      "text": "The main greenhouse gas produced by burning fossil fuels is:",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Argon"
+      ],
+      "correct_index": 1,
+      "explanation": "CO₂ is the main greenhouse gas.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_061",
+      "text": "The depletion of the ozone layer is caused mainly by:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Water vapour",
+        "CFCs"
+      ],
+      "correct_index": 3,
+      "explanation": "Chlorofluorocarbons destroy ozone.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_062",
+      "text": "Air pollution can be reduced by:",
+      "options": [
+        "Cutting trees",
+        "More cars",
+        "Burning more fuel",
+        "Using renewable energy"
+      ],
+      "correct_index": 3,
+      "explanation": "Renewable energy reduces emissions.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_063",
+      "text": "Water pollution is caused by:",
+      "options": [
+        "Sunlight",
+        "Industrial waste",
+        "Rainwater",
+        "Oxygen"
+      ],
+      "correct_index": 1,
+      "explanation": "Industrial waste pollutes water.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_064",
+      "text": "An acid is a substance that donates:",
+      "options": [
+        "Electrons",
+        "Protons (H⁺)",
+        "Neutrons",
+        "OH⁻"
+      ],
+      "correct_index": 1,
+      "explanation": "Acids donate protons (H⁺).",
+      "difficulty": 1
+    },
+    {
+      "id": "che_065",
+      "text": "A base is a substance that accepts:",
+      "options": [
+        "Protons (H⁺)",
+        "Neutrons",
+        "Electrons pairs",
+        "Electrons"
+      ],
+      "correct_index": 0,
+      "explanation": "Bases accept protons.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_066",
+      "text": "The pH of a neutral solution is:",
+      "options": [
+        "14",
+        "1",
+        "0",
+        "7"
+      ],
+      "correct_index": 3,
+      "explanation": "Neutral pH = 7.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_067",
+      "text": "The pH of an acidic solution is:",
+      "options": [
+        "Always 14",
+        "Greater than 7",
+        "Less than 7",
+        "Equal to 7"
+      ],
+      "correct_index": 2,
+      "explanation": "Acids have pH < 7.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_068",
+      "text": "The pH of a basic solution is:",
+      "options": [
+        "Less than 7",
+        "Greater than 7",
+        "Equal to 7",
+        "Always 0"
+      ],
+      "correct_index": 1,
+      "explanation": "Bases have pH > 7.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_069",
+      "text": "The colour of litmus in an acid is:",
+      "options": [
+        "Red",
+        "Green",
+        "Yellow",
+        "Blue"
+      ],
+      "correct_index": 0,
+      "explanation": "Blue litmus turns red in acid.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_070",
+      "text": "The colour of litmus in a base is:",
+      "options": [
+        "Green",
+        "Colourless",
+        "Red",
+        "Blue"
+      ],
+      "correct_index": 3,
+      "explanation": "Red litmus turns blue in base.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_071",
+      "text": "The salt formed when an acid reacts with a base is a ___ reaction.",
+      "options": [
+        "Decomposition",
+        "Neutralisation",
+        "Redox",
+        "Precipitation"
+      ],
+      "correct_index": 1,
+      "explanation": "Acid + base → salt + water is neutralisation.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_072",
+      "text": "The general equation for neutralisation is:",
+      "options": [
+        "Acid + base → salt + water",
+        "Acid + salt → base + water",
+        "Base + salt → acid",
+        "Acid + water → base"
+      ],
+      "correct_index": 0,
+      "explanation": "Acid + base → salt + water.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_073",
+      "text": "The salt formed from hydrochloric acid (HCl) and sodium hydroxide (NaOH) is:",
+      "options": [
+        "Sodium sulphate",
+        "Sodium nitrate",
+        "Sodium carbonate",
+        "Sodium chloride"
+      ],
+      "correct_index": 3,
+      "explanation": "HCl + NaOH → NaCl + H₂O.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_074",
+      "text": "The salt of sulphuric acid is a:",
+      "options": [
+        "Nitrate",
+        "Carbonate",
+        "Chloride",
+        "Sulphate"
+      ],
+      "correct_index": 3,
+      "explanation": "H₂SO₄ forms sulphates.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_075",
+      "text": "The salt of nitric acid is a:",
+      "options": [
+        "Carbonate",
+        "Chloride",
+        "Sulphate",
+        "Nitrate"
+      ],
+      "correct_index": 3,
+      "explanation": "HNO₃ forms nitrates.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_076",
+      "text": "An indicator used in titrations is:",
+      "options": [
+        "Methyl orange",
+        "Salt",
+        "Sugar",
+        "Water"
+      ],
+      "correct_index": 0,
+      "explanation": "Methyl orange is an acid-base indicator.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_077",
+      "text": "Which of the following is a strong acid?",
+      "options": [
+        "Hydrochloric acid",
+        "Citric acid",
+        "Carbonic acid",
+        "Ethanoic acid"
+      ],
+      "correct_index": 0,
+      "explanation": "HCl is a strong (fully dissociated) acid.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_078",
+      "text": "Which of the following is an alkali?",
+      "options": [
+        "H₂SO₄",
+        "HNO₃",
+        "HCl",
+        "NaOH"
+      ],
+      "correct_index": 3,
+      "explanation": "Sodium hydroxide is a soluble base (alkali).",
+      "difficulty": 1
+    },
+    {
+      "id": "che_079",
+      "text": "Oxidation is the:",
+      "options": [
+        "Gain of protons",
+        "Loss of electrons",
+        "Gain of electrons",
+        "Loss of protons"
+      ],
+      "correct_index": 1,
+      "explanation": "Oxidation = loss of electrons.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_080",
+      "text": "Reduction is the:",
+      "options": [
+        "Loss of electrons",
+        "Gain of electrons",
+        "Loss of protons",
+        "Gain of protons"
+      ],
+      "correct_index": 1,
+      "explanation": "Reduction = gain of electrons.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_081",
+      "text": "An oxidising agent:",
+      "options": [
+        "Loses electrons",
+        "Loses protons",
+        "Gains protons",
+        "Gains electrons"
+      ],
+      "correct_index": 3,
+      "explanation": "An oxidising agent accepts (gains) electrons.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_082",
+      "text": "A reducing agent:",
+      "options": [
+        "Gains protons",
+        "Loses protons",
+        "Gains electrons",
+        "Loses electrons"
+      ],
+      "correct_index": 3,
+      "explanation": "A reducing agent donates (loses) electrons.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_083",
+      "text": "The oxidation number of oxygen in most compounds is:",
+      "options": [
+        "−1",
+        "−2",
+        "+2",
+        "0"
+      ],
+      "correct_index": 1,
+      "explanation": "Oxygen is usually −2.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_084",
+      "text": "The oxidation number of a free element is:",
+      "options": [
+        "1",
+        "0",
+        "−1",
+        "2"
+      ],
+      "correct_index": 1,
+      "explanation": "Free elements have oxidation number 0.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_085",
+      "text": "The oxidation number of hydrogen in compounds is usually:",
+      "options": [
+        "−1",
+        "0",
+        "2",
+        "+1"
+      ],
+      "correct_index": 3,
+      "explanation": "Hydrogen is +1 (except in metal hydrides).",
+      "difficulty": 1
+    },
+    {
+      "id": "che_086",
+      "text": "In the reaction Zn + Cu²⁺ → Zn²⁺ + Cu, zinc is:",
+      "options": [
+        "Unchanged",
+        "Precipitated",
+        "Oxidised",
+        "Reduced"
+      ],
+      "correct_index": 2,
+      "explanation": "Zn loses electrons (oxidised).",
+      "difficulty": 2
+    },
+    {
+      "id": "che_087",
+      "text": "Electrolysis is the decomposition of a substance by:",
+      "options": [
+        "Pressure",
+        "Heat",
+        "Electric current",
+        "Light"
+      ],
+      "correct_index": 2,
+      "explanation": "Electrolysis uses an electric current.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_088",
+      "text": "The positive electrode in electrolysis is the:",
+      "options": [
+        "Cathode",
+        "Anode",
+        "Electrolyte",
+        "Cell"
+      ],
+      "correct_index": 1,
+      "explanation": "The anode is positive.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_089",
+      "text": "The negative electrode in electrolysis is the:",
+      "options": [
+        "Cathode",
+        "Electrolyte",
+        "Cell",
+        "Anode"
+      ],
+      "correct_index": 0,
+      "explanation": "The cathode is negative.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_090",
+      "text": "The substance that conducts electricity when molten or in solution and is decomposed is the:",
+      "options": [
+        "Conductor",
+        "Insulator",
+        "Electrode",
+        "Electrolyte"
+      ],
+      "correct_index": 3,
+      "explanation": "An electrolyte conducts and is decomposed.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_091",
+      "text": "During electrolysis, cations move to the:",
+      "options": [
+        "Nowhere",
+        "Anode",
+        "Cathode",
+        "Surface"
+      ],
+      "correct_index": 2,
+      "explanation": "Positive cations move to the negative cathode.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_092",
+      "text": "During electrolysis of dilute NaCl, the gas at the cathode is:",
+      "options": [
+        "Chlorine",
+        "Hydrogen",
+        "Oxygen",
+        "Nitrogen"
+      ],
+      "correct_index": 1,
+      "explanation": "H₂ is liberated at the cathode.",
+      "difficulty": 2
+    },
+    {
+      "id": "che_093",
+      "text": "During electrolysis of dilute NaCl, the gas at the anode is:",
+      "options": [
+        "Chlorine",
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "correct_index": 1,
+      "explanation": "O₂ (from OH⁻) is liberated at the anode in dilute NaCl.",
+      "difficulty": 2
+    },
+    {
+      "id": "che_094",
+      "text": "Electroplating uses electrolysis to coat a metal with:",
+      "options": [
+        "Oil",
+        "Plastic",
+        "Another metal",
+        "Paint"
+      ],
+      "correct_index": 2,
+      "explanation": "Electroplating deposits a metal coating.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_095",
+      "text": "Faraday's first law of electrolysis relates the mass deposited to:",
+      "options": [
+        "Volume",
+        "The quantity of electricity",
+        "Temperature",
+        "Pressure"
+      ],
+      "correct_index": 1,
+      "explanation": "Mass ∝ charge passed.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_096",
+      "text": "Which of the following is a strong electrolyte?",
+      "options": [
+        "Sugar solution",
+        "Sodium chloride solution",
+        "Distilled water",
+        "Alcohol"
+      ],
+      "correct_index": 1,
+      "explanation": "NaCl solution ionises fully.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_097",
+      "text": "A reaction that releases heat to the surroundings is:",
+      "options": [
+        "Exothermic",
+        "Isothermal",
+        "Adiabatic",
+        "Endothermic"
+      ],
+      "correct_index": 0,
+      "explanation": "Exothermic reactions release heat.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_098",
+      "text": "A reaction that absorbs heat from the surroundings is:",
+      "options": [
+        "Isothermal",
+        "Spontaneous",
+        "Exothermic",
+        "Endothermic"
+      ],
+      "correct_index": 3,
+      "explanation": "Endothermic reactions absorb heat.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_099",
+      "text": "Burning of fuel is an example of a(n) ___ reaction.",
+      "options": [
+        "Redox only",
+        "Endothermic",
+        "Exothermic",
+        "Reversible"
+      ],
+      "correct_index": 2,
+      "explanation": "Combustion releases heat (exothermic).",
+      "difficulty": 1
+    },
+    {
+      "id": "che_100",
+      "text": "The enthalpy change, ΔH, for an exothermic reaction is:",
+      "options": [
+        "Negative",
+        "Positive",
+        "Zero",
+        "Infinite"
+      ],
+      "correct_index": 0,
+      "explanation": "Exothermic ΔH < 0.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_101",
+      "text": "The enthalpy change for an endothermic reaction is:",
+      "options": [
+        "Positive",
+        "Zero",
+        "Constant",
+        "Negative"
+      ],
+      "correct_index": 0,
+      "explanation": "Endothermic ΔH > 0.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_102",
+      "text": "Photosynthesis is an example of a(n) ___ reaction.",
+      "options": [
+        "Neutralisation",
+        "Precipitation",
+        "Exothermic",
+        "Endothermic"
+      ],
+      "correct_index": 3,
+      "explanation": "Photosynthesis absorbs energy (endothermic).",
+      "difficulty": 1
+    },
+    {
+      "id": "che_103",
+      "text": "The rate of a chemical reaction increases when:",
+      "options": [
+        "Concentration decreases",
+        "Temperature decreases",
+        "Temperature increases",
+        "Pressure decreases"
+      ],
+      "correct_index": 2,
+      "explanation": "Higher temperature speeds reactions.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_104",
+      "text": "A catalyst speeds up a reaction by:",
+      "options": [
+        "Increasing activation energy",
+        "Lowering activation energy",
+        "Changing the products",
+        "Being consumed"
+      ],
+      "correct_index": 1,
+      "explanation": "Catalysts lower activation energy.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_105",
+      "text": "A catalyst is a substance that:",
+      "options": [
+        "Speeds the reaction without being consumed",
+        "Stops the reaction",
+        "Changes the products",
+        "Is used up in the reaction"
+      ],
+      "correct_index": 0,
+      "explanation": "Catalysts are not consumed.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_106",
+      "text": "Increasing the concentration of reactants generally:",
+      "options": [
+        "Has no effect",
+        "Stops the reaction",
+        "Decreases the rate",
+        "Increases the rate"
+      ],
+      "correct_index": 3,
+      "explanation": "More particles → more collisions → faster rate.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_107",
+      "text": "Increasing the surface area of a solid reactant:",
+      "options": [
+        "Stops the reaction",
+        "Decreases the rate",
+        "Increases the rate",
+        "Has no effect"
+      ],
+      "correct_index": 2,
+      "explanation": "Greater surface area increases contact.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_108",
+      "text": "The minimum energy needed for a reaction to occur is the:",
+      "options": [
+        "Kinetic energy",
+        "Activation energy",
+        "Potential energy",
+        "Bond energy"
+      ],
+      "correct_index": 1,
+      "explanation": "Activation energy is the minimum required energy.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_109",
+      "text": "An enzyme is a biological:",
+      "options": [
+        "Catalyst",
+        "Product",
+        "Solvent",
+        "Reactant"
+      ],
+      "correct_index": 0,
+      "explanation": "Enzymes are biological catalysts.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_110",
+      "text": "Which factor does NOT affect the rate of a reaction?",
+      "options": [
+        "Colour of container",
+        "Surface area",
+        "Temperature",
+        "Concentration"
+      ],
+      "correct_index": 0,
+      "explanation": "Container colour does not affect reaction rate.",
+      "difficulty": 2
+    },
+    {
+      "id": "che_111",
+      "text": "At equilibrium, the rates of the forward and reverse reactions are:",
+      "options": [
+        "Increasing",
+        "Equal",
+        "Different",
+        "Zero"
+      ],
+      "correct_index": 1,
+      "explanation": "At equilibrium, forward and reverse rates are equal.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_112",
+      "text": "A reversible reaction is denoted by:",
+      "options": [
+        "→",
+        "⇌",
+        "=",
+        "≈"
+      ],
+      "correct_index": 1,
+      "explanation": "⇌ indicates a reversible reaction.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_113",
+      "text": "Le Chatelier's principle predicts the effect of:",
+      "options": [
+        "Catalysts only",
+        "Light",
+        "Gravity",
+        "Changing conditions on equilibrium"
+      ],
+      "correct_index": 3,
+      "explanation": "Le Chatelier's principle describes equilibrium shifts.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_114",
+      "text": "Adding more reactant to a system at equilibrium shifts the equilibrium:",
+      "options": [
+        "Not at all",
+        "To zero",
+        "Toward products",
+        "Toward reactants"
+      ],
+      "correct_index": 2,
+      "explanation": "Adding reactant favours the forward (product) direction.",
+      "difficulty": 2
+    },
+    {
+      "id": "che_115",
+      "text": "For an exothermic reaction, increasing temperature shifts equilibrium:",
+      "options": [
+        "Randomly",
+        "Toward reactants",
+        "Toward products",
+        "Not at all"
+      ],
+      "correct_index": 1,
+      "explanation": "Heat is a product; adding heat favours the reverse.",
+      "difficulty": 2
+    },
+    {
+      "id": "che_116",
+      "text": "A catalyst affects equilibrium by:",
+      "options": [
+        "Shifting it",
+        "Reaching it faster",
+        "Stopping it",
+        "Creating products"
+      ],
+      "correct_index": 1,
+      "explanation": "A catalyst reaches equilibrium faster but does not shift it.",
+      "difficulty": 2
+    },
+    {
+      "id": "che_117",
+      "text": "The most electronegative element is:",
+      "options": [
+        "Fluorine",
+        "Chlorine",
+        "Nitrogen",
+        "Oxygen"
+      ],
+      "correct_index": 0,
+      "explanation": "Fluorine is the most electronegative.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_118",
+      "text": "The most abundant non-metal in the Earth's crust is:",
+      "options": [
+        "Carbon",
+        "Silicon",
+        "Nitrogen",
+        "Oxygen"
+      ],
+      "correct_index": 3,
+      "explanation": "Oxygen is the most abundant.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_119",
+      "text": "The halogen in Group 7 with the smallest atomic size is:",
+      "options": [
+        "Fluorine",
+        "Iodine",
+        "Bromine",
+        "Chlorine"
+      ],
+      "correct_index": 0,
+      "explanation": "Fluorine is the smallest halogen.",
+      "difficulty": 2
+    },
+    {
+      "id": "che_120",
+      "text": "The noble gases are in Group:",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "7"
+      ],
+      "correct_index": 0,
+      "explanation": "Noble gases are in Group 0 (18).",
+      "difficulty": 1
+    },
+    {
+      "id": "che_121",
+      "text": "Noble gases are unreactive because they have:",
+      "options": [
+        "A full outer shell",
+        "No electrons",
+        "Only neutrons",
+        "Incomplete outer shells"
+      ],
+      "correct_index": 0,
+      "explanation": "Full outer shells make them stable.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_122",
+      "text": "The gas used in advertising signs (neon lights) is:",
+      "options": [
+        "Hydrogen",
+        "Chlorine",
+        "Neon",
+        "Oxygen"
+      ],
+      "correct_index": 2,
+      "explanation": "Neon glows in discharge tubes.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_123",
+      "text": "The gas produced when a metal reacts with dilute acid is:",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Hydrogen",
+        "Nitrogen"
+      ],
+      "correct_index": 2,
+      "explanation": "Metal + acid → salt + hydrogen.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_124",
+      "text": "Carbon dioxide turns limewater:",
+      "options": [
+        "Blue",
+        "Milky",
+        "Red",
+        "Yellow"
+      ],
+      "correct_index": 1,
+      "explanation": "CO₂ turns limewater milky.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_125",
+      "text": "The gas that relights a glowing splint is:",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "CO₂",
+        "Hydrogen"
+      ],
+      "correct_index": 0,
+      "explanation": "Oxygen relights a glowing splint.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_126",
+      "text": "The gas that gives a 'pop' with a lit splint is:",
+      "options": [
+        "CO₂",
+        "Nitrogen",
+        "Oxygen",
+        "Hydrogen"
+      ],
+      "correct_index": 3,
+      "explanation": "Hydrogen burns with a pop.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_127",
+      "text": "Which metal is the most reactive?",
+      "options": [
+        "Silver",
+        "Gold",
+        "Potassium",
+        "Copper"
+      ],
+      "correct_index": 2,
+      "explanation": "Potassium is at the top of the reactivity series.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_128",
+      "text": "Which metal is the least reactive?",
+      "options": [
+        "Gold",
+        "Sodium",
+        "Iron",
+        "Zinc"
+      ],
+      "correct_index": 0,
+      "explanation": "Gold is very unreactive.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_129",
+      "text": "The process of extracting a metal from its ore is:",
+      "options": [
+        "Metallurgy",
+        "Electrolysis only",
+        "Chromatography",
+        "Distillation"
+      ],
+      "correct_index": 0,
+      "explanation": "Metallurgy is extraction of metals.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_130",
+      "text": "Rusting of iron requires:",
+      "options": [
+        "Nitrogen",
+        "Helium",
+        "Oxygen and water",
+        "Carbon dioxide only"
+      ],
+      "correct_index": 2,
+      "explanation": "Rusting needs O₂ and water.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_131",
+      "text": "Rusting of iron can be prevented by:",
+      "options": [
+        "Heating",
+        "Exposing to air",
+        "Galvanising",
+        "Adding water"
+      ],
+      "correct_index": 2,
+      "explanation": "Galvanising (zinc coating) prevents rusting.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_132",
+      "text": "An alloy is a mixture of:",
+      "options": [
+        "Two or more metals (or metal + non-metal)",
+        "Two non-metals",
+        "A metal and water",
+        "Two gases"
+      ],
+      "correct_index": 0,
+      "explanation": "Alloys are metallic mixtures.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_133",
+      "text": "Bronze is an alloy of:",
+      "options": [
+        "Iron and carbon",
+        "Copper and zinc",
+        "Lead and tin",
+        "Copper and tin"
+      ],
+      "correct_index": 3,
+      "explanation": "Bronze = copper + tin.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_134",
+      "text": "Brass is an alloy of:",
+      "options": [
+        "Iron and carbon",
+        "Aluminium and copper",
+        "Copper and zinc",
+        "Copper and tin"
+      ],
+      "correct_index": 2,
+      "explanation": "Brass = copper + zinc.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_135",
+      "text": "Steel is an alloy of:",
+      "options": [
+        "Lead and tin",
+        "Iron and carbon",
+        "Copper and tin",
+        "Aluminium and zinc"
+      ],
+      "correct_index": 1,
+      "explanation": "Steel = iron + carbon.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_136",
+      "text": "Which metal is extracted by electrolysis of its molten ore?",
+      "options": [
+        "Gold",
+        "Aluminium",
+        "Copper",
+        "Silver"
+      ],
+      "correct_index": 1,
+      "explanation": "Aluminium is extracted by electrolysis.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_137",
+      "text": "Organic chemistry is the study of compounds of:",
+      "options": [
+        "Carbon",
+        "Nitrogen",
+        "Hydrogen only",
+        "Oxygen"
+      ],
+      "correct_index": 0,
+      "explanation": "Organic chemistry studies carbon compounds.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_138",
+      "text": "The simplest hydrocarbon is:",
+      "options": [
+        "Propane",
+        "Butane",
+        "Ethane",
+        "Methane"
+      ],
+      "correct_index": 3,
+      "explanation": "Methane (CH₄) is the simplest hydrocarbon.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_139",
+      "text": "The general formula for alkanes is:",
+      "options": [
+        "CₙH₂ₙ₊₁",
+        "CₙH₂ₙ₊₂",
+        "CₙH₂ₙ",
+        "CₙH₂ₙ₋₂"
+      ],
+      "correct_index": 1,
+      "explanation": "Alkanes: CₙH₂ₙ₊₂.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_140",
+      "text": "The general formula for alkenes is:",
+      "options": [
+        "CₙH₂ₙ₊₂",
+        "CₙH₂ₙ",
+        "CₙH₂ₙ₋₂",
+        "CₙH₂ₙ₊₁"
+      ],
+      "correct_index": 1,
+      "explanation": "Alkenes: CₙH₂ₙ.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_141",
+      "text": "The general formula for alkynes is:",
+      "options": [
+        "CₙH₂ₙ",
+        "CₙH₂ₙ₋₂",
+        "CₙH₂ₙ₊₁",
+        "CₙH₂ₙ₊₂"
+      ],
+      "correct_index": 1,
+      "explanation": "Alkynes: CₙH₂ₙ₋₂.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_142",
+      "text": "Alkanes are saturated hydrocarbons, meaning they contain only:",
+      "options": [
+        "Triple bonds",
+        "Benzene rings",
+        "Double bonds",
+        "Single bonds"
+      ],
+      "correct_index": 3,
+      "explanation": "Saturated = single bonds only.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_143",
+      "text": "Alkenes contain at least one:",
+      "options": [
+        "Ionic bond",
+        "Single bond",
+        "Double bond",
+        "Triple bond"
+      ],
+      "correct_index": 2,
+      "explanation": "Alkenes have a C=C double bond.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_144",
+      "text": "The functional group of alcohols is:",
+      "options": [
+        "−COOH",
+        "−OH",
+        "−CHO",
+        "−NH₂"
+      ],
+      "correct_index": 1,
+      "explanation": "Alcohols contain −OH.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_145",
+      "text": "The functional group of carboxylic acids is:",
+      "options": [
+        "−COOH",
+        "−CHO",
+        "−CO",
+        "−OH"
+      ],
+      "correct_index": 0,
+      "explanation": "Carboxylic acids contain −COOH.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_146",
+      "text": "The functional group of aldehydes is:",
+      "options": [
+        "−CHO",
+        "−NH₂",
+        "−OH",
+        "−COOH"
+      ],
+      "correct_index": 0,
+      "explanation": "Aldehydes contain −CHO.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_147",
+      "text": "The functional group of ketones is:",
+      "options": [
+        ">C=O",
+        "−OH",
+        "−COOH",
+        "−CHO"
+      ],
+      "correct_index": 0,
+      "explanation": "Ketones contain a carbonyl >C=O.",
+      "difficulty": 2
+    },
+    {
+      "id": "che_148",
+      "text": "Ethanol is produced from sugars by:",
+      "options": [
+        "Fermentation",
+        "Distillation",
+        "Electrolysis",
+        "Combustion"
+      ],
+      "correct_index": 0,
+      "explanation": "Fermentation of sugar yields ethanol.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_149",
+      "text": "The monomer of polythene is:",
+      "options": [
+        "Ethene",
+        "Butene",
+        "Ethane",
+        "Propene"
+      ],
+      "correct_index": 0,
+      "explanation": "Polythene is polymerised ethene.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_150",
+      "text": "The process of joining monomers to form polymers is:",
+      "options": [
+        "Isomerism",
+        "Fermentation",
+        "Cracking",
+        "Polymerisation"
+      ],
+      "correct_index": 3,
+      "explanation": "Polymerisation joins monomers.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_151",
+      "text": "Compounds with the same molecular formula but different structures are:",
+      "options": [
+        "Polymers",
+        "Isotopes",
+        "Isomers",
+        "Allotropes"
+      ],
+      "correct_index": 2,
+      "explanation": "Isomers share a formula but differ in structure.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_152",
+      "text": "The Haber process is used to manufacture:",
+      "options": [
+        "Sulphuric acid",
+        "Ammonia",
+        "Nitric acid",
+        "Soap"
+      ],
+      "correct_index": 1,
+      "explanation": "Haber process: N₂ + 3H₂ ⇌ 2NH₃.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_153",
+      "text": "The Contact process manufactures:",
+      "options": [
+        "Sulphuric acid",
+        "Hydrochloric acid",
+        "Soap",
+        "Ammonia"
+      ],
+      "correct_index": 0,
+      "explanation": "Contact process makes H₂SO₄.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_154",
+      "text": "Soap is made by the saponification of:",
+      "options": [
+        "Alkanes",
+        "Acids only",
+        "Alcohols",
+        "Fats and oils with alkali"
+      ],
+      "correct_index": 3,
+      "explanation": "Saponification: fat/oil + alkali → soap + glycerol.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_155",
+      "text": "The catalyst used in the Haber process is:",
+      "options": [
+        "Copper",
+        "Platinum",
+        "Iron",
+        "Nickel"
+      ],
+      "correct_index": 2,
+      "explanation": "Finely divided iron catalyses the Haber process.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_156",
+      "text": "The catalyst used in the Contact process is:",
+      "options": [
+        "Iron",
+        "Vanadium(V) oxide",
+        "Nickel",
+        "Platinum"
+      ],
+      "correct_index": 1,
+      "explanation": "Vanadium(V) oxide catalyses the Contact process.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_157",
+      "text": "Plastics and synthetic fibres are examples of:",
+      "options": [
+        "Polymers",
+        "Isomers",
+        "Ores",
+        "Monomers"
+      ],
+      "correct_index": 0,
+      "explanation": "Plastics are polymers.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_158",
+      "text": "The main component of natural gas is:",
+      "options": [
+        "Propane",
+        "Butane",
+        "Ethane",
+        "Methane"
+      ],
+      "correct_index": 3,
+      "explanation": "Natural gas is mainly methane.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_159",
+      "text": "Crude oil is separated into fractions by:",
+      "options": [
+        "Sublimation",
+        "Fractional distillation",
+        "Filtration",
+        "Crystallisation"
+      ],
+      "correct_index": 1,
+      "explanation": "Fractional distillation separates crude oil.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_160",
+      "text": "The symbol for the element sodium is:",
+      "options": [
+        "S",
+        "Na",
+        "So",
+        "Sn"
+      ],
+      "correct_index": 1,
+      "explanation": "Sodium's symbol is Na (from natrium).",
+      "difficulty": 1
+    },
+    {
+      "id": "che_161",
+      "text": "The symbol for potassium is:",
+      "options": [
+        "K",
+        "Po",
+        "Pt",
+        "P"
+      ],
+      "correct_index": 0,
+      "explanation": "Potassium's symbol is K (kalium).",
+      "difficulty": 1
+    },
+    {
+      "id": "che_162",
+      "text": "The symbol for iron is:",
+      "options": [
+        "Ir",
+        "In",
+        "I",
+        "Fe"
+      ],
+      "correct_index": 3,
+      "explanation": "Iron's symbol is Fe (ferrum).",
+      "difficulty": 1
+    },
+    {
+      "id": "che_163",
+      "text": "The symbol for gold is:",
+      "options": [
+        "Go",
+        "G",
+        "Au",
+        "Ag"
+      ],
+      "correct_index": 2,
+      "explanation": "Gold's symbol is Au (aurum).",
+      "difficulty": 1
+    },
+    {
+      "id": "che_164",
+      "text": "The symbol for silver is:",
+      "options": [
+        "S",
+        "Ag",
+        "Si",
+        "Sv"
+      ],
+      "correct_index": 1,
+      "explanation": "Silver's symbol is Ag (argentum).",
+      "difficulty": 1
+    },
+    {
+      "id": "che_165",
+      "text": "The symbol for lead is:",
+      "options": [
+        "Pb",
+        "Le",
+        "Ld",
+        "L"
+      ],
+      "correct_index": 0,
+      "explanation": "Lead's symbol is Pb (plumbum).",
+      "difficulty": 1
+    },
+    {
+      "id": "che_166",
+      "text": "The chemical formula for table salt is:",
+      "options": [
+        "Na₂CO₃",
+        "CaCl₂",
+        "NaCl",
+        "KCl"
+      ],
+      "correct_index": 2,
+      "explanation": "Table salt is NaCl.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_167",
+      "text": "The chemical formula for baking soda is:",
+      "options": [
+        "NaOH",
+        "NaHCO₃",
+        "NaCl",
+        "Na₂CO₃"
+      ],
+      "correct_index": 1,
+      "explanation": "Baking soda is sodium hydrogen carbonate, NaHCO₃.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_168",
+      "text": "The chemical formula for limestone is:",
+      "options": [
+        "CaCO₃",
+        "CaO",
+        "Ca(OH)₂",
+        "CaCl₂"
+      ],
+      "correct_index": 0,
+      "explanation": "Limestone is calcium carbonate, CaCO₃.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_169",
+      "text": "The gas produced when limestone is heated strongly is:",
+      "options": [
+        "Carbon dioxide",
+        "Hydrogen",
+        "Nitrogen",
+        "Oxygen"
+      ],
+      "correct_index": 0,
+      "explanation": "CaCO₃ → CaO + CO₂.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_170",
+      "text": "The melting of ice is an example of a:",
+      "options": [
+        "Redox reaction",
+        "Combustion",
+        "Chemical change",
+        "Physical change"
+      ],
+      "correct_index": 3,
+      "explanation": "Melting changes state only (physical).",
+      "difficulty": 1
+    },
+    {
+      "id": "che_171",
+      "text": "Which of these is a chemical change?",
+      "options": [
+        "Boiling",
+        "Melting",
+        "Rusting",
+        "Freezing"
+      ],
+      "correct_index": 2,
+      "explanation": "Rusting forms a new substance (chemical).",
+      "difficulty": 1
+    },
+    {
+      "id": "che_172",
+      "text": "The process by which a liquid becomes a gas at its surface is:",
+      "options": [
+        "Boiling",
+        "Evaporation",
+        "Sublimation",
+        "Condensation"
+      ],
+      "correct_index": 1,
+      "explanation": "Evaporation occurs at the surface.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_173",
+      "text": "The process by which a gas becomes a liquid is:",
+      "options": [
+        "Condensation",
+        "Sublimation",
+        "Freezing",
+        "Evaporation"
+      ],
+      "correct_index": 0,
+      "explanation": "Condensation = gas → liquid.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_174",
+      "text": "The density of a substance equals:",
+      "options": [
+        "Mass × volume",
+        "Weight/area",
+        "Mass/volume",
+        "Volume/mass"
+      ],
+      "correct_index": 2,
+      "explanation": "Density = mass/volume.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_175",
+      "text": "The relative molecular mass of CO₂ is (C=12, O=16):",
+      "options": [
+        "32",
+        "44",
+        "28",
+        "22"
+      ],
+      "correct_index": 1,
+      "explanation": "12 + 2×16 = 44.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_176",
+      "text": "The number of atoms in one molecule of H₂SO₄ is:",
+      "options": [
+        "7",
+        "6",
+        "5",
+        "8"
+      ],
+      "correct_index": 0,
+      "explanation": "2 H + 1 S + 4 O = 7 atoms.",
+      "difficulty": 2
+    },
+    {
+      "id": "che_177",
+      "text": "The charge on a proton is:",
+      "options": [
+        "Negative",
+        "Neutral",
+        "Variable",
+        "Positive"
+      ],
+      "correct_index": 3,
+      "explanation": "Protons are positively charged.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_178",
+      "text": "The charge on an electron is:",
+      "options": [
+        "Neutral",
+        "Variable",
+        "Positive",
+        "Negative"
+      ],
+      "correct_index": 3,
+      "explanation": "Electrons are negatively charged.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_179",
+      "text": "The pH scale ranges from:",
+      "options": [
+        "1 to 14",
+        "0 to 14",
+        "1 to 10",
+        "0 to 7"
+      ],
+      "correct_index": 1,
+      "explanation": "pH ranges 0–14.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_180",
+      "text": "The molecular formula of ethane is:",
+      "options": [
+        "C₂H₆",
+        "C₂H₄",
+        "C₂H₂",
+        "CH₄"
+      ],
+      "correct_index": 0,
+      "explanation": "Ethane is C₂H₆.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_181",
+      "text": "The molecular formula of ethene is:",
+      "options": [
+        "C₂H₄",
+        "C₂H₂",
+        "CH₄",
+        "C₂H₆"
+      ],
+      "correct_index": 0,
+      "explanation": "Ethene is C₂H₄.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_182",
+      "text": "The molecular formula of ethyne (acetylene) is:",
+      "options": [
+        "C₂H₂",
+        "CH₄",
+        "C₂H₆",
+        "C₂H₄"
+      ],
+      "correct_index": 0,
+      "explanation": "Ethyne is C₂H₂.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_183",
+      "text": "The IUPAC name of CH₃CH₂CH₃ is:",
+      "options": [
+        "Pentane",
+        "Propane",
+        "Butane",
+        "Ethane"
+      ],
+      "correct_index": 1,
+      "explanation": "Three carbons = propane.",
+      "difficulty": 2
+    },
+    {
+      "id": "che_184",
+      "text": "The IUPAC name of CH₃COOH is:",
+      "options": [
+        "Methanol",
+        "Ethanoic acid",
+        "Ethanol",
+        "Methanoic acid"
+      ],
+      "correct_index": 1,
+      "explanation": "CH₃COOH is ethanoic (acetic) acid.",
+      "difficulty": 2
+    },
+    {
+      "id": "che_185",
+      "text": "The IUPAC name of C₂H₅OH is:",
+      "options": [
+        "Ethanol",
+        "Propanol",
+        "Ethanal",
+        "Methanol"
+      ],
+      "correct_index": 0,
+      "explanation": "C₂H₅OH is ethanol.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_186",
+      "text": "The gas used to extinguish fires is often:",
+      "options": [
+        "Hydrogen",
+        "Helium",
+        "Oxygen",
+        "Carbon dioxide"
+      ],
+      "correct_index": 3,
+      "explanation": "CO₂ does not support combustion.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_187",
+      "text": "The gas that is lighter than air and used in balloons is:",
+      "options": [
+        "Chlorine",
+        "Hydrogen",
+        "Oxygen",
+        "CO₂"
+      ],
+      "correct_index": 1,
+      "explanation": "Hydrogen (or helium) is lighter than air.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_188",
+      "text": "The element with atomic number 6 is:",
+      "options": [
+        "Nitrogen",
+        "Carbon",
+        "Oxygen",
+        "Boron"
+      ],
+      "correct_index": 1,
+      "explanation": "Carbon has atomic number 6.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_189",
+      "text": "The element with atomic number 8 is:",
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Fluorine",
+        "Carbon"
+      ],
+      "correct_index": 1,
+      "explanation": "Oxygen has atomic number 8.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_190",
+      "text": "The element with atomic number 20 is:",
+      "options": [
+        "Sodium",
+        "Magnesium",
+        "Calcium",
+        "Potassium"
+      ],
+      "correct_index": 2,
+      "explanation": "Calcium has atomic number 20.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_191",
+      "text": "The group number of the alkali metals is:",
+      "options": [
+        "Group 0",
+        "Group 1",
+        "Group 2",
+        "Group 7"
+      ],
+      "correct_index": 1,
+      "explanation": "Alkali metals are Group 1.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_192",
+      "text": "The group number of the alkaline earth metals is:",
+      "options": [
+        "Group 1",
+        "Group 2",
+        "Group 7",
+        "Group 0"
+      ],
+      "correct_index": 1,
+      "explanation": "Alkaline earth metals are Group 2.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_193",
+      "text": "The group number of the halogens is:",
+      "options": [
+        "Group 2",
+        "Group 7",
+        "Group 0",
+        "Group 1"
+      ],
+      "correct_index": 1,
+      "explanation": "Halogens are Group 7 (17).",
+      "difficulty": 1
+    },
+    {
+      "id": "che_194",
+      "text": "The group number of the noble gases is:",
+      "options": [
+        "Group 7",
+        "Group 0",
+        "Group 1",
+        "Group 2"
+      ],
+      "correct_index": 1,
+      "explanation": "Noble gases are Group 0 (18).",
+      "difficulty": 1
+    },
+    {
+      "id": "che_195",
+      "text": "Which element is a metalloid?",
+      "options": [
+        "Chlorine",
+        "Sodium",
+        "Silicon",
+        "Magnesium"
+      ],
+      "correct_index": 2,
+      "explanation": "Silicon is a metalloid (semiconductor).",
+      "difficulty": 2
+    },
+    {
+      "id": "che_196",
+      "text": "The bond in a molecule of hydrogen (H₂) is:",
+      "options": [
+        "Ionic",
+        "Covalent",
+        "Metallic",
+        "Hydrogen"
+      ],
+      "correct_index": 1,
+      "explanation": "H₂ shares electrons (covalent).",
+      "difficulty": 1
+    },
+    {
+      "id": "che_197",
+      "text": "The bond in sodium chloride is:",
+      "options": [
+        "Ionic",
+        "Metallic",
+        "Hydrogen",
+        "Covalent"
+      ],
+      "correct_index": 0,
+      "explanation": "NaCl has ionic bonding.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_198",
+      "text": "The bond between metal atoms in a metal is:",
+      "options": [
+        "Metallic",
+        "Hydrogen",
+        "Ionic",
+        "Covalent"
+      ],
+      "correct_index": 0,
+      "explanation": "Metals have metallic bonding (sea of electrons).",
+      "difficulty": 1
+    },
+    {
+      "id": "che_199",
+      "text": "The SI unit of amount of substance is the:",
+      "options": [
+        "Kilogram",
+        "Mole",
+        "Gram",
+        "Litre"
+      ],
+      "correct_index": 1,
+      "explanation": "Amount of substance is in moles.",
+      "difficulty": 1
+    },
+    {
+      "id": "che_200",
+      "text": "One mole of a gas at STP occupies:",
+      "options": [
+        "22.4 dm³",
+        "11.2 dm³",
+        "44.8 dm³",
+        "1 dm³"
+      ],
+      "correct_index": 0,
+      "explanation": "Molar volume at STP = 22.4 dm³.",
+      "difficulty": 1
+    }
+  ]
+}

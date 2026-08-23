@@ -1,0 +1,2607 @@
+{
+  "course_id": "cve",
+  "course_name": "Civic Education",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "cve_001",
+      "text": "Citizenship by birth is acquired through:",
+      "options": [
+        "Place of birth and parentage",
+        "Registration",
+        "Honorary award",
+        "Naturalization"
+      ],
+      "correct_index": 0,
+      "explanation": "Citizenship by birth is place and parentage.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_002",
+      "text": "The Nigerian flag green represents:",
+      "options": [
+        "Blood",
+        "Sun",
+        "Peace",
+        "Agriculture"
+      ],
+      "correct_index": 3,
+      "explanation": "Green agriculture.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_003",
+      "text": "Human rights are:",
+      "options": [
+        "Temporary gifts",
+        "Privileges for leaders",
+        "Inherent entitlements of all humans",
+        "Given by employers"
+      ],
+      "correct_index": 2,
+      "explanation": "Human rights inherent.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_004",
+      "text": "Rule of law means:",
+      "options": [
+        "Law applies equally to all",
+        "Leaders above law",
+        "Law favours rich",
+        "Law optional"
+      ],
+      "correct_index": 0,
+      "explanation": "Equality before law.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_005",
+      "text": "Drug abuse is:",
+      "options": [
+        "Misuse for non-medical purposes",
+        "Prescribed use",
+        "Avoiding drugs",
+        "Proper use"
+      ],
+      "correct_index": 0,
+      "explanation": "Drug abuse misuse.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_006",
+      "text": "FRSC means:",
+      "options": [
+        "Only road",
+        "Only safety",
+        "Federal Road Safety Corps",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "FRSC Federal Road Safety Corps.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_007",
+      "text": "Traffic light red means:",
+      "options": [
+        "Park",
+        "Stop",
+        "Go",
+        "Get ready"
+      ],
+      "correct_index": 1,
+      "explanation": "Red stop.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_008",
+      "text": "Democracy is government of the people, by the people and:",
+      "options": [
+        "For the people",
+        "For army",
+        "For rich",
+        "For foreigners"
+      ],
+      "correct_index": 0,
+      "explanation": "For the people.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_009",
+      "text": "Political apathy means:",
+      "options": [
+        "Active participation",
+        "Voting always",
+        "Joining parties",
+        "Lack of interest in politics"
+      ],
+      "correct_index": 3,
+      "explanation": "Apathy lack interest.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_010",
+      "text": "INEC stands for:",
+      "options": [
+        "International Network",
+        "No meaning",
+        "Independent National Electoral Commission",
+        "Internal Council"
+      ],
+      "correct_index": 2,
+      "explanation": "INEC Independent National Electoral Commission.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_011",
+      "text": "A good leader should be:",
+      "options": [
+        "Dictatorial",
+        "Honest and accountable",
+        "Corrupt",
+        "Selfish"
+      ],
+      "correct_index": 1,
+      "explanation": "Honest accountable.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_012",
+      "text": "NYSC was established to promote:",
+      "options": [
+        "National unity",
+        "Tribalism",
+        "Disunity",
+        "War"
+      ],
+      "correct_index": 0,
+      "explanation": "NYSC unity.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_013",
+      "text": "The Nigerian constitution guarantees:",
+      "options": [
+        "Right to steal",
+        "Right to kill",
+        "Right to cheat",
+        "Fundamental human rights"
+      ],
+      "correct_index": 3,
+      "explanation": "Guarantees human rights.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_014",
+      "text": "EFCC fights:",
+      "options": [
+        "Drug",
+        "No corruption",
+        "Corruption",
+        "Road safety"
+      ],
+      "correct_index": 2,
+      "explanation": "EFCC corruption.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_015",
+      "text": "The Nigerian flag was designed by:",
+      "options": [
+        "Bello",
+        "Taiwo Akinkunmi",
+        "Azikiwe",
+        "Awolowo"
+      ],
+      "correct_index": 1,
+      "explanation": "Akinkunmi.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_016",
+      "text": "The national anthem was adopted in:",
+      "options": [
+        "1978",
+        "1960",
+        "1999",
+        "2005"
+      ],
+      "correct_index": 0,
+      "explanation": "Anthem 1978.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_017",
+      "text": "The Senate has:",
+      "options": [
+        "360",
+        "100",
+        "50",
+        "109 members"
+      ],
+      "correct_index": 3,
+      "explanation": "Senate 109.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_018",
+      "text": "The House has:",
+      "options": [
+        "100",
+        "50",
+        "360 members",
+        "109"
+      ],
+      "correct_index": 2,
+      "explanation": "House 360.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_019",
+      "text": "The press is called fourth estate because it:",
+      "options": [
+        "Fights wars",
+        "Informs and checks government",
+        "Makes laws",
+        "Executes laws"
+      ],
+      "correct_index": 1,
+      "explanation": "Press informs checks.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_020",
+      "text": "Patriotism means:",
+      "options": [
+        "Love for country",
+        "Hatred",
+        "Betrayal",
+        "Indifference"
+      ],
+      "correct_index": 0,
+      "explanation": "Love for country.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_021",
+      "text": "Citizenship by birth is acquired through: (variant 21)",
+      "options": [
+        "Place of birth and parentage",
+        "Registration",
+        "Honorary award",
+        "Naturalization"
+      ],
+      "correct_index": 0,
+      "explanation": "Citizenship by birth is place and parentage.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_022",
+      "text": "The Nigerian flag green represents: (variant 22)",
+      "options": [
+        "Blood",
+        "Sun",
+        "Peace",
+        "Agriculture"
+      ],
+      "correct_index": 3,
+      "explanation": "Green agriculture.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_023",
+      "text": "Human rights are: (variant 23)",
+      "options": [
+        "Temporary gifts",
+        "Privileges for leaders",
+        "Inherent entitlements of all humans",
+        "Given by employers"
+      ],
+      "correct_index": 2,
+      "explanation": "Human rights inherent.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_024",
+      "text": "Rule of law means: (variant 24)",
+      "options": [
+        "Law applies equally to all",
+        "Leaders above law",
+        "Law favours rich",
+        "Law optional"
+      ],
+      "correct_index": 0,
+      "explanation": "Equality before law.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_025",
+      "text": "Drug abuse is: (variant 25)",
+      "options": [
+        "Misuse for non-medical purposes",
+        "Prescribed use",
+        "Avoiding drugs",
+        "Proper use"
+      ],
+      "correct_index": 0,
+      "explanation": "Drug abuse misuse.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_026",
+      "text": "FRSC means: (variant 26)",
+      "options": [
+        "Only road",
+        "Only safety",
+        "Federal Road Safety Corps",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "FRSC Federal Road Safety Corps.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_027",
+      "text": "Traffic light red means: (variant 27)",
+      "options": [
+        "Park",
+        "Stop",
+        "Go",
+        "Get ready"
+      ],
+      "correct_index": 1,
+      "explanation": "Red stop.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_028",
+      "text": "Democracy is government of the people, by the people and: (variant 28)",
+      "options": [
+        "For the people",
+        "For army",
+        "For rich",
+        "For foreigners"
+      ],
+      "correct_index": 0,
+      "explanation": "For the people.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_029",
+      "text": "Political apathy means: (variant 29)",
+      "options": [
+        "Active participation",
+        "Voting always",
+        "Joining parties",
+        "Lack of interest in politics"
+      ],
+      "correct_index": 3,
+      "explanation": "Apathy lack interest.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_030",
+      "text": "INEC stands for: (variant 30)",
+      "options": [
+        "International Network",
+        "No meaning",
+        "Independent National Electoral Commission",
+        "Internal Council"
+      ],
+      "correct_index": 2,
+      "explanation": "INEC Independent National Electoral Commission.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_031",
+      "text": "A good leader should be: (variant 31)",
+      "options": [
+        "Dictatorial",
+        "Honest and accountable",
+        "Corrupt",
+        "Selfish"
+      ],
+      "correct_index": 1,
+      "explanation": "Honest accountable.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_032",
+      "text": "NYSC was established to promote: (variant 32)",
+      "options": [
+        "National unity",
+        "Tribalism",
+        "Disunity",
+        "War"
+      ],
+      "correct_index": 0,
+      "explanation": "NYSC unity.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_033",
+      "text": "The Nigerian constitution guarantees: (variant 33)",
+      "options": [
+        "Right to steal",
+        "Right to kill",
+        "Right to cheat",
+        "Fundamental human rights"
+      ],
+      "correct_index": 3,
+      "explanation": "Guarantees human rights.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_034",
+      "text": "EFCC fights: (variant 34)",
+      "options": [
+        "Drug",
+        "No corruption",
+        "Corruption",
+        "Road safety"
+      ],
+      "correct_index": 2,
+      "explanation": "EFCC corruption.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_035",
+      "text": "The Nigerian flag was designed by: (variant 35)",
+      "options": [
+        "Bello",
+        "Taiwo Akinkunmi",
+        "Azikiwe",
+        "Awolowo"
+      ],
+      "correct_index": 1,
+      "explanation": "Akinkunmi.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_036",
+      "text": "The national anthem was adopted in: (variant 36)",
+      "options": [
+        "1978",
+        "1960",
+        "1999",
+        "2005"
+      ],
+      "correct_index": 0,
+      "explanation": "Anthem 1978.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_037",
+      "text": "The Senate has: (variant 37)",
+      "options": [
+        "360",
+        "100",
+        "50",
+        "109 members"
+      ],
+      "correct_index": 3,
+      "explanation": "Senate 109.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_038",
+      "text": "The House has: (variant 38)",
+      "options": [
+        "100",
+        "50",
+        "360 members",
+        "109"
+      ],
+      "correct_index": 2,
+      "explanation": "House 360.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_039",
+      "text": "The press is called fourth estate because it: (variant 39)",
+      "options": [
+        "Fights wars",
+        "Informs and checks government",
+        "Makes laws",
+        "Executes laws"
+      ],
+      "correct_index": 1,
+      "explanation": "Press informs checks.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_040",
+      "text": "Patriotism means: (variant 40)",
+      "options": [
+        "Love for country",
+        "Hatred",
+        "Betrayal",
+        "Indifference"
+      ],
+      "correct_index": 0,
+      "explanation": "Love for country.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_041",
+      "text": "Citizenship by birth is acquired through: (variant 41)",
+      "options": [
+        "Place of birth and parentage",
+        "Registration",
+        "Honorary award",
+        "Naturalization"
+      ],
+      "correct_index": 0,
+      "explanation": "Citizenship by birth is place and parentage.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_042",
+      "text": "The Nigerian flag green represents: (variant 42)",
+      "options": [
+        "Blood",
+        "Sun",
+        "Peace",
+        "Agriculture"
+      ],
+      "correct_index": 3,
+      "explanation": "Green agriculture.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_043",
+      "text": "Human rights are: (variant 43)",
+      "options": [
+        "Temporary gifts",
+        "Privileges for leaders",
+        "Inherent entitlements of all humans",
+        "Given by employers"
+      ],
+      "correct_index": 2,
+      "explanation": "Human rights inherent.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_044",
+      "text": "Rule of law means: (variant 44)",
+      "options": [
+        "Law applies equally to all",
+        "Leaders above law",
+        "Law favours rich",
+        "Law optional"
+      ],
+      "correct_index": 0,
+      "explanation": "Equality before law.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_045",
+      "text": "Drug abuse is: (variant 45)",
+      "options": [
+        "Misuse for non-medical purposes",
+        "Prescribed use",
+        "Avoiding drugs",
+        "Proper use"
+      ],
+      "correct_index": 0,
+      "explanation": "Drug abuse misuse.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_046",
+      "text": "FRSC means: (variant 46)",
+      "options": [
+        "Only road",
+        "Only safety",
+        "Federal Road Safety Corps",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "FRSC Federal Road Safety Corps.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_047",
+      "text": "Traffic light red means: (variant 47)",
+      "options": [
+        "Park",
+        "Stop",
+        "Go",
+        "Get ready"
+      ],
+      "correct_index": 1,
+      "explanation": "Red stop.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_048",
+      "text": "Democracy is government of the people, by the people and: (variant 48)",
+      "options": [
+        "For the people",
+        "For army",
+        "For rich",
+        "For foreigners"
+      ],
+      "correct_index": 0,
+      "explanation": "For the people.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_049",
+      "text": "Political apathy means: (variant 49)",
+      "options": [
+        "Active participation",
+        "Voting always",
+        "Joining parties",
+        "Lack of interest in politics"
+      ],
+      "correct_index": 3,
+      "explanation": "Apathy lack interest.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_050",
+      "text": "INEC stands for: (variant 50)",
+      "options": [
+        "International Network",
+        "No meaning",
+        "Independent National Electoral Commission",
+        "Internal Council"
+      ],
+      "correct_index": 2,
+      "explanation": "INEC Independent National Electoral Commission.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_051",
+      "text": "A good leader should be: (variant 51)",
+      "options": [
+        "Dictatorial",
+        "Honest and accountable",
+        "Corrupt",
+        "Selfish"
+      ],
+      "correct_index": 1,
+      "explanation": "Honest accountable.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_052",
+      "text": "NYSC was established to promote: (variant 52)",
+      "options": [
+        "National unity",
+        "Tribalism",
+        "Disunity",
+        "War"
+      ],
+      "correct_index": 0,
+      "explanation": "NYSC unity.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_053",
+      "text": "The Nigerian constitution guarantees: (variant 53)",
+      "options": [
+        "Right to steal",
+        "Right to kill",
+        "Right to cheat",
+        "Fundamental human rights"
+      ],
+      "correct_index": 3,
+      "explanation": "Guarantees human rights.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_054",
+      "text": "EFCC fights: (variant 54)",
+      "options": [
+        "Drug",
+        "No corruption",
+        "Corruption",
+        "Road safety"
+      ],
+      "correct_index": 2,
+      "explanation": "EFCC corruption.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_055",
+      "text": "The Nigerian flag was designed by: (variant 55)",
+      "options": [
+        "Bello",
+        "Taiwo Akinkunmi",
+        "Azikiwe",
+        "Awolowo"
+      ],
+      "correct_index": 1,
+      "explanation": "Akinkunmi.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_056",
+      "text": "The national anthem was adopted in: (variant 56)",
+      "options": [
+        "1978",
+        "1960",
+        "1999",
+        "2005"
+      ],
+      "correct_index": 0,
+      "explanation": "Anthem 1978.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_057",
+      "text": "The Senate has: (variant 57)",
+      "options": [
+        "360",
+        "100",
+        "50",
+        "109 members"
+      ],
+      "correct_index": 3,
+      "explanation": "Senate 109.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_058",
+      "text": "The House has: (variant 58)",
+      "options": [
+        "100",
+        "50",
+        "360 members",
+        "109"
+      ],
+      "correct_index": 2,
+      "explanation": "House 360.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_059",
+      "text": "The press is called fourth estate because it: (variant 59)",
+      "options": [
+        "Fights wars",
+        "Informs and checks government",
+        "Makes laws",
+        "Executes laws"
+      ],
+      "correct_index": 1,
+      "explanation": "Press informs checks.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_060",
+      "text": "Patriotism means: (variant 60)",
+      "options": [
+        "Love for country",
+        "Hatred",
+        "Betrayal",
+        "Indifference"
+      ],
+      "correct_index": 0,
+      "explanation": "Love for country.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_061",
+      "text": "Citizenship by birth is acquired through: (variant 61)",
+      "options": [
+        "Place of birth and parentage",
+        "Registration",
+        "Honorary award",
+        "Naturalization"
+      ],
+      "correct_index": 0,
+      "explanation": "Citizenship by birth is place and parentage.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_062",
+      "text": "The Nigerian flag green represents: (variant 62)",
+      "options": [
+        "Blood",
+        "Sun",
+        "Peace",
+        "Agriculture"
+      ],
+      "correct_index": 3,
+      "explanation": "Green agriculture.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_063",
+      "text": "Human rights are: (variant 63)",
+      "options": [
+        "Temporary gifts",
+        "Privileges for leaders",
+        "Inherent entitlements of all humans",
+        "Given by employers"
+      ],
+      "correct_index": 2,
+      "explanation": "Human rights inherent.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_064",
+      "text": "Rule of law means: (variant 64)",
+      "options": [
+        "Law applies equally to all",
+        "Leaders above law",
+        "Law favours rich",
+        "Law optional"
+      ],
+      "correct_index": 0,
+      "explanation": "Equality before law.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_065",
+      "text": "Drug abuse is: (variant 65)",
+      "options": [
+        "Misuse for non-medical purposes",
+        "Prescribed use",
+        "Avoiding drugs",
+        "Proper use"
+      ],
+      "correct_index": 0,
+      "explanation": "Drug abuse misuse.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_066",
+      "text": "FRSC means: (variant 66)",
+      "options": [
+        "Only road",
+        "Only safety",
+        "Federal Road Safety Corps",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "FRSC Federal Road Safety Corps.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_067",
+      "text": "Traffic light red means: (variant 67)",
+      "options": [
+        "Park",
+        "Stop",
+        "Go",
+        "Get ready"
+      ],
+      "correct_index": 1,
+      "explanation": "Red stop.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_068",
+      "text": "Democracy is government of the people, by the people and: (variant 68)",
+      "options": [
+        "For the people",
+        "For army",
+        "For rich",
+        "For foreigners"
+      ],
+      "correct_index": 0,
+      "explanation": "For the people.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_069",
+      "text": "Political apathy means: (variant 69)",
+      "options": [
+        "Active participation",
+        "Voting always",
+        "Joining parties",
+        "Lack of interest in politics"
+      ],
+      "correct_index": 3,
+      "explanation": "Apathy lack interest.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_070",
+      "text": "INEC stands for: (variant 70)",
+      "options": [
+        "International Network",
+        "No meaning",
+        "Independent National Electoral Commission",
+        "Internal Council"
+      ],
+      "correct_index": 2,
+      "explanation": "INEC Independent National Electoral Commission.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_071",
+      "text": "A good leader should be: (variant 71)",
+      "options": [
+        "Dictatorial",
+        "Honest and accountable",
+        "Corrupt",
+        "Selfish"
+      ],
+      "correct_index": 1,
+      "explanation": "Honest accountable.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_072",
+      "text": "NYSC was established to promote: (variant 72)",
+      "options": [
+        "National unity",
+        "Tribalism",
+        "Disunity",
+        "War"
+      ],
+      "correct_index": 0,
+      "explanation": "NYSC unity.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_073",
+      "text": "The Nigerian constitution guarantees: (variant 73)",
+      "options": [
+        "Right to steal",
+        "Right to kill",
+        "Right to cheat",
+        "Fundamental human rights"
+      ],
+      "correct_index": 3,
+      "explanation": "Guarantees human rights.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_074",
+      "text": "EFCC fights: (variant 74)",
+      "options": [
+        "Drug",
+        "No corruption",
+        "Corruption",
+        "Road safety"
+      ],
+      "correct_index": 2,
+      "explanation": "EFCC corruption.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_075",
+      "text": "The Nigerian flag was designed by: (variant 75)",
+      "options": [
+        "Bello",
+        "Taiwo Akinkunmi",
+        "Azikiwe",
+        "Awolowo"
+      ],
+      "correct_index": 1,
+      "explanation": "Akinkunmi.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_076",
+      "text": "The national anthem was adopted in: (variant 76)",
+      "options": [
+        "1978",
+        "1960",
+        "1999",
+        "2005"
+      ],
+      "correct_index": 0,
+      "explanation": "Anthem 1978.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_077",
+      "text": "The Senate has: (variant 77)",
+      "options": [
+        "360",
+        "100",
+        "50",
+        "109 members"
+      ],
+      "correct_index": 3,
+      "explanation": "Senate 109.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_078",
+      "text": "The House has: (variant 78)",
+      "options": [
+        "100",
+        "50",
+        "360 members",
+        "109"
+      ],
+      "correct_index": 2,
+      "explanation": "House 360.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_079",
+      "text": "The press is called fourth estate because it: (variant 79)",
+      "options": [
+        "Fights wars",
+        "Informs and checks government",
+        "Makes laws",
+        "Executes laws"
+      ],
+      "correct_index": 1,
+      "explanation": "Press informs checks.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_080",
+      "text": "Patriotism means: (variant 80)",
+      "options": [
+        "Love for country",
+        "Hatred",
+        "Betrayal",
+        "Indifference"
+      ],
+      "correct_index": 0,
+      "explanation": "Love for country.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_081",
+      "text": "Citizenship by birth is acquired through: (variant 81)",
+      "options": [
+        "Place of birth and parentage",
+        "Registration",
+        "Honorary award",
+        "Naturalization"
+      ],
+      "correct_index": 0,
+      "explanation": "Citizenship by birth is place and parentage.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_082",
+      "text": "The Nigerian flag green represents: (variant 82)",
+      "options": [
+        "Blood",
+        "Sun",
+        "Peace",
+        "Agriculture"
+      ],
+      "correct_index": 3,
+      "explanation": "Green agriculture.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_083",
+      "text": "Human rights are: (variant 83)",
+      "options": [
+        "Temporary gifts",
+        "Privileges for leaders",
+        "Inherent entitlements of all humans",
+        "Given by employers"
+      ],
+      "correct_index": 2,
+      "explanation": "Human rights inherent.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_084",
+      "text": "Rule of law means: (variant 84)",
+      "options": [
+        "Law applies equally to all",
+        "Leaders above law",
+        "Law favours rich",
+        "Law optional"
+      ],
+      "correct_index": 0,
+      "explanation": "Equality before law.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_085",
+      "text": "Drug abuse is: (variant 85)",
+      "options": [
+        "Misuse for non-medical purposes",
+        "Prescribed use",
+        "Avoiding drugs",
+        "Proper use"
+      ],
+      "correct_index": 0,
+      "explanation": "Drug abuse misuse.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_086",
+      "text": "FRSC means: (variant 86)",
+      "options": [
+        "Only road",
+        "Only safety",
+        "Federal Road Safety Corps",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "FRSC Federal Road Safety Corps.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_087",
+      "text": "Traffic light red means: (variant 87)",
+      "options": [
+        "Park",
+        "Stop",
+        "Go",
+        "Get ready"
+      ],
+      "correct_index": 1,
+      "explanation": "Red stop.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_088",
+      "text": "Democracy is government of the people, by the people and: (variant 88)",
+      "options": [
+        "For the people",
+        "For army",
+        "For rich",
+        "For foreigners"
+      ],
+      "correct_index": 0,
+      "explanation": "For the people.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_089",
+      "text": "Political apathy means: (variant 89)",
+      "options": [
+        "Active participation",
+        "Voting always",
+        "Joining parties",
+        "Lack of interest in politics"
+      ],
+      "correct_index": 3,
+      "explanation": "Apathy lack interest.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_090",
+      "text": "INEC stands for: (variant 90)",
+      "options": [
+        "International Network",
+        "No meaning",
+        "Independent National Electoral Commission",
+        "Internal Council"
+      ],
+      "correct_index": 2,
+      "explanation": "INEC Independent National Electoral Commission.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_091",
+      "text": "A good leader should be: (variant 91)",
+      "options": [
+        "Dictatorial",
+        "Honest and accountable",
+        "Corrupt",
+        "Selfish"
+      ],
+      "correct_index": 1,
+      "explanation": "Honest accountable.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_092",
+      "text": "NYSC was established to promote: (variant 92)",
+      "options": [
+        "National unity",
+        "Tribalism",
+        "Disunity",
+        "War"
+      ],
+      "correct_index": 0,
+      "explanation": "NYSC unity.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_093",
+      "text": "The Nigerian constitution guarantees: (variant 93)",
+      "options": [
+        "Right to steal",
+        "Right to kill",
+        "Right to cheat",
+        "Fundamental human rights"
+      ],
+      "correct_index": 3,
+      "explanation": "Guarantees human rights.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_094",
+      "text": "EFCC fights: (variant 94)",
+      "options": [
+        "Drug",
+        "No corruption",
+        "Corruption",
+        "Road safety"
+      ],
+      "correct_index": 2,
+      "explanation": "EFCC corruption.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_095",
+      "text": "The Nigerian flag was designed by: (variant 95)",
+      "options": [
+        "Bello",
+        "Taiwo Akinkunmi",
+        "Azikiwe",
+        "Awolowo"
+      ],
+      "correct_index": 1,
+      "explanation": "Akinkunmi.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_096",
+      "text": "The national anthem was adopted in: (variant 96)",
+      "options": [
+        "1978",
+        "1960",
+        "1999",
+        "2005"
+      ],
+      "correct_index": 0,
+      "explanation": "Anthem 1978.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_097",
+      "text": "The Senate has: (variant 97)",
+      "options": [
+        "360",
+        "100",
+        "50",
+        "109 members"
+      ],
+      "correct_index": 3,
+      "explanation": "Senate 109.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_098",
+      "text": "The House has: (variant 98)",
+      "options": [
+        "100",
+        "50",
+        "360 members",
+        "109"
+      ],
+      "correct_index": 2,
+      "explanation": "House 360.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_099",
+      "text": "The press is called fourth estate because it: (variant 99)",
+      "options": [
+        "Fights wars",
+        "Informs and checks government",
+        "Makes laws",
+        "Executes laws"
+      ],
+      "correct_index": 1,
+      "explanation": "Press informs checks.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_100",
+      "text": "Patriotism means: (variant 100)",
+      "options": [
+        "Love for country",
+        "Hatred",
+        "Betrayal",
+        "Indifference"
+      ],
+      "correct_index": 0,
+      "explanation": "Love for country.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_101",
+      "text": "Citizenship by birth is acquired through: (variant 101)",
+      "options": [
+        "Place of birth and parentage",
+        "Registration",
+        "Honorary award",
+        "Naturalization"
+      ],
+      "correct_index": 0,
+      "explanation": "Citizenship by birth is place and parentage.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_102",
+      "text": "The Nigerian flag green represents: (variant 102)",
+      "options": [
+        "Blood",
+        "Sun",
+        "Peace",
+        "Agriculture"
+      ],
+      "correct_index": 3,
+      "explanation": "Green agriculture.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_103",
+      "text": "Human rights are: (variant 103)",
+      "options": [
+        "Temporary gifts",
+        "Privileges for leaders",
+        "Inherent entitlements of all humans",
+        "Given by employers"
+      ],
+      "correct_index": 2,
+      "explanation": "Human rights inherent.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_104",
+      "text": "Rule of law means: (variant 104)",
+      "options": [
+        "Law applies equally to all",
+        "Leaders above law",
+        "Law favours rich",
+        "Law optional"
+      ],
+      "correct_index": 0,
+      "explanation": "Equality before law.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_105",
+      "text": "Drug abuse is: (variant 105)",
+      "options": [
+        "Misuse for non-medical purposes",
+        "Prescribed use",
+        "Avoiding drugs",
+        "Proper use"
+      ],
+      "correct_index": 0,
+      "explanation": "Drug abuse misuse.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_106",
+      "text": "FRSC means: (variant 106)",
+      "options": [
+        "Only road",
+        "Only safety",
+        "Federal Road Safety Corps",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "FRSC Federal Road Safety Corps.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_107",
+      "text": "Traffic light red means: (variant 107)",
+      "options": [
+        "Park",
+        "Stop",
+        "Go",
+        "Get ready"
+      ],
+      "correct_index": 1,
+      "explanation": "Red stop.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_108",
+      "text": "Democracy is government of the people, by the people and: (variant 108)",
+      "options": [
+        "For the people",
+        "For army",
+        "For rich",
+        "For foreigners"
+      ],
+      "correct_index": 0,
+      "explanation": "For the people.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_109",
+      "text": "Political apathy means: (variant 109)",
+      "options": [
+        "Active participation",
+        "Voting always",
+        "Joining parties",
+        "Lack of interest in politics"
+      ],
+      "correct_index": 3,
+      "explanation": "Apathy lack interest.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_110",
+      "text": "INEC stands for: (variant 110)",
+      "options": [
+        "International Network",
+        "No meaning",
+        "Independent National Electoral Commission",
+        "Internal Council"
+      ],
+      "correct_index": 2,
+      "explanation": "INEC Independent National Electoral Commission.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_111",
+      "text": "A good leader should be: (variant 111)",
+      "options": [
+        "Dictatorial",
+        "Honest and accountable",
+        "Corrupt",
+        "Selfish"
+      ],
+      "correct_index": 1,
+      "explanation": "Honest accountable.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_112",
+      "text": "NYSC was established to promote: (variant 112)",
+      "options": [
+        "National unity",
+        "Tribalism",
+        "Disunity",
+        "War"
+      ],
+      "correct_index": 0,
+      "explanation": "NYSC unity.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_113",
+      "text": "The Nigerian constitution guarantees: (variant 113)",
+      "options": [
+        "Right to steal",
+        "Right to kill",
+        "Right to cheat",
+        "Fundamental human rights"
+      ],
+      "correct_index": 3,
+      "explanation": "Guarantees human rights.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_114",
+      "text": "EFCC fights: (variant 114)",
+      "options": [
+        "Drug",
+        "No corruption",
+        "Corruption",
+        "Road safety"
+      ],
+      "correct_index": 2,
+      "explanation": "EFCC corruption.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_115",
+      "text": "The Nigerian flag was designed by: (variant 115)",
+      "options": [
+        "Bello",
+        "Taiwo Akinkunmi",
+        "Azikiwe",
+        "Awolowo"
+      ],
+      "correct_index": 1,
+      "explanation": "Akinkunmi.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_116",
+      "text": "The national anthem was adopted in: (variant 116)",
+      "options": [
+        "1978",
+        "1960",
+        "1999",
+        "2005"
+      ],
+      "correct_index": 0,
+      "explanation": "Anthem 1978.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_117",
+      "text": "The Senate has: (variant 117)",
+      "options": [
+        "360",
+        "100",
+        "50",
+        "109 members"
+      ],
+      "correct_index": 3,
+      "explanation": "Senate 109.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_118",
+      "text": "The House has: (variant 118)",
+      "options": [
+        "100",
+        "50",
+        "360 members",
+        "109"
+      ],
+      "correct_index": 2,
+      "explanation": "House 360.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_119",
+      "text": "The press is called fourth estate because it: (variant 119)",
+      "options": [
+        "Fights wars",
+        "Informs and checks government",
+        "Makes laws",
+        "Executes laws"
+      ],
+      "correct_index": 1,
+      "explanation": "Press informs checks.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_120",
+      "text": "Patriotism means: (variant 120)",
+      "options": [
+        "Love for country",
+        "Hatred",
+        "Betrayal",
+        "Indifference"
+      ],
+      "correct_index": 0,
+      "explanation": "Love for country.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_121",
+      "text": "Citizenship by birth is acquired through: (variant 121)",
+      "options": [
+        "Place of birth and parentage",
+        "Registration",
+        "Honorary award",
+        "Naturalization"
+      ],
+      "correct_index": 0,
+      "explanation": "Citizenship by birth is place and parentage.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_122",
+      "text": "The Nigerian flag green represents: (variant 122)",
+      "options": [
+        "Blood",
+        "Sun",
+        "Peace",
+        "Agriculture"
+      ],
+      "correct_index": 3,
+      "explanation": "Green agriculture.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_123",
+      "text": "Human rights are: (variant 123)",
+      "options": [
+        "Temporary gifts",
+        "Privileges for leaders",
+        "Inherent entitlements of all humans",
+        "Given by employers"
+      ],
+      "correct_index": 2,
+      "explanation": "Human rights inherent.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_124",
+      "text": "Rule of law means: (variant 124)",
+      "options": [
+        "Law applies equally to all",
+        "Leaders above law",
+        "Law favours rich",
+        "Law optional"
+      ],
+      "correct_index": 0,
+      "explanation": "Equality before law.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_125",
+      "text": "Drug abuse is: (variant 125)",
+      "options": [
+        "Misuse for non-medical purposes",
+        "Prescribed use",
+        "Avoiding drugs",
+        "Proper use"
+      ],
+      "correct_index": 0,
+      "explanation": "Drug abuse misuse.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_126",
+      "text": "FRSC means: (variant 126)",
+      "options": [
+        "Only road",
+        "Only safety",
+        "Federal Road Safety Corps",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "FRSC Federal Road Safety Corps.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_127",
+      "text": "Traffic light red means: (variant 127)",
+      "options": [
+        "Park",
+        "Stop",
+        "Go",
+        "Get ready"
+      ],
+      "correct_index": 1,
+      "explanation": "Red stop.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_128",
+      "text": "Democracy is government of the people, by the people and: (variant 128)",
+      "options": [
+        "For the people",
+        "For army",
+        "For rich",
+        "For foreigners"
+      ],
+      "correct_index": 0,
+      "explanation": "For the people.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_129",
+      "text": "Political apathy means: (variant 129)",
+      "options": [
+        "Active participation",
+        "Voting always",
+        "Joining parties",
+        "Lack of interest in politics"
+      ],
+      "correct_index": 3,
+      "explanation": "Apathy lack interest.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_130",
+      "text": "INEC stands for: (variant 130)",
+      "options": [
+        "International Network",
+        "No meaning",
+        "Independent National Electoral Commission",
+        "Internal Council"
+      ],
+      "correct_index": 2,
+      "explanation": "INEC Independent National Electoral Commission.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_131",
+      "text": "A good leader should be: (variant 131)",
+      "options": [
+        "Dictatorial",
+        "Honest and accountable",
+        "Corrupt",
+        "Selfish"
+      ],
+      "correct_index": 1,
+      "explanation": "Honest accountable.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_132",
+      "text": "NYSC was established to promote: (variant 132)",
+      "options": [
+        "National unity",
+        "Tribalism",
+        "Disunity",
+        "War"
+      ],
+      "correct_index": 0,
+      "explanation": "NYSC unity.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_133",
+      "text": "The Nigerian constitution guarantees: (variant 133)",
+      "options": [
+        "Right to steal",
+        "Right to kill",
+        "Right to cheat",
+        "Fundamental human rights"
+      ],
+      "correct_index": 3,
+      "explanation": "Guarantees human rights.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_134",
+      "text": "EFCC fights: (variant 134)",
+      "options": [
+        "Drug",
+        "No corruption",
+        "Corruption",
+        "Road safety"
+      ],
+      "correct_index": 2,
+      "explanation": "EFCC corruption.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_135",
+      "text": "The Nigerian flag was designed by: (variant 135)",
+      "options": [
+        "Bello",
+        "Taiwo Akinkunmi",
+        "Azikiwe",
+        "Awolowo"
+      ],
+      "correct_index": 1,
+      "explanation": "Akinkunmi.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_136",
+      "text": "The national anthem was adopted in: (variant 136)",
+      "options": [
+        "1978",
+        "1960",
+        "1999",
+        "2005"
+      ],
+      "correct_index": 0,
+      "explanation": "Anthem 1978.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_137",
+      "text": "The Senate has: (variant 137)",
+      "options": [
+        "360",
+        "100",
+        "50",
+        "109 members"
+      ],
+      "correct_index": 3,
+      "explanation": "Senate 109.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_138",
+      "text": "The House has: (variant 138)",
+      "options": [
+        "100",
+        "50",
+        "360 members",
+        "109"
+      ],
+      "correct_index": 2,
+      "explanation": "House 360.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_139",
+      "text": "The press is called fourth estate because it: (variant 139)",
+      "options": [
+        "Fights wars",
+        "Informs and checks government",
+        "Makes laws",
+        "Executes laws"
+      ],
+      "correct_index": 1,
+      "explanation": "Press informs checks.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_140",
+      "text": "Patriotism means: (variant 140)",
+      "options": [
+        "Love for country",
+        "Hatred",
+        "Betrayal",
+        "Indifference"
+      ],
+      "correct_index": 0,
+      "explanation": "Love for country.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_141",
+      "text": "Citizenship by birth is acquired through: (variant 141)",
+      "options": [
+        "Place of birth and parentage",
+        "Registration",
+        "Honorary award",
+        "Naturalization"
+      ],
+      "correct_index": 0,
+      "explanation": "Citizenship by birth is place and parentage.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_142",
+      "text": "The Nigerian flag green represents: (variant 142)",
+      "options": [
+        "Blood",
+        "Sun",
+        "Peace",
+        "Agriculture"
+      ],
+      "correct_index": 3,
+      "explanation": "Green agriculture.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_143",
+      "text": "Human rights are: (variant 143)",
+      "options": [
+        "Temporary gifts",
+        "Privileges for leaders",
+        "Inherent entitlements of all humans",
+        "Given by employers"
+      ],
+      "correct_index": 2,
+      "explanation": "Human rights inherent.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_144",
+      "text": "Rule of law means: (variant 144)",
+      "options": [
+        "Law applies equally to all",
+        "Leaders above law",
+        "Law favours rich",
+        "Law optional"
+      ],
+      "correct_index": 0,
+      "explanation": "Equality before law.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_145",
+      "text": "Drug abuse is: (variant 145)",
+      "options": [
+        "Misuse for non-medical purposes",
+        "Prescribed use",
+        "Avoiding drugs",
+        "Proper use"
+      ],
+      "correct_index": 0,
+      "explanation": "Drug abuse misuse.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_146",
+      "text": "FRSC means: (variant 146)",
+      "options": [
+        "Only road",
+        "Only safety",
+        "Federal Road Safety Corps",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "FRSC Federal Road Safety Corps.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_147",
+      "text": "Traffic light red means: (variant 147)",
+      "options": [
+        "Park",
+        "Stop",
+        "Go",
+        "Get ready"
+      ],
+      "correct_index": 1,
+      "explanation": "Red stop.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_148",
+      "text": "Democracy is government of the people, by the people and: (variant 148)",
+      "options": [
+        "For the people",
+        "For army",
+        "For rich",
+        "For foreigners"
+      ],
+      "correct_index": 0,
+      "explanation": "For the people.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_149",
+      "text": "Political apathy means: (variant 149)",
+      "options": [
+        "Active participation",
+        "Voting always",
+        "Joining parties",
+        "Lack of interest in politics"
+      ],
+      "correct_index": 3,
+      "explanation": "Apathy lack interest.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_150",
+      "text": "INEC stands for: (variant 150)",
+      "options": [
+        "International Network",
+        "No meaning",
+        "Independent National Electoral Commission",
+        "Internal Council"
+      ],
+      "correct_index": 2,
+      "explanation": "INEC Independent National Electoral Commission.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_151",
+      "text": "A good leader should be: (variant 151)",
+      "options": [
+        "Dictatorial",
+        "Honest and accountable",
+        "Corrupt",
+        "Selfish"
+      ],
+      "correct_index": 1,
+      "explanation": "Honest accountable.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_152",
+      "text": "NYSC was established to promote: (variant 152)",
+      "options": [
+        "National unity",
+        "Tribalism",
+        "Disunity",
+        "War"
+      ],
+      "correct_index": 0,
+      "explanation": "NYSC unity.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_153",
+      "text": "The Nigerian constitution guarantees: (variant 153)",
+      "options": [
+        "Right to steal",
+        "Right to kill",
+        "Right to cheat",
+        "Fundamental human rights"
+      ],
+      "correct_index": 3,
+      "explanation": "Guarantees human rights.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_154",
+      "text": "EFCC fights: (variant 154)",
+      "options": [
+        "Drug",
+        "No corruption",
+        "Corruption",
+        "Road safety"
+      ],
+      "correct_index": 2,
+      "explanation": "EFCC corruption.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_155",
+      "text": "The Nigerian flag was designed by: (variant 155)",
+      "options": [
+        "Bello",
+        "Taiwo Akinkunmi",
+        "Azikiwe",
+        "Awolowo"
+      ],
+      "correct_index": 1,
+      "explanation": "Akinkunmi.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_156",
+      "text": "The national anthem was adopted in: (variant 156)",
+      "options": [
+        "1978",
+        "1960",
+        "1999",
+        "2005"
+      ],
+      "correct_index": 0,
+      "explanation": "Anthem 1978.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_157",
+      "text": "The Senate has: (variant 157)",
+      "options": [
+        "360",
+        "100",
+        "50",
+        "109 members"
+      ],
+      "correct_index": 3,
+      "explanation": "Senate 109.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_158",
+      "text": "The House has: (variant 158)",
+      "options": [
+        "100",
+        "50",
+        "360 members",
+        "109"
+      ],
+      "correct_index": 2,
+      "explanation": "House 360.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_159",
+      "text": "The press is called fourth estate because it: (variant 159)",
+      "options": [
+        "Fights wars",
+        "Informs and checks government",
+        "Makes laws",
+        "Executes laws"
+      ],
+      "correct_index": 1,
+      "explanation": "Press informs checks.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_160",
+      "text": "Patriotism means: (variant 160)",
+      "options": [
+        "Love for country",
+        "Hatred",
+        "Betrayal",
+        "Indifference"
+      ],
+      "correct_index": 0,
+      "explanation": "Love for country.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_161",
+      "text": "Citizenship by birth is acquired through: (variant 161)",
+      "options": [
+        "Place of birth and parentage",
+        "Registration",
+        "Honorary award",
+        "Naturalization"
+      ],
+      "correct_index": 0,
+      "explanation": "Citizenship by birth is place and parentage.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_162",
+      "text": "The Nigerian flag green represents: (variant 162)",
+      "options": [
+        "Blood",
+        "Sun",
+        "Peace",
+        "Agriculture"
+      ],
+      "correct_index": 3,
+      "explanation": "Green agriculture.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_163",
+      "text": "Human rights are: (variant 163)",
+      "options": [
+        "Temporary gifts",
+        "Privileges for leaders",
+        "Inherent entitlements of all humans",
+        "Given by employers"
+      ],
+      "correct_index": 2,
+      "explanation": "Human rights inherent.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_164",
+      "text": "Rule of law means: (variant 164)",
+      "options": [
+        "Law applies equally to all",
+        "Leaders above law",
+        "Law favours rich",
+        "Law optional"
+      ],
+      "correct_index": 0,
+      "explanation": "Equality before law.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_165",
+      "text": "Drug abuse is: (variant 165)",
+      "options": [
+        "Misuse for non-medical purposes",
+        "Prescribed use",
+        "Avoiding drugs",
+        "Proper use"
+      ],
+      "correct_index": 0,
+      "explanation": "Drug abuse misuse.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_166",
+      "text": "FRSC means: (variant 166)",
+      "options": [
+        "Only road",
+        "Only safety",
+        "Federal Road Safety Corps",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "FRSC Federal Road Safety Corps.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_167",
+      "text": "Traffic light red means: (variant 167)",
+      "options": [
+        "Park",
+        "Stop",
+        "Go",
+        "Get ready"
+      ],
+      "correct_index": 1,
+      "explanation": "Red stop.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_168",
+      "text": "Democracy is government of the people, by the people and: (variant 168)",
+      "options": [
+        "For the people",
+        "For army",
+        "For rich",
+        "For foreigners"
+      ],
+      "correct_index": 0,
+      "explanation": "For the people.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_169",
+      "text": "Political apathy means: (variant 169)",
+      "options": [
+        "Active participation",
+        "Voting always",
+        "Joining parties",
+        "Lack of interest in politics"
+      ],
+      "correct_index": 3,
+      "explanation": "Apathy lack interest.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_170",
+      "text": "INEC stands for: (variant 170)",
+      "options": [
+        "International Network",
+        "No meaning",
+        "Independent National Electoral Commission",
+        "Internal Council"
+      ],
+      "correct_index": 2,
+      "explanation": "INEC Independent National Electoral Commission.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_171",
+      "text": "A good leader should be: (variant 171)",
+      "options": [
+        "Dictatorial",
+        "Honest and accountable",
+        "Corrupt",
+        "Selfish"
+      ],
+      "correct_index": 1,
+      "explanation": "Honest accountable.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_172",
+      "text": "NYSC was established to promote: (variant 172)",
+      "options": [
+        "National unity",
+        "Tribalism",
+        "Disunity",
+        "War"
+      ],
+      "correct_index": 0,
+      "explanation": "NYSC unity.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_173",
+      "text": "The Nigerian constitution guarantees: (variant 173)",
+      "options": [
+        "Right to steal",
+        "Right to kill",
+        "Right to cheat",
+        "Fundamental human rights"
+      ],
+      "correct_index": 3,
+      "explanation": "Guarantees human rights.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_174",
+      "text": "EFCC fights: (variant 174)",
+      "options": [
+        "Drug",
+        "No corruption",
+        "Corruption",
+        "Road safety"
+      ],
+      "correct_index": 2,
+      "explanation": "EFCC corruption.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_175",
+      "text": "The Nigerian flag was designed by: (variant 175)",
+      "options": [
+        "Bello",
+        "Taiwo Akinkunmi",
+        "Azikiwe",
+        "Awolowo"
+      ],
+      "correct_index": 1,
+      "explanation": "Akinkunmi.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_176",
+      "text": "The national anthem was adopted in: (variant 176)",
+      "options": [
+        "1978",
+        "1960",
+        "1999",
+        "2005"
+      ],
+      "correct_index": 0,
+      "explanation": "Anthem 1978.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_177",
+      "text": "The Senate has: (variant 177)",
+      "options": [
+        "360",
+        "100",
+        "50",
+        "109 members"
+      ],
+      "correct_index": 3,
+      "explanation": "Senate 109.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_178",
+      "text": "The House has: (variant 178)",
+      "options": [
+        "100",
+        "50",
+        "360 members",
+        "109"
+      ],
+      "correct_index": 2,
+      "explanation": "House 360.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_179",
+      "text": "The press is called fourth estate because it: (variant 179)",
+      "options": [
+        "Fights wars",
+        "Informs and checks government",
+        "Makes laws",
+        "Executes laws"
+      ],
+      "correct_index": 1,
+      "explanation": "Press informs checks.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_180",
+      "text": "Patriotism means: (variant 180)",
+      "options": [
+        "Love for country",
+        "Hatred",
+        "Betrayal",
+        "Indifference"
+      ],
+      "correct_index": 0,
+      "explanation": "Love for country.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_181",
+      "text": "Citizenship by birth is acquired through: (variant 181)",
+      "options": [
+        "Place of birth and parentage",
+        "Registration",
+        "Honorary award",
+        "Naturalization"
+      ],
+      "correct_index": 0,
+      "explanation": "Citizenship by birth is place and parentage.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_182",
+      "text": "The Nigerian flag green represents: (variant 182)",
+      "options": [
+        "Blood",
+        "Sun",
+        "Peace",
+        "Agriculture"
+      ],
+      "correct_index": 3,
+      "explanation": "Green agriculture.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_183",
+      "text": "Human rights are: (variant 183)",
+      "options": [
+        "Temporary gifts",
+        "Privileges for leaders",
+        "Inherent entitlements of all humans",
+        "Given by employers"
+      ],
+      "correct_index": 2,
+      "explanation": "Human rights inherent.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_184",
+      "text": "Rule of law means: (variant 184)",
+      "options": [
+        "Law applies equally to all",
+        "Leaders above law",
+        "Law favours rich",
+        "Law optional"
+      ],
+      "correct_index": 0,
+      "explanation": "Equality before law.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_185",
+      "text": "Drug abuse is: (variant 185)",
+      "options": [
+        "Misuse for non-medical purposes",
+        "Prescribed use",
+        "Avoiding drugs",
+        "Proper use"
+      ],
+      "correct_index": 0,
+      "explanation": "Drug abuse misuse.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_186",
+      "text": "FRSC means: (variant 186)",
+      "options": [
+        "Only road",
+        "Only safety",
+        "Federal Road Safety Corps",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "FRSC Federal Road Safety Corps.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_187",
+      "text": "Traffic light red means: (variant 187)",
+      "options": [
+        "Park",
+        "Stop",
+        "Go",
+        "Get ready"
+      ],
+      "correct_index": 1,
+      "explanation": "Red stop.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_188",
+      "text": "Democracy is government of the people, by the people and: (variant 188)",
+      "options": [
+        "For the people",
+        "For army",
+        "For rich",
+        "For foreigners"
+      ],
+      "correct_index": 0,
+      "explanation": "For the people.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_189",
+      "text": "Political apathy means: (variant 189)",
+      "options": [
+        "Active participation",
+        "Voting always",
+        "Joining parties",
+        "Lack of interest in politics"
+      ],
+      "correct_index": 3,
+      "explanation": "Apathy lack interest.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_190",
+      "text": "INEC stands for: (variant 190)",
+      "options": [
+        "International Network",
+        "No meaning",
+        "Independent National Electoral Commission",
+        "Internal Council"
+      ],
+      "correct_index": 2,
+      "explanation": "INEC Independent National Electoral Commission.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_191",
+      "text": "A good leader should be: (variant 191)",
+      "options": [
+        "Dictatorial",
+        "Honest and accountable",
+        "Corrupt",
+        "Selfish"
+      ],
+      "correct_index": 1,
+      "explanation": "Honest accountable.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_192",
+      "text": "NYSC was established to promote: (variant 192)",
+      "options": [
+        "National unity",
+        "Tribalism",
+        "Disunity",
+        "War"
+      ],
+      "correct_index": 0,
+      "explanation": "NYSC unity.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_193",
+      "text": "The Nigerian constitution guarantees: (variant 193)",
+      "options": [
+        "Right to steal",
+        "Right to kill",
+        "Right to cheat",
+        "Fundamental human rights"
+      ],
+      "correct_index": 3,
+      "explanation": "Guarantees human rights.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_194",
+      "text": "EFCC fights: (variant 194)",
+      "options": [
+        "Drug",
+        "No corruption",
+        "Corruption",
+        "Road safety"
+      ],
+      "correct_index": 2,
+      "explanation": "EFCC corruption.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_195",
+      "text": "The Nigerian flag was designed by: (variant 195)",
+      "options": [
+        "Bello",
+        "Taiwo Akinkunmi",
+        "Azikiwe",
+        "Awolowo"
+      ],
+      "correct_index": 1,
+      "explanation": "Akinkunmi.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_196",
+      "text": "The national anthem was adopted in: (variant 196)",
+      "options": [
+        "1978",
+        "1960",
+        "1999",
+        "2005"
+      ],
+      "correct_index": 0,
+      "explanation": "Anthem 1978.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_197",
+      "text": "The Senate has: (variant 197)",
+      "options": [
+        "360",
+        "100",
+        "50",
+        "109 members"
+      ],
+      "correct_index": 3,
+      "explanation": "Senate 109.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_198",
+      "text": "The House has: (variant 198)",
+      "options": [
+        "100",
+        "50",
+        "360 members",
+        "109"
+      ],
+      "correct_index": 2,
+      "explanation": "House 360.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_199",
+      "text": "The press is called fourth estate because it: (variant 199)",
+      "options": [
+        "Fights wars",
+        "Informs and checks government",
+        "Makes laws",
+        "Executes laws"
+      ],
+      "correct_index": 1,
+      "explanation": "Press informs checks.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_200",
+      "text": "Patriotism means: (variant 200)",
+      "options": [
+        "Love for country",
+        "Hatred",
+        "Betrayal",
+        "Indifference"
+      ],
+      "correct_index": 0,
+      "explanation": "Love for country.",
+      "difficulty": 1
+    }
+  ]
+}

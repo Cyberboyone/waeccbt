@@ -1,0 +1,2607 @@
+{
+  "course_id": "eco",
+  "course_name": "Economics",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "eco_001",
+      "text": "Economics is best defined as the study of:",
+      "options": [
+        "How scarce resources are allocated to satisfy wants",
+        "Stock markets",
+        "Government only",
+        "Money only"
+      ],
+      "correct_index": 0,
+      "explanation": "Economics studies allocation of scarce resources.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_002",
+      "text": "The fundamental economic problem is:",
+      "options": [
+        "Unemployment",
+        "Taxation",
+        "Inflation",
+        "Scarcity"
+      ],
+      "correct_index": 3,
+      "explanation": "Scarcity of resources vs unlimited wants.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_003",
+      "text": "The term 'economics' is derived from the Greek word meaning:",
+      "options": [
+        "Money",
+        "Wealth",
+        "Household management",
+        "Trade"
+      ],
+      "correct_index": 2,
+      "explanation": "'Oikonomia' means household management.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_004",
+      "text": "Microeconomics is concerned with:",
+      "options": [
+        "The whole economy",
+        "Individual units like households and firms",
+        "National income",
+        "Inflation"
+      ],
+      "correct_index": 1,
+      "explanation": "Microeconomics studies individual units.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_005",
+      "text": "Macroeconomics is concerned with:",
+      "options": [
+        "The economy as a whole",
+        "Households",
+        "Single markets",
+        "Individual firms"
+      ],
+      "correct_index": 0,
+      "explanation": "Macroeconomics studies the whole economy.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_006",
+      "text": "The father of modern economics is:",
+      "options": [
+        "Keynes",
+        "Ricardo",
+        "Karl Marx",
+        "Adam Smith"
+      ],
+      "correct_index": 3,
+      "explanation": "Adam Smith is the father of economics.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_007",
+      "text": "Adam Smith's famous book is:",
+      "options": [
+        "General Theory",
+        "Das Kapital",
+        "The Wealth of Nations",
+        "Principles of Economics"
+      ],
+      "correct_index": 2,
+      "explanation": "'The Wealth of Nations' (1776).",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_008",
+      "text": "Opportunity cost is best defined as:",
+      "options": [
+        "The money cost of a good",
+        "The value of the next best alternative forgone",
+        "Total cost",
+        "Sunk cost"
+      ],
+      "correct_index": 1,
+      "explanation": "Opportunity cost = the next best alternative sacrificed.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_009",
+      "text": "Goods that are used to produce other goods are called:",
+      "options": [
+        "Capital goods",
+        "Free goods",
+        "Luxury goods",
+        "Consumer goods"
+      ],
+      "correct_index": 0,
+      "explanation": "Capital goods produce other goods.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_010",
+      "text": "Goods that directly satisfy wants are:",
+      "options": [
+        "Producer goods",
+        "Intermediate goods",
+        "Capital goods",
+        "Consumer goods"
+      ],
+      "correct_index": 3,
+      "explanation": "Consumer goods satisfy wants directly.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_011",
+      "text": "The basic economic questions include all EXCEPT:",
+      "options": [
+        "Why to consume",
+        "What to produce",
+        "How to produce",
+        "For whom to produce"
+      ],
+      "correct_index": 0,
+      "explanation": "The three questions are what, how and for whom to produce.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_012",
+      "text": "The scale of preference is a list of wants arranged in order of:",
+      "options": [
+        "Size",
+        "Priority/importance",
+        "Cost",
+        "Alphabet"
+      ],
+      "correct_index": 1,
+      "explanation": "Wants are ranked by importance.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_013",
+      "text": "The curve showing the maximum combinations of two goods an economy can produce is the:",
+      "options": [
+        "Production possibility curve",
+        "Supply curve",
+        "Indifference curve",
+        "Demand curve"
+      ],
+      "correct_index": 0,
+      "explanation": "The PPC shows production possibilities.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_014",
+      "text": "A point inside the production possibility curve represents:",
+      "options": [
+        "Impossible output",
+        "Maximum output",
+        "Full employment",
+        "Under-utilisation of resources"
+      ],
+      "correct_index": 3,
+      "explanation": "Inside the PPC = resources not fully used.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_015",
+      "text": "A point outside the production possibility curve represents:",
+      "options": [
+        "Unemployment",
+        "Full employment",
+        "Unattainable output",
+        "Efficient output"
+      ],
+      "correct_index": 2,
+      "explanation": "Outside the PPC is currently unattainable.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_016",
+      "text": "Free goods are goods that are:",
+      "options": [
+        "Scarce",
+        "Abundant and have no opportunity cost",
+        "Expensive",
+        "Limited"
+      ],
+      "correct_index": 1,
+      "explanation": "Free goods (like air) are abundant.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_017",
+      "text": "Economic goods are goods that are:",
+      "options": [
+        "Scarce relative to demand",
+        "Unlimited",
+        "Valueless",
+        "Free"
+      ],
+      "correct_index": 0,
+      "explanation": "Economic goods are scarce.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_018",
+      "text": "The creation of utility is known as:",
+      "options": [
+        "Distribution",
+        "Exchange",
+        "Consumption",
+        "Production"
+      ],
+      "correct_index": 3,
+      "explanation": "Production creates utility.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_019",
+      "text": "The four factors of production are:",
+      "options": [
+        "Land, labour, demand, supply",
+        "Land, labour, capital, entrepreneur",
+        "Land, money, labour, goods",
+        "Capital, profit, rent, wages"
+      ],
+      "correct_index": 1,
+      "explanation": "The four factors: land, labour, capital, entrepreneurship.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_020",
+      "text": "The reward for land is:",
+      "options": [
+        "Wages",
+        "Rent",
+        "Interest",
+        "Profit"
+      ],
+      "correct_index": 1,
+      "explanation": "Rent is the reward for land.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_021",
+      "text": "The reward for labour is:",
+      "options": [
+        "Wages",
+        "Interest",
+        "Profit",
+        "Rent"
+      ],
+      "correct_index": 0,
+      "explanation": "Wages reward labour.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_022",
+      "text": "The reward for capital is:",
+      "options": [
+        "Wages",
+        "Profit",
+        "Rent",
+        "Interest"
+      ],
+      "correct_index": 3,
+      "explanation": "Interest rewards capital.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_023",
+      "text": "The reward for entrepreneurship is:",
+      "options": [
+        "Interest",
+        "Rent",
+        "Profit",
+        "Wages"
+      ],
+      "correct_index": 2,
+      "explanation": "Profit rewards the entrepreneur.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_024",
+      "text": "Labour as a factor of production is:",
+      "options": [
+        "Only physical work",
+        "Human effort (mental and physical) used in production",
+        "Only skilled work",
+        "Machines"
+      ],
+      "correct_index": 1,
+      "explanation": "Labour is human effort in production.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_025",
+      "text": "Capital in economics refers to:",
+      "options": [
+        "Man-made resources used in production",
+        "Land",
+        "Labour",
+        "Money only"
+      ],
+      "correct_index": 0,
+      "explanation": "Capital is man-made producer goods.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_026",
+      "text": "The entrepreneur's main function is to:",
+      "options": [
+        "Provide land",
+        "Lend money",
+        "Provide labour",
+        "Organise and bear risks"
+      ],
+      "correct_index": 3,
+      "explanation": "The entrepreneur organises and bears risks.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_027",
+      "text": "The factor of production that is fixed and free gift of nature is:",
+      "options": [
+        "Entrepreneur",
+        "Labour",
+        "Land",
+        "Capital"
+      ],
+      "correct_index": 2,
+      "explanation": "Land is a free gift of nature.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_028",
+      "text": "Division of labour is the:",
+      "options": [
+        "Splitting of a task into smaller specialised tasks",
+        "Working long hours",
+        "Reducing the workforce",
+        "Hiring more workers"
+      ],
+      "correct_index": 0,
+      "explanation": "Division of labour splits work into tasks.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_029",
+      "text": "Specialisation leads to:",
+      "options": [
+        "Increased productivity and efficiency",
+        "Higher costs",
+        "Less output",
+        "Lower productivity"
+      ],
+      "correct_index": 0,
+      "explanation": "Specialisation raises productivity.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_030",
+      "text": "One disadvantage of division of labour is:",
+      "options": [
+        "More output",
+        "Lower costs",
+        "Higher efficiency",
+        "Monotony/boredom"
+      ],
+      "correct_index": 3,
+      "explanation": "Repetitive work causes monotony.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_031",
+      "text": "An economic system where resources are owned and controlled by the government is:",
+      "options": [
+        "Laissez-faire",
+        "Capitalism",
+        "Socialism",
+        "Mixed economy"
+      ],
+      "correct_index": 2,
+      "explanation": "Socialism = government control.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_032",
+      "text": "An economic system based on private ownership and free markets is:",
+      "options": [
+        "Socialism",
+        "Capitalism",
+        "Communism",
+        "Traditional"
+      ],
+      "correct_index": 1,
+      "explanation": "Capitalism = private ownership.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_033",
+      "text": "An economy combining private and public ownership is a:",
+      "options": [
+        "Mixed economy",
+        "Pure socialism",
+        "Traditional economy",
+        "Pure capitalism"
+      ],
+      "correct_index": 0,
+      "explanation": "A mixed economy combines both.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_034",
+      "text": "Nigeria operates a:",
+      "options": [
+        "Pure socialist economy",
+        "Command economy",
+        "Pure capitalist economy",
+        "Mixed economy"
+      ],
+      "correct_index": 3,
+      "explanation": "Nigeria has a mixed economy.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_035",
+      "text": "An economic system based on customs and traditions is:",
+      "options": [
+        "Mixed economy",
+        "Capitalism",
+        "Traditional economy",
+        "Socialism"
+      ],
+      "correct_index": 2,
+      "explanation": "Traditional economies follow customs.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_036",
+      "text": "The quantity of a good consumers are willing and able to buy at a price is:",
+      "options": [
+        "Supply",
+        "Demand",
+        "Utility",
+        "Production"
+      ],
+      "correct_index": 1,
+      "explanation": "Demand = willingness + ability to buy.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_037",
+      "text": "The law of demand states that, other things being equal, as price falls:",
+      "options": [
+        "Quantity demanded rises",
+        "Demand falls",
+        "Supply rises",
+        "Quantity demanded falls"
+      ],
+      "correct_index": 0,
+      "explanation": "Price and quantity demanded are inversely related.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_038",
+      "text": "The law of supply states that, other things being equal, as price rises:",
+      "options": [
+        "Supply falls",
+        "Demand rises",
+        "Quantity supplied falls",
+        "Quantity supplied rises"
+      ],
+      "correct_index": 3,
+      "explanation": "Price and quantity supplied are directly related.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_039",
+      "text": "The demand curve slopes:",
+      "options": [
+        "Vertically",
+        "Upward",
+        "Downward from left to right",
+        "Horizontally"
+      ],
+      "correct_index": 2,
+      "explanation": "The demand curve slopes downward.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_040",
+      "text": "The supply curve slopes:",
+      "options": [
+        "Downward",
+        "Upward from left to right",
+        "Horizontally",
+        "Vertically"
+      ],
+      "correct_index": 1,
+      "explanation": "The supply curve slopes upward.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_041",
+      "text": "The price at which quantity demanded equals quantity supplied is the:",
+      "options": [
+        "Equilibrium price",
+        "Maximum price",
+        "Minimum price",
+        "Market price"
+      ],
+      "correct_index": 0,
+      "explanation": "Equilibrium price clears the market.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_042",
+      "text": "A movement along the demand curve is caused by a change in:",
+      "options": [
+        "Tastes",
+        "Population",
+        "Income",
+        "Price of the good"
+      ],
+      "correct_index": 3,
+      "explanation": "A price change moves along the curve.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_043",
+      "text": "A shift of the demand curve is caused by a change in:",
+      "options": [
+        "Nothing",
+        "Price of the good",
+        "Income or tastes",
+        "Quantity demanded"
+      ],
+      "correct_index": 2,
+      "explanation": "Non-price factors shift the curve.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_044",
+      "text": "Goods for which demand increases as income increases are:",
+      "options": [
+        "Inferior goods",
+        "Normal goods",
+        "Giffen goods",
+        "Luxury goods only"
+      ],
+      "correct_index": 1,
+      "explanation": "Normal goods see demand rise with income.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_045",
+      "text": "Goods for which demand falls as income rises are:",
+      "options": [
+        "Inferior goods",
+        "Substitutes",
+        "Complements",
+        "Normal goods"
+      ],
+      "correct_index": 0,
+      "explanation": "Inferior goods are bought less as income rises.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_046",
+      "text": "Goods that are used together (e.g. car and petrol) are:",
+      "options": [
+        "Inferior",
+        "Giffen",
+        "Substitutes",
+        "Complements"
+      ],
+      "correct_index": 3,
+      "explanation": "Complements are used together.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_047",
+      "text": "Goods that can replace each other (e.g. tea and coffee) are:",
+      "options": [
+        "Normal",
+        "Complements",
+        "Substitutes",
+        "Inferior"
+      ],
+      "correct_index": 2,
+      "explanation": "Substitutes replace each other.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_048",
+      "text": "If the price of a substitute rises, the demand for the good:",
+      "options": [
+        "Falls",
+        "Rises",
+        "Is unchanged",
+        "Becomes zero"
+      ],
+      "correct_index": 1,
+      "explanation": "Demand shifts to the cheaper substitute.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_049",
+      "text": "If the price of a complement rises, the demand for the good:",
+      "options": [
+        "Falls",
+        "Is unchanged",
+        "Doubles",
+        "Rises"
+      ],
+      "correct_index": 0,
+      "explanation": "Complements are used together; demand falls.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_050",
+      "text": "A Giffen good is one whose demand:",
+      "options": [
+        "Is constant",
+        "Is zero",
+        "Falls as price falls",
+        "Rises as price rises"
+      ],
+      "correct_index": 3,
+      "explanation": "Giffen goods defy the law of demand.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_051",
+      "text": "Excess supply occurs when price is:",
+      "options": [
+        "Zero",
+        "Below equilibrium",
+        "Above equilibrium",
+        "At equilibrium"
+      ],
+      "correct_index": 2,
+      "explanation": "Above-equilibrium prices cause surplus.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_052",
+      "text": "Excess demand occurs when price is:",
+      "options": [
+        "Above equilibrium",
+        "Below equilibrium",
+        "At equilibrium",
+        "Infinite"
+      ],
+      "correct_index": 1,
+      "explanation": "Below-equilibrium prices cause shortage.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_053",
+      "text": "Price elasticity of demand measures:",
+      "options": [
+        "Total demand",
+        "Total supply",
+        "Income only",
+        "Responsiveness of quantity demanded to price changes"
+      ],
+      "correct_index": 3,
+      "explanation": "PED measures responsiveness to price.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_054",
+      "text": "Demand is elastic when the elasticity value is:",
+      "options": [
+        "Equal to 1",
+        "Less than 1",
+        "Zero",
+        "Greater than 1"
+      ],
+      "correct_index": 3,
+      "explanation": "Elastic demand > 1.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_055",
+      "text": "Demand is inelastic when the elasticity value is:",
+      "options": [
+        "Infinite",
+        "Greater than 1",
+        "Less than 1",
+        "Equal to 1"
+      ],
+      "correct_index": 2,
+      "explanation": "Inelastic demand < 1.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_056",
+      "text": "Demand is perfectly inelastic when elasticity equals:",
+      "options": [
+        "1",
+        "0",
+        "Infinity",
+        "−1"
+      ],
+      "correct_index": 1,
+      "explanation": "Perfectly inelastic = 0.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_057",
+      "text": "Goods with no close substitutes tend to have:",
+      "options": [
+        "Inelastic demand",
+        "Perfectly elastic demand",
+        "Zero demand",
+        "Elastic demand"
+      ],
+      "correct_index": 0,
+      "explanation": "Few substitutes → inelastic demand.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_058",
+      "text": "The cross elasticity of demand for complements is:",
+      "options": [
+        "Zero",
+        "Infinite",
+        "Positive",
+        "Negative"
+      ],
+      "correct_index": 3,
+      "explanation": "Complements have negative cross elasticity.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_059",
+      "text": "Income elasticity of demand for normal goods is:",
+      "options": [
+        "Infinite",
+        "Negative",
+        "Positive",
+        "Zero"
+      ],
+      "correct_index": 2,
+      "explanation": "Normal goods have positive income elasticity.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_060",
+      "text": "Utility in economics means:",
+      "options": [
+        "Usefulness only",
+        "Satisfaction derived from consuming a good",
+        "Profit",
+        "Cost"
+      ],
+      "correct_index": 1,
+      "explanation": "Utility = satisfaction from consumption.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_061",
+      "text": "The additional satisfaction from consuming one more unit is:",
+      "options": [
+        "Marginal utility",
+        "Average utility",
+        "Net utility",
+        "Total utility"
+      ],
+      "correct_index": 0,
+      "explanation": "Marginal utility is the extra satisfaction.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_062",
+      "text": "The law of diminishing marginal utility states that as more units are consumed:",
+      "options": [
+        "Total utility falls immediately",
+        "Price rises",
+        "Marginal utility rises",
+        "Marginal utility falls"
+      ],
+      "correct_index": 3,
+      "explanation": "Marginal utility diminishes with each extra unit.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_063",
+      "text": "The law of diminishing marginal utility explains the ___ slope of the demand curve.",
+      "options": [
+        "Vertical",
+        "Upward",
+        "Downward",
+        "Horizontal"
+      ],
+      "correct_index": 2,
+      "explanation": "Diminishing utility → downward demand curve.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_064",
+      "text": "Total utility is maximised when marginal utility is:",
+      "options": [
+        "Maximum",
+        "Zero",
+        "Negative",
+        "Infinite"
+      ],
+      "correct_index": 1,
+      "explanation": "TU peaks when MU = 0.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_065",
+      "text": "Fixed costs are costs that:",
+      "options": [
+        "Do not vary with output",
+        "Are always zero",
+        "Equal revenue",
+        "Vary with output"
+      ],
+      "correct_index": 0,
+      "explanation": "Fixed costs are constant regardless of output.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_066",
+      "text": "Variable costs are costs that:",
+      "options": [
+        "Are zero",
+        "Equal fixed costs",
+        "Are constant",
+        "Vary with output"
+      ],
+      "correct_index": 3,
+      "explanation": "Variable costs change with output.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_067",
+      "text": "Total cost equals:",
+      "options": [
+        "Price × quantity",
+        "Fixed cost + variable cost",
+        "Fixed cost × variable cost",
+        "Revenue − profit"
+      ],
+      "correct_index": 1,
+      "explanation": "TC = FC + VC.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_068",
+      "text": "Average cost is:",
+      "options": [
+        "Total cost ÷ quantity",
+        "Total cost × quantity",
+        "Variable cost only",
+        "Fixed cost only"
+      ],
+      "correct_index": 0,
+      "explanation": "AC = TC/Q.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_069",
+      "text": "Marginal cost is the cost of:",
+      "options": [
+        "The first unit",
+        "All units",
+        "Fixed inputs",
+        "Producing one more unit"
+      ],
+      "correct_index": 3,
+      "explanation": "MC = extra cost of one more unit.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_070",
+      "text": "Total revenue equals:",
+      "options": [
+        "Profit + cost",
+        "Price + quantity",
+        "Price × quantity",
+        "Cost × quantity"
+      ],
+      "correct_index": 2,
+      "explanation": "TR = P × Q.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_071",
+      "text": "Profit equals:",
+      "options": [
+        "Price × cost",
+        "Total revenue − total cost",
+        "Total cost − revenue",
+        "Revenue + cost"
+      ],
+      "correct_index": 1,
+      "explanation": "Profit = TR − TC.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_072",
+      "text": "The break-even point occurs when:",
+      "options": [
+        "Revenue exceeds cost",
+        "Revenue equals cost",
+        "Revenue is zero",
+        "Cost is zero"
+      ],
+      "correct_index": 1,
+      "explanation": "Break-even: TR = TC (zero profit).",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_073",
+      "text": "A market with many buyers and sellers of identical products is:",
+      "options": [
+        "Monopoly",
+        "Oligopoly",
+        "Monopolistic competition",
+        "Perfect competition"
+      ],
+      "correct_index": 3,
+      "explanation": "Perfect competition: many firms, identical goods.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_074",
+      "text": "A market with a single seller is a:",
+      "options": [
+        "Duopoly",
+        "Monopsony",
+        "Monopoly",
+        "Oligopoly"
+      ],
+      "correct_index": 2,
+      "explanation": "Monopoly = one seller.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_075",
+      "text": "A market with a few large sellers is an:",
+      "options": [
+        "Monopsony",
+        "Monopoly",
+        "Oligopoly",
+        "Perfect competition"
+      ],
+      "correct_index": 2,
+      "explanation": "Oligopoly = few sellers.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_076",
+      "text": "A market with a single buyer is a:",
+      "options": [
+        "Monopoly",
+        "Monopsony",
+        "Oligopoly",
+        "Duopoly"
+      ],
+      "correct_index": 1,
+      "explanation": "Monopsony = one buyer.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_077",
+      "text": "A market with two sellers is a:",
+      "options": [
+        "Duopoly",
+        "Oligopoly",
+        "Monopsony",
+        "Monopoly"
+      ],
+      "correct_index": 0,
+      "explanation": "Duopoly = two sellers.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_078",
+      "text": "In perfect competition, firms are price:",
+      "options": [
+        "Setters",
+        "Leaders",
+        "Makers",
+        "Takers"
+      ],
+      "correct_index": 3,
+      "explanation": "Firms are price takers in perfect competition.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_079",
+      "text": "A monopolist is a price:",
+      "options": [
+        "Discounter",
+        "Taker",
+        "Maker",
+        "Follower"
+      ],
+      "correct_index": 2,
+      "explanation": "A monopolist sets price.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_080",
+      "text": "Barriers to entry are highest in:",
+      "options": [
+        "Perfect competition",
+        "Monopoly",
+        "Monopolistic competition",
+        "Oligopoly"
+      ],
+      "correct_index": 1,
+      "explanation": "Monopoly has the highest entry barriers.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_081",
+      "text": "Product differentiation is a feature of:",
+      "options": [
+        "Monopolistic competition",
+        "Pure monopoly",
+        "Monopsony",
+        "Perfect competition"
+      ],
+      "correct_index": 0,
+      "explanation": "Monopolistic competition features differentiation.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_082",
+      "text": "The market where shares are bought and sold is the:",
+      "options": [
+        "Black market",
+        "Factor market",
+        "Commodity market",
+        "Stock exchange"
+      ],
+      "correct_index": 3,
+      "explanation": "Shares trade on the stock exchange.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_083",
+      "text": "National income is the total value of:",
+      "options": [
+        "Taxes",
+        "Imports",
+        "Goods and services produced in a country in a year",
+        "Exports"
+      ],
+      "correct_index": 2,
+      "explanation": "National income measures annual output value.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_084",
+      "text": "GDP stands for:",
+      "options": [
+        "Gross Domestic Product",
+        "Gross Direct Profit",
+        "General Domestic Price",
+        "Gross Development Plan"
+      ],
+      "correct_index": 0,
+      "explanation": "GDP = Gross Domestic Product.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_085",
+      "text": "GNP stands for:",
+      "options": [
+        "General Net Profit",
+        "Gross Net Price",
+        "Gross National Price",
+        "Gross National Product"
+      ],
+      "correct_index": 3,
+      "explanation": "GNP = Gross National Product.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_086",
+      "text": "The difference between GDP and GNP is:",
+      "options": [
+        "Taxes",
+        "Subsidies",
+        "Depreciation",
+        "Net factor income from abroad"
+      ],
+      "correct_index": 3,
+      "explanation": "GNP = GDP + net factor income from abroad.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_087",
+      "text": "The circular flow of income shows the flow between:",
+      "options": [
+        "Banks only",
+        "Firms and households",
+        "Only firms",
+        "Only households"
+      ],
+      "correct_index": 1,
+      "explanation": "Income flows between households and firms.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_088",
+      "text": "Per capita income is national income divided by:",
+      "options": [
+        "Area",
+        "Population",
+        "Exports",
+        "Number of firms"
+      ],
+      "correct_index": 1,
+      "explanation": "Per capita income = NI/population.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_089",
+      "text": "The three methods of measuring national income are:",
+      "options": [
+        "Input, output, profit",
+        "Income, tax, output",
+        "Output, cost, revenue",
+        "Income, output, expenditure"
+      ],
+      "correct_index": 3,
+      "explanation": "National income is measured by income, output or expenditure.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_090",
+      "text": "Depreciation is also known as:",
+      "options": [
+        "Net investment",
+        "Gross profit",
+        "Capital consumption",
+        "Capital gain"
+      ],
+      "correct_index": 2,
+      "explanation": "Depreciation = capital consumption allowance.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_091",
+      "text": "Net national product equals GNP minus:",
+      "options": [
+        "Exports",
+        "Taxes",
+        "Depreciation",
+        "Subsidies"
+      ],
+      "correct_index": 2,
+      "explanation": "NNP = GNP − depreciation.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_092",
+      "text": "The three functions of money are:",
+      "options": [
+        "Medium of exchange, store of value, unit of account",
+        "Saving, spending, taxing",
+        "Borrowing, lending, trading",
+        "Cash, credit, debit"
+      ],
+      "correct_index": 0,
+      "explanation": "Money's functions: medium of exchange, store of value, unit of account.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_093",
+      "text": "Barter is the exchange of:",
+      "options": [
+        "Goods for goods",
+        "Money for money",
+        "Services for money",
+        "Goods for money"
+      ],
+      "correct_index": 0,
+      "explanation": "Barter = direct exchange of goods.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_094",
+      "text": "The main disadvantage of barter is the:",
+      "options": [
+        "Low taxes",
+        "High prices",
+        "Lack of double coincidence of wants",
+        "Too much money"
+      ],
+      "correct_index": 2,
+      "explanation": "Barter needs a double coincidence of wants.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_095",
+      "text": "The central bank of Nigeria is the:",
+      "options": [
+        "Wema Bank",
+        "First Bank",
+        "Central Bank of Nigeria",
+        "Union Bank"
+      ],
+      "correct_index": 2,
+      "explanation": "The CBN is the central bank.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_096",
+      "text": "The main function of a central bank is to:",
+      "options": [
+        "Maximise profit",
+        "Control money supply and issue currency",
+        "Give consumer loans",
+        "Sell goods"
+      ],
+      "correct_index": 1,
+      "explanation": "The central bank issues currency and controls money supply.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_097",
+      "text": "Commercial banks primarily:",
+      "options": [
+        "Accept deposits and give loans",
+        "Control inflation",
+        "Set interest rates",
+        "Issue currency"
+      ],
+      "correct_index": 0,
+      "explanation": "Commercial banks take deposits and lend.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_098",
+      "text": "The rate at which the central bank lends to commercial banks is the:",
+      "options": [
+        "Interest rate",
+        "Inflation rate",
+        "Exchange rate",
+        "Bank rate (rediscount rate)"
+      ],
+      "correct_index": 3,
+      "explanation": "The bank rate is the central bank's lending rate.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_099",
+      "text": "The current account in a bank is used for:",
+      "options": [
+        "Pensions",
+        "Saving",
+        "Frequent transactions",
+        "Long-term saving"
+      ],
+      "correct_index": 2,
+      "explanation": "Current accounts suit frequent transactions.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_100",
+      "text": "The savings account pays:",
+      "options": [
+        "No interest",
+        "Interest on deposits",
+        "Fees",
+        "Taxes only"
+      ],
+      "correct_index": 1,
+      "explanation": "Savings accounts earn interest.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_101",
+      "text": "A cheque is a:",
+      "options": [
+        "Written order to a bank to pay money",
+        "Loan",
+        "Currency note",
+        "Form of money"
+      ],
+      "correct_index": 0,
+      "explanation": "A cheque orders a bank to pay.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_102",
+      "text": "Near money refers to assets that:",
+      "options": [
+        "Cannot be converted",
+        "Are illegal",
+        "Are cash",
+        "Can be easily converted to cash"
+      ],
+      "correct_index": 3,
+      "explanation": "Near money (e.g. deposits) converts easily to cash.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_103",
+      "text": "The quantity theory of money links money supply to:",
+      "options": [
+        "Exports",
+        "Price level",
+        "Weather",
+        "Population"
+      ],
+      "correct_index": 1,
+      "explanation": "The quantity theory links money to prices.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_104",
+      "text": "Inflation is a persistent rise in the:",
+      "options": [
+        "Value of money",
+        "General price level",
+        "Interest rate",
+        "Exchange rate"
+      ],
+      "correct_index": 1,
+      "explanation": "Inflation = sustained price level rise.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_105",
+      "text": "Deflation is a persistent fall in the:",
+      "options": [
+        "General price level",
+        "Interest rate",
+        "Unemployment",
+        "Money supply"
+      ],
+      "correct_index": 0,
+      "explanation": "Deflation = sustained price fall.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_106",
+      "text": "Demand-pull inflation is caused by:",
+      "options": [
+        "Falling demand",
+        "Tax cuts only",
+        "Excess aggregate demand",
+        "Rising production costs"
+      ],
+      "correct_index": 2,
+      "explanation": "Demand-pull = too much demand.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_107",
+      "text": "Cost-push inflation is caused by:",
+      "options": [
+        "Lower wages",
+        "Excess demand",
+        "Rising production costs",
+        "More money"
+      ],
+      "correct_index": 2,
+      "explanation": "Cost-push = rising costs push prices up.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_108",
+      "text": "Hyperinflation is:",
+      "options": [
+        "Mild inflation",
+        "Extremely rapid inflation",
+        "Zero inflation",
+        "Deflation"
+      ],
+      "correct_index": 1,
+      "explanation": "Hyperinflation is very rapid price rise.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_109",
+      "text": "The effect of inflation on debtors is that they:",
+      "options": [
+        "Gain",
+        "Are unaffected",
+        "Default",
+        "Lose"
+      ],
+      "correct_index": 0,
+      "explanation": "Debtors gain (repay with cheaper money).",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_110",
+      "text": "Inflation is measured by the:",
+      "options": [
+        "Tax rate",
+        "Population",
+        "Consumer Price Index",
+        "Stock exchange"
+      ],
+      "correct_index": 2,
+      "explanation": "The CPI measures inflation.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_111",
+      "text": "Taxation is the compulsory levy by:",
+      "options": [
+        "Individuals only",
+        "Banks",
+        "Government",
+        "Firms"
+      ],
+      "correct_index": 2,
+      "explanation": "Taxes are levied by government.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_112",
+      "text": "A direct tax is one levied on:",
+      "options": [
+        "Goods and services",
+        "Income and property",
+        "Imports",
+        "Exports"
+      ],
+      "correct_index": 1,
+      "explanation": "Direct taxes hit income/property (e.g. income tax).",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_113",
+      "text": "An indirect tax is levied on:",
+      "options": [
+        "Goods and services",
+        "Property",
+        "Profits",
+        "Income"
+      ],
+      "correct_index": 0,
+      "explanation": "Indirect taxes are on goods/services (e.g. VAT).",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_114",
+      "text": "Which of the following is a direct tax?",
+      "options": [
+        "Customs duty",
+        "Excise duty",
+        "VAT",
+        "Personal income tax"
+      ],
+      "correct_index": 3,
+      "explanation": "Income tax is direct.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_115",
+      "text": "Which of the following is an indirect tax?",
+      "options": [
+        "Capital gains tax",
+        "Income tax",
+        "Value Added Tax (VAT)",
+        "Company tax"
+      ],
+      "correct_index": 2,
+      "explanation": "VAT is indirect.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_116",
+      "text": "A progressive tax is one where the rate:",
+      "options": [
+        "Falls as income rises",
+        "Rises as income rises",
+        "Is constant",
+        "Is zero"
+      ],
+      "correct_index": 1,
+      "explanation": "Progressive tax rate rises with income.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_117",
+      "text": "A regressive tax is one where the rate:",
+      "options": [
+        "Rises as income rises",
+        "Is constant",
+        "Is zero",
+        "Falls as income rises"
+      ],
+      "correct_index": 3,
+      "explanation": "Regressive tax takes a smaller share as income rises.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_118",
+      "text": "A proportional (flat) tax has a rate that is:",
+      "options": [
+        "Regressive",
+        "Variable",
+        "Constant",
+        "Progressive"
+      ],
+      "correct_index": 2,
+      "explanation": "Flat tax = same rate for all.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_119",
+      "text": "The government budget is a statement of:",
+      "options": [
+        "Profits",
+        "Expected revenue and expenditure",
+        "Only expenditure",
+        "Only revenue"
+      ],
+      "correct_index": 1,
+      "explanation": "A budget shows revenue and expenditure.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_120",
+      "text": "A budget deficit occurs when:",
+      "options": [
+        "Revenue exceeds expenditure",
+        "Expenditure exceeds revenue",
+        "Revenue equals expenditure",
+        "There is no tax"
+      ],
+      "correct_index": 1,
+      "explanation": "Deficit = spending > revenue.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_121",
+      "text": "A budget surplus occurs when:",
+      "options": [
+        "Revenue exceeds expenditure",
+        "They are equal",
+        "There is no spending",
+        "Expenditure exceeds revenue"
+      ],
+      "correct_index": 0,
+      "explanation": "Surplus = revenue > spending.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_122",
+      "text": "The exchange of goods and services between countries is:",
+      "options": [
+        "Barter",
+        "Retail trade",
+        "Domestic trade",
+        "International trade"
+      ],
+      "correct_index": 3,
+      "explanation": "International trade crosses borders.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_123",
+      "text": "Goods sold to other countries are:",
+      "options": [
+        "Services",
+        "Imports",
+        "Exports",
+        "Capital"
+      ],
+      "correct_index": 2,
+      "explanation": "Exports are goods sold abroad.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_124",
+      "text": "Goods bought from other countries are:",
+      "options": [
+        "Exports",
+        "Imports",
+        "Capital",
+        "Assets"
+      ],
+      "correct_index": 1,
+      "explanation": "Imports are goods bought from abroad.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_125",
+      "text": "The theory of comparative advantage was developed by:",
+      "options": [
+        "David Ricardo",
+        "Keynes",
+        "Marshall",
+        "Adam Smith"
+      ],
+      "correct_index": 0,
+      "explanation": "Ricardo developed comparative advantage.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_126",
+      "text": "Comparative advantage means a country should specialise in goods it produces at:",
+      "options": [
+        "Any cost",
+        "Zero cost",
+        "Higher cost",
+        "Lower opportunity cost"
+      ],
+      "correct_index": 3,
+      "explanation": "Specialise where opportunity cost is lower.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_127",
+      "text": "A tariff is a:",
+      "options": [
+        "Ban on trade",
+        "Tax on imports",
+        "Subsidy on exports",
+        "Quota"
+      ],
+      "correct_index": 1,
+      "explanation": "A tariff taxes imports.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_128",
+      "text": "A quota is a:",
+      "options": [
+        "Tax",
+        "Limit on the quantity of imports",
+        "Subsidy",
+        "Currency control"
+      ],
+      "correct_index": 1,
+      "explanation": "A quota limits import quantity.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_129",
+      "text": "An embargo is a:",
+      "options": [
+        "Total ban on trade with a country",
+        "Quota",
+        "Tariff",
+        "Tax"
+      ],
+      "correct_index": 0,
+      "explanation": "An embargo bans trade.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_130",
+      "text": "The rate at which one currency exchanges for another is the:",
+      "options": [
+        "Inflation rate",
+        "Bank rate",
+        "Interest rate",
+        "Exchange rate"
+      ],
+      "correct_index": 3,
+      "explanation": "The exchange rate values currencies.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_131",
+      "text": "Devaluation is the:",
+      "options": [
+        "Tax increase",
+        "Rise in currency value",
+        "Official lowering of a currency's value",
+        "Rise in prices"
+      ],
+      "correct_index": 2,
+      "explanation": "Devaluation lowers official currency value.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_132",
+      "text": "The balance of trade is the difference between:",
+      "options": [
+        "Imports and exports of goods",
+        "Tax and spending",
+        "Income and expenditure",
+        "Saving and investment"
+      ],
+      "correct_index": 0,
+      "explanation": "Balance of trade = visible exports − imports.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_133",
+      "text": "The balance of payments records:",
+      "options": [
+        "Only imports",
+        "Only exports",
+        "Taxes",
+        "All economic transactions with other countries"
+      ],
+      "correct_index": 3,
+      "explanation": "BOP records all international transactions.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_134",
+      "text": "Invisible trade refers to trade in:",
+      "options": [
+        "Raw materials",
+        "Manufactured goods",
+        "Goods",
+        "Services"
+      ],
+      "correct_index": 3,
+      "explanation": "Invisible trade = services (banking, tourism).",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_135",
+      "text": "Visible trade refers to trade in:",
+      "options": [
+        "Tourism",
+        "Services",
+        "Tangible goods",
+        "Invisibles"
+      ],
+      "correct_index": 2,
+      "explanation": "Visible trade = tangible goods.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_136",
+      "text": "Economic growth is measured by an increase in:",
+      "options": [
+        "Population",
+        "Real national income/output",
+        "Prices",
+        "Imports"
+      ],
+      "correct_index": 1,
+      "explanation": "Growth = increase in real output.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_137",
+      "text": "Economic development involves growth plus:",
+      "options": [
+        "Improvement in living standards",
+        "More imports",
+        "Higher taxes",
+        "Only more money"
+      ],
+      "correct_index": 0,
+      "explanation": "Development improves welfare, not just output.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_138",
+      "text": "A developing country is characterised by:",
+      "options": [
+        "No agriculture",
+        "Full industrialisation",
+        "High per capita income",
+        "Low per capita income"
+      ],
+      "correct_index": 3,
+      "explanation": "Developing countries have low per capita income.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_139",
+      "text": "The main objective of economic planning is to:",
+      "options": [
+        "Increase imports",
+        "Increase taxes",
+        "Achieve economic growth and development",
+        "Reduce population"
+      ],
+      "correct_index": 2,
+      "explanation": "Planning aims for growth and development.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_140",
+      "text": "The population census is the:",
+      "options": [
+        "Counting of the population",
+        "Tax register",
+        "Voter list",
+        "Cattle count"
+      ],
+      "correct_index": 0,
+      "explanation": "A census counts the population.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_141",
+      "text": "Unemployment occurs when people who are able and willing to work:",
+      "options": [
+        "Cannot find jobs",
+        "Refuse work",
+        "Are retired",
+        "Have jobs"
+      ],
+      "correct_index": 0,
+      "explanation": "Unemployment = willing workers without jobs.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_142",
+      "text": "Frictional unemployment is:",
+      "options": [
+        "Seasonal",
+        "Structural",
+        "Long-term",
+        "Temporary, between jobs"
+      ],
+      "correct_index": 3,
+      "explanation": "Frictional unemployment is short-term job transition.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_143",
+      "text": "Structural unemployment is caused by:",
+      "options": [
+        "Recessions only",
+        "Temporary gaps",
+        "Mismatch of skills and jobs",
+        "Seasons"
+      ],
+      "correct_index": 2,
+      "explanation": "Structural unemployment is a skills mismatch.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_144",
+      "text": "Seasonal unemployment occurs due to:",
+      "options": [
+        "Skill mismatch",
+        "Seasonal changes in demand",
+        "Recessions",
+        "Retirement"
+      ],
+      "correct_index": 1,
+      "explanation": "Seasonal unemployment follows seasons.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_145",
+      "text": "The labour force consists of:",
+      "options": [
+        "Those able and willing to work",
+        "Only the employed",
+        "Only the unemployed",
+        "Everyone"
+      ],
+      "correct_index": 0,
+      "explanation": "Labour force = employed + unemployed jobseekers.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_146",
+      "text": "The price system operates through the forces of:",
+      "options": [
+        "Government",
+        "Imports",
+        "Demand and supply",
+        "Taxes"
+      ],
+      "correct_index": 2,
+      "explanation": "Prices are set by demand and supply.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_147",
+      "text": "A subsidy is a:",
+      "options": [
+        "Loan",
+        "Tax",
+        "Government financial support to producers",
+        "Fine"
+      ],
+      "correct_index": 2,
+      "explanation": "A subsidy supports producers.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_148",
+      "text": "Monopoly power can be controlled by:",
+      "options": [
+        "Encouraging mergers",
+        "Anti-monopoly legislation",
+        "Higher tariffs",
+        "More subsidies"
+      ],
+      "correct_index": 1,
+      "explanation": "Anti-monopoly laws curb monopoly power.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_149",
+      "text": "The World Bank's main role is to:",
+      "options": [
+        "Provide development loans",
+        "Set exchange rates",
+        "Print money",
+        "Regulate trade"
+      ],
+      "correct_index": 0,
+      "explanation": "The World Bank funds development.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_150",
+      "text": "The IMF's main role is to:",
+      "options": [
+        "Regulate banks",
+        "Tax countries",
+        "Provide development loans",
+        "Ensure global monetary stability"
+      ],
+      "correct_index": 3,
+      "explanation": "The IMF promotes monetary cooperation.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_151",
+      "text": "OPEC is an organisation of:",
+      "options": [
+        "European nations",
+        "Oil-producing countries",
+        "Importing countries",
+        "African nations"
+      ],
+      "correct_index": 1,
+      "explanation": "OPEC = oil exporters' organisation.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_152",
+      "text": "ECOWAS stands for:",
+      "options": [
+        "Economic Community of West African States",
+        "European Community",
+        "East African States",
+        "Economic Union"
+      ],
+      "correct_index": 0,
+      "explanation": "ECOWAS is the West African community.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_153",
+      "text": "The stock exchange in Nigeria is located in:",
+      "options": [
+        "Lagos",
+        "Kano",
+        "Port Harcourt",
+        "Abuja"
+      ],
+      "correct_index": 0,
+      "explanation": "The Nigerian Stock Exchange is in Lagos.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_154",
+      "text": "The currency of Nigeria is the:",
+      "options": [
+        "Cedi",
+        "Pound",
+        "Dollar",
+        "Naira"
+      ],
+      "correct_index": 3,
+      "explanation": "Nigeria's currency is the naira.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_155",
+      "text": "The process of transferring public enterprises to private ownership is:",
+      "options": [
+        "Commercialisation",
+        "Nationalisation",
+        "Privatisation",
+        "Indigenisation"
+      ],
+      "correct_index": 2,
+      "explanation": "Privatisation transfers to private hands.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_156",
+      "text": "The process of transferring private enterprises to public ownership is:",
+      "options": [
+        "Privatisation",
+        "Nationalisation",
+        "Liberalisation",
+        "Deregulation"
+      ],
+      "correct_index": 1,
+      "explanation": "Nationalisation transfers to public ownership.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_157",
+      "text": "The marginal propensity to consume (MPC) is the:",
+      "options": [
+        "Fraction of extra income spent",
+        "Total saving",
+        "Tax rate",
+        "Total spending"
+      ],
+      "correct_index": 0,
+      "explanation": "MPC = change in consumption/change in income.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_158",
+      "text": "The multiplier effect shows that an increase in investment:",
+      "options": [
+        "Has no effect",
+        "Increases imports only",
+        "Reduces income",
+        "Increases income by a multiple"
+      ],
+      "correct_index": 3,
+      "explanation": "The multiplier magnifies income changes.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_159",
+      "text": "Savings is defined as:",
+      "options": [
+        "Investment",
+        "Income minus consumption",
+        "Consumption minus income",
+        "Total spending"
+      ],
+      "correct_index": 1,
+      "explanation": "Savings = income − consumption.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_160",
+      "text": "The study of economics is considered a:",
+      "options": [
+        "Pure science",
+        "Social science",
+        "Natural science",
+        "Physical science"
+      ],
+      "correct_index": 1,
+      "explanation": "Economics is a social science.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_161",
+      "text": "A market is any arrangement where:",
+      "options": [
+        "Only goods are sold",
+        "Only services are sold",
+        "Taxes are paid",
+        "Buyers and sellers interact"
+      ],
+      "correct_index": 3,
+      "explanation": "A market brings buyers and sellers together.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_162",
+      "text": "Consumer goods used up in one use are:",
+      "options": [
+        "Capital goods",
+        "Free goods",
+        "Durable goods",
+        "Non-durable goods"
+      ],
+      "correct_index": 3,
+      "explanation": "Non-durables (food) are used up quickly.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_163",
+      "text": "Goods that last a long time (e.g. furniture) are:",
+      "options": [
+        "Free goods",
+        "Non-durable",
+        "Durable goods",
+        "Perishable"
+      ],
+      "correct_index": 2,
+      "explanation": "Durable goods last a long time.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_164",
+      "text": "The first bank established in Nigeria was the:",
+      "options": [
+        "First Bank",
+        "African Banking Corporation",
+        "Union Bank",
+        "Wema Bank"
+      ],
+      "correct_index": 1,
+      "explanation": "The African Banking Corporation (1892) was first.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_165",
+      "text": "The Central Bank of Nigeria was established in:",
+      "options": [
+        "1960",
+        "1958",
+        "1963",
+        "1959"
+      ],
+      "correct_index": 1,
+      "explanation": "The CBN was established in 1958.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_166",
+      "text": "The currency used in Nigeria before the naira was the:",
+      "options": [
+        "Cedi",
+        "Franc",
+        "Dollar",
+        "Pound"
+      ],
+      "correct_index": 3,
+      "explanation": "Nigeria used the pound before the naira.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_167",
+      "text": "The naira was introduced in Nigeria in:",
+      "options": [
+        "1963",
+        "1973",
+        "1971",
+        "1960"
+      ],
+      "correct_index": 1,
+      "explanation": "The naira replaced the pound in 1973.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_168",
+      "text": "The coins and notes in circulation form the:",
+      "options": [
+        "Money supply",
+        "Currency",
+        "Deposits",
+        "Reserves"
+      ],
+      "correct_index": 1,
+      "explanation": "Currency = coins and notes in circulation.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_169",
+      "text": "The total stock of money in an economy is the:",
+      "options": [
+        "Money supply",
+        "Reserves",
+        "Deposits only",
+        "Currency"
+      ],
+      "correct_index": 0,
+      "explanation": "Money supply = currency + deposits.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_170",
+      "text": "An inflation that arises from excess demand is:",
+      "options": [
+        "Structural",
+        "Imported",
+        "Cost-push",
+        "Demand-pull"
+      ],
+      "correct_index": 3,
+      "explanation": "Demand-pull inflation is from excess demand.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_171",
+      "text": "The situation of both inflation and unemployment rising together is:",
+      "options": [
+        "Disinflation",
+        "Deflation",
+        "Stagflation",
+        "Reflation"
+      ],
+      "correct_index": 2,
+      "explanation": "Stagflation = stagnation + inflation.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_172",
+      "text": "Reflation is the policy of:",
+      "options": [
+        "Reducing prices",
+        "Reviving the economy after deflation",
+        "Increasing unemployment",
+        "Cutting spending"
+      ],
+      "correct_index": 1,
+      "explanation": "Reflation stimulates the economy.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_173",
+      "text": "The deliberate reduction of the inflation rate is:",
+      "options": [
+        "Disinflation",
+        "Deflation",
+        "Stagflation",
+        "Reflation"
+      ],
+      "correct_index": 0,
+      "explanation": "Disinflation = slowing inflation.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_174",
+      "text": "The price of one currency in terms of another is the:",
+      "options": [
+        "Bank rate",
+        "Inflation rate",
+        "Interest rate",
+        "Exchange rate"
+      ],
+      "correct_index": 3,
+      "explanation": "The exchange rate prices currencies.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_175",
+      "text": "A rise in the value of a currency under a floating system is:",
+      "options": [
+        "Revaluation",
+        "Devaluation",
+        "Appreciation",
+        "Depreciation"
+      ],
+      "correct_index": 2,
+      "explanation": "Appreciation = rise in currency value.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_176",
+      "text": "A fall in the value of a floating currency is:",
+      "options": [
+        "Appreciation",
+        "Depreciation",
+        "Revaluation",
+        "Devaluation"
+      ],
+      "correct_index": 1,
+      "explanation": "Depreciation = fall in floating currency value.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_177",
+      "text": "The official raising of a currency's value is:",
+      "options": [
+        "Revaluation",
+        "Devaluation",
+        "Appreciation",
+        "Depreciation"
+      ],
+      "correct_index": 0,
+      "explanation": "Revaluation = official value increase.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_178",
+      "text": "The market where foreign currencies are traded is the:",
+      "options": [
+        "Commodity market",
+        "Money market",
+        "Stock market",
+        "Foreign exchange market"
+      ],
+      "correct_index": 3,
+      "explanation": "Forex market trades currencies.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_179",
+      "text": "The central bank's control of money supply to influence the economy is:",
+      "options": [
+        "Income policy",
+        "Fiscal policy",
+        "Monetary policy",
+        "Trade policy"
+      ],
+      "correct_index": 2,
+      "explanation": "Monetary policy controls money supply.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_180",
+      "text": "The government's use of taxation and spending is:",
+      "options": [
+        "Monetary policy",
+        "Fiscal policy",
+        "Trade policy",
+        "Exchange policy"
+      ],
+      "correct_index": 1,
+      "explanation": "Fiscal policy uses taxes and spending.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_181",
+      "text": "The instruments of monetary policy include:",
+      "options": [
+        "Open market operations and bank rate",
+        "Subsidies",
+        "Tariffs",
+        "Taxes"
+      ],
+      "correct_index": 0,
+      "explanation": "Monetary tools include OMO and bank rate.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_182",
+      "text": "The central bank sells securities to reduce money supply through:",
+      "options": [
+        "Tariffs",
+        "Subsidies",
+        "Fiscal policy",
+        "Open market operations"
+      ],
+      "correct_index": 3,
+      "explanation": "OMO sells securities to contract money supply.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_183",
+      "text": "The minimum cash banks must hold is the:",
+      "options": [
+        "Tax rate",
+        "Interest rate",
+        "Cash reserve ratio",
+        "Exchange rate"
+      ],
+      "correct_index": 2,
+      "explanation": "The cash reserve ratio sets minimum reserves.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_184",
+      "text": "The total value of a country's exports minus imports of goods is the:",
+      "options": [
+        "Balance of payments",
+        "Balance of trade",
+        "National income",
+        "Budget"
+      ],
+      "correct_index": 1,
+      "explanation": "Balance of trade = visible exports − imports.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_185",
+      "text": "A favourable balance of trade means:",
+      "options": [
+        "Exports exceed imports",
+        "They are equal",
+        "No trade",
+        "Imports exceed exports"
+      ],
+      "correct_index": 0,
+      "explanation": "Favourable = exports > imports.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_186",
+      "text": "An unfavourable balance of trade means:",
+      "options": [
+        "They are equal",
+        "No trade",
+        "Exports exceed imports",
+        "Imports exceed exports"
+      ],
+      "correct_index": 3,
+      "explanation": "Unfavourable = imports > exports.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_187",
+      "text": "The organisation that regulates international trade is the:",
+      "options": [
+        "OPEC",
+        "IMF",
+        "WTO",
+        "World Bank"
+      ],
+      "correct_index": 2,
+      "explanation": "The WTO regulates global trade.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_188",
+      "text": "The headquarters of OPEC is in:",
+      "options": [
+        "Riyadh",
+        "Vienna",
+        "Abuja",
+        "Cairo"
+      ],
+      "correct_index": 1,
+      "explanation": "OPEC's headquarters is in Vienna.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_189",
+      "text": "The headquarters of ECOWAS is in:",
+      "options": [
+        "Abuja",
+        "Accra",
+        "Dakar",
+        "Lagos"
+      ],
+      "correct_index": 0,
+      "explanation": "ECOWAS is headquartered in Abuja.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_190",
+      "text": "The major source of government revenue in Nigeria is:",
+      "options": [
+        "Aid",
+        "Tourism",
+        "Taxes",
+        "Oil revenue"
+      ],
+      "correct_index": 3,
+      "explanation": "Oil revenue dominates Nigerian finances.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_191",
+      "text": "The budget where revenue equals expenditure is a:",
+      "options": [
+        "Capital budget",
+        "Deficit budget",
+        "Balanced budget",
+        "Surplus budget"
+      ],
+      "correct_index": 2,
+      "explanation": "A balanced budget has revenue = spending.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_192",
+      "text": "The budget that covers day-to-day government spending is the:",
+      "options": [
+        "Capital budget",
+        "Recurrent budget",
+        "Supplementary budget",
+        "Deficit budget"
+      ],
+      "correct_index": 1,
+      "explanation": "The recurrent budget covers routine spending.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_193",
+      "text": "The budget for long-term projects (roads, buildings) is the:",
+      "options": [
+        "Capital budget",
+        "Supplementary budget",
+        "Annual budget",
+        "Recurrent budget"
+      ],
+      "correct_index": 0,
+      "explanation": "The capital budget funds projects.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_194",
+      "text": "The total debt owed by the government is the:",
+      "options": [
+        "Trade deficit",
+        "Current debt",
+        "Budget deficit",
+        "National (public) debt"
+      ],
+      "correct_index": 3,
+      "explanation": "National debt is total government borrowing.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_195",
+      "text": "The agency that collects taxes in Nigeria is the:",
+      "options": [
+        "SEC",
+        "CBN",
+        "FIRS (Federal Inland Revenue Service)",
+        "NNPC"
+      ],
+      "correct_index": 2,
+      "explanation": "FIRS collects federal taxes.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_196",
+      "text": "Value Added Tax (VAT) in Nigeria is administered by:",
+      "options": [
+        "CBN",
+        "FIRS",
+        "NDIC",
+        "SEC"
+      ],
+      "correct_index": 1,
+      "explanation": "FIRS administers VAT.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_197",
+      "text": "The agency that insures bank deposits in Nigeria is the:",
+      "options": [
+        "NDIC",
+        "SEC",
+        "FIRS",
+        "CBN"
+      ],
+      "correct_index": 0,
+      "explanation": "NDIC insures deposits.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_198",
+      "text": "The agency that regulates the capital market in Nigeria is the:",
+      "options": [
+        "NDIC",
+        "FIRS",
+        "CBN",
+        "SEC (Securities and Exchange Commission)"
+      ],
+      "correct_index": 3,
+      "explanation": "SEC regulates the capital market.",
+      "difficulty": 2
+    },
+    {
+      "id": "eco_199",
+      "text": "The oldest economic system is the:",
+      "options": [
+        "Mixed economy",
+        "Capitalism",
+        "Traditional economy",
+        "Socialism"
+      ],
+      "correct_index": 2,
+      "explanation": "Traditional economies are the oldest.",
+      "difficulty": 1
+    },
+    {
+      "id": "eco_200",
+      "text": "The economic term for human wants is that they are:",
+      "options": [
+        "Limited",
+        "Unlimited",
+        "Fixed",
+        "Few"
+      ],
+      "correct_index": 1,
+      "explanation": "Human wants are unlimited.",
+      "difficulty": 1
+    }
+  ]
+}

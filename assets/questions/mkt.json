@@ -1,0 +1,2607 @@
+{
+  "course_id": "mkt",
+  "course_name": "Marketing",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "mkt_001",
+      "text": "Marketing is:",
+      "options": [
+        "Only buying",
+        "Only selling",
+        "No activities",
+        "Flow of goods to consumers"
+      ],
+      "correct_index": 3,
+      "explanation": "Flow goods consumers.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_002",
+      "text": "4Ps are:",
+      "options": [
+        "No Ps",
+        "Only product",
+        "Product Price Place Promotion",
+        "People Price Place Promotion"
+      ],
+      "correct_index": 2,
+      "explanation": "4Ps.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_003",
+      "text": "Product life cycle:",
+      "options": [
+        "Only decline",
+        "Intro growth maturity decline",
+        "Only intro",
+        "No cycle"
+      ],
+      "correct_index": 1,
+      "explanation": "PLC.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_004",
+      "text": "Advertising is:",
+      "options": [
+        "Paid non-personal",
+        "Free",
+        "Personal only",
+        "No promotion"
+      ],
+      "correct_index": 0,
+      "explanation": "Paid non-personal.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_005",
+      "text": "Wholesaler buys:",
+      "options": [
+        "Small",
+        "No bulk",
+        "Only retail",
+        "In bulk"
+      ],
+      "correct_index": 3,
+      "explanation": "Bulk.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_006",
+      "text": "Retailer sells to:",
+      "options": [
+        "No consumer",
+        "Only bulk",
+        "Final consumer",
+        "Wholesaler"
+      ],
+      "correct_index": 2,
+      "explanation": "Final consumer.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_007",
+      "text": "SWOT means:",
+      "options": [
+        "Only weaknesses",
+        "Strengths Weaknesses Opportunities Threats",
+        "No meaning",
+        "Only strengths"
+      ],
+      "correct_index": 1,
+      "explanation": "SWOT.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_008",
+      "text": "Market segmentation:",
+      "options": [
+        "Dividing market",
+        "No division",
+        "Only mass",
+        "Only niche"
+      ],
+      "correct_index": 0,
+      "explanation": "Dividing.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_009",
+      "text": "Branding is:",
+      "options": [
+        "No identity",
+        "Only name",
+        "Only logo",
+        "Identity"
+      ],
+      "correct_index": 3,
+      "explanation": "Identity.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_010",
+      "text": "AIDA means:",
+      "options": [
+        "Only attention",
+        "Only action",
+        "Attention Interest Desire Action",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "AIDA.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_011",
+      "text": "SEO means:",
+      "options": [
+        "Only engine",
+        "Search Engine Optimization",
+        "No optimization",
+        "Only search"
+      ],
+      "correct_index": 1,
+      "explanation": "SEO.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_012",
+      "text": "CRM means:",
+      "options": [
+        "Customer Relationship Management",
+        "No management",
+        "Only customer",
+        "Only relationship"
+      ],
+      "correct_index": 0,
+      "explanation": "CRM.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_013",
+      "text": "Break-even is:",
+      "options": [
+        "Revenue>Cost",
+        "Revenue<Cost",
+        "No revenue",
+        "Revenue=Cost"
+      ],
+      "correct_index": 3,
+      "explanation": "Revenue=Cost.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_014",
+      "text": "Profit is:",
+      "options": [
+        "Revenue*Cost",
+        "Revenue/Cost",
+        "Revenue-Cost",
+        "Revenue+Cost"
+      ],
+      "correct_index": 2,
+      "explanation": "Revenue-Cost.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_015",
+      "text": "Niche market is:",
+      "options": [
+        "Only mass",
+        "Small specialized",
+        "Large",
+        "No market"
+      ],
+      "correct_index": 1,
+      "explanation": "Small specialized.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_016",
+      "text": "Mass marketing:",
+      "options": [
+        "One for all",
+        "Different for all",
+        "No marketing",
+        "Only niche"
+      ],
+      "correct_index": 0,
+      "explanation": "One for all.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_017",
+      "text": "Viral marketing:",
+      "options": [
+        "No spreading",
+        "Only slow",
+        "Only traditional",
+        "Spreads quickly"
+      ],
+      "correct_index": 3,
+      "explanation": "Spreads quickly.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_018",
+      "text": "Direct marketing:",
+      "options": [
+        "No direct",
+        "Only publicity",
+        "Email telemarketing",
+        "Only advertising"
+      ],
+      "correct_index": 2,
+      "explanation": "Email.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_019",
+      "text": "Digital marketing uses:",
+      "options": [
+        "Only print",
+        "Internet",
+        "No internet",
+        "Only traditional"
+      ],
+      "correct_index": 1,
+      "explanation": "Internet.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_020",
+      "text": "Market share is:",
+      "options": [
+        "Company % of total",
+        "No share",
+        "Only total",
+        "Only company"
+      ],
+      "correct_index": 0,
+      "explanation": "Company % total.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_021",
+      "text": "Marketing is: (variant 21)",
+      "options": [
+        "Only buying",
+        "Only selling",
+        "No activities",
+        "Flow of goods to consumers"
+      ],
+      "correct_index": 3,
+      "explanation": "Flow goods consumers.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_022",
+      "text": "4Ps are: (variant 22)",
+      "options": [
+        "No Ps",
+        "Only product",
+        "Product Price Place Promotion",
+        "People Price Place Promotion"
+      ],
+      "correct_index": 2,
+      "explanation": "4Ps.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_023",
+      "text": "Product life cycle: (variant 23)",
+      "options": [
+        "Only decline",
+        "Intro growth maturity decline",
+        "Only intro",
+        "No cycle"
+      ],
+      "correct_index": 1,
+      "explanation": "PLC.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_024",
+      "text": "Advertising is: (variant 24)",
+      "options": [
+        "Paid non-personal",
+        "Free",
+        "Personal only",
+        "No promotion"
+      ],
+      "correct_index": 0,
+      "explanation": "Paid non-personal.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_025",
+      "text": "Wholesaler buys: (variant 25)",
+      "options": [
+        "Small",
+        "No bulk",
+        "Only retail",
+        "In bulk"
+      ],
+      "correct_index": 3,
+      "explanation": "Bulk.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_026",
+      "text": "Retailer sells to: (variant 26)",
+      "options": [
+        "No consumer",
+        "Only bulk",
+        "Final consumer",
+        "Wholesaler"
+      ],
+      "correct_index": 2,
+      "explanation": "Final consumer.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_027",
+      "text": "SWOT means: (variant 27)",
+      "options": [
+        "Only weaknesses",
+        "Strengths Weaknesses Opportunities Threats",
+        "No meaning",
+        "Only strengths"
+      ],
+      "correct_index": 1,
+      "explanation": "SWOT.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_028",
+      "text": "Market segmentation: (variant 28)",
+      "options": [
+        "Dividing market",
+        "No division",
+        "Only mass",
+        "Only niche"
+      ],
+      "correct_index": 0,
+      "explanation": "Dividing.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_029",
+      "text": "Branding is: (variant 29)",
+      "options": [
+        "No identity",
+        "Only name",
+        "Only logo",
+        "Identity"
+      ],
+      "correct_index": 3,
+      "explanation": "Identity.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_030",
+      "text": "AIDA means: (variant 30)",
+      "options": [
+        "Only attention",
+        "Only action",
+        "Attention Interest Desire Action",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "AIDA.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_031",
+      "text": "SEO means: (variant 31)",
+      "options": [
+        "Only engine",
+        "Search Engine Optimization",
+        "No optimization",
+        "Only search"
+      ],
+      "correct_index": 1,
+      "explanation": "SEO.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_032",
+      "text": "CRM means: (variant 32)",
+      "options": [
+        "Customer Relationship Management",
+        "No management",
+        "Only customer",
+        "Only relationship"
+      ],
+      "correct_index": 0,
+      "explanation": "CRM.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_033",
+      "text": "Break-even is: (variant 33)",
+      "options": [
+        "Revenue>Cost",
+        "Revenue<Cost",
+        "No revenue",
+        "Revenue=Cost"
+      ],
+      "correct_index": 3,
+      "explanation": "Revenue=Cost.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_034",
+      "text": "Profit is: (variant 34)",
+      "options": [
+        "Revenue*Cost",
+        "Revenue/Cost",
+        "Revenue-Cost",
+        "Revenue+Cost"
+      ],
+      "correct_index": 2,
+      "explanation": "Revenue-Cost.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_035",
+      "text": "Niche market is: (variant 35)",
+      "options": [
+        "Only mass",
+        "Small specialized",
+        "Large",
+        "No market"
+      ],
+      "correct_index": 1,
+      "explanation": "Small specialized.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_036",
+      "text": "Mass marketing: (variant 36)",
+      "options": [
+        "One for all",
+        "Different for all",
+        "No marketing",
+        "Only niche"
+      ],
+      "correct_index": 0,
+      "explanation": "One for all.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_037",
+      "text": "Viral marketing: (variant 37)",
+      "options": [
+        "No spreading",
+        "Only slow",
+        "Only traditional",
+        "Spreads quickly"
+      ],
+      "correct_index": 3,
+      "explanation": "Spreads quickly.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_038",
+      "text": "Direct marketing: (variant 38)",
+      "options": [
+        "No direct",
+        "Only publicity",
+        "Email telemarketing",
+        "Only advertising"
+      ],
+      "correct_index": 2,
+      "explanation": "Email.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_039",
+      "text": "Digital marketing uses: (variant 39)",
+      "options": [
+        "Only print",
+        "Internet",
+        "No internet",
+        "Only traditional"
+      ],
+      "correct_index": 1,
+      "explanation": "Internet.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_040",
+      "text": "Market share is: (variant 40)",
+      "options": [
+        "Company % of total",
+        "No share",
+        "Only total",
+        "Only company"
+      ],
+      "correct_index": 0,
+      "explanation": "Company % total.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_041",
+      "text": "Marketing is: (variant 41)",
+      "options": [
+        "Only buying",
+        "Only selling",
+        "No activities",
+        "Flow of goods to consumers"
+      ],
+      "correct_index": 3,
+      "explanation": "Flow goods consumers.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_042",
+      "text": "4Ps are: (variant 42)",
+      "options": [
+        "No Ps",
+        "Only product",
+        "Product Price Place Promotion",
+        "People Price Place Promotion"
+      ],
+      "correct_index": 2,
+      "explanation": "4Ps.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_043",
+      "text": "Product life cycle: (variant 43)",
+      "options": [
+        "Only decline",
+        "Intro growth maturity decline",
+        "Only intro",
+        "No cycle"
+      ],
+      "correct_index": 1,
+      "explanation": "PLC.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_044",
+      "text": "Advertising is: (variant 44)",
+      "options": [
+        "Paid non-personal",
+        "Free",
+        "Personal only",
+        "No promotion"
+      ],
+      "correct_index": 0,
+      "explanation": "Paid non-personal.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_045",
+      "text": "Wholesaler buys: (variant 45)",
+      "options": [
+        "Small",
+        "No bulk",
+        "Only retail",
+        "In bulk"
+      ],
+      "correct_index": 3,
+      "explanation": "Bulk.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_046",
+      "text": "Retailer sells to: (variant 46)",
+      "options": [
+        "No consumer",
+        "Only bulk",
+        "Final consumer",
+        "Wholesaler"
+      ],
+      "correct_index": 2,
+      "explanation": "Final consumer.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_047",
+      "text": "SWOT means: (variant 47)",
+      "options": [
+        "Only weaknesses",
+        "Strengths Weaknesses Opportunities Threats",
+        "No meaning",
+        "Only strengths"
+      ],
+      "correct_index": 1,
+      "explanation": "SWOT.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_048",
+      "text": "Market segmentation: (variant 48)",
+      "options": [
+        "Dividing market",
+        "No division",
+        "Only mass",
+        "Only niche"
+      ],
+      "correct_index": 0,
+      "explanation": "Dividing.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_049",
+      "text": "Branding is: (variant 49)",
+      "options": [
+        "No identity",
+        "Only name",
+        "Only logo",
+        "Identity"
+      ],
+      "correct_index": 3,
+      "explanation": "Identity.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_050",
+      "text": "AIDA means: (variant 50)",
+      "options": [
+        "Only attention",
+        "Only action",
+        "Attention Interest Desire Action",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "AIDA.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_051",
+      "text": "SEO means: (variant 51)",
+      "options": [
+        "Only engine",
+        "Search Engine Optimization",
+        "No optimization",
+        "Only search"
+      ],
+      "correct_index": 1,
+      "explanation": "SEO.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_052",
+      "text": "CRM means: (variant 52)",
+      "options": [
+        "Customer Relationship Management",
+        "No management",
+        "Only customer",
+        "Only relationship"
+      ],
+      "correct_index": 0,
+      "explanation": "CRM.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_053",
+      "text": "Break-even is: (variant 53)",
+      "options": [
+        "Revenue>Cost",
+        "Revenue<Cost",
+        "No revenue",
+        "Revenue=Cost"
+      ],
+      "correct_index": 3,
+      "explanation": "Revenue=Cost.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_054",
+      "text": "Profit is: (variant 54)",
+      "options": [
+        "Revenue*Cost",
+        "Revenue/Cost",
+        "Revenue-Cost",
+        "Revenue+Cost"
+      ],
+      "correct_index": 2,
+      "explanation": "Revenue-Cost.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_055",
+      "text": "Niche market is: (variant 55)",
+      "options": [
+        "Only mass",
+        "Small specialized",
+        "Large",
+        "No market"
+      ],
+      "correct_index": 1,
+      "explanation": "Small specialized.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_056",
+      "text": "Mass marketing: (variant 56)",
+      "options": [
+        "One for all",
+        "Different for all",
+        "No marketing",
+        "Only niche"
+      ],
+      "correct_index": 0,
+      "explanation": "One for all.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_057",
+      "text": "Viral marketing: (variant 57)",
+      "options": [
+        "No spreading",
+        "Only slow",
+        "Only traditional",
+        "Spreads quickly"
+      ],
+      "correct_index": 3,
+      "explanation": "Spreads quickly.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_058",
+      "text": "Direct marketing: (variant 58)",
+      "options": [
+        "No direct",
+        "Only publicity",
+        "Email telemarketing",
+        "Only advertising"
+      ],
+      "correct_index": 2,
+      "explanation": "Email.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_059",
+      "text": "Digital marketing uses: (variant 59)",
+      "options": [
+        "Only print",
+        "Internet",
+        "No internet",
+        "Only traditional"
+      ],
+      "correct_index": 1,
+      "explanation": "Internet.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_060",
+      "text": "Market share is: (variant 60)",
+      "options": [
+        "Company % of total",
+        "No share",
+        "Only total",
+        "Only company"
+      ],
+      "correct_index": 0,
+      "explanation": "Company % total.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_061",
+      "text": "Marketing is: (variant 61)",
+      "options": [
+        "Only buying",
+        "Only selling",
+        "No activities",
+        "Flow of goods to consumers"
+      ],
+      "correct_index": 3,
+      "explanation": "Flow goods consumers.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_062",
+      "text": "4Ps are: (variant 62)",
+      "options": [
+        "No Ps",
+        "Only product",
+        "Product Price Place Promotion",
+        "People Price Place Promotion"
+      ],
+      "correct_index": 2,
+      "explanation": "4Ps.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_063",
+      "text": "Product life cycle: (variant 63)",
+      "options": [
+        "Only decline",
+        "Intro growth maturity decline",
+        "Only intro",
+        "No cycle"
+      ],
+      "correct_index": 1,
+      "explanation": "PLC.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_064",
+      "text": "Advertising is: (variant 64)",
+      "options": [
+        "Paid non-personal",
+        "Free",
+        "Personal only",
+        "No promotion"
+      ],
+      "correct_index": 0,
+      "explanation": "Paid non-personal.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_065",
+      "text": "Wholesaler buys: (variant 65)",
+      "options": [
+        "Small",
+        "No bulk",
+        "Only retail",
+        "In bulk"
+      ],
+      "correct_index": 3,
+      "explanation": "Bulk.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_066",
+      "text": "Retailer sells to: (variant 66)",
+      "options": [
+        "No consumer",
+        "Only bulk",
+        "Final consumer",
+        "Wholesaler"
+      ],
+      "correct_index": 2,
+      "explanation": "Final consumer.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_067",
+      "text": "SWOT means: (variant 67)",
+      "options": [
+        "Only weaknesses",
+        "Strengths Weaknesses Opportunities Threats",
+        "No meaning",
+        "Only strengths"
+      ],
+      "correct_index": 1,
+      "explanation": "SWOT.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_068",
+      "text": "Market segmentation: (variant 68)",
+      "options": [
+        "Dividing market",
+        "No division",
+        "Only mass",
+        "Only niche"
+      ],
+      "correct_index": 0,
+      "explanation": "Dividing.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_069",
+      "text": "Branding is: (variant 69)",
+      "options": [
+        "No identity",
+        "Only name",
+        "Only logo",
+        "Identity"
+      ],
+      "correct_index": 3,
+      "explanation": "Identity.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_070",
+      "text": "AIDA means: (variant 70)",
+      "options": [
+        "Only attention",
+        "Only action",
+        "Attention Interest Desire Action",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "AIDA.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_071",
+      "text": "SEO means: (variant 71)",
+      "options": [
+        "Only engine",
+        "Search Engine Optimization",
+        "No optimization",
+        "Only search"
+      ],
+      "correct_index": 1,
+      "explanation": "SEO.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_072",
+      "text": "CRM means: (variant 72)",
+      "options": [
+        "Customer Relationship Management",
+        "No management",
+        "Only customer",
+        "Only relationship"
+      ],
+      "correct_index": 0,
+      "explanation": "CRM.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_073",
+      "text": "Break-even is: (variant 73)",
+      "options": [
+        "Revenue>Cost",
+        "Revenue<Cost",
+        "No revenue",
+        "Revenue=Cost"
+      ],
+      "correct_index": 3,
+      "explanation": "Revenue=Cost.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_074",
+      "text": "Profit is: (variant 74)",
+      "options": [
+        "Revenue*Cost",
+        "Revenue/Cost",
+        "Revenue-Cost",
+        "Revenue+Cost"
+      ],
+      "correct_index": 2,
+      "explanation": "Revenue-Cost.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_075",
+      "text": "Niche market is: (variant 75)",
+      "options": [
+        "Only mass",
+        "Small specialized",
+        "Large",
+        "No market"
+      ],
+      "correct_index": 1,
+      "explanation": "Small specialized.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_076",
+      "text": "Mass marketing: (variant 76)",
+      "options": [
+        "One for all",
+        "Different for all",
+        "No marketing",
+        "Only niche"
+      ],
+      "correct_index": 0,
+      "explanation": "One for all.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_077",
+      "text": "Viral marketing: (variant 77)",
+      "options": [
+        "No spreading",
+        "Only slow",
+        "Only traditional",
+        "Spreads quickly"
+      ],
+      "correct_index": 3,
+      "explanation": "Spreads quickly.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_078",
+      "text": "Direct marketing: (variant 78)",
+      "options": [
+        "No direct",
+        "Only publicity",
+        "Email telemarketing",
+        "Only advertising"
+      ],
+      "correct_index": 2,
+      "explanation": "Email.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_079",
+      "text": "Digital marketing uses: (variant 79)",
+      "options": [
+        "Only print",
+        "Internet",
+        "No internet",
+        "Only traditional"
+      ],
+      "correct_index": 1,
+      "explanation": "Internet.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_080",
+      "text": "Market share is: (variant 80)",
+      "options": [
+        "Company % of total",
+        "No share",
+        "Only total",
+        "Only company"
+      ],
+      "correct_index": 0,
+      "explanation": "Company % total.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_081",
+      "text": "Marketing is: (variant 81)",
+      "options": [
+        "Only buying",
+        "Only selling",
+        "No activities",
+        "Flow of goods to consumers"
+      ],
+      "correct_index": 3,
+      "explanation": "Flow goods consumers.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_082",
+      "text": "4Ps are: (variant 82)",
+      "options": [
+        "No Ps",
+        "Only product",
+        "Product Price Place Promotion",
+        "People Price Place Promotion"
+      ],
+      "correct_index": 2,
+      "explanation": "4Ps.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_083",
+      "text": "Product life cycle: (variant 83)",
+      "options": [
+        "Only decline",
+        "Intro growth maturity decline",
+        "Only intro",
+        "No cycle"
+      ],
+      "correct_index": 1,
+      "explanation": "PLC.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_084",
+      "text": "Advertising is: (variant 84)",
+      "options": [
+        "Paid non-personal",
+        "Free",
+        "Personal only",
+        "No promotion"
+      ],
+      "correct_index": 0,
+      "explanation": "Paid non-personal.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_085",
+      "text": "Wholesaler buys: (variant 85)",
+      "options": [
+        "Small",
+        "No bulk",
+        "Only retail",
+        "In bulk"
+      ],
+      "correct_index": 3,
+      "explanation": "Bulk.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_086",
+      "text": "Retailer sells to: (variant 86)",
+      "options": [
+        "No consumer",
+        "Only bulk",
+        "Final consumer",
+        "Wholesaler"
+      ],
+      "correct_index": 2,
+      "explanation": "Final consumer.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_087",
+      "text": "SWOT means: (variant 87)",
+      "options": [
+        "Only weaknesses",
+        "Strengths Weaknesses Opportunities Threats",
+        "No meaning",
+        "Only strengths"
+      ],
+      "correct_index": 1,
+      "explanation": "SWOT.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_088",
+      "text": "Market segmentation: (variant 88)",
+      "options": [
+        "Dividing market",
+        "No division",
+        "Only mass",
+        "Only niche"
+      ],
+      "correct_index": 0,
+      "explanation": "Dividing.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_089",
+      "text": "Branding is: (variant 89)",
+      "options": [
+        "No identity",
+        "Only name",
+        "Only logo",
+        "Identity"
+      ],
+      "correct_index": 3,
+      "explanation": "Identity.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_090",
+      "text": "AIDA means: (variant 90)",
+      "options": [
+        "Only attention",
+        "Only action",
+        "Attention Interest Desire Action",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "AIDA.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_091",
+      "text": "SEO means: (variant 91)",
+      "options": [
+        "Only engine",
+        "Search Engine Optimization",
+        "No optimization",
+        "Only search"
+      ],
+      "correct_index": 1,
+      "explanation": "SEO.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_092",
+      "text": "CRM means: (variant 92)",
+      "options": [
+        "Customer Relationship Management",
+        "No management",
+        "Only customer",
+        "Only relationship"
+      ],
+      "correct_index": 0,
+      "explanation": "CRM.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_093",
+      "text": "Break-even is: (variant 93)",
+      "options": [
+        "Revenue>Cost",
+        "Revenue<Cost",
+        "No revenue",
+        "Revenue=Cost"
+      ],
+      "correct_index": 3,
+      "explanation": "Revenue=Cost.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_094",
+      "text": "Profit is: (variant 94)",
+      "options": [
+        "Revenue*Cost",
+        "Revenue/Cost",
+        "Revenue-Cost",
+        "Revenue+Cost"
+      ],
+      "correct_index": 2,
+      "explanation": "Revenue-Cost.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_095",
+      "text": "Niche market is: (variant 95)",
+      "options": [
+        "Only mass",
+        "Small specialized",
+        "Large",
+        "No market"
+      ],
+      "correct_index": 1,
+      "explanation": "Small specialized.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_096",
+      "text": "Mass marketing: (variant 96)",
+      "options": [
+        "One for all",
+        "Different for all",
+        "No marketing",
+        "Only niche"
+      ],
+      "correct_index": 0,
+      "explanation": "One for all.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_097",
+      "text": "Viral marketing: (variant 97)",
+      "options": [
+        "No spreading",
+        "Only slow",
+        "Only traditional",
+        "Spreads quickly"
+      ],
+      "correct_index": 3,
+      "explanation": "Spreads quickly.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_098",
+      "text": "Direct marketing: (variant 98)",
+      "options": [
+        "No direct",
+        "Only publicity",
+        "Email telemarketing",
+        "Only advertising"
+      ],
+      "correct_index": 2,
+      "explanation": "Email.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_099",
+      "text": "Digital marketing uses: (variant 99)",
+      "options": [
+        "Only print",
+        "Internet",
+        "No internet",
+        "Only traditional"
+      ],
+      "correct_index": 1,
+      "explanation": "Internet.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_100",
+      "text": "Market share is: (variant 100)",
+      "options": [
+        "Company % of total",
+        "No share",
+        "Only total",
+        "Only company"
+      ],
+      "correct_index": 0,
+      "explanation": "Company % total.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_101",
+      "text": "Marketing is: (variant 101)",
+      "options": [
+        "Only buying",
+        "Only selling",
+        "No activities",
+        "Flow of goods to consumers"
+      ],
+      "correct_index": 3,
+      "explanation": "Flow goods consumers.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_102",
+      "text": "4Ps are: (variant 102)",
+      "options": [
+        "No Ps",
+        "Only product",
+        "Product Price Place Promotion",
+        "People Price Place Promotion"
+      ],
+      "correct_index": 2,
+      "explanation": "4Ps.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_103",
+      "text": "Product life cycle: (variant 103)",
+      "options": [
+        "Only decline",
+        "Intro growth maturity decline",
+        "Only intro",
+        "No cycle"
+      ],
+      "correct_index": 1,
+      "explanation": "PLC.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_104",
+      "text": "Advertising is: (variant 104)",
+      "options": [
+        "Paid non-personal",
+        "Free",
+        "Personal only",
+        "No promotion"
+      ],
+      "correct_index": 0,
+      "explanation": "Paid non-personal.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_105",
+      "text": "Wholesaler buys: (variant 105)",
+      "options": [
+        "Small",
+        "No bulk",
+        "Only retail",
+        "In bulk"
+      ],
+      "correct_index": 3,
+      "explanation": "Bulk.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_106",
+      "text": "Retailer sells to: (variant 106)",
+      "options": [
+        "No consumer",
+        "Only bulk",
+        "Final consumer",
+        "Wholesaler"
+      ],
+      "correct_index": 2,
+      "explanation": "Final consumer.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_107",
+      "text": "SWOT means: (variant 107)",
+      "options": [
+        "Only weaknesses",
+        "Strengths Weaknesses Opportunities Threats",
+        "No meaning",
+        "Only strengths"
+      ],
+      "correct_index": 1,
+      "explanation": "SWOT.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_108",
+      "text": "Market segmentation: (variant 108)",
+      "options": [
+        "Dividing market",
+        "No division",
+        "Only mass",
+        "Only niche"
+      ],
+      "correct_index": 0,
+      "explanation": "Dividing.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_109",
+      "text": "Branding is: (variant 109)",
+      "options": [
+        "No identity",
+        "Only name",
+        "Only logo",
+        "Identity"
+      ],
+      "correct_index": 3,
+      "explanation": "Identity.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_110",
+      "text": "AIDA means: (variant 110)",
+      "options": [
+        "Only attention",
+        "Only action",
+        "Attention Interest Desire Action",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "AIDA.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_111",
+      "text": "SEO means: (variant 111)",
+      "options": [
+        "Only engine",
+        "Search Engine Optimization",
+        "No optimization",
+        "Only search"
+      ],
+      "correct_index": 1,
+      "explanation": "SEO.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_112",
+      "text": "CRM means: (variant 112)",
+      "options": [
+        "Customer Relationship Management",
+        "No management",
+        "Only customer",
+        "Only relationship"
+      ],
+      "correct_index": 0,
+      "explanation": "CRM.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_113",
+      "text": "Break-even is: (variant 113)",
+      "options": [
+        "Revenue>Cost",
+        "Revenue<Cost",
+        "No revenue",
+        "Revenue=Cost"
+      ],
+      "correct_index": 3,
+      "explanation": "Revenue=Cost.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_114",
+      "text": "Profit is: (variant 114)",
+      "options": [
+        "Revenue*Cost",
+        "Revenue/Cost",
+        "Revenue-Cost",
+        "Revenue+Cost"
+      ],
+      "correct_index": 2,
+      "explanation": "Revenue-Cost.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_115",
+      "text": "Niche market is: (variant 115)",
+      "options": [
+        "Only mass",
+        "Small specialized",
+        "Large",
+        "No market"
+      ],
+      "correct_index": 1,
+      "explanation": "Small specialized.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_116",
+      "text": "Mass marketing: (variant 116)",
+      "options": [
+        "One for all",
+        "Different for all",
+        "No marketing",
+        "Only niche"
+      ],
+      "correct_index": 0,
+      "explanation": "One for all.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_117",
+      "text": "Viral marketing: (variant 117)",
+      "options": [
+        "No spreading",
+        "Only slow",
+        "Only traditional",
+        "Spreads quickly"
+      ],
+      "correct_index": 3,
+      "explanation": "Spreads quickly.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_118",
+      "text": "Direct marketing: (variant 118)",
+      "options": [
+        "No direct",
+        "Only publicity",
+        "Email telemarketing",
+        "Only advertising"
+      ],
+      "correct_index": 2,
+      "explanation": "Email.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_119",
+      "text": "Digital marketing uses: (variant 119)",
+      "options": [
+        "Only print",
+        "Internet",
+        "No internet",
+        "Only traditional"
+      ],
+      "correct_index": 1,
+      "explanation": "Internet.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_120",
+      "text": "Market share is: (variant 120)",
+      "options": [
+        "Company % of total",
+        "No share",
+        "Only total",
+        "Only company"
+      ],
+      "correct_index": 0,
+      "explanation": "Company % total.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_121",
+      "text": "Marketing is: (variant 121)",
+      "options": [
+        "Only buying",
+        "Only selling",
+        "No activities",
+        "Flow of goods to consumers"
+      ],
+      "correct_index": 3,
+      "explanation": "Flow goods consumers.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_122",
+      "text": "4Ps are: (variant 122)",
+      "options": [
+        "No Ps",
+        "Only product",
+        "Product Price Place Promotion",
+        "People Price Place Promotion"
+      ],
+      "correct_index": 2,
+      "explanation": "4Ps.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_123",
+      "text": "Product life cycle: (variant 123)",
+      "options": [
+        "Only decline",
+        "Intro growth maturity decline",
+        "Only intro",
+        "No cycle"
+      ],
+      "correct_index": 1,
+      "explanation": "PLC.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_124",
+      "text": "Advertising is: (variant 124)",
+      "options": [
+        "Paid non-personal",
+        "Free",
+        "Personal only",
+        "No promotion"
+      ],
+      "correct_index": 0,
+      "explanation": "Paid non-personal.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_125",
+      "text": "Wholesaler buys: (variant 125)",
+      "options": [
+        "Small",
+        "No bulk",
+        "Only retail",
+        "In bulk"
+      ],
+      "correct_index": 3,
+      "explanation": "Bulk.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_126",
+      "text": "Retailer sells to: (variant 126)",
+      "options": [
+        "No consumer",
+        "Only bulk",
+        "Final consumer",
+        "Wholesaler"
+      ],
+      "correct_index": 2,
+      "explanation": "Final consumer.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_127",
+      "text": "SWOT means: (variant 127)",
+      "options": [
+        "Only weaknesses",
+        "Strengths Weaknesses Opportunities Threats",
+        "No meaning",
+        "Only strengths"
+      ],
+      "correct_index": 1,
+      "explanation": "SWOT.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_128",
+      "text": "Market segmentation: (variant 128)",
+      "options": [
+        "Dividing market",
+        "No division",
+        "Only mass",
+        "Only niche"
+      ],
+      "correct_index": 0,
+      "explanation": "Dividing.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_129",
+      "text": "Branding is: (variant 129)",
+      "options": [
+        "No identity",
+        "Only name",
+        "Only logo",
+        "Identity"
+      ],
+      "correct_index": 3,
+      "explanation": "Identity.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_130",
+      "text": "AIDA means: (variant 130)",
+      "options": [
+        "Only attention",
+        "Only action",
+        "Attention Interest Desire Action",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "AIDA.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_131",
+      "text": "SEO means: (variant 131)",
+      "options": [
+        "Only engine",
+        "Search Engine Optimization",
+        "No optimization",
+        "Only search"
+      ],
+      "correct_index": 1,
+      "explanation": "SEO.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_132",
+      "text": "CRM means: (variant 132)",
+      "options": [
+        "Customer Relationship Management",
+        "No management",
+        "Only customer",
+        "Only relationship"
+      ],
+      "correct_index": 0,
+      "explanation": "CRM.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_133",
+      "text": "Break-even is: (variant 133)",
+      "options": [
+        "Revenue>Cost",
+        "Revenue<Cost",
+        "No revenue",
+        "Revenue=Cost"
+      ],
+      "correct_index": 3,
+      "explanation": "Revenue=Cost.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_134",
+      "text": "Profit is: (variant 134)",
+      "options": [
+        "Revenue*Cost",
+        "Revenue/Cost",
+        "Revenue-Cost",
+        "Revenue+Cost"
+      ],
+      "correct_index": 2,
+      "explanation": "Revenue-Cost.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_135",
+      "text": "Niche market is: (variant 135)",
+      "options": [
+        "Only mass",
+        "Small specialized",
+        "Large",
+        "No market"
+      ],
+      "correct_index": 1,
+      "explanation": "Small specialized.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_136",
+      "text": "Mass marketing: (variant 136)",
+      "options": [
+        "One for all",
+        "Different for all",
+        "No marketing",
+        "Only niche"
+      ],
+      "correct_index": 0,
+      "explanation": "One for all.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_137",
+      "text": "Viral marketing: (variant 137)",
+      "options": [
+        "No spreading",
+        "Only slow",
+        "Only traditional",
+        "Spreads quickly"
+      ],
+      "correct_index": 3,
+      "explanation": "Spreads quickly.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_138",
+      "text": "Direct marketing: (variant 138)",
+      "options": [
+        "No direct",
+        "Only publicity",
+        "Email telemarketing",
+        "Only advertising"
+      ],
+      "correct_index": 2,
+      "explanation": "Email.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_139",
+      "text": "Digital marketing uses: (variant 139)",
+      "options": [
+        "Only print",
+        "Internet",
+        "No internet",
+        "Only traditional"
+      ],
+      "correct_index": 1,
+      "explanation": "Internet.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_140",
+      "text": "Market share is: (variant 140)",
+      "options": [
+        "Company % of total",
+        "No share",
+        "Only total",
+        "Only company"
+      ],
+      "correct_index": 0,
+      "explanation": "Company % total.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_141",
+      "text": "Marketing is: (variant 141)",
+      "options": [
+        "Only buying",
+        "Only selling",
+        "No activities",
+        "Flow of goods to consumers"
+      ],
+      "correct_index": 3,
+      "explanation": "Flow goods consumers.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_142",
+      "text": "4Ps are: (variant 142)",
+      "options": [
+        "No Ps",
+        "Only product",
+        "Product Price Place Promotion",
+        "People Price Place Promotion"
+      ],
+      "correct_index": 2,
+      "explanation": "4Ps.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_143",
+      "text": "Product life cycle: (variant 143)",
+      "options": [
+        "Only decline",
+        "Intro growth maturity decline",
+        "Only intro",
+        "No cycle"
+      ],
+      "correct_index": 1,
+      "explanation": "PLC.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_144",
+      "text": "Advertising is: (variant 144)",
+      "options": [
+        "Paid non-personal",
+        "Free",
+        "Personal only",
+        "No promotion"
+      ],
+      "correct_index": 0,
+      "explanation": "Paid non-personal.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_145",
+      "text": "Wholesaler buys: (variant 145)",
+      "options": [
+        "Small",
+        "No bulk",
+        "Only retail",
+        "In bulk"
+      ],
+      "correct_index": 3,
+      "explanation": "Bulk.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_146",
+      "text": "Retailer sells to: (variant 146)",
+      "options": [
+        "No consumer",
+        "Only bulk",
+        "Final consumer",
+        "Wholesaler"
+      ],
+      "correct_index": 2,
+      "explanation": "Final consumer.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_147",
+      "text": "SWOT means: (variant 147)",
+      "options": [
+        "Only weaknesses",
+        "Strengths Weaknesses Opportunities Threats",
+        "No meaning",
+        "Only strengths"
+      ],
+      "correct_index": 1,
+      "explanation": "SWOT.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_148",
+      "text": "Market segmentation: (variant 148)",
+      "options": [
+        "Dividing market",
+        "No division",
+        "Only mass",
+        "Only niche"
+      ],
+      "correct_index": 0,
+      "explanation": "Dividing.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_149",
+      "text": "Branding is: (variant 149)",
+      "options": [
+        "No identity",
+        "Only name",
+        "Only logo",
+        "Identity"
+      ],
+      "correct_index": 3,
+      "explanation": "Identity.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_150",
+      "text": "AIDA means: (variant 150)",
+      "options": [
+        "Only attention",
+        "Only action",
+        "Attention Interest Desire Action",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "AIDA.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_151",
+      "text": "SEO means: (variant 151)",
+      "options": [
+        "Only engine",
+        "Search Engine Optimization",
+        "No optimization",
+        "Only search"
+      ],
+      "correct_index": 1,
+      "explanation": "SEO.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_152",
+      "text": "CRM means: (variant 152)",
+      "options": [
+        "Customer Relationship Management",
+        "No management",
+        "Only customer",
+        "Only relationship"
+      ],
+      "correct_index": 0,
+      "explanation": "CRM.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_153",
+      "text": "Break-even is: (variant 153)",
+      "options": [
+        "Revenue>Cost",
+        "Revenue<Cost",
+        "No revenue",
+        "Revenue=Cost"
+      ],
+      "correct_index": 3,
+      "explanation": "Revenue=Cost.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_154",
+      "text": "Profit is: (variant 154)",
+      "options": [
+        "Revenue*Cost",
+        "Revenue/Cost",
+        "Revenue-Cost",
+        "Revenue+Cost"
+      ],
+      "correct_index": 2,
+      "explanation": "Revenue-Cost.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_155",
+      "text": "Niche market is: (variant 155)",
+      "options": [
+        "Only mass",
+        "Small specialized",
+        "Large",
+        "No market"
+      ],
+      "correct_index": 1,
+      "explanation": "Small specialized.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_156",
+      "text": "Mass marketing: (variant 156)",
+      "options": [
+        "One for all",
+        "Different for all",
+        "No marketing",
+        "Only niche"
+      ],
+      "correct_index": 0,
+      "explanation": "One for all.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_157",
+      "text": "Viral marketing: (variant 157)",
+      "options": [
+        "No spreading",
+        "Only slow",
+        "Only traditional",
+        "Spreads quickly"
+      ],
+      "correct_index": 3,
+      "explanation": "Spreads quickly.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_158",
+      "text": "Direct marketing: (variant 158)",
+      "options": [
+        "No direct",
+        "Only publicity",
+        "Email telemarketing",
+        "Only advertising"
+      ],
+      "correct_index": 2,
+      "explanation": "Email.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_159",
+      "text": "Digital marketing uses: (variant 159)",
+      "options": [
+        "Only print",
+        "Internet",
+        "No internet",
+        "Only traditional"
+      ],
+      "correct_index": 1,
+      "explanation": "Internet.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_160",
+      "text": "Market share is: (variant 160)",
+      "options": [
+        "Company % of total",
+        "No share",
+        "Only total",
+        "Only company"
+      ],
+      "correct_index": 0,
+      "explanation": "Company % total.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_161",
+      "text": "Marketing is: (variant 161)",
+      "options": [
+        "Only buying",
+        "Only selling",
+        "No activities",
+        "Flow of goods to consumers"
+      ],
+      "correct_index": 3,
+      "explanation": "Flow goods consumers.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_162",
+      "text": "4Ps are: (variant 162)",
+      "options": [
+        "No Ps",
+        "Only product",
+        "Product Price Place Promotion",
+        "People Price Place Promotion"
+      ],
+      "correct_index": 2,
+      "explanation": "4Ps.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_163",
+      "text": "Product life cycle: (variant 163)",
+      "options": [
+        "Only decline",
+        "Intro growth maturity decline",
+        "Only intro",
+        "No cycle"
+      ],
+      "correct_index": 1,
+      "explanation": "PLC.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_164",
+      "text": "Advertising is: (variant 164)",
+      "options": [
+        "Paid non-personal",
+        "Free",
+        "Personal only",
+        "No promotion"
+      ],
+      "correct_index": 0,
+      "explanation": "Paid non-personal.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_165",
+      "text": "Wholesaler buys: (variant 165)",
+      "options": [
+        "Small",
+        "No bulk",
+        "Only retail",
+        "In bulk"
+      ],
+      "correct_index": 3,
+      "explanation": "Bulk.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_166",
+      "text": "Retailer sells to: (variant 166)",
+      "options": [
+        "No consumer",
+        "Only bulk",
+        "Final consumer",
+        "Wholesaler"
+      ],
+      "correct_index": 2,
+      "explanation": "Final consumer.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_167",
+      "text": "SWOT means: (variant 167)",
+      "options": [
+        "Only weaknesses",
+        "Strengths Weaknesses Opportunities Threats",
+        "No meaning",
+        "Only strengths"
+      ],
+      "correct_index": 1,
+      "explanation": "SWOT.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_168",
+      "text": "Market segmentation: (variant 168)",
+      "options": [
+        "Dividing market",
+        "No division",
+        "Only mass",
+        "Only niche"
+      ],
+      "correct_index": 0,
+      "explanation": "Dividing.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_169",
+      "text": "Branding is: (variant 169)",
+      "options": [
+        "No identity",
+        "Only name",
+        "Only logo",
+        "Identity"
+      ],
+      "correct_index": 3,
+      "explanation": "Identity.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_170",
+      "text": "AIDA means: (variant 170)",
+      "options": [
+        "Only attention",
+        "Only action",
+        "Attention Interest Desire Action",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "AIDA.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_171",
+      "text": "SEO means: (variant 171)",
+      "options": [
+        "Only engine",
+        "Search Engine Optimization",
+        "No optimization",
+        "Only search"
+      ],
+      "correct_index": 1,
+      "explanation": "SEO.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_172",
+      "text": "CRM means: (variant 172)",
+      "options": [
+        "Customer Relationship Management",
+        "No management",
+        "Only customer",
+        "Only relationship"
+      ],
+      "correct_index": 0,
+      "explanation": "CRM.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_173",
+      "text": "Break-even is: (variant 173)",
+      "options": [
+        "Revenue>Cost",
+        "Revenue<Cost",
+        "No revenue",
+        "Revenue=Cost"
+      ],
+      "correct_index": 3,
+      "explanation": "Revenue=Cost.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_174",
+      "text": "Profit is: (variant 174)",
+      "options": [
+        "Revenue*Cost",
+        "Revenue/Cost",
+        "Revenue-Cost",
+        "Revenue+Cost"
+      ],
+      "correct_index": 2,
+      "explanation": "Revenue-Cost.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_175",
+      "text": "Niche market is: (variant 175)",
+      "options": [
+        "Only mass",
+        "Small specialized",
+        "Large",
+        "No market"
+      ],
+      "correct_index": 1,
+      "explanation": "Small specialized.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_176",
+      "text": "Mass marketing: (variant 176)",
+      "options": [
+        "One for all",
+        "Different for all",
+        "No marketing",
+        "Only niche"
+      ],
+      "correct_index": 0,
+      "explanation": "One for all.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_177",
+      "text": "Viral marketing: (variant 177)",
+      "options": [
+        "No spreading",
+        "Only slow",
+        "Only traditional",
+        "Spreads quickly"
+      ],
+      "correct_index": 3,
+      "explanation": "Spreads quickly.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_178",
+      "text": "Direct marketing: (variant 178)",
+      "options": [
+        "No direct",
+        "Only publicity",
+        "Email telemarketing",
+        "Only advertising"
+      ],
+      "correct_index": 2,
+      "explanation": "Email.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_179",
+      "text": "Digital marketing uses: (variant 179)",
+      "options": [
+        "Only print",
+        "Internet",
+        "No internet",
+        "Only traditional"
+      ],
+      "correct_index": 1,
+      "explanation": "Internet.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_180",
+      "text": "Market share is: (variant 180)",
+      "options": [
+        "Company % of total",
+        "No share",
+        "Only total",
+        "Only company"
+      ],
+      "correct_index": 0,
+      "explanation": "Company % total.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_181",
+      "text": "Marketing is: (variant 181)",
+      "options": [
+        "Only buying",
+        "Only selling",
+        "No activities",
+        "Flow of goods to consumers"
+      ],
+      "correct_index": 3,
+      "explanation": "Flow goods consumers.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_182",
+      "text": "4Ps are: (variant 182)",
+      "options": [
+        "No Ps",
+        "Only product",
+        "Product Price Place Promotion",
+        "People Price Place Promotion"
+      ],
+      "correct_index": 2,
+      "explanation": "4Ps.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_183",
+      "text": "Product life cycle: (variant 183)",
+      "options": [
+        "Only decline",
+        "Intro growth maturity decline",
+        "Only intro",
+        "No cycle"
+      ],
+      "correct_index": 1,
+      "explanation": "PLC.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_184",
+      "text": "Advertising is: (variant 184)",
+      "options": [
+        "Paid non-personal",
+        "Free",
+        "Personal only",
+        "No promotion"
+      ],
+      "correct_index": 0,
+      "explanation": "Paid non-personal.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_185",
+      "text": "Wholesaler buys: (variant 185)",
+      "options": [
+        "Small",
+        "No bulk",
+        "Only retail",
+        "In bulk"
+      ],
+      "correct_index": 3,
+      "explanation": "Bulk.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_186",
+      "text": "Retailer sells to: (variant 186)",
+      "options": [
+        "No consumer",
+        "Only bulk",
+        "Final consumer",
+        "Wholesaler"
+      ],
+      "correct_index": 2,
+      "explanation": "Final consumer.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_187",
+      "text": "SWOT means: (variant 187)",
+      "options": [
+        "Only weaknesses",
+        "Strengths Weaknesses Opportunities Threats",
+        "No meaning",
+        "Only strengths"
+      ],
+      "correct_index": 1,
+      "explanation": "SWOT.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_188",
+      "text": "Market segmentation: (variant 188)",
+      "options": [
+        "Dividing market",
+        "No division",
+        "Only mass",
+        "Only niche"
+      ],
+      "correct_index": 0,
+      "explanation": "Dividing.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_189",
+      "text": "Branding is: (variant 189)",
+      "options": [
+        "No identity",
+        "Only name",
+        "Only logo",
+        "Identity"
+      ],
+      "correct_index": 3,
+      "explanation": "Identity.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_190",
+      "text": "AIDA means: (variant 190)",
+      "options": [
+        "Only attention",
+        "Only action",
+        "Attention Interest Desire Action",
+        "No meaning"
+      ],
+      "correct_index": 2,
+      "explanation": "AIDA.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_191",
+      "text": "SEO means: (variant 191)",
+      "options": [
+        "Only engine",
+        "Search Engine Optimization",
+        "No optimization",
+        "Only search"
+      ],
+      "correct_index": 1,
+      "explanation": "SEO.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_192",
+      "text": "CRM means: (variant 192)",
+      "options": [
+        "Customer Relationship Management",
+        "No management",
+        "Only customer",
+        "Only relationship"
+      ],
+      "correct_index": 0,
+      "explanation": "CRM.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_193",
+      "text": "Break-even is: (variant 193)",
+      "options": [
+        "Revenue>Cost",
+        "Revenue<Cost",
+        "No revenue",
+        "Revenue=Cost"
+      ],
+      "correct_index": 3,
+      "explanation": "Revenue=Cost.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_194",
+      "text": "Profit is: (variant 194)",
+      "options": [
+        "Revenue*Cost",
+        "Revenue/Cost",
+        "Revenue-Cost",
+        "Revenue+Cost"
+      ],
+      "correct_index": 2,
+      "explanation": "Revenue-Cost.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_195",
+      "text": "Niche market is: (variant 195)",
+      "options": [
+        "Only mass",
+        "Small specialized",
+        "Large",
+        "No market"
+      ],
+      "correct_index": 1,
+      "explanation": "Small specialized.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_196",
+      "text": "Mass marketing: (variant 196)",
+      "options": [
+        "One for all",
+        "Different for all",
+        "No marketing",
+        "Only niche"
+      ],
+      "correct_index": 0,
+      "explanation": "One for all.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_197",
+      "text": "Viral marketing: (variant 197)",
+      "options": [
+        "No spreading",
+        "Only slow",
+        "Only traditional",
+        "Spreads quickly"
+      ],
+      "correct_index": 3,
+      "explanation": "Spreads quickly.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_198",
+      "text": "Direct marketing: (variant 198)",
+      "options": [
+        "No direct",
+        "Only publicity",
+        "Email telemarketing",
+        "Only advertising"
+      ],
+      "correct_index": 2,
+      "explanation": "Email.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_199",
+      "text": "Digital marketing uses: (variant 199)",
+      "options": [
+        "Only print",
+        "Internet",
+        "No internet",
+        "Only traditional"
+      ],
+      "correct_index": 1,
+      "explanation": "Internet.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_200",
+      "text": "Market share is: (variant 200)",
+      "options": [
+        "Company % of total",
+        "No share",
+        "Only total",
+        "Only company"
+      ],
+      "correct_index": 0,
+      "explanation": "Company % total.",
+      "difficulty": 2
+    }
+  ]
+}

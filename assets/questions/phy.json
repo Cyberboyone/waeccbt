@@ -1,0 +1,2607 @@
+{
+  "course_id": "phy",
+  "course_name": "Physics",
+  "version": "1.0.0",
+  "questions": [
+    {
+      "id": "phy_001",
+      "text": "The SI unit of length is the:",
+      "options": [
+        "Kilometre",
+        "Centimetre",
+        "Foot",
+        "Metre"
+      ],
+      "correct_index": 3,
+      "explanation": "The SI base unit of length is the metre (m).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_002",
+      "text": "The SI unit of mass is the:",
+      "options": [
+        "Newton",
+        "Pound",
+        "Gram",
+        "Kilogram"
+      ],
+      "correct_index": 3,
+      "explanation": "The SI base unit of mass is the kilogram (kg).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_003",
+      "text": "The SI unit of time is the:",
+      "options": [
+        "Day",
+        "Minute",
+        "Hour",
+        "Second"
+      ],
+      "correct_index": 3,
+      "explanation": "The SI base unit of time is the second (s).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_004",
+      "text": "The SI unit of force is the:",
+      "options": [
+        "Joule",
+        "Watt",
+        "Newton",
+        "Pascal"
+      ],
+      "correct_index": 2,
+      "explanation": "Force is measured in newtons (N).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_005",
+      "text": "The SI unit of energy is the:",
+      "options": [
+        "Joule",
+        "Newton",
+        "Volt",
+        "Watt"
+      ],
+      "correct_index": 0,
+      "explanation": "Energy is measured in joules (J).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_006",
+      "text": "The SI unit of power is the:",
+      "options": [
+        "Watt",
+        "Volt",
+        "Joule",
+        "Newton"
+      ],
+      "correct_index": 0,
+      "explanation": "Power is measured in watts (W).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_007",
+      "text": "The SI unit of electric current is the:",
+      "options": [
+        "Coulomb",
+        "Volt",
+        "Ohm",
+        "Ampere"
+      ],
+      "correct_index": 3,
+      "explanation": "Current is measured in amperes (A).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_008",
+      "text": "The SI unit of electric charge is the:",
+      "options": [
+        "Ampere",
+        "Volt",
+        "Coulomb",
+        "Ohm"
+      ],
+      "correct_index": 2,
+      "explanation": "Charge is measured in coulombs (C).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_009",
+      "text": "The SI unit of pressure is the:",
+      "options": [
+        "Pascal",
+        "Torr",
+        "Bar",
+        "Newton"
+      ],
+      "correct_index": 0,
+      "explanation": "Pressure is measured in pascals (Pa).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_010",
+      "text": "Which instrument is used to measure length with high precision?",
+      "options": [
+        "Stopwatch",
+        "Balance",
+        "Metre rule",
+        "Vernier calipers"
+      ],
+      "correct_index": 3,
+      "explanation": "Vernier calipers measure small lengths accurately.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_011",
+      "text": "The SI unit of temperature is the:",
+      "options": [
+        "Rankine",
+        "Celsius",
+        "Kelvin",
+        "Fahrenheit"
+      ],
+      "correct_index": 2,
+      "explanation": "The SI unit of temperature is the kelvin (K).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_012",
+      "text": "Which of these is a derived unit?",
+      "options": [
+        "Metre",
+        "Kilogram",
+        "Second",
+        "Newton"
+      ],
+      "correct_index": 3,
+      "explanation": "Newton (kg·m/s²) is derived; the others are base units.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_013",
+      "text": "Which of the following is a vector quantity?",
+      "options": [
+        "Distance",
+        "Displacement",
+        "Mass",
+        "Speed"
+      ],
+      "correct_index": 1,
+      "explanation": "Displacement has both magnitude and direction.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_014",
+      "text": "Which of the following is a scalar quantity?",
+      "options": [
+        "Acceleration",
+        "Speed",
+        "Velocity",
+        "Force"
+      ],
+      "correct_index": 1,
+      "explanation": "Speed has magnitude only.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_015",
+      "text": "Displacement is best described as:",
+      "options": [
+        "Change in speed",
+        "Total path travelled",
+        "Distance in a specified direction",
+        "Speed over time"
+      ],
+      "correct_index": 2,
+      "explanation": "Displacement is a directed straight-line distance.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_016",
+      "text": "A body moves 3 m east then 4 m north. The magnitude of its displacement is:",
+      "options": [
+        "7 m",
+        "1 m",
+        "5 m",
+        "12 m"
+      ],
+      "correct_index": 2,
+      "explanation": "√(3² + 4²) = 5 m.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_017",
+      "text": "Which quantity is the vector counterpart of speed?",
+      "options": [
+        "Velocity",
+        "Momentum",
+        "Force",
+        "Acceleration"
+      ],
+      "correct_index": 0,
+      "explanation": "Velocity is speed with direction.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_018",
+      "text": "Two forces of 3 N and 4 N act at right angles. The resultant is:",
+      "options": [
+        "5 N",
+        "12 N",
+        "7 N",
+        "1 N"
+      ],
+      "correct_index": 0,
+      "explanation": "R = √(3² + 4²) = 5 N.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_019",
+      "text": "The slope of a distance–time graph gives:",
+      "options": [
+        "Displacement",
+        "Acceleration",
+        "Speed",
+        "Force"
+      ],
+      "correct_index": 2,
+      "explanation": "Gradient of distance–time = speed.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_020",
+      "text": "The slope of a velocity–time graph gives:",
+      "options": [
+        "Speed",
+        "Distance",
+        "Acceleration",
+        "Force"
+      ],
+      "correct_index": 2,
+      "explanation": "Gradient of velocity–time = acceleration.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_021",
+      "text": "The area under a velocity–time graph gives:",
+      "options": [
+        "Displacement",
+        "Force",
+        "Speed",
+        "Acceleration"
+      ],
+      "correct_index": 0,
+      "explanation": "Area under velocity–time graph = displacement.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_022",
+      "text": "A car accelerates from rest at 2 m/s² for 5 s. Its final velocity is:",
+      "options": [
+        "7 m/s",
+        "2.5 m/s",
+        "10 m/s",
+        "5 m/s"
+      ],
+      "correct_index": 2,
+      "explanation": "v = u + at = 0 + 2×5 = 10 m/s.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_023",
+      "text": "A body moves with uniform velocity. Its acceleration is:",
+      "options": [
+        "Decreasing",
+        "Zero",
+        "Constant",
+        "Increasing"
+      ],
+      "correct_index": 1,
+      "explanation": "Uniform velocity means zero acceleration.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_024",
+      "text": "The acceleration due to gravity, g, is approximately:",
+      "options": [
+        "9.8 m/s²",
+        "98 m/s²",
+        "0.98 m/s²",
+        "980 m/s²"
+      ],
+      "correct_index": 0,
+      "explanation": "g ≈ 9.8 m/s².",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_025",
+      "text": "A body is thrown vertically upward. At the highest point, its velocity is:",
+      "options": [
+        "Zero",
+        "Equal to g",
+        "Negative",
+        "Maximum"
+      ],
+      "correct_index": 0,
+      "explanation": "At the peak, velocity is momentarily zero.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_026",
+      "text": "A stone falls freely from rest. After 2 s its speed is (g = 10 m/s²):",
+      "options": [
+        "5 m/s",
+        "40 m/s",
+        "20 m/s",
+        "10 m/s"
+      ],
+      "correct_index": 2,
+      "explanation": "v = gt = 10 × 2 = 20 m/s.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_027",
+      "text": "The distance fallen by a freely falling body in 1 s (g = 10 m/s²) is:",
+      "options": [
+        "2.5 m",
+        "5 m",
+        "10 m",
+        "20 m"
+      ],
+      "correct_index": 1,
+      "explanation": "s = ½gt² = ½ × 10 × 1 = 5 m.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_028",
+      "text": "Uniform motion in a circle is described as having constant:",
+      "options": [
+        "Velocity",
+        "Speed",
+        "Acceleration",
+        "Displacement"
+      ],
+      "correct_index": 1,
+      "explanation": "Speed is constant but direction (hence velocity) changes.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_029",
+      "text": "A car travels 100 m in 4 s. Its average speed is:",
+      "options": [
+        "400 m/s",
+        "40 m/s",
+        "4 m/s",
+        "25 m/s"
+      ],
+      "correct_index": 3,
+      "explanation": "Speed = 100/4 = 25 m/s.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_030",
+      "text": "Newton's first law is also called the law of:",
+      "options": [
+        "Action-reaction",
+        "Gravitation",
+        "Acceleration",
+        "Inertia"
+      ],
+      "correct_index": 3,
+      "explanation": "First law = law of inertia.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_031",
+      "text": "Newton's second law is expressed as:",
+      "options": [
+        "F = mg",
+        "F = ma",
+        "F = mv",
+        "F = m/a"
+      ],
+      "correct_index": 1,
+      "explanation": "Force = mass × acceleration.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_032",
+      "text": "Newton's third law states that action and reaction are:",
+      "options": [
+        "Unequal and same direction",
+        "Equal and opposite",
+        "Equal and same direction",
+        "Unequal and opposite"
+      ],
+      "correct_index": 1,
+      "explanation": "Action and reaction are equal and opposite.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_033",
+      "text": "The tendency of a body to resist change in its state of motion is:",
+      "options": [
+        "Inertia",
+        "Friction",
+        "Weight",
+        "Momentum"
+      ],
+      "correct_index": 0,
+      "explanation": "Inertia resists changes in motion.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_034",
+      "text": "A force of 10 N acts on a 2 kg body. Its acceleration is:",
+      "options": [
+        "0.2 m/s²",
+        "10 m/s²",
+        "5 m/s²",
+        "20 m/s²"
+      ],
+      "correct_index": 2,
+      "explanation": "a = F/m = 10/2 = 5 m/s².",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_035",
+      "text": "The weight of a body is equal to:",
+      "options": [
+        "mv",
+        "mg",
+        "ma",
+        "m/g"
+      ],
+      "correct_index": 1,
+      "explanation": "Weight = mass × g.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_036",
+      "text": "Friction that opposes the start of motion is called:",
+      "options": [
+        "Kinetic friction",
+        "Static friction",
+        "Rolling friction",
+        "Sliding friction"
+      ],
+      "correct_index": 1,
+      "explanation": "Static friction resists the initiation of motion.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_037",
+      "text": "Friction between two surfaces can be reduced by:",
+      "options": [
+        "Lubrication",
+        "Increasing load",
+        "Drying them",
+        "Roughening them"
+      ],
+      "correct_index": 0,
+      "explanation": "Lubrication reduces friction.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_038",
+      "text": "The SI unit of momentum is:",
+      "options": [
+        "N s²",
+        "J s",
+        "kg m/s",
+        "kg m/s²"
+      ],
+      "correct_index": 2,
+      "explanation": "Momentum = mass × velocity → kg m/s.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_039",
+      "text": "A body of mass 5 kg moving at 4 m/s has momentum:",
+      "options": [
+        "20 N",
+        "20 kg m/s",
+        "1.25 kg m/s",
+        "9 kg m/s"
+      ],
+      "correct_index": 1,
+      "explanation": "p = mv = 20 kg m/s.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_040",
+      "text": "In the absence of external forces, total momentum is:",
+      "options": [
+        "Conserved",
+        "Increased",
+        "Decreased",
+        "Zero"
+      ],
+      "correct_index": 0,
+      "explanation": "Law of conservation of momentum.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_041",
+      "text": "Work done is calculated as:",
+      "options": [
+        "Force ÷ distance",
+        "Force × time",
+        "Mass × velocity",
+        "Force × distance"
+      ],
+      "correct_index": 3,
+      "explanation": "Work = force × distance (in direction of force).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_042",
+      "text": "A force of 10 N moves a body 5 m. The work done is:",
+      "options": [
+        "15 J",
+        "5 J",
+        "50 J",
+        "2 J"
+      ],
+      "correct_index": 2,
+      "explanation": "W = F × d = 50 J.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_043",
+      "text": "Kinetic energy is given by:",
+      "options": [
+        "½mv",
+        "½mv²",
+        "mgh",
+        "mv"
+      ],
+      "correct_index": 1,
+      "explanation": "KE = ½mv².",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_044",
+      "text": "Potential energy of a body at height h is:",
+      "options": [
+        "mgh",
+        "½mgh",
+        "mg/h",
+        "½mv²"
+      ],
+      "correct_index": 0,
+      "explanation": "PE = mgh.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_045",
+      "text": "A 2 kg mass is lifted 3 m (g = 10 m/s²). The work done is:",
+      "options": [
+        "6 J",
+        "20 J",
+        "5 J",
+        "60 J"
+      ],
+      "correct_index": 3,
+      "explanation": "W = mgh = 2 × 10 × 3 = 60 J.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_046",
+      "text": "Power is defined as:",
+      "options": [
+        "Energy × time",
+        "Work × time",
+        "Work done per unit time",
+        "Force × time"
+      ],
+      "correct_index": 2,
+      "explanation": "Power = work/time.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_047",
+      "text": "A machine does 100 J of work in 5 s. Its power is:",
+      "options": [
+        "5 W",
+        "20 W",
+        "500 W",
+        "50 W"
+      ],
+      "correct_index": 1,
+      "explanation": "P = 100/5 = 20 W.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_048",
+      "text": "The principle of conservation of energy states that energy:",
+      "options": [
+        "Can be created",
+        "Cannot be created or destroyed",
+        "Can be destroyed",
+        "Only exists as heat"
+      ],
+      "correct_index": 1,
+      "explanation": "Energy is conserved — only transformed.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_049",
+      "text": "The unit of work is the same as the unit of:",
+      "options": [
+        "Energy",
+        "Force",
+        "Pressure",
+        "Power"
+      ],
+      "correct_index": 0,
+      "explanation": "Both work and energy are measured in joules.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_050",
+      "text": "The efficiency of a machine is the ratio of:",
+      "options": [
+        "Loss to input",
+        "Power to work",
+        "Input to output",
+        "Useful output to input"
+      ],
+      "correct_index": 3,
+      "explanation": "Efficiency = useful output/input.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_051",
+      "text": "Pressure is defined as:",
+      "options": [
+        "Mass per unit area",
+        "Force per unit area",
+        "Force × area",
+        "Area per unit force"
+      ],
+      "correct_index": 1,
+      "explanation": "Pressure = force/area.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_052",
+      "text": "A force of 20 N acts on an area of 4 m². The pressure is:",
+      "options": [
+        "5 Pa",
+        "80 Pa",
+        "0.2 Pa",
+        "16 Pa"
+      ],
+      "correct_index": 0,
+      "explanation": "P = F/A = 20/4 = 5 Pa.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_053",
+      "text": "Pressure in a liquid increases with:",
+      "options": [
+        "Surface area",
+        "Temperature only",
+        "Volume",
+        "Depth"
+      ],
+      "correct_index": 3,
+      "explanation": "Liquid pressure increases with depth.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_054",
+      "text": "The pressure at a point in a liquid is given by:",
+      "options": [
+        "ρh/g",
+        "mgh",
+        "ρgh",
+        "ρg/h"
+      ],
+      "correct_index": 2,
+      "explanation": "P = ρgh.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_055",
+      "text": "Atmospheric pressure at sea level is approximately:",
+      "options": [
+        "1 cm of mercury",
+        "76 cm of mercury",
+        "10 cm of mercury",
+        "100 cm of mercury"
+      ],
+      "correct_index": 1,
+      "explanation": "Standard atmospheric pressure ≈ 760 mmHg = 76 cmHg.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_056",
+      "text": "The barometer is used to measure:",
+      "options": [
+        "Temperature",
+        "Atmospheric pressure",
+        "Humidity",
+        "Wind speed"
+      ],
+      "correct_index": 1,
+      "explanation": "A barometer measures atmospheric pressure.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_057",
+      "text": "Temperature is a measure of the average:",
+      "options": [
+        "Potential energy",
+        "Total energy",
+        "Volume",
+        "Kinetic energy of particles"
+      ],
+      "correct_index": 3,
+      "explanation": "Temperature measures average kinetic energy of particles.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_058",
+      "text": "Heat flows from a body at:",
+      "options": [
+        "Equal temperature",
+        "Any direction",
+        "Lower to higher temperature",
+        "Higher to lower temperature"
+      ],
+      "correct_index": 3,
+      "explanation": "Heat flows from hot to cold.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_059",
+      "text": "The instrument used to measure temperature is the:",
+      "options": [
+        "Manometer",
+        "Barometer",
+        "Thermometer",
+        "Hygrometer"
+      ],
+      "correct_index": 2,
+      "explanation": "A thermometer measures temperature.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_060",
+      "text": "0°C in kelvin is:",
+      "options": [
+        "273 K",
+        "−273 K",
+        "373 K",
+        "100 K"
+      ],
+      "correct_index": 0,
+      "explanation": "0°C = 273 K.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_061",
+      "text": "Absolute zero is:",
+      "options": [
+        "0°C",
+        "273 K",
+        "100°C",
+        "0 K"
+      ],
+      "correct_index": 3,
+      "explanation": "Absolute zero = 0 K = −273°C.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_062",
+      "text": "The specific heat capacity of a substance is the heat needed to:",
+      "options": [
+        "Boil 1 kg",
+        "Raise any mass by 1°C",
+        "Raise 1 kg by 1°C",
+        "Melt 1 kg"
+      ],
+      "correct_index": 2,
+      "explanation": "Specific heat capacity = energy to raise 1 kg by 1 K.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_063",
+      "text": "The quantity of heat Q is given by:",
+      "options": [
+        "Q = mc/Δθ",
+        "Q = mcΔθ",
+        "Q = m/Δθ",
+        "Q = cΔθ/m"
+      ],
+      "correct_index": 1,
+      "explanation": "Q = mcΔθ.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_064",
+      "text": "The heat required to change a solid to a liquid at constant temperature is the:",
+      "options": [
+        "Latent heat of fusion",
+        "Specific heat",
+        "Latent heat of vaporisation",
+        "Sensible heat"
+      ],
+      "correct_index": 0,
+      "explanation": "Latent heat of fusion changes solid → liquid.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_065",
+      "text": "The latent heat of vaporisation changes:",
+      "options": [
+        "Solid to liquid",
+        "Vapour to solid",
+        "Solid to vapour",
+        "Liquid to vapour"
+      ],
+      "correct_index": 3,
+      "explanation": "Vaporisation = liquid → gas.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_066",
+      "text": "Heat transfer by direct contact of particles is called:",
+      "options": [
+        "Radiation",
+        "Evaporation",
+        "Conduction",
+        "Convection"
+      ],
+      "correct_index": 2,
+      "explanation": "Conduction transfers heat through direct particle contact.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_067",
+      "text": "Heat transfer in fluids by movement of the fluid itself is:",
+      "options": [
+        "Diffusion",
+        "Conduction",
+        "Convection",
+        "Radiation"
+      ],
+      "correct_index": 2,
+      "explanation": "Convection involves bulk movement of fluid.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_068",
+      "text": "Heat transfer through a vacuum occurs by:",
+      "options": [
+        "Conduction",
+        "Convection",
+        "Radiation",
+        "All of these"
+      ],
+      "correct_index": 2,
+      "explanation": "Radiation needs no medium.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_069",
+      "text": "Boyle's law states that at constant temperature, pressure is:",
+      "options": [
+        "Directly proportional to volume",
+        "Independent of volume",
+        "Equal to volume",
+        "Inversely proportional to volume"
+      ],
+      "correct_index": 3,
+      "explanation": "P ∝ 1/V at constant T.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_070",
+      "text": "Charles's law relates volume to:",
+      "options": [
+        "Mass",
+        "Density",
+        "Pressure",
+        "Temperature (at constant pressure)"
+      ],
+      "correct_index": 3,
+      "explanation": "V ∝ T at constant pressure.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_071",
+      "text": "The pressure law (Gay-Lussac) states pressure ∝:",
+      "options": [
+        "Density",
+        "Volume",
+        "Temperature (at constant volume)",
+        "Mass"
+      ],
+      "correct_index": 2,
+      "explanation": "P ∝ T at constant volume.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_072",
+      "text": "The general gas law is expressed as:",
+      "options": [
+        "PV/T = constant",
+        "PV = T",
+        "P = VT",
+        "PT = V"
+      ],
+      "correct_index": 0,
+      "explanation": "PV/T = constant combines the three laws.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_073",
+      "text": "The ideal gas equation is:",
+      "options": [
+        "PV = RT/n",
+        "PT = nRV",
+        "P = nRT/V²",
+        "PV = nRT"
+      ],
+      "correct_index": 3,
+      "explanation": "PV = nRT.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_074",
+      "text": "The distance between two successive crests of a wave is the:",
+      "options": [
+        "Frequency",
+        "Period",
+        "Amplitude",
+        "Wavelength"
+      ],
+      "correct_index": 3,
+      "explanation": "Wavelength is crest-to-crest distance.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_075",
+      "text": "The number of complete waves passing a point per second is the:",
+      "options": [
+        "Amplitude",
+        "Period",
+        "Wavelength",
+        "Frequency"
+      ],
+      "correct_index": 3,
+      "explanation": "Frequency = cycles per second (Hz).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_076",
+      "text": "The unit of frequency is the:",
+      "options": [
+        "Hertz",
+        "Metre",
+        "Second",
+        "Decibel"
+      ],
+      "correct_index": 0,
+      "explanation": "Frequency is measured in hertz (Hz).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_077",
+      "text": "The relationship between wave speed v, frequency f and wavelength λ is:",
+      "options": [
+        "v = f/λ",
+        "v = λ/f",
+        "v = f + λ",
+        "v = fλ"
+      ],
+      "correct_index": 3,
+      "explanation": "v = fλ.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_078",
+      "text": "The maximum displacement of a wave from its rest position is the:",
+      "options": [
+        "Period",
+        "Frequency",
+        "Wavelength",
+        "Amplitude"
+      ],
+      "correct_index": 3,
+      "explanation": "Amplitude is maximum displacement.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_079",
+      "text": "The time for one complete oscillation is the:",
+      "options": [
+        "Wavelength",
+        "Frequency",
+        "Amplitude",
+        "Period"
+      ],
+      "correct_index": 3,
+      "explanation": "Period = time for one cycle.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_080",
+      "text": "A wave of frequency 5 Hz has a period of:",
+      "options": [
+        "0.2 s",
+        "5 s",
+        "0.5 s",
+        "2 s"
+      ],
+      "correct_index": 0,
+      "explanation": "T = 1/f = 0.2 s.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_081",
+      "text": "Which of the following is a longitudinal wave?",
+      "options": [
+        "Sound",
+        "Radio wave",
+        "Water ripple",
+        "Light"
+      ],
+      "correct_index": 0,
+      "explanation": "Sound is a longitudinal wave.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_082",
+      "text": "Which of the following is a transverse wave?",
+      "options": [
+        "P-wave",
+        "All of these",
+        "Sound",
+        "Light"
+      ],
+      "correct_index": 3,
+      "explanation": "Light is a transverse (electromagnetic) wave.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_083",
+      "text": "The speed of sound in air is approximately:",
+      "options": [
+        "3300 m/s",
+        "330 m/s",
+        "3 × 10⁸ m/s",
+        "33 m/s"
+      ],
+      "correct_index": 1,
+      "explanation": "Sound travels at ≈ 330 m/s in air.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_084",
+      "text": "Sound cannot travel through a:",
+      "options": [
+        "Solid",
+        "Liquid",
+        "Vacuum",
+        "Gas"
+      ],
+      "correct_index": 2,
+      "explanation": "Sound needs a medium; a vacuum has none.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_085",
+      "text": "The pitch of a sound is determined by its:",
+      "options": [
+        "Frequency",
+        "Speed",
+        "Medium",
+        "Amplitude"
+      ],
+      "correct_index": 0,
+      "explanation": "Pitch depends on frequency.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_086",
+      "text": "The loudness of a sound depends on its:",
+      "options": [
+        "Speed",
+        "Wavelength",
+        "Frequency",
+        "Amplitude"
+      ],
+      "correct_index": 3,
+      "explanation": "Loudness depends on amplitude.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_087",
+      "text": "The speed of sound is greatest in:",
+      "options": [
+        "Vacuum",
+        "Air",
+        "Water",
+        "Steel"
+      ],
+      "correct_index": 3,
+      "explanation": "Sound travels fastest in solids.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_088",
+      "text": "The reflection of sound is called:",
+      "options": [
+        "Refraction",
+        "Echo",
+        "Diffraction",
+        "Interference"
+      ],
+      "correct_index": 1,
+      "explanation": "An echo is reflected sound.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_089",
+      "text": "Sound waves with frequency above 20,000 Hz are called:",
+      "options": [
+        "Ultrasonic",
+        "Audible",
+        "Supersonic",
+        "Infrasonic"
+      ],
+      "correct_index": 0,
+      "explanation": "Ultrasound > 20 kHz.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_090",
+      "text": "Sound waves with frequency below 20 Hz are:",
+      "options": [
+        "Audible",
+        "Subsonic",
+        "Ultrasonic",
+        "Infrasonic"
+      ],
+      "correct_index": 3,
+      "explanation": "Infrasound < 20 Hz.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_091",
+      "text": "The angle of incidence is measured from the:",
+      "options": [
+        "Horizontal",
+        "Surface",
+        "Normal",
+        "Reflected ray"
+      ],
+      "correct_index": 2,
+      "explanation": "Angles are measured from the normal.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_092",
+      "text": "According to the laws of reflection, the angle of incidence is:",
+      "options": [
+        "Greater than the angle of reflection",
+        "Equal to the angle of reflection",
+        "Less than the angle of reflection",
+        "Twice the angle of reflection"
+      ],
+      "correct_index": 1,
+      "explanation": "Angle of incidence = angle of reflection.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_093",
+      "text": "The speed of light in a vacuum is approximately:",
+      "options": [
+        "3 × 10⁶ m/s",
+        "330 m/s",
+        "3 × 10¹⁰ m/s",
+        "3 × 10⁸ m/s"
+      ],
+      "correct_index": 3,
+      "explanation": "c ≈ 3 × 10⁸ m/s.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_094",
+      "text": "The bending of light as it passes from one medium to another is:",
+      "options": [
+        "Diffraction",
+        "Dispersion",
+        "Reflection",
+        "Refraction"
+      ],
+      "correct_index": 3,
+      "explanation": "Refraction is bending of light at a boundary.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_095",
+      "text": "The refractive index n is the ratio of:",
+      "options": [
+        "i / r",
+        "sin i / sin r",
+        "sin r / sin i",
+        "cos i / cos r"
+      ],
+      "correct_index": 1,
+      "explanation": "Snell's law: n = sin i / sin r.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_096",
+      "text": "A concave lens is also called a:",
+      "options": [
+        "Converging lens",
+        "Diverging lens",
+        "Plane lens",
+        "Biconvex lens"
+      ],
+      "correct_index": 1,
+      "explanation": "A concave lens diverges light.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_097",
+      "text": "A convex lens is also called a:",
+      "options": [
+        "Converging lens",
+        "Concave lens",
+        "Plano lens",
+        "Diverging lens"
+      ],
+      "correct_index": 0,
+      "explanation": "A convex lens converges light.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_098",
+      "text": "The splitting of white light into its colours is called:",
+      "options": [
+        "Diffraction",
+        "Polarisation",
+        "Refraction",
+        "Dispersion"
+      ],
+      "correct_index": 3,
+      "explanation": "Dispersion splits white light into a spectrum.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_099",
+      "text": "The image formed by a plane mirror is:",
+      "options": [
+        "Virtual and inverted",
+        "Real and inverted",
+        "Virtual and upright",
+        "Real and upright"
+      ],
+      "correct_index": 2,
+      "explanation": "Plane mirror: virtual, upright, laterally inverted.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_100",
+      "text": "A converging lens forms a real, inverted image when the object is:",
+      "options": [
+        "Between focus and lens",
+        "Beyond the focal length",
+        "At the lens",
+        "Only at infinity"
+      ],
+      "correct_index": 1,
+      "explanation": "Object beyond F gives a real inverted image.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_101",
+      "text": "The power of a lens is measured in:",
+      "options": [
+        "Dioptres",
+        "Metres",
+        "Lumens",
+        "Watts"
+      ],
+      "correct_index": 0,
+      "explanation": "Lens power is in dioptres (D).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_102",
+      "text": "A lens of focal length 50 cm has a power of:",
+      "options": [
+        "5 D",
+        "20 D",
+        "2 D",
+        "0.5 D"
+      ],
+      "correct_index": 2,
+      "explanation": "P = 1/f = 1/0.5 = 2 D.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_103",
+      "text": "Like charges:",
+      "options": [
+        "Neutralise",
+        "Attract",
+        "Repel",
+        "Have no effect"
+      ],
+      "correct_index": 2,
+      "explanation": "Like charges repel; unlike attract.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_104",
+      "text": "The unit of electric charge is the:",
+      "options": [
+        "Ampere",
+        "Coulomb",
+        "Volt",
+        "Farad"
+      ],
+      "correct_index": 1,
+      "explanation": "Charge is in coulombs.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_105",
+      "text": "The unit of capacitance is the:",
+      "options": [
+        "Farad",
+        "Henry",
+        "Coulomb",
+        "Ohm"
+      ],
+      "correct_index": 0,
+      "explanation": "Capacitance is in farads (F).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_106",
+      "text": "A capacitor stores:",
+      "options": [
+        "Resistance",
+        "Power",
+        "Current",
+        "Charge and energy"
+      ],
+      "correct_index": 3,
+      "explanation": "A capacitor stores charge/energy in an electric field.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_107",
+      "text": "The unit of potential difference is the:",
+      "options": [
+        "Watt",
+        "Ampere",
+        "Volt",
+        "Ohm"
+      ],
+      "correct_index": 2,
+      "explanation": "Potential difference is in volts.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_108",
+      "text": "Ohm's law states that V equals:",
+      "options": [
+        "IR",
+        "I/R",
+        "R/I",
+        "I + R"
+      ],
+      "correct_index": 0,
+      "explanation": "V = IR.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_109",
+      "text": "The unit of resistance is the:",
+      "options": [
+        "Ohm",
+        "Ampere",
+        "Watt",
+        "Volt"
+      ],
+      "correct_index": 0,
+      "explanation": "Resistance is in ohms (Ω).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_110",
+      "text": "A current of 2 A flows through a 5 Ω resistor. The voltage across it is:",
+      "options": [
+        "0.4 V",
+        "7 V",
+        "10 V",
+        "2.5 V"
+      ],
+      "correct_index": 2,
+      "explanation": "V = IR = 2 × 5 = 10 V.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_111",
+      "text": "For resistors in series, the total resistance is:",
+      "options": [
+        "The difference",
+        "The sum of the resistances",
+        "The reciprocal sum",
+        "The average"
+      ],
+      "correct_index": 1,
+      "explanation": "Series: R = R₁ + R₂ + ...",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_112",
+      "text": "For resistors in parallel, the total resistance is:",
+      "options": [
+        "The sum",
+        "Less than the smallest resistor",
+        "Greater than the largest",
+        "The average"
+      ],
+      "correct_index": 1,
+      "explanation": "Parallel total resistance is less than the smallest.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_113",
+      "text": "Two 4 Ω resistors in parallel have a combined resistance of:",
+      "options": [
+        "8 Ω",
+        "4 Ω",
+        "1 Ω",
+        "2 Ω"
+      ],
+      "correct_index": 3,
+      "explanation": "1/R = 1/4 + 1/4 = 1/2 → R = 2 Ω.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_114",
+      "text": "Two 4 Ω resistors in series have a combined resistance of:",
+      "options": [
+        "4 Ω",
+        "16 Ω",
+        "8 Ω",
+        "2 Ω"
+      ],
+      "correct_index": 2,
+      "explanation": "4 + 4 = 8 Ω.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_115",
+      "text": "Electrical power is calculated as:",
+      "options": [
+        "P = IR²",
+        "P = IV",
+        "P = I/V",
+        "P = V/I"
+      ],
+      "correct_index": 1,
+      "explanation": "Power P = IV.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_116",
+      "text": "The instrument used to measure electric current is the:",
+      "options": [
+        "Voltmeter",
+        "Ammeter",
+        "Galvanometer",
+        "Ohmmeter"
+      ],
+      "correct_index": 1,
+      "explanation": "An ammeter measures current.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_117",
+      "text": "A voltmeter is connected in:",
+      "options": [
+        "Parallel",
+        "Either",
+        "Neither",
+        "Series"
+      ],
+      "correct_index": 0,
+      "explanation": "Voltmeters are connected in parallel.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_118",
+      "text": "An ammeter is connected in:",
+      "options": [
+        "Either",
+        "Neither",
+        "Parallel",
+        "Series"
+      ],
+      "correct_index": 3,
+      "explanation": "Ammeters are connected in series.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_119",
+      "text": "The resistance of a wire increases when it is:",
+      "options": [
+        "Shorter",
+        "Thicker",
+        "Longer",
+        "Cooler"
+      ],
+      "correct_index": 2,
+      "explanation": "Longer wires have greater resistance.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_120",
+      "text": "Like magnetic poles:",
+      "options": [
+        "Attract",
+        "Repel",
+        "Neutralise",
+        "Merge"
+      ],
+      "correct_index": 1,
+      "explanation": "Like poles repel.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_121",
+      "text": "The direction of a magnetic field is from:",
+      "options": [
+        "North to south",
+        "East to west",
+        "Any direction",
+        "South to north"
+      ],
+      "correct_index": 0,
+      "explanation": "Field lines run N → S outside a magnet.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_122",
+      "text": "The unit of magnetic flux is the:",
+      "options": [
+        "Henry",
+        "Gauss",
+        "Tesla",
+        "Weber"
+      ],
+      "correct_index": 3,
+      "explanation": "Magnetic flux is in webers (Wb).",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_123",
+      "text": "The SI unit of magnetic flux density is the:",
+      "options": [
+        "Farad",
+        "Weber",
+        "Tesla",
+        "Henry"
+      ],
+      "correct_index": 2,
+      "explanation": "Flux density is in teslas (T).",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_124",
+      "text": "A current-carrying conductor in a magnetic field experiences:",
+      "options": [
+        "No force",
+        "A force",
+        "Only heat",
+        "Only light"
+      ],
+      "correct_index": 1,
+      "explanation": "Motor effect: a force acts on the conductor.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_125",
+      "text": "The generation of an emf by a changing magnetic flux is:",
+      "options": [
+        "Electromagnetic induction",
+        "Conduction",
+        "Radiation",
+        "Electrolysis"
+      ],
+      "correct_index": 0,
+      "explanation": "EM induction produces an emf from changing flux.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_126",
+      "text": "Faraday's law relates induced emf to the rate of change of:",
+      "options": [
+        "Resistance",
+        "Charge",
+        "Current",
+        "Magnetic flux"
+      ],
+      "correct_index": 3,
+      "explanation": "Induced emf ∝ rate of change of flux.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_127",
+      "text": "A transformer works on the principle of:",
+      "options": [
+        "Conduction",
+        "Electrolysis",
+        "Electromagnetic induction",
+        "Static electricity"
+      ],
+      "correct_index": 2,
+      "explanation": "Transformers rely on mutual induction.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_128",
+      "text": "A step-up transformer increases:",
+      "options": [
+        "Current",
+        "Voltage",
+        "Resistance",
+        "Power"
+      ],
+      "correct_index": 1,
+      "explanation": "Step-up increases voltage.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_129",
+      "text": "The electric motor converts electrical energy to:",
+      "options": [
+        "Mechanical energy",
+        "Light",
+        "Chemical energy",
+        "Heat"
+      ],
+      "correct_index": 0,
+      "explanation": "Motors convert electrical → mechanical energy.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_130",
+      "text": "A generator converts mechanical energy to:",
+      "options": [
+        "Light",
+        "Sound",
+        "Electrical energy",
+        "Heat"
+      ],
+      "correct_index": 2,
+      "explanation": "Generators convert mechanical → electrical energy.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_131",
+      "text": "The smallest particle of an element is the:",
+      "options": [
+        "Electron",
+        "Molecule",
+        "Atom",
+        "Ion"
+      ],
+      "correct_index": 2,
+      "explanation": "An atom is the smallest unit of an element.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_132",
+      "text": "The positively charged particle in an atom's nucleus is the:",
+      "options": [
+        "Electron",
+        "Proton",
+        "Neutron",
+        "Positron"
+      ],
+      "correct_index": 1,
+      "explanation": "Protons are positively charged.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_133",
+      "text": "The particle in the nucleus with no charge is the:",
+      "options": [
+        "Neutron",
+        "Electron",
+        "Ion",
+        "Proton"
+      ],
+      "correct_index": 0,
+      "explanation": "Neutrons are neutral.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_134",
+      "text": "The electron was discovered by:",
+      "options": [
+        "Bohr",
+        "Einstein",
+        "Rutherford",
+        "J. J. Thomson"
+      ],
+      "correct_index": 3,
+      "explanation": "J. J. Thomson discovered the electron.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_135",
+      "text": "The nucleus of an atom was discovered by:",
+      "options": [
+        "Planck",
+        "Thomson",
+        "Rutherford",
+        "Dalton"
+      ],
+      "correct_index": 2,
+      "explanation": "Rutherford's gold-foil experiment revealed the nucleus.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_136",
+      "text": "The number of protons in an atom is its:",
+      "options": [
+        "Mass number",
+        "Atomic number",
+        "Valency",
+        "Charge"
+      ],
+      "correct_index": 1,
+      "explanation": "Atomic number = number of protons.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_137",
+      "text": "The mass number of an atom is the total of:",
+      "options": [
+        "Protons and neutrons",
+        "Neutrons and electrons",
+        "Protons only",
+        "Protons and electrons"
+      ],
+      "correct_index": 0,
+      "explanation": "Mass number = protons + neutrons.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_138",
+      "text": "Isotopes of an element have the same number of protons but different:",
+      "options": [
+        "Charge",
+        "Atomic number",
+        "Electrons",
+        "Neutrons"
+      ],
+      "correct_index": 3,
+      "explanation": "Isotopes differ in neutron number.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_139",
+      "text": "Radioactivity was discovered by:",
+      "options": [
+        "Roentgen",
+        "Becquerel",
+        "Curie",
+        "Rutherford"
+      ],
+      "correct_index": 1,
+      "explanation": "Henri Becquerel discovered radioactivity.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_140",
+      "text": "Which radiation is the most penetrating?",
+      "options": [
+        "Alpha",
+        "Beta",
+        "Gamma",
+        "All equal"
+      ],
+      "correct_index": 2,
+      "explanation": "Gamma rays are the most penetrating.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_141",
+      "text": "Alpha particles are essentially:",
+      "options": [
+        "Electrons",
+        "Photons",
+        "Protons",
+        "Helium nuclei"
+      ],
+      "correct_index": 3,
+      "explanation": "Alpha particles are helium nuclei (2p + 2n).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_142",
+      "text": "Beta particles are:",
+      "options": [
+        "Photons",
+        "Protons",
+        "Helium nuclei",
+        "Fast electrons"
+      ],
+      "correct_index": 3,
+      "explanation": "Beta particles are fast-moving electrons.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_143",
+      "text": "Gamma rays are:",
+      "options": [
+        "Protons",
+        "Charged particles",
+        "Electromagnetic waves",
+        "Helium nuclei"
+      ],
+      "correct_index": 2,
+      "explanation": "Gamma rays are high-energy EM waves.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_144",
+      "text": "The photoelectric effect demonstrates the ___ nature of light.",
+      "options": [
+        "Wave",
+        "Particle",
+        "Magnetic",
+        "Thermal"
+      ],
+      "correct_index": 1,
+      "explanation": "The photoelectric effect shows light's particle (photon) nature.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_145",
+      "text": "The energy of a photon is given by:",
+      "options": [
+        "E = h/f",
+        "E = mc",
+        "E = hc²",
+        "E = hf"
+      ],
+      "correct_index": 3,
+      "explanation": "Photon energy E = hf.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_146",
+      "text": "The S.I. unit of frequency is named after:",
+      "options": [
+        "Joule",
+        "Watt",
+        "Hertz",
+        "Newton"
+      ],
+      "correct_index": 2,
+      "explanation": "The hertz is named after Heinrich Hertz.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_147",
+      "text": "A body of mass 10 kg has weight (g = 10 m/s²):",
+      "options": [
+        "1000 N",
+        "100 N",
+        "10 N",
+        "1 N"
+      ],
+      "correct_index": 1,
+      "explanation": "W = mg = 100 N.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_148",
+      "text": "The centre of gravity of a body is the point where:",
+      "options": [
+        "Its weight acts",
+        "It is densest",
+        "It is widest",
+        "It is tallest"
+      ],
+      "correct_index": 0,
+      "explanation": "Weight is considered to act at the centre of gravity.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_149",
+      "text": "A simple machine that is an inclined plane wrapped around a cylinder is the:",
+      "options": [
+        "Screw",
+        "Pulley",
+        "Wedge",
+        "Lever"
+      ],
+      "correct_index": 0,
+      "explanation": "A screw is an inclined plane wrapped around a cylinder.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_150",
+      "text": "The mechanical advantage (MA) of a machine is:",
+      "options": [
+        "Load × Effort",
+        "Effort − Load",
+        "Load/Effort",
+        "Effort/Load"
+      ],
+      "correct_index": 2,
+      "explanation": "MA = load/effort.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_151",
+      "text": "The velocity ratio (VR) of a machine is the ratio of:",
+      "options": [
+        "Work to time",
+        "Effort distance to load distance",
+        "Load distance to effort distance",
+        "Load to effort"
+      ],
+      "correct_index": 1,
+      "explanation": "VR = distance moved by effort / distance moved by load.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_152",
+      "text": "Efficiency equals:",
+      "options": [
+        "MA/VR",
+        "VR/MA",
+        "MA × VR",
+        "MA + VR"
+      ],
+      "correct_index": 0,
+      "explanation": "Efficiency = MA/VR.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_153",
+      "text": "The energy possessed by a body due to its motion is:",
+      "options": [
+        "Kinetic energy",
+        "Thermal energy",
+        "Chemical energy",
+        "Potential energy"
+      ],
+      "correct_index": 0,
+      "explanation": "Kinetic energy is energy of motion.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_154",
+      "text": "The energy possessed by a body due to its position is:",
+      "options": [
+        "Sound energy",
+        "Light energy",
+        "Kinetic energy",
+        "Potential energy"
+      ],
+      "correct_index": 3,
+      "explanation": "Potential energy is due to position.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_155",
+      "text": "The density of a substance is:",
+      "options": [
+        "Weight per unit area",
+        "Mass per unit volume",
+        "Volume per unit mass",
+        "Mass × volume"
+      ],
+      "correct_index": 1,
+      "explanation": "Density = mass/volume.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_156",
+      "text": "An object floats when its density is:",
+      "options": [
+        "Greater than the fluid",
+        "Less than the fluid",
+        "Equal to the fluid only",
+        "Irrelevant"
+      ],
+      "correct_index": 1,
+      "explanation": "Objects float when less dense than the fluid.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_157",
+      "text": "The upthrust on a submerged object equals the weight of:",
+      "options": [
+        "The fluid displaced",
+        "The object and fluid",
+        "Nothing",
+        "The object"
+      ],
+      "correct_index": 0,
+      "explanation": "Archimedes' principle: upthrust = weight of displaced fluid.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_158",
+      "text": "The SI unit of electric power is the:",
+      "options": [
+        "Volt",
+        "Ohm",
+        "Watt",
+        "Joule"
+      ],
+      "correct_index": 2,
+      "explanation": "Power is in watts.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_159",
+      "text": "Which of the following is an electromagnetic wave?",
+      "options": [
+        "Seismic wave",
+        "Sound",
+        "Water wave",
+        "X-ray"
+      ],
+      "correct_index": 3,
+      "explanation": "X-rays are EM waves.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_160",
+      "text": "The phenomenon of light bending around obstacles is:",
+      "options": [
+        "Reflection",
+        "Diffraction",
+        "Refraction",
+        "Dispersion"
+      ],
+      "correct_index": 1,
+      "explanation": "Diffraction is the bending of waves around obstacles.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_161",
+      "text": "The law of conservation of linear momentum applies when:",
+      "options": [
+        "No external force acts",
+        "Friction is present",
+        "Always",
+        "External force is present"
+      ],
+      "correct_index": 0,
+      "explanation": "Momentum is conserved only with no net external force.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_162",
+      "text": "A projectile's vertical motion is affected by:",
+      "options": [
+        "Air only",
+        "Nothing",
+        "Gravity",
+        "Friction only"
+      ],
+      "correct_index": 2,
+      "explanation": "Gravity accelerates a projectile vertically.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_163",
+      "text": "The SI unit of work is the:",
+      "options": [
+        "Pascal",
+        "Joule",
+        "Watt",
+        "Newton"
+      ],
+      "correct_index": 1,
+      "explanation": "Work is measured in joules.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_164",
+      "text": "The resistance of a conductor is measured using a(n):",
+      "options": [
+        "Ammeter",
+        "Ohmmeter",
+        "Voltmeter",
+        "Galvanometer"
+      ],
+      "correct_index": 1,
+      "explanation": "An ohmmeter measures resistance.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_165",
+      "text": "The electric charge on an electron is:",
+      "options": [
+        "Negative",
+        "Neutral",
+        "Zero",
+        "Positive"
+      ],
+      "correct_index": 0,
+      "explanation": "Electrons carry negative charge.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_166",
+      "text": "Current is defined as:",
+      "options": [
+        "Charge per unit area",
+        "Voltage per resistance",
+        "Rate of flow of charge",
+        "Rate of flow of energy"
+      ],
+      "correct_index": 2,
+      "explanation": "I = Q/t, the rate of charge flow.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_167",
+      "text": "The unit of electromotive force (emf) is the:",
+      "options": [
+        "Watt",
+        "Ampere",
+        "Volt",
+        "Ohm"
+      ],
+      "correct_index": 2,
+      "explanation": "Emf is measured in volts.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_168",
+      "text": "In a parallel circuit, the voltage across each branch is:",
+      "options": [
+        "The same",
+        "Different",
+        "Zero",
+        "Halved"
+      ],
+      "correct_index": 0,
+      "explanation": "Parallel branches share the same voltage.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_169",
+      "text": "In a series circuit, the current through each component is:",
+      "options": [
+        "Different",
+        "Zero",
+        "Doubled",
+        "The same"
+      ],
+      "correct_index": 3,
+      "explanation": "Series circuits have the same current throughout.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_170",
+      "text": "The frequency of a wave is measured in:",
+      "options": [
+        "Seconds",
+        "Joules",
+        "Hertz",
+        "Metres"
+      ],
+      "correct_index": 2,
+      "explanation": "Frequency is in hertz.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_171",
+      "text": "The wavelength of a wave is measured in:",
+      "options": [
+        "Amperes",
+        "Metres",
+        "Hertz",
+        "Seconds"
+      ],
+      "correct_index": 1,
+      "explanation": "Wavelength is a distance, in metres.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_172",
+      "text": "A wave has speed 100 m/s and frequency 50 Hz. Its wavelength is:",
+      "options": [
+        "2 m",
+        "5000 m",
+        "0.5 m",
+        "150 m"
+      ],
+      "correct_index": 0,
+      "explanation": "λ = v/f = 100/50 = 2 m.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_173",
+      "text": "The image formed on the retina of the eye is:",
+      "options": [
+        "Virtual and upright",
+        "Real and upright",
+        "Virtual and inverted",
+        "Real and inverted"
+      ],
+      "correct_index": 3,
+      "explanation": "The retina receives a real, inverted image.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_174",
+      "text": "The part of the eye that controls the amount of light entering is the:",
+      "options": [
+        "Cornea",
+        "Lens",
+        "Retina",
+        "Iris"
+      ],
+      "correct_index": 3,
+      "explanation": "The iris regulates light entry via the pupil.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_175",
+      "text": "The defect of vision corrected by a concave lens is:",
+      "options": [
+        "Presbyopia",
+        "Hypermetropia",
+        "Myopia",
+        "Astigmatism"
+      ],
+      "correct_index": 2,
+      "explanation": "Myopia (short-sightedness) is corrected with a concave lens.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_176",
+      "text": "The defect of vision corrected by a convex lens is:",
+      "options": [
+        "Myopia",
+        "Hypermetropia",
+        "Colour blindness",
+        "Cataract"
+      ],
+      "correct_index": 1,
+      "explanation": "Hypermetropia (long-sightedness) uses a convex lens.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_177",
+      "text": "A magnifying glass is a:",
+      "options": [
+        "Convex lens",
+        "Plane mirror",
+        "Prism",
+        "Concave lens"
+      ],
+      "correct_index": 0,
+      "explanation": "A magnifying glass is a convex lens.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_178",
+      "text": "The colour of an opaque object is determined by the light it:",
+      "options": [
+        "Transmits",
+        "Refracts",
+        "Absorbs",
+        "Reflects"
+      ],
+      "correct_index": 3,
+      "explanation": "An object appears the colour of the light it reflects.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_179",
+      "text": "The primary colours of light are:",
+      "options": [
+        "Red, green, yellow",
+        "Red, green, blue",
+        "Red, yellow, blue",
+        "Cyan, magenta, yellow"
+      ],
+      "correct_index": 1,
+      "explanation": "Primary light colours are RGB.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_180",
+      "text": "The phenomenon of light vibrating in one plane only is:",
+      "options": [
+        "Dispersion",
+        "Polarisation",
+        "Diffraction",
+        "Refraction"
+      ],
+      "correct_index": 1,
+      "explanation": "Polarisation restricts light to one plane.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_181",
+      "text": "A total internal reflection occurs when light travels from a ___ medium to a ___ medium at an angle greater than the critical angle.",
+      "options": [
+        "Rarer, denser",
+        "Equal, equal",
+        "Vacuum, air",
+        "Denser, rarer"
+      ],
+      "correct_index": 3,
+      "explanation": "TIR occurs going from denser to rarer beyond the critical angle.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_182",
+      "text": "The device used to convert a.c. to d.c. is the:",
+      "options": [
+        "Transistor",
+        "Resistor",
+        "Transformer",
+        "Rectifier"
+      ],
+      "correct_index": 3,
+      "explanation": "A rectifier converts a.c. to d.c.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_183",
+      "text": "A semiconductor diode allows current to flow in:",
+      "options": [
+        "Alternating only",
+        "Both directions",
+        "One direction only",
+        "No direction"
+      ],
+      "correct_index": 2,
+      "explanation": "A diode conducts in one direction only.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_184",
+      "text": "The process by which a nucleus splits into smaller nuclei is:",
+      "options": [
+        "Fusion",
+        "Fission",
+        "Decay",
+        "Ionisation"
+      ],
+      "correct_index": 1,
+      "explanation": "Fission splits a heavy nucleus.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_185",
+      "text": "The process by which light nuclei combine to form a heavier nucleus is:",
+      "options": [
+        "Fusion",
+        "Decay",
+        "Ionisation",
+        "Fission"
+      ],
+      "correct_index": 0,
+      "explanation": "Fusion combines light nuclei.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_186",
+      "text": "The half-life of a radioactive substance is the time for:",
+      "options": [
+        "The mass to double",
+        "The activity to double",
+        "All atoms to decay",
+        "Half the atoms to decay"
+      ],
+      "correct_index": 3,
+      "explanation": "Half-life = time for half the nuclei to decay.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_187",
+      "text": "A radioactive substance has a half-life of 2 hours. After 6 hours, the fraction remaining is:",
+      "options": [
+        "1/3",
+        "1/8",
+        "1/2",
+        "1/4"
+      ],
+      "correct_index": 1,
+      "explanation": "6 h = 3 half-lives → (1/2)³ = 1/8.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_188",
+      "text": "The device used to detect radiation is the:",
+      "options": [
+        "Geiger-Muller counter",
+        "Barometer",
+        "Hygrometer",
+        "Thermometer"
+      ],
+      "correct_index": 0,
+      "explanation": "A Geiger-Muller counter detects ionising radiation.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_189",
+      "text": "X-rays were discovered by:",
+      "options": [
+        "Becquerel",
+        "Curie",
+        "Hertz",
+        "Roentgen"
+      ],
+      "correct_index": 3,
+      "explanation": "Wilhelm Roentgen discovered X-rays.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_190",
+      "text": "X-rays are used in medicine mainly for:",
+      "options": [
+        "Heating",
+        "Sterilising food",
+        "Imaging bones",
+        "Cooling"
+      ],
+      "correct_index": 2,
+      "explanation": "X-rays image dense structures like bones.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_191",
+      "text": "The S.I. unit of luminous intensity is the:",
+      "options": [
+        "Watt",
+        "Candela",
+        "Lumen",
+        "Lux"
+      ],
+      "correct_index": 1,
+      "explanation": "Luminous intensity is in candelas (cd).",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_192",
+      "text": "The S.I. unit of amount of substance is the:",
+      "options": [
+        "Mole",
+        "Gram",
+        "Kilogram",
+        "Litre"
+      ],
+      "correct_index": 0,
+      "explanation": "Amount of substance is in moles (mol).",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_193",
+      "text": "The energy stored in a stretched spring is:",
+      "options": [
+        "Elastic potential energy",
+        "Gravitational PE",
+        "Chemical energy",
+        "Kinetic energy"
+      ],
+      "correct_index": 0,
+      "explanation": "A stretched spring stores elastic potential energy.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_194",
+      "text": "Hooke's law states that extension is proportional to:",
+      "options": [
+        "Time",
+        "Mass",
+        "Force (within the elastic limit)",
+        "Temperature"
+      ],
+      "correct_index": 2,
+      "explanation": "F ∝ e within the elastic limit.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_195",
+      "text": "The unit of spring constant is:",
+      "options": [
+        "J",
+        "N/m",
+        "N m",
+        "N/m²"
+      ],
+      "correct_index": 1,
+      "explanation": "k = F/e → N/m.",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_196",
+      "text": "The time period of a simple pendulum depends on:",
+      "options": [
+        "Length and gravity",
+        "Mass",
+        "Amplitude",
+        "Material"
+      ],
+      "correct_index": 0,
+      "explanation": "T = 2π√(L/g).",
+      "difficulty": 2
+    },
+    {
+      "id": "phy_197",
+      "text": "The frequency of a simple pendulum is the:",
+      "options": [
+        "Same as its period",
+        "Square of its period",
+        "Double its period",
+        "Reciprocal of its period"
+      ],
+      "correct_index": 3,
+      "explanation": "f = 1/T.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_198",
+      "text": "The unit of momentum is:",
+      "options": [
+        "kg m/s²",
+        "J",
+        "kg m/s",
+        "N"
+      ],
+      "correct_index": 2,
+      "explanation": "p = mv → kg m/s.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_199",
+      "text": "The impulse of a force equals the change in:",
+      "options": [
+        "Force",
+        "Momentum",
+        "Energy",
+        "Speed"
+      ],
+      "correct_index": 1,
+      "explanation": "Impulse = change in momentum.",
+      "difficulty": 1
+    },
+    {
+      "id": "phy_200",
+      "text": "Impulse is calculated as:",
+      "options": [
+        "Force × time",
+        "Force × distance",
+        "Mass × acceleration",
+        "Work × time"
+      ],
+      "correct_index": 0,
+      "explanation": "Impulse = F × t.",
+      "difficulty": 1
+    }
+  ]
+}
