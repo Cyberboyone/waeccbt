@@ -1,4 +1,4 @@
-package com.nakudin.jambcbt
+package com.nakudin.waeccbt
 
 import io.flutter.embedding.android.FlutterActivity
 

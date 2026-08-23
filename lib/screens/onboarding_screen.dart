@@ -87,7 +87,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
               ),
               const SizedBox(height: 8.0),
               Text(
-                'Enter a nickname to track your JAMB CBT practice progress and rank on the leaderboard.',
+                'Enter a nickname to track your WAEC CBT practice progress and rank on the leaderboard.',
                 style: TextStyle(
                   color: AppColors.textSecondary,
                   fontSize: 14.0,

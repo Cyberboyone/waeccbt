@@ -27,41 +27,31 @@ class AppConstants {
   static const String githubUsername = 'Cyberboyone';
   static const String githubRepoName = 'waeccbt';
   static const String githubBranch = 'main';
-
-  static const String githubRawBaseUrl =
-      'https://raw.githubusercontent.com/$githubUsername/$githubRepoName/$githubBranch';
-  static const String jsDelivrBaseUrl =
-      'https://cdn.jsdelivr.net/gh/$githubUsername/$githubRepoName@$githubBranch';
-
+  static const String githubRawBaseUrl = 'https://raw.githubusercontent.com/$githubUsername/$githubRepoName/$githubBranch';
+  static const String jsDelivrBaseUrl = 'https://cdn.jsdelivr.net/gh/$githubUsername/$githubRepoName@$githubBranch';
   static const String manifestPath = '/config/manifest.json';
   static const String appConfigPath = '/config/app_config.json';
   static const String questionsDir = '/questions';
-
   static const String profileBox = 'profile_box';
   static const String progressBox = 'progress_box';
   static const String settingsBox = 'settings_box';
   static const String questionsBox = 'questions_box';
   static const String claimedCodesBox = 'claimed_codes_box';
-
   static const String profileKey = 'user_profile';
   static const String settingsKey = 'user_settings';
-
   static const int dailyGoalQuestions = 10;
   static const int coinsPerCorrectAnswer = 1;
   static const int coinsForHint = 5;
   static const int coinsForStreakFreeze = 15;
   static const int referralBonusCoins = 20;
-
   static const double combo1xThreshold = 3;
   static const double combo1_5xThreshold = 5;
   static const double combo2xThreshold = 10;
   static const double combo3xMultiplier = 3.0;
-
   static const double streak1_2xThreshold = 3;
   static const double streak1_5xThreshold = 7;
   static const double streak2xThreshold = 14;
   static const double streak3xThreshold = 30;
-
   static const List<Map<String, dynamic>> levels = [
     {'xp': 0, 'title': 'Freshman', 'icon': '🌱'},
     {'xp': 100, 'title': 'Sophomore', 'icon': '📖'},
@@ -72,7 +62,6 @@ class AppConstants {
     {'xp': 10000, 'title': 'Scholar', 'icon': '🏆'},
     {'xp': 25000, 'title': 'Legend', 'icon': '👑'},
   ];
-
   static const List<Map<String, String>> badgeCatalog = [
     {'id': 'first_steps', 'name': 'First Steps', 'description': 'Complete your first practice session', 'icon': '🌱'},
     {'id': 'perfect_score', 'name': 'Perfect Score', 'description': 'Score 100% on any exam', 'icon': '💯'},
@@ -91,56 +80,27 @@ class AppConstants {
     {'id': 'exam_pro', 'name': 'Exam Pro', 'description': 'Pass 5 different exams', 'icon': '📝'},
     {'id': 'full_house', 'name': 'Full House', 'description': 'Get 100% on every course', 'icon': '🏠'},
   ];
-
   static const int passingScorePercentage = 50;
   static const int examDefaultMinutes = 60;
   static const int practiceMaxQuestions = 50;
-
   static const String appVersion = '1.0.0';
   static const String appName = 'WAEC CBT';
   static const String poweredBy = 'Powered by WAEC CBT';
   static const String contactEmail = 'muhammadmusab372@gmail.com';
   static const String webUrl = 'https://waeccbt.app';
-
   static const String admobAppId = 'ca-app-pub-9529770421530115~8661949997';
   static const String admobBannerUnitId = 'ca-app-pub-9529770421530115/6035786657';
   static const String admobInterstitialUnitId = 'ca-app-pub-9529770421530115/9420497895';
   static const String admobRewardedUnitId = 'ca-app-pub-9529770421530115/5114526577';
-
   static int getLevelForXp(int xp) {
     int level = 0;
     for (int i = levels.length - 1; i >= 0; i--) {
-      if (xp >= (levels[i]['xp'] as int)) {
-        level = i;
-        break;
-      }
+      if (xp >= (levels[i]['xp'] as int)) { level = i; break; }
     }
     return level;
   }
-
-  static Map<String, dynamic> getLevelInfo(int xp) {
-    final idx = getLevelForXp(xp);
-    return levels[idx];
-  }
-
-  static int getNextLevelXp(int xp) {
-    final currentIdx = getLevelForXp(xp);
-    if (currentIdx >= levels.length - 1) return xp;
-    return levels[currentIdx + 1]['xp'] as int;
-  }
-
-  static double getComboMultiplier(int combo) {
-    if (combo >= combo2xThreshold) return combo3xMultiplier;
-    if (combo >= combo1_5xThreshold) return 2.0;
-    if (combo >= combo1xThreshold) return 1.5;
-    return 1.0;
-  }
-
-  static double getStreakMultiplier(int streak) {
-    if (streak >= streak3xThreshold) return 3.0;
-    if (streak >= streak2xThreshold) return 2.0;
-    if (streak >= streak1_5xThreshold) return 1.5;
-    if (streak >= streak1_2xThreshold) return 1.2;
-    return 1.0;
-  }
+  static Map<String, dynamic> getLevelInfo(int xp) { final idx = getLevelForXp(xp); return levels[idx]; }
+  static int getNextLevelXp(int xp) { final currentIdx = getLevelForXp(xp); if (currentIdx >= levels.length - 1) return xp; return levels[currentIdx + 1]['xp'] as int; }
+  static double getComboMultiplier(int combo) { if (combo >= combo2xThreshold) return combo3xMultiplier; if (combo >= combo1_5xThreshold) return 2.0; if (combo >= combo1xThreshold) return 1.5; return 1.0; }
+  static double getStreakMultiplier(int streak) { if (streak >= streak3xThreshold) return 3.0; if (streak >= streak2xThreshold) return 2.0; if (streak >= streak1_5xThreshold) return 1.5; if (streak >= streak1_2xThreshold) return 1.2; return 1.0; }
 }

@@ -28,7 +28,7 @@ class _InviteScreenState extends State<InviteScreen> {
   }
 
   void _shareReferral(String code) {
-    final msg = 'Join me on JAMB CBT to practice and pass your UTME subjects offline!\n'
+    final msg = 'Join me on WAEC CBT to practice and pass your WASSCE subjects offline!\n'
         'Use my invite code: $code to unlock 20 bonus coins instantly.\n'
         'Download the app now!';
     Share.share(msg);
@@ -142,7 +142,7 @@ class _InviteScreenState extends State<InviteScreen> {
             Text('Share the Knowledge', style: TextStyle(fontSize: 20.0, fontWeight: FontWeight.w900, color: AppColors.textPrimary)),
             const SizedBox(height: 8.0),
             Text(
-              'Invite your friends to practice on JAMB CBT. You both receive 20 bonus coins when they enter your code!',
+              'Invite your friends to practice on WAEC CBT. You both receive 20 bonus coins when they enter your code!',
               style: TextStyle(color: AppColors.textSecondary, fontSize: 13.5, height: 1.45),
             ),
             const SizedBox(height: 24.0),

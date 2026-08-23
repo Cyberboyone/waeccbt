@@ -84,7 +84,7 @@ class _SplashScreenState extends State<SplashScreen> {
                   ),
                   const SizedBox(height: 24.0),
                   Text(
-                    'JAMB CBT',
+                    'WAEC CBT',
                     style: TextStyle(
                       color: AppColors.textPrimary,
                       fontSize: 24.0,

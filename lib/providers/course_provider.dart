@@ -2,10 +2,8 @@ import 'package:flutter/material.dart';
 import '../models/course.dart';
 import '../models/progress.dart';
 import '../services/hive_service.dart';
-
 class CourseProvider with ChangeNotifier {
   final HiveService _hiveService = HiveService();
-
   final List<Course> _courses = [
     Course(id: 'eng', code: 'ENG', name: 'English Language', icon: '📖', colorHex: '#DCEEFF', mode: 'core', examQuestions: 80, examMinutes: 90),
     Course(id: 'mat', code: 'MAT', name: 'General Mathematics', icon: '📐', colorHex: '#FFF3CD', mode: 'core', examQuestions: 50, examMinutes: 90),
@@ -30,39 +28,11 @@ class CourseProvider with ChangeNotifier {
     Course(id: 'acc', code: 'ACC', name: 'Financial Accounting', icon: '🧾', colorHex: '#DFF5E4', mode: 'commercial', examQuestions: 50, examMinutes: 60),
     Course(id: 'mkt', code: 'MKT', name: 'Marketing', icon: '📣', colorHex: '#FDE68A', mode: 'commercial', examQuestions: 40, examMinutes: 60),
   ];
-
   List<Course> get courses => _courses;
   final Map<String, CourseProgress> _progressMap = {};
   CourseProvider() { loadAllProgress(); }
-  void loadAllProgress() {
-    for (var course in _courses) {
-      _progressMap[course.id] = _hiveService.getProgress(course.id);
-    }
-    notifyListeners();
-  }
-  CourseProgress getProgressForCourse(String courseId) {
-    return _progressMap[courseId] ??
-        CourseProgress(courseId: courseId, questionsAttempted: 0, correctCount: 0, bestScore: 0, lastAttemptDate: DateTime.now());
-  }
-  double getCompletionPercentage(String courseId) {
-    final cachedQuestionsCount = _hiveService.getCachedQuestions(courseId).length;
-    final total = cachedQuestionsCount > 0 ? cachedQuestionsCount : 100;
-    final progress = getProgressForCourse(courseId);
-    if (progress.questionsAttempted == 0) return 0.0;
-    final pct = (progress.questionsAttempted / total);
-    return pct > 1.0 ? 1.0 : pct;
-  }
-  Future<void> updateCourseProgress({required String courseId, required int additionalAttempted, required int additionalCorrect, int? newExamScore}) async {
-    final current = getProgressForCourse(courseId);
-    int updatedAttempted = current.questionsAttempted + additionalAttempted;
-    int updatedCorrect = current.correctCount + additionalCorrect;
-    int updatedBestScore = current.bestScore;
-    if (newExamScore != null && newExamScore > current.bestScore) {
-      updatedBestScore = newExamScore;
-    }
-    final updated = CourseProgress(courseId: courseId, questionsAttempted: updatedAttempted, correctCount: updatedCorrect, bestScore: updatedBestScore, lastAttemptDate: DateTime.now());
-    _progressMap[courseId] = updated;
-    await _hiveService.saveProgress(updated);
-    notifyListeners();
-  }
+  void loadAllProgress() { for (var course in _courses) { _progressMap[course.id] = _hiveService.getProgress(course.id); } notifyListeners(); }
+  CourseProgress getProgressForCourse(String courseId) { return _progressMap[courseId] ?? CourseProgress(courseId: courseId, questionsAttempted: 0, correctCount: 0, bestScore: 0, lastAttemptDate: DateTime.now()); }
+  double getCompletionPercentage(String courseId) { final cached = _hiveService.getCachedQuestions(courseId).length; final total = cached > 0 ? cached : 100; final p = getProgressForCourse(courseId); if (p.questionsAttempted == 0) return 0.0; final pct = (p.questionsAttempted / total); return pct > 1.0 ? 1.0 : pct; }
+  Future<void> updateCourseProgress({required String courseId, required int additionalAttempted, required int additionalCorrect, int? newExamScore}) async { final current = getProgressForCourse(courseId); int att = current.questionsAttempted + additionalAttempted; int cor = current.correctCount + additionalCorrect; int best = current.bestScore; if (newExamScore != null && newExamScore > current.bestScore) best = newExamScore; final upd = CourseProgress(courseId: courseId, questionsAttempted: att, correctCount: cor, bestScore: best, lastAttemptDate: DateTime.now()); _progressMap[courseId] = upd; await _hiveService.saveProgress(upd); notifyListeners(); }
 }

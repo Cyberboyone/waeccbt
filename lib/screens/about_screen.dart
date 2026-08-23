@@ -12,7 +12,7 @@ class AboutScreen extends StatelessWidget {
     return Scaffold(
       backgroundColor: AppColors.background,
       appBar: AppBar(
-        title: const Text('About JAMB CBT', style: TextStyle(fontWeight: FontWeight.w800, color: AppColors.primary)),
+        title: const Text('About WAEC CBT', style: TextStyle(fontWeight: FontWeight.w800, color: AppColors.primary)),
         backgroundColor: Colors.transparent,
         elevation: 0,
       ),
@@ -57,7 +57,7 @@ class AboutScreen extends StatelessWidget {
             ),
             const SizedBox(height: 8.0),
             Text(
-              'JAMB CBT is a computer-based test training platform built for candidates preparing for the Nigerian Unified Tertiary Matriculation Examination (UTME). It covers 10 core subjects with 200 original, syllabus-aligned questions each, complete offline support, timed exam simulations, and performance analytics over time.',
+              'WAEC CBT is a computer-based test training platform built for candidates preparing for the Nigerian Unified Tertiary Matriculation Examination (WASSCE). It covers 10 core subjects with 200 original, syllabus-aligned questions each, complete offline support, timed exam simulations, and performance analytics over time.',
               style: TextStyle(color: AppColors.textSecondary, fontSize: 13.0, height: 1.45),
             ),
             const SizedBox(height: 24.0),
@@ -68,8 +68,8 @@ class AboutScreen extends StatelessWidget {
             ),
             const SizedBox(height: 8.0),
             _buildFeatureBullet('Offline Practice Mode', 'Review questions with instant answer explanations.'),
-            _buildFeatureBullet('Mock Exam Timer', 'Simulate the real UTME timing to build speed and accuracy.'),
-            _buildFeatureBullet('JAMB-Aligned Exams', 'Timed exams match the real UTME format: 60 questions for Use of English, 40 for other subjects.'),
+            _buildFeatureBullet('Mock Exam Timer', 'Simulate the real WASSCE timing to build speed and accuracy.'),
+            _buildFeatureBullet('WAEC-Aligned Exams', 'Timed exams match the real WASSCE format: 80 questions (English) / 60/50/40 others, real WAEC timing
             _buildFeatureBullet('200-Question Banks', 'Each subject has 200 original syllabus-aligned questions, drawn randomly every attempt.'),
             _buildFeatureBullet('Gamification Engine', 'Earn coins, accumulate XP, and achieve streak milestones.'),
             const SizedBox(height: 24.0),
@@ -80,7 +80,7 @@ class AboutScreen extends StatelessWidget {
             ),
             const SizedBox(height: 8.0),
             Text(
-              'Every question is original, written to match the official JAMB UTME syllabus and exam style, and organised by subject and topic so you can focus your revision where it matters most.',
+              'Every question is original, written to match the official WAEC WASSCE syllabus and exam style, and organised by subject and topic so you can focus your revision where it matters most.',
               style: TextStyle(color: AppColors.textSecondary, fontSize: 13.0, height: 1.45),
             ),
             const SizedBox(height: 24.0),

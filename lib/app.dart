@@ -18,79 +18,25 @@ import 'screens/settings_screen.dart';
 import 'screens/about_screen.dart';
 import 'screens/shop_screen.dart';
 import 'screens/badges_screen.dart';
-
-class WaecCbtApp extends StatefulWidget {
-  const WaecCbtApp({super.key});
-
-  @override
-  State<WaecCbtApp> createState() => _WaecCbtAppState();
-}
-
+class WaecCbtApp extends StatefulWidget { const WaecCbtApp({super.key}); @override State<WaecCbtApp> createState() => _WaecCbtAppState(); }
 class _WaecCbtAppState extends State<WaecCbtApp> with WidgetsBindingObserver {
-  @override
-  void initState() {
-    super.initState();
-    WidgetsBinding.instance.addObserver(this);
-  }
-
-  @override
-  void dispose() {
-    WidgetsBinding.instance.removeObserver(this);
-    super.dispose();
-  }
-
-  @override
-  void didChangeAppLifecycleState(AppLifecycleState state) {
-    if (state == AppLifecycleState.resumed) {
-      AdService.instance.onAppResume();
-    }
-  }
-
-  @override
-  Widget build(BuildContext context) {
+  @override void initState() { super.initState(); WidgetsBinding.instance.addObserver(this); }
+  @override void dispose() { WidgetsBinding.instance.removeObserver(this); super.dispose(); }
+  @override void didChangeAppLifecycleState(AppLifecycleState state) { if (state == AppLifecycleState.resumed) { AdService.instance.onAppResume(); } }
+  @override Widget build(BuildContext context) {
     return MultiProvider(
-      providers: [
-        ChangeNotifierProvider(create: (_) => ProfileProvider()),
-        ChangeNotifierProvider(create: (_) => SettingsProvider()),
-        ChangeNotifierProvider(create: (_) => CourseProvider()),
-        ChangeNotifierProvider(create: (_) => QuizProvider()),
-      ],
-      child: Consumer<SettingsProvider>(
-        builder: (context, settingsProvider, _) {
-          final isDarkMode = settingsProvider.settings.isDarkMode;
-          AppColors.isDark = isDarkMode;
-          return MaterialApp(
-            title: 'WAEC CBT',
-            debugShowCheckedModeBanner: false,
-            theme: AppTheme.lightTheme,
-            darkTheme: AppTheme.darkTheme,
-            themeMode: isDarkMode ? ThemeMode.dark : ThemeMode.light,
-            builder: (context, child) => AppThemeScope(
-              isDark: isDarkMode,
-              child: child ?? const SizedBox.shrink(),
-            ),
-            initialRoute: AppRoutes.splash,
-            routes: {
-              AppRoutes.splash: (context) => const SplashScreen(),
-              AppRoutes.onboarding: (context) => const OnboardingScreen(),
-              AppRoutes.home: (context) => const HomeScreen(),
-              AppRoutes.practice: (context) => const PracticeScreen(),
-              AppRoutes.exam: (context) => const ExamScreen(),
-              AppRoutes.leaderboard: (context) => const LeaderboardScreen(),
-              AppRoutes.invite: (context) => const InviteScreen(),
-              AppRoutes.settings: (context) => const SettingsScreen(),
-              AppRoutes.about: (context) => const AboutScreen(),
-              AppRoutes.shop: (context) => const ShopScreen(),
-              AppRoutes.badges: (context) => const BadgesScreen(),
-            },
-            onUnknownRoute: (settings) => MaterialPageRoute(
-              builder: (_) => const Scaffold(
-                body: Center(child: Text('Page not found')),
-              ),
-            ),
-          );
-        },
-      ),
+      providers: [ChangeNotifierProvider(create: (_) => ProfileProvider()), ChangeNotifierProvider(create: (_) => SettingsProvider()), ChangeNotifierProvider(create: (_) => CourseProvider()), ChangeNotifierProvider(create: (_) => QuizProvider())],
+      child: Consumer<SettingsProvider>(builder: (context, settingsProvider, _) {
+        final isDarkMode = settingsProvider.settings.isDarkMode;
+        AppColors.isDark = isDarkMode;
+        return MaterialApp(
+          title: 'WAEC CBT', debugShowCheckedModeBanner: false, theme: AppTheme.lightTheme, darkTheme: AppTheme.darkTheme, themeMode: isDarkMode ? ThemeMode.dark : ThemeMode.light,
+          builder: (context, child) => AppThemeScope(isDark: isDarkMode, child: child ?? const SizedBox.shrink()),
+          initialRoute: AppRoutes.splash,
+          routes: {AppRoutes.splash: (context) => const SplashScreen(), AppRoutes.onboarding: (context) => const OnboardingScreen(), AppRoutes.home: (context) => const HomeScreen(), AppRoutes.practice: (context) => const PracticeScreen(), AppRoutes.exam: (context) => const ExamScreen(), AppRoutes.leaderboard: (context) => const LeaderboardScreen(), AppRoutes.invite: (context) => const InviteScreen(), AppRoutes.settings: (context) => const SettingsScreen(), AppRoutes.about: (context) => const AboutScreen(), AppRoutes.shop: (context) => const ShopScreen(), AppRoutes.badges: (context) => const BadgesScreen()},
+          onUnknownRoute: (settings) => MaterialPageRoute(builder: (_) => const Scaffold(body: Center(child: Text('Page not found')))),
+        );
+      }),
     );
   }
 }

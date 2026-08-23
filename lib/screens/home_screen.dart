@@ -530,7 +530,7 @@ class _HomeTab extends StatelessWidget {
         backgroundColor: AppColors.surface,
         title: const Text('Announcements', style: TextStyle(fontWeight: FontWeight.w800, color: AppColors.primary)),
         content: Text(
-          'Welcome to JAMB CBT!\n\nAll features are 100% offline. Pick a subject and start practicing to prepare for your UTME exams.',
+          'Welcome to WAEC CBT!\n\nAll features are 100% offline. Pick a subject and start practicing to prepare for your WASSCE exams.',
           style: TextStyle(color: AppColors.textSecondary, height: 1.4),
         ),
         actions: [
@@ -704,7 +704,7 @@ class _PracticeTab extends StatelessWidget {
             _buildModeCard(
               context,
               title: 'Timed Exam Simulation',
-              subtitle: 'Real JAMB format — 60 questions (English) / 40 (others), timed.',
+              subtitle: 'Real WAEC format — 80 questions (English) / 60/50/40 others, real WAEC timing
               icon: Icons.timer_outlined,
               color: AppColors.secondary,
               onTap: () => _chooseCourseForSession(context, QuizMode.exam),
