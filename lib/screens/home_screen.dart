@@ -704,7 +704,7 @@ class _PracticeTab extends StatelessWidget {
             _buildModeCard(
               context,
               title: 'Timed Exam Simulation',
-              subtitle: 'Real WAEC format — 80 questions (English) / 60/50/40 others, real WAEC timing
+              subtitle: 'Real WAEC format — 80 questions (English) / 60/50/40 others, real WAEC timing.',
               icon: Icons.timer_outlined,
               color: AppColors.secondary,
               onTap: () => _chooseCourseForSession(context, QuizMode.exam),

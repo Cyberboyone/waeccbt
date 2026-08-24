@@ -69,7 +69,7 @@ class AboutScreen extends StatelessWidget {
             const SizedBox(height: 8.0),
             _buildFeatureBullet('Offline Practice Mode', 'Review questions with instant answer explanations.'),
             _buildFeatureBullet('Mock Exam Timer', 'Simulate the real WASSCE timing to build speed and accuracy.'),
-            _buildFeatureBullet('WAEC-Aligned Exams', 'Timed exams match the real WASSCE format: 80 questions (English) / 60/50/40 others, real WAEC timing
+            _buildFeatureBullet('WAEC-Aligned Exams', 'Timed exams match the real WASSCE format: 80 questions (English) / 60/50/40 others, real WAEC timing.'),
             _buildFeatureBullet('200-Question Banks', 'Each subject has 200 original syllabus-aligned questions, drawn randomly every attempt.'),
             _buildFeatureBullet('Gamification Engine', 'Earn coins, accumulate XP, and achieve streak milestones.'),
             const SizedBox(height: 24.0),

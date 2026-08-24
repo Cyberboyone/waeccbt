@@ -24,19 +24,20 @@ The keystore, key alias and passwords are also recorded locally in
 
 ## Option A — GitHub Actions (recommended)
 
-The repo has two workflows:
+The repo has one merged workflow:
 
-- `.github/workflows/build-apk.yml` — builds a signed release APK on every push
-  to `main`/`master` (and manually).
-- `.github/workflows/build-aab.yml` — builds the signed Play Store `.aab` on manual
-  trigger (`workflow_dispatch`).
+- `.github/workflows/build-android.yml` — builds **both** a signed release APK
+  and a signed Play Store `.aab` on every push to `main`/`master` (and manually
+  via `workflow_dispatch`). It decodes `ANDROID_KEYSTORE_BASE64` into
+  `android/app/waeccbt-upload.keystore`, verifies it with keytool, then uploads
+  two artifacts: `WAEC-CBT-Release-APK` and `WAEC-CBT-Release-AAB`.
 
 ### One-time setup: add secrets
 
 In the GitHub repo → **Settings → Secrets and variables → Actions**, add:
 
 1. `ANDROID_KEYSTORE_BASE64` — the base64 of the keystore (see `keystore_secrets.txt`).
-2. `ANDROID_KEY_PASSWORD` — the keystore/key password.
+   The workflow fails fast with a clear error if this secret is missing or invalid.
 
 Then:
 
