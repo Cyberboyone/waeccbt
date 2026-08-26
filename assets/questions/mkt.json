@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": "mkt_001",
-      "text": "Marketing is:",
+      "text": "Marketing is best described as the activity of:",
       "options": [
         "Only buying",
         "Only selling",
@@ -18,7 +18,7 @@
     },
     {
       "id": "mkt_002",
-      "text": "4Ps are:",
+      "text": "The four components of the marketing mix known as the 4Ps are:",
       "options": [
         "No Ps",
         "Only product",
@@ -31,7 +31,7 @@
     },
     {
       "id": "mkt_003",
-      "text": "Product life cycle:",
+      "text": "The stages of the product life cycle are:",
       "options": [
         "Only decline",
         "Intro growth maturity decline",
@@ -44,7 +44,7 @@
     },
     {
       "id": "mkt_004",
-      "text": "Advertising is:",
+      "text": "Advertising is best described as a form of promotion that is:",
       "options": [
         "Paid non-personal",
         "Free",
@@ -57,7 +57,7 @@
     },
     {
       "id": "mkt_005",
-      "text": "Wholesaler buys:",
+      "text": "A wholesaler buys goods from manufacturers and sells them:",
       "options": [
         "Small",
         "No bulk",
@@ -70,7 +70,7 @@
     },
     {
       "id": "mkt_006",
-      "text": "Retailer sells to:",
+      "text": "Which of the following best describes or relates to A retailer sells goods directly to?",
       "options": [
         "No consumer",
         "Only bulk",
@@ -83,7 +83,7 @@
     },
     {
       "id": "mkt_007",
-      "text": "SWOT means:",
+      "text": "What does SWOT is an acronym that stand for?",
       "options": [
         "Only weaknesses",
         "Strengths Weaknesses Opportunities Threats",
@@ -96,7 +96,7 @@
     },
     {
       "id": "mkt_008",
-      "text": "Market segmentation:",
+      "text": "Market segmentation refers to dividing a market into:",
       "options": [
         "Dividing market",
         "No division",
@@ -109,7 +109,7 @@
     },
     {
       "id": "mkt_009",
-      "text": "Branding is:",
+      "text": "Branding is the process of creating a unique:",
       "options": [
         "No identity",
         "Only name",
@@ -122,7 +122,7 @@
     },
     {
       "id": "mkt_010",
-      "text": "AIDA means:",
+      "text": "AIDA is an acronym used in marketing that stands for:",
       "options": [
         "Only attention",
         "Only action",
@@ -135,7 +135,7 @@
     },
     {
       "id": "mkt_011",
-      "text": "SEO means:",
+      "text": "SEO is an acronym that stands for search engine:",
       "options": [
         "Only engine",
         "Search Engine Optimization",
@@ -148,7 +148,7 @@
     },
     {
       "id": "mkt_012",
-      "text": "CRM means:",
+      "text": "CRM is an acronym that stands for customer relationship:",
       "options": [
         "Customer Relationship Management",
         "No management",
@@ -161,7 +161,7 @@
     },
     {
       "id": "mkt_013",
-      "text": "Break-even is:",
+      "text": "The break-even point occurs when total revenue equals:",
       "options": [
         "Revenue>Cost",
         "Revenue<Cost",
@@ -174,7 +174,7 @@
     },
     {
       "id": "mkt_014",
-      "text": "Profit is:",
+      "text": "Profit is calculated as total revenue less:",
       "options": [
         "Revenue*Cost",
         "Revenue/Cost",
@@ -187,7 +187,7 @@
     },
     {
       "id": "mkt_015",
-      "text": "Niche market is:",
+      "text": "A niche market is defined as a specialised segment:",
       "options": [
         "Only mass",
         "Small specialized",
@@ -200,7 +200,7 @@
     },
     {
       "id": "mkt_016",
-      "text": "Mass marketing:",
+      "text": "Mass marketing is best described as:",
       "options": [
         "One for all",
         "Different for all",
@@ -213,7 +213,7 @@
     },
     {
       "id": "mkt_017",
-      "text": "Viral marketing:",
+      "text": "Viral marketing is a strategy in which a message:",
       "options": [
         "No spreading",
         "Only slow",
@@ -226,7 +226,7 @@
     },
     {
       "id": "mkt_018",
-      "text": "Direct marketing:",
+      "text": "Direct marketing involves communicating directly with customers through:",
       "options": [
         "No direct",
         "Only publicity",
@@ -239,7 +239,7 @@
     },
     {
       "id": "mkt_019",
-      "text": "Digital marketing uses:",
+      "text": "Digital marketing primarily uses electronic devices to:",
       "options": [
         "Only print",
         "Internet",
@@ -252,7 +252,7 @@
     },
     {
       "id": "mkt_020",
-      "text": "Market share is:",
+      "text": "Market share is defined as the proportion of:",
       "options": [
         "Company % of total",
         "No share",
@@ -265,7 +265,7 @@
     },
     {
       "id": "mkt_021",
-      "text": "Marketing is: (variant 21)",
+      "text": "Marketing is best described as: (variant 21)",
       "options": [
         "Only buying",
         "Only selling",
@@ -278,7 +278,7 @@
     },
     {
       "id": "mkt_022",
-      "text": "4Ps are: (variant 22)",
+      "text": "The four components of the marketing mix known as the 4Ps are: (variant 22)",
       "options": [
         "No Ps",
         "Only product",
@@ -291,7 +291,7 @@
     },
     {
       "id": "mkt_023",
-      "text": "Product life cycle: (variant 23)",
+      "text": "The stages of the product life cycle are: (variant 23)",
       "options": [
         "Only decline",
         "Intro growth maturity decline",
@@ -304,7 +304,7 @@
     },
     {
       "id": "mkt_024",
-      "text": "Advertising is: (variant 24)",
+      "text": "Advertising is best described as a form of promotion that is: (variant 24)",
       "options": [
         "Paid non-personal",
         "Free",
@@ -317,7 +317,7 @@
     },
     {
       "id": "mkt_025",
-      "text": "Wholesaler buys: (variant 25)",
+      "text": "A wholesaler buys goods from manufacturers and sells them: (variant 25)",
       "options": [
         "Small",
         "No bulk",
@@ -330,7 +330,7 @@
     },
     {
       "id": "mkt_026",
-      "text": "Retailer sells to: (variant 26)",
+      "text": "A retailer sells goods directly to: (variant 26)",
       "options": [
         "No consumer",
         "Only bulk",
@@ -343,7 +343,7 @@
     },
     {
       "id": "mkt_027",
-      "text": "SWOT means: (variant 27)",
+      "text": "SWOT is an acronym that stands for: (variant 27)",
       "options": [
         "Only weaknesses",
         "Strengths Weaknesses Opportunities Threats",
@@ -356,7 +356,7 @@
     },
     {
       "id": "mkt_028",
-      "text": "Market segmentation: (variant 28)",
+      "text": "Market segmentation refers to: (variant 28)",
       "options": [
         "Dividing market",
         "No division",
@@ -369,7 +369,7 @@
     },
     {
       "id": "mkt_029",
-      "text": "Branding is: (variant 29)",
+      "text": "Branding is the process of creating a unique: (variant 29)",
       "options": [
         "No identity",
         "Only name",
@@ -382,7 +382,7 @@
     },
     {
       "id": "mkt_030",
-      "text": "AIDA means: (variant 30)",
+      "text": "AIDA is an acronym used in marketing that stands for: (variant 30)",
       "options": [
         "Only attention",
         "Only action",
@@ -395,7 +395,7 @@
     },
     {
       "id": "mkt_031",
-      "text": "SEO means: (variant 31)",
+      "text": "SEO is an acronym that stands for: (variant 31)",
       "options": [
         "Only engine",
         "Search Engine Optimization",
@@ -408,7 +408,7 @@
     },
     {
       "id": "mkt_032",
-      "text": "CRM means: (variant 32)",
+      "text": "CRM is an acronym that stands for: (variant 32)",
       "options": [
         "Customer Relationship Management",
         "No management",
@@ -421,7 +421,7 @@
     },
     {
       "id": "mkt_033",
-      "text": "Break-even is: (variant 33)",
+      "text": "The break-even point occurs when: (variant 33)",
       "options": [
         "Revenue>Cost",
         "Revenue<Cost",
@@ -434,7 +434,7 @@
     },
     {
       "id": "mkt_034",
-      "text": "Profit is: (variant 34)",
+      "text": "Profit is calculated as: (variant 34)",
       "options": [
         "Revenue*Cost",
         "Revenue/Cost",
@@ -447,7 +447,7 @@
     },
     {
       "id": "mkt_035",
-      "text": "Niche market is: (variant 35)",
+      "text": "A niche market is defined as: (variant 35)",
       "options": [
         "Only mass",
         "Small specialized",
@@ -460,7 +460,7 @@
     },
     {
       "id": "mkt_036",
-      "text": "Mass marketing: (variant 36)",
+      "text": "Mass marketing is best described as: (variant 36)",
       "options": [
         "One for all",
         "Different for all",
@@ -473,7 +473,7 @@
     },
     {
       "id": "mkt_037",
-      "text": "Viral marketing: (variant 37)",
+      "text": "Viral marketing is a strategy in which a message: (variant 37)",
       "options": [
         "No spreading",
         "Only slow",
@@ -486,7 +486,7 @@
     },
     {
       "id": "mkt_038",
-      "text": "Direct marketing: (variant 38)",
+      "text": "Direct marketing involves communicating directly with customers through: (variant 38)",
       "options": [
         "No direct",
         "Only publicity",
@@ -499,7 +499,7 @@
     },
     {
       "id": "mkt_039",
-      "text": "Digital marketing uses: (variant 39)",
+      "text": "Digital marketing primarily uses: (variant 39)",
       "options": [
         "Only print",
         "Internet",
@@ -512,7 +512,7 @@
     },
     {
       "id": "mkt_040",
-      "text": "Market share is: (variant 40)",
+      "text": "Market share is defined as: (variant 40)",
       "options": [
         "Company % of total",
         "No share",
@@ -525,7 +525,7 @@
     },
     {
       "id": "mkt_041",
-      "text": "Marketing is: (variant 41)",
+      "text": "Marketing is best described as: (variant 41)",
       "options": [
         "Only buying",
         "Only selling",
@@ -538,7 +538,7 @@
     },
     {
       "id": "mkt_042",
-      "text": "4Ps are: (variant 42)",
+      "text": "The four components of the marketing mix known as the 4Ps are: (variant 42)",
       "options": [
         "No Ps",
         "Only product",
@@ -551,7 +551,7 @@
     },
     {
       "id": "mkt_043",
-      "text": "Product life cycle: (variant 43)",
+      "text": "The stages of the product life cycle are: (variant 43)",
       "options": [
         "Only decline",
         "Intro growth maturity decline",
@@ -564,7 +564,7 @@
     },
     {
       "id": "mkt_044",
-      "text": "Advertising is: (variant 44)",
+      "text": "Advertising is best described as a form of promotion that is: (variant 44)",
       "options": [
         "Paid non-personal",
         "Free",
@@ -577,7 +577,7 @@
     },
     {
       "id": "mkt_045",
-      "text": "Wholesaler buys: (variant 45)",
+      "text": "A wholesaler buys goods from manufacturers and sells them: (variant 45)",
       "options": [
         "Small",
         "No bulk",
@@ -590,7 +590,7 @@
     },
     {
       "id": "mkt_046",
-      "text": "Retailer sells to: (variant 46)",
+      "text": "A retailer sells goods directly to: (variant 46)",
       "options": [
         "No consumer",
         "Only bulk",
@@ -603,7 +603,7 @@
     },
     {
       "id": "mkt_047",
-      "text": "SWOT means: (variant 47)",
+      "text": "SWOT is an acronym that stands for: (variant 47)",
       "options": [
         "Only weaknesses",
         "Strengths Weaknesses Opportunities Threats",
@@ -616,7 +616,7 @@
     },
     {
       "id": "mkt_048",
-      "text": "Market segmentation: (variant 48)",
+      "text": "Market segmentation refers to: (variant 48)",
       "options": [
         "Dividing market",
         "No division",
@@ -629,7 +629,7 @@
     },
     {
       "id": "mkt_049",
-      "text": "Branding is: (variant 49)",
+      "text": "Branding is the process of creating a unique: (variant 49)",
       "options": [
         "No identity",
         "Only name",
@@ -642,7 +642,7 @@
     },
     {
       "id": "mkt_050",
-      "text": "AIDA means: (variant 50)",
+      "text": "AIDA is an acronym used in marketing that stands for: (variant 50)",
       "options": [
         "Only attention",
         "Only action",
@@ -655,7 +655,7 @@
     },
     {
       "id": "mkt_051",
-      "text": "SEO means: (variant 51)",
+      "text": "SEO is an acronym that stands for: (variant 51)",
       "options": [
         "Only engine",
         "Search Engine Optimization",
@@ -668,7 +668,7 @@
     },
     {
       "id": "mkt_052",
-      "text": "CRM means: (variant 52)",
+      "text": "CRM is an acronym that stands for: (variant 52)",
       "options": [
         "Customer Relationship Management",
         "No management",
@@ -681,7 +681,7 @@
     },
     {
       "id": "mkt_053",
-      "text": "Break-even is: (variant 53)",
+      "text": "The break-even point occurs when: (variant 53)",
       "options": [
         "Revenue>Cost",
         "Revenue<Cost",
@@ -694,7 +694,7 @@
     },
     {
       "id": "mkt_054",
-      "text": "Profit is: (variant 54)",
+      "text": "Profit is calculated as: (variant 54)",
       "options": [
         "Revenue*Cost",
         "Revenue/Cost",
@@ -707,7 +707,7 @@
     },
     {
       "id": "mkt_055",
-      "text": "Niche market is: (variant 55)",
+      "text": "A niche market is defined as: (variant 55)",
       "options": [
         "Only mass",
         "Small specialized",
@@ -720,7 +720,7 @@
     },
     {
       "id": "mkt_056",
-      "text": "Mass marketing: (variant 56)",
+      "text": "Mass marketing is best described as: (variant 56)",
       "options": [
         "One for all",
         "Different for all",
@@ -733,7 +733,7 @@
     },
     {
       "id": "mkt_057",
-      "text": "Viral marketing: (variant 57)",
+      "text": "Viral marketing is a strategy in which a message: (variant 57)",
       "options": [
         "No spreading",
         "Only slow",
@@ -746,7 +746,7 @@
     },
     {
       "id": "mkt_058",
-      "text": "Direct marketing: (variant 58)",
+      "text": "Direct marketing involves communicating directly with customers through: (variant 58)",
       "options": [
         "No direct",
         "Only publicity",
@@ -759,7 +759,7 @@
     },
     {
       "id": "mkt_059",
-      "text": "Digital marketing uses: (variant 59)",
+      "text": "Digital marketing primarily uses: (variant 59)",
       "options": [
         "Only print",
         "Internet",
@@ -772,7 +772,7 @@
     },
     {
       "id": "mkt_060",
-      "text": "Market share is: (variant 60)",
+      "text": "Market share is defined as: (variant 60)",
       "options": [
         "Company % of total",
         "No share",
@@ -785,7 +785,7 @@
     },
     {
       "id": "mkt_061",
-      "text": "Marketing is: (variant 61)",
+      "text": "Marketing is best described as: (variant 61)",
       "options": [
         "Only buying",
         "Only selling",
@@ -798,7 +798,7 @@
     },
     {
       "id": "mkt_062",
-      "text": "4Ps are: (variant 62)",
+      "text": "The four components of the marketing mix known as the 4Ps are: (variant 62)",
       "options": [
         "No Ps",
         "Only product",
@@ -811,7 +811,7 @@
     },
     {
       "id": "mkt_063",
-      "text": "Product life cycle: (variant 63)",
+      "text": "The stages of the product life cycle are: (variant 63)",
       "options": [
         "Only decline",
         "Intro growth maturity decline",
@@ -824,7 +824,7 @@
     },
     {
       "id": "mkt_064",
-      "text": "Advertising is: (variant 64)",
+      "text": "Advertising is best described as a form of promotion that is: (variant 64)",
       "options": [
         "Paid non-personal",
         "Free",
@@ -837,7 +837,7 @@
     },
     {
       "id": "mkt_065",
-      "text": "Wholesaler buys: (variant 65)",
+      "text": "A wholesaler buys goods from manufacturers and sells them: (variant 65)",
       "options": [
         "Small",
         "No bulk",
@@ -850,7 +850,7 @@
     },
     {
       "id": "mkt_066",
-      "text": "Retailer sells to: (variant 66)",
+      "text": "A retailer sells goods directly to: (variant 66)",
       "options": [
         "No consumer",
         "Only bulk",
@@ -863,7 +863,7 @@
     },
     {
       "id": "mkt_067",
-      "text": "SWOT means: (variant 67)",
+      "text": "SWOT is an acronym that stands for: (variant 67)",
       "options": [
         "Only weaknesses",
         "Strengths Weaknesses Opportunities Threats",
@@ -876,7 +876,7 @@
     },
     {
       "id": "mkt_068",
-      "text": "Market segmentation: (variant 68)",
+      "text": "Market segmentation refers to: (variant 68)",
       "options": [
         "Dividing market",
         "No division",
@@ -889,7 +889,7 @@
     },
     {
       "id": "mkt_069",
-      "text": "Branding is: (variant 69)",
+      "text": "Branding is the process of creating a unique: (variant 69)",
       "options": [
         "No identity",
         "Only name",
@@ -902,7 +902,7 @@
     },
     {
       "id": "mkt_070",
-      "text": "AIDA means: (variant 70)",
+      "text": "AIDA is an acronym used in marketing that stands for: (variant 70)",
       "options": [
         "Only attention",
         "Only action",
@@ -915,7 +915,7 @@
     },
     {
       "id": "mkt_071",
-      "text": "SEO means: (variant 71)",
+      "text": "SEO is an acronym that stands for: (variant 71)",
       "options": [
         "Only engine",
         "Search Engine Optimization",
@@ -928,7 +928,7 @@
     },
     {
       "id": "mkt_072",
-      "text": "CRM means: (variant 72)",
+      "text": "CRM is an acronym that stands for: (variant 72)",
       "options": [
         "Customer Relationship Management",
         "No management",
@@ -941,7 +941,7 @@
     },
     {
       "id": "mkt_073",
-      "text": "Break-even is: (variant 73)",
+      "text": "The break-even point occurs when: (variant 73)",
       "options": [
         "Revenue>Cost",
         "Revenue<Cost",
@@ -954,7 +954,7 @@
     },
     {
       "id": "mkt_074",
-      "text": "Profit is: (variant 74)",
+      "text": "Profit is calculated as: (variant 74)",
       "options": [
         "Revenue*Cost",
         "Revenue/Cost",
@@ -967,7 +967,7 @@
     },
     {
       "id": "mkt_075",
-      "text": "Niche market is: (variant 75)",
+      "text": "A niche market is defined as: (variant 75)",
       "options": [
         "Only mass",
         "Small specialized",
@@ -980,7 +980,7 @@
     },
     {
       "id": "mkt_076",
-      "text": "Mass marketing: (variant 76)",
+      "text": "Mass marketing is best described as: (variant 76)",
       "options": [
         "One for all",
         "Different for all",
@@ -993,7 +993,7 @@
     },
     {
       "id": "mkt_077",
-      "text": "Viral marketing: (variant 77)",
+      "text": "Viral marketing is a strategy in which a message: (variant 77)",
       "options": [
         "No spreading",
         "Only slow",
@@ -1006,7 +1006,7 @@
     },
     {
       "id": "mkt_078",
-      "text": "Direct marketing: (variant 78)",
+      "text": "Direct marketing involves communicating directly with customers through: (variant 78)",
       "options": [
         "No direct",
         "Only publicity",
@@ -1019,7 +1019,7 @@
     },
     {
       "id": "mkt_079",
-      "text": "Digital marketing uses: (variant 79)",
+      "text": "Digital marketing primarily uses: (variant 79)",
       "options": [
         "Only print",
         "Internet",
@@ -1032,7 +1032,7 @@
     },
     {
       "id": "mkt_080",
-      "text": "Market share is: (variant 80)",
+      "text": "Market share is defined as: (variant 80)",
       "options": [
         "Company % of total",
         "No share",
@@ -1045,7 +1045,7 @@
     },
     {
       "id": "mkt_081",
-      "text": "Marketing is: (variant 81)",
+      "text": "Marketing is best described as: (variant 81)",
       "options": [
         "Only buying",
         "Only selling",
@@ -1058,7 +1058,7 @@
     },
     {
       "id": "mkt_082",
-      "text": "4Ps are: (variant 82)",
+      "text": "The four components of the marketing mix known as the 4Ps are: (variant 82)",
       "options": [
         "No Ps",
         "Only product",
@@ -1071,7 +1071,7 @@
     },
     {
       "id": "mkt_083",
-      "text": "Product life cycle: (variant 83)",
+      "text": "The stages of the product life cycle are: (variant 83)",
       "options": [
         "Only decline",
         "Intro growth maturity decline",
@@ -1084,7 +1084,7 @@
     },
     {
       "id": "mkt_084",
-      "text": "Advertising is: (variant 84)",
+      "text": "Advertising is best described as a form of promotion that is: (variant 84)",
       "options": [
         "Paid non-personal",
         "Free",
@@ -1097,7 +1097,7 @@
     },
     {
       "id": "mkt_085",
-      "text": "Wholesaler buys: (variant 85)",
+      "text": "A wholesaler buys goods from manufacturers and sells them: (variant 85)",
       "options": [
         "Small",
         "No bulk",
@@ -1110,7 +1110,7 @@
     },
     {
       "id": "mkt_086",
-      "text": "Retailer sells to: (variant 86)",
+      "text": "A retailer sells goods directly to: (variant 86)",
       "options": [
         "No consumer",
         "Only bulk",
@@ -1123,7 +1123,7 @@
     },
     {
       "id": "mkt_087",
-      "text": "SWOT means: (variant 87)",
+      "text": "SWOT is an acronym that stands for: (variant 87)",
       "options": [
         "Only weaknesses",
         "Strengths Weaknesses Opportunities Threats",
@@ -1136,7 +1136,7 @@
     },
     {
       "id": "mkt_088",
-      "text": "Market segmentation: (variant 88)",
+      "text": "Market segmentation refers to: (variant 88)",
       "options": [
         "Dividing market",
         "No division",
@@ -1149,7 +1149,7 @@
     },
     {
       "id": "mkt_089",
-      "text": "Branding is: (variant 89)",
+      "text": "Branding is the process of creating a unique: (variant 89)",
       "options": [
         "No identity",
         "Only name",
@@ -1162,7 +1162,7 @@
     },
     {
       "id": "mkt_090",
-      "text": "AIDA means: (variant 90)",
+      "text": "AIDA is an acronym used in marketing that stands for: (variant 90)",
       "options": [
         "Only attention",
         "Only action",
@@ -1175,7 +1175,7 @@
     },
     {
       "id": "mkt_091",
-      "text": "SEO means: (variant 91)",
+      "text": "SEO is an acronym that stands for: (variant 91)",
       "options": [
         "Only engine",
         "Search Engine Optimization",
@@ -1188,7 +1188,7 @@
     },
     {
       "id": "mkt_092",
-      "text": "CRM means: (variant 92)",
+      "text": "CRM is an acronym that stands for: (variant 92)",
       "options": [
         "Customer Relationship Management",
         "No management",
@@ -1201,7 +1201,7 @@
     },
     {
       "id": "mkt_093",
-      "text": "Break-even is: (variant 93)",
+      "text": "The break-even point occurs when: (variant 93)",
       "options": [
         "Revenue>Cost",
         "Revenue<Cost",
@@ -1214,7 +1214,7 @@
     },
     {
       "id": "mkt_094",
-      "text": "Profit is: (variant 94)",
+      "text": "Profit is calculated as: (variant 94)",
       "options": [
         "Revenue*Cost",
         "Revenue/Cost",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": "mkt_095",
-      "text": "Niche market is: (variant 95)",
+      "text": "A niche market is defined as: (variant 95)",
       "options": [
         "Only mass",
         "Small specialized",
@@ -1240,7 +1240,7 @@
     },
     {
       "id": "mkt_096",
-      "text": "Mass marketing: (variant 96)",
+      "text": "Mass marketing is best described as: (variant 96)",
       "options": [
         "One for all",
         "Different for all",
@@ -1253,7 +1253,7 @@
     },
     {
       "id": "mkt_097",
-      "text": "Viral marketing: (variant 97)",
+      "text": "Viral marketing is a strategy in which a message: (variant 97)",
       "options": [
         "No spreading",
         "Only slow",
@@ -1266,7 +1266,7 @@
     },
     {
       "id": "mkt_098",
-      "text": "Direct marketing: (variant 98)",
+      "text": "Direct marketing involves communicating directly with customers through: (variant 98)",
       "options": [
         "No direct",
         "Only publicity",
@@ -1279,7 +1279,7 @@
     },
     {
       "id": "mkt_099",
-      "text": "Digital marketing uses: (variant 99)",
+      "text": "Digital marketing primarily uses: (variant 99)",
       "options": [
         "Only print",
         "Internet",
@@ -1292,7 +1292,7 @@
     },
     {
       "id": "mkt_100",
-      "text": "Market share is: (variant 100)",
+      "text": "Market share is defined as: (variant 100)",
       "options": [
         "Company % of total",
         "No share",
@@ -1305,7 +1305,7 @@
     },
     {
       "id": "mkt_101",
-      "text": "Marketing is: (variant 101)",
+      "text": "Marketing is best described as: (variant 101)",
       "options": [
         "Only buying",
         "Only selling",
@@ -1318,7 +1318,7 @@
     },
     {
       "id": "mkt_102",
-      "text": "4Ps are: (variant 102)",
+      "text": "The four components of the marketing mix known as the 4Ps are: (variant 102)",
       "options": [
         "No Ps",
         "Only product",
@@ -1331,7 +1331,7 @@
     },
     {
       "id": "mkt_103",
-      "text": "Product life cycle: (variant 103)",
+      "text": "The stages of the product life cycle are: (variant 103)",
       "options": [
         "Only decline",
         "Intro growth maturity decline",
@@ -1344,7 +1344,7 @@
     },
     {
       "id": "mkt_104",
-      "text": "Advertising is: (variant 104)",
+      "text": "Advertising is best described as a form of promotion that is: (variant 104)",
       "options": [
         "Paid non-personal",
         "Free",
@@ -1357,7 +1357,7 @@
     },
     {
       "id": "mkt_105",
-      "text": "Wholesaler buys: (variant 105)",
+      "text": "A wholesaler buys goods from manufacturers and sells them: (variant 105)",
       "options": [
         "Small",
         "No bulk",
@@ -1370,7 +1370,7 @@
     },
     {
       "id": "mkt_106",
-      "text": "Retailer sells to: (variant 106)",
+      "text": "A retailer sells goods directly to: (variant 106)",
       "options": [
         "No consumer",
         "Only bulk",
@@ -1383,7 +1383,7 @@
     },
     {
       "id": "mkt_107",
-      "text": "SWOT means: (variant 107)",
+      "text": "SWOT is an acronym that stands for: (variant 107)",
       "options": [
         "Only weaknesses",
         "Strengths Weaknesses Opportunities Threats",
@@ -1396,7 +1396,7 @@
     },
     {
       "id": "mkt_108",
-      "text": "Market segmentation: (variant 108)",
+      "text": "Market segmentation refers to: (variant 108)",
       "options": [
         "Dividing market",
         "No division",
@@ -1409,7 +1409,7 @@
     },
     {
       "id": "mkt_109",
-      "text": "Branding is: (variant 109)",
+      "text": "Branding is the process of creating a unique: (variant 109)",
       "options": [
         "No identity",
         "Only name",
@@ -1422,7 +1422,7 @@
     },
     {
       "id": "mkt_110",
-      "text": "AIDA means: (variant 110)",
+      "text": "AIDA is an acronym used in marketing that stands for: (variant 110)",
       "options": [
         "Only attention",
         "Only action",
@@ -1435,7 +1435,7 @@
     },
     {
       "id": "mkt_111",
-      "text": "SEO means: (variant 111)",
+      "text": "SEO is an acronym that stands for: (variant 111)",
       "options": [
         "Only engine",
         "Search Engine Optimization",
@@ -1448,7 +1448,7 @@
     },
     {
       "id": "mkt_112",
-      "text": "CRM means: (variant 112)",
+      "text": "CRM is an acronym that stands for: (variant 112)",
       "options": [
         "Customer Relationship Management",
         "No management",
@@ -1461,7 +1461,7 @@
     },
     {
       "id": "mkt_113",
-      "text": "Break-even is: (variant 113)",
+      "text": "The break-even point occurs when: (variant 113)",
       "options": [
         "Revenue>Cost",
         "Revenue<Cost",
@@ -1474,7 +1474,7 @@
     },
     {
       "id": "mkt_114",
-      "text": "Profit is: (variant 114)",
+      "text": "Profit is calculated as: (variant 114)",
       "options": [
         "Revenue*Cost",
         "Revenue/Cost",
@@ -1487,7 +1487,7 @@
     },
     {
       "id": "mkt_115",
-      "text": "Niche market is: (variant 115)",
+      "text": "A niche market is defined as: (variant 115)",
       "options": [
         "Only mass",
         "Small specialized",
@@ -1500,7 +1500,7 @@
     },
     {
       "id": "mkt_116",
-      "text": "Mass marketing: (variant 116)",
+      "text": "Mass marketing is best described as: (variant 116)",
       "options": [
         "One for all",
         "Different for all",
@@ -1513,7 +1513,7 @@
     },
     {
       "id": "mkt_117",
-      "text": "Viral marketing: (variant 117)",
+      "text": "Viral marketing is a strategy in which a message: (variant 117)",
       "options": [
         "No spreading",
         "Only slow",
@@ -1526,7 +1526,7 @@
     },
     {
       "id": "mkt_118",
-      "text": "Direct marketing: (variant 118)",
+      "text": "Direct marketing involves communicating directly with customers through: (variant 118)",
       "options": [
         "No direct",
         "Only publicity",
@@ -1539,7 +1539,7 @@
     },
     {
       "id": "mkt_119",
-      "text": "Digital marketing uses: (variant 119)",
+      "text": "Digital marketing primarily uses: (variant 119)",
       "options": [
         "Only print",
         "Internet",
@@ -1552,7 +1552,7 @@
     },
     {
       "id": "mkt_120",
-      "text": "Market share is: (variant 120)",
+      "text": "Market share is defined as: (variant 120)",
       "options": [
         "Company % of total",
         "No share",
@@ -1565,7 +1565,7 @@
     },
     {
       "id": "mkt_121",
-      "text": "Marketing is: (variant 121)",
+      "text": "Marketing is best described as: (variant 121)",
       "options": [
         "Only buying",
         "Only selling",
@@ -1578,7 +1578,7 @@
     },
     {
       "id": "mkt_122",
-      "text": "4Ps are: (variant 122)",
+      "text": "The four components of the marketing mix known as the 4Ps are: (variant 122)",
       "options": [
         "No Ps",
         "Only product",
@@ -1591,7 +1591,7 @@
     },
     {
       "id": "mkt_123",
-      "text": "Product life cycle: (variant 123)",
+      "text": "The stages of the product life cycle are: (variant 123)",
       "options": [
         "Only decline",
         "Intro growth maturity decline",
@@ -1604,7 +1604,7 @@
     },
     {
       "id": "mkt_124",
-      "text": "Advertising is: (variant 124)",
+      "text": "Advertising is best described as a form of promotion that is: (variant 124)",
       "options": [
         "Paid non-personal",
         "Free",
@@ -1617,7 +1617,7 @@
     },
     {
       "id": "mkt_125",
-      "text": "Wholesaler buys: (variant 125)",
+      "text": "A wholesaler buys goods from manufacturers and sells them: (variant 125)",
       "options": [
         "Small",
         "No bulk",
@@ -1630,7 +1630,7 @@
     },
     {
       "id": "mkt_126",
-      "text": "Retailer sells to: (variant 126)",
+      "text": "A retailer sells goods directly to: (variant 126)",
       "options": [
         "No consumer",
         "Only bulk",
@@ -1643,7 +1643,7 @@
     },
     {
       "id": "mkt_127",
-      "text": "SWOT means: (variant 127)",
+      "text": "SWOT is an acronym that stands for: (variant 127)",
       "options": [
         "Only weaknesses",
         "Strengths Weaknesses Opportunities Threats",
@@ -1656,7 +1656,7 @@
     },
     {
       "id": "mkt_128",
-      "text": "Market segmentation: (variant 128)",
+      "text": "Market segmentation refers to: (variant 128)",
       "options": [
         "Dividing market",
         "No division",
@@ -1669,7 +1669,7 @@
     },
     {
       "id": "mkt_129",
-      "text": "Branding is: (variant 129)",
+      "text": "Branding is the process of creating a unique: (variant 129)",
       "options": [
         "No identity",
         "Only name",
@@ -1682,7 +1682,7 @@
     },
     {
       "id": "mkt_130",
-      "text": "AIDA means: (variant 130)",
+      "text": "AIDA is an acronym used in marketing that stands for: (variant 130)",
       "options": [
         "Only attention",
         "Only action",
@@ -1695,7 +1695,7 @@
     },
     {
       "id": "mkt_131",
-      "text": "SEO means: (variant 131)",
+      "text": "SEO is an acronym that stands for: (variant 131)",
       "options": [
         "Only engine",
         "Search Engine Optimization",
@@ -1708,7 +1708,7 @@
     },
     {
       "id": "mkt_132",
-      "text": "CRM means: (variant 132)",
+      "text": "CRM is an acronym that stands for: (variant 132)",
       "options": [
         "Customer Relationship Management",
         "No management",
@@ -1721,7 +1721,7 @@
     },
     {
       "id": "mkt_133",
-      "text": "Break-even is: (variant 133)",
+      "text": "The break-even point occurs when: (variant 133)",
       "options": [
         "Revenue>Cost",
         "Revenue<Cost",
@@ -1734,7 +1734,7 @@
     },
     {
       "id": "mkt_134",
-      "text": "Profit is: (variant 134)",
+      "text": "Profit is calculated as: (variant 134)",
       "options": [
         "Revenue*Cost",
         "Revenue/Cost",
@@ -1747,7 +1747,7 @@
     },
     {
       "id": "mkt_135",
-      "text": "Niche market is: (variant 135)",
+      "text": "A niche market is defined as: (variant 135)",
       "options": [
         "Only mass",
         "Small specialized",
@@ -1760,7 +1760,7 @@
     },
     {
       "id": "mkt_136",
-      "text": "Mass marketing: (variant 136)",
+      "text": "Mass marketing is best described as: (variant 136)",
       "options": [
         "One for all",
         "Different for all",
@@ -1773,7 +1773,7 @@
     },
     {
       "id": "mkt_137",
-      "text": "Viral marketing: (variant 137)",
+      "text": "Viral marketing is a strategy in which a message: (variant 137)",
       "options": [
         "No spreading",
         "Only slow",
@@ -1786,7 +1786,7 @@
     },
     {
       "id": "mkt_138",
-      "text": "Direct marketing: (variant 138)",
+      "text": "Direct marketing involves communicating directly with customers through: (variant 138)",
       "options": [
         "No direct",
         "Only publicity",
@@ -1799,7 +1799,7 @@
     },
     {
       "id": "mkt_139",
-      "text": "Digital marketing uses: (variant 139)",
+      "text": "Digital marketing primarily uses: (variant 139)",
       "options": [
         "Only print",
         "Internet",
@@ -1812,7 +1812,7 @@
     },
     {
       "id": "mkt_140",
-      "text": "Market share is: (variant 140)",
+      "text": "Market share is defined as: (variant 140)",
       "options": [
         "Company % of total",
         "No share",
@@ -1825,7 +1825,7 @@
     },
     {
       "id": "mkt_141",
-      "text": "Marketing is: (variant 141)",
+      "text": "Marketing is best described as: (variant 141)",
       "options": [
         "Only buying",
         "Only selling",
@@ -1838,7 +1838,7 @@
     },
     {
       "id": "mkt_142",
-      "text": "4Ps are: (variant 142)",
+      "text": "The four components of the marketing mix known as the 4Ps are: (variant 142)",
       "options": [
         "No Ps",
         "Only product",
@@ -1851,7 +1851,7 @@
     },
     {
       "id": "mkt_143",
-      "text": "Product life cycle: (variant 143)",
+      "text": "The stages of the product life cycle are: (variant 143)",
       "options": [
         "Only decline",
         "Intro growth maturity decline",
@@ -1864,7 +1864,7 @@
     },
     {
       "id": "mkt_144",
-      "text": "Advertising is: (variant 144)",
+      "text": "Advertising is best described as a form of promotion that is: (variant 144)",
       "options": [
         "Paid non-personal",
         "Free",
@@ -1877,7 +1877,7 @@
     },
     {
       "id": "mkt_145",
-      "text": "Wholesaler buys: (variant 145)",
+      "text": "A wholesaler buys goods from manufacturers and sells them: (variant 145)",
       "options": [
         "Small",
         "No bulk",
@@ -1890,7 +1890,7 @@
     },
     {
       "id": "mkt_146",
-      "text": "Retailer sells to: (variant 146)",
+      "text": "A retailer sells goods directly to: (variant 146)",
       "options": [
         "No consumer",
         "Only bulk",
@@ -1903,7 +1903,7 @@
     },
     {
       "id": "mkt_147",
-      "text": "SWOT means: (variant 147)",
+      "text": "SWOT is an acronym that stands for: (variant 147)",
       "options": [
         "Only weaknesses",
         "Strengths Weaknesses Opportunities Threats",
@@ -1916,7 +1916,7 @@
     },
     {
       "id": "mkt_148",
-      "text": "Market segmentation: (variant 148)",
+      "text": "Market segmentation refers to: (variant 148)",
       "options": [
         "Dividing market",
         "No division",
@@ -1929,7 +1929,7 @@
     },
     {
       "id": "mkt_149",
-      "text": "Branding is: (variant 149)",
+      "text": "Branding is the process of creating a unique: (variant 149)",
       "options": [
         "No identity",
         "Only name",
@@ -1942,7 +1942,7 @@
     },
     {
       "id": "mkt_150",
-      "text": "AIDA means: (variant 150)",
+      "text": "AIDA is an acronym used in marketing that stands for: (variant 150)",
       "options": [
         "Only attention",
         "Only action",
@@ -1955,7 +1955,7 @@
     },
     {
       "id": "mkt_151",
-      "text": "SEO means: (variant 151)",
+      "text": "SEO is an acronym that stands for: (variant 151)",
       "options": [
         "Only engine",
         "Search Engine Optimization",
@@ -1968,7 +1968,7 @@
     },
     {
       "id": "mkt_152",
-      "text": "CRM means: (variant 152)",
+      "text": "CRM is an acronym that stands for: (variant 152)",
       "options": [
         "Customer Relationship Management",
         "No management",
@@ -1981,7 +1981,7 @@
     },
     {
       "id": "mkt_153",
-      "text": "Break-even is: (variant 153)",
+      "text": "The break-even point occurs when: (variant 153)",
       "options": [
         "Revenue>Cost",
         "Revenue<Cost",
@@ -1994,7 +1994,7 @@
     },
     {
       "id": "mkt_154",
-      "text": "Profit is: (variant 154)",
+      "text": "Profit is calculated as: (variant 154)",
       "options": [
         "Revenue*Cost",
         "Revenue/Cost",
@@ -2007,7 +2007,7 @@
     },
     {
       "id": "mkt_155",
-      "text": "Niche market is: (variant 155)",
+      "text": "A niche market is defined as: (variant 155)",
       "options": [
         "Only mass",
         "Small specialized",
@@ -2020,7 +2020,7 @@
     },
     {
       "id": "mkt_156",
-      "text": "Mass marketing: (variant 156)",
+      "text": "Mass marketing is best described as: (variant 156)",
       "options": [
         "One for all",
         "Different for all",
@@ -2033,7 +2033,7 @@
     },
     {
       "id": "mkt_157",
-      "text": "Viral marketing: (variant 157)",
+      "text": "Viral marketing is a strategy in which a message: (variant 157)",
       "options": [
         "No spreading",
         "Only slow",
@@ -2046,7 +2046,7 @@
     },
     {
       "id": "mkt_158",
-      "text": "Direct marketing: (variant 158)",
+      "text": "Direct marketing involves communicating directly with customers through: (variant 158)",
       "options": [
         "No direct",
         "Only publicity",
@@ -2059,7 +2059,7 @@
     },
     {
       "id": "mkt_159",
-      "text": "Digital marketing uses: (variant 159)",
+      "text": "Digital marketing primarily uses: (variant 159)",
       "options": [
         "Only print",
         "Internet",
@@ -2072,7 +2072,7 @@
     },
     {
       "id": "mkt_160",
-      "text": "Market share is: (variant 160)",
+      "text": "Market share is defined as: (variant 160)",
       "options": [
         "Company % of total",
         "No share",
@@ -2085,7 +2085,7 @@
     },
     {
       "id": "mkt_161",
-      "text": "Marketing is: (variant 161)",
+      "text": "Marketing is best described as: (variant 161)",
       "options": [
         "Only buying",
         "Only selling",
@@ -2098,7 +2098,7 @@
     },
     {
       "id": "mkt_162",
-      "text": "4Ps are: (variant 162)",
+      "text": "The four components of the marketing mix known as the 4Ps are: (variant 162)",
       "options": [
         "No Ps",
         "Only product",
@@ -2111,7 +2111,7 @@
     },
     {
       "id": "mkt_163",
-      "text": "Product life cycle: (variant 163)",
+      "text": "The stages of the product life cycle are: (variant 163)",
       "options": [
         "Only decline",
         "Intro growth maturity decline",
@@ -2124,7 +2124,7 @@
     },
     {
       "id": "mkt_164",
-      "text": "Advertising is: (variant 164)",
+      "text": "Advertising is best described as a form of promotion that is: (variant 164)",
       "options": [
         "Paid non-personal",
         "Free",
@@ -2137,7 +2137,7 @@
     },
     {
       "id": "mkt_165",
-      "text": "Wholesaler buys: (variant 165)",
+      "text": "A wholesaler buys goods from manufacturers and sells them: (variant 165)",
       "options": [
         "Small",
         "No bulk",
@@ -2150,7 +2150,7 @@
     },
     {
       "id": "mkt_166",
-      "text": "Retailer sells to: (variant 166)",
+      "text": "A retailer sells goods directly to: (variant 166)",
       "options": [
         "No consumer",
         "Only bulk",
@@ -2163,7 +2163,7 @@
     },
     {
       "id": "mkt_167",
-      "text": "SWOT means: (variant 167)",
+      "text": "SWOT is an acronym that stands for: (variant 167)",
       "options": [
         "Only weaknesses",
         "Strengths Weaknesses Opportunities Threats",
@@ -2176,7 +2176,7 @@
     },
     {
       "id": "mkt_168",
-      "text": "Market segmentation: (variant 168)",
+      "text": "Market segmentation refers to: (variant 168)",
       "options": [
         "Dividing market",
         "No division",
@@ -2189,7 +2189,7 @@
     },
     {
       "id": "mkt_169",
-      "text": "Branding is: (variant 169)",
+      "text": "Branding is the process of creating a unique: (variant 169)",
       "options": [
         "No identity",
         "Only name",
@@ -2202,7 +2202,7 @@
     },
     {
       "id": "mkt_170",
-      "text": "AIDA means: (variant 170)",
+      "text": "AIDA is an acronym used in marketing that stands for: (variant 170)",
       "options": [
         "Only attention",
         "Only action",
@@ -2215,7 +2215,7 @@
     },
     {
       "id": "mkt_171",
-      "text": "SEO means: (variant 171)",
+      "text": "SEO is an acronym that stands for: (variant 171)",
       "options": [
         "Only engine",
         "Search Engine Optimization",
@@ -2228,7 +2228,7 @@
     },
     {
       "id": "mkt_172",
-      "text": "CRM means: (variant 172)",
+      "text": "CRM is an acronym that stands for: (variant 172)",
       "options": [
         "Customer Relationship Management",
         "No management",
@@ -2241,7 +2241,7 @@
     },
     {
       "id": "mkt_173",
-      "text": "Break-even is: (variant 173)",
+      "text": "The break-even point occurs when: (variant 173)",
       "options": [
         "Revenue>Cost",
         "Revenue<Cost",
@@ -2254,7 +2254,7 @@
     },
     {
       "id": "mkt_174",
-      "text": "Profit is: (variant 174)",
+      "text": "Profit is calculated as: (variant 174)",
       "options": [
         "Revenue*Cost",
         "Revenue/Cost",
@@ -2267,7 +2267,7 @@
     },
     {
       "id": "mkt_175",
-      "text": "Niche market is: (variant 175)",
+      "text": "A niche market is defined as: (variant 175)",
       "options": [
         "Only mass",
         "Small specialized",
@@ -2280,7 +2280,7 @@
     },
     {
       "id": "mkt_176",
-      "text": "Mass marketing: (variant 176)",
+      "text": "Mass marketing is best described as: (variant 176)",
       "options": [
         "One for all",
         "Different for all",
@@ -2293,7 +2293,7 @@
     },
     {
       "id": "mkt_177",
-      "text": "Viral marketing: (variant 177)",
+      "text": "Viral marketing is a strategy in which a message: (variant 177)",
       "options": [
         "No spreading",
         "Only slow",
@@ -2306,7 +2306,7 @@
     },
     {
       "id": "mkt_178",
-      "text": "Direct marketing: (variant 178)",
+      "text": "Direct marketing involves communicating directly with customers through: (variant 178)",
       "options": [
         "No direct",
         "Only publicity",
@@ -2319,7 +2319,7 @@
     },
     {
       "id": "mkt_179",
-      "text": "Digital marketing uses: (variant 179)",
+      "text": "Digital marketing primarily uses: (variant 179)",
       "options": [
         "Only print",
         "Internet",
@@ -2332,7 +2332,7 @@
     },
     {
       "id": "mkt_180",
-      "text": "Market share is: (variant 180)",
+      "text": "Market share is defined as: (variant 180)",
       "options": [
         "Company % of total",
         "No share",
@@ -2345,7 +2345,7 @@
     },
     {
       "id": "mkt_181",
-      "text": "Marketing is: (variant 181)",
+      "text": "Marketing is best described as: (variant 181)",
       "options": [
         "Only buying",
         "Only selling",
@@ -2358,7 +2358,7 @@
     },
     {
       "id": "mkt_182",
-      "text": "4Ps are: (variant 182)",
+      "text": "The four components of the marketing mix known as the 4Ps are: (variant 182)",
       "options": [
         "No Ps",
         "Only product",
@@ -2371,7 +2371,7 @@
     },
     {
       "id": "mkt_183",
-      "text": "Product life cycle: (variant 183)",
+      "text": "The stages of the product life cycle are: (variant 183)",
       "options": [
         "Only decline",
         "Intro growth maturity decline",
@@ -2384,7 +2384,7 @@
     },
     {
       "id": "mkt_184",
-      "text": "Advertising is: (variant 184)",
+      "text": "Advertising is best described as a form of promotion that is: (variant 184)",
       "options": [
         "Paid non-personal",
         "Free",
@@ -2397,7 +2397,7 @@
     },
     {
       "id": "mkt_185",
-      "text": "Wholesaler buys: (variant 185)",
+      "text": "A wholesaler buys goods from manufacturers and sells them: (variant 185)",
       "options": [
         "Small",
         "No bulk",
@@ -2410,7 +2410,7 @@
     },
     {
       "id": "mkt_186",
-      "text": "Retailer sells to: (variant 186)",
+      "text": "A retailer sells goods directly to: (variant 186)",
       "options": [
         "No consumer",
         "Only bulk",
@@ -2423,7 +2423,7 @@
     },
     {
       "id": "mkt_187",
-      "text": "SWOT means: (variant 187)",
+      "text": "SWOT is an acronym that stands for: (variant 187)",
       "options": [
         "Only weaknesses",
         "Strengths Weaknesses Opportunities Threats",
@@ -2436,7 +2436,7 @@
     },
     {
       "id": "mkt_188",
-      "text": "Market segmentation: (variant 188)",
+      "text": "Market segmentation refers to: (variant 188)",
       "options": [
         "Dividing market",
         "No division",
@@ -2449,7 +2449,7 @@
     },
     {
       "id": "mkt_189",
-      "text": "Branding is: (variant 189)",
+      "text": "Branding is the process of creating a unique: (variant 189)",
       "options": [
         "No identity",
         "Only name",
@@ -2462,7 +2462,7 @@
     },
     {
       "id": "mkt_190",
-      "text": "AIDA means: (variant 190)",
+      "text": "AIDA is an acronym used in marketing that stands for: (variant 190)",
       "options": [
         "Only attention",
         "Only action",
@@ -2475,7 +2475,7 @@
     },
     {
       "id": "mkt_191",
-      "text": "SEO means: (variant 191)",
+      "text": "SEO is an acronym that stands for: (variant 191)",
       "options": [
         "Only engine",
         "Search Engine Optimization",
@@ -2488,7 +2488,7 @@
     },
     {
       "id": "mkt_192",
-      "text": "CRM means: (variant 192)",
+      "text": "CRM is an acronym that stands for: (variant 192)",
       "options": [
         "Customer Relationship Management",
         "No management",
@@ -2501,7 +2501,7 @@
     },
     {
       "id": "mkt_193",
-      "text": "Break-even is: (variant 193)",
+      "text": "The break-even point occurs when: (variant 193)",
       "options": [
         "Revenue>Cost",
         "Revenue<Cost",
@@ -2514,7 +2514,7 @@
     },
     {
       "id": "mkt_194",
-      "text": "Profit is: (variant 194)",
+      "text": "Profit is calculated as: (variant 194)",
       "options": [
         "Revenue*Cost",
         "Revenue/Cost",
@@ -2527,7 +2527,7 @@
     },
     {
       "id": "mkt_195",
-      "text": "Niche market is: (variant 195)",
+      "text": "A niche market is defined as: (variant 195)",
       "options": [
         "Only mass",
         "Small specialized",
@@ -2540,7 +2540,7 @@
     },
     {
       "id": "mkt_196",
-      "text": "Mass marketing: (variant 196)",
+      "text": "Mass marketing is best described as: (variant 196)",
       "options": [
         "One for all",
         "Different for all",
@@ -2553,7 +2553,7 @@
     },
     {
       "id": "mkt_197",
-      "text": "Viral marketing: (variant 197)",
+      "text": "Viral marketing is a strategy in which a message: (variant 197)",
       "options": [
         "No spreading",
         "Only slow",
@@ -2566,7 +2566,7 @@
     },
     {
       "id": "mkt_198",
-      "text": "Direct marketing: (variant 198)",
+      "text": "Direct marketing involves communicating directly with customers through: (variant 198)",
       "options": [
         "No direct",
         "Only publicity",
@@ -2579,7 +2579,7 @@
     },
     {
       "id": "mkt_199",
-      "text": "Digital marketing uses: (variant 199)",
+      "text": "Digital marketing primarily uses: (variant 199)",
       "options": [
         "Only print",
         "Internet",
@@ -2592,7 +2592,7 @@
     },
     {
       "id": "mkt_200",
-      "text": "Market share is: (variant 200)",
+      "text": "Market share is defined as: (variant 200)",
       "options": [
         "Company % of total",
         "No share",

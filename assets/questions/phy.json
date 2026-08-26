@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": "phy_001",
-      "text": "The SI unit of length is the:",
+      "text": "The SI unit of length is the metre, which is:",
       "options": [
         "Kilometre",
         "Centimetre",
@@ -18,7 +18,7 @@
     },
     {
       "id": "phy_002",
-      "text": "The SI unit of mass is the:",
+      "text": "The SI unit of mass is the kilogram, which is:",
       "options": [
         "Newton",
         "Pound",
@@ -31,7 +31,7 @@
     },
     {
       "id": "phy_003",
-      "text": "The SI unit of time is the:",
+      "text": "The SI unit of time is the second, which is:",
       "options": [
         "Day",
         "Minute",
@@ -44,7 +44,7 @@
     },
     {
       "id": "phy_004",
-      "text": "The SI unit of force is the:",
+      "text": "The SI unit of force is the newton, which is:",
       "options": [
         "Joule",
         "Watt",
@@ -57,7 +57,7 @@
     },
     {
       "id": "phy_005",
-      "text": "The SI unit of energy is the:",
+      "text": "The SI unit of energy is the joule, which is:",
       "options": [
         "Joule",
         "Newton",
@@ -70,7 +70,7 @@
     },
     {
       "id": "phy_006",
-      "text": "The SI unit of power is the:",
+      "text": "The SI unit of power is the watt, which is:",
       "options": [
         "Watt",
         "Volt",
@@ -109,7 +109,7 @@
     },
     {
       "id": "phy_009",
-      "text": "The SI unit of pressure is the:",
+      "text": "The SI unit of pressure is the pascal, which is:",
       "options": [
         "Pascal",
         "Torr",
@@ -135,7 +135,7 @@
     },
     {
       "id": "phy_011",
-      "text": "The SI unit of temperature is the:",
+      "text": "The SI unit of temperature is the kelvin, which is:",
       "options": [
         "Rankine",
         "Celsius",
@@ -148,7 +148,7 @@
     },
     {
       "id": "phy_012",
-      "text": "Which of these is a derived unit?",
+      "text": "Which of the following is a derived SI unit?",
       "options": [
         "Metre",
         "Kilogram",
@@ -187,7 +187,7 @@
     },
     {
       "id": "phy_015",
-      "text": "Displacement is best described as:",
+      "text": "Displacement is best described as the shortest:",
       "options": [
         "Change in speed",
         "Total path travelled",
@@ -447,7 +447,7 @@
     },
     {
       "id": "phy_035",
-      "text": "The weight of a body is equal to:",
+      "text": "The weight of a body is equal to its mass times:",
       "options": [
         "mv",
         "mg",
@@ -486,7 +486,7 @@
     },
     {
       "id": "phy_038",
-      "text": "The SI unit of momentum is:",
+      "text": "The SI unit of momentum is the kilogram metre:",
       "options": [
         "N s²",
         "J s",
@@ -525,7 +525,7 @@
     },
     {
       "id": "phy_041",
-      "text": "Work done is calculated as:",
+      "text": "Work done is calculated as force multiplied by:",
       "options": [
         "Force ÷ distance",
         "Force × time",
@@ -551,7 +551,7 @@
     },
     {
       "id": "phy_043",
-      "text": "Kinetic energy is given by:",
+      "text": "Kinetic energy is given by the expression:",
       "options": [
         "½mv",
         "½mv²",
@@ -590,7 +590,7 @@
     },
     {
       "id": "phy_046",
-      "text": "Power is defined as:",
+      "text": "Power is defined as the rate of doing:",
       "options": [
         "Energy × time",
         "Work × time",
@@ -655,7 +655,7 @@
     },
     {
       "id": "phy_051",
-      "text": "Pressure is defined as:",
+      "text": "Pressure is defined as force per unit:",
       "options": [
         "Mass per unit area",
         "Force per unit area",
@@ -720,7 +720,7 @@
     },
     {
       "id": "phy_056",
-      "text": "The barometer is used to measure:",
+      "text": "The barometer is used to measure which quantity?",
       "options": [
         "Temperature",
         "Atmospheric pressure",
@@ -746,7 +746,7 @@
     },
     {
       "id": "phy_058",
-      "text": "Heat flows from a body at:",
+      "text": "Heat flows naturally from a body at higher:",
       "options": [
         "Equal temperature",
         "Any direction",
@@ -772,7 +772,7 @@
     },
     {
       "id": "phy_060",
-      "text": "0°C in kelvin is:",
+      "text": "The value of 0 degrees Celsius in kelvin is:",
       "options": [
         "273 K",
         "−273 K",
@@ -785,7 +785,7 @@
     },
     {
       "id": "phy_061",
-      "text": "Absolute zero is:",
+      "text": "Absolute zero is defined as the temperature at:",
       "options": [
         "0°C",
         "273 K",
@@ -811,7 +811,7 @@
     },
     {
       "id": "phy_063",
-      "text": "The quantity of heat Q is given by:",
+      "text": "Which of the following best describes or relates to The quantity of heat Q is given by?",
       "options": [
         "Q = mc/Δθ",
         "Q = mcΔθ",
@@ -902,7 +902,7 @@
     },
     {
       "id": "phy_070",
-      "text": "Charles's law relates volume to:",
+      "text": "Charles's law relates the volume of a gas to:",
       "options": [
         "Mass",
         "Density",
@@ -941,7 +941,7 @@
     },
     {
       "id": "phy_073",
-      "text": "The ideal gas equation is:",
+      "text": "The ideal gas equation relates pressure, volume and:",
       "options": [
         "PV = RT/n",
         "PT = nRV",
@@ -980,7 +980,7 @@
     },
     {
       "id": "phy_076",
-      "text": "The unit of frequency is the:",
+      "text": "The unit of frequency is the hertz, which measures:",
       "options": [
         "Hertz",
         "Metre",
@@ -1084,7 +1084,7 @@
     },
     {
       "id": "phy_084",
-      "text": "Sound cannot travel through a:",
+      "text": "Sound cannot travel through a vacuum because it:",
       "options": [
         "Solid",
         "Liquid",
@@ -1123,7 +1123,7 @@
     },
     {
       "id": "phy_087",
-      "text": "The speed of sound is greatest in:",
+      "text": "The speed of sound is greatest in which medium?",
       "options": [
         "Vacuum",
         "Air",
@@ -1136,7 +1136,7 @@
     },
     {
       "id": "phy_088",
-      "text": "The reflection of sound is called:",
+      "text": "The reflection of sound waves is called:",
       "options": [
         "Refraction",
         "Echo",
@@ -1240,7 +1240,7 @@
     },
     {
       "id": "phy_096",
-      "text": "A concave lens is also called a:",
+      "text": "A concave lens is also called a diverging:",
       "options": [
         "Converging lens",
         "Diverging lens",
@@ -1253,7 +1253,7 @@
     },
     {
       "id": "phy_097",
-      "text": "A convex lens is also called a:",
+      "text": "A convex lens is also called a converging:",
       "options": [
         "Converging lens",
         "Concave lens",
@@ -1305,7 +1305,7 @@
     },
     {
       "id": "phy_101",
-      "text": "The power of a lens is measured in:",
+      "text": "In which context or location does The power of a lens is measured apply?",
       "options": [
         "Dioptres",
         "Metres",
@@ -1331,7 +1331,7 @@
     },
     {
       "id": "phy_103",
-      "text": "Like charges:",
+      "text": "Like electric charges will behave in which way?",
       "options": [
         "Neutralise",
         "Attract",
@@ -1344,7 +1344,7 @@
     },
     {
       "id": "phy_104",
-      "text": "The unit of electric charge is the:",
+      "text": "Which of the following best describes The unit of electric charge?",
       "options": [
         "Ampere",
         "Coulomb",
@@ -1357,7 +1357,7 @@
     },
     {
       "id": "phy_105",
-      "text": "The unit of capacitance is the:",
+      "text": "The unit of capacitance is the farad, which is:",
       "options": [
         "Farad",
         "Henry",
@@ -1370,7 +1370,7 @@
     },
     {
       "id": "phy_106",
-      "text": "A capacitor stores:",
+      "text": "A capacitor stores energy in the form of:",
       "options": [
         "Resistance",
         "Power",
@@ -1396,7 +1396,7 @@
     },
     {
       "id": "phy_108",
-      "text": "Ohm's law states that V equals:",
+      "text": "Ohm's law states that voltage equals current times:",
       "options": [
         "IR",
         "I/R",
@@ -1409,7 +1409,7 @@
     },
     {
       "id": "phy_109",
-      "text": "The unit of resistance is the:",
+      "text": "The unit of resistance is the ohm, which is:",
       "options": [
         "Ohm",
         "Ampere",
@@ -1487,7 +1487,7 @@
     },
     {
       "id": "phy_115",
-      "text": "Electrical power is calculated as:",
+      "text": "Electrical power is calculated as voltage times:",
       "options": [
         "P = IR²",
         "P = IV",
@@ -1513,7 +1513,7 @@
     },
     {
       "id": "phy_117",
-      "text": "A voltmeter is connected in:",
+      "text": "A voltmeter is connected in parallel with:",
       "options": [
         "Parallel",
         "Either",
@@ -1526,7 +1526,7 @@
     },
     {
       "id": "phy_118",
-      "text": "An ammeter is connected in:",
+      "text": "An ammeter is connected in series with:",
       "options": [
         "Either",
         "Neither",
@@ -1552,7 +1552,7 @@
     },
     {
       "id": "phy_120",
-      "text": "Like magnetic poles:",
+      "text": "Like magnetic poles behave in which of the following ways?",
       "options": [
         "Attract",
         "Repel",
@@ -1578,7 +1578,7 @@
     },
     {
       "id": "phy_122",
-      "text": "The unit of magnetic flux is the:",
+      "text": "The unit of magnetic flux is the weber, which is:",
       "options": [
         "Henry",
         "Gauss",
@@ -1656,7 +1656,7 @@
     },
     {
       "id": "phy_128",
-      "text": "A step-up transformer increases:",
+      "text": "A step-up transformer increases which quantity?",
       "options": [
         "Current",
         "Voltage",
@@ -1734,7 +1734,7 @@
     },
     {
       "id": "phy_134",
-      "text": "The electron was discovered by:",
+      "text": "The electron was discovered by which scientist?",
       "options": [
         "Bohr",
         "Einstein",
@@ -1799,7 +1799,7 @@
     },
     {
       "id": "phy_139",
-      "text": "Radioactivity was discovered by:",
+      "text": "Radioactivity was discovered by which scientist?",
       "options": [
         "Roentgen",
         "Becquerel",
@@ -1825,7 +1825,7 @@
     },
     {
       "id": "phy_141",
-      "text": "Alpha particles are essentially:",
+      "text": "Alpha particles are essentially helium nuclei that:",
       "options": [
         "Electrons",
         "Photons",
@@ -1838,7 +1838,7 @@
     },
     {
       "id": "phy_142",
-      "text": "Beta particles are:",
+      "text": "Beta particles are high-speed electrons that are:",
       "options": [
         "Photons",
         "Protons",
@@ -1851,7 +1851,7 @@
     },
     {
       "id": "phy_143",
-      "text": "Gamma rays are:",
+      "text": "Gamma rays are electromagnetic radiation that have:",
       "options": [
         "Protons",
         "Charged particles",
@@ -1877,7 +1877,7 @@
     },
     {
       "id": "phy_145",
-      "text": "The energy of a photon is given by:",
+      "text": "Which of the following best describes or relates to The energy of a photon is given by?",
       "options": [
         "E = h/f",
         "E = mc",
@@ -1968,7 +1968,7 @@
     },
     {
       "id": "phy_152",
-      "text": "Efficiency equals:",
+      "text": "Efficiency equals useful output energy divided by:",
       "options": [
         "MA/VR",
         "VR/MA",
@@ -2007,7 +2007,7 @@
     },
     {
       "id": "phy_155",
-      "text": "The density of a substance is:",
+      "text": "The density of a substance is defined as its mass:",
       "options": [
         "Weight per unit area",
         "Mass per unit volume",
@@ -2111,7 +2111,7 @@
     },
     {
       "id": "phy_163",
-      "text": "The SI unit of work is the:",
+      "text": "The SI unit of work is the joule, which is:",
       "options": [
         "Pascal",
         "Joule",
@@ -2150,7 +2150,7 @@
     },
     {
       "id": "phy_166",
-      "text": "Current is defined as:",
+      "text": "Current is defined as the rate of flow of:",
       "options": [
         "Charge per unit area",
         "Voltage per resistance",
@@ -2293,7 +2293,7 @@
     },
     {
       "id": "phy_177",
-      "text": "A magnifying glass is a:",
+      "text": "A magnifying glass is a type of convex:",
       "options": [
         "Convex lens",
         "Plane mirror",
@@ -2319,7 +2319,7 @@
     },
     {
       "id": "phy_179",
-      "text": "The primary colours of light are:",
+      "text": "The primary colours of light are red, green and:",
       "options": [
         "Red, green, yellow",
         "Red, green, blue",
@@ -2449,7 +2449,7 @@
     },
     {
       "id": "phy_189",
-      "text": "X-rays were discovered by:",
+      "text": "X-rays were discovered by which scientist?",
       "options": [
         "Becquerel",
         "Curie",
@@ -2527,7 +2527,7 @@
     },
     {
       "id": "phy_195",
-      "text": "The unit of spring constant is:",
+      "text": "The unit of spring constant is the newton per:",
       "options": [
         "J",
         "N/m",
@@ -2566,7 +2566,7 @@
     },
     {
       "id": "phy_198",
-      "text": "The unit of momentum is:",
+      "text": "The unit of momentum is the kilogram metre per:",
       "options": [
         "kg m/s²",
         "J",
@@ -2592,7 +2592,7 @@
     },
     {
       "id": "phy_200",
-      "text": "Impulse is calculated as:",
+      "text": "Impulse is calculated as force multiplied by:",
       "options": [
         "Force × time",
         "Force × distance",

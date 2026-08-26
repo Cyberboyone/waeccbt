@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": "irs_001",
-      "text": "Quran revealed over:",
+      "text": "Over what period of time was the Holy Quran revealed?",
       "options": [
         "10 years",
         "40 years",
@@ -18,7 +18,7 @@
     },
     {
       "id": "irs_002",
-      "text": "First revelation cave:",
+      "text": "In which cave did the first revelation of the Quran take place?",
       "options": [
         "Uhud",
         "Badr",
@@ -31,7 +31,7 @@
     },
     {
       "id": "irs_003",
-      "text": "Quran has:",
+      "text": "How many Surahs does the Holy Quran contain?",
       "options": [
         "30",
         "114 Surahs",
@@ -44,7 +44,7 @@
     },
     {
       "id": "irs_004",
-      "text": "Tawhid means:",
+      "text": "What does the concept of Tawhid mean in Islam?",
       "options": [
         "Oneness of Allah",
         "Prophethood",
@@ -57,7 +57,7 @@
     },
     {
       "id": "irs_005",
-      "text": "Salat times daily:",
+      "text": "How many times a day are Muslims required to perform Salat?",
       "options": [
         "3",
         "1",
@@ -70,7 +70,7 @@
     },
     {
       "id": "irs_006",
-      "text": "Fajr Rakats:",
+      "text": "How many Rakats are performed in the Fajr prayer?",
       "options": [
         "3",
         "1",
@@ -83,7 +83,7 @@
     },
     {
       "id": "irs_007",
-      "text": "Zakat is:",
+      "text": "What is Zakat and what is its significance in Islam?",
       "options": [
         "Hajj",
         "Alms",
@@ -96,7 +96,7 @@
     },
     {
       "id": "irs_008",
-      "text": "Sawm means:",
+      "text": "What does the term Sawm mean in Islam?",
       "options": [
         "Fasting",
         "Prayer",
@@ -109,7 +109,7 @@
     },
     {
       "id": "irs_009",
-      "text": "Hajj in:",
+      "text": "In which city is the Hajj pilgrimage performed?",
       "options": [
         "Madinah",
         "Jerusalem",
@@ -122,7 +122,7 @@
     },
     {
       "id": "irs_010",
-      "text": "Prophet born in:",
+      "text": "In what year was Prophet Muhammad (SAW) born?",
       "options": [
         "610 AD",
         "632 AD",
@@ -135,7 +135,7 @@
     },
     {
       "id": "irs_011",
-      "text": "Hijra in:",
+      "text": "In what year did the Hijra (migration to Madinah) take place?",
       "options": [
         "632 AD",
         "622 AD",
@@ -148,7 +148,7 @@
     },
     {
       "id": "irs_012",
-      "text": "Badr in:",
+      "text": "In what year did the Battle of Badr take place?",
       "options": [
         "624 AD",
         "622 AD",
@@ -161,7 +161,7 @@
     },
     {
       "id": "irs_013",
-      "text": "First caliph:",
+      "text": "Who was the first Caliph of Islam after the Prophet?",
       "options": [
         "Umar",
         "Uthman",
@@ -174,7 +174,7 @@
     },
     {
       "id": "irs_014",
-      "text": "Nikah means:",
+      "text": "What does the term Nikah mean in Islam?",
       "options": [
         "Prayer",
         "Fasting",
@@ -187,7 +187,7 @@
     },
     {
       "id": "irs_015",
-      "text": "Riba is:",
+      "text": "What is the Islamic ruling on Riba (interest)?",
       "options": [
         "No ruling",
         "Forbidden",
@@ -200,7 +200,7 @@
     },
     {
       "id": "irs_016",
-      "text": "Halal means:",
+      "text": "What does the term Halal mean in Islam?",
       "options": [
         "Permissible",
         "Forbidden",
@@ -213,7 +213,7 @@
     },
     {
       "id": "irs_017",
-      "text": "First month Hijri:",
+      "text": "What is the first month of the Islamic Hijri calendar?",
       "options": [
         "Ramadan",
         "Shawwal",
@@ -226,7 +226,7 @@
     },
     {
       "id": "irs_018",
-      "text": "Eid after Ramadan:",
+      "text": "Which Eid is celebrated at the end of Ramadan?",
       "options": [
         "No Eid",
         "Only Adha",
@@ -239,7 +239,7 @@
     },
     {
       "id": "irs_019",
-      "text": "Wudu is:",
+      "text": "What is Wudu and why is it performed in Islam?",
       "options": [
         "Only face",
         "Ablution",
@@ -252,7 +252,7 @@
     },
     {
       "id": "irs_020",
-      "text": "Qibla towards:",
+      "text": "In which direction do Muslims face during prayer (Qibla)?",
       "options": [
         "Kaaba",
         "East only",
@@ -265,7 +265,7 @@
     },
     {
       "id": "irs_021",
-      "text": "Quran revealed over: (variant 21)",
+      "text": "Over what period of time was the Holy Quran revealed? (variant 21)",
       "options": [
         "10 years",
         "40 years",
@@ -278,7 +278,7 @@
     },
     {
       "id": "irs_022",
-      "text": "First revelation cave: (variant 22)",
+      "text": "In which cave did the first revelation of the Quran take place? (variant 22)",
       "options": [
         "Uhud",
         "Badr",
@@ -291,7 +291,7 @@
     },
     {
       "id": "irs_023",
-      "text": "Quran has: (variant 23)",
+      "text": "How many Surahs does the Holy Quran contain? (variant 23)",
       "options": [
         "30",
         "114 Surahs",
@@ -304,7 +304,7 @@
     },
     {
       "id": "irs_024",
-      "text": "Tawhid means: (variant 24)",
+      "text": "What does the concept of Tawhid mean in Islam? (variant 24)",
       "options": [
         "Oneness of Allah",
         "Prophethood",
@@ -317,7 +317,7 @@
     },
     {
       "id": "irs_025",
-      "text": "Salat times daily: (variant 25)",
+      "text": "How many times a day are Muslims required to perform Salat? (variant 25)",
       "options": [
         "3",
         "1",
@@ -330,7 +330,7 @@
     },
     {
       "id": "irs_026",
-      "text": "Fajr Rakats: (variant 26)",
+      "text": "How many Rakats are performed in the Fajr prayer? (variant 26)",
       "options": [
         "3",
         "1",
@@ -343,7 +343,7 @@
     },
     {
       "id": "irs_027",
-      "text": "Zakat is: (variant 27)",
+      "text": "What is Zakat and what is its significance in Islam? (variant 27)",
       "options": [
         "Hajj",
         "Alms",
@@ -356,7 +356,7 @@
     },
     {
       "id": "irs_028",
-      "text": "Sawm means: (variant 28)",
+      "text": "What does the term Sawm mean in Islam? (variant 28)",
       "options": [
         "Fasting",
         "Prayer",
@@ -369,7 +369,7 @@
     },
     {
       "id": "irs_029",
-      "text": "Hajj in: (variant 29)",
+      "text": "In which city is the Hajj pilgrimage performed? (variant 29)",
       "options": [
         "Madinah",
         "Jerusalem",
@@ -382,7 +382,7 @@
     },
     {
       "id": "irs_030",
-      "text": "Prophet born in: (variant 30)",
+      "text": "In what year was Prophet Muhammad (SAW) born? (variant 30)",
       "options": [
         "610 AD",
         "632 AD",
@@ -395,7 +395,7 @@
     },
     {
       "id": "irs_031",
-      "text": "Hijra in: (variant 31)",
+      "text": "In what year did the Hijra (migration to Madinah) take place? (variant 31)",
       "options": [
         "632 AD",
         "622 AD",
@@ -408,7 +408,7 @@
     },
     {
       "id": "irs_032",
-      "text": "Badr in: (variant 32)",
+      "text": "In what year did the Battle of Badr take place? (variant 32)",
       "options": [
         "624 AD",
         "622 AD",
@@ -421,7 +421,7 @@
     },
     {
       "id": "irs_033",
-      "text": "First caliph: (variant 33)",
+      "text": "Who was the first Caliph of Islam after the Prophet? (variant 33)",
       "options": [
         "Umar",
         "Uthman",
@@ -434,7 +434,7 @@
     },
     {
       "id": "irs_034",
-      "text": "Nikah means: (variant 34)",
+      "text": "What does the term Nikah mean in Islam? (variant 34)",
       "options": [
         "Prayer",
         "Fasting",
@@ -447,7 +447,7 @@
     },
     {
       "id": "irs_035",
-      "text": "Riba is: (variant 35)",
+      "text": "What is the Islamic ruling on Riba (interest)? (variant 35)",
       "options": [
         "No ruling",
         "Forbidden",
@@ -460,7 +460,7 @@
     },
     {
       "id": "irs_036",
-      "text": "Halal means: (variant 36)",
+      "text": "What does the term Halal mean in Islam? (variant 36)",
       "options": [
         "Permissible",
         "Forbidden",
@@ -473,7 +473,7 @@
     },
     {
       "id": "irs_037",
-      "text": "First month Hijri: (variant 37)",
+      "text": "What is the first month of the Islamic Hijri calendar? (variant 37)",
       "options": [
         "Ramadan",
         "Shawwal",
@@ -486,7 +486,7 @@
     },
     {
       "id": "irs_038",
-      "text": "Eid after Ramadan: (variant 38)",
+      "text": "Which Eid is celebrated at the end of Ramadan? (variant 38)",
       "options": [
         "No Eid",
         "Only Adha",
@@ -499,7 +499,7 @@
     },
     {
       "id": "irs_039",
-      "text": "Wudu is: (variant 39)",
+      "text": "What is Wudu and why is it performed in Islam? (variant 39)",
       "options": [
         "Only face",
         "Ablution",
@@ -512,7 +512,7 @@
     },
     {
       "id": "irs_040",
-      "text": "Qibla towards: (variant 40)",
+      "text": "In which direction do Muslims face during prayer (Qibla)? (variant 40)",
       "options": [
         "Kaaba",
         "East only",
@@ -525,7 +525,7 @@
     },
     {
       "id": "irs_041",
-      "text": "Quran revealed over: (variant 41)",
+      "text": "Over what period of time was the Holy Quran revealed? (variant 41)",
       "options": [
         "10 years",
         "40 years",
@@ -538,7 +538,7 @@
     },
     {
       "id": "irs_042",
-      "text": "First revelation cave: (variant 42)",
+      "text": "In which cave did the first revelation of the Quran take place? (variant 42)",
       "options": [
         "Uhud",
         "Badr",
@@ -551,7 +551,7 @@
     },
     {
       "id": "irs_043",
-      "text": "Quran has: (variant 43)",
+      "text": "How many Surahs does the Holy Quran contain? (variant 43)",
       "options": [
         "30",
         "114 Surahs",
@@ -564,7 +564,7 @@
     },
     {
       "id": "irs_044",
-      "text": "Tawhid means: (variant 44)",
+      "text": "What does the concept of Tawhid mean in Islam? (variant 44)",
       "options": [
         "Oneness of Allah",
         "Prophethood",
@@ -577,7 +577,7 @@
     },
     {
       "id": "irs_045",
-      "text": "Salat times daily: (variant 45)",
+      "text": "How many times a day are Muslims required to perform Salat? (variant 45)",
       "options": [
         "3",
         "1",
@@ -590,7 +590,7 @@
     },
     {
       "id": "irs_046",
-      "text": "Fajr Rakats: (variant 46)",
+      "text": "How many Rakats are performed in the Fajr prayer? (variant 46)",
       "options": [
         "3",
         "1",
@@ -603,7 +603,7 @@
     },
     {
       "id": "irs_047",
-      "text": "Zakat is: (variant 47)",
+      "text": "What is Zakat and what is its significance in Islam? (variant 47)",
       "options": [
         "Hajj",
         "Alms",
@@ -616,7 +616,7 @@
     },
     {
       "id": "irs_048",
-      "text": "Sawm means: (variant 48)",
+      "text": "What does the term Sawm mean in Islam? (variant 48)",
       "options": [
         "Fasting",
         "Prayer",
@@ -629,7 +629,7 @@
     },
     {
       "id": "irs_049",
-      "text": "Hajj in: (variant 49)",
+      "text": "In which city is the Hajj pilgrimage performed? (variant 49)",
       "options": [
         "Madinah",
         "Jerusalem",
@@ -642,7 +642,7 @@
     },
     {
       "id": "irs_050",
-      "text": "Prophet born in: (variant 50)",
+      "text": "In what year was Prophet Muhammad (SAW) born? (variant 50)",
       "options": [
         "610 AD",
         "632 AD",
@@ -655,7 +655,7 @@
     },
     {
       "id": "irs_051",
-      "text": "Hijra in: (variant 51)",
+      "text": "In what year did the Hijra (migration to Madinah) take place? (variant 51)",
       "options": [
         "632 AD",
         "622 AD",
@@ -668,7 +668,7 @@
     },
     {
       "id": "irs_052",
-      "text": "Badr in: (variant 52)",
+      "text": "In what year did the Battle of Badr take place? (variant 52)",
       "options": [
         "624 AD",
         "622 AD",
@@ -681,7 +681,7 @@
     },
     {
       "id": "irs_053",
-      "text": "First caliph: (variant 53)",
+      "text": "Who was the first Caliph of Islam after the Prophet? (variant 53)",
       "options": [
         "Umar",
         "Uthman",
@@ -694,7 +694,7 @@
     },
     {
       "id": "irs_054",
-      "text": "Nikah means: (variant 54)",
+      "text": "What does the term Nikah mean in Islam? (variant 54)",
       "options": [
         "Prayer",
         "Fasting",
@@ -707,7 +707,7 @@
     },
     {
       "id": "irs_055",
-      "text": "Riba is: (variant 55)",
+      "text": "What is the Islamic ruling on Riba (interest)? (variant 55)",
       "options": [
         "No ruling",
         "Forbidden",
@@ -720,7 +720,7 @@
     },
     {
       "id": "irs_056",
-      "text": "Halal means: (variant 56)",
+      "text": "What does the term Halal mean in Islam? (variant 56)",
       "options": [
         "Permissible",
         "Forbidden",
@@ -733,7 +733,7 @@
     },
     {
       "id": "irs_057",
-      "text": "First month Hijri: (variant 57)",
+      "text": "What is the first month of the Islamic Hijri calendar? (variant 57)",
       "options": [
         "Ramadan",
         "Shawwal",
@@ -746,7 +746,7 @@
     },
     {
       "id": "irs_058",
-      "text": "Eid after Ramadan: (variant 58)",
+      "text": "Which Eid is celebrated at the end of Ramadan? (variant 58)",
       "options": [
         "No Eid",
         "Only Adha",
@@ -759,7 +759,7 @@
     },
     {
       "id": "irs_059",
-      "text": "Wudu is: (variant 59)",
+      "text": "What is Wudu and why is it performed in Islam? (variant 59)",
       "options": [
         "Only face",
         "Ablution",
@@ -772,7 +772,7 @@
     },
     {
       "id": "irs_060",
-      "text": "Qibla towards: (variant 60)",
+      "text": "In which direction do Muslims face during prayer (Qibla)? (variant 60)",
       "options": [
         "Kaaba",
         "East only",
@@ -785,7 +785,7 @@
     },
     {
       "id": "irs_061",
-      "text": "Quran revealed over: (variant 61)",
+      "text": "Over what period of time was the Holy Quran revealed? (variant 61)",
       "options": [
         "10 years",
         "40 years",
@@ -798,7 +798,7 @@
     },
     {
       "id": "irs_062",
-      "text": "First revelation cave: (variant 62)",
+      "text": "In which cave did the first revelation of the Quran take place? (variant 62)",
       "options": [
         "Uhud",
         "Badr",
@@ -811,7 +811,7 @@
     },
     {
       "id": "irs_063",
-      "text": "Quran has: (variant 63)",
+      "text": "How many Surahs does the Holy Quran contain? (variant 63)",
       "options": [
         "30",
         "114 Surahs",
@@ -824,7 +824,7 @@
     },
     {
       "id": "irs_064",
-      "text": "Tawhid means: (variant 64)",
+      "text": "What does the concept of Tawhid mean in Islam? (variant 64)",
       "options": [
         "Oneness of Allah",
         "Prophethood",
@@ -837,7 +837,7 @@
     },
     {
       "id": "irs_065",
-      "text": "Salat times daily: (variant 65)",
+      "text": "How many times a day are Muslims required to perform Salat? (variant 65)",
       "options": [
         "3",
         "1",
@@ -850,7 +850,7 @@
     },
     {
       "id": "irs_066",
-      "text": "Fajr Rakats: (variant 66)",
+      "text": "How many Rakats are performed in the Fajr prayer? (variant 66)",
       "options": [
         "3",
         "1",
@@ -863,7 +863,7 @@
     },
     {
       "id": "irs_067",
-      "text": "Zakat is: (variant 67)",
+      "text": "What is Zakat and what is its significance in Islam? (variant 67)",
       "options": [
         "Hajj",
         "Alms",
@@ -876,7 +876,7 @@
     },
     {
       "id": "irs_068",
-      "text": "Sawm means: (variant 68)",
+      "text": "What does the term Sawm mean in Islam? (variant 68)",
       "options": [
         "Fasting",
         "Prayer",
@@ -889,7 +889,7 @@
     },
     {
       "id": "irs_069",
-      "text": "Hajj in: (variant 69)",
+      "text": "In which city is the Hajj pilgrimage performed? (variant 69)",
       "options": [
         "Madinah",
         "Jerusalem",
@@ -902,7 +902,7 @@
     },
     {
       "id": "irs_070",
-      "text": "Prophet born in: (variant 70)",
+      "text": "In what year was Prophet Muhammad (SAW) born? (variant 70)",
       "options": [
         "610 AD",
         "632 AD",
@@ -915,7 +915,7 @@
     },
     {
       "id": "irs_071",
-      "text": "Hijra in: (variant 71)",
+      "text": "In what year did the Hijra (migration to Madinah) take place? (variant 71)",
       "options": [
         "632 AD",
         "622 AD",
@@ -928,7 +928,7 @@
     },
     {
       "id": "irs_072",
-      "text": "Badr in: (variant 72)",
+      "text": "In what year did the Battle of Badr take place? (variant 72)",
       "options": [
         "624 AD",
         "622 AD",
@@ -941,7 +941,7 @@
     },
     {
       "id": "irs_073",
-      "text": "First caliph: (variant 73)",
+      "text": "Who was the first Caliph of Islam after the Prophet? (variant 73)",
       "options": [
         "Umar",
         "Uthman",
@@ -954,7 +954,7 @@
     },
     {
       "id": "irs_074",
-      "text": "Nikah means: (variant 74)",
+      "text": "What does the term Nikah mean in Islam? (variant 74)",
       "options": [
         "Prayer",
         "Fasting",
@@ -967,7 +967,7 @@
     },
     {
       "id": "irs_075",
-      "text": "Riba is: (variant 75)",
+      "text": "What is the Islamic ruling on Riba (interest)? (variant 75)",
       "options": [
         "No ruling",
         "Forbidden",
@@ -980,7 +980,7 @@
     },
     {
       "id": "irs_076",
-      "text": "Halal means: (variant 76)",
+      "text": "What does the term Halal mean in Islam? (variant 76)",
       "options": [
         "Permissible",
         "Forbidden",
@@ -993,7 +993,7 @@
     },
     {
       "id": "irs_077",
-      "text": "First month Hijri: (variant 77)",
+      "text": "What is the first month of the Islamic Hijri calendar? (variant 77)",
       "options": [
         "Ramadan",
         "Shawwal",
@@ -1006,7 +1006,7 @@
     },
     {
       "id": "irs_078",
-      "text": "Eid after Ramadan: (variant 78)",
+      "text": "Which Eid is celebrated at the end of Ramadan? (variant 78)",
       "options": [
         "No Eid",
         "Only Adha",
@@ -1019,7 +1019,7 @@
     },
     {
       "id": "irs_079",
-      "text": "Wudu is: (variant 79)",
+      "text": "What is Wudu and why is it performed in Islam? (variant 79)",
       "options": [
         "Only face",
         "Ablution",
@@ -1032,7 +1032,7 @@
     },
     {
       "id": "irs_080",
-      "text": "Qibla towards: (variant 80)",
+      "text": "In which direction do Muslims face during prayer (Qibla)? (variant 80)",
       "options": [
         "Kaaba",
         "East only",
@@ -1045,7 +1045,7 @@
     },
     {
       "id": "irs_081",
-      "text": "Quran revealed over: (variant 81)",
+      "text": "Over what period of time was the Holy Quran revealed? (variant 81)",
       "options": [
         "10 years",
         "40 years",
@@ -1058,7 +1058,7 @@
     },
     {
       "id": "irs_082",
-      "text": "First revelation cave: (variant 82)",
+      "text": "In which cave did the first revelation of the Quran take place? (variant 82)",
       "options": [
         "Uhud",
         "Badr",
@@ -1071,7 +1071,7 @@
     },
     {
       "id": "irs_083",
-      "text": "Quran has: (variant 83)",
+      "text": "How many Surahs does the Holy Quran contain? (variant 83)",
       "options": [
         "30",
         "114 Surahs",
@@ -1084,7 +1084,7 @@
     },
     {
       "id": "irs_084",
-      "text": "Tawhid means: (variant 84)",
+      "text": "What does the concept of Tawhid mean in Islam? (variant 84)",
       "options": [
         "Oneness of Allah",
         "Prophethood",
@@ -1097,7 +1097,7 @@
     },
     {
       "id": "irs_085",
-      "text": "Salat times daily: (variant 85)",
+      "text": "How many times a day are Muslims required to perform Salat? (variant 85)",
       "options": [
         "3",
         "1",
@@ -1110,7 +1110,7 @@
     },
     {
       "id": "irs_086",
-      "text": "Fajr Rakats: (variant 86)",
+      "text": "How many Rakats are performed in the Fajr prayer? (variant 86)",
       "options": [
         "3",
         "1",
@@ -1123,7 +1123,7 @@
     },
     {
       "id": "irs_087",
-      "text": "Zakat is: (variant 87)",
+      "text": "What is Zakat and what is its significance in Islam? (variant 87)",
       "options": [
         "Hajj",
         "Alms",
@@ -1136,7 +1136,7 @@
     },
     {
       "id": "irs_088",
-      "text": "Sawm means: (variant 88)",
+      "text": "What does the term Sawm mean in Islam? (variant 88)",
       "options": [
         "Fasting",
         "Prayer",
@@ -1149,7 +1149,7 @@
     },
     {
       "id": "irs_089",
-      "text": "Hajj in: (variant 89)",
+      "text": "In which city is the Hajj pilgrimage performed? (variant 89)",
       "options": [
         "Madinah",
         "Jerusalem",
@@ -1162,7 +1162,7 @@
     },
     {
       "id": "irs_090",
-      "text": "Prophet born in: (variant 90)",
+      "text": "In what year was Prophet Muhammad (SAW) born? (variant 90)",
       "options": [
         "610 AD",
         "632 AD",
@@ -1175,7 +1175,7 @@
     },
     {
       "id": "irs_091",
-      "text": "Hijra in: (variant 91)",
+      "text": "In what year did the Hijra (migration to Madinah) take place? (variant 91)",
       "options": [
         "632 AD",
         "622 AD",
@@ -1188,7 +1188,7 @@
     },
     {
       "id": "irs_092",
-      "text": "Badr in: (variant 92)",
+      "text": "In what year did the Battle of Badr take place? (variant 92)",
       "options": [
         "624 AD",
         "622 AD",
@@ -1201,7 +1201,7 @@
     },
     {
       "id": "irs_093",
-      "text": "First caliph: (variant 93)",
+      "text": "Who was the first Caliph of Islam after the Prophet? (variant 93)",
       "options": [
         "Umar",
         "Uthman",
@@ -1214,7 +1214,7 @@
     },
     {
       "id": "irs_094",
-      "text": "Nikah means: (variant 94)",
+      "text": "What does the term Nikah mean in Islam? (variant 94)",
       "options": [
         "Prayer",
         "Fasting",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": "irs_095",
-      "text": "Riba is: (variant 95)",
+      "text": "What is the Islamic ruling on Riba (interest)? (variant 95)",
       "options": [
         "No ruling",
         "Forbidden",
@@ -1240,7 +1240,7 @@
     },
     {
       "id": "irs_096",
-      "text": "Halal means: (variant 96)",
+      "text": "What does the term Halal mean in Islam? (variant 96)",
       "options": [
         "Permissible",
         "Forbidden",
@@ -1253,7 +1253,7 @@
     },
     {
       "id": "irs_097",
-      "text": "First month Hijri: (variant 97)",
+      "text": "What is the first month of the Islamic Hijri calendar? (variant 97)",
       "options": [
         "Ramadan",
         "Shawwal",
@@ -1266,7 +1266,7 @@
     },
     {
       "id": "irs_098",
-      "text": "Eid after Ramadan: (variant 98)",
+      "text": "Which Eid is celebrated at the end of Ramadan? (variant 98)",
       "options": [
         "No Eid",
         "Only Adha",
@@ -1279,7 +1279,7 @@
     },
     {
       "id": "irs_099",
-      "text": "Wudu is: (variant 99)",
+      "text": "What is Wudu and why is it performed in Islam? (variant 99)",
       "options": [
         "Only face",
         "Ablution",
@@ -1292,7 +1292,7 @@
     },
     {
       "id": "irs_100",
-      "text": "Qibla towards: (variant 100)",
+      "text": "In which direction do Muslims face during prayer (Qibla)? (variant 100)",
       "options": [
         "Kaaba",
         "East only",
@@ -1305,7 +1305,7 @@
     },
     {
       "id": "irs_101",
-      "text": "Quran revealed over: (variant 101)",
+      "text": "Over what period of time was the Holy Quran revealed? (variant 101)",
       "options": [
         "10 years",
         "40 years",
@@ -1318,7 +1318,7 @@
     },
     {
       "id": "irs_102",
-      "text": "First revelation cave: (variant 102)",
+      "text": "In which cave did the first revelation of the Quran take place? (variant 102)",
       "options": [
         "Uhud",
         "Badr",
@@ -1331,7 +1331,7 @@
     },
     {
       "id": "irs_103",
-      "text": "Quran has: (variant 103)",
+      "text": "How many Surahs does the Holy Quran contain? (variant 103)",
       "options": [
         "30",
         "114 Surahs",
@@ -1344,7 +1344,7 @@
     },
     {
       "id": "irs_104",
-      "text": "Tawhid means: (variant 104)",
+      "text": "What does the concept of Tawhid mean in Islam? (variant 104)",
       "options": [
         "Oneness of Allah",
         "Prophethood",
@@ -1357,7 +1357,7 @@
     },
     {
       "id": "irs_105",
-      "text": "Salat times daily: (variant 105)",
+      "text": "How many times a day are Muslims required to perform Salat? (variant 105)",
       "options": [
         "3",
         "1",
@@ -1370,7 +1370,7 @@
     },
     {
       "id": "irs_106",
-      "text": "Fajr Rakats: (variant 106)",
+      "text": "How many Rakats are performed in the Fajr prayer? (variant 106)",
       "options": [
         "3",
         "1",
@@ -1383,7 +1383,7 @@
     },
     {
       "id": "irs_107",
-      "text": "Zakat is: (variant 107)",
+      "text": "What is Zakat and what is its significance in Islam? (variant 107)",
       "options": [
         "Hajj",
         "Alms",
@@ -1396,7 +1396,7 @@
     },
     {
       "id": "irs_108",
-      "text": "Sawm means: (variant 108)",
+      "text": "What does the term Sawm mean in Islam? (variant 108)",
       "options": [
         "Fasting",
         "Prayer",
@@ -1409,7 +1409,7 @@
     },
     {
       "id": "irs_109",
-      "text": "Hajj in: (variant 109)",
+      "text": "In which city is the Hajj pilgrimage performed? (variant 109)",
       "options": [
         "Madinah",
         "Jerusalem",
@@ -1422,7 +1422,7 @@
     },
     {
       "id": "irs_110",
-      "text": "Prophet born in: (variant 110)",
+      "text": "In what year was Prophet Muhammad (SAW) born? (variant 110)",
       "options": [
         "610 AD",
         "632 AD",
@@ -1435,7 +1435,7 @@
     },
     {
       "id": "irs_111",
-      "text": "Hijra in: (variant 111)",
+      "text": "In what year did the Hijra (migration to Madinah) take place? (variant 111)",
       "options": [
         "632 AD",
         "622 AD",
@@ -1448,7 +1448,7 @@
     },
     {
       "id": "irs_112",
-      "text": "Badr in: (variant 112)",
+      "text": "In what year did the Battle of Badr take place? (variant 112)",
       "options": [
         "624 AD",
         "622 AD",
@@ -1461,7 +1461,7 @@
     },
     {
       "id": "irs_113",
-      "text": "First caliph: (variant 113)",
+      "text": "Who was the first Caliph of Islam after the Prophet? (variant 113)",
       "options": [
         "Umar",
         "Uthman",
@@ -1474,7 +1474,7 @@
     },
     {
       "id": "irs_114",
-      "text": "Nikah means: (variant 114)",
+      "text": "What does the term Nikah mean in Islam? (variant 114)",
       "options": [
         "Prayer",
         "Fasting",
@@ -1487,7 +1487,7 @@
     },
     {
       "id": "irs_115",
-      "text": "Riba is: (variant 115)",
+      "text": "What is the Islamic ruling on Riba (interest)? (variant 115)",
       "options": [
         "No ruling",
         "Forbidden",
@@ -1500,7 +1500,7 @@
     },
     {
       "id": "irs_116",
-      "text": "Halal means: (variant 116)",
+      "text": "What does the term Halal mean in Islam? (variant 116)",
       "options": [
         "Permissible",
         "Forbidden",
@@ -1513,7 +1513,7 @@
     },
     {
       "id": "irs_117",
-      "text": "First month Hijri: (variant 117)",
+      "text": "What is the first month of the Islamic Hijri calendar? (variant 117)",
       "options": [
         "Ramadan",
         "Shawwal",
@@ -1526,7 +1526,7 @@
     },
     {
       "id": "irs_118",
-      "text": "Eid after Ramadan: (variant 118)",
+      "text": "Which Eid is celebrated at the end of Ramadan? (variant 118)",
       "options": [
         "No Eid",
         "Only Adha",
@@ -1539,7 +1539,7 @@
     },
     {
       "id": "irs_119",
-      "text": "Wudu is: (variant 119)",
+      "text": "What is Wudu and why is it performed in Islam? (variant 119)",
       "options": [
         "Only face",
         "Ablution",
@@ -1552,7 +1552,7 @@
     },
     {
       "id": "irs_120",
-      "text": "Qibla towards: (variant 120)",
+      "text": "In which direction do Muslims face during prayer (Qibla)? (variant 120)",
       "options": [
         "Kaaba",
         "East only",
@@ -1565,7 +1565,7 @@
     },
     {
       "id": "irs_121",
-      "text": "Quran revealed over: (variant 121)",
+      "text": "Over what period of time was the Holy Quran revealed? (variant 121)",
       "options": [
         "10 years",
         "40 years",
@@ -1578,7 +1578,7 @@
     },
     {
       "id": "irs_122",
-      "text": "First revelation cave: (variant 122)",
+      "text": "In which cave did the first revelation of the Quran take place? (variant 122)",
       "options": [
         "Uhud",
         "Badr",
@@ -1591,7 +1591,7 @@
     },
     {
       "id": "irs_123",
-      "text": "Quran has: (variant 123)",
+      "text": "How many Surahs does the Holy Quran contain? (variant 123)",
       "options": [
         "30",
         "114 Surahs",
@@ -1604,7 +1604,7 @@
     },
     {
       "id": "irs_124",
-      "text": "Tawhid means: (variant 124)",
+      "text": "What does the concept of Tawhid mean in Islam? (variant 124)",
       "options": [
         "Oneness of Allah",
         "Prophethood",
@@ -1617,7 +1617,7 @@
     },
     {
       "id": "irs_125",
-      "text": "Salat times daily: (variant 125)",
+      "text": "How many times a day are Muslims required to perform Salat? (variant 125)",
       "options": [
         "3",
         "1",
@@ -1630,7 +1630,7 @@
     },
     {
       "id": "irs_126",
-      "text": "Fajr Rakats: (variant 126)",
+      "text": "How many Rakats are performed in the Fajr prayer? (variant 126)",
       "options": [
         "3",
         "1",
@@ -1643,7 +1643,7 @@
     },
     {
       "id": "irs_127",
-      "text": "Zakat is: (variant 127)",
+      "text": "What is Zakat and what is its significance in Islam? (variant 127)",
       "options": [
         "Hajj",
         "Alms",
@@ -1656,7 +1656,7 @@
     },
     {
       "id": "irs_128",
-      "text": "Sawm means: (variant 128)",
+      "text": "What does the term Sawm mean in Islam? (variant 128)",
       "options": [
         "Fasting",
         "Prayer",
@@ -1669,7 +1669,7 @@
     },
     {
       "id": "irs_129",
-      "text": "Hajj in: (variant 129)",
+      "text": "In which city is the Hajj pilgrimage performed? (variant 129)",
       "options": [
         "Madinah",
         "Jerusalem",
@@ -1682,7 +1682,7 @@
     },
     {
       "id": "irs_130",
-      "text": "Prophet born in: (variant 130)",
+      "text": "In what year was Prophet Muhammad (SAW) born? (variant 130)",
       "options": [
         "610 AD",
         "632 AD",
@@ -1695,7 +1695,7 @@
     },
     {
       "id": "irs_131",
-      "text": "Hijra in: (variant 131)",
+      "text": "In what year did the Hijra (migration to Madinah) take place? (variant 131)",
       "options": [
         "632 AD",
         "622 AD",
@@ -1708,7 +1708,7 @@
     },
     {
       "id": "irs_132",
-      "text": "Badr in: (variant 132)",
+      "text": "In what year did the Battle of Badr take place? (variant 132)",
       "options": [
         "624 AD",
         "622 AD",
@@ -1721,7 +1721,7 @@
     },
     {
       "id": "irs_133",
-      "text": "First caliph: (variant 133)",
+      "text": "Who was the first Caliph of Islam after the Prophet? (variant 133)",
       "options": [
         "Umar",
         "Uthman",
@@ -1734,7 +1734,7 @@
     },
     {
       "id": "irs_134",
-      "text": "Nikah means: (variant 134)",
+      "text": "What does the term Nikah mean in Islam? (variant 134)",
       "options": [
         "Prayer",
         "Fasting",
@@ -1747,7 +1747,7 @@
     },
     {
       "id": "irs_135",
-      "text": "Riba is: (variant 135)",
+      "text": "What is the Islamic ruling on Riba (interest)? (variant 135)",
       "options": [
         "No ruling",
         "Forbidden",
@@ -1760,7 +1760,7 @@
     },
     {
       "id": "irs_136",
-      "text": "Halal means: (variant 136)",
+      "text": "What does the term Halal mean in Islam? (variant 136)",
       "options": [
         "Permissible",
         "Forbidden",
@@ -1773,7 +1773,7 @@
     },
     {
       "id": "irs_137",
-      "text": "First month Hijri: (variant 137)",
+      "text": "What is the first month of the Islamic Hijri calendar? (variant 137)",
       "options": [
         "Ramadan",
         "Shawwal",
@@ -1786,7 +1786,7 @@
     },
     {
       "id": "irs_138",
-      "text": "Eid after Ramadan: (variant 138)",
+      "text": "Which Eid is celebrated at the end of Ramadan? (variant 138)",
       "options": [
         "No Eid",
         "Only Adha",
@@ -1799,7 +1799,7 @@
     },
     {
       "id": "irs_139",
-      "text": "Wudu is: (variant 139)",
+      "text": "What is Wudu and why is it performed in Islam? (variant 139)",
       "options": [
         "Only face",
         "Ablution",
@@ -1812,7 +1812,7 @@
     },
     {
       "id": "irs_140",
-      "text": "Qibla towards: (variant 140)",
+      "text": "In which direction do Muslims face during prayer (Qibla)? (variant 140)",
       "options": [
         "Kaaba",
         "East only",
@@ -1825,7 +1825,7 @@
     },
     {
       "id": "irs_141",
-      "text": "Quran revealed over: (variant 141)",
+      "text": "Over what period of time was the Holy Quran revealed? (variant 141)",
       "options": [
         "10 years",
         "40 years",
@@ -1838,7 +1838,7 @@
     },
     {
       "id": "irs_142",
-      "text": "First revelation cave: (variant 142)",
+      "text": "In which cave did the first revelation of the Quran take place? (variant 142)",
       "options": [
         "Uhud",
         "Badr",
@@ -1851,7 +1851,7 @@
     },
     {
       "id": "irs_143",
-      "text": "Quran has: (variant 143)",
+      "text": "How many Surahs does the Holy Quran contain? (variant 143)",
       "options": [
         "30",
         "114 Surahs",
@@ -1864,7 +1864,7 @@
     },
     {
       "id": "irs_144",
-      "text": "Tawhid means: (variant 144)",
+      "text": "What does the concept of Tawhid mean in Islam? (variant 144)",
       "options": [
         "Oneness of Allah",
         "Prophethood",
@@ -1877,7 +1877,7 @@
     },
     {
       "id": "irs_145",
-      "text": "Salat times daily: (variant 145)",
+      "text": "How many times a day are Muslims required to perform Salat? (variant 145)",
       "options": [
         "3",
         "1",
@@ -1890,7 +1890,7 @@
     },
     {
       "id": "irs_146",
-      "text": "Fajr Rakats: (variant 146)",
+      "text": "How many Rakats are performed in the Fajr prayer? (variant 146)",
       "options": [
         "3",
         "1",
@@ -1903,7 +1903,7 @@
     },
     {
       "id": "irs_147",
-      "text": "Zakat is: (variant 147)",
+      "text": "What is Zakat and what is its significance in Islam? (variant 147)",
       "options": [
         "Hajj",
         "Alms",
@@ -1916,7 +1916,7 @@
     },
     {
       "id": "irs_148",
-      "text": "Sawm means: (variant 148)",
+      "text": "What does the term Sawm mean in Islam? (variant 148)",
       "options": [
         "Fasting",
         "Prayer",
@@ -1929,7 +1929,7 @@
     },
     {
       "id": "irs_149",
-      "text": "Hajj in: (variant 149)",
+      "text": "In which city is the Hajj pilgrimage performed? (variant 149)",
       "options": [
         "Madinah",
         "Jerusalem",
@@ -1942,7 +1942,7 @@
     },
     {
       "id": "irs_150",
-      "text": "Prophet born in: (variant 150)",
+      "text": "In what year was Prophet Muhammad (SAW) born? (variant 150)",
       "options": [
         "610 AD",
         "632 AD",
@@ -1955,7 +1955,7 @@
     },
     {
       "id": "irs_151",
-      "text": "Hijra in: (variant 151)",
+      "text": "In what year did the Hijra (migration to Madinah) take place? (variant 151)",
       "options": [
         "632 AD",
         "622 AD",
@@ -1968,7 +1968,7 @@
     },
     {
       "id": "irs_152",
-      "text": "Badr in: (variant 152)",
+      "text": "In what year did the Battle of Badr take place? (variant 152)",
       "options": [
         "624 AD",
         "622 AD",
@@ -1981,7 +1981,7 @@
     },
     {
       "id": "irs_153",
-      "text": "First caliph: (variant 153)",
+      "text": "Who was the first Caliph of Islam after the Prophet? (variant 153)",
       "options": [
         "Umar",
         "Uthman",
@@ -1994,7 +1994,7 @@
     },
     {
       "id": "irs_154",
-      "text": "Nikah means: (variant 154)",
+      "text": "What does the term Nikah mean in Islam? (variant 154)",
       "options": [
         "Prayer",
         "Fasting",
@@ -2007,7 +2007,7 @@
     },
     {
       "id": "irs_155",
-      "text": "Riba is: (variant 155)",
+      "text": "What is the Islamic ruling on Riba (interest)? (variant 155)",
       "options": [
         "No ruling",
         "Forbidden",
@@ -2020,7 +2020,7 @@
     },
     {
       "id": "irs_156",
-      "text": "Halal means: (variant 156)",
+      "text": "What does the term Halal mean in Islam? (variant 156)",
       "options": [
         "Permissible",
         "Forbidden",
@@ -2033,7 +2033,7 @@
     },
     {
       "id": "irs_157",
-      "text": "First month Hijri: (variant 157)",
+      "text": "What is the first month of the Islamic Hijri calendar? (variant 157)",
       "options": [
         "Ramadan",
         "Shawwal",
@@ -2046,7 +2046,7 @@
     },
     {
       "id": "irs_158",
-      "text": "Eid after Ramadan: (variant 158)",
+      "text": "Which Eid is celebrated at the end of Ramadan? (variant 158)",
       "options": [
         "No Eid",
         "Only Adha",
@@ -2059,7 +2059,7 @@
     },
     {
       "id": "irs_159",
-      "text": "Wudu is: (variant 159)",
+      "text": "What is Wudu and why is it performed in Islam? (variant 159)",
       "options": [
         "Only face",
         "Ablution",
@@ -2072,7 +2072,7 @@
     },
     {
       "id": "irs_160",
-      "text": "Qibla towards: (variant 160)",
+      "text": "In which direction do Muslims face during prayer (Qibla)? (variant 160)",
       "options": [
         "Kaaba",
         "East only",
@@ -2085,7 +2085,7 @@
     },
     {
       "id": "irs_161",
-      "text": "Quran revealed over: (variant 161)",
+      "text": "Over what period of time was the Holy Quran revealed? (variant 161)",
       "options": [
         "10 years",
         "40 years",
@@ -2098,7 +2098,7 @@
     },
     {
       "id": "irs_162",
-      "text": "First revelation cave: (variant 162)",
+      "text": "In which cave did the first revelation of the Quran take place? (variant 162)",
       "options": [
         "Uhud",
         "Badr",
@@ -2111,7 +2111,7 @@
     },
     {
       "id": "irs_163",
-      "text": "Quran has: (variant 163)",
+      "text": "How many Surahs does the Holy Quran contain? (variant 163)",
       "options": [
         "30",
         "114 Surahs",
@@ -2124,7 +2124,7 @@
     },
     {
       "id": "irs_164",
-      "text": "Tawhid means: (variant 164)",
+      "text": "What does the concept of Tawhid mean in Islam? (variant 164)",
       "options": [
         "Oneness of Allah",
         "Prophethood",
@@ -2137,7 +2137,7 @@
     },
     {
       "id": "irs_165",
-      "text": "Salat times daily: (variant 165)",
+      "text": "How many times a day are Muslims required to perform Salat? (variant 165)",
       "options": [
         "3",
         "1",
@@ -2150,7 +2150,7 @@
     },
     {
       "id": "irs_166",
-      "text": "Fajr Rakats: (variant 166)",
+      "text": "How many Rakats are performed in the Fajr prayer? (variant 166)",
       "options": [
         "3",
         "1",
@@ -2163,7 +2163,7 @@
     },
     {
       "id": "irs_167",
-      "text": "Zakat is: (variant 167)",
+      "text": "What is Zakat and what is its significance in Islam? (variant 167)",
       "options": [
         "Hajj",
         "Alms",
@@ -2176,7 +2176,7 @@
     },
     {
       "id": "irs_168",
-      "text": "Sawm means: (variant 168)",
+      "text": "What does the term Sawm mean in Islam? (variant 168)",
       "options": [
         "Fasting",
         "Prayer",
@@ -2189,7 +2189,7 @@
     },
     {
       "id": "irs_169",
-      "text": "Hajj in: (variant 169)",
+      "text": "In which city is the Hajj pilgrimage performed? (variant 169)",
       "options": [
         "Madinah",
         "Jerusalem",
@@ -2202,7 +2202,7 @@
     },
     {
       "id": "irs_170",
-      "text": "Prophet born in: (variant 170)",
+      "text": "In what year was Prophet Muhammad (SAW) born? (variant 170)",
       "options": [
         "610 AD",
         "632 AD",
@@ -2215,7 +2215,7 @@
     },
     {
       "id": "irs_171",
-      "text": "Hijra in: (variant 171)",
+      "text": "In what year did the Hijra (migration to Madinah) take place? (variant 171)",
       "options": [
         "632 AD",
         "622 AD",
@@ -2228,7 +2228,7 @@
     },
     {
       "id": "irs_172",
-      "text": "Badr in: (variant 172)",
+      "text": "In what year did the Battle of Badr take place? (variant 172)",
       "options": [
         "624 AD",
         "622 AD",
@@ -2241,7 +2241,7 @@
     },
     {
       "id": "irs_173",
-      "text": "First caliph: (variant 173)",
+      "text": "Who was the first Caliph of Islam after the Prophet? (variant 173)",
       "options": [
         "Umar",
         "Uthman",
@@ -2254,7 +2254,7 @@
     },
     {
       "id": "irs_174",
-      "text": "Nikah means: (variant 174)",
+      "text": "What does the term Nikah mean in Islam? (variant 174)",
       "options": [
         "Prayer",
         "Fasting",
@@ -2267,7 +2267,7 @@
     },
     {
       "id": "irs_175",
-      "text": "Riba is: (variant 175)",
+      "text": "What is the Islamic ruling on Riba (interest)? (variant 175)",
       "options": [
         "No ruling",
         "Forbidden",
@@ -2280,7 +2280,7 @@
     },
     {
       "id": "irs_176",
-      "text": "Halal means: (variant 176)",
+      "text": "What does the term Halal mean in Islam? (variant 176)",
       "options": [
         "Permissible",
         "Forbidden",
@@ -2293,7 +2293,7 @@
     },
     {
       "id": "irs_177",
-      "text": "First month Hijri: (variant 177)",
+      "text": "What is the first month of the Islamic Hijri calendar? (variant 177)",
       "options": [
         "Ramadan",
         "Shawwal",
@@ -2306,7 +2306,7 @@
     },
     {
       "id": "irs_178",
-      "text": "Eid after Ramadan: (variant 178)",
+      "text": "Which Eid is celebrated at the end of Ramadan? (variant 178)",
       "options": [
         "No Eid",
         "Only Adha",
@@ -2319,7 +2319,7 @@
     },
     {
       "id": "irs_179",
-      "text": "Wudu is: (variant 179)",
+      "text": "What is Wudu and why is it performed in Islam? (variant 179)",
       "options": [
         "Only face",
         "Ablution",
@@ -2332,7 +2332,7 @@
     },
     {
       "id": "irs_180",
-      "text": "Qibla towards: (variant 180)",
+      "text": "In which direction do Muslims face during prayer (Qibla)? (variant 180)",
       "options": [
         "Kaaba",
         "East only",
@@ -2345,7 +2345,7 @@
     },
     {
       "id": "irs_181",
-      "text": "Quran revealed over: (variant 181)",
+      "text": "Over what period of time was the Holy Quran revealed? (variant 181)",
       "options": [
         "10 years",
         "40 years",
@@ -2358,7 +2358,7 @@
     },
     {
       "id": "irs_182",
-      "text": "First revelation cave: (variant 182)",
+      "text": "In which cave did the first revelation of the Quran take place? (variant 182)",
       "options": [
         "Uhud",
         "Badr",
@@ -2371,7 +2371,7 @@
     },
     {
       "id": "irs_183",
-      "text": "Quran has: (variant 183)",
+      "text": "How many Surahs does the Holy Quran contain? (variant 183)",
       "options": [
         "30",
         "114 Surahs",
@@ -2384,7 +2384,7 @@
     },
     {
       "id": "irs_184",
-      "text": "Tawhid means: (variant 184)",
+      "text": "What does the concept of Tawhid mean in Islam? (variant 184)",
       "options": [
         "Oneness of Allah",
         "Prophethood",
@@ -2397,7 +2397,7 @@
     },
     {
       "id": "irs_185",
-      "text": "Salat times daily: (variant 185)",
+      "text": "How many times a day are Muslims required to perform Salat? (variant 185)",
       "options": [
         "3",
         "1",
@@ -2410,7 +2410,7 @@
     },
     {
       "id": "irs_186",
-      "text": "Fajr Rakats: (variant 186)",
+      "text": "How many Rakats are performed in the Fajr prayer? (variant 186)",
       "options": [
         "3",
         "1",
@@ -2423,7 +2423,7 @@
     },
     {
       "id": "irs_187",
-      "text": "Zakat is: (variant 187)",
+      "text": "What is Zakat and what is its significance in Islam? (variant 187)",
       "options": [
         "Hajj",
         "Alms",
@@ -2436,7 +2436,7 @@
     },
     {
       "id": "irs_188",
-      "text": "Sawm means: (variant 188)",
+      "text": "What does the term Sawm mean in Islam? (variant 188)",
       "options": [
         "Fasting",
         "Prayer",
@@ -2449,7 +2449,7 @@
     },
     {
       "id": "irs_189",
-      "text": "Hajj in: (variant 189)",
+      "text": "In which city is the Hajj pilgrimage performed? (variant 189)",
       "options": [
         "Madinah",
         "Jerusalem",
@@ -2462,7 +2462,7 @@
     },
     {
       "id": "irs_190",
-      "text": "Prophet born in: (variant 190)",
+      "text": "In what year was Prophet Muhammad (SAW) born? (variant 190)",
       "options": [
         "610 AD",
         "632 AD",
@@ -2475,7 +2475,7 @@
     },
     {
       "id": "irs_191",
-      "text": "Hijra in: (variant 191)",
+      "text": "In what year did the Hijra (migration to Madinah) take place? (variant 191)",
       "options": [
         "632 AD",
         "622 AD",
@@ -2488,7 +2488,7 @@
     },
     {
       "id": "irs_192",
-      "text": "Badr in: (variant 192)",
+      "text": "In what year did the Battle of Badr take place? (variant 192)",
       "options": [
         "624 AD",
         "622 AD",
@@ -2501,7 +2501,7 @@
     },
     {
       "id": "irs_193",
-      "text": "First caliph: (variant 193)",
+      "text": "Who was the first Caliph of Islam after the Prophet? (variant 193)",
       "options": [
         "Umar",
         "Uthman",
@@ -2514,7 +2514,7 @@
     },
     {
       "id": "irs_194",
-      "text": "Nikah means: (variant 194)",
+      "text": "What does the term Nikah mean in Islam? (variant 194)",
       "options": [
         "Prayer",
         "Fasting",
@@ -2527,7 +2527,7 @@
     },
     {
       "id": "irs_195",
-      "text": "Riba is: (variant 195)",
+      "text": "What is the Islamic ruling on Riba (interest)? (variant 195)",
       "options": [
         "No ruling",
         "Forbidden",
@@ -2540,7 +2540,7 @@
     },
     {
       "id": "irs_196",
-      "text": "Halal means: (variant 196)",
+      "text": "What does the term Halal mean in Islam? (variant 196)",
       "options": [
         "Permissible",
         "Forbidden",
@@ -2553,7 +2553,7 @@
     },
     {
       "id": "irs_197",
-      "text": "First month Hijri: (variant 197)",
+      "text": "What is the first month of the Islamic Hijri calendar? (variant 197)",
       "options": [
         "Ramadan",
         "Shawwal",
@@ -2566,7 +2566,7 @@
     },
     {
       "id": "irs_198",
-      "text": "Eid after Ramadan: (variant 198)",
+      "text": "Which Eid is celebrated at the end of Ramadan? (variant 198)",
       "options": [
         "No Eid",
         "Only Adha",
@@ -2579,7 +2579,7 @@
     },
     {
       "id": "irs_199",
-      "text": "Wudu is: (variant 199)",
+      "text": "What is Wudu and why is it performed in Islam? (variant 199)",
       "options": [
         "Only face",
         "Ablution",
@@ -2592,7 +2592,7 @@
     },
     {
       "id": "irs_200",
-      "text": "Qibla towards: (variant 200)",
+      "text": "In which direction do Muslims face during prayer (Qibla)? (variant 200)",
       "options": [
         "Kaaba",
         "East only",

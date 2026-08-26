@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": "his_001",
-      "text": "Father of history:",
+      "text": "Who is known as the Father of History?",
       "options": [
         "Plato",
         "Aristotle",
@@ -18,7 +18,7 @@
     },
     {
       "id": "his_002",
-      "text": "Nok culture known for:",
+      "text": "What is the Nok culture best known for?",
       "options": [
         "Gold",
         "Iron only",
@@ -31,7 +31,7 @@
     },
     {
       "id": "his_003",
-      "text": "Kanem-Borno in:",
+      "text": "The Kanem-Borno Empire was located in which part of Nigeria?",
       "options": [
         "Northwest",
         "Northeast",
@@ -44,7 +44,7 @@
     },
     {
       "id": "his_004",
-      "text": "Oyo Empire in:",
+      "text": "The Oyo Empire was located in which part of Nigeria?",
       "options": [
         "Southwest",
         "Northeast",
@@ -57,7 +57,7 @@
     },
     {
       "id": "his_005",
-      "text": "Benin famous for:",
+      "text": "The Benin Kingdom is famous for its works in which material?",
       "options": [
         "Terracotta",
         "Gold only",
@@ -70,7 +70,7 @@
     },
     {
       "id": "his_006",
-      "text": "Sokoto founded by:",
+      "text": "Who was the founder of the Sokoto Caliphate?",
       "options": [
         "Alooma",
         "Alaafin",
@@ -83,7 +83,7 @@
     },
     {
       "id": "his_007",
-      "text": "Jihad in:",
+      "text": "In what year did the Fulani Jihad begin in Nigeria?",
       "options": [
         "1914",
         "1804",
@@ -96,7 +96,7 @@
     },
     {
       "id": "his_008",
-      "text": "Amalgamation in:",
+      "text": "In what year was Nigeria amalgamated by Lord Lugard?",
       "options": [
         "1914",
         "1900",
@@ -109,7 +109,7 @@
     },
     {
       "id": "his_009",
-      "text": "Lugard introduced:",
+      "text": "What system of administration did Lord Lugard introduce in Nigeria?",
       "options": [
         "Direct rule",
         "No rule",
@@ -122,7 +122,7 @@
     },
     {
       "id": "his_010",
-      "text": "First party NNDP in:",
+      "text": "In what year was the first political party in Nigeria, the NNDP, formed?",
       "options": [
         "1951",
         "1960",
@@ -135,7 +135,7 @@
     },
     {
       "id": "his_011",
-      "text": "Independence in:",
+      "text": "In what year did Nigeria gain independence?",
       "options": [
         "1963",
         "1960",
@@ -148,7 +148,7 @@
     },
     {
       "id": "his_012",
-      "text": "First PM:",
+      "text": "Who was the first Prime Minister of Nigeria?",
       "options": [
         "Balewa",
         "Azikiwe",
@@ -161,7 +161,7 @@
     },
     {
       "id": "his_013",
-      "text": "First coup:",
+      "text": "When did Nigeria's first military coup take place?",
       "options": [
         "1960",
         "1963",
@@ -174,7 +174,7 @@
     },
     {
       "id": "his_014",
-      "text": "Civil War:",
+      "text": "During what years was the Nigerian Civil War fought?",
       "options": [
         "1966 only",
         "1970-75",
@@ -187,7 +187,7 @@
     },
     {
       "id": "his_015",
-      "text": "Second Republic:",
+      "text": "During what years did Nigeria's Second Republic last?",
       "options": [
         "1983-99",
         "1979-83",
@@ -200,7 +200,7 @@
     },
     {
       "id": "his_016",
-      "text": "June12 winner:",
+      "text": "Who was the winner of the annulled June 12, 1993 presidential election?",
       "options": [
         "Abiola",
         "Babangida",
@@ -213,7 +213,7 @@
     },
     {
       "id": "his_017",
-      "text": "Fourth Republic:",
+      "text": "In what year did Nigeria's Fourth Republic begin?",
       "options": [
         "1993",
         "1983",
@@ -226,7 +226,7 @@
     },
     {
       "id": "his_018",
-      "text": "ECOWAS in:",
+      "text": "In what year was the Economic Community of West African States (ECOWAS) founded?",
       "options": [
         "1963",
         "1999",
@@ -239,7 +239,7 @@
     },
     {
       "id": "his_019",
-      "text": "UN in:",
+      "text": "In what year was the United Nations (UN) founded?",
       "options": [
         "1939",
         "1945",
@@ -252,7 +252,7 @@
     },
     {
       "id": "his_020",
-      "text": "Flag designed by:",
+      "text": "Who designed the Nigerian national flag?",
       "options": [
         "Akinkunmi",
         "Azikiwe",
@@ -265,7 +265,7 @@
     },
     {
       "id": "his_021",
-      "text": "Father of history: (variant 21)",
+      "text": "Who is known as the Father of History? (variant 21)",
       "options": [
         "Plato",
         "Aristotle",
@@ -278,7 +278,7 @@
     },
     {
       "id": "his_022",
-      "text": "Nok culture known for: (variant 22)",
+      "text": "What is the Nok culture best known for? (variant 22)",
       "options": [
         "Gold",
         "Iron only",
@@ -291,7 +291,7 @@
     },
     {
       "id": "his_023",
-      "text": "Kanem-Borno in: (variant 23)",
+      "text": "The Kanem-Borno Empire was located in which part of Nigeria? (variant 23)",
       "options": [
         "Northwest",
         "Northeast",
@@ -304,7 +304,7 @@
     },
     {
       "id": "his_024",
-      "text": "Oyo Empire in: (variant 24)",
+      "text": "The Oyo Empire was located in which part of Nigeria? (variant 24)",
       "options": [
         "Southwest",
         "Northeast",
@@ -317,7 +317,7 @@
     },
     {
       "id": "his_025",
-      "text": "Benin famous for: (variant 25)",
+      "text": "The Benin Kingdom is famous for its works in which material? (variant 25)",
       "options": [
         "Terracotta",
         "Gold only",
@@ -330,7 +330,7 @@
     },
     {
       "id": "his_026",
-      "text": "Sokoto founded by: (variant 26)",
+      "text": "Who founded the Sokoto Caliphate? (variant 26)",
       "options": [
         "Alooma",
         "Alaafin",
@@ -343,7 +343,7 @@
     },
     {
       "id": "his_027",
-      "text": "Jihad in: (variant 27)",
+      "text": "In what year did the Fulani Jihad begin in Nigeria? (variant 27)",
       "options": [
         "1914",
         "1804",
@@ -356,7 +356,7 @@
     },
     {
       "id": "his_028",
-      "text": "Amalgamation in: (variant 28)",
+      "text": "In what year was Nigeria amalgamated by Lord Lugard? (variant 28)",
       "options": [
         "1914",
         "1900",
@@ -369,7 +369,7 @@
     },
     {
       "id": "his_029",
-      "text": "Lugard introduced: (variant 29)",
+      "text": "What system of administration did Lord Lugard introduce in Nigeria? (variant 29)",
       "options": [
         "Direct rule",
         "No rule",
@@ -382,7 +382,7 @@
     },
     {
       "id": "his_030",
-      "text": "First party NNDP in: (variant 30)",
+      "text": "In what year was the first political party in Nigeria, the NNDP, formed? (variant 30)",
       "options": [
         "1951",
         "1960",
@@ -395,7 +395,7 @@
     },
     {
       "id": "his_031",
-      "text": "Independence in: (variant 31)",
+      "text": "In what year did Nigeria gain independence? (variant 31)",
       "options": [
         "1963",
         "1960",
@@ -408,7 +408,7 @@
     },
     {
       "id": "his_032",
-      "text": "First PM: (variant 32)",
+      "text": "Who was the first Prime Minister of Nigeria? (variant 32)",
       "options": [
         "Balewa",
         "Azikiwe",
@@ -421,7 +421,7 @@
     },
     {
       "id": "his_033",
-      "text": "First coup: (variant 33)",
+      "text": "When did Nigeria's first military coup take place? (variant 33)",
       "options": [
         "1960",
         "1963",
@@ -434,7 +434,7 @@
     },
     {
       "id": "his_034",
-      "text": "Civil War: (variant 34)",
+      "text": "During what years was the Nigerian Civil War fought? (variant 34)",
       "options": [
         "1966 only",
         "1970-75",
@@ -447,7 +447,7 @@
     },
     {
       "id": "his_035",
-      "text": "Second Republic: (variant 35)",
+      "text": "During what years did Nigeria's Second Republic last? (variant 35)",
       "options": [
         "1983-99",
         "1979-83",
@@ -460,7 +460,7 @@
     },
     {
       "id": "his_036",
-      "text": "June12 winner: (variant 36)",
+      "text": "Who was the winner of the annulled June 12, 1993 presidential election? (variant 36)",
       "options": [
         "Abiola",
         "Babangida",
@@ -473,7 +473,7 @@
     },
     {
       "id": "his_037",
-      "text": "Fourth Republic: (variant 37)",
+      "text": "In what year did Nigeria's Fourth Republic begin? (variant 37)",
       "options": [
         "1993",
         "1983",
@@ -486,7 +486,7 @@
     },
     {
       "id": "his_038",
-      "text": "ECOWAS in: (variant 38)",
+      "text": "In what year was the Economic Community of West African States (ECOWAS) founded? (variant 38)",
       "options": [
         "1963",
         "1999",
@@ -499,7 +499,7 @@
     },
     {
       "id": "his_039",
-      "text": "UN in: (variant 39)",
+      "text": "In what year was the United Nations (UN) founded? (variant 39)",
       "options": [
         "1939",
         "1945",
@@ -512,7 +512,7 @@
     },
     {
       "id": "his_040",
-      "text": "Flag designed by: (variant 40)",
+      "text": "Who designed the Nigerian national flag? (variant 40)",
       "options": [
         "Akinkunmi",
         "Azikiwe",
@@ -525,7 +525,7 @@
     },
     {
       "id": "his_041",
-      "text": "Father of history: (variant 41)",
+      "text": "Who is known as the Father of History? (variant 41)",
       "options": [
         "Plato",
         "Aristotle",
@@ -538,7 +538,7 @@
     },
     {
       "id": "his_042",
-      "text": "Nok culture known for: (variant 42)",
+      "text": "What is the Nok culture best known for? (variant 42)",
       "options": [
         "Gold",
         "Iron only",
@@ -551,7 +551,7 @@
     },
     {
       "id": "his_043",
-      "text": "Kanem-Borno in: (variant 43)",
+      "text": "The Kanem-Borno Empire was located in which part of Nigeria? (variant 43)",
       "options": [
         "Northwest",
         "Northeast",
@@ -564,7 +564,7 @@
     },
     {
       "id": "his_044",
-      "text": "Oyo Empire in: (variant 44)",
+      "text": "The Oyo Empire was located in which part of Nigeria? (variant 44)",
       "options": [
         "Southwest",
         "Northeast",
@@ -577,7 +577,7 @@
     },
     {
       "id": "his_045",
-      "text": "Benin famous for: (variant 45)",
+      "text": "The Benin Kingdom is famous for its works in which material? (variant 45)",
       "options": [
         "Terracotta",
         "Gold only",
@@ -590,7 +590,7 @@
     },
     {
       "id": "his_046",
-      "text": "Sokoto founded by: (variant 46)",
+      "text": "Who founded the Sokoto Caliphate? (variant 46)",
       "options": [
         "Alooma",
         "Alaafin",
@@ -603,7 +603,7 @@
     },
     {
       "id": "his_047",
-      "text": "Jihad in: (variant 47)",
+      "text": "In what year did the Fulani Jihad begin in Nigeria? (variant 47)",
       "options": [
         "1914",
         "1804",
@@ -616,7 +616,7 @@
     },
     {
       "id": "his_048",
-      "text": "Amalgamation in: (variant 48)",
+      "text": "In what year was Nigeria amalgamated by Lord Lugard? (variant 48)",
       "options": [
         "1914",
         "1900",
@@ -629,7 +629,7 @@
     },
     {
       "id": "his_049",
-      "text": "Lugard introduced: (variant 49)",
+      "text": "What system of administration did Lord Lugard introduce in Nigeria? (variant 49)",
       "options": [
         "Direct rule",
         "No rule",
@@ -642,7 +642,7 @@
     },
     {
       "id": "his_050",
-      "text": "First party NNDP in: (variant 50)",
+      "text": "In what year was the first political party in Nigeria, the NNDP, formed? (variant 50)",
       "options": [
         "1951",
         "1960",
@@ -655,7 +655,7 @@
     },
     {
       "id": "his_051",
-      "text": "Independence in: (variant 51)",
+      "text": "In what year did Nigeria gain independence? (variant 51)",
       "options": [
         "1963",
         "1960",
@@ -668,7 +668,7 @@
     },
     {
       "id": "his_052",
-      "text": "First PM: (variant 52)",
+      "text": "Who was the first Prime Minister of Nigeria? (variant 52)",
       "options": [
         "Balewa",
         "Azikiwe",
@@ -681,7 +681,7 @@
     },
     {
       "id": "his_053",
-      "text": "First coup: (variant 53)",
+      "text": "When did Nigeria's first military coup take place? (variant 53)",
       "options": [
         "1960",
         "1963",
@@ -694,7 +694,7 @@
     },
     {
       "id": "his_054",
-      "text": "Civil War: (variant 54)",
+      "text": "During what years was the Nigerian Civil War fought? (variant 54)",
       "options": [
         "1966 only",
         "1970-75",
@@ -707,7 +707,7 @@
     },
     {
       "id": "his_055",
-      "text": "Second Republic: (variant 55)",
+      "text": "During what years did Nigeria's Second Republic last? (variant 55)",
       "options": [
         "1983-99",
         "1979-83",
@@ -720,7 +720,7 @@
     },
     {
       "id": "his_056",
-      "text": "June12 winner: (variant 56)",
+      "text": "Who was the winner of the annulled June 12, 1993 presidential election? (variant 56)",
       "options": [
         "Abiola",
         "Babangida",
@@ -733,7 +733,7 @@
     },
     {
       "id": "his_057",
-      "text": "Fourth Republic: (variant 57)",
+      "text": "In what year did Nigeria's Fourth Republic begin? (variant 57)",
       "options": [
         "1993",
         "1983",
@@ -746,7 +746,7 @@
     },
     {
       "id": "his_058",
-      "text": "ECOWAS in: (variant 58)",
+      "text": "In what year was the Economic Community of West African States (ECOWAS) founded? (variant 58)",
       "options": [
         "1963",
         "1999",
@@ -759,7 +759,7 @@
     },
     {
       "id": "his_059",
-      "text": "UN in: (variant 59)",
+      "text": "In what year was the United Nations (UN) founded? (variant 59)",
       "options": [
         "1939",
         "1945",
@@ -772,7 +772,7 @@
     },
     {
       "id": "his_060",
-      "text": "Flag designed by: (variant 60)",
+      "text": "Who designed the Nigerian national flag? (variant 60)",
       "options": [
         "Akinkunmi",
         "Azikiwe",
@@ -785,7 +785,7 @@
     },
     {
       "id": "his_061",
-      "text": "Father of history: (variant 61)",
+      "text": "Who is known as the Father of History? (variant 61)",
       "options": [
         "Plato",
         "Aristotle",
@@ -798,7 +798,7 @@
     },
     {
       "id": "his_062",
-      "text": "Nok culture known for: (variant 62)",
+      "text": "What is the Nok culture best known for? (variant 62)",
       "options": [
         "Gold",
         "Iron only",
@@ -811,7 +811,7 @@
     },
     {
       "id": "his_063",
-      "text": "Kanem-Borno in: (variant 63)",
+      "text": "The Kanem-Borno Empire was located in which part of Nigeria? (variant 63)",
       "options": [
         "Northwest",
         "Northeast",
@@ -824,7 +824,7 @@
     },
     {
       "id": "his_064",
-      "text": "Oyo Empire in: (variant 64)",
+      "text": "The Oyo Empire was located in which part of Nigeria? (variant 64)",
       "options": [
         "Southwest",
         "Northeast",
@@ -837,7 +837,7 @@
     },
     {
       "id": "his_065",
-      "text": "Benin famous for: (variant 65)",
+      "text": "The Benin Kingdom is famous for its works in which material? (variant 65)",
       "options": [
         "Terracotta",
         "Gold only",
@@ -850,7 +850,7 @@
     },
     {
       "id": "his_066",
-      "text": "Sokoto founded by: (variant 66)",
+      "text": "Who founded the Sokoto Caliphate? (variant 66)",
       "options": [
         "Alooma",
         "Alaafin",
@@ -863,7 +863,7 @@
     },
     {
       "id": "his_067",
-      "text": "Jihad in: (variant 67)",
+      "text": "In what year did the Fulani Jihad begin in Nigeria? (variant 67)",
       "options": [
         "1914",
         "1804",
@@ -876,7 +876,7 @@
     },
     {
       "id": "his_068",
-      "text": "Amalgamation in: (variant 68)",
+      "text": "In what year was Nigeria amalgamated by Lord Lugard? (variant 68)",
       "options": [
         "1914",
         "1900",
@@ -889,7 +889,7 @@
     },
     {
       "id": "his_069",
-      "text": "Lugard introduced: (variant 69)",
+      "text": "What system of administration did Lord Lugard introduce in Nigeria? (variant 69)",
       "options": [
         "Direct rule",
         "No rule",
@@ -902,7 +902,7 @@
     },
     {
       "id": "his_070",
-      "text": "First party NNDP in: (variant 70)",
+      "text": "In what year was the first political party in Nigeria, the NNDP, formed? (variant 70)",
       "options": [
         "1951",
         "1960",
@@ -915,7 +915,7 @@
     },
     {
       "id": "his_071",
-      "text": "Independence in: (variant 71)",
+      "text": "In what year did Nigeria gain independence? (variant 71)",
       "options": [
         "1963",
         "1960",
@@ -928,7 +928,7 @@
     },
     {
       "id": "his_072",
-      "text": "First PM: (variant 72)",
+      "text": "Who was the first Prime Minister of Nigeria? (variant 72)",
       "options": [
         "Balewa",
         "Azikiwe",
@@ -941,7 +941,7 @@
     },
     {
       "id": "his_073",
-      "text": "First coup: (variant 73)",
+      "text": "When did Nigeria's first military coup take place? (variant 73)",
       "options": [
         "1960",
         "1963",
@@ -954,7 +954,7 @@
     },
     {
       "id": "his_074",
-      "text": "Civil War: (variant 74)",
+      "text": "During what years was the Nigerian Civil War fought? (variant 74)",
       "options": [
         "1966 only",
         "1970-75",
@@ -967,7 +967,7 @@
     },
     {
       "id": "his_075",
-      "text": "Second Republic: (variant 75)",
+      "text": "During what years did Nigeria's Second Republic last? (variant 75)",
       "options": [
         "1983-99",
         "1979-83",
@@ -980,7 +980,7 @@
     },
     {
       "id": "his_076",
-      "text": "June12 winner: (variant 76)",
+      "text": "Who was the winner of the annulled June 12, 1993 presidential election? (variant 76)",
       "options": [
         "Abiola",
         "Babangida",
@@ -993,7 +993,7 @@
     },
     {
       "id": "his_077",
-      "text": "Fourth Republic: (variant 77)",
+      "text": "In what year did Nigeria's Fourth Republic begin? (variant 77)",
       "options": [
         "1993",
         "1983",
@@ -1006,7 +1006,7 @@
     },
     {
       "id": "his_078",
-      "text": "ECOWAS in: (variant 78)",
+      "text": "In what year was the Economic Community of West African States (ECOWAS) founded? (variant 78)",
       "options": [
         "1963",
         "1999",
@@ -1019,7 +1019,7 @@
     },
     {
       "id": "his_079",
-      "text": "UN in: (variant 79)",
+      "text": "In what year was the United Nations (UN) founded? (variant 79)",
       "options": [
         "1939",
         "1945",
@@ -1032,7 +1032,7 @@
     },
     {
       "id": "his_080",
-      "text": "Flag designed by: (variant 80)",
+      "text": "Who designed the Nigerian national flag? (variant 80)",
       "options": [
         "Akinkunmi",
         "Azikiwe",
@@ -1045,7 +1045,7 @@
     },
     {
       "id": "his_081",
-      "text": "Father of history: (variant 81)",
+      "text": "Who is known as the Father of History? (variant 81)",
       "options": [
         "Plato",
         "Aristotle",
@@ -1058,7 +1058,7 @@
     },
     {
       "id": "his_082",
-      "text": "Nok culture known for: (variant 82)",
+      "text": "What is the Nok culture best known for? (variant 82)",
       "options": [
         "Gold",
         "Iron only",
@@ -1071,7 +1071,7 @@
     },
     {
       "id": "his_083",
-      "text": "Kanem-Borno in: (variant 83)",
+      "text": "The Kanem-Borno Empire was located in which part of Nigeria? (variant 83)",
       "options": [
         "Northwest",
         "Northeast",
@@ -1084,7 +1084,7 @@
     },
     {
       "id": "his_084",
-      "text": "Oyo Empire in: (variant 84)",
+      "text": "The Oyo Empire was located in which part of Nigeria? (variant 84)",
       "options": [
         "Southwest",
         "Northeast",
@@ -1097,7 +1097,7 @@
     },
     {
       "id": "his_085",
-      "text": "Benin famous for: (variant 85)",
+      "text": "The Benin Kingdom is famous for its works in which material? (variant 85)",
       "options": [
         "Terracotta",
         "Gold only",
@@ -1110,7 +1110,7 @@
     },
     {
       "id": "his_086",
-      "text": "Sokoto founded by: (variant 86)",
+      "text": "Who founded the Sokoto Caliphate? (variant 86)",
       "options": [
         "Alooma",
         "Alaafin",
@@ -1123,7 +1123,7 @@
     },
     {
       "id": "his_087",
-      "text": "Jihad in: (variant 87)",
+      "text": "In what year did the Fulani Jihad begin in Nigeria? (variant 87)",
       "options": [
         "1914",
         "1804",
@@ -1136,7 +1136,7 @@
     },
     {
       "id": "his_088",
-      "text": "Amalgamation in: (variant 88)",
+      "text": "In what year was Nigeria amalgamated by Lord Lugard? (variant 88)",
       "options": [
         "1914",
         "1900",
@@ -1149,7 +1149,7 @@
     },
     {
       "id": "his_089",
-      "text": "Lugard introduced: (variant 89)",
+      "text": "What system of administration did Lord Lugard introduce in Nigeria? (variant 89)",
       "options": [
         "Direct rule",
         "No rule",
@@ -1162,7 +1162,7 @@
     },
     {
       "id": "his_090",
-      "text": "First party NNDP in: (variant 90)",
+      "text": "In what year was the first political party in Nigeria, the NNDP, formed? (variant 90)",
       "options": [
         "1951",
         "1960",
@@ -1175,7 +1175,7 @@
     },
     {
       "id": "his_091",
-      "text": "Independence in: (variant 91)",
+      "text": "In what year did Nigeria gain independence? (variant 91)",
       "options": [
         "1963",
         "1960",
@@ -1188,7 +1188,7 @@
     },
     {
       "id": "his_092",
-      "text": "First PM: (variant 92)",
+      "text": "Who was the first Prime Minister of Nigeria? (variant 92)",
       "options": [
         "Balewa",
         "Azikiwe",
@@ -1201,7 +1201,7 @@
     },
     {
       "id": "his_093",
-      "text": "First coup: (variant 93)",
+      "text": "When did Nigeria's first military coup take place? (variant 93)",
       "options": [
         "1960",
         "1963",
@@ -1214,7 +1214,7 @@
     },
     {
       "id": "his_094",
-      "text": "Civil War: (variant 94)",
+      "text": "During what years was the Nigerian Civil War fought? (variant 94)",
       "options": [
         "1966 only",
         "1970-75",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": "his_095",
-      "text": "Second Republic: (variant 95)",
+      "text": "During what years did Nigeria's Second Republic last? (variant 95)",
       "options": [
         "1983-99",
         "1979-83",
@@ -1240,7 +1240,7 @@
     },
     {
       "id": "his_096",
-      "text": "June12 winner: (variant 96)",
+      "text": "Who was the winner of the annulled June 12, 1993 presidential election? (variant 96)",
       "options": [
         "Abiola",
         "Babangida",
@@ -1253,7 +1253,7 @@
     },
     {
       "id": "his_097",
-      "text": "Fourth Republic: (variant 97)",
+      "text": "In what year did Nigeria's Fourth Republic begin? (variant 97)",
       "options": [
         "1993",
         "1983",
@@ -1266,7 +1266,7 @@
     },
     {
       "id": "his_098",
-      "text": "ECOWAS in: (variant 98)",
+      "text": "In what year was the Economic Community of West African States (ECOWAS) founded? (variant 98)",
       "options": [
         "1963",
         "1999",
@@ -1279,7 +1279,7 @@
     },
     {
       "id": "his_099",
-      "text": "UN in: (variant 99)",
+      "text": "In what year was the United Nations (UN) founded? (variant 99)",
       "options": [
         "1939",
         "1945",
@@ -1292,7 +1292,7 @@
     },
     {
       "id": "his_100",
-      "text": "Flag designed by: (variant 100)",
+      "text": "Who designed the Nigerian national flag? (variant 100)",
       "options": [
         "Akinkunmi",
         "Azikiwe",
@@ -1305,7 +1305,7 @@
     },
     {
       "id": "his_101",
-      "text": "Father of history: (variant 101)",
+      "text": "Who is known as the Father of History? (variant 101)",
       "options": [
         "Plato",
         "Aristotle",
@@ -1318,7 +1318,7 @@
     },
     {
       "id": "his_102",
-      "text": "Nok culture known for: (variant 102)",
+      "text": "What is the Nok culture best known for? (variant 102)",
       "options": [
         "Gold",
         "Iron only",
@@ -1331,7 +1331,7 @@
     },
     {
       "id": "his_103",
-      "text": "Kanem-Borno in: (variant 103)",
+      "text": "The Kanem-Borno Empire was located in which part of Nigeria? (variant 103)",
       "options": [
         "Northwest",
         "Northeast",
@@ -1344,7 +1344,7 @@
     },
     {
       "id": "his_104",
-      "text": "Oyo Empire in: (variant 104)",
+      "text": "The Oyo Empire was located in which part of Nigeria? (variant 104)",
       "options": [
         "Southwest",
         "Northeast",
@@ -1357,7 +1357,7 @@
     },
     {
       "id": "his_105",
-      "text": "Benin famous for: (variant 105)",
+      "text": "The Benin Kingdom is famous for its works in which material? (variant 105)",
       "options": [
         "Terracotta",
         "Gold only",
@@ -1370,7 +1370,7 @@
     },
     {
       "id": "his_106",
-      "text": "Sokoto founded by: (variant 106)",
+      "text": "Who founded the Sokoto Caliphate? (variant 106)",
       "options": [
         "Alooma",
         "Alaafin",
@@ -1383,7 +1383,7 @@
     },
     {
       "id": "his_107",
-      "text": "Jihad in: (variant 107)",
+      "text": "In what year did the Fulani Jihad begin in Nigeria? (variant 107)",
       "options": [
         "1914",
         "1804",
@@ -1396,7 +1396,7 @@
     },
     {
       "id": "his_108",
-      "text": "Amalgamation in: (variant 108)",
+      "text": "In what year was Nigeria amalgamated by Lord Lugard? (variant 108)",
       "options": [
         "1914",
         "1900",
@@ -1409,7 +1409,7 @@
     },
     {
       "id": "his_109",
-      "text": "Lugard introduced: (variant 109)",
+      "text": "What system of administration did Lord Lugard introduce in Nigeria? (variant 109)",
       "options": [
         "Direct rule",
         "No rule",
@@ -1422,7 +1422,7 @@
     },
     {
       "id": "his_110",
-      "text": "First party NNDP in: (variant 110)",
+      "text": "In what year was the first political party in Nigeria, the NNDP, formed? (variant 110)",
       "options": [
         "1951",
         "1960",
@@ -1435,7 +1435,7 @@
     },
     {
       "id": "his_111",
-      "text": "Independence in: (variant 111)",
+      "text": "In what year did Nigeria gain independence? (variant 111)",
       "options": [
         "1963",
         "1960",
@@ -1448,7 +1448,7 @@
     },
     {
       "id": "his_112",
-      "text": "First PM: (variant 112)",
+      "text": "Who was the first Prime Minister of Nigeria? (variant 112)",
       "options": [
         "Balewa",
         "Azikiwe",
@@ -1461,7 +1461,7 @@
     },
     {
       "id": "his_113",
-      "text": "First coup: (variant 113)",
+      "text": "When did Nigeria's first military coup take place? (variant 113)",
       "options": [
         "1960",
         "1963",
@@ -1474,7 +1474,7 @@
     },
     {
       "id": "his_114",
-      "text": "Civil War: (variant 114)",
+      "text": "During what years was the Nigerian Civil War fought? (variant 114)",
       "options": [
         "1966 only",
         "1970-75",
@@ -1487,7 +1487,7 @@
     },
     {
       "id": "his_115",
-      "text": "Second Republic: (variant 115)",
+      "text": "During what years did Nigeria's Second Republic last? (variant 115)",
       "options": [
         "1983-99",
         "1979-83",
@@ -1500,7 +1500,7 @@
     },
     {
       "id": "his_116",
-      "text": "June12 winner: (variant 116)",
+      "text": "Who was the winner of the annulled June 12, 1993 presidential election? (variant 116)",
       "options": [
         "Abiola",
         "Babangida",
@@ -1513,7 +1513,7 @@
     },
     {
       "id": "his_117",
-      "text": "Fourth Republic: (variant 117)",
+      "text": "In what year did Nigeria's Fourth Republic begin? (variant 117)",
       "options": [
         "1993",
         "1983",
@@ -1526,7 +1526,7 @@
     },
     {
       "id": "his_118",
-      "text": "ECOWAS in: (variant 118)",
+      "text": "In what year was the Economic Community of West African States (ECOWAS) founded? (variant 118)",
       "options": [
         "1963",
         "1999",
@@ -1539,7 +1539,7 @@
     },
     {
       "id": "his_119",
-      "text": "UN in: (variant 119)",
+      "text": "In what year was the United Nations (UN) founded? (variant 119)",
       "options": [
         "1939",
         "1945",
@@ -1552,7 +1552,7 @@
     },
     {
       "id": "his_120",
-      "text": "Flag designed by: (variant 120)",
+      "text": "Who designed the Nigerian national flag? (variant 120)",
       "options": [
         "Akinkunmi",
         "Azikiwe",
@@ -1565,7 +1565,7 @@
     },
     {
       "id": "his_121",
-      "text": "Father of history: (variant 121)",
+      "text": "Who is known as the Father of History? (variant 121)",
       "options": [
         "Plato",
         "Aristotle",
@@ -1578,7 +1578,7 @@
     },
     {
       "id": "his_122",
-      "text": "Nok culture known for: (variant 122)",
+      "text": "What is the Nok culture best known for? (variant 122)",
       "options": [
         "Gold",
         "Iron only",
@@ -1591,7 +1591,7 @@
     },
     {
       "id": "his_123",
-      "text": "Kanem-Borno in: (variant 123)",
+      "text": "The Kanem-Borno Empire was located in which part of Nigeria? (variant 123)",
       "options": [
         "Northwest",
         "Northeast",
@@ -1604,7 +1604,7 @@
     },
     {
       "id": "his_124",
-      "text": "Oyo Empire in: (variant 124)",
+      "text": "The Oyo Empire was located in which part of Nigeria? (variant 124)",
       "options": [
         "Southwest",
         "Northeast",
@@ -1617,7 +1617,7 @@
     },
     {
       "id": "his_125",
-      "text": "Benin famous for: (variant 125)",
+      "text": "The Benin Kingdom is famous for its works in which material? (variant 125)",
       "options": [
         "Terracotta",
         "Gold only",
@@ -1630,7 +1630,7 @@
     },
     {
       "id": "his_126",
-      "text": "Sokoto founded by: (variant 126)",
+      "text": "Who founded the Sokoto Caliphate? (variant 126)",
       "options": [
         "Alooma",
         "Alaafin",
@@ -1643,7 +1643,7 @@
     },
     {
       "id": "his_127",
-      "text": "Jihad in: (variant 127)",
+      "text": "In what year did the Fulani Jihad begin in Nigeria? (variant 127)",
       "options": [
         "1914",
         "1804",
@@ -1656,7 +1656,7 @@
     },
     {
       "id": "his_128",
-      "text": "Amalgamation in: (variant 128)",
+      "text": "In what year was Nigeria amalgamated by Lord Lugard? (variant 128)",
       "options": [
         "1914",
         "1900",
@@ -1669,7 +1669,7 @@
     },
     {
       "id": "his_129",
-      "text": "Lugard introduced: (variant 129)",
+      "text": "What system of administration did Lord Lugard introduce in Nigeria? (variant 129)",
       "options": [
         "Direct rule",
         "No rule",
@@ -1682,7 +1682,7 @@
     },
     {
       "id": "his_130",
-      "text": "First party NNDP in: (variant 130)",
+      "text": "In what year was the first political party in Nigeria, the NNDP, formed? (variant 130)",
       "options": [
         "1951",
         "1960",
@@ -1695,7 +1695,7 @@
     },
     {
       "id": "his_131",
-      "text": "Independence in: (variant 131)",
+      "text": "In what year did Nigeria gain independence? (variant 131)",
       "options": [
         "1963",
         "1960",
@@ -1708,7 +1708,7 @@
     },
     {
       "id": "his_132",
-      "text": "First PM: (variant 132)",
+      "text": "Who was the first Prime Minister of Nigeria? (variant 132)",
       "options": [
         "Balewa",
         "Azikiwe",
@@ -1721,7 +1721,7 @@
     },
     {
       "id": "his_133",
-      "text": "First coup: (variant 133)",
+      "text": "When did Nigeria's first military coup take place? (variant 133)",
       "options": [
         "1960",
         "1963",
@@ -1734,7 +1734,7 @@
     },
     {
       "id": "his_134",
-      "text": "Civil War: (variant 134)",
+      "text": "During what years was the Nigerian Civil War fought? (variant 134)",
       "options": [
         "1966 only",
         "1970-75",
@@ -1747,7 +1747,7 @@
     },
     {
       "id": "his_135",
-      "text": "Second Republic: (variant 135)",
+      "text": "During what years did Nigeria's Second Republic last? (variant 135)",
       "options": [
         "1983-99",
         "1979-83",
@@ -1760,7 +1760,7 @@
     },
     {
       "id": "his_136",
-      "text": "June12 winner: (variant 136)",
+      "text": "Who was the winner of the annulled June 12, 1993 presidential election? (variant 136)",
       "options": [
         "Abiola",
         "Babangida",
@@ -1773,7 +1773,7 @@
     },
     {
       "id": "his_137",
-      "text": "Fourth Republic: (variant 137)",
+      "text": "In what year did Nigeria's Fourth Republic begin? (variant 137)",
       "options": [
         "1993",
         "1983",
@@ -1786,7 +1786,7 @@
     },
     {
       "id": "his_138",
-      "text": "ECOWAS in: (variant 138)",
+      "text": "In what year was the Economic Community of West African States (ECOWAS) founded? (variant 138)",
       "options": [
         "1963",
         "1999",
@@ -1799,7 +1799,7 @@
     },
     {
       "id": "his_139",
-      "text": "UN in: (variant 139)",
+      "text": "In what year was the United Nations (UN) founded? (variant 139)",
       "options": [
         "1939",
         "1945",
@@ -1812,7 +1812,7 @@
     },
     {
       "id": "his_140",
-      "text": "Flag designed by: (variant 140)",
+      "text": "Who designed the Nigerian national flag? (variant 140)",
       "options": [
         "Akinkunmi",
         "Azikiwe",
@@ -1825,7 +1825,7 @@
     },
     {
       "id": "his_141",
-      "text": "Father of history: (variant 141)",
+      "text": "Who is known as the Father of History? (variant 141)",
       "options": [
         "Plato",
         "Aristotle",
@@ -1838,7 +1838,7 @@
     },
     {
       "id": "his_142",
-      "text": "Nok culture known for: (variant 142)",
+      "text": "What is the Nok culture best known for? (variant 142)",
       "options": [
         "Gold",
         "Iron only",
@@ -1851,7 +1851,7 @@
     },
     {
       "id": "his_143",
-      "text": "Kanem-Borno in: (variant 143)",
+      "text": "The Kanem-Borno Empire was located in which part of Nigeria? (variant 143)",
       "options": [
         "Northwest",
         "Northeast",
@@ -1864,7 +1864,7 @@
     },
     {
       "id": "his_144",
-      "text": "Oyo Empire in: (variant 144)",
+      "text": "The Oyo Empire was located in which part of Nigeria? (variant 144)",
       "options": [
         "Southwest",
         "Northeast",
@@ -1877,7 +1877,7 @@
     },
     {
       "id": "his_145",
-      "text": "Benin famous for: (variant 145)",
+      "text": "The Benin Kingdom is famous for its works in which material? (variant 145)",
       "options": [
         "Terracotta",
         "Gold only",
@@ -1890,7 +1890,7 @@
     },
     {
       "id": "his_146",
-      "text": "Sokoto founded by: (variant 146)",
+      "text": "Who founded the Sokoto Caliphate? (variant 146)",
       "options": [
         "Alooma",
         "Alaafin",
@@ -1903,7 +1903,7 @@
     },
     {
       "id": "his_147",
-      "text": "Jihad in: (variant 147)",
+      "text": "In what year did the Fulani Jihad begin in Nigeria? (variant 147)",
       "options": [
         "1914",
         "1804",
@@ -1916,7 +1916,7 @@
     },
     {
       "id": "his_148",
-      "text": "Amalgamation in: (variant 148)",
+      "text": "In what year was Nigeria amalgamated by Lord Lugard? (variant 148)",
       "options": [
         "1914",
         "1900",
@@ -1929,7 +1929,7 @@
     },
     {
       "id": "his_149",
-      "text": "Lugard introduced: (variant 149)",
+      "text": "What system of administration did Lord Lugard introduce in Nigeria? (variant 149)",
       "options": [
         "Direct rule",
         "No rule",
@@ -1942,7 +1942,7 @@
     },
     {
       "id": "his_150",
-      "text": "First party NNDP in: (variant 150)",
+      "text": "In what year was the first political party in Nigeria, the NNDP, formed? (variant 150)",
       "options": [
         "1951",
         "1960",
@@ -1955,7 +1955,7 @@
     },
     {
       "id": "his_151",
-      "text": "Independence in: (variant 151)",
+      "text": "In what year did Nigeria gain independence? (variant 151)",
       "options": [
         "1963",
         "1960",
@@ -1968,7 +1968,7 @@
     },
     {
       "id": "his_152",
-      "text": "First PM: (variant 152)",
+      "text": "Who was the first Prime Minister of Nigeria? (variant 152)",
       "options": [
         "Balewa",
         "Azikiwe",
@@ -1981,7 +1981,7 @@
     },
     {
       "id": "his_153",
-      "text": "First coup: (variant 153)",
+      "text": "When did Nigeria's first military coup take place? (variant 153)",
       "options": [
         "1960",
         "1963",
@@ -1994,7 +1994,7 @@
     },
     {
       "id": "his_154",
-      "text": "Civil War: (variant 154)",
+      "text": "During what years was the Nigerian Civil War fought? (variant 154)",
       "options": [
         "1966 only",
         "1970-75",
@@ -2007,7 +2007,7 @@
     },
     {
       "id": "his_155",
-      "text": "Second Republic: (variant 155)",
+      "text": "During what years did Nigeria's Second Republic last? (variant 155)",
       "options": [
         "1983-99",
         "1979-83",
@@ -2020,7 +2020,7 @@
     },
     {
       "id": "his_156",
-      "text": "June12 winner: (variant 156)",
+      "text": "Who was the winner of the annulled June 12, 1993 presidential election? (variant 156)",
       "options": [
         "Abiola",
         "Babangida",
@@ -2033,7 +2033,7 @@
     },
     {
       "id": "his_157",
-      "text": "Fourth Republic: (variant 157)",
+      "text": "In what year did Nigeria's Fourth Republic begin? (variant 157)",
       "options": [
         "1993",
         "1983",
@@ -2046,7 +2046,7 @@
     },
     {
       "id": "his_158",
-      "text": "ECOWAS in: (variant 158)",
+      "text": "In what year was the Economic Community of West African States (ECOWAS) founded? (variant 158)",
       "options": [
         "1963",
         "1999",
@@ -2059,7 +2059,7 @@
     },
     {
       "id": "his_159",
-      "text": "UN in: (variant 159)",
+      "text": "In what year was the United Nations (UN) founded? (variant 159)",
       "options": [
         "1939",
         "1945",
@@ -2072,7 +2072,7 @@
     },
     {
       "id": "his_160",
-      "text": "Flag designed by: (variant 160)",
+      "text": "Who designed the Nigerian national flag? (variant 160)",
       "options": [
         "Akinkunmi",
         "Azikiwe",
@@ -2085,7 +2085,7 @@
     },
     {
       "id": "his_161",
-      "text": "Father of history: (variant 161)",
+      "text": "Who is known as the Father of History? (variant 161)",
       "options": [
         "Plato",
         "Aristotle",
@@ -2098,7 +2098,7 @@
     },
     {
       "id": "his_162",
-      "text": "Nok culture known for: (variant 162)",
+      "text": "What is the Nok culture best known for? (variant 162)",
       "options": [
         "Gold",
         "Iron only",
@@ -2111,7 +2111,7 @@
     },
     {
       "id": "his_163",
-      "text": "Kanem-Borno in: (variant 163)",
+      "text": "The Kanem-Borno Empire was located in which part of Nigeria? (variant 163)",
       "options": [
         "Northwest",
         "Northeast",
@@ -2124,7 +2124,7 @@
     },
     {
       "id": "his_164",
-      "text": "Oyo Empire in: (variant 164)",
+      "text": "The Oyo Empire was located in which part of Nigeria? (variant 164)",
       "options": [
         "Southwest",
         "Northeast",
@@ -2137,7 +2137,7 @@
     },
     {
       "id": "his_165",
-      "text": "Benin famous for: (variant 165)",
+      "text": "The Benin Kingdom is famous for its works in which material? (variant 165)",
       "options": [
         "Terracotta",
         "Gold only",
@@ -2150,7 +2150,7 @@
     },
     {
       "id": "his_166",
-      "text": "Sokoto founded by: (variant 166)",
+      "text": "Who founded the Sokoto Caliphate? (variant 166)",
       "options": [
         "Alooma",
         "Alaafin",
@@ -2163,7 +2163,7 @@
     },
     {
       "id": "his_167",
-      "text": "Jihad in: (variant 167)",
+      "text": "In what year did the Fulani Jihad begin in Nigeria? (variant 167)",
       "options": [
         "1914",
         "1804",
@@ -2176,7 +2176,7 @@
     },
     {
       "id": "his_168",
-      "text": "Amalgamation in: (variant 168)",
+      "text": "In what year was Nigeria amalgamated by Lord Lugard? (variant 168)",
       "options": [
         "1914",
         "1900",
@@ -2189,7 +2189,7 @@
     },
     {
       "id": "his_169",
-      "text": "Lugard introduced: (variant 169)",
+      "text": "What system of administration did Lord Lugard introduce in Nigeria? (variant 169)",
       "options": [
         "Direct rule",
         "No rule",
@@ -2202,7 +2202,7 @@
     },
     {
       "id": "his_170",
-      "text": "First party NNDP in: (variant 170)",
+      "text": "In what year was the first political party in Nigeria, the NNDP, formed? (variant 170)",
       "options": [
         "1951",
         "1960",
@@ -2215,7 +2215,7 @@
     },
     {
       "id": "his_171",
-      "text": "Independence in: (variant 171)",
+      "text": "In what year did Nigeria gain independence? (variant 171)",
       "options": [
         "1963",
         "1960",
@@ -2228,7 +2228,7 @@
     },
     {
       "id": "his_172",
-      "text": "First PM: (variant 172)",
+      "text": "Who was the first Prime Minister of Nigeria? (variant 172)",
       "options": [
         "Balewa",
         "Azikiwe",
@@ -2241,7 +2241,7 @@
     },
     {
       "id": "his_173",
-      "text": "First coup: (variant 173)",
+      "text": "When did Nigeria's first military coup take place? (variant 173)",
       "options": [
         "1960",
         "1963",
@@ -2254,7 +2254,7 @@
     },
     {
       "id": "his_174",
-      "text": "Civil War: (variant 174)",
+      "text": "During what years was the Nigerian Civil War fought? (variant 174)",
       "options": [
         "1966 only",
         "1970-75",
@@ -2267,7 +2267,7 @@
     },
     {
       "id": "his_175",
-      "text": "Second Republic: (variant 175)",
+      "text": "During what years did Nigeria's Second Republic last? (variant 175)",
       "options": [
         "1983-99",
         "1979-83",
@@ -2280,7 +2280,7 @@
     },
     {
       "id": "his_176",
-      "text": "June12 winner: (variant 176)",
+      "text": "Who was the winner of the annulled June 12, 1993 presidential election? (variant 176)",
       "options": [
         "Abiola",
         "Babangida",
@@ -2293,7 +2293,7 @@
     },
     {
       "id": "his_177",
-      "text": "Fourth Republic: (variant 177)",
+      "text": "In what year did Nigeria's Fourth Republic begin? (variant 177)",
       "options": [
         "1993",
         "1983",
@@ -2306,7 +2306,7 @@
     },
     {
       "id": "his_178",
-      "text": "ECOWAS in: (variant 178)",
+      "text": "In what year was the Economic Community of West African States (ECOWAS) founded? (variant 178)",
       "options": [
         "1963",
         "1999",
@@ -2319,7 +2319,7 @@
     },
     {
       "id": "his_179",
-      "text": "UN in: (variant 179)",
+      "text": "In what year was the United Nations (UN) founded? (variant 179)",
       "options": [
         "1939",
         "1945",
@@ -2332,7 +2332,7 @@
     },
     {
       "id": "his_180",
-      "text": "Flag designed by: (variant 180)",
+      "text": "Who designed the Nigerian national flag? (variant 180)",
       "options": [
         "Akinkunmi",
         "Azikiwe",
@@ -2345,7 +2345,7 @@
     },
     {
       "id": "his_181",
-      "text": "Father of history: (variant 181)",
+      "text": "Who is known as the Father of History? (variant 181)",
       "options": [
         "Plato",
         "Aristotle",
@@ -2358,7 +2358,7 @@
     },
     {
       "id": "his_182",
-      "text": "Nok culture known for: (variant 182)",
+      "text": "What is the Nok culture best known for? (variant 182)",
       "options": [
         "Gold",
         "Iron only",
@@ -2371,7 +2371,7 @@
     },
     {
       "id": "his_183",
-      "text": "Kanem-Borno in: (variant 183)",
+      "text": "The Kanem-Borno Empire was located in which part of Nigeria? (variant 183)",
       "options": [
         "Northwest",
         "Northeast",
@@ -2384,7 +2384,7 @@
     },
     {
       "id": "his_184",
-      "text": "Oyo Empire in: (variant 184)",
+      "text": "The Oyo Empire was located in which part of Nigeria? (variant 184)",
       "options": [
         "Southwest",
         "Northeast",
@@ -2397,7 +2397,7 @@
     },
     {
       "id": "his_185",
-      "text": "Benin famous for: (variant 185)",
+      "text": "The Benin Kingdom is famous for its works in which material? (variant 185)",
       "options": [
         "Terracotta",
         "Gold only",
@@ -2410,7 +2410,7 @@
     },
     {
       "id": "his_186",
-      "text": "Sokoto founded by: (variant 186)",
+      "text": "Who founded the Sokoto Caliphate? (variant 186)",
       "options": [
         "Alooma",
         "Alaafin",
@@ -2423,7 +2423,7 @@
     },
     {
       "id": "his_187",
-      "text": "Jihad in: (variant 187)",
+      "text": "In what year did the Fulani Jihad begin in Nigeria? (variant 187)",
       "options": [
         "1914",
         "1804",
@@ -2436,7 +2436,7 @@
     },
     {
       "id": "his_188",
-      "text": "Amalgamation in: (variant 188)",
+      "text": "In what year was Nigeria amalgamated by Lord Lugard? (variant 188)",
       "options": [
         "1914",
         "1900",
@@ -2449,7 +2449,7 @@
     },
     {
       "id": "his_189",
-      "text": "Lugard introduced: (variant 189)",
+      "text": "What system of administration did Lord Lugard introduce in Nigeria? (variant 189)",
       "options": [
         "Direct rule",
         "No rule",
@@ -2462,7 +2462,7 @@
     },
     {
       "id": "his_190",
-      "text": "First party NNDP in: (variant 190)",
+      "text": "In what year was the first political party in Nigeria, the NNDP, formed? (variant 190)",
       "options": [
         "1951",
         "1960",
@@ -2475,7 +2475,7 @@
     },
     {
       "id": "his_191",
-      "text": "Independence in: (variant 191)",
+      "text": "In what year did Nigeria gain independence? (variant 191)",
       "options": [
         "1963",
         "1960",
@@ -2488,7 +2488,7 @@
     },
     {
       "id": "his_192",
-      "text": "First PM: (variant 192)",
+      "text": "Who was the first Prime Minister of Nigeria? (variant 192)",
       "options": [
         "Balewa",
         "Azikiwe",
@@ -2501,7 +2501,7 @@
     },
     {
       "id": "his_193",
-      "text": "First coup: (variant 193)",
+      "text": "When did Nigeria's first military coup take place? (variant 193)",
       "options": [
         "1960",
         "1963",
@@ -2514,7 +2514,7 @@
     },
     {
       "id": "his_194",
-      "text": "Civil War: (variant 194)",
+      "text": "During what years was the Nigerian Civil War fought? (variant 194)",
       "options": [
         "1966 only",
         "1970-75",
@@ -2527,7 +2527,7 @@
     },
     {
       "id": "his_195",
-      "text": "Second Republic: (variant 195)",
+      "text": "During what years did Nigeria's Second Republic last? (variant 195)",
       "options": [
         "1983-99",
         "1979-83",
@@ -2540,7 +2540,7 @@
     },
     {
       "id": "his_196",
-      "text": "June12 winner: (variant 196)",
+      "text": "Who was the winner of the annulled June 12, 1993 presidential election? (variant 196)",
       "options": [
         "Abiola",
         "Babangida",
@@ -2553,7 +2553,7 @@
     },
     {
       "id": "his_197",
-      "text": "Fourth Republic: (variant 197)",
+      "text": "In what year did Nigeria's Fourth Republic begin? (variant 197)",
       "options": [
         "1993",
         "1983",
@@ -2566,7 +2566,7 @@
     },
     {
       "id": "his_198",
-      "text": "ECOWAS in: (variant 198)",
+      "text": "In what year was the Economic Community of West African States (ECOWAS) founded? (variant 198)",
       "options": [
         "1963",
         "1999",
@@ -2579,7 +2579,7 @@
     },
     {
       "id": "his_199",
-      "text": "UN in: (variant 199)",
+      "text": "In what year was the United Nations (UN) founded? (variant 199)",
       "options": [
         "1939",
         "1945",
@@ -2592,7 +2592,7 @@
     },
     {
       "id": "his_200",
-      "text": "Flag designed by: (variant 200)",
+      "text": "Who designed the Nigerian national flag? (variant 200)",
       "options": [
         "Akinkunmi",
         "Azikiwe",

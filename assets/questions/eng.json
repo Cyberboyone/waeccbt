@@ -70,7 +70,7 @@
     },
     {
       "id": "eng_006",
-      "text": "'Candid' most nearly means:",
+      "text": "'Candid' most nearly means honest and:",
       "options": [
         "Frank",
         "Rude",
@@ -122,7 +122,7 @@
     },
     {
       "id": "eng_010",
-      "text": "'Adequate' most nearly means:",
+      "text": "'Adequate' most nearly means sufficient and:",
       "options": [
         "Enough",
         "Minimal",
@@ -174,7 +174,7 @@
     },
     {
       "id": "eng_014",
-      "text": "'Inevitable' most nearly means:",
+      "text": "'Inevitable' most nearly means certain to:",
       "options": [
         "Improbable",
         "Desirable",
@@ -226,7 +226,7 @@
     },
     {
       "id": "eng_018",
-      "text": "'Abandon' most nearly means:",
+      "text": "'Abandon' most nearly means to give up:",
       "options": [
         "Desert",
         "Embrace",
@@ -304,7 +304,7 @@
     },
     {
       "id": "eng_024",
-      "text": "The opposite of 'optimist' is:",
+      "text": "The opposite of 'optimist' is someone who is:",
       "options": [
         "Realist",
         "Pessimist",
@@ -330,7 +330,7 @@
     },
     {
       "id": "eng_026",
-      "text": "The opposite of 'humble' is:",
+      "text": "The opposite of 'humble' is someone who is:",
       "options": [
         "Meek",
         "Simple",
@@ -356,7 +356,7 @@
     },
     {
       "id": "eng_028",
-      "text": "The opposite of 'transparent' is:",
+      "text": "The opposite of 'transparent' is a material that is:",
       "options": [
         "Clear",
         "Opaque",
@@ -382,7 +382,7 @@
     },
     {
       "id": "eng_030",
-      "text": "The opposite of 'permanent' is:",
+      "text": "The opposite of 'permanent' is something that is:",
       "options": [
         "Temporary",
         "Durable",
@@ -408,7 +408,7 @@
     },
     {
       "id": "eng_032",
-      "text": "The opposite of 'decrease' is:",
+      "text": "The opposite of 'decrease' is to increase, or:",
       "options": [
         "Reduce",
         "Diminish",
@@ -434,7 +434,7 @@
     },
     {
       "id": "eng_034",
-      "text": "The opposite of 'barren' is:",
+      "text": "The opposite of 'barren' is land that is:",
       "options": [
         "Empty",
         "Dry",
@@ -460,7 +460,7 @@
     },
     {
       "id": "eng_036",
-      "text": "The opposite of 'modern' is:",
+      "text": "The opposite of 'modern' is something that is:",
       "options": [
         "Current",
         "Ancient",
@@ -486,7 +486,7 @@
     },
     {
       "id": "eng_038",
-      "text": "The opposite of 'praise' is:",
+      "text": "The opposite of 'praise' is to criticise, or:",
       "options": [
         "Applaud",
         "Honour",
@@ -512,7 +512,7 @@
     },
     {
       "id": "eng_040",
-      "text": "The opposite of 'accept' is:",
+      "text": "The opposite of 'accept' is to refuse, or:",
       "options": [
         "Receive",
         "Agree",
@@ -1487,7 +1487,7 @@
     },
     {
       "id": "eng_115",
-      "text": "Choose the correctly spelt word.",
+      "text": "Choose the word that is correctly spelt.",
       "options": [
         "Occurencee",
         "Occurence",
@@ -1500,7 +1500,7 @@
     },
     {
       "id": "eng_116",
-      "text": "Select the correctly spelt word.",
+      "text": "Select the word that is correctly spelt.",
       "options": [
         "Neccessary",
         "Necessary",
@@ -1513,7 +1513,7 @@
     },
     {
       "id": "eng_117",
-      "text": "Choose the correctly spelt word.",
+      "text": "Choose the word that is correctly spelt.",
       "options": [
         "Separate",
         "Sepparate",
@@ -1526,7 +1526,7 @@
     },
     {
       "id": "eng_118",
-      "text": "Select the correctly spelt word.",
+      "text": "Select the word that is correctly spelt.",
       "options": [
         "Receeve",
         "Recive",
@@ -1539,7 +1539,7 @@
     },
     {
       "id": "eng_119",
-      "text": "Choose the correctly spelt word.",
+      "text": "Choose the word that is correctly spelt.",
       "options": [
         "Definetely",
         "Definately",
@@ -1552,7 +1552,7 @@
     },
     {
       "id": "eng_120",
-      "text": "Select the correctly spelt word.",
+      "text": "Select the word that is correctly spelt.",
       "options": [
         "Accomodation",
         "Accommodation",
@@ -1565,7 +1565,7 @@
     },
     {
       "id": "eng_121",
-      "text": "Choose the correctly spelt word.",
+      "text": "Choose the word that is correctly spelt.",
       "options": [
         "Goverment",
         "Governement",
@@ -1578,7 +1578,7 @@
     },
     {
       "id": "eng_122",
-      "text": "Select the correctly spelt word.",
+      "text": "Select the word that is correctly spelt.",
       "options": [
         "Embaras",
         "Embarras",
@@ -1591,7 +1591,7 @@
     },
     {
       "id": "eng_123",
-      "text": "Choose the correctly spelt word.",
+      "text": "Choose the word that is correctly spelt.",
       "options": [
         "Maintanance",
         "Maintainance",
@@ -1604,7 +1604,7 @@
     },
     {
       "id": "eng_124",
-      "text": "Select the correctly spelt word.",
+      "text": "Select the word that is correctly spelt.",
       "options": [
         "Privilege",
         "Priviledge",
@@ -1721,7 +1721,7 @@
     },
     {
       "id": "eng_133",
-      "text": "The vowel sound in 'seat' is a:",
+      "text": "The vowel sound in 'seat' is which type of sound?",
       "options": [
         "Long vowel",
         "Diphthong",
@@ -1760,7 +1760,7 @@
     },
     {
       "id": "eng_136",
-      "text": "The final sound in 'sing' is:",
+      "text": "The final sound in 'sing' is which type of sound?",
       "options": [
         "/g/",
         "/n/",
@@ -1786,7 +1786,7 @@
     },
     {
       "id": "eng_138",
-      "text": "The word 'zoo' begins with a:",
+      "text": "The word 'zoo' begins with which type of sound?",
       "options": [
         "Vowel",
         "Nasal",
@@ -1825,7 +1825,7 @@
     },
     {
       "id": "eng_141",
-      "text": "The sound /s/ in 'sun' is a:",
+      "text": "The sound /s/ in 'sun' is classified as which type?",
       "options": [
         "Nasal",
         "Fricative",
@@ -1851,7 +1851,7 @@
     },
     {
       "id": "eng_143",
-      "text": "The 'l' in 'little' is a:",
+      "text": "The 'l' sound in 'little' is classified as which type?",
       "options": [
         "Vowel",
         "Nasal",
@@ -1994,7 +1994,7 @@
     },
     {
       "id": "eng_154",
-      "text": "'Sea' and 'see' are examples of:",
+      "text": "'Sea' and 'see' are examples of which type of words?",
       "options": [
         "Homographs",
         "Antonyms",
@@ -2072,7 +2072,7 @@
     },
     {
       "id": "eng_160",
-      "text": "A summary of a passage should:",
+      "text": "A summary of a passage should include which of these?",
       "options": [
         "Be longer than the original",
         "Include the key points only",
@@ -2085,7 +2085,7 @@
     },
     {
       "id": "eng_161",
-      "text": "The word 'emigrate' means to:",
+      "text": "The word 'emigrate' means to move out of:",
       "options": [
         "Leave one's country to live elsewhere",
         "Travel for fun",
@@ -2098,7 +2098,7 @@
     },
     {
       "id": "eng_162",
-      "text": "'Immigrate' means to:",
+      "text": "'Immigrate' means to move into a country:",
       "options": [
         "Visit briefly",
         "Become a citizen automatically",
@@ -2306,7 +2306,7 @@
     },
     {
       "id": "eng_178",
-      "text": "'Ambiguous' most nearly means:",
+      "text": "'Ambiguous' most nearly means unclear or:",
       "options": [
         "Exact",
         "Short",
@@ -2358,7 +2358,7 @@
     },
     {
       "id": "eng_182",
-      "text": "'Vanish' most nearly means:",
+      "text": "'Vanish' most nearly means to disappear:",
       "options": [
         "Return",
         "Grow",
@@ -2384,7 +2384,7 @@
     },
     {
       "id": "eng_184",
-      "text": "'Audacious' most nearly means:",
+      "text": "'Audacious' most nearly means bold or:",
       "options": [
         "Cowardly",
         "Bold",
@@ -2410,7 +2410,7 @@
     },
     {
       "id": "eng_186",
-      "text": "'Serene' most nearly means:",
+      "text": "'Serene' most nearly means calm and:",
       "options": [
         "Stormy",
         "Busy",
@@ -2436,7 +2436,7 @@
     },
     {
       "id": "eng_188",
-      "text": "The opposite of 'attract' is:",
+      "text": "The opposite of 'attract' is to repel, or:",
       "options": [
         "Draw",
         "Repel",
@@ -2462,7 +2462,7 @@
     },
     {
       "id": "eng_190",
-      "text": "The opposite of 'ancient' is:",
+      "text": "The opposite of 'ancient' is something that is:",
       "options": [
         "Primitive",
         "Antique",
@@ -2488,7 +2488,7 @@
     },
     {
       "id": "eng_192",
-      "text": "The opposite of 'generous' is:",
+      "text": "The opposite of 'generous' is someone who is:",
       "options": [
         "Kind",
         "Stingy",
@@ -2514,7 +2514,7 @@
     },
     {
       "id": "eng_194",
-      "text": "The opposite of 'arrival' is:",
+      "text": "The opposite of 'arrival' is the act of:",
       "options": [
         "Entry",
         "Advent",
@@ -2540,7 +2540,7 @@
     },
     {
       "id": "eng_196",
-      "text": "The opposite of 'swift' is:",
+      "text": "The opposite of 'swift' is someone or something that is:",
       "options": [
         "Fast",
         "Slow",

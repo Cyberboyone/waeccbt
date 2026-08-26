@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": "com_001",
-      "text": "Commerce is best defined as the:",
+      "text": "Which of the following best describes or relates to Commerce is best defined as the?",
       "options": [
         "Distribution and exchange of goods and services",
         "Manufacturing only",
@@ -18,7 +18,7 @@
     },
     {
       "id": "com_002",
-      "text": "Commerce is divided into:",
+      "text": "Which of the following best describes or relates to Commerce is divided into?",
       "options": [
         "Import and export",
         "Buying and selling",
@@ -31,7 +31,7 @@
     },
     {
       "id": "com_003",
-      "text": "Trade is the:",
+      "text": "Which of the following best describes Trade?",
       "options": [
         "Insurance",
         "Production of goods",
@@ -44,7 +44,7 @@
     },
     {
       "id": "com_004",
-      "text": "Home trade is trade:",
+      "text": "Which of the following best describes or relates to Home trade is trade?",
       "options": [
         "Between countries",
         "Within a country",
@@ -57,7 +57,7 @@
     },
     {
       "id": "com_005",
-      "text": "Foreign trade is trade:",
+      "text": "Which of the following best describes or relates to Foreign trade is trade?",
       "options": [
         "Between countries",
         "Only in villages",
@@ -70,7 +70,7 @@
     },
     {
       "id": "com_006",
-      "text": "An occupation is a person's:",
+      "text": "Which of the following best describes or relates to An occupation is a person's?",
       "options": [
         "Religion",
         "Family",
@@ -109,7 +109,7 @@
     },
     {
       "id": "com_009",
-      "text": "A farmer is in the ___ occupation.",
+      "text": "A farmer is in the ______ occupation.",
       "options": [
         "Service",
         "Industrial (extractive)",
@@ -122,7 +122,7 @@
     },
     {
       "id": "com_010",
-      "text": "A tailor is in the ___ occupation.",
+      "text": "A tailor is in the ______ occupation.",
       "options": [
         "Commercial",
         "Direct service",
@@ -135,7 +135,7 @@
     },
     {
       "id": "com_011",
-      "text": "Production is the creation of:",
+      "text": "Which of the following best describes or relates to Production is the creation of?",
       "options": [
         "Waste",
         "Money",
@@ -148,7 +148,7 @@
     },
     {
       "id": "com_012",
-      "text": "The three stages of production are:",
+      "text": "Which of the following best describes or relates to The three stages of production are?",
       "options": [
         "Primary, secondary, tertiary",
         "Start, middle, end",
@@ -161,7 +161,7 @@
     },
     {
       "id": "com_013",
-      "text": "Primary production involves:",
+      "text": "Which of the following best describes Primary production?",
       "options": [
         "Extracting raw materials",
         "Services",
@@ -174,7 +174,7 @@
     },
     {
       "id": "com_014",
-      "text": "Secondary production involves:",
+      "text": "Which of the following best describes Secondary production?",
       "options": [
         "Services",
         "Farming only",
@@ -187,7 +187,7 @@
     },
     {
       "id": "com_015",
-      "text": "Tertiary production involves:",
+      "text": "Which of the following best describes Tertiary production?",
       "options": [
         "Farming",
         "Manufacturing",
@@ -239,7 +239,7 @@
     },
     {
       "id": "com_019",
-      "text": "Division of labour is the:",
+      "text": "Which of the following best describes Division of labour?",
       "options": [
         "Hiring more staff",
         "Splitting work into tasks",
@@ -252,7 +252,7 @@
     },
     {
       "id": "com_020",
-      "text": "Specialisation increases:",
+      "text": "Which of the following best describes or relates to Specialisation increases?",
       "options": [
         "Costs",
         "Productivity",
@@ -278,7 +278,7 @@
     },
     {
       "id": "com_022",
-      "text": "The two main types of trade are:",
+      "text": "Which of the following best describes or relates to The two main types of trade are?",
       "options": [
         "Retail and wholesale",
         "Cash and credit",
@@ -291,7 +291,7 @@
     },
     {
       "id": "com_023",
-      "text": "Retail trade is selling to the:",
+      "text": "Which of the following best describes or relates to Retail trade is selling to the?",
       "options": [
         "Exporter",
         "Wholesaler",
@@ -304,7 +304,7 @@
     },
     {
       "id": "com_024",
-      "text": "Wholesale trade is selling to:",
+      "text": "Which of the following best describes or relates to Wholesale trade is selling to?",
       "options": [
         "Consumers",
         "Retailers (for resale)",
@@ -356,7 +356,7 @@
     },
     {
       "id": "com_028",
-      "text": "Goods sold to other countries are:",
+      "text": "Which of the following best describes or relates to Goods sold to other countries are?",
       "options": [
         "Imports",
         "Exports",
@@ -434,7 +434,7 @@
     },
     {
       "id": "com_034",
-      "text": "Credit trade is where the buyer:",
+      "text": "Which of the following best describes or relates to Credit trade is where the buyer?",
       "options": [
         "Barters",
         "Pays more",
@@ -447,7 +447,7 @@
     },
     {
       "id": "com_035",
-      "text": "Barter is the exchange of:",
+      "text": "Which of the following best describes or relates to Barter is the exchange of?",
       "options": [
         "Services for cash",
         "Goods for money",
@@ -460,7 +460,7 @@
     },
     {
       "id": "com_036",
-      "text": "The main disadvantage of barter is:",
+      "text": "Which of the following best describes or relates to The main disadvantage of barter is?",
       "options": [
         "Too much money",
         "Double coincidence of wants",
@@ -473,7 +473,7 @@
     },
     {
       "id": "com_037",
-      "text": "Entrepot trade is the:",
+      "text": "Which of the following best describes Entrepot trade?",
       "options": [
         "Retail trade",
         "Wholesale trade",
@@ -486,7 +486,7 @@
     },
     {
       "id": "com_038",
-      "text": "Visible trade refers to trade in:",
+      "text": "In which context or location does Visible trade refers to trade apply?",
       "options": [
         "Invisibles",
         "Tourism",
@@ -499,7 +499,7 @@
     },
     {
       "id": "com_039",
-      "text": "Invisible trade refers to trade in:",
+      "text": "In which context or location does Invisible trade refers to trade apply?",
       "options": [
         "Machinery",
         "Goods",
@@ -564,7 +564,7 @@
     },
     {
       "id": "com_044",
-      "text": "A trade discount is given to:",
+      "text": "Which of the following best describes or relates to A trade discount is given to?",
       "options": [
         "Consumers",
         "Traders/bulk buyers",
@@ -577,7 +577,7 @@
     },
     {
       "id": "com_045",
-      "text": "A cash discount is given for:",
+      "text": "Which of the following best describes or relates to A cash discount is given for?",
       "options": [
         "Prompt payment",
         "Old customers",
@@ -603,7 +603,7 @@
     },
     {
       "id": "com_047",
-      "text": "Banking aids trade by:",
+      "text": "How does Banking aid in the process of trade?",
       "options": [
         "Advertising",
         "Transporting goods",
@@ -616,7 +616,7 @@
     },
     {
       "id": "com_048",
-      "text": "Insurance aids trade by:",
+      "text": "How does Insurance aid in the process of trade?",
       "options": [
         "Transporting goods",
         "Spreading risk",
@@ -629,7 +629,7 @@
     },
     {
       "id": "com_049",
-      "text": "Transport aids trade by:",
+      "text": "How does Transport aid in the process of trade?",
       "options": [
         "Moving goods to where needed",
         "Insuring goods",
@@ -642,7 +642,7 @@
     },
     {
       "id": "com_050",
-      "text": "Advertising aids trade by:",
+      "text": "How does Advertising aid in the process of trade?",
       "options": [
         "Insuring",
         "Banking",
@@ -655,7 +655,7 @@
     },
     {
       "id": "com_051",
-      "text": "Warehousing aids trade by:",
+      "text": "How does Warehousing aid in the process of trade?",
       "options": [
         "Advertising",
         "Producing goods",
@@ -668,7 +668,7 @@
     },
     {
       "id": "com_052",
-      "text": "Communication aids trade by:",
+      "text": "How does Communication aid in the process of trade?",
       "options": [
         "Making goods",
         "Linking buyers and sellers",
@@ -681,7 +681,7 @@
     },
     {
       "id": "com_053",
-      "text": "The modes of transport include:",
+      "text": "Which of the following best describes or relates to The modes of transport include?",
       "options": [
         "Road and rail only",
         "Air and sea only",
@@ -694,7 +694,7 @@
     },
     {
       "id": "com_054",
-      "text": "The fastest mode of transport is:",
+      "text": "Which of the following best describes or relates to The fastest mode of transport is?",
       "options": [
         "Sea",
         "Rail",
@@ -863,7 +863,7 @@
     },
     {
       "id": "com_067",
-      "text": "A partnership is governed by a:",
+      "text": "Which of the following best describes or relates to A partnership is governed by a?",
       "options": [
         "Cheque",
         "Deed of partnership",
@@ -928,7 +928,7 @@
     },
     {
       "id": "com_072",
-      "text": "A holding company is one that:",
+      "text": "Which of the following best describes A holding company?",
       "options": [
         "Produces goods",
         "Owns shares in other companies",
@@ -941,7 +941,7 @@
     },
     {
       "id": "com_073",
-      "text": "A cartel is a group of firms that:",
+      "text": "Which of the following best describes or relates to A cartel is a group of firms that?",
       "options": [
         "Agree to control prices/output",
         "Produce different goods",
@@ -954,7 +954,7 @@
     },
     {
       "id": "com_074",
-      "text": "A merger is the:",
+      "text": "Which of the following best describes A merger?",
       "options": [
         "Bankruptcy",
         "Sale of assets",
@@ -993,7 +993,7 @@
     },
     {
       "id": "com_077",
-      "text": "Borrowed capital is also called:",
+      "text": "Which of the following best describes or relates to Borrowed capital is also called?",
       "options": [
         "Loan capital",
         "Profit",
@@ -1032,7 +1032,7 @@
     },
     {
       "id": "com_080",
-      "text": "The interest paid on a loan is the:",
+      "text": "Which of the following best describes The interest paid on a loan?",
       "options": [
         "Principal",
         "Cost of borrowing",
@@ -1045,7 +1045,7 @@
     },
     {
       "id": "com_081",
-      "text": "The principal of a loan is the:",
+      "text": "Which of the following best describes The principal of a loan?",
       "options": [
         "Original amount borrowed",
         "Profit",
@@ -1110,7 +1110,7 @@
     },
     {
       "id": "com_086",
-      "text": "NACCIMA represents:",
+      "text": "Which of the following best describes or relates to NACCIMA represents?",
       "options": [
         "Farmers",
         "Banks",
@@ -1136,7 +1136,7 @@
     },
     {
       "id": "com_088",
-      "text": "Legal tender is money that:",
+      "text": "Which of the following best describes or relates to Legal tender is money that?",
       "options": [
         "Must be accepted for payment",
         "Can be refused",
@@ -1162,7 +1162,7 @@
     },
     {
       "id": "com_090",
-      "text": "The currency of Nigeria is the:",
+      "text": "Which of the following best describes The currency of Nigeria?",
       "options": [
         "Cedi",
         "Pound",
@@ -1201,7 +1201,7 @@
     },
     {
       "id": "com_093",
-      "text": "A fixed deposit account:",
+      "text": "Which of the following best describes or relates to A fixed deposit account?",
       "options": [
         "Locks money for a fixed period",
         "Is a current account",
@@ -1214,7 +1214,7 @@
     },
     {
       "id": "com_094",
-      "text": "Near money refers to assets:",
+      "text": "Which of the following best describes or relates to Near money refers to assets?",
       "options": [
         "That cannot be converted",
         "That are illegal",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": "com_095",
-      "text": "A stock exchange is a market for:",
+      "text": "What type of market is A stock exchange?",
       "options": [
         "Land",
         "Goods",
@@ -1253,7 +1253,7 @@
     },
     {
       "id": "com_097",
-      "text": "A share represents:",
+      "text": "Which of the following best describes or relates to A share represents?",
       "options": [
         "Ownership in a company",
         "A debt",
@@ -1318,7 +1318,7 @@
     },
     {
       "id": "com_102",
-      "text": "A dividend is the:",
+      "text": "Which of the following best describes A dividend?",
       "options": [
         "Loan",
         "Tax",
@@ -1331,7 +1331,7 @@
     },
     {
       "id": "com_103",
-      "text": "A bond is a:",
+      "text": "Which of the following best defines A bond?",
       "options": [
         "Stock",
         "Share",
@@ -1396,7 +1396,7 @@
     },
     {
       "id": "com_108",
-      "text": "Planning involves:",
+      "text": "Which of the following best describes Planning?",
       "options": [
         "Checking results",
         "Setting objectives and strategies",
@@ -1409,7 +1409,7 @@
     },
     {
       "id": "com_109",
-      "text": "Organising involves:",
+      "text": "Which of the following best describes Organising?",
       "options": [
         "Allocating resources and tasks",
         "Measuring results",
@@ -1422,7 +1422,7 @@
     },
     {
       "id": "com_110",
-      "text": "Controlling involves:",
+      "text": "Which of the following best describes Controlling?",
       "options": [
         "Hiring",
         "Planning",
@@ -1435,7 +1435,7 @@
     },
     {
       "id": "com_111",
-      "text": "Directing (leading) involves:",
+      "text": "Which of the following best describes Directing (leading)?",
       "options": [
         "Planning",
         "Setting goals",
@@ -1448,7 +1448,7 @@
     },
     {
       "id": "com_112",
-      "text": "Authority is the:",
+      "text": "Which of the following best describes Authority?",
       "options": [
         "Responsibility",
         "Right to give orders and make decisions",
@@ -1461,7 +1461,7 @@
     },
     {
       "id": "com_113",
-      "text": "Responsibility is the:",
+      "text": "Which of the following best describes Responsibility?",
       "options": [
         "Obligation to perform assigned duties",
         "Salary",
@@ -1474,7 +1474,7 @@
     },
     {
       "id": "com_114",
-      "text": "Delegation of authority means:",
+      "text": "What does \"Delegation of authority\" mean?",
       "options": [
         "Removing duties",
         "Firing staff",
@@ -1487,7 +1487,7 @@
     },
     {
       "id": "com_115",
-      "text": "The chain of command is the:",
+      "text": "Which of the following best describes The chain of command?",
       "options": [
         "Product list",
         "Salary scale",
@@ -1500,7 +1500,7 @@
     },
     {
       "id": "com_116",
-      "text": "Marketing is the process of:",
+      "text": "Which of the following best describes or relates to Marketing is the process of?",
       "options": [
         "Only selling",
         "Identifying and satisfying customer needs profitably",
@@ -1513,7 +1513,7 @@
     },
     {
       "id": "com_117",
-      "text": "The marketing mix consists of the:",
+      "text": "Which of the following best describes or relates to The marketing mix consists of the?",
       "options": [
         "3 Cs",
         "4 Ms",
@@ -1578,7 +1578,7 @@
     },
     {
       "id": "com_122",
-      "text": "A market segment is:",
+      "text": "Which of the following best describes or relates to A market segment is?",
       "options": [
         "A product",
         "A price",
@@ -1604,7 +1604,7 @@
     },
     {
       "id": "com_124",
-      "text": "Advertising is a form of:",
+      "text": "Which of the following best describes or relates to Advertising is a form of?",
       "options": [
         "Distribution",
         "Promotion",
@@ -1617,7 +1617,7 @@
     },
     {
       "id": "com_125",
-      "text": "Personal selling involves:",
+      "text": "Which of the following best describes Personal selling?",
       "options": [
         "Direct face-to-face selling",
         "Billboards",
@@ -1630,7 +1630,7 @@
     },
     {
       "id": "com_126",
-      "text": "Sales promotion includes:",
+      "text": "Which of the following best describes or relates to Sales promotion includes?",
       "options": [
         "Only billboards",
         "Only radio",
@@ -1656,7 +1656,7 @@
     },
     {
       "id": "com_128",
-      "text": "Consumer goods are goods bought by:",
+      "text": "Which of the following best describes or relates to Consumer goods are goods bought by?",
       "options": [
         "Firms",
         "Final consumers for personal use",
@@ -1669,7 +1669,7 @@
     },
     {
       "id": "com_129",
-      "text": "Industrial goods are bought by:",
+      "text": "Which of the following best describes or relates to Industrial goods are bought by?",
       "options": [
         "Firms for production",
         "Students",
@@ -1682,7 +1682,7 @@
     },
     {
       "id": "com_130",
-      "text": "A contract is a:",
+      "text": "Which of the following best defines A contract?",
       "options": [
         "Casual chat",
         "Receipt",
@@ -1708,7 +1708,7 @@
     },
     {
       "id": "com_132",
-      "text": "Consideration in a contract is:",
+      "text": "Which of the following best describes or relates to Consideration in a contract is?",
       "options": [
         "Kindness",
         "Something of value exchanged",
@@ -1721,7 +1721,7 @@
     },
     {
       "id": "com_133",
-      "text": "An offer is:",
+      "text": "Which of the following best describes or relates to An offer is?",
       "options": [
         "A proposal to enter a contract",
         "A receipt",
@@ -1734,7 +1734,7 @@
     },
     {
       "id": "com_134",
-      "text": "Acceptance is the:",
+      "text": "Which of the following best describes Acceptance?",
       "options": [
         "Receipt",
         "Delivery",
@@ -1760,7 +1760,7 @@
     },
     {
       "id": "com_136",
-      "text": "A patent protects:",
+      "text": "Which of the following best describes or relates to A patent protects?",
       "options": [
         "Inventions",
         "Trade names",
@@ -1773,7 +1773,7 @@
     },
     {
       "id": "com_137",
-      "text": "A trademark protects:",
+      "text": "Which of the following best describes or relates to A trademark protects?",
       "options": [
         "Brand names and logos",
         "Music",
@@ -1786,7 +1786,7 @@
     },
     {
       "id": "com_138",
-      "text": "Copyright protects:",
+      "text": "Which of the following best describes or relates to Copyright protects?",
       "options": [
         "Trade names",
         "Inventions only",
@@ -1799,7 +1799,7 @@
     },
     {
       "id": "com_139",
-      "text": "E-commerce is the:",
+      "text": "Which of the following best describes E-commerce?",
       "options": [
         "Wholesale trade",
         "Buying and selling via the internet",
@@ -1825,7 +1825,7 @@
     },
     {
       "id": "com_141",
-      "text": "An advantage of e-commerce is:",
+      "text": "Which of the following best describes or relates to An advantage of e-commerce is?",
       "options": [
         "Global reach and convenience",
         "Higher costs",
@@ -1851,7 +1851,7 @@
     },
     {
       "id": "com_143",
-      "text": "An ATM is used to:",
+      "text": "Which of the following best describes or relates to An ATM is used to?",
       "options": [
         "Store goods",
         "Make calls",
@@ -1864,7 +1864,7 @@
     },
     {
       "id": "com_144",
-      "text": "A POS terminal is used for:",
+      "text": "What is a POS terminal primarily used for in commerce?",
       "options": [
         "Printing",
         "Card payments at the point of sale",
@@ -1877,7 +1877,7 @@
     },
     {
       "id": "com_145",
-      "text": "The internet has made trade:",
+      "text": "Which of the following best describes or relates to The internet has made trade?",
       "options": [
         "Faster and more accessible",
         "Impossible",
@@ -1890,7 +1890,7 @@
     },
     {
       "id": "com_146",
-      "text": "The reward for labour is:",
+      "text": "What is the economic reward for labour?",
       "options": [
         "Interest",
         "Profit",
@@ -1903,7 +1903,7 @@
     },
     {
       "id": "com_147",
-      "text": "The reward for capital is:",
+      "text": "What is the economic reward for capital?",
       "options": [
         "Profit",
         "Wages",
@@ -1916,7 +1916,7 @@
     },
     {
       "id": "com_148",
-      "text": "The reward for enterprise is:",
+      "text": "What is the economic reward for enterprise?",
       "options": [
         "Rent",
         "Profit",
@@ -1929,7 +1929,7 @@
     },
     {
       "id": "com_149",
-      "text": "The reward for land is:",
+      "text": "What is the economic reward for land?",
       "options": [
         "Rent",
         "Profit",
@@ -1942,7 +1942,7 @@
     },
     {
       "id": "com_150",
-      "text": "A consumer is a person who:",
+      "text": "Which of the following best describes or relates to A consumer is a person who?",
       "options": [
         "Sells goods",
         "Transports goods",
@@ -1955,7 +1955,7 @@
     },
     {
       "id": "com_151",
-      "text": "A producer is a person who:",
+      "text": "Which of the following best describes or relates to A producer is a person who?",
       "options": [
         "Sells only",
         "Consumes",
@@ -1994,7 +1994,7 @@
     },
     {
       "id": "com_154",
-      "text": "A warehouse is a place for:",
+      "text": "Which of the following best describes or relates to A warehouse is a place for?",
       "options": [
         "Making goods",
         "Advertising",
@@ -2033,7 +2033,7 @@
     },
     {
       "id": "com_157",
-      "text": "A superstore is a:",
+      "text": "Which of the following best defines A superstore?",
       "options": [
         "Large retail store selling a wide range of goods",
         "Warehouse",
@@ -2046,7 +2046,7 @@
     },
     {
       "id": "com_158",
-      "text": "A supermarket is a:",
+      "text": "Which of the following best defines A supermarket?",
       "options": [
         "Warehouse",
         "Bank",
@@ -2059,7 +2059,7 @@
     },
     {
       "id": "com_159",
-      "text": "A hawker is a:",
+      "text": "Which of the following best defines A hawker?",
       "options": [
         "Banker",
         "Wholesaler",
@@ -2098,7 +2098,7 @@
     },
     {
       "id": "com_162",
-      "text": "CIF in foreign trade means:",
+      "text": "What does \"CIF in foreign trade\" mean?",
       "options": [
         "Cost Including Fee",
         "Credit Invoice Form",
@@ -2111,7 +2111,7 @@
     },
     {
       "id": "com_163",
-      "text": "FOB means:",
+      "text": "What does the abbreviation FOB mean?",
       "options": [
         "Full Order Billing",
         "Free on Board",
@@ -2124,7 +2124,7 @@
     },
     {
       "id": "com_164",
-      "text": "A letter of credit is issued by a:",
+      "text": "Which of the following best describes or relates to A letter of credit is issued by a?",
       "options": [
         "Seller",
         "Bank",
@@ -2163,7 +2163,7 @@
     },
     {
       "id": "com_167",
-      "text": "The main aim of a business is to:",
+      "text": "Which of the following best describes or relates to The main aim of a business is to?",
       "options": [
         "Employ no one",
         "Lose money",
@@ -2176,7 +2176,7 @@
     },
     {
       "id": "com_168",
-      "text": "The excess of revenue over cost is:",
+      "text": "Which of the following best describes or relates to The excess of revenue over cost is?",
       "options": [
         "Loss",
         "Profit",
@@ -2189,7 +2189,7 @@
     },
     {
       "id": "com_169",
-      "text": "The excess of cost over revenue is:",
+      "text": "Which of the following best describes or relates to The excess of cost over revenue is?",
       "options": [
         "Loss",
         "Capital",
@@ -2241,7 +2241,7 @@
     },
     {
       "id": "com_173",
-      "text": "The assets of a business are its:",
+      "text": "Which of the following best describes or relates to The assets of a business are its?",
       "options": [
         "Resources/property owned",
         "Losses",
@@ -2267,7 +2267,7 @@
     },
     {
       "id": "com_175",
-      "text": "Capital employed in a business is:",
+      "text": "Which of the following best describes or relates to Capital employed in a business is?",
       "options": [
         "Only profit",
         "Only cash",
@@ -2280,7 +2280,7 @@
     },
     {
       "id": "com_176",
-      "text": "Working capital is:",
+      "text": "Which of the following best describes or relates to Working capital is?",
       "options": [
         "Fixed assets",
         "Current assets minus current liabilities",
@@ -2293,7 +2293,7 @@
     },
     {
       "id": "com_177",
-      "text": "Fixed assets are assets:",
+      "text": "Which of the following best describes or relates to Fixed assets are assets?",
       "options": [
         "Held for long-term use (land, machinery)",
         "Cash",
@@ -2306,7 +2306,7 @@
     },
     {
       "id": "com_178",
-      "text": "Current assets are assets:",
+      "text": "Which of the following best describes or relates to Current assets are assets?",
       "options": [
         "Land",
         "Buildings",
@@ -2332,7 +2332,7 @@
     },
     {
       "id": "com_180",
-      "text": "Turnover (sales) refers to the:",
+      "text": "Which of the following best describes or relates to Turnover (sales) refers to the?",
       "options": [
         "Total value of sales",
         "Total profit",
@@ -2345,7 +2345,7 @@
     },
     {
       "id": "com_181",
-      "text": "The margin (mark-up) is the:",
+      "text": "Which of the following best describes The margin (mark-up)?",
       "options": [
         "Profit added to cost",
         "Tax",
@@ -2449,7 +2449,7 @@
     },
     {
       "id": "com_189",
-      "text": "A pro forma invoice is sent:",
+      "text": "Which of the following best describes or relates to A pro forma invoice is sent?",
       "options": [
         "Before delivery to indicate cost",
         "After delivery",
@@ -2514,7 +2514,7 @@
     },
     {
       "id": "com_194",
-      "text": "The owners of a company are the:",
+      "text": "Which of the following best describes or relates to The owners of a company are the?",
       "options": [
         "Customers",
         "Suppliers",
@@ -2566,7 +2566,7 @@
     },
     {
       "id": "com_198",
-      "text": "A business that is insolvent:",
+      "text": "Which of the following best describes or relates to A business that is insolvent?",
       "options": [
         "Has no assets",
         "Is new",
@@ -2579,7 +2579,7 @@
     },
     {
       "id": "com_199",
-      "text": "Bankruptcy applies to:",
+      "text": "Which of the following best describes or relates to Bankruptcy applies to?",
       "options": [
         "Banks",
         "Companies",
@@ -2592,7 +2592,7 @@
     },
     {
       "id": "com_200",
-      "text": "Liquidation of a company means:",
+      "text": "What does \"Liquidation of a company\" mean?",
       "options": [
         "Starting up",
         "Winding up/closure",

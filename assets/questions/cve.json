@@ -18,7 +18,7 @@
     },
     {
       "id": "cve_002",
-      "text": "The Nigerian flag green represents:",
+      "text": "What does the green colour in the Nigerian national flag represent?",
       "options": [
         "Blood",
         "Sun",
@@ -31,7 +31,7 @@
     },
     {
       "id": "cve_003",
-      "text": "Human rights are:",
+      "text": "What is the meaning of human rights?",
       "options": [
         "Temporary gifts",
         "Privileges for leaders",
@@ -44,7 +44,7 @@
     },
     {
       "id": "cve_004",
-      "text": "Rule of law means:",
+      "text": "What does the principle of rule of law mean?",
       "options": [
         "Law applies equally to all",
         "Leaders above law",
@@ -57,7 +57,7 @@
     },
     {
       "id": "cve_005",
-      "text": "Drug abuse is:",
+      "text": "What is the definition of drug abuse?",
       "options": [
         "Misuse for non-medical purposes",
         "Prescribed use",
@@ -70,7 +70,7 @@
     },
     {
       "id": "cve_006",
-      "text": "FRSC means:",
+      "text": "What does the acronym FRSC stand for in Nigeria?",
       "options": [
         "Only road",
         "Only safety",
@@ -83,7 +83,7 @@
     },
     {
       "id": "cve_007",
-      "text": "Traffic light red means:",
+      "text": "What does a red traffic light signal indicate?",
       "options": [
         "Park",
         "Stop",
@@ -109,7 +109,7 @@
     },
     {
       "id": "cve_009",
-      "text": "Political apathy means:",
+      "text": "What is the meaning of political apathy?",
       "options": [
         "Active participation",
         "Voting always",
@@ -122,7 +122,7 @@
     },
     {
       "id": "cve_010",
-      "text": "INEC stands for:",
+      "text": "What does the acronym INEC stand for in Nigeria?",
       "options": [
         "International Network",
         "No meaning",
@@ -135,7 +135,7 @@
     },
     {
       "id": "cve_011",
-      "text": "A good leader should be:",
+      "text": "Which quality should a good leader possess?",
       "options": [
         "Dictatorial",
         "Honest and accountable",
@@ -148,7 +148,7 @@
     },
     {
       "id": "cve_012",
-      "text": "NYSC was established to promote:",
+      "text": "What was the primary purpose of establishing the NYSC?",
       "options": [
         "National unity",
         "Tribalism",
@@ -174,7 +174,7 @@
     },
     {
       "id": "cve_014",
-      "text": "EFCC fights:",
+      "text": "What does the EFCC fight against in Nigeria?",
       "options": [
         "Drug",
         "No corruption",
@@ -187,7 +187,7 @@
     },
     {
       "id": "cve_015",
-      "text": "The Nigerian flag was designed by:",
+      "text": "Who designed the Nigerian national flag?",
       "options": [
         "Bello",
         "Taiwo Akinkunmi",
@@ -200,7 +200,7 @@
     },
     {
       "id": "cve_016",
-      "text": "The national anthem was adopted in:",
+      "text": "In what year was the Nigerian national anthem adopted?",
       "options": [
         "1978",
         "1960",
@@ -213,7 +213,7 @@
     },
     {
       "id": "cve_017",
-      "text": "The Senate has:",
+      "text": "How many members does the Nigerian Senate have?",
       "options": [
         "360",
         "100",
@@ -226,7 +226,7 @@
     },
     {
       "id": "cve_018",
-      "text": "The House has:",
+      "text": "How many members does the Nigerian House of Representatives have?",
       "options": [
         "100",
         "50",
@@ -252,7 +252,7 @@
     },
     {
       "id": "cve_020",
-      "text": "Patriotism means:",
+      "text": "What is the full meaning of patriotism as a concept?",
       "options": [
         "Love for country",
         "Hatred",
@@ -278,7 +278,7 @@
     },
     {
       "id": "cve_022",
-      "text": "The Nigerian flag green represents: (variant 22)",
+      "text": "What does the green colour in the Nigerian national flag represent? (variant 22)",
       "options": [
         "Blood",
         "Sun",
@@ -291,7 +291,7 @@
     },
     {
       "id": "cve_023",
-      "text": "Human rights are: (variant 23)",
+      "text": "What is the meaning of human rights?",
       "options": [
         "Temporary gifts",
         "Privileges for leaders",
@@ -304,7 +304,7 @@
     },
     {
       "id": "cve_024",
-      "text": "Rule of law means: (variant 24)",
+      "text": "What does the principle of rule of law mean? (variant 24)",
       "options": [
         "Law applies equally to all",
         "Leaders above law",
@@ -317,7 +317,7 @@
     },
     {
       "id": "cve_025",
-      "text": "Drug abuse is: (variant 25)",
+      "text": "What is the definition of drug abuse? (variant 25?",
       "options": [
         "Misuse for non-medical purposes",
         "Prescribed use",
@@ -330,7 +330,7 @@
     },
     {
       "id": "cve_026",
-      "text": "FRSC means: (variant 26)",
+      "text": "What does the acronym FRSC stand for in Nigeria? (variant 26)",
       "options": [
         "Only road",
         "Only safety",
@@ -343,7 +343,7 @@
     },
     {
       "id": "cve_027",
-      "text": "Traffic light red means: (variant 27)",
+      "text": "What does a red traffic light signal indicate? (variant 27)",
       "options": [
         "Park",
         "Stop",
@@ -369,7 +369,7 @@
     },
     {
       "id": "cve_029",
-      "text": "Political apathy means: (variant 29)",
+      "text": "What does political apathy mean? (variant 29)",
       "options": [
         "Active participation",
         "Voting always",
@@ -382,7 +382,7 @@
     },
     {
       "id": "cve_030",
-      "text": "INEC stands for: (variant 30)",
+      "text": "What does the acronym INEC stand for in Nigeria? (variant 30)",
       "options": [
         "International Network",
         "No meaning",
@@ -395,7 +395,7 @@
     },
     {
       "id": "cve_031",
-      "text": "A good leader should be: (variant 31)",
+      "text": "Which quality should a good leader possess? (variant 31)",
       "options": [
         "Dictatorial",
         "Honest and accountable",
@@ -408,7 +408,7 @@
     },
     {
       "id": "cve_032",
-      "text": "NYSC was established to promote: (variant 32)",
+      "text": "What was the primary purpose of establishing the NYSC? (variant 32)",
       "options": [
         "National unity",
         "Tribalism",
@@ -434,7 +434,7 @@
     },
     {
       "id": "cve_034",
-      "text": "EFCC fights: (variant 34)",
+      "text": "What does the EFCC fight against in Nigeria? (variant 34)",
       "options": [
         "Drug",
         "No corruption",
@@ -447,7 +447,7 @@
     },
     {
       "id": "cve_035",
-      "text": "The Nigerian flag was designed by: (variant 35)",
+      "text": "Who designed the Nigerian national flag? (variant 35)",
       "options": [
         "Bello",
         "Taiwo Akinkunmi",
@@ -460,7 +460,7 @@
     },
     {
       "id": "cve_036",
-      "text": "The national anthem was adopted in: (variant 36)",
+      "text": "In what year was the Nigerian national anthem adopted? (variant 36)",
       "options": [
         "1978",
         "1960",
@@ -473,7 +473,7 @@
     },
     {
       "id": "cve_037",
-      "text": "The Senate has: (variant 37)",
+      "text": "How many members does the Nigerian Senate have? (variant 37)",
       "options": [
         "360",
         "100",
@@ -486,7 +486,7 @@
     },
     {
       "id": "cve_038",
-      "text": "The House has: (variant 38)",
+      "text": "How many members does the Nigerian House of Representatives have? (variant 38)",
       "options": [
         "100",
         "50",
@@ -512,7 +512,7 @@
     },
     {
       "id": "cve_040",
-      "text": "Patriotism means: (variant 40)",
+      "text": "What does patriotism mean? (variant 40)",
       "options": [
         "Love for country",
         "Hatred",
@@ -538,7 +538,7 @@
     },
     {
       "id": "cve_042",
-      "text": "The Nigerian flag green represents: (variant 42)",
+      "text": "What does the green colour in the Nigerian national flag represent? (variant 42)",
       "options": [
         "Blood",
         "Sun",
@@ -551,7 +551,7 @@
     },
     {
       "id": "cve_043",
-      "text": "Human rights are: (variant 43)",
+      "text": "What is the meaning of human rights?",
       "options": [
         "Temporary gifts",
         "Privileges for leaders",
@@ -564,7 +564,7 @@
     },
     {
       "id": "cve_044",
-      "text": "Rule of law means: (variant 44)",
+      "text": "What does the principle of rule of law mean? (variant 44)",
       "options": [
         "Law applies equally to all",
         "Leaders above law",
@@ -577,7 +577,7 @@
     },
     {
       "id": "cve_045",
-      "text": "Drug abuse is: (variant 45)",
+      "text": "What is the definition of drug abuse? (variant 45?",
       "options": [
         "Misuse for non-medical purposes",
         "Prescribed use",
@@ -590,7 +590,7 @@
     },
     {
       "id": "cve_046",
-      "text": "FRSC means: (variant 46)",
+      "text": "What does the acronym FRSC stand for in Nigeria? (variant 46)",
       "options": [
         "Only road",
         "Only safety",
@@ -603,7 +603,7 @@
     },
     {
       "id": "cve_047",
-      "text": "Traffic light red means: (variant 47)",
+      "text": "What does a red traffic light signal indicate? (variant 47)",
       "options": [
         "Park",
         "Stop",
@@ -629,7 +629,7 @@
     },
     {
       "id": "cve_049",
-      "text": "Political apathy means: (variant 49)",
+      "text": "What does political apathy mean? (variant 49)",
       "options": [
         "Active participation",
         "Voting always",
@@ -642,7 +642,7 @@
     },
     {
       "id": "cve_050",
-      "text": "INEC stands for: (variant 50)",
+      "text": "What does the acronym INEC stand for in Nigeria? (variant 50)",
       "options": [
         "International Network",
         "No meaning",
@@ -655,7 +655,7 @@
     },
     {
       "id": "cve_051",
-      "text": "A good leader should be: (variant 51)",
+      "text": "Which quality should a good leader possess? (variant 51)",
       "options": [
         "Dictatorial",
         "Honest and accountable",
@@ -668,7 +668,7 @@
     },
     {
       "id": "cve_052",
-      "text": "NYSC was established to promote: (variant 52)",
+      "text": "What was the primary purpose of establishing the NYSC? (variant 52)",
       "options": [
         "National unity",
         "Tribalism",
@@ -694,7 +694,7 @@
     },
     {
       "id": "cve_054",
-      "text": "EFCC fights: (variant 54)",
+      "text": "What does the EFCC fight against in Nigeria? (variant 54)",
       "options": [
         "Drug",
         "No corruption",
@@ -707,7 +707,7 @@
     },
     {
       "id": "cve_055",
-      "text": "The Nigerian flag was designed by: (variant 55)",
+      "text": "Who designed the Nigerian national flag? (variant 55)",
       "options": [
         "Bello",
         "Taiwo Akinkunmi",
@@ -720,7 +720,7 @@
     },
     {
       "id": "cve_056",
-      "text": "The national anthem was adopted in: (variant 56)",
+      "text": "In what year was the Nigerian national anthem adopted? (variant 56)",
       "options": [
         "1978",
         "1960",
@@ -733,7 +733,7 @@
     },
     {
       "id": "cve_057",
-      "text": "The Senate has: (variant 57)",
+      "text": "How many members does the Nigerian Senate have? (variant 57)",
       "options": [
         "360",
         "100",
@@ -746,7 +746,7 @@
     },
     {
       "id": "cve_058",
-      "text": "The House has: (variant 58)",
+      "text": "How many members does the Nigerian House of Representatives have? (variant 58)",
       "options": [
         "100",
         "50",
@@ -772,7 +772,7 @@
     },
     {
       "id": "cve_060",
-      "text": "Patriotism means: (variant 60)",
+      "text": "What does patriotism mean? (variant 60)",
       "options": [
         "Love for country",
         "Hatred",
@@ -798,7 +798,7 @@
     },
     {
       "id": "cve_062",
-      "text": "The Nigerian flag green represents: (variant 62)",
+      "text": "What does the green colour in the Nigerian national flag represent? (variant 62)",
       "options": [
         "Blood",
         "Sun",
@@ -811,7 +811,7 @@
     },
     {
       "id": "cve_063",
-      "text": "Human rights are: (variant 63)",
+      "text": "What is the meaning of human rights?",
       "options": [
         "Temporary gifts",
         "Privileges for leaders",
@@ -824,7 +824,7 @@
     },
     {
       "id": "cve_064",
-      "text": "Rule of law means: (variant 64)",
+      "text": "What does the principle of rule of law mean? (variant 64)",
       "options": [
         "Law applies equally to all",
         "Leaders above law",
@@ -837,7 +837,7 @@
     },
     {
       "id": "cve_065",
-      "text": "Drug abuse is: (variant 65)",
+      "text": "What is the definition of drug abuse? (variant 65?",
       "options": [
         "Misuse for non-medical purposes",
         "Prescribed use",
@@ -850,7 +850,7 @@
     },
     {
       "id": "cve_066",
-      "text": "FRSC means: (variant 66)",
+      "text": "What does the acronym FRSC stand for in Nigeria? (variant 66)",
       "options": [
         "Only road",
         "Only safety",
@@ -863,7 +863,7 @@
     },
     {
       "id": "cve_067",
-      "text": "Traffic light red means: (variant 67)",
+      "text": "What does a red traffic light signal indicate? (variant 67)",
       "options": [
         "Park",
         "Stop",
@@ -889,7 +889,7 @@
     },
     {
       "id": "cve_069",
-      "text": "Political apathy means: (variant 69)",
+      "text": "What does political apathy mean? (variant 69)",
       "options": [
         "Active participation",
         "Voting always",
@@ -902,7 +902,7 @@
     },
     {
       "id": "cve_070",
-      "text": "INEC stands for: (variant 70)",
+      "text": "What does the acronym INEC stand for in Nigeria? (variant 70)",
       "options": [
         "International Network",
         "No meaning",
@@ -915,7 +915,7 @@
     },
     {
       "id": "cve_071",
-      "text": "A good leader should be: (variant 71)",
+      "text": "Which quality should a good leader possess? (variant 71)",
       "options": [
         "Dictatorial",
         "Honest and accountable",
@@ -928,7 +928,7 @@
     },
     {
       "id": "cve_072",
-      "text": "NYSC was established to promote: (variant 72)",
+      "text": "What was the primary purpose of establishing the NYSC? (variant 72)",
       "options": [
         "National unity",
         "Tribalism",
@@ -954,7 +954,7 @@
     },
     {
       "id": "cve_074",
-      "text": "EFCC fights: (variant 74)",
+      "text": "What does the EFCC fight against in Nigeria? (variant 74)",
       "options": [
         "Drug",
         "No corruption",
@@ -967,7 +967,7 @@
     },
     {
       "id": "cve_075",
-      "text": "The Nigerian flag was designed by: (variant 75)",
+      "text": "Who designed the Nigerian national flag? (variant 75)",
       "options": [
         "Bello",
         "Taiwo Akinkunmi",
@@ -980,7 +980,7 @@
     },
     {
       "id": "cve_076",
-      "text": "The national anthem was adopted in: (variant 76)",
+      "text": "In what year was the Nigerian national anthem adopted? (variant 76)",
       "options": [
         "1978",
         "1960",
@@ -993,7 +993,7 @@
     },
     {
       "id": "cve_077",
-      "text": "The Senate has: (variant 77)",
+      "text": "How many members does the Nigerian Senate have? (variant 77)",
       "options": [
         "360",
         "100",
@@ -1006,7 +1006,7 @@
     },
     {
       "id": "cve_078",
-      "text": "The House has: (variant 78)",
+      "text": "How many members does the Nigerian House of Representatives have? (variant 78)",
       "options": [
         "100",
         "50",
@@ -1032,7 +1032,7 @@
     },
     {
       "id": "cve_080",
-      "text": "Patriotism means: (variant 80)",
+      "text": "What does patriotism mean? (variant 80)",
       "options": [
         "Love for country",
         "Hatred",
@@ -1058,7 +1058,7 @@
     },
     {
       "id": "cve_082",
-      "text": "The Nigerian flag green represents: (variant 82)",
+      "text": "What does the green colour in the Nigerian national flag represent? (variant 82)",
       "options": [
         "Blood",
         "Sun",
@@ -1071,7 +1071,7 @@
     },
     {
       "id": "cve_083",
-      "text": "Human rights are: (variant 83)",
+      "text": "What is the meaning of human rights?",
       "options": [
         "Temporary gifts",
         "Privileges for leaders",
@@ -1084,7 +1084,7 @@
     },
     {
       "id": "cve_084",
-      "text": "Rule of law means: (variant 84)",
+      "text": "What does the principle of rule of law mean? (variant 84)",
       "options": [
         "Law applies equally to all",
         "Leaders above law",
@@ -1097,7 +1097,7 @@
     },
     {
       "id": "cve_085",
-      "text": "Drug abuse is: (variant 85)",
+      "text": "What is the definition of drug abuse? (variant 85?",
       "options": [
         "Misuse for non-medical purposes",
         "Prescribed use",
@@ -1110,7 +1110,7 @@
     },
     {
       "id": "cve_086",
-      "text": "FRSC means: (variant 86)",
+      "text": "What does the acronym FRSC stand for in Nigeria? (variant 86)",
       "options": [
         "Only road",
         "Only safety",
@@ -1123,7 +1123,7 @@
     },
     {
       "id": "cve_087",
-      "text": "Traffic light red means: (variant 87)",
+      "text": "What does a red traffic light signal indicate? (variant 87)",
       "options": [
         "Park",
         "Stop",
@@ -1149,7 +1149,7 @@
     },
     {
       "id": "cve_089",
-      "text": "Political apathy means: (variant 89)",
+      "text": "What does political apathy mean? (variant 89)",
       "options": [
         "Active participation",
         "Voting always",
@@ -1162,7 +1162,7 @@
     },
     {
       "id": "cve_090",
-      "text": "INEC stands for: (variant 90)",
+      "text": "What does the acronym INEC stand for in Nigeria? (variant 90)",
       "options": [
         "International Network",
         "No meaning",
@@ -1175,7 +1175,7 @@
     },
     {
       "id": "cve_091",
-      "text": "A good leader should be: (variant 91)",
+      "text": "Which quality should a good leader possess? (variant 91)",
       "options": [
         "Dictatorial",
         "Honest and accountable",
@@ -1188,7 +1188,7 @@
     },
     {
       "id": "cve_092",
-      "text": "NYSC was established to promote: (variant 92)",
+      "text": "What was the primary purpose of establishing the NYSC? (variant 92)",
       "options": [
         "National unity",
         "Tribalism",
@@ -1214,7 +1214,7 @@
     },
     {
       "id": "cve_094",
-      "text": "EFCC fights: (variant 94)",
+      "text": "What does the EFCC fight against in Nigeria? (variant 94)",
       "options": [
         "Drug",
         "No corruption",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": "cve_095",
-      "text": "The Nigerian flag was designed by: (variant 95)",
+      "text": "Who designed the Nigerian national flag? (variant 95)",
       "options": [
         "Bello",
         "Taiwo Akinkunmi",
@@ -1240,7 +1240,7 @@
     },
     {
       "id": "cve_096",
-      "text": "The national anthem was adopted in: (variant 96)",
+      "text": "In what year was the Nigerian national anthem adopted? (variant 96)",
       "options": [
         "1978",
         "1960",
@@ -1253,7 +1253,7 @@
     },
     {
       "id": "cve_097",
-      "text": "The Senate has: (variant 97)",
+      "text": "How many members does the Nigerian Senate have? (variant 97)",
       "options": [
         "360",
         "100",
@@ -1266,7 +1266,7 @@
     },
     {
       "id": "cve_098",
-      "text": "The House has: (variant 98)",
+      "text": "How many members does the Nigerian House of Representatives have? (variant 98)",
       "options": [
         "100",
         "50",
@@ -1292,7 +1292,7 @@
     },
     {
       "id": "cve_100",
-      "text": "Patriotism means: (variant 100)",
+      "text": "What does patriotism mean? (variant 100)",
       "options": [
         "Love for country",
         "Hatred",
@@ -1318,7 +1318,7 @@
     },
     {
       "id": "cve_102",
-      "text": "The Nigerian flag green represents: (variant 102)",
+      "text": "What does the green colour in the Nigerian national flag represent? (variant 102)",
       "options": [
         "Blood",
         "Sun",
@@ -1331,7 +1331,7 @@
     },
     {
       "id": "cve_103",
-      "text": "Human rights are: (variant 103)",
+      "text": "What are human rights? (variant 103)",
       "options": [
         "Temporary gifts",
         "Privileges for leaders",
@@ -1344,7 +1344,7 @@
     },
     {
       "id": "cve_104",
-      "text": "Rule of law means: (variant 104)",
+      "text": "What does the principle of rule of law mean? (variant 104)",
       "options": [
         "Law applies equally to all",
         "Leaders above law",
@@ -1357,7 +1357,7 @@
     },
     {
       "id": "cve_105",
-      "text": "Drug abuse is: (variant 105)",
+      "text": "What is the definition of drug abuse? (variant 105?",
       "options": [
         "Misuse for non-medical purposes",
         "Prescribed use",
@@ -1370,7 +1370,7 @@
     },
     {
       "id": "cve_106",
-      "text": "FRSC means: (variant 106)",
+      "text": "What does the acronym FRSC stand for in Nigeria? (variant 106)",
       "options": [
         "Only road",
         "Only safety",
@@ -1383,7 +1383,7 @@
     },
     {
       "id": "cve_107",
-      "text": "Traffic light red means: (variant 107)",
+      "text": "What does a red traffic light signal indicate? (variant 107)",
       "options": [
         "Park",
         "Stop",
@@ -1409,7 +1409,7 @@
     },
     {
       "id": "cve_109",
-      "text": "Political apathy means: (variant 109)",
+      "text": "What does political apathy mean? (variant 109)",
       "options": [
         "Active participation",
         "Voting always",
@@ -1422,7 +1422,7 @@
     },
     {
       "id": "cve_110",
-      "text": "INEC stands for: (variant 110)",
+      "text": "What does the acronym INEC stand for in Nigeria? (variant 110)",
       "options": [
         "International Network",
         "No meaning",
@@ -1435,7 +1435,7 @@
     },
     {
       "id": "cve_111",
-      "text": "A good leader should be: (variant 111)",
+      "text": "Which quality should a good leader possess? (variant 111)",
       "options": [
         "Dictatorial",
         "Honest and accountable",
@@ -1448,7 +1448,7 @@
     },
     {
       "id": "cve_112",
-      "text": "NYSC was established to promote: (variant 112)",
+      "text": "What was the primary purpose of establishing the NYSC? (variant 112)",
       "options": [
         "National unity",
         "Tribalism",
@@ -1474,7 +1474,7 @@
     },
     {
       "id": "cve_114",
-      "text": "EFCC fights: (variant 114)",
+      "text": "What does the EFCC fight against in Nigeria? (variant 114)",
       "options": [
         "Drug",
         "No corruption",
@@ -1487,7 +1487,7 @@
     },
     {
       "id": "cve_115",
-      "text": "The Nigerian flag was designed by: (variant 115)",
+      "text": "Who designed the Nigerian national flag? (variant 115)",
       "options": [
         "Bello",
         "Taiwo Akinkunmi",
@@ -1500,7 +1500,7 @@
     },
     {
       "id": "cve_116",
-      "text": "The national anthem was adopted in: (variant 116)",
+      "text": "In what year was the Nigerian national anthem adopted? (variant 116)",
       "options": [
         "1978",
         "1960",
@@ -1513,7 +1513,7 @@
     },
     {
       "id": "cve_117",
-      "text": "The Senate has: (variant 117)",
+      "text": "How many members does the Nigerian Senate have? (variant 117)",
       "options": [
         "360",
         "100",
@@ -1526,7 +1526,7 @@
     },
     {
       "id": "cve_118",
-      "text": "The House has: (variant 118)",
+      "text": "How many members does the Nigerian House of Representatives have? (variant 118)",
       "options": [
         "100",
         "50",
@@ -1552,7 +1552,7 @@
     },
     {
       "id": "cve_120",
-      "text": "Patriotism means: (variant 120)",
+      "text": "What does patriotism mean? (variant 120)",
       "options": [
         "Love for country",
         "Hatred",
@@ -1578,7 +1578,7 @@
     },
     {
       "id": "cve_122",
-      "text": "The Nigerian flag green represents: (variant 122)",
+      "text": "What does the green colour in the Nigerian national flag represent? (variant 122)",
       "options": [
         "Blood",
         "Sun",
@@ -1591,7 +1591,7 @@
     },
     {
       "id": "cve_123",
-      "text": "Human rights are: (variant 123)",
+      "text": "What are human rights? (variant 123)",
       "options": [
         "Temporary gifts",
         "Privileges for leaders",
@@ -1604,7 +1604,7 @@
     },
     {
       "id": "cve_124",
-      "text": "Rule of law means: (variant 124)",
+      "text": "What does the principle of rule of law mean? (variant 124)",
       "options": [
         "Law applies equally to all",
         "Leaders above law",
@@ -1617,7 +1617,7 @@
     },
     {
       "id": "cve_125",
-      "text": "Drug abuse is: (variant 125)",
+      "text": "What is the definition of drug abuse? (variant 125?",
       "options": [
         "Misuse for non-medical purposes",
         "Prescribed use",
@@ -1630,7 +1630,7 @@
     },
     {
       "id": "cve_126",
-      "text": "FRSC means: (variant 126)",
+      "text": "What does the acronym FRSC stand for in Nigeria? (variant 126)",
       "options": [
         "Only road",
         "Only safety",
@@ -1643,7 +1643,7 @@
     },
     {
       "id": "cve_127",
-      "text": "Traffic light red means: (variant 127)",
+      "text": "What does a red traffic light signal indicate? (variant 127)",
       "options": [
         "Park",
         "Stop",
@@ -1669,7 +1669,7 @@
     },
     {
       "id": "cve_129",
-      "text": "Political apathy means: (variant 129)",
+      "text": "What does political apathy mean? (variant 129)",
       "options": [
         "Active participation",
         "Voting always",
@@ -1682,7 +1682,7 @@
     },
     {
       "id": "cve_130",
-      "text": "INEC stands for: (variant 130)",
+      "text": "What does the acronym INEC stand for in Nigeria? (variant 130)",
       "options": [
         "International Network",
         "No meaning",
@@ -1695,7 +1695,7 @@
     },
     {
       "id": "cve_131",
-      "text": "A good leader should be: (variant 131)",
+      "text": "Which quality should a good leader possess? (variant 131)",
       "options": [
         "Dictatorial",
         "Honest and accountable",
@@ -1708,7 +1708,7 @@
     },
     {
       "id": "cve_132",
-      "text": "NYSC was established to promote: (variant 132)",
+      "text": "What was the primary purpose of establishing the NYSC? (variant 132)",
       "options": [
         "National unity",
         "Tribalism",
@@ -1734,7 +1734,7 @@
     },
     {
       "id": "cve_134",
-      "text": "EFCC fights: (variant 134)",
+      "text": "What does the EFCC fight against in Nigeria? (variant 134)",
       "options": [
         "Drug",
         "No corruption",
@@ -1747,7 +1747,7 @@
     },
     {
       "id": "cve_135",
-      "text": "The Nigerian flag was designed by: (variant 135)",
+      "text": "Who designed the Nigerian national flag? (variant 135)",
       "options": [
         "Bello",
         "Taiwo Akinkunmi",
@@ -1760,7 +1760,7 @@
     },
     {
       "id": "cve_136",
-      "text": "The national anthem was adopted in: (variant 136)",
+      "text": "In what year was the Nigerian national anthem adopted? (variant 136)",
       "options": [
         "1978",
         "1960",
@@ -1773,7 +1773,7 @@
     },
     {
       "id": "cve_137",
-      "text": "The Senate has: (variant 137)",
+      "text": "How many members does the Nigerian Senate have? (variant 137)",
       "options": [
         "360",
         "100",
@@ -1786,7 +1786,7 @@
     },
     {
       "id": "cve_138",
-      "text": "The House has: (variant 138)",
+      "text": "How many members does the Nigerian House of Representatives have? (variant 138)",
       "options": [
         "100",
         "50",
@@ -1812,7 +1812,7 @@
     },
     {
       "id": "cve_140",
-      "text": "Patriotism means: (variant 140)",
+      "text": "What does patriotism mean? (variant 140)",
       "options": [
         "Love for country",
         "Hatred",
@@ -1838,7 +1838,7 @@
     },
     {
       "id": "cve_142",
-      "text": "The Nigerian flag green represents: (variant 142)",
+      "text": "What does the green colour in the Nigerian national flag represent? (variant 142)",
       "options": [
         "Blood",
         "Sun",
@@ -1851,7 +1851,7 @@
     },
     {
       "id": "cve_143",
-      "text": "Human rights are: (variant 143)",
+      "text": "What are human rights? (variant 143)",
       "options": [
         "Temporary gifts",
         "Privileges for leaders",
@@ -1864,7 +1864,7 @@
     },
     {
       "id": "cve_144",
-      "text": "Rule of law means: (variant 144)",
+      "text": "What does the principle of rule of law mean? (variant 144)",
       "options": [
         "Law applies equally to all",
         "Leaders above law",
@@ -1877,7 +1877,7 @@
     },
     {
       "id": "cve_145",
-      "text": "Drug abuse is: (variant 145)",
+      "text": "What is the definition of drug abuse? (variant 145?",
       "options": [
         "Misuse for non-medical purposes",
         "Prescribed use",
@@ -1890,7 +1890,7 @@
     },
     {
       "id": "cve_146",
-      "text": "FRSC means: (variant 146)",
+      "text": "What does the acronym FRSC stand for in Nigeria? (variant 146)",
       "options": [
         "Only road",
         "Only safety",
@@ -1903,7 +1903,7 @@
     },
     {
       "id": "cve_147",
-      "text": "Traffic light red means: (variant 147)",
+      "text": "What does a red traffic light signal indicate? (variant 147)",
       "options": [
         "Park",
         "Stop",
@@ -1929,7 +1929,7 @@
     },
     {
       "id": "cve_149",
-      "text": "Political apathy means: (variant 149)",
+      "text": "What does political apathy mean? (variant 149)",
       "options": [
         "Active participation",
         "Voting always",
@@ -1942,7 +1942,7 @@
     },
     {
       "id": "cve_150",
-      "text": "INEC stands for: (variant 150)",
+      "text": "What does the acronym INEC stand for in Nigeria? (variant 150)",
       "options": [
         "International Network",
         "No meaning",
@@ -1955,7 +1955,7 @@
     },
     {
       "id": "cve_151",
-      "text": "A good leader should be: (variant 151)",
+      "text": "Which quality should a good leader possess? (variant 151)",
       "options": [
         "Dictatorial",
         "Honest and accountable",
@@ -1968,7 +1968,7 @@
     },
     {
       "id": "cve_152",
-      "text": "NYSC was established to promote: (variant 152)",
+      "text": "What was the primary purpose of establishing the NYSC? (variant 152)",
       "options": [
         "National unity",
         "Tribalism",
@@ -1994,7 +1994,7 @@
     },
     {
       "id": "cve_154",
-      "text": "EFCC fights: (variant 154)",
+      "text": "What does the EFCC fight against in Nigeria? (variant 154)",
       "options": [
         "Drug",
         "No corruption",
@@ -2007,7 +2007,7 @@
     },
     {
       "id": "cve_155",
-      "text": "The Nigerian flag was designed by: (variant 155)",
+      "text": "Who designed the Nigerian national flag? (variant 155)",
       "options": [
         "Bello",
         "Taiwo Akinkunmi",
@@ -2020,7 +2020,7 @@
     },
     {
       "id": "cve_156",
-      "text": "The national anthem was adopted in: (variant 156)",
+      "text": "In what year was the Nigerian national anthem adopted? (variant 156)",
       "options": [
         "1978",
         "1960",
@@ -2033,7 +2033,7 @@
     },
     {
       "id": "cve_157",
-      "text": "The Senate has: (variant 157)",
+      "text": "How many members does the Nigerian Senate have? (variant 157)",
       "options": [
         "360",
         "100",
@@ -2046,7 +2046,7 @@
     },
     {
       "id": "cve_158",
-      "text": "The House has: (variant 158)",
+      "text": "How many members does the Nigerian House of Representatives have? (variant 158)",
       "options": [
         "100",
         "50",
@@ -2072,7 +2072,7 @@
     },
     {
       "id": "cve_160",
-      "text": "Patriotism means: (variant 160)",
+      "text": "What does patriotism mean? (variant 160)",
       "options": [
         "Love for country",
         "Hatred",
@@ -2098,7 +2098,7 @@
     },
     {
       "id": "cve_162",
-      "text": "The Nigerian flag green represents: (variant 162)",
+      "text": "What does the green colour in the Nigerian national flag represent? (variant 162)",
       "options": [
         "Blood",
         "Sun",
@@ -2111,7 +2111,7 @@
     },
     {
       "id": "cve_163",
-      "text": "Human rights are: (variant 163)",
+      "text": "What are human rights? (variant 163)",
       "options": [
         "Temporary gifts",
         "Privileges for leaders",
@@ -2124,7 +2124,7 @@
     },
     {
       "id": "cve_164",
-      "text": "Rule of law means: (variant 164)",
+      "text": "What does the principle of rule of law mean? (variant 164)",
       "options": [
         "Law applies equally to all",
         "Leaders above law",
@@ -2137,7 +2137,7 @@
     },
     {
       "id": "cve_165",
-      "text": "Drug abuse is: (variant 165)",
+      "text": "What is the definition of drug abuse? (variant 165?",
       "options": [
         "Misuse for non-medical purposes",
         "Prescribed use",
@@ -2150,7 +2150,7 @@
     },
     {
       "id": "cve_166",
-      "text": "FRSC means: (variant 166)",
+      "text": "What does the acronym FRSC stand for in Nigeria? (variant 166)",
       "options": [
         "Only road",
         "Only safety",
@@ -2163,7 +2163,7 @@
     },
     {
       "id": "cve_167",
-      "text": "Traffic light red means: (variant 167)",
+      "text": "What does a red traffic light signal indicate? (variant 167)",
       "options": [
         "Park",
         "Stop",
@@ -2189,7 +2189,7 @@
     },
     {
       "id": "cve_169",
-      "text": "Political apathy means: (variant 169)",
+      "text": "What does political apathy mean? (variant 169)",
       "options": [
         "Active participation",
         "Voting always",
@@ -2202,7 +2202,7 @@
     },
     {
       "id": "cve_170",
-      "text": "INEC stands for: (variant 170)",
+      "text": "What does the acronym INEC stand for in Nigeria? (variant 170)",
       "options": [
         "International Network",
         "No meaning",
@@ -2215,7 +2215,7 @@
     },
     {
       "id": "cve_171",
-      "text": "A good leader should be: (variant 171)",
+      "text": "Which quality should a good leader possess? (variant 171)",
       "options": [
         "Dictatorial",
         "Honest and accountable",
@@ -2228,7 +2228,7 @@
     },
     {
       "id": "cve_172",
-      "text": "NYSC was established to promote: (variant 172)",
+      "text": "What was the primary purpose of establishing the NYSC? (variant 172)",
       "options": [
         "National unity",
         "Tribalism",
@@ -2254,7 +2254,7 @@
     },
     {
       "id": "cve_174",
-      "text": "EFCC fights: (variant 174)",
+      "text": "What does the EFCC fight against in Nigeria? (variant 174)",
       "options": [
         "Drug",
         "No corruption",
@@ -2267,7 +2267,7 @@
     },
     {
       "id": "cve_175",
-      "text": "The Nigerian flag was designed by: (variant 175)",
+      "text": "Who designed the Nigerian national flag? (variant 175)",
       "options": [
         "Bello",
         "Taiwo Akinkunmi",
@@ -2280,7 +2280,7 @@
     },
     {
       "id": "cve_176",
-      "text": "The national anthem was adopted in: (variant 176)",
+      "text": "In what year was the Nigerian national anthem adopted? (variant 176)",
       "options": [
         "1978",
         "1960",
@@ -2293,7 +2293,7 @@
     },
     {
       "id": "cve_177",
-      "text": "The Senate has: (variant 177)",
+      "text": "How many members does the Nigerian Senate have? (variant 177)",
       "options": [
         "360",
         "100",
@@ -2306,7 +2306,7 @@
     },
     {
       "id": "cve_178",
-      "text": "The House has: (variant 178)",
+      "text": "How many members does the Nigerian House of Representatives have? (variant 178)",
       "options": [
         "100",
         "50",
@@ -2332,7 +2332,7 @@
     },
     {
       "id": "cve_180",
-      "text": "Patriotism means: (variant 180)",
+      "text": "What does patriotism mean? (variant 180)",
       "options": [
         "Love for country",
         "Hatred",
@@ -2358,7 +2358,7 @@
     },
     {
       "id": "cve_182",
-      "text": "The Nigerian flag green represents: (variant 182)",
+      "text": "What does the green colour in the Nigerian national flag represent? (variant 182)",
       "options": [
         "Blood",
         "Sun",
@@ -2371,7 +2371,7 @@
     },
     {
       "id": "cve_183",
-      "text": "Human rights are: (variant 183)",
+      "text": "What are human rights? (variant 183)",
       "options": [
         "Temporary gifts",
         "Privileges for leaders",
@@ -2384,7 +2384,7 @@
     },
     {
       "id": "cve_184",
-      "text": "Rule of law means: (variant 184)",
+      "text": "What does the principle of rule of law mean? (variant 184)",
       "options": [
         "Law applies equally to all",
         "Leaders above law",
@@ -2397,7 +2397,7 @@
     },
     {
       "id": "cve_185",
-      "text": "Drug abuse is: (variant 185)",
+      "text": "What is the definition of drug abuse? (variant 185?",
       "options": [
         "Misuse for non-medical purposes",
         "Prescribed use",
@@ -2410,7 +2410,7 @@
     },
     {
       "id": "cve_186",
-      "text": "FRSC means: (variant 186)",
+      "text": "What does the acronym FRSC stand for in Nigeria? (variant 186)",
       "options": [
         "Only road",
         "Only safety",
@@ -2423,7 +2423,7 @@
     },
     {
       "id": "cve_187",
-      "text": "Traffic light red means: (variant 187)",
+      "text": "What does a red traffic light signal indicate? (variant 187)",
       "options": [
         "Park",
         "Stop",
@@ -2449,7 +2449,7 @@
     },
     {
       "id": "cve_189",
-      "text": "Political apathy means: (variant 189)",
+      "text": "What does political apathy mean? (variant 189)",
       "options": [
         "Active participation",
         "Voting always",
@@ -2462,7 +2462,7 @@
     },
     {
       "id": "cve_190",
-      "text": "INEC stands for: (variant 190)",
+      "text": "What does the acronym INEC stand for in Nigeria? (variant 190)",
       "options": [
         "International Network",
         "No meaning",
@@ -2475,7 +2475,7 @@
     },
     {
       "id": "cve_191",
-      "text": "A good leader should be: (variant 191)",
+      "text": "Which quality should a good leader possess? (variant 191)",
       "options": [
         "Dictatorial",
         "Honest and accountable",
@@ -2488,7 +2488,7 @@
     },
     {
       "id": "cve_192",
-      "text": "NYSC was established to promote: (variant 192)",
+      "text": "What was the primary purpose of establishing the NYSC? (variant 192)",
       "options": [
         "National unity",
         "Tribalism",
@@ -2514,7 +2514,7 @@
     },
     {
       "id": "cve_194",
-      "text": "EFCC fights: (variant 194)",
+      "text": "What does the EFCC fight against in Nigeria? (variant 194)",
       "options": [
         "Drug",
         "No corruption",
@@ -2527,7 +2527,7 @@
     },
     {
       "id": "cve_195",
-      "text": "The Nigerian flag was designed by: (variant 195)",
+      "text": "Who designed the Nigerian national flag? (variant 195)",
       "options": [
         "Bello",
         "Taiwo Akinkunmi",
@@ -2540,7 +2540,7 @@
     },
     {
       "id": "cve_196",
-      "text": "The national anthem was adopted in: (variant 196)",
+      "text": "In what year was the Nigerian national anthem adopted? (variant 196)",
       "options": [
         "1978",
         "1960",
@@ -2553,7 +2553,7 @@
     },
     {
       "id": "cve_197",
-      "text": "The Senate has: (variant 197)",
+      "text": "How many members does the Nigerian Senate have? (variant 197)",
       "options": [
         "360",
         "100",
@@ -2566,7 +2566,7 @@
     },
     {
       "id": "cve_198",
-      "text": "The House has: (variant 198)",
+      "text": "How many members does the Nigerian House of Representatives have? (variant 198)",
       "options": [
         "100",
         "50",
@@ -2592,7 +2592,7 @@
     },
     {
       "id": "cve_200",
-      "text": "Patriotism means: (variant 200)",
+      "text": "What does patriotism mean? (variant 200)",
       "options": [
         "Love for country",
         "Hatred",

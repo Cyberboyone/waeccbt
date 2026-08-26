@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": "geo_001",
-      "text": "Geography studies:",
+      "text": "What does the study of Geography involve?",
       "options": [
         "Only rocks",
         "Only animals",
@@ -18,7 +18,7 @@
     },
     {
       "id": "geo_002",
-      "text": "Earth shape:",
+      "text": "What is the true shape of the Earth?",
       "options": [
         "Square",
         "Triangle",
@@ -31,7 +31,7 @@
     },
     {
       "id": "geo_003",
-      "text": "Rotation period:",
+      "text": "How long does the Earth take to complete one rotation on its axis?",
       "options": [
         "1 hour",
         "24 hours",
@@ -44,7 +44,7 @@
     },
     {
       "id": "geo_004",
-      "text": "Latitude measures:",
+      "text": "What does latitude measure on the Earth's surface?",
       "options": [
         "North/south equator",
         "East/west Greenwich",
@@ -57,7 +57,7 @@
     },
     {
       "id": "geo_005",
-      "text": "Greenwich is:",
+      "text": "The Greenwich Meridian represents which line of longitude?",
       "options": [
         "0° latitude",
         "90° long",
@@ -70,7 +70,7 @@
     },
     {
       "id": "geo_006",
-      "text": "Map scale is:",
+      "text": "What does the scale of a map represent?",
       "options": [
         "Only ground",
         "No ratio",
@@ -83,7 +83,7 @@
     },
     {
       "id": "geo_007",
-      "text": "Igneous formed by:",
+      "text": "How are igneous rocks formed from molten material?",
       "options": [
         "Weathering",
         "Cooling magma",
@@ -96,7 +96,7 @@
     },
     {
       "id": "geo_008",
-      "text": "Rain gauge measures:",
+      "text": "What does a standard rain gauge measure in meteorology?",
       "options": [
         "Rainfall",
         "Temperature",
@@ -109,7 +109,7 @@
     },
     {
       "id": "geo_009",
-      "text": "Largest ocean:",
+      "text": "Which is the largest ocean in the world?",
       "options": [
         "Atlantic",
         "Indian",
@@ -122,7 +122,7 @@
     },
     {
       "id": "geo_010",
-      "text": "Nile longest in:",
+      "text": "The River Nile is the longest river in which continent?",
       "options": [
         "No longest",
         "Only Nigeria",
@@ -135,7 +135,7 @@
     },
     {
       "id": "geo_011",
-      "text": "Population density:",
+      "text": "How is population density defined? in this subject area?",
       "options": [
         "No number",
         "People per area",
@@ -148,7 +148,7 @@
     },
     {
       "id": "geo_012",
-      "text": "Lagos largest city in:",
+      "text": "Lagos is the largest city in which country?",
       "options": [
         "Nigeria",
         "Ghana",
@@ -161,7 +161,7 @@
     },
     {
       "id": "geo_013",
-      "text": "Primary activity:",
+      "text": "Which of the following is an example of a primary economic activity?",
       "options": [
         "Manufacturing",
         "Trading",
@@ -174,7 +174,7 @@
     },
     {
       "id": "geo_014",
-      "text": "Petroleum in:",
+      "text": "Petroleum is mainly found in which region of Nigeria?",
       "options": [
         "Kano",
         "Borno",
@@ -187,7 +187,7 @@
     },
     {
       "id": "geo_015",
-      "text": "Contour lines join:",
+      "text": "What do contour lines on a topographic map join together?",
       "options": [
         "Equal pressure",
         "Equal height",
@@ -200,7 +200,7 @@
     },
     {
       "id": "geo_016",
-      "text": "GIS means:",
+      "text": "What does GIS stand for in geography?",
       "options": [
         "Geographic Information System",
         "General",
@@ -213,7 +213,7 @@
     },
     {
       "id": "geo_017",
-      "text": "Desertification common in:",
+      "text": "Desertification is most common in which part of Nigeria?",
       "options": [
         "South",
         "No where",
@@ -226,7 +226,7 @@
     },
     {
       "id": "geo_018",
-      "text": "Renewable resource:",
+      "text": "Which of the following is a renewable resource?",
       "options": [
         "Coal",
         "Gas",
@@ -239,7 +239,7 @@
     },
     {
       "id": "geo_019",
-      "text": "Nigeria in:",
+      "text": "Nigeria is located in which region of Africa?",
       "options": [
         "South Africa",
         "West Africa",
@@ -252,7 +252,7 @@
     },
     {
       "id": "geo_020",
-      "text": "Time diff 15°:",
+      "text": "What is the time difference between two places separated by 15° of longitude?",
       "options": [
         "1 hour",
         "2 hours",
@@ -265,7 +265,7 @@
     },
     {
       "id": "geo_021",
-      "text": "Geography studies: (variant 21)",
+      "text": "What does the study of Geography involve? (variant 21)",
       "options": [
         "Only rocks",
         "Only animals",
@@ -278,7 +278,7 @@
     },
     {
       "id": "geo_022",
-      "text": "Earth shape: (variant 22)",
+      "text": "What is the true shape of the Earth? (variant 22)",
       "options": [
         "Square",
         "Triangle",
@@ -291,7 +291,7 @@
     },
     {
       "id": "geo_023",
-      "text": "Rotation period: (variant 23)",
+      "text": "How long does the Earth take to complete one rotation on its axis? (variant 23)",
       "options": [
         "1 hour",
         "24 hours",
@@ -304,7 +304,7 @@
     },
     {
       "id": "geo_024",
-      "text": "Latitude measures: (variant 24)",
+      "text": "What does latitude measure on the Earth's surface? (variant 24)",
       "options": [
         "North/south equator",
         "East/west Greenwich",
@@ -317,7 +317,7 @@
     },
     {
       "id": "geo_025",
-      "text": "Greenwich is: (variant 25)",
+      "text": "The Greenwich Meridian represents which line of longitude? (variant 25)",
       "options": [
         "0° latitude",
         "90° long",
@@ -330,7 +330,7 @@
     },
     {
       "id": "geo_026",
-      "text": "Map scale is: (variant 26)",
+      "text": "What does the scale of a map represent? (variant 26)",
       "options": [
         "Only ground",
         "No ratio",
@@ -343,7 +343,7 @@
     },
     {
       "id": "geo_027",
-      "text": "Igneous formed by: (variant 27)",
+      "text": "How are igneous rocks formed from molten material? (variant 27)",
       "options": [
         "Weathering",
         "Cooling magma",
@@ -356,7 +356,7 @@
     },
     {
       "id": "geo_028",
-      "text": "Rain gauge measures: (variant 28)",
+      "text": "What does a standard rain gauge measure in meteorology? (variant 28)",
       "options": [
         "Rainfall",
         "Temperature",
@@ -369,7 +369,7 @@
     },
     {
       "id": "geo_029",
-      "text": "Largest ocean: (variant 29)",
+      "text": "Which is the largest ocean in the world? (variant 29)",
       "options": [
         "Atlantic",
         "Indian",
@@ -382,7 +382,7 @@
     },
     {
       "id": "geo_030",
-      "text": "Nile longest in: (variant 30)",
+      "text": "The River Nile is the longest river in which continent? (variant 30)",
       "options": [
         "No longest",
         "Only Nigeria",
@@ -395,7 +395,7 @@
     },
     {
       "id": "geo_031",
-      "text": "Population density: (variant 31)",
+      "text": "How is population density defined? (variant 31)",
       "options": [
         "No number",
         "People per area",
@@ -408,7 +408,7 @@
     },
     {
       "id": "geo_032",
-      "text": "Lagos largest city in: (variant 32)",
+      "text": "Lagos is the largest city in which country? (variant 32)",
       "options": [
         "Nigeria",
         "Ghana",
@@ -421,7 +421,7 @@
     },
     {
       "id": "geo_033",
-      "text": "Primary activity: (variant 33)",
+      "text": "Which of the following is an example of a primary economic activity? (variant 33)",
       "options": [
         "Manufacturing",
         "Trading",
@@ -434,7 +434,7 @@
     },
     {
       "id": "geo_034",
-      "text": "Petroleum in: (variant 34)",
+      "text": "Petroleum is mainly found in which region of Nigeria? (variant 34)",
       "options": [
         "Kano",
         "Borno",
@@ -447,7 +447,7 @@
     },
     {
       "id": "geo_035",
-      "text": "Contour lines join: (variant 35)",
+      "text": "What do contour lines on a topographic map join together? (variant 35)",
       "options": [
         "Equal pressure",
         "Equal height",
@@ -460,7 +460,7 @@
     },
     {
       "id": "geo_036",
-      "text": "GIS means: (variant 36)",
+      "text": "What does GIS stand for in geography? (variant 36)",
       "options": [
         "Geographic Information System",
         "General",
@@ -473,7 +473,7 @@
     },
     {
       "id": "geo_037",
-      "text": "Desertification common in: (variant 37)",
+      "text": "Desertification is most common in which part of Nigeria? (variant 37)",
       "options": [
         "South",
         "No where",
@@ -486,7 +486,7 @@
     },
     {
       "id": "geo_038",
-      "text": "Renewable resource: (variant 38)",
+      "text": "Which of the following is a renewable resource? (variant 38)",
       "options": [
         "Coal",
         "Gas",
@@ -499,7 +499,7 @@
     },
     {
       "id": "geo_039",
-      "text": "Nigeria in: (variant 39)",
+      "text": "Nigeria is located in which region of Africa? (variant 39)",
       "options": [
         "South Africa",
         "West Africa",
@@ -512,7 +512,7 @@
     },
     {
       "id": "geo_040",
-      "text": "Time diff 15°: (variant 40)",
+      "text": "What is the time difference between two places separated by 15° of longitude? (variant 40)",
       "options": [
         "1 hour",
         "2 hours",
@@ -525,7 +525,7 @@
     },
     {
       "id": "geo_041",
-      "text": "Geography studies: (variant 41)",
+      "text": "What does the study of Geography involve? (variant 41)",
       "options": [
         "Only rocks",
         "Only animals",
@@ -538,7 +538,7 @@
     },
     {
       "id": "geo_042",
-      "text": "Earth shape: (variant 42)",
+      "text": "What is the true shape of the Earth? (variant 42)",
       "options": [
         "Square",
         "Triangle",
@@ -551,7 +551,7 @@
     },
     {
       "id": "geo_043",
-      "text": "Rotation period: (variant 43)",
+      "text": "How long does the Earth take to complete one rotation on its axis? (variant 43)",
       "options": [
         "1 hour",
         "24 hours",
@@ -564,7 +564,7 @@
     },
     {
       "id": "geo_044",
-      "text": "Latitude measures: (variant 44)",
+      "text": "What does latitude measure on the Earth's surface? (variant 44)",
       "options": [
         "North/south equator",
         "East/west Greenwich",
@@ -577,7 +577,7 @@
     },
     {
       "id": "geo_045",
-      "text": "Greenwich is: (variant 45)",
+      "text": "The Greenwich Meridian represents which line of longitude? (variant 45)",
       "options": [
         "0° latitude",
         "90° long",
@@ -590,7 +590,7 @@
     },
     {
       "id": "geo_046",
-      "text": "Map scale is: (variant 46)",
+      "text": "What does the scale of a map represent? (variant 46)",
       "options": [
         "Only ground",
         "No ratio",
@@ -603,7 +603,7 @@
     },
     {
       "id": "geo_047",
-      "text": "Igneous formed by: (variant 47)",
+      "text": "How are igneous rocks formed from molten material? (variant 47)",
       "options": [
         "Weathering",
         "Cooling magma",
@@ -616,7 +616,7 @@
     },
     {
       "id": "geo_048",
-      "text": "Rain gauge measures: (variant 48)",
+      "text": "What does a standard rain gauge measure in meteorology? (variant 48)",
       "options": [
         "Rainfall",
         "Temperature",
@@ -629,7 +629,7 @@
     },
     {
       "id": "geo_049",
-      "text": "Largest ocean: (variant 49)",
+      "text": "Which is the largest ocean in the world? (variant 49)",
       "options": [
         "Atlantic",
         "Indian",
@@ -642,7 +642,7 @@
     },
     {
       "id": "geo_050",
-      "text": "Nile longest in: (variant 50)",
+      "text": "The River Nile is the longest river in which continent? (variant 50)",
       "options": [
         "No longest",
         "Only Nigeria",
@@ -655,7 +655,7 @@
     },
     {
       "id": "geo_051",
-      "text": "Population density: (variant 51)",
+      "text": "How is population density defined? (variant 51)",
       "options": [
         "No number",
         "People per area",
@@ -668,7 +668,7 @@
     },
     {
       "id": "geo_052",
-      "text": "Lagos largest city in: (variant 52)",
+      "text": "Lagos is the largest city in which country? (variant 52)",
       "options": [
         "Nigeria",
         "Ghana",
@@ -681,7 +681,7 @@
     },
     {
       "id": "geo_053",
-      "text": "Primary activity: (variant 53)",
+      "text": "Which of the following is an example of a primary economic activity? (variant 53)",
       "options": [
         "Manufacturing",
         "Trading",
@@ -694,7 +694,7 @@
     },
     {
       "id": "geo_054",
-      "text": "Petroleum in: (variant 54)",
+      "text": "Petroleum is mainly found in which region of Nigeria? (variant 54)",
       "options": [
         "Kano",
         "Borno",
@@ -707,7 +707,7 @@
     },
     {
       "id": "geo_055",
-      "text": "Contour lines join: (variant 55)",
+      "text": "What do contour lines on a topographic map join together? (variant 55)",
       "options": [
         "Equal pressure",
         "Equal height",
@@ -720,7 +720,7 @@
     },
     {
       "id": "geo_056",
-      "text": "GIS means: (variant 56)",
+      "text": "What does GIS stand for in geography? (variant 56)",
       "options": [
         "Geographic Information System",
         "General",
@@ -733,7 +733,7 @@
     },
     {
       "id": "geo_057",
-      "text": "Desertification common in: (variant 57)",
+      "text": "Desertification is most common in which part of Nigeria? (variant 57)",
       "options": [
         "South",
         "No where",
@@ -746,7 +746,7 @@
     },
     {
       "id": "geo_058",
-      "text": "Renewable resource: (variant 58)",
+      "text": "Which of the following is a renewable resource? (variant 58)",
       "options": [
         "Coal",
         "Gas",
@@ -759,7 +759,7 @@
     },
     {
       "id": "geo_059",
-      "text": "Nigeria in: (variant 59)",
+      "text": "Nigeria is located in which region of Africa? (variant 59)",
       "options": [
         "South Africa",
         "West Africa",
@@ -772,7 +772,7 @@
     },
     {
       "id": "geo_060",
-      "text": "Time diff 15°: (variant 60)",
+      "text": "What is the time difference between two places separated by 15° of longitude? (variant 60)",
       "options": [
         "1 hour",
         "2 hours",
@@ -785,7 +785,7 @@
     },
     {
       "id": "geo_061",
-      "text": "Geography studies: (variant 61)",
+      "text": "What does the study of Geography involve? (variant 61)",
       "options": [
         "Only rocks",
         "Only animals",
@@ -798,7 +798,7 @@
     },
     {
       "id": "geo_062",
-      "text": "Earth shape: (variant 62)",
+      "text": "What is the true shape of the Earth? (variant 62)",
       "options": [
         "Square",
         "Triangle",
@@ -811,7 +811,7 @@
     },
     {
       "id": "geo_063",
-      "text": "Rotation period: (variant 63)",
+      "text": "How long does the Earth take to complete one rotation on its axis? (variant 63)",
       "options": [
         "1 hour",
         "24 hours",
@@ -824,7 +824,7 @@
     },
     {
       "id": "geo_064",
-      "text": "Latitude measures: (variant 64)",
+      "text": "What does latitude measure on the Earth's surface? (variant 64)",
       "options": [
         "North/south equator",
         "East/west Greenwich",
@@ -837,7 +837,7 @@
     },
     {
       "id": "geo_065",
-      "text": "Greenwich is: (variant 65)",
+      "text": "The Greenwich Meridian represents which line of longitude? (variant 65)",
       "options": [
         "0° latitude",
         "90° long",
@@ -850,7 +850,7 @@
     },
     {
       "id": "geo_066",
-      "text": "Map scale is: (variant 66)",
+      "text": "What does the scale of a map represent? (variant 66)",
       "options": [
         "Only ground",
         "No ratio",
@@ -863,7 +863,7 @@
     },
     {
       "id": "geo_067",
-      "text": "Igneous formed by: (variant 67)",
+      "text": "How are igneous rocks formed from molten material? (variant 67)",
       "options": [
         "Weathering",
         "Cooling magma",
@@ -876,7 +876,7 @@
     },
     {
       "id": "geo_068",
-      "text": "Rain gauge measures: (variant 68)",
+      "text": "What does a standard rain gauge measure in meteorology? (variant 68)",
       "options": [
         "Rainfall",
         "Temperature",
@@ -889,7 +889,7 @@
     },
     {
       "id": "geo_069",
-      "text": "Largest ocean: (variant 69)",
+      "text": "Which is the largest ocean in the world? (variant 69)",
       "options": [
         "Atlantic",
         "Indian",
@@ -902,7 +902,7 @@
     },
     {
       "id": "geo_070",
-      "text": "Nile longest in: (variant 70)",
+      "text": "The River Nile is the longest river in which continent? (variant 70)",
       "options": [
         "No longest",
         "Only Nigeria",
@@ -915,7 +915,7 @@
     },
     {
       "id": "geo_071",
-      "text": "Population density: (variant 71)",
+      "text": "How is population density defined? (variant 71)",
       "options": [
         "No number",
         "People per area",
@@ -928,7 +928,7 @@
     },
     {
       "id": "geo_072",
-      "text": "Lagos largest city in: (variant 72)",
+      "text": "Lagos is the largest city in which country? (variant 72)",
       "options": [
         "Nigeria",
         "Ghana",
@@ -941,7 +941,7 @@
     },
     {
       "id": "geo_073",
-      "text": "Primary activity: (variant 73)",
+      "text": "Which of the following is an example of a primary economic activity? (variant 73)",
       "options": [
         "Manufacturing",
         "Trading",
@@ -954,7 +954,7 @@
     },
     {
       "id": "geo_074",
-      "text": "Petroleum in: (variant 74)",
+      "text": "Petroleum is mainly found in which region of Nigeria? (variant 74)",
       "options": [
         "Kano",
         "Borno",
@@ -967,7 +967,7 @@
     },
     {
       "id": "geo_075",
-      "text": "Contour lines join: (variant 75)",
+      "text": "What do contour lines on a topographic map join together? (variant 75)",
       "options": [
         "Equal pressure",
         "Equal height",
@@ -980,7 +980,7 @@
     },
     {
       "id": "geo_076",
-      "text": "GIS means: (variant 76)",
+      "text": "What does GIS stand for in geography? (variant 76)",
       "options": [
         "Geographic Information System",
         "General",
@@ -993,7 +993,7 @@
     },
     {
       "id": "geo_077",
-      "text": "Desertification common in: (variant 77)",
+      "text": "Desertification is most common in which part of Nigeria? (variant 77)",
       "options": [
         "South",
         "No where",
@@ -1006,7 +1006,7 @@
     },
     {
       "id": "geo_078",
-      "text": "Renewable resource: (variant 78)",
+      "text": "Which of the following is a renewable resource? (variant 78)",
       "options": [
         "Coal",
         "Gas",
@@ -1019,7 +1019,7 @@
     },
     {
       "id": "geo_079",
-      "text": "Nigeria in: (variant 79)",
+      "text": "Nigeria is located in which region of Africa? (variant 79)",
       "options": [
         "South Africa",
         "West Africa",
@@ -1032,7 +1032,7 @@
     },
     {
       "id": "geo_080",
-      "text": "Time diff 15°: (variant 80)",
+      "text": "What is the time difference between two places separated by 15° of longitude? (variant 80)",
       "options": [
         "1 hour",
         "2 hours",
@@ -1045,7 +1045,7 @@
     },
     {
       "id": "geo_081",
-      "text": "Geography studies: (variant 81)",
+      "text": "What does the study of Geography involve? (variant 81)",
       "options": [
         "Only rocks",
         "Only animals",
@@ -1058,7 +1058,7 @@
     },
     {
       "id": "geo_082",
-      "text": "Earth shape: (variant 82)",
+      "text": "What is the true shape of the Earth? (variant 82)",
       "options": [
         "Square",
         "Triangle",
@@ -1071,7 +1071,7 @@
     },
     {
       "id": "geo_083",
-      "text": "Rotation period: (variant 83)",
+      "text": "How long does the Earth take to complete one rotation on its axis? (variant 83)",
       "options": [
         "1 hour",
         "24 hours",
@@ -1084,7 +1084,7 @@
     },
     {
       "id": "geo_084",
-      "text": "Latitude measures: (variant 84)",
+      "text": "What does latitude measure on the Earth's surface? (variant 84)",
       "options": [
         "North/south equator",
         "East/west Greenwich",
@@ -1097,7 +1097,7 @@
     },
     {
       "id": "geo_085",
-      "text": "Greenwich is: (variant 85)",
+      "text": "The Greenwich Meridian represents which line of longitude? (variant 85)",
       "options": [
         "0° latitude",
         "90° long",
@@ -1110,7 +1110,7 @@
     },
     {
       "id": "geo_086",
-      "text": "Map scale is: (variant 86)",
+      "text": "What does the scale of a map represent? (variant 86)",
       "options": [
         "Only ground",
         "No ratio",
@@ -1123,7 +1123,7 @@
     },
     {
       "id": "geo_087",
-      "text": "Igneous formed by: (variant 87)",
+      "text": "How are igneous rocks formed from molten material? (variant 87)",
       "options": [
         "Weathering",
         "Cooling magma",
@@ -1136,7 +1136,7 @@
     },
     {
       "id": "geo_088",
-      "text": "Rain gauge measures: (variant 88)",
+      "text": "What does a standard rain gauge measure in meteorology? (variant 88)",
       "options": [
         "Rainfall",
         "Temperature",
@@ -1149,7 +1149,7 @@
     },
     {
       "id": "geo_089",
-      "text": "Largest ocean: (variant 89)",
+      "text": "Which is the largest ocean in the world? (variant 89)",
       "options": [
         "Atlantic",
         "Indian",
@@ -1162,7 +1162,7 @@
     },
     {
       "id": "geo_090",
-      "text": "Nile longest in: (variant 90)",
+      "text": "The River Nile is the longest river in which continent? (variant 90)",
       "options": [
         "No longest",
         "Only Nigeria",
@@ -1175,7 +1175,7 @@
     },
     {
       "id": "geo_091",
-      "text": "Population density: (variant 91)",
+      "text": "How is population density defined? (variant 91)",
       "options": [
         "No number",
         "People per area",
@@ -1188,7 +1188,7 @@
     },
     {
       "id": "geo_092",
-      "text": "Lagos largest city in: (variant 92)",
+      "text": "Lagos is the largest city in which country? (variant 92)",
       "options": [
         "Nigeria",
         "Ghana",
@@ -1201,7 +1201,7 @@
     },
     {
       "id": "geo_093",
-      "text": "Primary activity: (variant 93)",
+      "text": "Which of the following is an example of a primary economic activity? (variant 93)",
       "options": [
         "Manufacturing",
         "Trading",
@@ -1214,7 +1214,7 @@
     },
     {
       "id": "geo_094",
-      "text": "Petroleum in: (variant 94)",
+      "text": "Petroleum is mainly found in which region of Nigeria? (variant 94)",
       "options": [
         "Kano",
         "Borno",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": "geo_095",
-      "text": "Contour lines join: (variant 95)",
+      "text": "What do contour lines on a topographic map join together? (variant 95)",
       "options": [
         "Equal pressure",
         "Equal height",
@@ -1240,7 +1240,7 @@
     },
     {
       "id": "geo_096",
-      "text": "GIS means: (variant 96)",
+      "text": "What does GIS stand for in geography? (variant 96)",
       "options": [
         "Geographic Information System",
         "General",
@@ -1253,7 +1253,7 @@
     },
     {
       "id": "geo_097",
-      "text": "Desertification common in: (variant 97)",
+      "text": "Desertification is most common in which part of Nigeria? (variant 97)",
       "options": [
         "South",
         "No where",
@@ -1266,7 +1266,7 @@
     },
     {
       "id": "geo_098",
-      "text": "Renewable resource: (variant 98)",
+      "text": "Which of the following is a renewable resource? (variant 98)",
       "options": [
         "Coal",
         "Gas",
@@ -1279,7 +1279,7 @@
     },
     {
       "id": "geo_099",
-      "text": "Nigeria in: (variant 99)",
+      "text": "Nigeria is located in which region of Africa? (variant 99)",
       "options": [
         "South Africa",
         "West Africa",
@@ -1292,7 +1292,7 @@
     },
     {
       "id": "geo_100",
-      "text": "Time diff 15°: (variant 100)",
+      "text": "What is the time difference between two places separated by 15° of longitude? (variant 100)",
       "options": [
         "1 hour",
         "2 hours",
@@ -1305,7 +1305,7 @@
     },
     {
       "id": "geo_101",
-      "text": "Geography studies: (variant 101)",
+      "text": "What does the study of Geography involve? (variant 101)",
       "options": [
         "Only rocks",
         "Only animals",
@@ -1318,7 +1318,7 @@
     },
     {
       "id": "geo_102",
-      "text": "Earth shape: (variant 102)",
+      "text": "What is the true shape of the Earth? (variant 102)",
       "options": [
         "Square",
         "Triangle",
@@ -1331,7 +1331,7 @@
     },
     {
       "id": "geo_103",
-      "text": "Rotation period: (variant 103)",
+      "text": "How long does the Earth take to complete one rotation on its axis? (variant 103)",
       "options": [
         "1 hour",
         "24 hours",
@@ -1344,7 +1344,7 @@
     },
     {
       "id": "geo_104",
-      "text": "Latitude measures: (variant 104)",
+      "text": "What does latitude measure on the Earth's surface? (variant 104)",
       "options": [
         "North/south equator",
         "East/west Greenwich",
@@ -1357,7 +1357,7 @@
     },
     {
       "id": "geo_105",
-      "text": "Greenwich is: (variant 105)",
+      "text": "The Greenwich Meridian represents which line of longitude? (variant 105)",
       "options": [
         "0° latitude",
         "90° long",
@@ -1370,7 +1370,7 @@
     },
     {
       "id": "geo_106",
-      "text": "Map scale is: (variant 106)",
+      "text": "What does the scale of a map represent? (variant 106)",
       "options": [
         "Only ground",
         "No ratio",
@@ -1383,7 +1383,7 @@
     },
     {
       "id": "geo_107",
-      "text": "Igneous formed by: (variant 107)",
+      "text": "How are igneous rocks formed from molten material? (variant 107)",
       "options": [
         "Weathering",
         "Cooling magma",
@@ -1396,7 +1396,7 @@
     },
     {
       "id": "geo_108",
-      "text": "Rain gauge measures: (variant 108)",
+      "text": "What does a standard rain gauge measure in meteorology? (variant 108)",
       "options": [
         "Rainfall",
         "Temperature",
@@ -1409,7 +1409,7 @@
     },
     {
       "id": "geo_109",
-      "text": "Largest ocean: (variant 109)",
+      "text": "Which is the largest ocean in the world? (variant 109)",
       "options": [
         "Atlantic",
         "Indian",
@@ -1422,7 +1422,7 @@
     },
     {
       "id": "geo_110",
-      "text": "Nile longest in: (variant 110)",
+      "text": "The River Nile is the longest river in which continent? (variant 110)",
       "options": [
         "No longest",
         "Only Nigeria",
@@ -1435,7 +1435,7 @@
     },
     {
       "id": "geo_111",
-      "text": "Population density: (variant 111)",
+      "text": "How is population density defined? (variant 111)",
       "options": [
         "No number",
         "People per area",
@@ -1448,7 +1448,7 @@
     },
     {
       "id": "geo_112",
-      "text": "Lagos largest city in: (variant 112)",
+      "text": "Lagos is the largest city in which country? (variant 112)",
       "options": [
         "Nigeria",
         "Ghana",
@@ -1461,7 +1461,7 @@
     },
     {
       "id": "geo_113",
-      "text": "Primary activity: (variant 113)",
+      "text": "Which of the following is an example of a primary economic activity? (variant 113)",
       "options": [
         "Manufacturing",
         "Trading",
@@ -1474,7 +1474,7 @@
     },
     {
       "id": "geo_114",
-      "text": "Petroleum in: (variant 114)",
+      "text": "Petroleum is mainly found in which region of Nigeria? (variant 114)",
       "options": [
         "Kano",
         "Borno",
@@ -1487,7 +1487,7 @@
     },
     {
       "id": "geo_115",
-      "text": "Contour lines join: (variant 115)",
+      "text": "What do contour lines on a topographic map join together? (variant 115)",
       "options": [
         "Equal pressure",
         "Equal height",
@@ -1500,7 +1500,7 @@
     },
     {
       "id": "geo_116",
-      "text": "GIS means: (variant 116)",
+      "text": "What does GIS stand for in geography? (variant 116)",
       "options": [
         "Geographic Information System",
         "General",
@@ -1513,7 +1513,7 @@
     },
     {
       "id": "geo_117",
-      "text": "Desertification common in: (variant 117)",
+      "text": "Desertification is most common in which part of Nigeria? (variant 117)",
       "options": [
         "South",
         "No where",
@@ -1526,7 +1526,7 @@
     },
     {
       "id": "geo_118",
-      "text": "Renewable resource: (variant 118)",
+      "text": "Which of the following is a renewable resource? (variant 118)",
       "options": [
         "Coal",
         "Gas",
@@ -1539,7 +1539,7 @@
     },
     {
       "id": "geo_119",
-      "text": "Nigeria in: (variant 119)",
+      "text": "Nigeria is located in which region of Africa? (variant 119)",
       "options": [
         "South Africa",
         "West Africa",
@@ -1552,7 +1552,7 @@
     },
     {
       "id": "geo_120",
-      "text": "Time diff 15°: (variant 120)",
+      "text": "What is the time difference between two places separated by 15° of longitude? (variant 120)",
       "options": [
         "1 hour",
         "2 hours",
@@ -1565,7 +1565,7 @@
     },
     {
       "id": "geo_121",
-      "text": "Geography studies: (variant 121)",
+      "text": "What does the study of Geography involve? (variant 121)",
       "options": [
         "Only rocks",
         "Only animals",
@@ -1578,7 +1578,7 @@
     },
     {
       "id": "geo_122",
-      "text": "Earth shape: (variant 122)",
+      "text": "What is the true shape of the Earth? (variant 122)",
       "options": [
         "Square",
         "Triangle",
@@ -1591,7 +1591,7 @@
     },
     {
       "id": "geo_123",
-      "text": "Rotation period: (variant 123)",
+      "text": "How long does the Earth take to complete one rotation on its axis? (variant 123)",
       "options": [
         "1 hour",
         "24 hours",
@@ -1604,7 +1604,7 @@
     },
     {
       "id": "geo_124",
-      "text": "Latitude measures: (variant 124)",
+      "text": "What does latitude measure on the Earth's surface? (variant 124)",
       "options": [
         "North/south equator",
         "East/west Greenwich",
@@ -1617,7 +1617,7 @@
     },
     {
       "id": "geo_125",
-      "text": "Greenwich is: (variant 125)",
+      "text": "The Greenwich Meridian represents which line of longitude? (variant 125)",
       "options": [
         "0° latitude",
         "90° long",
@@ -1630,7 +1630,7 @@
     },
     {
       "id": "geo_126",
-      "text": "Map scale is: (variant 126)",
+      "text": "What does the scale of a map represent? (variant 126)",
       "options": [
         "Only ground",
         "No ratio",
@@ -1643,7 +1643,7 @@
     },
     {
       "id": "geo_127",
-      "text": "Igneous formed by: (variant 127)",
+      "text": "How are igneous rocks formed from molten material? (variant 127)",
       "options": [
         "Weathering",
         "Cooling magma",
@@ -1656,7 +1656,7 @@
     },
     {
       "id": "geo_128",
-      "text": "Rain gauge measures: (variant 128)",
+      "text": "What does a standard rain gauge measure in meteorology? (variant 128)",
       "options": [
         "Rainfall",
         "Temperature",
@@ -1669,7 +1669,7 @@
     },
     {
       "id": "geo_129",
-      "text": "Largest ocean: (variant 129)",
+      "text": "Which is the largest ocean in the world? (variant 129)",
       "options": [
         "Atlantic",
         "Indian",
@@ -1682,7 +1682,7 @@
     },
     {
       "id": "geo_130",
-      "text": "Nile longest in: (variant 130)",
+      "text": "The River Nile is the longest river in which continent? (variant 130)",
       "options": [
         "No longest",
         "Only Nigeria",
@@ -1695,7 +1695,7 @@
     },
     {
       "id": "geo_131",
-      "text": "Population density: (variant 131)",
+      "text": "How is population density defined? (variant 131)",
       "options": [
         "No number",
         "People per area",
@@ -1708,7 +1708,7 @@
     },
     {
       "id": "geo_132",
-      "text": "Lagos largest city in: (variant 132)",
+      "text": "Lagos is the largest city in which country? (variant 132)",
       "options": [
         "Nigeria",
         "Ghana",
@@ -1721,7 +1721,7 @@
     },
     {
       "id": "geo_133",
-      "text": "Primary activity: (variant 133)",
+      "text": "Which of the following is an example of a primary economic activity? (variant 133)",
       "options": [
         "Manufacturing",
         "Trading",
@@ -1734,7 +1734,7 @@
     },
     {
       "id": "geo_134",
-      "text": "Petroleum in: (variant 134)",
+      "text": "Petroleum is mainly found in which region of Nigeria? (variant 134)",
       "options": [
         "Kano",
         "Borno",
@@ -1747,7 +1747,7 @@
     },
     {
       "id": "geo_135",
-      "text": "Contour lines join: (variant 135)",
+      "text": "What do contour lines on a topographic map join together? (variant 135)",
       "options": [
         "Equal pressure",
         "Equal height",
@@ -1760,7 +1760,7 @@
     },
     {
       "id": "geo_136",
-      "text": "GIS means: (variant 136)",
+      "text": "What does GIS stand for in geography? (variant 136)",
       "options": [
         "Geographic Information System",
         "General",
@@ -1773,7 +1773,7 @@
     },
     {
       "id": "geo_137",
-      "text": "Desertification common in: (variant 137)",
+      "text": "Desertification is most common in which part of Nigeria? (variant 137)",
       "options": [
         "South",
         "No where",
@@ -1786,7 +1786,7 @@
     },
     {
       "id": "geo_138",
-      "text": "Renewable resource: (variant 138)",
+      "text": "Which of the following is a renewable resource? (variant 138)",
       "options": [
         "Coal",
         "Gas",
@@ -1799,7 +1799,7 @@
     },
     {
       "id": "geo_139",
-      "text": "Nigeria in: (variant 139)",
+      "text": "Nigeria is located in which region of Africa? (variant 139)",
       "options": [
         "South Africa",
         "West Africa",
@@ -1812,7 +1812,7 @@
     },
     {
       "id": "geo_140",
-      "text": "Time diff 15°: (variant 140)",
+      "text": "What is the time difference between two places separated by 15° of longitude? (variant 140)",
       "options": [
         "1 hour",
         "2 hours",
@@ -1825,7 +1825,7 @@
     },
     {
       "id": "geo_141",
-      "text": "Geography studies: (variant 141)",
+      "text": "What does the study of Geography involve? (variant 141)",
       "options": [
         "Only rocks",
         "Only animals",
@@ -1838,7 +1838,7 @@
     },
     {
       "id": "geo_142",
-      "text": "Earth shape: (variant 142)",
+      "text": "What is the true shape of the Earth? (variant 142)",
       "options": [
         "Square",
         "Triangle",
@@ -1851,7 +1851,7 @@
     },
     {
       "id": "geo_143",
-      "text": "Rotation period: (variant 143)",
+      "text": "How long does the Earth take to complete one rotation on its axis? (variant 143)",
       "options": [
         "1 hour",
         "24 hours",
@@ -1864,7 +1864,7 @@
     },
     {
       "id": "geo_144",
-      "text": "Latitude measures: (variant 144)",
+      "text": "What does latitude measure on the Earth's surface? (variant 144)",
       "options": [
         "North/south equator",
         "East/west Greenwich",
@@ -1877,7 +1877,7 @@
     },
     {
       "id": "geo_145",
-      "text": "Greenwich is: (variant 145)",
+      "text": "The Greenwich Meridian represents which line of longitude? (variant 145)",
       "options": [
         "0° latitude",
         "90° long",
@@ -1890,7 +1890,7 @@
     },
     {
       "id": "geo_146",
-      "text": "Map scale is: (variant 146)",
+      "text": "What does the scale of a map represent? (variant 146)",
       "options": [
         "Only ground",
         "No ratio",
@@ -1903,7 +1903,7 @@
     },
     {
       "id": "geo_147",
-      "text": "Igneous formed by: (variant 147)",
+      "text": "How are igneous rocks formed from molten material? (variant 147)",
       "options": [
         "Weathering",
         "Cooling magma",
@@ -1916,7 +1916,7 @@
     },
     {
       "id": "geo_148",
-      "text": "Rain gauge measures: (variant 148)",
+      "text": "What does a standard rain gauge measure in meteorology? (variant 148)",
       "options": [
         "Rainfall",
         "Temperature",
@@ -1929,7 +1929,7 @@
     },
     {
       "id": "geo_149",
-      "text": "Largest ocean: (variant 149)",
+      "text": "Which is the largest ocean in the world? (variant 149)",
       "options": [
         "Atlantic",
         "Indian",
@@ -1942,7 +1942,7 @@
     },
     {
       "id": "geo_150",
-      "text": "Nile longest in: (variant 150)",
+      "text": "The River Nile is the longest river in which continent? (variant 150)",
       "options": [
         "No longest",
         "Only Nigeria",
@@ -1955,7 +1955,7 @@
     },
     {
       "id": "geo_151",
-      "text": "Population density: (variant 151)",
+      "text": "How is population density defined? (variant 151)",
       "options": [
         "No number",
         "People per area",
@@ -1968,7 +1968,7 @@
     },
     {
       "id": "geo_152",
-      "text": "Lagos largest city in: (variant 152)",
+      "text": "Lagos is the largest city in which country? (variant 152)",
       "options": [
         "Nigeria",
         "Ghana",
@@ -1981,7 +1981,7 @@
     },
     {
       "id": "geo_153",
-      "text": "Primary activity: (variant 153)",
+      "text": "Which of the following is an example of a primary economic activity? (variant 153)",
       "options": [
         "Manufacturing",
         "Trading",
@@ -1994,7 +1994,7 @@
     },
     {
       "id": "geo_154",
-      "text": "Petroleum in: (variant 154)",
+      "text": "Petroleum is mainly found in which region of Nigeria? (variant 154)",
       "options": [
         "Kano",
         "Borno",
@@ -2007,7 +2007,7 @@
     },
     {
       "id": "geo_155",
-      "text": "Contour lines join: (variant 155)",
+      "text": "What do contour lines on a topographic map join together? (variant 155)",
       "options": [
         "Equal pressure",
         "Equal height",
@@ -2020,7 +2020,7 @@
     },
     {
       "id": "geo_156",
-      "text": "GIS means: (variant 156)",
+      "text": "What does GIS stand for in geography? (variant 156)",
       "options": [
         "Geographic Information System",
         "General",
@@ -2033,7 +2033,7 @@
     },
     {
       "id": "geo_157",
-      "text": "Desertification common in: (variant 157)",
+      "text": "Desertification is most common in which part of Nigeria? (variant 157)",
       "options": [
         "South",
         "No where",
@@ -2046,7 +2046,7 @@
     },
     {
       "id": "geo_158",
-      "text": "Renewable resource: (variant 158)",
+      "text": "Which of the following is a renewable resource? (variant 158)",
       "options": [
         "Coal",
         "Gas",
@@ -2059,7 +2059,7 @@
     },
     {
       "id": "geo_159",
-      "text": "Nigeria in: (variant 159)",
+      "text": "Nigeria is located in which region of Africa? (variant 159)",
       "options": [
         "South Africa",
         "West Africa",
@@ -2072,7 +2072,7 @@
     },
     {
       "id": "geo_160",
-      "text": "Time diff 15°: (variant 160)",
+      "text": "What is the time difference between two places separated by 15° of longitude? (variant 160)",
       "options": [
         "1 hour",
         "2 hours",
@@ -2085,7 +2085,7 @@
     },
     {
       "id": "geo_161",
-      "text": "Geography studies: (variant 161)",
+      "text": "What does the study of Geography involve? (variant 161)",
       "options": [
         "Only rocks",
         "Only animals",
@@ -2098,7 +2098,7 @@
     },
     {
       "id": "geo_162",
-      "text": "Earth shape: (variant 162)",
+      "text": "What is the true shape of the Earth? (variant 162)",
       "options": [
         "Square",
         "Triangle",
@@ -2111,7 +2111,7 @@
     },
     {
       "id": "geo_163",
-      "text": "Rotation period: (variant 163)",
+      "text": "How long does the Earth take to complete one rotation on its axis? (variant 163)",
       "options": [
         "1 hour",
         "24 hours",
@@ -2124,7 +2124,7 @@
     },
     {
       "id": "geo_164",
-      "text": "Latitude measures: (variant 164)",
+      "text": "What does latitude measure on the Earth's surface? (variant 164)",
       "options": [
         "North/south equator",
         "East/west Greenwich",
@@ -2137,7 +2137,7 @@
     },
     {
       "id": "geo_165",
-      "text": "Greenwich is: (variant 165)",
+      "text": "The Greenwich Meridian represents which line of longitude? (variant 165)",
       "options": [
         "0° latitude",
         "90° long",
@@ -2150,7 +2150,7 @@
     },
     {
       "id": "geo_166",
-      "text": "Map scale is: (variant 166)",
+      "text": "What does the scale of a map represent? (variant 166)",
       "options": [
         "Only ground",
         "No ratio",
@@ -2163,7 +2163,7 @@
     },
     {
       "id": "geo_167",
-      "text": "Igneous formed by: (variant 167)",
+      "text": "How are igneous rocks formed from molten material? (variant 167)",
       "options": [
         "Weathering",
         "Cooling magma",
@@ -2176,7 +2176,7 @@
     },
     {
       "id": "geo_168",
-      "text": "Rain gauge measures: (variant 168)",
+      "text": "What does a standard rain gauge measure in meteorology? (variant 168)",
       "options": [
         "Rainfall",
         "Temperature",
@@ -2189,7 +2189,7 @@
     },
     {
       "id": "geo_169",
-      "text": "Largest ocean: (variant 169)",
+      "text": "Which is the largest ocean in the world? (variant 169)",
       "options": [
         "Atlantic",
         "Indian",
@@ -2202,7 +2202,7 @@
     },
     {
       "id": "geo_170",
-      "text": "Nile longest in: (variant 170)",
+      "text": "The River Nile is the longest river in which continent? (variant 170)",
       "options": [
         "No longest",
         "Only Nigeria",
@@ -2215,7 +2215,7 @@
     },
     {
       "id": "geo_171",
-      "text": "Population density: (variant 171)",
+      "text": "How is population density defined? (variant 171)",
       "options": [
         "No number",
         "People per area",
@@ -2228,7 +2228,7 @@
     },
     {
       "id": "geo_172",
-      "text": "Lagos largest city in: (variant 172)",
+      "text": "Lagos is the largest city in which country? (variant 172)",
       "options": [
         "Nigeria",
         "Ghana",
@@ -2241,7 +2241,7 @@
     },
     {
       "id": "geo_173",
-      "text": "Primary activity: (variant 173)",
+      "text": "Which of the following is an example of a primary economic activity? (variant 173)",
       "options": [
         "Manufacturing",
         "Trading",
@@ -2254,7 +2254,7 @@
     },
     {
       "id": "geo_174",
-      "text": "Petroleum in: (variant 174)",
+      "text": "Petroleum is mainly found in which region of Nigeria? (variant 174)",
       "options": [
         "Kano",
         "Borno",
@@ -2267,7 +2267,7 @@
     },
     {
       "id": "geo_175",
-      "text": "Contour lines join: (variant 175)",
+      "text": "What do contour lines on a topographic map join together? (variant 175)",
       "options": [
         "Equal pressure",
         "Equal height",
@@ -2280,7 +2280,7 @@
     },
     {
       "id": "geo_176",
-      "text": "GIS means: (variant 176)",
+      "text": "What does GIS stand for in geography? (variant 176)",
       "options": [
         "Geographic Information System",
         "General",
@@ -2293,7 +2293,7 @@
     },
     {
       "id": "geo_177",
-      "text": "Desertification common in: (variant 177)",
+      "text": "Desertification is most common in which part of Nigeria? (variant 177)",
       "options": [
         "South",
         "No where",
@@ -2306,7 +2306,7 @@
     },
     {
       "id": "geo_178",
-      "text": "Renewable resource: (variant 178)",
+      "text": "Which of the following is a renewable resource? (variant 178)",
       "options": [
         "Coal",
         "Gas",
@@ -2319,7 +2319,7 @@
     },
     {
       "id": "geo_179",
-      "text": "Nigeria in: (variant 179)",
+      "text": "Nigeria is located in which region of Africa? (variant 179)",
       "options": [
         "South Africa",
         "West Africa",
@@ -2332,7 +2332,7 @@
     },
     {
       "id": "geo_180",
-      "text": "Time diff 15°: (variant 180)",
+      "text": "What is the time difference between two places separated by 15° of longitude? (variant 180)",
       "options": [
         "1 hour",
         "2 hours",
@@ -2345,7 +2345,7 @@
     },
     {
       "id": "geo_181",
-      "text": "Geography studies: (variant 181)",
+      "text": "What does the study of Geography involve? (variant 181)",
       "options": [
         "Only rocks",
         "Only animals",
@@ -2358,7 +2358,7 @@
     },
     {
       "id": "geo_182",
-      "text": "Earth shape: (variant 182)",
+      "text": "What is the true shape of the Earth? (variant 182)",
       "options": [
         "Square",
         "Triangle",
@@ -2371,7 +2371,7 @@
     },
     {
       "id": "geo_183",
-      "text": "Rotation period: (variant 183)",
+      "text": "How long does the Earth take to complete one rotation on its axis? (variant 183)",
       "options": [
         "1 hour",
         "24 hours",
@@ -2384,7 +2384,7 @@
     },
     {
       "id": "geo_184",
-      "text": "Latitude measures: (variant 184)",
+      "text": "What does latitude measure on the Earth's surface? (variant 184)",
       "options": [
         "North/south equator",
         "East/west Greenwich",
@@ -2397,7 +2397,7 @@
     },
     {
       "id": "geo_185",
-      "text": "Greenwich is: (variant 185)",
+      "text": "The Greenwich Meridian represents which line of longitude? (variant 185)",
       "options": [
         "0° latitude",
         "90° long",
@@ -2410,7 +2410,7 @@
     },
     {
       "id": "geo_186",
-      "text": "Map scale is: (variant 186)",
+      "text": "What does the scale of a map represent? (variant 186)",
       "options": [
         "Only ground",
         "No ratio",
@@ -2423,7 +2423,7 @@
     },
     {
       "id": "geo_187",
-      "text": "Igneous formed by: (variant 187)",
+      "text": "How are igneous rocks formed from molten material? (variant 187)",
       "options": [
         "Weathering",
         "Cooling magma",
@@ -2436,7 +2436,7 @@
     },
     {
       "id": "geo_188",
-      "text": "Rain gauge measures: (variant 188)",
+      "text": "What does a standard rain gauge measure in meteorology? (variant 188)",
       "options": [
         "Rainfall",
         "Temperature",
@@ -2449,7 +2449,7 @@
     },
     {
       "id": "geo_189",
-      "text": "Largest ocean: (variant 189)",
+      "text": "Which is the largest ocean in the world? (variant 189)",
       "options": [
         "Atlantic",
         "Indian",
@@ -2462,7 +2462,7 @@
     },
     {
       "id": "geo_190",
-      "text": "Nile longest in: (variant 190)",
+      "text": "The River Nile is the longest river in which continent? (variant 190)",
       "options": [
         "No longest",
         "Only Nigeria",
@@ -2475,7 +2475,7 @@
     },
     {
       "id": "geo_191",
-      "text": "Population density: (variant 191)",
+      "text": "How is population density defined? (variant 191)",
       "options": [
         "No number",
         "People per area",
@@ -2488,7 +2488,7 @@
     },
     {
       "id": "geo_192",
-      "text": "Lagos largest city in: (variant 192)",
+      "text": "Lagos is the largest city in which country? (variant 192)",
       "options": [
         "Nigeria",
         "Ghana",
@@ -2501,7 +2501,7 @@
     },
     {
       "id": "geo_193",
-      "text": "Primary activity: (variant 193)",
+      "text": "Which of the following is an example of a primary economic activity? (variant 193)",
       "options": [
         "Manufacturing",
         "Trading",
@@ -2514,7 +2514,7 @@
     },
     {
       "id": "geo_194",
-      "text": "Petroleum in: (variant 194)",
+      "text": "Petroleum is mainly found in which region of Nigeria? (variant 194)",
       "options": [
         "Kano",
         "Borno",
@@ -2527,7 +2527,7 @@
     },
     {
       "id": "geo_195",
-      "text": "Contour lines join: (variant 195)",
+      "text": "What do contour lines on a topographic map join together? (variant 195)",
       "options": [
         "Equal pressure",
         "Equal height",
@@ -2540,7 +2540,7 @@
     },
     {
       "id": "geo_196",
-      "text": "GIS means: (variant 196)",
+      "text": "What does GIS stand for in geography? (variant 196)",
       "options": [
         "Geographic Information System",
         "General",
@@ -2553,7 +2553,7 @@
     },
     {
       "id": "geo_197",
-      "text": "Desertification common in: (variant 197)",
+      "text": "Desertification is most common in which part of Nigeria? (variant 197)",
       "options": [
         "South",
         "No where",
@@ -2566,7 +2566,7 @@
     },
     {
       "id": "geo_198",
-      "text": "Renewable resource: (variant 198)",
+      "text": "Which of the following is a renewable resource? (variant 198)",
       "options": [
         "Coal",
         "Gas",
@@ -2579,7 +2579,7 @@
     },
     {
       "id": "geo_199",
-      "text": "Nigeria in: (variant 199)",
+      "text": "Nigeria is located in which region of Africa? (variant 199)",
       "options": [
         "South Africa",
         "West Africa",
@@ -2592,7 +2592,7 @@
     },
     {
       "id": "geo_200",
-      "text": "Time diff 15°: (variant 200)",
+      "text": "What is the time difference between two places separated by 15° of longitude? (variant 200)",
       "options": [
         "1 hour",
         "2 hours",

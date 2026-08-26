@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": "acc_001",
-      "text": "Bookkeeping is the process of:",
+      "text": "Bookkeeping is the process of recording financial transactions",
       "options": [
         "Auditing",
         "Taxing",
@@ -18,7 +18,7 @@
     },
     {
       "id": "acc_002",
-      "text": "Accounting is best defined as:",
+      "text": "Accounting is best defined as the process of:",
       "options": [
         "Auditing",
         "Filing returns",
@@ -83,7 +83,7 @@
     },
     {
       "id": "acc_007",
-      "text": "A business transaction is:",
+      "text": "A business transaction is best described as:",
       "options": [
         "A meeting",
         "Any event",
@@ -96,7 +96,7 @@
     },
     {
       "id": "acc_008",
-      "text": "The book of original entry is the:",
+      "text": "The book of original entry is known as:",
       "options": [
         "Ledger",
         "Journal/day book",
@@ -122,7 +122,7 @@
     },
     {
       "id": "acc_010",
-      "text": "A ledger is a book containing:",
+      "text": "A ledger is a book that contains accounts of:",
       "options": [
         "Invoices",
         "Receipts",
@@ -161,7 +161,7 @@
     },
     {
       "id": "acc_013",
-      "text": "A credit entry is made on the:",
+      "text": "A credit entry is made on which side of an account?",
       "options": [
         "Right side",
         "Top",
@@ -174,7 +174,7 @@
     },
     {
       "id": "acc_014",
-      "text": "Assets increase with a:",
+      "text": "Assets increase with which type of entry?",
       "options": [
         "Both",
         "Neither",
@@ -187,7 +187,7 @@
     },
     {
       "id": "acc_015",
-      "text": "Liabilities increase with a:",
+      "text": "Liabilities increase with which type of entry?",
       "options": [
         "Neither",
         "Debit",
@@ -200,7 +200,7 @@
     },
     {
       "id": "acc_016",
-      "text": "Capital increases with a:",
+      "text": "Capital increases with which type of entry?",
       "options": [
         "Debit",
         "Credit",
@@ -213,7 +213,7 @@
     },
     {
       "id": "acc_017",
-      "text": "Expenses increase with a:",
+      "text": "Expenses increase with which type of entry?",
       "options": [
         "Debit",
         "Both",
@@ -226,7 +226,7 @@
     },
     {
       "id": "acc_018",
-      "text": "Income increases with a:",
+      "text": "Income increases with which type of entry?",
       "options": [
         "Both",
         "Neither",
@@ -239,7 +239,7 @@
     },
     {
       "id": "acc_019",
-      "text": "The accounting equation is:",
+      "text": "The accounting equation is expressed as:",
       "options": [
         "Assets = Liabilities × Capital",
         "Assets = Liabilities + Capital",
@@ -265,7 +265,7 @@
     },
     {
       "id": "acc_021",
-      "text": "Sales of goods are recorded in the:",
+      "text": "Which of the following best describes or relates to Sales of goods are recorded in the?",
       "options": [
         "Sales account",
         "Capital account",
@@ -356,7 +356,7 @@
     },
     {
       "id": "acc_028",
-      "text": "The cash book is a book of:",
+      "text": "The cash book serves as a book of original:",
       "options": [
         "Secondary entry only",
         "Prime entry that combines cash and bank",
@@ -395,7 +395,7 @@
     },
     {
       "id": "acc_031",
-      "text": "The petty cash book records:",
+      "text": "The petty cash book is used to record:",
       "options": [
         "Investments",
         "Large payments",
@@ -486,7 +486,7 @@
     },
     {
       "id": "acc_038",
-      "text": "An unpresented cheque is one:",
+      "text": "An unpresented cheque is one that has been:",
       "options": [
         "Deposited",
         "Lost",
@@ -499,7 +499,7 @@
     },
     {
       "id": "acc_039",
-      "text": "An uncredited cheque is one:",
+      "text": "An uncredited cheque is one that has been:",
       "options": [
         "Bounced",
         "Paid out",
@@ -512,7 +512,7 @@
     },
     {
       "id": "acc_040",
-      "text": "Bank charges appear in the:",
+      "text": "Bank charges appear in which record first?",
       "options": [
         "Cash book only",
         "Bank statement (not yet in cash book)",
@@ -525,7 +525,7 @@
     },
     {
       "id": "acc_041",
-      "text": "A standing order is:",
+      "text": "A standing order is best described as:",
       "options": [
         "A regular payment authorised to the bank",
         "A deposit",
@@ -590,7 +590,7 @@
     },
     {
       "id": "acc_046",
-      "text": "Gross profit equals:",
+      "text": "Gross profit is calculated as sales less:",
       "options": [
         "Revenue − all expenses",
         "Assets − liabilities",
@@ -603,7 +603,7 @@
     },
     {
       "id": "acc_047",
-      "text": "Cost of goods sold equals:",
+      "text": "Cost of goods sold is calculated as:",
       "options": [
         "Closing stock − purchases",
         "Opening stock + purchases − closing stock",
@@ -616,7 +616,7 @@
     },
     {
       "id": "acc_048",
-      "text": "Net profit equals:",
+      "text": "Net profit is calculated as gross profit less:",
       "options": [
         "Gross profit − expenses",
         "Gross profit + expenses",
@@ -629,7 +629,7 @@
     },
     {
       "id": "acc_049",
-      "text": "The profit and loss account shows:",
+      "text": "The profit and loss account shows the results of:",
       "options": [
         "Net profit or loss",
         "Assets",
@@ -655,7 +655,7 @@
     },
     {
       "id": "acc_051",
-      "text": "The balance sheet equation is:",
+      "text": "The balance sheet equation is expressed as:",
       "options": [
         "Assets = Revenue",
         "Assets = Liabilities + Capital",
@@ -707,7 +707,7 @@
     },
     {
       "id": "acc_055",
-      "text": "Depreciation is the:",
+      "text": "Depreciation is the systematic allocation of:",
       "options": [
         "Revenue",
         "Increase in asset value",
@@ -746,7 +746,7 @@
     },
     {
       "id": "acc_058",
-      "text": "Accrued expenses are expenses:",
+      "text": "Accrued expenses refer to expenses that have been:",
       "options": [
         "Cancelled",
         "Refunded",
@@ -759,7 +759,7 @@
     },
     {
       "id": "acc_059",
-      "text": "Prepaid expenses are expenses:",
+      "text": "Prepaid expenses refer to expenses that have been:",
       "options": [
         "Refunded",
         "Not yet incurred",
@@ -772,7 +772,7 @@
     },
     {
       "id": "acc_060",
-      "text": "Accrued income is income:",
+      "text": "Accrued income refers to income that has been:",
       "options": [
         "Received",
         "Earned but not yet received",
@@ -785,7 +785,7 @@
     },
     {
       "id": "acc_061",
-      "text": "Income received in advance is:",
+      "text": "Income received in advance is best described as:",
       "options": [
         "Received but not yet earned",
         "Refunded",
@@ -798,7 +798,7 @@
     },
     {
       "id": "acc_062",
-      "text": "Bad debts are debts that are:",
+      "text": "Bad debts are debts that are considered:",
       "options": [
         "New",
         "Paid early",
@@ -811,7 +811,7 @@
     },
     {
       "id": "acc_063",
-      "text": "A provision for doubtful debts is:",
+      "text": "A provision for doubtful debts is best described as:",
       "options": [
         "Cash",
         "An asset",
@@ -824,7 +824,7 @@
     },
     {
       "id": "acc_064",
-      "text": "Carriage inwards is added to:",
+      "text": "Carriage inwards is added to which cost element?",
       "options": [
         "Sales",
         "Purchases",
@@ -850,7 +850,7 @@
     },
     {
       "id": "acc_066",
-      "text": "Returns inwards are:",
+      "text": "Returns inwards refer to goods returned by:",
       "options": [
         "Cash sales",
         "Purchases",
@@ -863,7 +863,7 @@
     },
     {
       "id": "acc_067",
-      "text": "Returns outwards are:",
+      "text": "Returns outwards refer to goods returned to:",
       "options": [
         "Sales",
         "From customers",
@@ -915,7 +915,7 @@
     },
     {
       "id": "acc_071",
-      "text": "The LIFO method means:",
+      "text": "In which context or location does The LIFO method stands for last apply?",
       "options": [
         "Lowest cost",
         "First-in, first-out",
@@ -941,7 +941,7 @@
     },
     {
       "id": "acc_073",
-      "text": "Closing stock appears in the:",
+      "text": "Closing stock appears in which financial statement?",
       "options": [
         "Cash book",
         "Journal",
@@ -954,7 +954,7 @@
     },
     {
       "id": "acc_074",
-      "text": "Opening stock is:",
+      "text": "Opening stock is defined as the value of:",
       "options": [
         "Purchases",
         "Sales",
@@ -993,7 +993,7 @@
     },
     {
       "id": "acc_077",
-      "text": "Control accounts are kept in the:",
+      "text": "Control accounts are maintained in which ledger?",
       "options": [
         "General ledger",
         "Cash book",
@@ -1058,7 +1058,7 @@
     },
     {
       "id": "acc_082",
-      "text": "Drawings are:",
+      "text": "Drawings refer to goods or cash taken:",
       "options": [
         "Sales",
         "Loans",
@@ -1084,7 +1084,7 @@
     },
     {
       "id": "acc_084",
-      "text": "Direct costs are costs:",
+      "text": "Which of the following best describes or relates to Direct costs are costs that can be?",
       "options": [
         "Not traceable to products",
         "Directly traceable to production",
@@ -1097,7 +1097,7 @@
     },
     {
       "id": "acc_085",
-      "text": "Direct materials are part of:",
+      "text": "Direct materials are a component of:",
       "options": [
         "Prime cost",
         "Indirect cost",
@@ -1110,7 +1110,7 @@
     },
     {
       "id": "acc_086",
-      "text": "Prime cost equals:",
+      "text": "Prime cost is calculated as direct labour plus:",
       "options": [
         "Indirect costs",
         "Selling costs",
@@ -1123,7 +1123,7 @@
     },
     {
       "id": "acc_087",
-      "text": "Factory overheads are:",
+      "text": "Factory overheads are best described as:",
       "options": [
         "Direct materials",
         "Direct costs",
@@ -1136,7 +1136,7 @@
     },
     {
       "id": "acc_088",
-      "text": "Work-in-progress is:",
+      "text": "Work-in-progress refers to partially:",
       "options": [
         "Finished goods",
         "Partially completed goods",
@@ -1201,7 +1201,7 @@
     },
     {
       "id": "acc_093",
-      "text": "Subscription in arrears is:",
+      "text": "Subscription in arrears refers to payments:",
       "options": [
         "Owed by members",
         "Refunded",
@@ -1214,7 +1214,7 @@
     },
     {
       "id": "acc_094",
-      "text": "Subscriptions in advance are:",
+      "text": "Subscriptions in advance are best described as:",
       "options": [
         "Refunded",
         "Waived",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": "acc_095",
-      "text": "A partnership is governed by a:",
+      "text": "A partnership is governed by a legal document called:",
       "options": [
         "Receipt",
         "Memorandum",
@@ -1266,7 +1266,7 @@
     },
     {
       "id": "acc_098",
-      "text": "A company's owners are its:",
+      "text": "The owners of a company are known as:",
       "options": [
         "Employees",
         "Customers",
@@ -1279,7 +1279,7 @@
     },
     {
       "id": "acc_099",
-      "text": "The capital of a company is called:",
+      "text": "Which of the following best describes or relates to The capital of a company is called?",
       "options": [
         "Reserve only",
         "Accumulated fund",
@@ -1305,7 +1305,7 @@
     },
     {
       "id": "acc_101",
-      "text": "Retained earnings are:",
+      "text": "Retained earnings are best described as:",
       "options": [
         "Profit kept in the business",
         "Losses",
@@ -1344,7 +1344,7 @@
     },
     {
       "id": "acc_104",
-      "text": "Called-up capital is the:",
+      "text": "Which of the following best describes or relates to Called-up capital is the amount of?",
       "options": [
         "Maximum",
         "Amount shareholders are required to pay",
@@ -1357,7 +1357,7 @@
     },
     {
       "id": "acc_105",
-      "text": "Government accounting is based on:",
+      "text": "Government accounting is primarily based on:",
       "options": [
         "Cash basis (usually)",
         "Credit basis",
@@ -1422,7 +1422,7 @@
     },
     {
       "id": "acc_110",
-      "text": "A trial balance is prepared to:",
+      "text": "A trial balance is prepared to check:",
       "options": [
         "Show assets",
         "Pay tax",
@@ -1435,7 +1435,7 @@
     },
     {
       "id": "acc_111",
-      "text": "A trial balance is a list of:",
+      "text": "A trial balance is a list of all ledger:",
       "options": [
         "Only income",
         "All ledger balances",
@@ -1461,7 +1461,7 @@
     },
     {
       "id": "acc_113",
-      "text": "The journal is used to record:",
+      "text": "The journal is used to record which type of transactions?",
       "options": [
         "Non-routine and adjusting entries",
         "Sales only",
@@ -1539,7 +1539,7 @@
     },
     {
       "id": "acc_119",
-      "text": "Capital expenditure is spending on:",
+      "text": "Which of the following best describes or relates to Capital expenditure is spending on?",
       "options": [
         "Rent",
         "Daily expenses",
@@ -1552,7 +1552,7 @@
     },
     {
       "id": "acc_120",
-      "text": "Revenue expenditure is spending on:",
+      "text": "Which of the following best describes or relates to Revenue expenditure is spending on?",
       "options": [
         "Fixed assets",
         "Day-to-day running costs",
@@ -1565,7 +1565,7 @@
     },
     {
       "id": "acc_121",
-      "text": "An asset is:",
+      "text": "An asset is defined as a resource owned:",
       "options": [
         "A resource owned that has value",
         "A loss",
@@ -1578,7 +1578,7 @@
     },
     {
       "id": "acc_122",
-      "text": "A liability is:",
+      "text": "A liability is defined as an obligation:",
       "options": [
         "Capital",
         "Revenue",
@@ -1591,7 +1591,7 @@
     },
     {
       "id": "acc_123",
-      "text": "Owner's equity is:",
+      "text": "Owner's equity is defined as assets less:",
       "options": [
         "An expense",
         "A liability only",
@@ -1656,7 +1656,7 @@
     },
     {
       "id": "acc_128",
-      "text": "A nominal account records:",
+      "text": "A nominal account is used to record:",
       "options": [
         "Persons",
         "Assets",
@@ -1669,7 +1669,7 @@
     },
     {
       "id": "acc_129",
-      "text": "A real account records:",
+      "text": "A real account is used to record assets:",
       "options": [
         "Assets",
         "Expenses",
@@ -1682,7 +1682,7 @@
     },
     {
       "id": "acc_130",
-      "text": "A personal account records:",
+      "text": "A personal account is used to record:",
       "options": [
         "Income",
         "Expenses",
@@ -1721,7 +1721,7 @@
     },
     {
       "id": "acc_133",
-      "text": "The general ledger contains:",
+      "text": "The general ledger contains which accounts?",
       "options": [
         "All other accounts (assets, capital, etc.)",
         "Only suppliers",
@@ -1747,7 +1747,7 @@
     },
     {
       "id": "acc_135",
-      "text": "A bank overdraft is:",
+      "text": "A bank overdraft is best described as:",
       "options": [
         "Revenue",
         "An asset",
@@ -1760,7 +1760,7 @@
     },
     {
       "id": "acc_136",
-      "text": "The provision for depreciation is:",
+      "text": "The provision for depreciation is used to:",
       "options": [
         "An expense",
         "A contra-asset account",
@@ -1773,7 +1773,7 @@
     },
     {
       "id": "acc_137",
-      "text": "Goodwill is a(n):",
+      "text": "Goodwill is classified as an intangible:",
       "options": [
         "Intangible asset",
         "Liability",
@@ -1799,7 +1799,7 @@
     },
     {
       "id": "acc_139",
-      "text": "The purchases day book records:",
+      "text": "The purchases day book is used to record:",
       "options": [
         "Credit sales",
         "Cash purchases",
@@ -1851,7 +1851,7 @@
     },
     {
       "id": "acc_143",
-      "text": "A suspense account is used to:",
+      "text": "A suspense account is used to temporarily:",
       "options": [
         "Pay tax",
         "Hold errors pending correction",
@@ -1864,7 +1864,7 @@
     },
     {
       "id": "acc_144",
-      "text": "An error of commission is:",
+      "text": "Which of the following best describes or relates to An error of commission occurs when?",
       "options": [
         "Posting to the wrong account of the same class",
         "Posting to a wrong side",
@@ -1877,7 +1877,7 @@
     },
     {
       "id": "acc_145",
-      "text": "An error of omission is:",
+      "text": "An error of omission occurs when a transaction:",
       "options": [
         "Leaving out an entry entirely",
         "Posting wrong side",
@@ -1903,7 +1903,7 @@
     },
     {
       "id": "acc_147",
-      "text": "An error of original entry is:",
+      "text": "An error of original entry occurs when:",
       "options": [
         "A commission",
         "A wrong figure in both accounts",
@@ -1916,7 +1916,7 @@
     },
     {
       "id": "acc_148",
-      "text": "A compensating error is when:",
+      "text": "A compensating error occurs when two or more:",
       "options": [
         "Two errors cancel each other",
         "One error",
@@ -1955,7 +1955,7 @@
     },
     {
       "id": "acc_151",
-      "text": "The current ratio is:",
+      "text": "How is The current ratio calculated?",
       "options": [
         "Profit / capital",
         "Current assets / current liabilities",
@@ -1994,7 +1994,7 @@
     },
     {
       "id": "acc_154",
-      "text": "The rate of stock turnover is:",
+      "text": "The rate of stock turnover measures:",
       "options": [
         "Sales / capital",
         "Profit / stock",
@@ -2072,7 +2072,7 @@
     },
     {
       "id": "acc_160",
-      "text": "The reducing balance method gives:",
+      "text": "The reducing balance method of depreciation gives:",
       "options": [
         "Equal charges",
         "Decreasing annual charges",
@@ -2189,7 +2189,7 @@
     },
     {
       "id": "acc_169",
-      "text": "The main books of account are the:",
+      "text": "The main books of account include the:",
       "options": [
         "Invoice and receipt",
         "Cash book only",
@@ -2215,7 +2215,7 @@
     },
     {
       "id": "acc_171",
-      "text": "The imprest amount is the:",
+      "text": "The imprest amount refers to a fixed sum:",
       "options": [
         "Loan",
         "Spent amount",
@@ -2267,7 +2267,7 @@
     },
     {
       "id": "acc_175",
-      "text": "The auditor's report expresses:",
+      "text": "The auditor's report expresses an opinion on:",
       "options": [
         "Dividend",
         "A sales forecast",
@@ -2280,7 +2280,7 @@
     },
     {
       "id": "acc_176",
-      "text": "The accounting period is usually:",
+      "text": "The accounting period is usually one:",
       "options": [
         "One year",
         "One month",
@@ -2345,7 +2345,7 @@
     },
     {
       "id": "acc_181",
-      "text": "The matching concept matches:",
+      "text": "The matching concept matches expenses with:",
       "options": [
         "Revenue with the expenses incurred to earn it",
         "Cash with bank",
@@ -2384,7 +2384,7 @@
     },
     {
       "id": "acc_184",
-      "text": "The entity concept separates:",
+      "text": "The entity concept separates business transactions from:",
       "options": [
         "Business and owner's affairs",
         "Assets and liabilities",
@@ -2423,7 +2423,7 @@
     },
     {
       "id": "acc_187",
-      "text": "A budget is a:",
+      "text": "A budget is best described as a financial:",
       "options": [
         "Invoice",
         "Record of the past",
@@ -2436,7 +2436,7 @@
     },
     {
       "id": "acc_188",
-      "text": "Variance analysis compares:",
+      "text": "Variance analysis compares actual results with:",
       "options": [
         "Two companies",
         "Actual results with budgeted figures",
@@ -2475,7 +2475,7 @@
     },
     {
       "id": "acc_191",
-      "text": "Cost accounting deals with:",
+      "text": "Cost accounting deals with the process of:",
       "options": [
         "Only sales",
         "Determining the cost of products",
@@ -2514,7 +2514,7 @@
     },
     {
       "id": "acc_194",
-      "text": "The payroll records show:",
+      "text": "The payroll records show details of:",
       "options": [
         "Stock",
         "Assets",
@@ -2527,7 +2527,7 @@
     },
     {
       "id": "acc_195",
-      "text": "Gross pay is:",
+      "text": "Gross pay is best described as total earnings:",
       "options": [
         "Pension only",
         "Net pay",
@@ -2540,7 +2540,7 @@
     },
     {
       "id": "acc_196",
-      "text": "Net pay is:",
+      "text": "Net pay is calculated as gross pay less:",
       "options": [
         "Gross pay",
         "Gross pay minus deductions",
@@ -2553,7 +2553,7 @@
     },
     {
       "id": "acc_197",
-      "text": "Deductions from wages include:",
+      "text": "Common deductions from wages include:",
       "options": [
         "Tax and pension contributions",
         "Overtime",
@@ -2579,7 +2579,7 @@
     },
     {
       "id": "acc_199",
-      "text": "The cash book is kept by the:",
+      "text": "The cash book is maintained by which officer?",
       "options": [
         "Registrar",
         "Bank",
@@ -2592,7 +2592,7 @@
     },
     {
       "id": "acc_200",
-      "text": "A cheque is a:",
+      "text": "A cheque is best described as a written:",
       "options": [
         "Currency",
         "Written order to a bank to pay money",

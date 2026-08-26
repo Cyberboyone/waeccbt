@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": "fmat_001",
-      "text": "If U={1,2,3,4,5} A={1,2,3} A'=",
+      "text": "What is the complement of the set A={1,2,3} in the universal set U={1,2,3,4,5}?",
       "options": [
         "{1,2,3}",
         "{1-5}",
@@ -18,7 +18,7 @@
     },
     {
       "id": "fmat_002",
-      "text": "Subsets of {a,b,c}:",
+      "text": "How many subsets does the set {a,b,c} have?",
       "options": [
         "6",
         "9",
@@ -31,7 +31,7 @@
     },
     {
       "id": "fmat_003",
-      "text": "1011₂ to decimal:",
+      "text": "What is the decimal equivalent of the binary number 1011₂?",
       "options": [
         "13",
         "11",
@@ -44,7 +44,7 @@
     },
     {
       "id": "fmat_004",
-      "text": "Simplify √12:",
+      "text": "Simplify the surd √12 to its simplest form.",
       "options": [
         "2√3",
         "3√2",
@@ -57,7 +57,7 @@
     },
     {
       "id": "fmat_005",
-      "text": "|3+4i|=",
+      "text": "What is the modulus (absolute value) of the complex number 3+4i?",
       "options": [
         "7",
         "1",
@@ -70,7 +70,7 @@
     },
     {
       "id": "fmat_006",
-      "text": "i²=",
+      "text": "What is the value of i² in complex number arithmetic?",
       "options": [
         "0",
         "i",
@@ -83,7 +83,7 @@
     },
     {
       "id": "fmat_007",
-      "text": "Roots x²-5x+6=0:",
+      "text": "What are the roots of the quadratic equation x²-5x+6=0?",
       "options": [
         "2 -3",
         "2 and 3",
@@ -96,7 +96,7 @@
     },
     {
       "id": "fmat_008",
-      "text": "Discriminant:",
+      "text": "What is the formula for the discriminant of a quadratic equation?",
       "options": [
         "b²-4ac",
         "b²+4ac",
@@ -109,7 +109,7 @@
     },
     {
       "id": "fmat_009",
-      "text": "AP first term 3n+2 n=1:",
+      "text": "In an arithmetic progression, if the nth term is given by Tn=3n+2, what is the first term when n=1?",
       "options": [
         "2",
         "3",
@@ -122,7 +122,7 @@
     },
     {
       "id": "fmat_010",
-      "text": "GP first 2 ratio3 second:",
+      "text": "In a geometric progression, the first term is 2 and the common ratio is 3. What is the second term?",
       "options": [
         "3",
         "9",
@@ -135,7 +135,7 @@
     },
     {
       "id": "fmat_011",
-      "text": "Det [[1,2],[3,4]]:",
+      "text": "What is the determinant of the 2×2 matrix [[1,2],[3,4]]?",
       "options": [
         "0",
         "-2",
@@ -148,7 +148,7 @@
     },
     {
       "id": "fmat_012",
-      "text": "Distance (0,0)-(3,4):",
+      "text": "What is the distance between the points (0,0) and (3,4)?",
       "options": [
         "5",
         "7",
@@ -161,7 +161,7 @@
     },
     {
       "id": "fmat_013",
-      "text": "sin30°=",
+      "text": "What is the value of sin 30 degrees?",
       "options": [
         "√3/2",
         "1",
@@ -174,7 +174,7 @@
     },
     {
       "id": "fmat_014",
-      "text": "sin²+cos²=",
+      "text": "What is the value of the trigonometric identity sin²θ + cos²θ?",
       "options": [
         "2",
         "sin2θ",
@@ -187,7 +187,7 @@
     },
     {
       "id": "fmat_015",
-      "text": "y=x³ dy/dx:",
+      "text": "If y = x³, what is the derivative dy/dx?",
       "options": [
         "x³",
         "3x²",
@@ -200,7 +200,7 @@
     },
     {
       "id": "fmat_016",
-      "text": "∫x² dx:",
+      "text": "What is the integral of x² with respect to x?",
       "options": [
         "x³/3+C",
         "x³+C",
@@ -213,7 +213,7 @@
     },
     {
       "id": "fmat_017",
-      "text": "Mean 2,4,6:",
+      "text": "What is the arithmetic mean of the numbers 2, 4, and 6?",
       "options": [
         "6",
         "3",
@@ -226,7 +226,7 @@
     },
     {
       "id": "fmat_018",
-      "text": "Prob between:",
+      "text": "What is the range of values that any probability can take?",
       "options": [
         "-1 and 1",
         "0 and 10",
@@ -239,7 +239,7 @@
     },
     {
       "id": "fmat_019",
-      "text": "3 books arrangements:",
+      "text": "In how many different ways can 3 books be arranged on a shelf?",
       "options": [
         "2",
         "6",
@@ -252,7 +252,7 @@
     },
     {
       "id": "fmat_020",
-      "text": "F=ma, F is:",
+      "text": "In Newton's second law F = ma, what does F represent?",
       "options": [
         "Force",
         "Energy",
@@ -265,7 +265,7 @@
     },
     {
       "id": "fmat_021",
-      "text": "If U={1,2,3,4,5} A={1,2,3} A'= (variant 21)",
+      "text": "What is the complement of the set A={1,2,3} in the universal set U={1,2,3,4,5}? (variant 21)",
       "options": [
         "{1,2,3}",
         "{1-5}",
@@ -278,7 +278,7 @@
     },
     {
       "id": "fmat_022",
-      "text": "Subsets of {a,b,c}: (variant 22)",
+      "text": "How many subsets does the set {a,b,c} have? (variant 22)",
       "options": [
         "6",
         "9",
@@ -291,7 +291,7 @@
     },
     {
       "id": "fmat_023",
-      "text": "1011₂ to decimal: (variant 23)",
+      "text": "What is the decimal equivalent of the binary number 1011₂? (variant 23)",
       "options": [
         "13",
         "11",
@@ -304,7 +304,7 @@
     },
     {
       "id": "fmat_024",
-      "text": "Simplify √12: (variant 24)",
+      "text": "Simplify the surd √12 to its simplest form. (variant 24)",
       "options": [
         "2√3",
         "3√2",
@@ -317,7 +317,7 @@
     },
     {
       "id": "fmat_025",
-      "text": "|3+4i|= (variant 25)",
+      "text": "What is the modulus (absolute value) of the complex number 3+4i? (variant 25)",
       "options": [
         "7",
         "1",
@@ -330,7 +330,7 @@
     },
     {
       "id": "fmat_026",
-      "text": "i²= (variant 26)",
+      "text": "What is the value of i² in complex number arithmetic? (variant 26)",
       "options": [
         "0",
         "i",
@@ -343,7 +343,7 @@
     },
     {
       "id": "fmat_027",
-      "text": "Roots x²-5x+6=0: (variant 27)",
+      "text": "What are the roots of the quadratic equation x²-5x+6=0? (variant 27)",
       "options": [
         "2 -3",
         "2 and 3",
@@ -356,7 +356,7 @@
     },
     {
       "id": "fmat_028",
-      "text": "Discriminant: (variant 28)",
+      "text": "What is the formula for the discriminant of a quadratic equation? (variant 28)",
       "options": [
         "b²-4ac",
         "b²+4ac",
@@ -369,7 +369,7 @@
     },
     {
       "id": "fmat_029",
-      "text": "AP first term 3n+2 n=1: (variant 29)",
+      "text": "In an arithmetic progression, if the nth term is given by Tn=3n+2, what is the first term when n=1? (variant 29)",
       "options": [
         "2",
         "3",
@@ -382,7 +382,7 @@
     },
     {
       "id": "fmat_030",
-      "text": "GP first 2 ratio3 second: (variant 30)",
+      "text": "In a geometric progression, the first term is 2 and the common ratio is 3. What is the second term? (variant 30)",
       "options": [
         "3",
         "9",
@@ -395,7 +395,7 @@
     },
     {
       "id": "fmat_031",
-      "text": "Det [[1,2],[3,4]]: (variant 31)",
+      "text": "What is the determinant of the 2×2 matrix [[1,2],[3,4]]? (variant 31)",
       "options": [
         "0",
         "-2",
@@ -408,7 +408,7 @@
     },
     {
       "id": "fmat_032",
-      "text": "Distance (0,0)-(3,4): (variant 32)",
+      "text": "What is the distance between the points (0,0) and (3,4)? (variant 32)",
       "options": [
         "5",
         "7",
@@ -421,7 +421,7 @@
     },
     {
       "id": "fmat_033",
-      "text": "sin30°= (variant 33)",
+      "text": "What is the value of sin 30 degrees? (variant 33)",
       "options": [
         "√3/2",
         "1",
@@ -434,7 +434,7 @@
     },
     {
       "id": "fmat_034",
-      "text": "sin²+cos²= (variant 34)",
+      "text": "What is the value of the trigonometric identity sin²θ + cos²θ? (variant 34)",
       "options": [
         "2",
         "sin2θ",
@@ -447,7 +447,7 @@
     },
     {
       "id": "fmat_035",
-      "text": "y=x³ dy/dx: (variant 35)",
+      "text": "If y = x³, what is the derivative dy/dx? (variant 35)",
       "options": [
         "x³",
         "3x²",
@@ -460,7 +460,7 @@
     },
     {
       "id": "fmat_036",
-      "text": "∫x² dx: (variant 36)",
+      "text": "What is the integral of x² with respect to x? (variant 36)",
       "options": [
         "x³/3+C",
         "x³+C",
@@ -473,7 +473,7 @@
     },
     {
       "id": "fmat_037",
-      "text": "Mean 2,4,6: (variant 37)",
+      "text": "What is the arithmetic mean of the numbers 2, 4, and 6? (variant 37)",
       "options": [
         "6",
         "3",
@@ -486,7 +486,7 @@
     },
     {
       "id": "fmat_038",
-      "text": "Prob between: (variant 38)",
+      "text": "What is the range of values that any probability can take? (variant 38)",
       "options": [
         "-1 and 1",
         "0 and 10",
@@ -499,7 +499,7 @@
     },
     {
       "id": "fmat_039",
-      "text": "3 books arrangements: (variant 39)",
+      "text": "In how many different ways can 3 books be arranged on a shelf? (variant 39)",
       "options": [
         "2",
         "6",
@@ -512,7 +512,7 @@
     },
     {
       "id": "fmat_040",
-      "text": "F=ma, F is: (variant 40)",
+      "text": "In Newton's second law F = ma, what does F represent? (variant 40)",
       "options": [
         "Force",
         "Energy",
@@ -525,7 +525,7 @@
     },
     {
       "id": "fmat_041",
-      "text": "If U={1,2,3,4,5} A={1,2,3} A'= (variant 41)",
+      "text": "What is the complement of the set A={1,2,3} in the universal set U={1,2,3,4,5}? (variant 41)",
       "options": [
         "{1,2,3}",
         "{1-5}",
@@ -538,7 +538,7 @@
     },
     {
       "id": "fmat_042",
-      "text": "Subsets of {a,b,c}: (variant 42)",
+      "text": "How many subsets does the set {a,b,c} have? (variant 42)",
       "options": [
         "6",
         "9",
@@ -551,7 +551,7 @@
     },
     {
       "id": "fmat_043",
-      "text": "1011₂ to decimal: (variant 43)",
+      "text": "What is the decimal equivalent of the binary number 1011₂? (variant 43)",
       "options": [
         "13",
         "11",
@@ -564,7 +564,7 @@
     },
     {
       "id": "fmat_044",
-      "text": "Simplify √12: (variant 44)",
+      "text": "Simplify the surd √12 to its simplest form. (variant 44)",
       "options": [
         "2√3",
         "3√2",
@@ -577,7 +577,7 @@
     },
     {
       "id": "fmat_045",
-      "text": "|3+4i|= (variant 45)",
+      "text": "What is the modulus (absolute value) of the complex number 3+4i? (variant 45)",
       "options": [
         "7",
         "1",
@@ -590,7 +590,7 @@
     },
     {
       "id": "fmat_046",
-      "text": "i²= (variant 46)",
+      "text": "What is the value of i² in complex number arithmetic? (variant 46)",
       "options": [
         "0",
         "i",
@@ -603,7 +603,7 @@
     },
     {
       "id": "fmat_047",
-      "text": "Roots x²-5x+6=0: (variant 47)",
+      "text": "What are the roots of the quadratic equation x²-5x+6=0? (variant 47)",
       "options": [
         "2 -3",
         "2 and 3",
@@ -616,7 +616,7 @@
     },
     {
       "id": "fmat_048",
-      "text": "Discriminant: (variant 48)",
+      "text": "What is the formula for the discriminant of a quadratic equation? (variant 48)",
       "options": [
         "b²-4ac",
         "b²+4ac",
@@ -629,7 +629,7 @@
     },
     {
       "id": "fmat_049",
-      "text": "AP first term 3n+2 n=1: (variant 49)",
+      "text": "In an arithmetic progression, if the nth term is given by Tn=3n+2, what is the first term when n=1? (variant 49)",
       "options": [
         "2",
         "3",
@@ -642,7 +642,7 @@
     },
     {
       "id": "fmat_050",
-      "text": "GP first 2 ratio3 second: (variant 50)",
+      "text": "In a geometric progression, the first term is 2 and the common ratio is 3. What is the second term? (variant 50)",
       "options": [
         "3",
         "9",
@@ -655,7 +655,7 @@
     },
     {
       "id": "fmat_051",
-      "text": "Det [[1,2],[3,4]]: (variant 51)",
+      "text": "What is the determinant of the 2×2 matrix [[1,2],[3,4]]? (variant 51)",
       "options": [
         "0",
         "-2",
@@ -668,7 +668,7 @@
     },
     {
       "id": "fmat_052",
-      "text": "Distance (0,0)-(3,4): (variant 52)",
+      "text": "What is the distance between the points (0,0) and (3,4)? (variant 52)",
       "options": [
         "5",
         "7",
@@ -681,7 +681,7 @@
     },
     {
       "id": "fmat_053",
-      "text": "sin30°= (variant 53)",
+      "text": "What is the value of sin 30 degrees? (variant 53)",
       "options": [
         "√3/2",
         "1",
@@ -694,7 +694,7 @@
     },
     {
       "id": "fmat_054",
-      "text": "sin²+cos²= (variant 54)",
+      "text": "What is the value of the trigonometric identity sin²θ + cos²θ? (variant 54)",
       "options": [
         "2",
         "sin2θ",
@@ -707,7 +707,7 @@
     },
     {
       "id": "fmat_055",
-      "text": "y=x³ dy/dx: (variant 55)",
+      "text": "If y = x³, what is the derivative dy/dx? (variant 55)",
       "options": [
         "x³",
         "3x²",
@@ -720,7 +720,7 @@
     },
     {
       "id": "fmat_056",
-      "text": "∫x² dx: (variant 56)",
+      "text": "What is the integral of x² with respect to x? (variant 56)",
       "options": [
         "x³/3+C",
         "x³+C",
@@ -733,7 +733,7 @@
     },
     {
       "id": "fmat_057",
-      "text": "Mean 2,4,6: (variant 57)",
+      "text": "What is the arithmetic mean of the numbers 2, 4, and 6? (variant 57)",
       "options": [
         "6",
         "3",
@@ -746,7 +746,7 @@
     },
     {
       "id": "fmat_058",
-      "text": "Prob between: (variant 58)",
+      "text": "What is the range of values that any probability can take? (variant 58)",
       "options": [
         "-1 and 1",
         "0 and 10",
@@ -759,7 +759,7 @@
     },
     {
       "id": "fmat_059",
-      "text": "3 books arrangements: (variant 59)",
+      "text": "In how many different ways can 3 books be arranged on a shelf? (variant 59)",
       "options": [
         "2",
         "6",
@@ -772,7 +772,7 @@
     },
     {
       "id": "fmat_060",
-      "text": "F=ma, F is: (variant 60)",
+      "text": "In Newton's second law F = ma, what does F represent? (variant 60)",
       "options": [
         "Force",
         "Energy",
@@ -785,7 +785,7 @@
     },
     {
       "id": "fmat_061",
-      "text": "If U={1,2,3,4,5} A={1,2,3} A'= (variant 61)",
+      "text": "What is the complement of the set A={1,2,3} in the universal set U={1,2,3,4,5}? (variant 61)",
       "options": [
         "{1,2,3}",
         "{1-5}",
@@ -798,7 +798,7 @@
     },
     {
       "id": "fmat_062",
-      "text": "Subsets of {a,b,c}: (variant 62)",
+      "text": "How many subsets does the set {a,b,c} have? (variant 62)",
       "options": [
         "6",
         "9",
@@ -811,7 +811,7 @@
     },
     {
       "id": "fmat_063",
-      "text": "1011₂ to decimal: (variant 63)",
+      "text": "What is the decimal equivalent of the binary number 1011₂? (variant 63)",
       "options": [
         "13",
         "11",
@@ -824,7 +824,7 @@
     },
     {
       "id": "fmat_064",
-      "text": "Simplify √12: (variant 64)",
+      "text": "Simplify the surd √12 to its simplest form. (variant 64)",
       "options": [
         "2√3",
         "3√2",
@@ -837,7 +837,7 @@
     },
     {
       "id": "fmat_065",
-      "text": "|3+4i|= (variant 65)",
+      "text": "What is the modulus (absolute value) of the complex number 3+4i? (variant 65)",
       "options": [
         "7",
         "1",
@@ -850,7 +850,7 @@
     },
     {
       "id": "fmat_066",
-      "text": "i²= (variant 66)",
+      "text": "What is the value of i² in complex number arithmetic? (variant 66)",
       "options": [
         "0",
         "i",
@@ -863,7 +863,7 @@
     },
     {
       "id": "fmat_067",
-      "text": "Roots x²-5x+6=0: (variant 67)",
+      "text": "What are the roots of the quadratic equation x²-5x+6=0? (variant 67)",
       "options": [
         "2 -3",
         "2 and 3",
@@ -876,7 +876,7 @@
     },
     {
       "id": "fmat_068",
-      "text": "Discriminant: (variant 68)",
+      "text": "What is the formula for the discriminant of a quadratic equation? (variant 68)",
       "options": [
         "b²-4ac",
         "b²+4ac",
@@ -889,7 +889,7 @@
     },
     {
       "id": "fmat_069",
-      "text": "AP first term 3n+2 n=1: (variant 69)",
+      "text": "In an arithmetic progression, if the nth term is given by Tn=3n+2, what is the first term when n=1? (variant 69)",
       "options": [
         "2",
         "3",
@@ -902,7 +902,7 @@
     },
     {
       "id": "fmat_070",
-      "text": "GP first 2 ratio3 second: (variant 70)",
+      "text": "In a geometric progression, the first term is 2 and the common ratio is 3. What is the second term? (variant 70)",
       "options": [
         "3",
         "9",
@@ -915,7 +915,7 @@
     },
     {
       "id": "fmat_071",
-      "text": "Det [[1,2],[3,4]]: (variant 71)",
+      "text": "What is the determinant of the 2×2 matrix [[1,2],[3,4]]? (variant 71)",
       "options": [
         "0",
         "-2",
@@ -928,7 +928,7 @@
     },
     {
       "id": "fmat_072",
-      "text": "Distance (0,0)-(3,4): (variant 72)",
+      "text": "What is the distance between the points (0,0) and (3,4)? (variant 72)",
       "options": [
         "5",
         "7",
@@ -941,7 +941,7 @@
     },
     {
       "id": "fmat_073",
-      "text": "sin30°= (variant 73)",
+      "text": "What is the value of sin 30 degrees? (variant 73)",
       "options": [
         "√3/2",
         "1",
@@ -954,7 +954,7 @@
     },
     {
       "id": "fmat_074",
-      "text": "sin²+cos²= (variant 74)",
+      "text": "What is the value of the trigonometric identity sin²θ + cos²θ? (variant 74)",
       "options": [
         "2",
         "sin2θ",
@@ -967,7 +967,7 @@
     },
     {
       "id": "fmat_075",
-      "text": "y=x³ dy/dx: (variant 75)",
+      "text": "If y = x³, what is the derivative dy/dx? (variant 75)",
       "options": [
         "x³",
         "3x²",
@@ -980,7 +980,7 @@
     },
     {
       "id": "fmat_076",
-      "text": "∫x² dx: (variant 76)",
+      "text": "What is the integral of x² with respect to x? (variant 76)",
       "options": [
         "x³/3+C",
         "x³+C",
@@ -993,7 +993,7 @@
     },
     {
       "id": "fmat_077",
-      "text": "Mean 2,4,6: (variant 77)",
+      "text": "What is the arithmetic mean of the numbers 2, 4, and 6? (variant 77)",
       "options": [
         "6",
         "3",
@@ -1006,7 +1006,7 @@
     },
     {
       "id": "fmat_078",
-      "text": "Prob between: (variant 78)",
+      "text": "What is the range of values that any probability can take? (variant 78)",
       "options": [
         "-1 and 1",
         "0 and 10",
@@ -1019,7 +1019,7 @@
     },
     {
       "id": "fmat_079",
-      "text": "3 books arrangements: (variant 79)",
+      "text": "In how many different ways can 3 books be arranged on a shelf? (variant 79)",
       "options": [
         "2",
         "6",
@@ -1032,7 +1032,7 @@
     },
     {
       "id": "fmat_080",
-      "text": "F=ma, F is: (variant 80)",
+      "text": "In Newton's second law F = ma, what does F represent? (variant 80)",
       "options": [
         "Force",
         "Energy",
@@ -1045,7 +1045,7 @@
     },
     {
       "id": "fmat_081",
-      "text": "If U={1,2,3,4,5} A={1,2,3} A'= (variant 81)",
+      "text": "What is the complement of the set A={1,2,3} in the universal set U={1,2,3,4,5}? (variant 81)",
       "options": [
         "{1,2,3}",
         "{1-5}",
@@ -1058,7 +1058,7 @@
     },
     {
       "id": "fmat_082",
-      "text": "Subsets of {a,b,c}: (variant 82)",
+      "text": "How many subsets does the set {a,b,c} have? (variant 82)",
       "options": [
         "6",
         "9",
@@ -1071,7 +1071,7 @@
     },
     {
       "id": "fmat_083",
-      "text": "1011₂ to decimal: (variant 83)",
+      "text": "What is the decimal equivalent of the binary number 1011₂? (variant 83)",
       "options": [
         "13",
         "11",
@@ -1084,7 +1084,7 @@
     },
     {
       "id": "fmat_084",
-      "text": "Simplify √12: (variant 84)",
+      "text": "Simplify the surd √12 to its simplest form. (variant 84)",
       "options": [
         "2√3",
         "3√2",
@@ -1097,7 +1097,7 @@
     },
     {
       "id": "fmat_085",
-      "text": "|3+4i|= (variant 85)",
+      "text": "What is the modulus (absolute value) of the complex number 3+4i? (variant 85)",
       "options": [
         "7",
         "1",
@@ -1110,7 +1110,7 @@
     },
     {
       "id": "fmat_086",
-      "text": "i²= (variant 86)",
+      "text": "What is the value of i² in complex number arithmetic? (variant 86)",
       "options": [
         "0",
         "i",
@@ -1123,7 +1123,7 @@
     },
     {
       "id": "fmat_087",
-      "text": "Roots x²-5x+6=0: (variant 87)",
+      "text": "What are the roots of the quadratic equation x²-5x+6=0? (variant 87)",
       "options": [
         "2 -3",
         "2 and 3",
@@ -1136,7 +1136,7 @@
     },
     {
       "id": "fmat_088",
-      "text": "Discriminant: (variant 88)",
+      "text": "What is the formula for the discriminant of a quadratic equation? (variant 88)",
       "options": [
         "b²-4ac",
         "b²+4ac",
@@ -1149,7 +1149,7 @@
     },
     {
       "id": "fmat_089",
-      "text": "AP first term 3n+2 n=1: (variant 89)",
+      "text": "In an arithmetic progression, if the nth term is given by Tn=3n+2, what is the first term when n=1? (variant 89)",
       "options": [
         "2",
         "3",
@@ -1162,7 +1162,7 @@
     },
     {
       "id": "fmat_090",
-      "text": "GP first 2 ratio3 second: (variant 90)",
+      "text": "In a geometric progression, the first term is 2 and the common ratio is 3. What is the second term? (variant 90)",
       "options": [
         "3",
         "9",
@@ -1175,7 +1175,7 @@
     },
     {
       "id": "fmat_091",
-      "text": "Det [[1,2],[3,4]]: (variant 91)",
+      "text": "What is the determinant of the 2×2 matrix [[1,2],[3,4]]? (variant 91)",
       "options": [
         "0",
         "-2",
@@ -1188,7 +1188,7 @@
     },
     {
       "id": "fmat_092",
-      "text": "Distance (0,0)-(3,4): (variant 92)",
+      "text": "What is the distance between the points (0,0) and (3,4)? (variant 92)",
       "options": [
         "5",
         "7",
@@ -1201,7 +1201,7 @@
     },
     {
       "id": "fmat_093",
-      "text": "sin30°= (variant 93)",
+      "text": "What is the value of sin 30 degrees? (variant 93)",
       "options": [
         "√3/2",
         "1",
@@ -1214,7 +1214,7 @@
     },
     {
       "id": "fmat_094",
-      "text": "sin²+cos²= (variant 94)",
+      "text": "What is the value of the trigonometric identity sin²θ + cos²θ? (variant 94)",
       "options": [
         "2",
         "sin2θ",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": "fmat_095",
-      "text": "y=x³ dy/dx: (variant 95)",
+      "text": "If y = x³, what is the derivative dy/dx? (variant 95)",
       "options": [
         "x³",
         "3x²",
@@ -1240,7 +1240,7 @@
     },
     {
       "id": "fmat_096",
-      "text": "∫x² dx: (variant 96)",
+      "text": "What is the integral of x² with respect to x? (variant 96)",
       "options": [
         "x³/3+C",
         "x³+C",
@@ -1253,7 +1253,7 @@
     },
     {
       "id": "fmat_097",
-      "text": "Mean 2,4,6: (variant 97)",
+      "text": "What is the arithmetic mean of the numbers 2, 4, and 6? (variant 97)",
       "options": [
         "6",
         "3",
@@ -1266,7 +1266,7 @@
     },
     {
       "id": "fmat_098",
-      "text": "Prob between: (variant 98)",
+      "text": "What is the range of values that any probability can take? (variant 98)",
       "options": [
         "-1 and 1",
         "0 and 10",
@@ -1279,7 +1279,7 @@
     },
     {
       "id": "fmat_099",
-      "text": "3 books arrangements: (variant 99)",
+      "text": "In how many different ways can 3 books be arranged on a shelf? (variant 99)",
       "options": [
         "2",
         "6",
@@ -1292,7 +1292,7 @@
     },
     {
       "id": "fmat_100",
-      "text": "F=ma, F is: (variant 100)",
+      "text": "In Newton's second law F = ma, what does F represent? (variant 100)",
       "options": [
         "Force",
         "Energy",
@@ -1305,7 +1305,7 @@
     },
     {
       "id": "fmat_101",
-      "text": "If U={1,2,3,4,5} A={1,2,3} A'= (variant 101)",
+      "text": "What is the complement of the set A={1,2,3} in the universal set U={1,2,3,4,5}? (variant 101)",
       "options": [
         "{1,2,3}",
         "{1-5}",
@@ -1318,7 +1318,7 @@
     },
     {
       "id": "fmat_102",
-      "text": "Subsets of {a,b,c}: (variant 102)",
+      "text": "How many subsets does the set {a,b,c} have? (variant 102)",
       "options": [
         "6",
         "9",
@@ -1331,7 +1331,7 @@
     },
     {
       "id": "fmat_103",
-      "text": "1011₂ to decimal: (variant 103)",
+      "text": "What is the decimal equivalent of the binary number 1011₂? (variant 103)",
       "options": [
         "13",
         "11",
@@ -1344,7 +1344,7 @@
     },
     {
       "id": "fmat_104",
-      "text": "Simplify √12: (variant 104)",
+      "text": "Simplify the surd √12 to its simplest form. (variant 104)",
       "options": [
         "2√3",
         "3√2",
@@ -1357,7 +1357,7 @@
     },
     {
       "id": "fmat_105",
-      "text": "|3+4i|= (variant 105)",
+      "text": "What is the modulus (absolute value) of the complex number 3+4i? (variant 105)",
       "options": [
         "7",
         "1",
@@ -1370,7 +1370,7 @@
     },
     {
       "id": "fmat_106",
-      "text": "i²= (variant 106)",
+      "text": "What is the value of i² in complex number arithmetic? (variant 106)",
       "options": [
         "0",
         "i",
@@ -1383,7 +1383,7 @@
     },
     {
       "id": "fmat_107",
-      "text": "Roots x²-5x+6=0: (variant 107)",
+      "text": "What are the roots of the quadratic equation x²-5x+6=0? (variant 107)",
       "options": [
         "2 -3",
         "2 and 3",
@@ -1396,7 +1396,7 @@
     },
     {
       "id": "fmat_108",
-      "text": "Discriminant: (variant 108)",
+      "text": "What is the formula for the discriminant of a quadratic equation? (variant 108)",
       "options": [
         "b²-4ac",
         "b²+4ac",
@@ -1409,7 +1409,7 @@
     },
     {
       "id": "fmat_109",
-      "text": "AP first term 3n+2 n=1: (variant 109)",
+      "text": "In an arithmetic progression, if the nth term is given by Tn=3n+2, what is the first term when n=1? (variant 109)",
       "options": [
         "2",
         "3",
@@ -1422,7 +1422,7 @@
     },
     {
       "id": "fmat_110",
-      "text": "GP first 2 ratio3 second: (variant 110)",
+      "text": "In a geometric progression, the first term is 2 and the common ratio is 3. What is the second term? (variant 110)",
       "options": [
         "3",
         "9",
@@ -1435,7 +1435,7 @@
     },
     {
       "id": "fmat_111",
-      "text": "Det [[1,2],[3,4]]: (variant 111)",
+      "text": "What is the determinant of the 2×2 matrix [[1,2],[3,4]]? (variant 111)",
       "options": [
         "0",
         "-2",
@@ -1448,7 +1448,7 @@
     },
     {
       "id": "fmat_112",
-      "text": "Distance (0,0)-(3,4): (variant 112)",
+      "text": "What is the distance between the points (0,0) and (3,4)? (variant 112)",
       "options": [
         "5",
         "7",
@@ -1461,7 +1461,7 @@
     },
     {
       "id": "fmat_113",
-      "text": "sin30°= (variant 113)",
+      "text": "What is the value of sin 30 degrees? (variant 113)",
       "options": [
         "√3/2",
         "1",
@@ -1474,7 +1474,7 @@
     },
     {
       "id": "fmat_114",
-      "text": "sin²+cos²= (variant 114)",
+      "text": "What is the value of the trigonometric identity sin²θ + cos²θ? (variant 114)",
       "options": [
         "2",
         "sin2θ",
@@ -1487,7 +1487,7 @@
     },
     {
       "id": "fmat_115",
-      "text": "y=x³ dy/dx: (variant 115)",
+      "text": "If y = x³, what is the derivative dy/dx? (variant 115)",
       "options": [
         "x³",
         "3x²",
@@ -1500,7 +1500,7 @@
     },
     {
       "id": "fmat_116",
-      "text": "∫x² dx: (variant 116)",
+      "text": "What is the integral of x² with respect to x? (variant 116)",
       "options": [
         "x³/3+C",
         "x³+C",
@@ -1513,7 +1513,7 @@
     },
     {
       "id": "fmat_117",
-      "text": "Mean 2,4,6: (variant 117)",
+      "text": "What is the arithmetic mean of the numbers 2, 4, and 6? (variant 117)",
       "options": [
         "6",
         "3",
@@ -1526,7 +1526,7 @@
     },
     {
       "id": "fmat_118",
-      "text": "Prob between: (variant 118)",
+      "text": "What is the range of values that any probability can take? (variant 118)",
       "options": [
         "-1 and 1",
         "0 and 10",
@@ -1539,7 +1539,7 @@
     },
     {
       "id": "fmat_119",
-      "text": "3 books arrangements: (variant 119)",
+      "text": "In how many different ways can 3 books be arranged on a shelf? (variant 119)",
       "options": [
         "2",
         "6",
@@ -1552,7 +1552,7 @@
     },
     {
       "id": "fmat_120",
-      "text": "F=ma, F is: (variant 120)",
+      "text": "In Newton's second law F = ma, what does F represent? (variant 120)",
       "options": [
         "Force",
         "Energy",
@@ -1565,7 +1565,7 @@
     },
     {
       "id": "fmat_121",
-      "text": "If U={1,2,3,4,5} A={1,2,3} A'= (variant 121)",
+      "text": "What is the complement of the set A={1,2,3} in the universal set U={1,2,3,4,5}? (variant 121)",
       "options": [
         "{1,2,3}",
         "{1-5}",
@@ -1578,7 +1578,7 @@
     },
     {
       "id": "fmat_122",
-      "text": "Subsets of {a,b,c}: (variant 122)",
+      "text": "How many subsets does the set {a,b,c} have? (variant 122)",
       "options": [
         "6",
         "9",
@@ -1591,7 +1591,7 @@
     },
     {
       "id": "fmat_123",
-      "text": "1011₂ to decimal: (variant 123)",
+      "text": "What is the decimal equivalent of the binary number 1011₂? (variant 123)",
       "options": [
         "13",
         "11",
@@ -1604,7 +1604,7 @@
     },
     {
       "id": "fmat_124",
-      "text": "Simplify √12: (variant 124)",
+      "text": "Simplify the surd √12 to its simplest form. (variant 124)",
       "options": [
         "2√3",
         "3√2",
@@ -1617,7 +1617,7 @@
     },
     {
       "id": "fmat_125",
-      "text": "|3+4i|= (variant 125)",
+      "text": "What is the modulus (absolute value) of the complex number 3+4i? (variant 125)",
       "options": [
         "7",
         "1",
@@ -1630,7 +1630,7 @@
     },
     {
       "id": "fmat_126",
-      "text": "i²= (variant 126)",
+      "text": "What is the value of i² in complex number arithmetic? (variant 126)",
       "options": [
         "0",
         "i",
@@ -1643,7 +1643,7 @@
     },
     {
       "id": "fmat_127",
-      "text": "Roots x²-5x+6=0: (variant 127)",
+      "text": "What are the roots of the quadratic equation x²-5x+6=0? (variant 127)",
       "options": [
         "2 -3",
         "2 and 3",
@@ -1656,7 +1656,7 @@
     },
     {
       "id": "fmat_128",
-      "text": "Discriminant: (variant 128)",
+      "text": "What is the formula for the discriminant of a quadratic equation? (variant 128)",
       "options": [
         "b²-4ac",
         "b²+4ac",
@@ -1669,7 +1669,7 @@
     },
     {
       "id": "fmat_129",
-      "text": "AP first term 3n+2 n=1: (variant 129)",
+      "text": "In an arithmetic progression, if the nth term is given by Tn=3n+2, what is the first term when n=1? (variant 129)",
       "options": [
         "2",
         "3",
@@ -1682,7 +1682,7 @@
     },
     {
       "id": "fmat_130",
-      "text": "GP first 2 ratio3 second: (variant 130)",
+      "text": "In a geometric progression, the first term is 2 and the common ratio is 3. What is the second term? (variant 130)",
       "options": [
         "3",
         "9",
@@ -1695,7 +1695,7 @@
     },
     {
       "id": "fmat_131",
-      "text": "Det [[1,2],[3,4]]: (variant 131)",
+      "text": "What is the determinant of the 2×2 matrix [[1,2],[3,4]]? (variant 131)",
       "options": [
         "0",
         "-2",
@@ -1708,7 +1708,7 @@
     },
     {
       "id": "fmat_132",
-      "text": "Distance (0,0)-(3,4): (variant 132)",
+      "text": "What is the distance between the points (0,0) and (3,4)? (variant 132)",
       "options": [
         "5",
         "7",
@@ -1721,7 +1721,7 @@
     },
     {
       "id": "fmat_133",
-      "text": "sin30°= (variant 133)",
+      "text": "What is the value of sin 30 degrees? (variant 133)",
       "options": [
         "√3/2",
         "1",
@@ -1734,7 +1734,7 @@
     },
     {
       "id": "fmat_134",
-      "text": "sin²+cos²= (variant 134)",
+      "text": "What is the value of the trigonometric identity sin²θ + cos²θ? (variant 134)",
       "options": [
         "2",
         "sin2θ",
@@ -1747,7 +1747,7 @@
     },
     {
       "id": "fmat_135",
-      "text": "y=x³ dy/dx: (variant 135)",
+      "text": "If y = x³, what is the derivative dy/dx? (variant 135)",
       "options": [
         "x³",
         "3x²",
@@ -1760,7 +1760,7 @@
     },
     {
       "id": "fmat_136",
-      "text": "∫x² dx: (variant 136)",
+      "text": "What is the integral of x² with respect to x? (variant 136)",
       "options": [
         "x³/3+C",
         "x³+C",
@@ -1773,7 +1773,7 @@
     },
     {
       "id": "fmat_137",
-      "text": "Mean 2,4,6: (variant 137)",
+      "text": "What is the arithmetic mean of the numbers 2, 4, and 6? (variant 137)",
       "options": [
         "6",
         "3",
@@ -1786,7 +1786,7 @@
     },
     {
       "id": "fmat_138",
-      "text": "Prob between: (variant 138)",
+      "text": "What is the range of values that any probability can take? (variant 138)",
       "options": [
         "-1 and 1",
         "0 and 10",
@@ -1799,7 +1799,7 @@
     },
     {
       "id": "fmat_139",
-      "text": "3 books arrangements: (variant 139)",
+      "text": "In how many different ways can 3 books be arranged on a shelf? (variant 139)",
       "options": [
         "2",
         "6",
@@ -1812,7 +1812,7 @@
     },
     {
       "id": "fmat_140",
-      "text": "F=ma, F is: (variant 140)",
+      "text": "In Newton's second law F = ma, what does F represent? (variant 140)",
       "options": [
         "Force",
         "Energy",
@@ -1825,7 +1825,7 @@
     },
     {
       "id": "fmat_141",
-      "text": "If U={1,2,3,4,5} A={1,2,3} A'= (variant 141)",
+      "text": "What is the complement of the set A={1,2,3} in the universal set U={1,2,3,4,5}? (variant 141)",
       "options": [
         "{1,2,3}",
         "{1-5}",
@@ -1838,7 +1838,7 @@
     },
     {
       "id": "fmat_142",
-      "text": "Subsets of {a,b,c}: (variant 142)",
+      "text": "How many subsets does the set {a,b,c} have? (variant 142)",
       "options": [
         "6",
         "9",
@@ -1851,7 +1851,7 @@
     },
     {
       "id": "fmat_143",
-      "text": "1011₂ to decimal: (variant 143)",
+      "text": "What is the decimal equivalent of the binary number 1011₂? (variant 143)",
       "options": [
         "13",
         "11",
@@ -1864,7 +1864,7 @@
     },
     {
       "id": "fmat_144",
-      "text": "Simplify √12: (variant 144)",
+      "text": "Simplify the surd √12 to its simplest form. (variant 144)",
       "options": [
         "2√3",
         "3√2",
@@ -1877,7 +1877,7 @@
     },
     {
       "id": "fmat_145",
-      "text": "|3+4i|= (variant 145)",
+      "text": "What is the modulus (absolute value) of the complex number 3+4i? (variant 145)",
       "options": [
         "7",
         "1",
@@ -1890,7 +1890,7 @@
     },
     {
       "id": "fmat_146",
-      "text": "i²= (variant 146)",
+      "text": "What is the value of i² in complex number arithmetic? (variant 146)",
       "options": [
         "0",
         "i",
@@ -1903,7 +1903,7 @@
     },
     {
       "id": "fmat_147",
-      "text": "Roots x²-5x+6=0: (variant 147)",
+      "text": "What are the roots of the quadratic equation x²-5x+6=0? (variant 147)",
       "options": [
         "2 -3",
         "2 and 3",
@@ -1916,7 +1916,7 @@
     },
     {
       "id": "fmat_148",
-      "text": "Discriminant: (variant 148)",
+      "text": "What is the formula for the discriminant of a quadratic equation? (variant 148)",
       "options": [
         "b²-4ac",
         "b²+4ac",
@@ -1929,7 +1929,7 @@
     },
     {
       "id": "fmat_149",
-      "text": "AP first term 3n+2 n=1: (variant 149)",
+      "text": "In an arithmetic progression, if the nth term is given by Tn=3n+2, what is the first term when n=1? (variant 149)",
       "options": [
         "2",
         "3",
@@ -1942,7 +1942,7 @@
     },
     {
       "id": "fmat_150",
-      "text": "GP first 2 ratio3 second: (variant 150)",
+      "text": "In a geometric progression, the first term is 2 and the common ratio is 3. What is the second term? (variant 150)",
       "options": [
         "3",
         "9",
@@ -1955,7 +1955,7 @@
     },
     {
       "id": "fmat_151",
-      "text": "Det [[1,2],[3,4]]: (variant 151)",
+      "text": "What is the determinant of the 2×2 matrix [[1,2],[3,4]]? (variant 151)",
       "options": [
         "0",
         "-2",
@@ -1968,7 +1968,7 @@
     },
     {
       "id": "fmat_152",
-      "text": "Distance (0,0)-(3,4): (variant 152)",
+      "text": "What is the distance between the points (0,0) and (3,4)? (variant 152)",
       "options": [
         "5",
         "7",
@@ -1981,7 +1981,7 @@
     },
     {
       "id": "fmat_153",
-      "text": "sin30°= (variant 153)",
+      "text": "What is the value of sin 30 degrees? (variant 153)",
       "options": [
         "√3/2",
         "1",
@@ -1994,7 +1994,7 @@
     },
     {
       "id": "fmat_154",
-      "text": "sin²+cos²= (variant 154)",
+      "text": "What is the value of the trigonometric identity sin²θ + cos²θ? (variant 154)",
       "options": [
         "2",
         "sin2θ",
@@ -2007,7 +2007,7 @@
     },
     {
       "id": "fmat_155",
-      "text": "y=x³ dy/dx: (variant 155)",
+      "text": "If y = x³, what is the derivative dy/dx? (variant 155)",
       "options": [
         "x³",
         "3x²",
@@ -2020,7 +2020,7 @@
     },
     {
       "id": "fmat_156",
-      "text": "∫x² dx: (variant 156)",
+      "text": "What is the integral of x² with respect to x? (variant 156)",
       "options": [
         "x³/3+C",
         "x³+C",
@@ -2033,7 +2033,7 @@
     },
     {
       "id": "fmat_157",
-      "text": "Mean 2,4,6: (variant 157)",
+      "text": "What is the arithmetic mean of the numbers 2, 4, and 6? (variant 157)",
       "options": [
         "6",
         "3",
@@ -2046,7 +2046,7 @@
     },
     {
       "id": "fmat_158",
-      "text": "Prob between: (variant 158)",
+      "text": "What is the range of values that any probability can take? (variant 158)",
       "options": [
         "-1 and 1",
         "0 and 10",
@@ -2059,7 +2059,7 @@
     },
     {
       "id": "fmat_159",
-      "text": "3 books arrangements: (variant 159)",
+      "text": "In how many different ways can 3 books be arranged on a shelf? (variant 159)",
       "options": [
         "2",
         "6",
@@ -2072,7 +2072,7 @@
     },
     {
       "id": "fmat_160",
-      "text": "F=ma, F is: (variant 160)",
+      "text": "In Newton's second law F = ma, what does F represent? (variant 160)",
       "options": [
         "Force",
         "Energy",
@@ -2085,7 +2085,7 @@
     },
     {
       "id": "fmat_161",
-      "text": "If U={1,2,3,4,5} A={1,2,3} A'= (variant 161)",
+      "text": "What is the complement of the set A={1,2,3} in the universal set U={1,2,3,4,5}? (variant 161)",
       "options": [
         "{1,2,3}",
         "{1-5}",
@@ -2098,7 +2098,7 @@
     },
     {
       "id": "fmat_162",
-      "text": "Subsets of {a,b,c}: (variant 162)",
+      "text": "How many subsets does the set {a,b,c} have? (variant 162)",
       "options": [
         "6",
         "9",
@@ -2111,7 +2111,7 @@
     },
     {
       "id": "fmat_163",
-      "text": "1011₂ to decimal: (variant 163)",
+      "text": "What is the decimal equivalent of the binary number 1011₂? (variant 163)",
       "options": [
         "13",
         "11",
@@ -2124,7 +2124,7 @@
     },
     {
       "id": "fmat_164",
-      "text": "Simplify √12: (variant 164)",
+      "text": "Simplify the surd √12 to its simplest form. (variant 164)",
       "options": [
         "2√3",
         "3√2",
@@ -2137,7 +2137,7 @@
     },
     {
       "id": "fmat_165",
-      "text": "|3+4i|= (variant 165)",
+      "text": "What is the modulus (absolute value) of the complex number 3+4i? (variant 165)",
       "options": [
         "7",
         "1",
@@ -2150,7 +2150,7 @@
     },
     {
       "id": "fmat_166",
-      "text": "i²= (variant 166)",
+      "text": "What is the value of i² in complex number arithmetic? (variant 166)",
       "options": [
         "0",
         "i",
@@ -2163,7 +2163,7 @@
     },
     {
       "id": "fmat_167",
-      "text": "Roots x²-5x+6=0: (variant 167)",
+      "text": "What are the roots of the quadratic equation x²-5x+6=0? (variant 167)",
       "options": [
         "2 -3",
         "2 and 3",
@@ -2176,7 +2176,7 @@
     },
     {
       "id": "fmat_168",
-      "text": "Discriminant: (variant 168)",
+      "text": "What is the formula for the discriminant of a quadratic equation? (variant 168)",
       "options": [
         "b²-4ac",
         "b²+4ac",
@@ -2189,7 +2189,7 @@
     },
     {
       "id": "fmat_169",
-      "text": "AP first term 3n+2 n=1: (variant 169)",
+      "text": "In an arithmetic progression, if the nth term is given by Tn=3n+2, what is the first term when n=1? (variant 169)",
       "options": [
         "2",
         "3",
@@ -2202,7 +2202,7 @@
     },
     {
       "id": "fmat_170",
-      "text": "GP first 2 ratio3 second: (variant 170)",
+      "text": "In a geometric progression, the first term is 2 and the common ratio is 3. What is the second term? (variant 170)",
       "options": [
         "3",
         "9",
@@ -2215,7 +2215,7 @@
     },
     {
       "id": "fmat_171",
-      "text": "Det [[1,2],[3,4]]: (variant 171)",
+      "text": "What is the determinant of the 2×2 matrix [[1,2],[3,4]]? (variant 171)",
       "options": [
         "0",
         "-2",
@@ -2228,7 +2228,7 @@
     },
     {
       "id": "fmat_172",
-      "text": "Distance (0,0)-(3,4): (variant 172)",
+      "text": "What is the distance between the points (0,0) and (3,4)? (variant 172)",
       "options": [
         "5",
         "7",
@@ -2241,7 +2241,7 @@
     },
     {
       "id": "fmat_173",
-      "text": "sin30°= (variant 173)",
+      "text": "What is the value of sin 30 degrees? (variant 173)",
       "options": [
         "√3/2",
         "1",
@@ -2254,7 +2254,7 @@
     },
     {
       "id": "fmat_174",
-      "text": "sin²+cos²= (variant 174)",
+      "text": "What is the value of the trigonometric identity sin²θ + cos²θ? (variant 174)",
       "options": [
         "2",
         "sin2θ",
@@ -2267,7 +2267,7 @@
     },
     {
       "id": "fmat_175",
-      "text": "y=x³ dy/dx: (variant 175)",
+      "text": "If y = x³, what is the derivative dy/dx? (variant 175)",
       "options": [
         "x³",
         "3x²",
@@ -2280,7 +2280,7 @@
     },
     {
       "id": "fmat_176",
-      "text": "∫x² dx: (variant 176)",
+      "text": "What is the integral of x² with respect to x? (variant 176)",
       "options": [
         "x³/3+C",
         "x³+C",
@@ -2293,7 +2293,7 @@
     },
     {
       "id": "fmat_177",
-      "text": "Mean 2,4,6: (variant 177)",
+      "text": "What is the arithmetic mean of the numbers 2, 4, and 6? (variant 177)",
       "options": [
         "6",
         "3",
@@ -2306,7 +2306,7 @@
     },
     {
       "id": "fmat_178",
-      "text": "Prob between: (variant 178)",
+      "text": "What is the range of values that any probability can take? (variant 178)",
       "options": [
         "-1 and 1",
         "0 and 10",
@@ -2319,7 +2319,7 @@
     },
     {
       "id": "fmat_179",
-      "text": "3 books arrangements: (variant 179)",
+      "text": "In how many different ways can 3 books be arranged on a shelf? (variant 179)",
       "options": [
         "2",
         "6",
@@ -2332,7 +2332,7 @@
     },
     {
       "id": "fmat_180",
-      "text": "F=ma, F is: (variant 180)",
+      "text": "In Newton's second law F = ma, what does F represent? (variant 180)",
       "options": [
         "Force",
         "Energy",
@@ -2345,7 +2345,7 @@
     },
     {
       "id": "fmat_181",
-      "text": "If U={1,2,3,4,5} A={1,2,3} A'= (variant 181)",
+      "text": "What is the complement of the set A={1,2,3} in the universal set U={1,2,3,4,5}? (variant 181)",
       "options": [
         "{1,2,3}",
         "{1-5}",
@@ -2358,7 +2358,7 @@
     },
     {
       "id": "fmat_182",
-      "text": "Subsets of {a,b,c}: (variant 182)",
+      "text": "How many subsets does the set {a,b,c} have? (variant 182)",
       "options": [
         "6",
         "9",
@@ -2371,7 +2371,7 @@
     },
     {
       "id": "fmat_183",
-      "text": "1011₂ to decimal: (variant 183)",
+      "text": "What is the decimal equivalent of the binary number 1011₂? (variant 183)",
       "options": [
         "13",
         "11",
@@ -2384,7 +2384,7 @@
     },
     {
       "id": "fmat_184",
-      "text": "Simplify √12: (variant 184)",
+      "text": "Simplify the surd √12 to its simplest form. (variant 184)",
       "options": [
         "2√3",
         "3√2",
@@ -2397,7 +2397,7 @@
     },
     {
       "id": "fmat_185",
-      "text": "|3+4i|= (variant 185)",
+      "text": "What is the modulus (absolute value) of the complex number 3+4i? (variant 185)",
       "options": [
         "7",
         "1",
@@ -2410,7 +2410,7 @@
     },
     {
       "id": "fmat_186",
-      "text": "i²= (variant 186)",
+      "text": "What is the value of i² in complex number arithmetic? (variant 186)",
       "options": [
         "0",
         "i",
@@ -2423,7 +2423,7 @@
     },
     {
       "id": "fmat_187",
-      "text": "Roots x²-5x+6=0: (variant 187)",
+      "text": "What are the roots of the quadratic equation x²-5x+6=0? (variant 187)",
       "options": [
         "2 -3",
         "2 and 3",
@@ -2436,7 +2436,7 @@
     },
     {
       "id": "fmat_188",
-      "text": "Discriminant: (variant 188)",
+      "text": "What is the formula for the discriminant of a quadratic equation? (variant 188)",
       "options": [
         "b²-4ac",
         "b²+4ac",
@@ -2449,7 +2449,7 @@
     },
     {
       "id": "fmat_189",
-      "text": "AP first term 3n+2 n=1: (variant 189)",
+      "text": "In an arithmetic progression, if the nth term is given by Tn=3n+2, what is the first term when n=1? (variant 189)",
       "options": [
         "2",
         "3",
@@ -2462,7 +2462,7 @@
     },
     {
       "id": "fmat_190",
-      "text": "GP first 2 ratio3 second: (variant 190)",
+      "text": "In a geometric progression, the first term is 2 and the common ratio is 3. What is the second term? (variant 190)",
       "options": [
         "3",
         "9",
@@ -2475,7 +2475,7 @@
     },
     {
       "id": "fmat_191",
-      "text": "Det [[1,2],[3,4]]: (variant 191)",
+      "text": "What is the determinant of the 2×2 matrix [[1,2],[3,4]]? (variant 191)",
       "options": [
         "0",
         "-2",
@@ -2488,7 +2488,7 @@
     },
     {
       "id": "fmat_192",
-      "text": "Distance (0,0)-(3,4): (variant 192)",
+      "text": "What is the distance between the points (0,0) and (3,4)? (variant 192)",
       "options": [
         "5",
         "7",
@@ -2501,7 +2501,7 @@
     },
     {
       "id": "fmat_193",
-      "text": "sin30°= (variant 193)",
+      "text": "What is the value of sin 30 degrees? (variant 193)",
       "options": [
         "√3/2",
         "1",
@@ -2514,7 +2514,7 @@
     },
     {
       "id": "fmat_194",
-      "text": "sin²+cos²= (variant 194)",
+      "text": "What is the value of the trigonometric identity sin²θ + cos²θ? (variant 194)",
       "options": [
         "2",
         "sin2θ",
@@ -2527,7 +2527,7 @@
     },
     {
       "id": "fmat_195",
-      "text": "y=x³ dy/dx: (variant 195)",
+      "text": "If y = x³, what is the derivative dy/dx? (variant 195)",
       "options": [
         "x³",
         "3x²",
@@ -2540,7 +2540,7 @@
     },
     {
       "id": "fmat_196",
-      "text": "∫x² dx: (variant 196)",
+      "text": "What is the integral of x² with respect to x? (variant 196)",
       "options": [
         "x³/3+C",
         "x³+C",
@@ -2553,7 +2553,7 @@
     },
     {
       "id": "fmat_197",
-      "text": "Mean 2,4,6: (variant 197)",
+      "text": "What is the arithmetic mean of the numbers 2, 4, and 6? (variant 197)",
       "options": [
         "6",
         "3",
@@ -2566,7 +2566,7 @@
     },
     {
       "id": "fmat_198",
-      "text": "Prob between: (variant 198)",
+      "text": "What is the range of values that any probability can take? (variant 198)",
       "options": [
         "-1 and 1",
         "0 and 10",
@@ -2579,7 +2579,7 @@
     },
     {
       "id": "fmat_199",
-      "text": "3 books arrangements: (variant 199)",
+      "text": "In how many different ways can 3 books be arranged on a shelf? (variant 199)",
       "options": [
         "2",
         "6",
@@ -2592,7 +2592,7 @@
     },
     {
       "id": "fmat_200",
-      "text": "F=ma, F is: (variant 200)",
+      "text": "In Newton's second law F = ma, what does F represent? (variant 200)",
       "options": [
         "Force",
         "Energy",

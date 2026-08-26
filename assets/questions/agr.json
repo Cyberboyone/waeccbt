@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": "agr_001",
-      "text": "Agriculture is:",
+      "text": "What is the definition of agriculture?",
       "options": [
         "Only trading",
         "Only fishing",
@@ -18,7 +18,7 @@
     },
     {
       "id": "agr_002",
-      "text": "Agronomy deals with:",
+      "text": "What branch of agriculture does agronomy deal with?",
       "options": [
         "Forestry",
         "Fishery",
@@ -31,7 +31,7 @@
     },
     {
       "id": "agr_003",
-      "text": "Soil texture is:",
+      "text": "What is the definition of soil texture?",
       "options": [
         "Taste only",
         "Proportion of sand silt clay",
@@ -44,7 +44,7 @@
     },
     {
       "id": "agr_004",
-      "text": "Loamy soil is:",
+      "text": "How is loamy soil classified for agricultural use?",
       "options": [
         "Best for agriculture",
         "Worst",
@@ -57,7 +57,7 @@
     },
     {
       "id": "agr_005",
-      "text": "Fertilizer provides:",
+      "text": "What does fertilizer provide to crops?",
       "options": [
         "Water only",
         "Air only",
@@ -70,7 +70,7 @@
     },
     {
       "id": "agr_006",
-      "text": "Maize botanical name:",
+      "text": "What is the botanical name of maize?",
       "options": [
         "Manihot esculenta",
         "Dioscorea",
@@ -83,7 +83,7 @@
     },
     {
       "id": "agr_007",
-      "text": "Cassava planting material:",
+      "text": "What part of the cassava plant is used as planting material?",
       "options": [
         "Leaf",
         "Stem cutting",
@@ -96,7 +96,7 @@
     },
     {
       "id": "agr_008",
-      "text": "Ruminant example:",
+      "text": "Which of the following is an example of a ruminant animal?",
       "options": [
         "Cattle",
         "Poultry",
@@ -109,7 +109,7 @@
     },
     {
       "id": "agr_009",
-      "text": "Incubation chicken:",
+      "text": "How many days does incubation last for chicken eggs?",
       "options": [
         "10 days",
         "30 days",
@@ -122,7 +122,7 @@
     },
     {
       "id": "agr_010",
-      "text": "Gestation cattle:",
+      "text": "How many days does gestation last in cattle?",
       "options": [
         "30 days",
         "21 days",
@@ -135,7 +135,7 @@
     },
     {
       "id": "agr_011",
-      "text": "Demand means:",
+      "text": "What does demand mean in agricultural economics?",
       "options": [
         "No willingness",
         "Willingness and ability to buy",
@@ -148,7 +148,7 @@
     },
     {
       "id": "agr_012",
-      "text": "Photosynthesis requires:",
+      "text": "What substances are required for photosynthesis in plants?",
       "options": [
         "CO2 water sunlight",
         "Only water",
@@ -161,7 +161,7 @@
     },
     {
       "id": "agr_013",
-      "text": "Irrigation necessary in:",
+      "text": "In which type of area is irrigation most necessary for farming?",
       "options": [
         "Rainy only",
         "No areas",
@@ -174,7 +174,7 @@
     },
     {
       "id": "agr_014",
-      "text": "Weeding important because:",
+      "text": "Why is weeding important in crop production?",
       "options": [
         "No importance",
         "Kills crops",
@@ -187,7 +187,7 @@
     },
     {
       "id": "agr_015",
-      "text": "Silo is for:",
+      "text": "What is the definition of a silo used for on a farm?",
       "options": [
         "School",
         "Grain storage",
@@ -200,7 +200,7 @@
     },
     {
       "id": "agr_016",
-      "text": "IITA conducts:",
+      "text": "What type of activities does IITA conduct?",
       "options": [
         "Agricultural research",
         "No research",
@@ -213,7 +213,7 @@
     },
     {
       "id": "agr_017",
-      "text": "Land tenure means:",
+      "text": "What does land tenure mean in agriculture?",
       "options": [
         "No ownership",
         "Only renting",
@@ -226,7 +226,7 @@
     },
     {
       "id": "agr_018",
-      "text": "Millet tolerates:",
+      "text": "Which environmental condition does millet tolerate well?",
       "options": [
         "Only flood",
         "Only high rain",
@@ -239,7 +239,7 @@
     },
     {
       "id": "agr_019",
-      "text": "Young cattle called:",
+      "text": "What is the definition of a young cattle called?",
       "options": [
         "Piglet",
         "Calf",
@@ -252,7 +252,7 @@
     },
     {
       "id": "agr_020",
-      "text": "Pruning is:",
+      "text": "What is the definition of pruning in crop production?",
       "options": [
         "Cutting unwanted branches",
         "Planting",
@@ -265,7 +265,7 @@
     },
     {
       "id": "agr_021",
-      "text": "Agriculture is: (variant 21)",
+      "text": "What is the definition of agriculture? (variant 21?",
       "options": [
         "Only trading",
         "Only fishing",
@@ -278,7 +278,7 @@
     },
     {
       "id": "agr_022",
-      "text": "Agronomy deals with: (variant 22)",
+      "text": "What branch of agriculture does agronomy deal with? (variant 22)",
       "options": [
         "Forestry",
         "Fishery",
@@ -291,7 +291,7 @@
     },
     {
       "id": "agr_023",
-      "text": "Soil texture is: (variant 23)",
+      "text": "What is the definition of soil texture? (variant 23?",
       "options": [
         "Taste only",
         "Proportion of sand silt clay",
@@ -304,7 +304,7 @@
     },
     {
       "id": "agr_024",
-      "text": "Loamy soil is: (variant 24)",
+      "text": "How is loamy soil classified for agricultural use? (variant 24)",
       "options": [
         "Best for agriculture",
         "Worst",
@@ -317,7 +317,7 @@
     },
     {
       "id": "agr_025",
-      "text": "Fertilizer provides: (variant 25)",
+      "text": "What does fertilizer provide to crops? (variant 25)",
       "options": [
         "Water only",
         "Air only",
@@ -330,7 +330,7 @@
     },
     {
       "id": "agr_026",
-      "text": "Maize botanical name: (variant 26)",
+      "text": "What is the botanical name of maize? (variant 26)",
       "options": [
         "Manihot esculenta",
         "Dioscorea",
@@ -343,7 +343,7 @@
     },
     {
       "id": "agr_027",
-      "text": "Cassava planting material: (variant 27)",
+      "text": "What part of the cassava plant is used as planting material? (variant 27)",
       "options": [
         "Leaf",
         "Stem cutting",
@@ -356,7 +356,7 @@
     },
     {
       "id": "agr_028",
-      "text": "Ruminant example: (variant 28)",
+      "text": "Which of the following is an example of a ruminant animal? (variant 28)",
       "options": [
         "Cattle",
         "Poultry",
@@ -369,7 +369,7 @@
     },
     {
       "id": "agr_029",
-      "text": "Incubation chicken: (variant 29)",
+      "text": "How many days does incubation last for chicken eggs? (variant 29)",
       "options": [
         "10 days",
         "30 days",
@@ -382,7 +382,7 @@
     },
     {
       "id": "agr_030",
-      "text": "Gestation cattle: (variant 30)",
+      "text": "How many days does gestation last in cattle? (variant 30)",
       "options": [
         "30 days",
         "21 days",
@@ -395,7 +395,7 @@
     },
     {
       "id": "agr_031",
-      "text": "Demand means: (variant 31)",
+      "text": "What does demand mean in agricultural economics? (variant 31)",
       "options": [
         "No willingness",
         "Willingness and ability to buy",
@@ -408,7 +408,7 @@
     },
     {
       "id": "agr_032",
-      "text": "Photosynthesis requires: (variant 32)",
+      "text": "What substances are required for photosynthesis in plants? (variant 32)",
       "options": [
         "CO2 water sunlight",
         "Only water",
@@ -421,7 +421,7 @@
     },
     {
       "id": "agr_033",
-      "text": "Irrigation necessary in: (variant 33)",
+      "text": "In which type of area is irrigation most necessary for farming? (variant 33)",
       "options": [
         "Rainy only",
         "No areas",
@@ -434,7 +434,7 @@
     },
     {
       "id": "agr_034",
-      "text": "Weeding important because: (variant 34)",
+      "text": "Why is weeding important in crop production? (variant 34)",
       "options": [
         "No importance",
         "Kills crops",
@@ -447,7 +447,7 @@
     },
     {
       "id": "agr_035",
-      "text": "Silo is for: (variant 35)",
+      "text": "What is a silo used for on a farm? (variant 35)",
       "options": [
         "School",
         "Grain storage",
@@ -460,7 +460,7 @@
     },
     {
       "id": "agr_036",
-      "text": "IITA conducts: (variant 36)",
+      "text": "What type of activities does IITA conduct? (variant 36)",
       "options": [
         "Agricultural research",
         "No research",
@@ -473,7 +473,7 @@
     },
     {
       "id": "agr_037",
-      "text": "Land tenure means: (variant 37)",
+      "text": "What does land tenure mean in agriculture? (variant 37)",
       "options": [
         "No ownership",
         "Only renting",
@@ -486,7 +486,7 @@
     },
     {
       "id": "agr_038",
-      "text": "Millet tolerates: (variant 38)",
+      "text": "Which environmental condition does millet tolerate well? (variant 38)",
       "options": [
         "Only flood",
         "Only high rain",
@@ -499,7 +499,7 @@
     },
     {
       "id": "agr_039",
-      "text": "Young cattle called: (variant 39)",
+      "text": "What is a young cattle called? (variant 39)",
       "options": [
         "Piglet",
         "Calf",
@@ -512,7 +512,7 @@
     },
     {
       "id": "agr_040",
-      "text": "Pruning is: (variant 40)",
+      "text": "What is pruning in crop production? (variant 40)",
       "options": [
         "Cutting unwanted branches",
         "Planting",
@@ -525,7 +525,7 @@
     },
     {
       "id": "agr_041",
-      "text": "Agriculture is: (variant 41)",
+      "text": "What is the definition of agriculture? (variant 41?",
       "options": [
         "Only trading",
         "Only fishing",
@@ -538,7 +538,7 @@
     },
     {
       "id": "agr_042",
-      "text": "Agronomy deals with: (variant 42)",
+      "text": "What branch of agriculture does agronomy deal with? (variant 42)",
       "options": [
         "Forestry",
         "Fishery",
@@ -551,7 +551,7 @@
     },
     {
       "id": "agr_043",
-      "text": "Soil texture is: (variant 43)",
+      "text": "What is the definition of soil texture? (variant 43?",
       "options": [
         "Taste only",
         "Proportion of sand silt clay",
@@ -564,7 +564,7 @@
     },
     {
       "id": "agr_044",
-      "text": "Loamy soil is: (variant 44)",
+      "text": "How is loamy soil classified for agricultural use? (variant 44)",
       "options": [
         "Best for agriculture",
         "Worst",
@@ -577,7 +577,7 @@
     },
     {
       "id": "agr_045",
-      "text": "Fertilizer provides: (variant 45)",
+      "text": "What does fertilizer provide to crops? (variant 45)",
       "options": [
         "Water only",
         "Air only",
@@ -590,7 +590,7 @@
     },
     {
       "id": "agr_046",
-      "text": "Maize botanical name: (variant 46)",
+      "text": "What is the botanical name of maize? (variant 46)",
       "options": [
         "Manihot esculenta",
         "Dioscorea",
@@ -603,7 +603,7 @@
     },
     {
       "id": "agr_047",
-      "text": "Cassava planting material: (variant 47)",
+      "text": "What part of the cassava plant is used as planting material? (variant 47)",
       "options": [
         "Leaf",
         "Stem cutting",
@@ -616,7 +616,7 @@
     },
     {
       "id": "agr_048",
-      "text": "Ruminant example: (variant 48)",
+      "text": "Which of the following is an example of a ruminant animal? (variant 48)",
       "options": [
         "Cattle",
         "Poultry",
@@ -629,7 +629,7 @@
     },
     {
       "id": "agr_049",
-      "text": "Incubation chicken: (variant 49)",
+      "text": "How many days does incubation last for chicken eggs? (variant 49)",
       "options": [
         "10 days",
         "30 days",
@@ -642,7 +642,7 @@
     },
     {
       "id": "agr_050",
-      "text": "Gestation cattle: (variant 50)",
+      "text": "How many days does gestation last in cattle? (variant 50)",
       "options": [
         "30 days",
         "21 days",
@@ -655,7 +655,7 @@
     },
     {
       "id": "agr_051",
-      "text": "Demand means: (variant 51)",
+      "text": "What does demand mean in agricultural economics? (variant 51)",
       "options": [
         "No willingness",
         "Willingness and ability to buy",
@@ -668,7 +668,7 @@
     },
     {
       "id": "agr_052",
-      "text": "Photosynthesis requires: (variant 52)",
+      "text": "What substances are required for photosynthesis in plants? (variant 52)",
       "options": [
         "CO2 water sunlight",
         "Only water",
@@ -681,7 +681,7 @@
     },
     {
       "id": "agr_053",
-      "text": "Irrigation necessary in: (variant 53)",
+      "text": "In which type of area is irrigation most necessary for farming? (variant 53)",
       "options": [
         "Rainy only",
         "No areas",
@@ -694,7 +694,7 @@
     },
     {
       "id": "agr_054",
-      "text": "Weeding important because: (variant 54)",
+      "text": "Why is weeding important in crop production? (variant 54)",
       "options": [
         "No importance",
         "Kills crops",
@@ -707,7 +707,7 @@
     },
     {
       "id": "agr_055",
-      "text": "Silo is for: (variant 55)",
+      "text": "What is a silo used for on a farm? (variant 55)",
       "options": [
         "School",
         "Grain storage",
@@ -720,7 +720,7 @@
     },
     {
       "id": "agr_056",
-      "text": "IITA conducts: (variant 56)",
+      "text": "What type of activities does IITA conduct? (variant 56)",
       "options": [
         "Agricultural research",
         "No research",
@@ -733,7 +733,7 @@
     },
     {
       "id": "agr_057",
-      "text": "Land tenure means: (variant 57)",
+      "text": "What does land tenure mean in agriculture? (variant 57)",
       "options": [
         "No ownership",
         "Only renting",
@@ -746,7 +746,7 @@
     },
     {
       "id": "agr_058",
-      "text": "Millet tolerates: (variant 58)",
+      "text": "Which environmental condition does millet tolerate well? (variant 58)",
       "options": [
         "Only flood",
         "Only high rain",
@@ -759,7 +759,7 @@
     },
     {
       "id": "agr_059",
-      "text": "Young cattle called: (variant 59)",
+      "text": "What is a young cattle called? (variant 59)",
       "options": [
         "Piglet",
         "Calf",
@@ -772,7 +772,7 @@
     },
     {
       "id": "agr_060",
-      "text": "Pruning is: (variant 60)",
+      "text": "What is pruning in crop production? (variant 60)",
       "options": [
         "Cutting unwanted branches",
         "Planting",
@@ -785,7 +785,7 @@
     },
     {
       "id": "agr_061",
-      "text": "Agriculture is: (variant 61)",
+      "text": "What is the definition of agriculture? (variant 61?",
       "options": [
         "Only trading",
         "Only fishing",
@@ -798,7 +798,7 @@
     },
     {
       "id": "agr_062",
-      "text": "Agronomy deals with: (variant 62)",
+      "text": "What branch of agriculture does agronomy deal with? (variant 62)",
       "options": [
         "Forestry",
         "Fishery",
@@ -811,7 +811,7 @@
     },
     {
       "id": "agr_063",
-      "text": "Soil texture is: (variant 63)",
+      "text": "What is the definition of soil texture? (variant 63?",
       "options": [
         "Taste only",
         "Proportion of sand silt clay",
@@ -824,7 +824,7 @@
     },
     {
       "id": "agr_064",
-      "text": "Loamy soil is: (variant 64)",
+      "text": "How is loamy soil classified for agricultural use? (variant 64)",
       "options": [
         "Best for agriculture",
         "Worst",
@@ -837,7 +837,7 @@
     },
     {
       "id": "agr_065",
-      "text": "Fertilizer provides: (variant 65)",
+      "text": "What does fertilizer provide to crops? (variant 65)",
       "options": [
         "Water only",
         "Air only",
@@ -850,7 +850,7 @@
     },
     {
       "id": "agr_066",
-      "text": "Maize botanical name: (variant 66)",
+      "text": "What is the botanical name of maize? (variant 66)",
       "options": [
         "Manihot esculenta",
         "Dioscorea",
@@ -863,7 +863,7 @@
     },
     {
       "id": "agr_067",
-      "text": "Cassava planting material: (variant 67)",
+      "text": "What part of the cassava plant is used as planting material? (variant 67)",
       "options": [
         "Leaf",
         "Stem cutting",
@@ -876,7 +876,7 @@
     },
     {
       "id": "agr_068",
-      "text": "Ruminant example: (variant 68)",
+      "text": "Which of the following is an example of a ruminant animal? (variant 68)",
       "options": [
         "Cattle",
         "Poultry",
@@ -889,7 +889,7 @@
     },
     {
       "id": "agr_069",
-      "text": "Incubation chicken: (variant 69)",
+      "text": "How many days does incubation last for chicken eggs? (variant 69)",
       "options": [
         "10 days",
         "30 days",
@@ -902,7 +902,7 @@
     },
     {
       "id": "agr_070",
-      "text": "Gestation cattle: (variant 70)",
+      "text": "How many days does gestation last in cattle? (variant 70)",
       "options": [
         "30 days",
         "21 days",
@@ -915,7 +915,7 @@
     },
     {
       "id": "agr_071",
-      "text": "Demand means: (variant 71)",
+      "text": "What does demand mean in agricultural economics? (variant 71)",
       "options": [
         "No willingness",
         "Willingness and ability to buy",
@@ -928,7 +928,7 @@
     },
     {
       "id": "agr_072",
-      "text": "Photosynthesis requires: (variant 72)",
+      "text": "What substances are required for photosynthesis in plants? (variant 72)",
       "options": [
         "CO2 water sunlight",
         "Only water",
@@ -941,7 +941,7 @@
     },
     {
       "id": "agr_073",
-      "text": "Irrigation necessary in: (variant 73)",
+      "text": "In which type of area is irrigation most necessary for farming? (variant 73)",
       "options": [
         "Rainy only",
         "No areas",
@@ -954,7 +954,7 @@
     },
     {
       "id": "agr_074",
-      "text": "Weeding important because: (variant 74)",
+      "text": "Why is weeding important in crop production? (variant 74)",
       "options": [
         "No importance",
         "Kills crops",
@@ -967,7 +967,7 @@
     },
     {
       "id": "agr_075",
-      "text": "Silo is for: (variant 75)",
+      "text": "What is a silo used for on a farm? (variant 75)",
       "options": [
         "School",
         "Grain storage",
@@ -980,7 +980,7 @@
     },
     {
       "id": "agr_076",
-      "text": "IITA conducts: (variant 76)",
+      "text": "What type of activities does IITA conduct? (variant 76)",
       "options": [
         "Agricultural research",
         "No research",
@@ -993,7 +993,7 @@
     },
     {
       "id": "agr_077",
-      "text": "Land tenure means: (variant 77)",
+      "text": "What does land tenure mean in agriculture? (variant 77)",
       "options": [
         "No ownership",
         "Only renting",
@@ -1006,7 +1006,7 @@
     },
     {
       "id": "agr_078",
-      "text": "Millet tolerates: (variant 78)",
+      "text": "Which environmental condition does millet tolerate well? (variant 78)",
       "options": [
         "Only flood",
         "Only high rain",
@@ -1019,7 +1019,7 @@
     },
     {
       "id": "agr_079",
-      "text": "Young cattle called: (variant 79)",
+      "text": "What is a young cattle called? (variant 79)",
       "options": [
         "Piglet",
         "Calf",
@@ -1032,7 +1032,7 @@
     },
     {
       "id": "agr_080",
-      "text": "Pruning is: (variant 80)",
+      "text": "What is pruning in crop production? (variant 80)",
       "options": [
         "Cutting unwanted branches",
         "Planting",
@@ -1045,7 +1045,7 @@
     },
     {
       "id": "agr_081",
-      "text": "Agriculture is: (variant 81)",
+      "text": "What is the definition of agriculture? (variant 81?",
       "options": [
         "Only trading",
         "Only fishing",
@@ -1058,7 +1058,7 @@
     },
     {
       "id": "agr_082",
-      "text": "Agronomy deals with: (variant 82)",
+      "text": "What branch of agriculture does agronomy deal with? (variant 82)",
       "options": [
         "Forestry",
         "Fishery",
@@ -1071,7 +1071,7 @@
     },
     {
       "id": "agr_083",
-      "text": "Soil texture is: (variant 83)",
+      "text": "What is the definition of soil texture? (variant 83?",
       "options": [
         "Taste only",
         "Proportion of sand silt clay",
@@ -1084,7 +1084,7 @@
     },
     {
       "id": "agr_084",
-      "text": "Loamy soil is: (variant 84)",
+      "text": "How is loamy soil classified for agricultural use? (variant 84)",
       "options": [
         "Best for agriculture",
         "Worst",
@@ -1097,7 +1097,7 @@
     },
     {
       "id": "agr_085",
-      "text": "Fertilizer provides: (variant 85)",
+      "text": "What does fertilizer provide to crops? (variant 85)",
       "options": [
         "Water only",
         "Air only",
@@ -1110,7 +1110,7 @@
     },
     {
       "id": "agr_086",
-      "text": "Maize botanical name: (variant 86)",
+      "text": "What is the botanical name of maize? (variant 86)",
       "options": [
         "Manihot esculenta",
         "Dioscorea",
@@ -1123,7 +1123,7 @@
     },
     {
       "id": "agr_087",
-      "text": "Cassava planting material: (variant 87)",
+      "text": "What part of the cassava plant is used as planting material? (variant 87)",
       "options": [
         "Leaf",
         "Stem cutting",
@@ -1136,7 +1136,7 @@
     },
     {
       "id": "agr_088",
-      "text": "Ruminant example: (variant 88)",
+      "text": "Which of the following is an example of a ruminant animal? (variant 88)",
       "options": [
         "Cattle",
         "Poultry",
@@ -1149,7 +1149,7 @@
     },
     {
       "id": "agr_089",
-      "text": "Incubation chicken: (variant 89)",
+      "text": "How many days does incubation last for chicken eggs? (variant 89)",
       "options": [
         "10 days",
         "30 days",
@@ -1162,7 +1162,7 @@
     },
     {
       "id": "agr_090",
-      "text": "Gestation cattle: (variant 90)",
+      "text": "How many days does gestation last in cattle? (variant 90)",
       "options": [
         "30 days",
         "21 days",
@@ -1175,7 +1175,7 @@
     },
     {
       "id": "agr_091",
-      "text": "Demand means: (variant 91)",
+      "text": "What does demand mean in agricultural economics? (variant 91)",
       "options": [
         "No willingness",
         "Willingness and ability to buy",
@@ -1188,7 +1188,7 @@
     },
     {
       "id": "agr_092",
-      "text": "Photosynthesis requires: (variant 92)",
+      "text": "What substances are required for photosynthesis in plants? (variant 92)",
       "options": [
         "CO2 water sunlight",
         "Only water",
@@ -1201,7 +1201,7 @@
     },
     {
       "id": "agr_093",
-      "text": "Irrigation necessary in: (variant 93)",
+      "text": "In which type of area is irrigation most necessary for farming? (variant 93)",
       "options": [
         "Rainy only",
         "No areas",
@@ -1214,7 +1214,7 @@
     },
     {
       "id": "agr_094",
-      "text": "Weeding important because: (variant 94)",
+      "text": "Why is weeding important in crop production? (variant 94)",
       "options": [
         "No importance",
         "Kills crops",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": "agr_095",
-      "text": "Silo is for: (variant 95)",
+      "text": "What is a silo used for on a farm? (variant 95)",
       "options": [
         "School",
         "Grain storage",
@@ -1240,7 +1240,7 @@
     },
     {
       "id": "agr_096",
-      "text": "IITA conducts: (variant 96)",
+      "text": "What type of activities does IITA conduct? (variant 96)",
       "options": [
         "Agricultural research",
         "No research",
@@ -1253,7 +1253,7 @@
     },
     {
       "id": "agr_097",
-      "text": "Land tenure means: (variant 97)",
+      "text": "What does land tenure mean in agriculture? (variant 97)",
       "options": [
         "No ownership",
         "Only renting",
@@ -1266,7 +1266,7 @@
     },
     {
       "id": "agr_098",
-      "text": "Millet tolerates: (variant 98)",
+      "text": "Which environmental condition does millet tolerate well? (variant 98)",
       "options": [
         "Only flood",
         "Only high rain",
@@ -1279,7 +1279,7 @@
     },
     {
       "id": "agr_099",
-      "text": "Young cattle called: (variant 99)",
+      "text": "What is a young cattle called? (variant 99)",
       "options": [
         "Piglet",
         "Calf",
@@ -1292,7 +1292,7 @@
     },
     {
       "id": "agr_100",
-      "text": "Pruning is: (variant 100)",
+      "text": "What is pruning in crop production? (variant 100)",
       "options": [
         "Cutting unwanted branches",
         "Planting",
@@ -1305,7 +1305,7 @@
     },
     {
       "id": "agr_101",
-      "text": "Agriculture is: (variant 101)",
+      "text": "What is the definition of agriculture? (variant 101?",
       "options": [
         "Only trading",
         "Only fishing",
@@ -1318,7 +1318,7 @@
     },
     {
       "id": "agr_102",
-      "text": "Agronomy deals with: (variant 102)",
+      "text": "What branch of agriculture does agronomy deal with? (variant 102)",
       "options": [
         "Forestry",
         "Fishery",
@@ -1331,7 +1331,7 @@
     },
     {
       "id": "agr_103",
-      "text": "Soil texture is: (variant 103)",
+      "text": "What is the definition of soil texture?",
       "options": [
         "Taste only",
         "Proportion of sand silt clay",
@@ -1344,7 +1344,7 @@
     },
     {
       "id": "agr_104",
-      "text": "Loamy soil is: (variant 104)",
+      "text": "How is loamy soil classified for agricultural use? (variant 104)",
       "options": [
         "Best for agriculture",
         "Worst",
@@ -1357,7 +1357,7 @@
     },
     {
       "id": "agr_105",
-      "text": "Fertilizer provides: (variant 105)",
+      "text": "What does fertilizer provide to crops? (variant 105)",
       "options": [
         "Water only",
         "Air only",
@@ -1370,7 +1370,7 @@
     },
     {
       "id": "agr_106",
-      "text": "Maize botanical name: (variant 106)",
+      "text": "What is the botanical name of maize? (variant 106)",
       "options": [
         "Manihot esculenta",
         "Dioscorea",
@@ -1383,7 +1383,7 @@
     },
     {
       "id": "agr_107",
-      "text": "Cassava planting material: (variant 107)",
+      "text": "What part of the cassava plant is used as planting material? (variant 107)",
       "options": [
         "Leaf",
         "Stem cutting",
@@ -1396,7 +1396,7 @@
     },
     {
       "id": "agr_108",
-      "text": "Ruminant example: (variant 108)",
+      "text": "Which of the following is an example of a ruminant animal? (variant 108)",
       "options": [
         "Cattle",
         "Poultry",
@@ -1409,7 +1409,7 @@
     },
     {
       "id": "agr_109",
-      "text": "Incubation chicken: (variant 109)",
+      "text": "How many days does incubation last for chicken eggs? (variant 109)",
       "options": [
         "10 days",
         "30 days",
@@ -1422,7 +1422,7 @@
     },
     {
       "id": "agr_110",
-      "text": "Gestation cattle: (variant 110)",
+      "text": "How many days does gestation last in cattle? (variant 110)",
       "options": [
         "30 days",
         "21 days",
@@ -1435,7 +1435,7 @@
     },
     {
       "id": "agr_111",
-      "text": "Demand means: (variant 111)",
+      "text": "What does demand mean in agricultural economics? (variant 111)",
       "options": [
         "No willingness",
         "Willingness and ability to buy",
@@ -1448,7 +1448,7 @@
     },
     {
       "id": "agr_112",
-      "text": "Photosynthesis requires: (variant 112)",
+      "text": "What substances are required for photosynthesis in plants? (variant 112)",
       "options": [
         "CO2 water sunlight",
         "Only water",
@@ -1461,7 +1461,7 @@
     },
     {
       "id": "agr_113",
-      "text": "Irrigation necessary in: (variant 113)",
+      "text": "In which type of area is irrigation most necessary for farming? (variant 113)",
       "options": [
         "Rainy only",
         "No areas",
@@ -1474,7 +1474,7 @@
     },
     {
       "id": "agr_114",
-      "text": "Weeding important because: (variant 114)",
+      "text": "Why is weeding important in crop production? (variant 114)",
       "options": [
         "No importance",
         "Kills crops",
@@ -1487,7 +1487,7 @@
     },
     {
       "id": "agr_115",
-      "text": "Silo is for: (variant 115)",
+      "text": "What is a silo used for on a farm? (variant 115)",
       "options": [
         "School",
         "Grain storage",
@@ -1500,7 +1500,7 @@
     },
     {
       "id": "agr_116",
-      "text": "IITA conducts: (variant 116)",
+      "text": "What type of activities does IITA conduct? (variant 116)",
       "options": [
         "Agricultural research",
         "No research",
@@ -1513,7 +1513,7 @@
     },
     {
       "id": "agr_117",
-      "text": "Land tenure means: (variant 117)",
+      "text": "What does land tenure mean in agriculture? (variant 117)",
       "options": [
         "No ownership",
         "Only renting",
@@ -1526,7 +1526,7 @@
     },
     {
       "id": "agr_118",
-      "text": "Millet tolerates: (variant 118)",
+      "text": "Which environmental condition does millet tolerate well? (variant 118)",
       "options": [
         "Only flood",
         "Only high rain",
@@ -1539,7 +1539,7 @@
     },
     {
       "id": "agr_119",
-      "text": "Young cattle called: (variant 119)",
+      "text": "What is a young cattle called? (variant 119)",
       "options": [
         "Piglet",
         "Calf",
@@ -1552,7 +1552,7 @@
     },
     {
       "id": "agr_120",
-      "text": "Pruning is: (variant 120)",
+      "text": "What is pruning in crop production? (variant 120)",
       "options": [
         "Cutting unwanted branches",
         "Planting",
@@ -1565,7 +1565,7 @@
     },
     {
       "id": "agr_121",
-      "text": "Agriculture is: (variant 121)",
+      "text": "What is the definition of agriculture? (variant 121?",
       "options": [
         "Only trading",
         "Only fishing",
@@ -1578,7 +1578,7 @@
     },
     {
       "id": "agr_122",
-      "text": "Agronomy deals with: (variant 122)",
+      "text": "What branch of agriculture does agronomy deal with? (variant 122)",
       "options": [
         "Forestry",
         "Fishery",
@@ -1591,7 +1591,7 @@
     },
     {
       "id": "agr_123",
-      "text": "Soil texture is: (variant 123)",
+      "text": "What is the definition of soil texture?",
       "options": [
         "Taste only",
         "Proportion of sand silt clay",
@@ -1604,7 +1604,7 @@
     },
     {
       "id": "agr_124",
-      "text": "Loamy soil is: (variant 124)",
+      "text": "How is loamy soil classified for agricultural use? (variant 124)",
       "options": [
         "Best for agriculture",
         "Worst",
@@ -1617,7 +1617,7 @@
     },
     {
       "id": "agr_125",
-      "text": "Fertilizer provides: (variant 125)",
+      "text": "What does fertilizer provide to crops? (variant 125)",
       "options": [
         "Water only",
         "Air only",
@@ -1630,7 +1630,7 @@
     },
     {
       "id": "agr_126",
-      "text": "Maize botanical name: (variant 126)",
+      "text": "What is the botanical name of maize? (variant 126)",
       "options": [
         "Manihot esculenta",
         "Dioscorea",
@@ -1643,7 +1643,7 @@
     },
     {
       "id": "agr_127",
-      "text": "Cassava planting material: (variant 127)",
+      "text": "What part of the cassava plant is used as planting material? (variant 127)",
       "options": [
         "Leaf",
         "Stem cutting",
@@ -1656,7 +1656,7 @@
     },
     {
       "id": "agr_128",
-      "text": "Ruminant example: (variant 128)",
+      "text": "Which of the following is an example of a ruminant animal? (variant 128)",
       "options": [
         "Cattle",
         "Poultry",
@@ -1669,7 +1669,7 @@
     },
     {
       "id": "agr_129",
-      "text": "Incubation chicken: (variant 129)",
+      "text": "How many days does incubation last for chicken eggs? (variant 129)",
       "options": [
         "10 days",
         "30 days",
@@ -1682,7 +1682,7 @@
     },
     {
       "id": "agr_130",
-      "text": "Gestation cattle: (variant 130)",
+      "text": "How many days does gestation last in cattle? (variant 130)",
       "options": [
         "30 days",
         "21 days",
@@ -1695,7 +1695,7 @@
     },
     {
       "id": "agr_131",
-      "text": "Demand means: (variant 131)",
+      "text": "What does demand mean in agricultural economics? (variant 131)",
       "options": [
         "No willingness",
         "Willingness and ability to buy",
@@ -1708,7 +1708,7 @@
     },
     {
       "id": "agr_132",
-      "text": "Photosynthesis requires: (variant 132)",
+      "text": "What substances are required for photosynthesis in plants? (variant 132)",
       "options": [
         "CO2 water sunlight",
         "Only water",
@@ -1721,7 +1721,7 @@
     },
     {
       "id": "agr_133",
-      "text": "Irrigation necessary in: (variant 133)",
+      "text": "In which type of area is irrigation most necessary for farming? (variant 133)",
       "options": [
         "Rainy only",
         "No areas",
@@ -1734,7 +1734,7 @@
     },
     {
       "id": "agr_134",
-      "text": "Weeding important because: (variant 134)",
+      "text": "Why is weeding important in crop production? (variant 134)",
       "options": [
         "No importance",
         "Kills crops",
@@ -1747,7 +1747,7 @@
     },
     {
       "id": "agr_135",
-      "text": "Silo is for: (variant 135)",
+      "text": "What is a silo used for on a farm? (variant 135)",
       "options": [
         "School",
         "Grain storage",
@@ -1760,7 +1760,7 @@
     },
     {
       "id": "agr_136",
-      "text": "IITA conducts: (variant 136)",
+      "text": "What type of activities does IITA conduct? (variant 136)",
       "options": [
         "Agricultural research",
         "No research",
@@ -1773,7 +1773,7 @@
     },
     {
       "id": "agr_137",
-      "text": "Land tenure means: (variant 137)",
+      "text": "What does land tenure mean in agriculture? (variant 137)",
       "options": [
         "No ownership",
         "Only renting",
@@ -1786,7 +1786,7 @@
     },
     {
       "id": "agr_138",
-      "text": "Millet tolerates: (variant 138)",
+      "text": "Which environmental condition does millet tolerate well? (variant 138)",
       "options": [
         "Only flood",
         "Only high rain",
@@ -1799,7 +1799,7 @@
     },
     {
       "id": "agr_139",
-      "text": "Young cattle called: (variant 139)",
+      "text": "What is a young cattle called? (variant 139)",
       "options": [
         "Piglet",
         "Calf",
@@ -1812,7 +1812,7 @@
     },
     {
       "id": "agr_140",
-      "text": "Pruning is: (variant 140)",
+      "text": "What is pruning in crop production? (variant 140)",
       "options": [
         "Cutting unwanted branches",
         "Planting",
@@ -1825,7 +1825,7 @@
     },
     {
       "id": "agr_141",
-      "text": "Agriculture is: (variant 141)",
+      "text": "What is the definition of agriculture? (variant 141?",
       "options": [
         "Only trading",
         "Only fishing",
@@ -1838,7 +1838,7 @@
     },
     {
       "id": "agr_142",
-      "text": "Agronomy deals with: (variant 142)",
+      "text": "What branch of agriculture does agronomy deal with? (variant 142)",
       "options": [
         "Forestry",
         "Fishery",
@@ -1851,7 +1851,7 @@
     },
     {
       "id": "agr_143",
-      "text": "Soil texture is: (variant 143)",
+      "text": "What is the definition of soil texture?",
       "options": [
         "Taste only",
         "Proportion of sand silt clay",
@@ -1864,7 +1864,7 @@
     },
     {
       "id": "agr_144",
-      "text": "Loamy soil is: (variant 144)",
+      "text": "How is loamy soil classified for agricultural use? (variant 144)",
       "options": [
         "Best for agriculture",
         "Worst",
@@ -1877,7 +1877,7 @@
     },
     {
       "id": "agr_145",
-      "text": "Fertilizer provides: (variant 145)",
+      "text": "What does fertilizer provide to crops? (variant 145)",
       "options": [
         "Water only",
         "Air only",
@@ -1890,7 +1890,7 @@
     },
     {
       "id": "agr_146",
-      "text": "Maize botanical name: (variant 146)",
+      "text": "What is the botanical name of maize? (variant 146)",
       "options": [
         "Manihot esculenta",
         "Dioscorea",
@@ -1903,7 +1903,7 @@
     },
     {
       "id": "agr_147",
-      "text": "Cassava planting material: (variant 147)",
+      "text": "What part of the cassava plant is used as planting material? (variant 147)",
       "options": [
         "Leaf",
         "Stem cutting",
@@ -1916,7 +1916,7 @@
     },
     {
       "id": "agr_148",
-      "text": "Ruminant example: (variant 148)",
+      "text": "Which of the following is an example of a ruminant animal? (variant 148)",
       "options": [
         "Cattle",
         "Poultry",
@@ -1929,7 +1929,7 @@
     },
     {
       "id": "agr_149",
-      "text": "Incubation chicken: (variant 149)",
+      "text": "How many days does incubation last for chicken eggs? (variant 149)",
       "options": [
         "10 days",
         "30 days",
@@ -1942,7 +1942,7 @@
     },
     {
       "id": "agr_150",
-      "text": "Gestation cattle: (variant 150)",
+      "text": "How many days does gestation last in cattle? (variant 150)",
       "options": [
         "30 days",
         "21 days",
@@ -1955,7 +1955,7 @@
     },
     {
       "id": "agr_151",
-      "text": "Demand means: (variant 151)",
+      "text": "What does demand mean in agricultural economics? (variant 151)",
       "options": [
         "No willingness",
         "Willingness and ability to buy",
@@ -1968,7 +1968,7 @@
     },
     {
       "id": "agr_152",
-      "text": "Photosynthesis requires: (variant 152)",
+      "text": "What substances are required for photosynthesis in plants? (variant 152)",
       "options": [
         "CO2 water sunlight",
         "Only water",
@@ -1981,7 +1981,7 @@
     },
     {
       "id": "agr_153",
-      "text": "Irrigation necessary in: (variant 153)",
+      "text": "In which type of area is irrigation most necessary for farming? (variant 153)",
       "options": [
         "Rainy only",
         "No areas",
@@ -1994,7 +1994,7 @@
     },
     {
       "id": "agr_154",
-      "text": "Weeding important because: (variant 154)",
+      "text": "Why is weeding important in crop production? (variant 154)",
       "options": [
         "No importance",
         "Kills crops",
@@ -2007,7 +2007,7 @@
     },
     {
       "id": "agr_155",
-      "text": "Silo is for: (variant 155)",
+      "text": "What is a silo used for on a farm? (variant 155)",
       "options": [
         "School",
         "Grain storage",
@@ -2020,7 +2020,7 @@
     },
     {
       "id": "agr_156",
-      "text": "IITA conducts: (variant 156)",
+      "text": "What type of activities does IITA conduct? (variant 156)",
       "options": [
         "Agricultural research",
         "No research",
@@ -2033,7 +2033,7 @@
     },
     {
       "id": "agr_157",
-      "text": "Land tenure means: (variant 157)",
+      "text": "What does land tenure mean in agriculture? (variant 157)",
       "options": [
         "No ownership",
         "Only renting",
@@ -2046,7 +2046,7 @@
     },
     {
       "id": "agr_158",
-      "text": "Millet tolerates: (variant 158)",
+      "text": "Which environmental condition does millet tolerate well? (variant 158)",
       "options": [
         "Only flood",
         "Only high rain",
@@ -2059,7 +2059,7 @@
     },
     {
       "id": "agr_159",
-      "text": "Young cattle called: (variant 159)",
+      "text": "What is a young cattle called? (variant 159)",
       "options": [
         "Piglet",
         "Calf",
@@ -2072,7 +2072,7 @@
     },
     {
       "id": "agr_160",
-      "text": "Pruning is: (variant 160)",
+      "text": "What is pruning in crop production? (variant 160)",
       "options": [
         "Cutting unwanted branches",
         "Planting",
@@ -2085,7 +2085,7 @@
     },
     {
       "id": "agr_161",
-      "text": "Agriculture is: (variant 161)",
+      "text": "What is the definition of agriculture? (variant 161?",
       "options": [
         "Only trading",
         "Only fishing",
@@ -2098,7 +2098,7 @@
     },
     {
       "id": "agr_162",
-      "text": "Agronomy deals with: (variant 162)",
+      "text": "What branch of agriculture does agronomy deal with? (variant 162)",
       "options": [
         "Forestry",
         "Fishery",
@@ -2111,7 +2111,7 @@
     },
     {
       "id": "agr_163",
-      "text": "Soil texture is: (variant 163)",
+      "text": "What is the definition of soil texture?",
       "options": [
         "Taste only",
         "Proportion of sand silt clay",
@@ -2124,7 +2124,7 @@
     },
     {
       "id": "agr_164",
-      "text": "Loamy soil is: (variant 164)",
+      "text": "How is loamy soil classified for agricultural use? (variant 164)",
       "options": [
         "Best for agriculture",
         "Worst",
@@ -2137,7 +2137,7 @@
     },
     {
       "id": "agr_165",
-      "text": "Fertilizer provides: (variant 165)",
+      "text": "What does fertilizer provide to crops? (variant 165)",
       "options": [
         "Water only",
         "Air only",
@@ -2150,7 +2150,7 @@
     },
     {
       "id": "agr_166",
-      "text": "Maize botanical name: (variant 166)",
+      "text": "What is the botanical name of maize? (variant 166)",
       "options": [
         "Manihot esculenta",
         "Dioscorea",
@@ -2163,7 +2163,7 @@
     },
     {
       "id": "agr_167",
-      "text": "Cassava planting material: (variant 167)",
+      "text": "What part of the cassava plant is used as planting material? (variant 167)",
       "options": [
         "Leaf",
         "Stem cutting",
@@ -2176,7 +2176,7 @@
     },
     {
       "id": "agr_168",
-      "text": "Ruminant example: (variant 168)",
+      "text": "Which of the following is an example of a ruminant animal? (variant 168)",
       "options": [
         "Cattle",
         "Poultry",
@@ -2189,7 +2189,7 @@
     },
     {
       "id": "agr_169",
-      "text": "Incubation chicken: (variant 169)",
+      "text": "How many days does incubation last for chicken eggs? (variant 169)",
       "options": [
         "10 days",
         "30 days",
@@ -2202,7 +2202,7 @@
     },
     {
       "id": "agr_170",
-      "text": "Gestation cattle: (variant 170)",
+      "text": "How many days does gestation last in cattle? (variant 170)",
       "options": [
         "30 days",
         "21 days",
@@ -2215,7 +2215,7 @@
     },
     {
       "id": "agr_171",
-      "text": "Demand means: (variant 171)",
+      "text": "What does demand mean in agricultural economics? (variant 171)",
       "options": [
         "No willingness",
         "Willingness and ability to buy",
@@ -2228,7 +2228,7 @@
     },
     {
       "id": "agr_172",
-      "text": "Photosynthesis requires: (variant 172)",
+      "text": "What substances are required for photosynthesis in plants? (variant 172)",
       "options": [
         "CO2 water sunlight",
         "Only water",
@@ -2241,7 +2241,7 @@
     },
     {
       "id": "agr_173",
-      "text": "Irrigation necessary in: (variant 173)",
+      "text": "In which type of area is irrigation most necessary for farming? (variant 173)",
       "options": [
         "Rainy only",
         "No areas",
@@ -2254,7 +2254,7 @@
     },
     {
       "id": "agr_174",
-      "text": "Weeding important because: (variant 174)",
+      "text": "Why is weeding important in crop production? (variant 174)",
       "options": [
         "No importance",
         "Kills crops",
@@ -2267,7 +2267,7 @@
     },
     {
       "id": "agr_175",
-      "text": "Silo is for: (variant 175)",
+      "text": "What is a silo used for on a farm? (variant 175)",
       "options": [
         "School",
         "Grain storage",
@@ -2280,7 +2280,7 @@
     },
     {
       "id": "agr_176",
-      "text": "IITA conducts: (variant 176)",
+      "text": "What type of activities does IITA conduct? (variant 176)",
       "options": [
         "Agricultural research",
         "No research",
@@ -2293,7 +2293,7 @@
     },
     {
       "id": "agr_177",
-      "text": "Land tenure means: (variant 177)",
+      "text": "What does land tenure mean in agriculture? (variant 177)",
       "options": [
         "No ownership",
         "Only renting",
@@ -2306,7 +2306,7 @@
     },
     {
       "id": "agr_178",
-      "text": "Millet tolerates: (variant 178)",
+      "text": "Which environmental condition does millet tolerate well? (variant 178)",
       "options": [
         "Only flood",
         "Only high rain",
@@ -2319,7 +2319,7 @@
     },
     {
       "id": "agr_179",
-      "text": "Young cattle called: (variant 179)",
+      "text": "What is a young cattle called? (variant 179)",
       "options": [
         "Piglet",
         "Calf",
@@ -2332,7 +2332,7 @@
     },
     {
       "id": "agr_180",
-      "text": "Pruning is: (variant 180)",
+      "text": "What is pruning in crop production? (variant 180)",
       "options": [
         "Cutting unwanted branches",
         "Planting",
@@ -2345,7 +2345,7 @@
     },
     {
       "id": "agr_181",
-      "text": "Agriculture is: (variant 181)",
+      "text": "What is the definition of agriculture? (variant 181?",
       "options": [
         "Only trading",
         "Only fishing",
@@ -2358,7 +2358,7 @@
     },
     {
       "id": "agr_182",
-      "text": "Agronomy deals with: (variant 182)",
+      "text": "What branch of agriculture does agronomy deal with? (variant 182)",
       "options": [
         "Forestry",
         "Fishery",
@@ -2371,7 +2371,7 @@
     },
     {
       "id": "agr_183",
-      "text": "Soil texture is: (variant 183)",
+      "text": "What is the definition of soil texture?",
       "options": [
         "Taste only",
         "Proportion of sand silt clay",
@@ -2384,7 +2384,7 @@
     },
     {
       "id": "agr_184",
-      "text": "Loamy soil is: (variant 184)",
+      "text": "How is loamy soil classified for agricultural use? (variant 184)",
       "options": [
         "Best for agriculture",
         "Worst",
@@ -2397,7 +2397,7 @@
     },
     {
       "id": "agr_185",
-      "text": "Fertilizer provides: (variant 185)",
+      "text": "What does fertilizer provide to crops? (variant 185)",
       "options": [
         "Water only",
         "Air only",
@@ -2410,7 +2410,7 @@
     },
     {
       "id": "agr_186",
-      "text": "Maize botanical name: (variant 186)",
+      "text": "What is the botanical name of maize? (variant 186)",
       "options": [
         "Manihot esculenta",
         "Dioscorea",
@@ -2423,7 +2423,7 @@
     },
     {
       "id": "agr_187",
-      "text": "Cassava planting material: (variant 187)",
+      "text": "What part of the cassava plant is used as planting material? (variant 187)",
       "options": [
         "Leaf",
         "Stem cutting",
@@ -2436,7 +2436,7 @@
     },
     {
       "id": "agr_188",
-      "text": "Ruminant example: (variant 188)",
+      "text": "Which of the following is an example of a ruminant animal? (variant 188)",
       "options": [
         "Cattle",
         "Poultry",
@@ -2449,7 +2449,7 @@
     },
     {
       "id": "agr_189",
-      "text": "Incubation chicken: (variant 189)",
+      "text": "How many days does incubation last for chicken eggs? (variant 189)",
       "options": [
         "10 days",
         "30 days",
@@ -2462,7 +2462,7 @@
     },
     {
       "id": "agr_190",
-      "text": "Gestation cattle: (variant 190)",
+      "text": "How many days does gestation last in cattle? (variant 190)",
       "options": [
         "30 days",
         "21 days",
@@ -2475,7 +2475,7 @@
     },
     {
       "id": "agr_191",
-      "text": "Demand means: (variant 191)",
+      "text": "What does demand mean in agricultural economics? (variant 191)",
       "options": [
         "No willingness",
         "Willingness and ability to buy",
@@ -2488,7 +2488,7 @@
     },
     {
       "id": "agr_192",
-      "text": "Photosynthesis requires: (variant 192)",
+      "text": "What substances are required for photosynthesis in plants? (variant 192)",
       "options": [
         "CO2 water sunlight",
         "Only water",
@@ -2501,7 +2501,7 @@
     },
     {
       "id": "agr_193",
-      "text": "Irrigation necessary in: (variant 193)",
+      "text": "In which type of area is irrigation most necessary for farming? (variant 193)",
       "options": [
         "Rainy only",
         "No areas",
@@ -2514,7 +2514,7 @@
     },
     {
       "id": "agr_194",
-      "text": "Weeding important because: (variant 194)",
+      "text": "Why is weeding important in crop production? (variant 194)",
       "options": [
         "No importance",
         "Kills crops",
@@ -2527,7 +2527,7 @@
     },
     {
       "id": "agr_195",
-      "text": "Silo is for: (variant 195)",
+      "text": "What is a silo used for on a farm? (variant 195)",
       "options": [
         "School",
         "Grain storage",
@@ -2540,7 +2540,7 @@
     },
     {
       "id": "agr_196",
-      "text": "IITA conducts: (variant 196)",
+      "text": "What type of activities does IITA conduct? (variant 196)",
       "options": [
         "Agricultural research",
         "No research",
@@ -2553,7 +2553,7 @@
     },
     {
       "id": "agr_197",
-      "text": "Land tenure means: (variant 197)",
+      "text": "What does land tenure mean in agriculture? (variant 197)",
       "options": [
         "No ownership",
         "Only renting",
@@ -2566,7 +2566,7 @@
     },
     {
       "id": "agr_198",
-      "text": "Millet tolerates: (variant 198)",
+      "text": "Which environmental condition does millet tolerate well? (variant 198)",
       "options": [
         "Only flood",
         "Only high rain",
@@ -2579,7 +2579,7 @@
     },
     {
       "id": "agr_199",
-      "text": "Young cattle called: (variant 199)",
+      "text": "What is a young cattle called? (variant 199)",
       "options": [
         "Piglet",
         "Calf",
@@ -2592,7 +2592,7 @@
     },
     {
       "id": "agr_200",
-      "text": "Pruning is: (variant 200)",
+      "text": "What is pruning in crop production? (variant 200)",
       "options": [
         "Cutting unwanted branches",
         "Planting",

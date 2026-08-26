@@ -44,7 +44,7 @@
     },
     {
       "id": "eco_004",
-      "text": "Microeconomics is concerned with:",
+      "text": "Which of the following best describes or relates to Microeconomics is concerned with?",
       "options": [
         "The whole economy",
         "Individual units like households and firms",
@@ -57,7 +57,7 @@
     },
     {
       "id": "eco_005",
-      "text": "Macroeconomics is concerned with:",
+      "text": "Which of the following best describes or relates to Macroeconomics is concerned with?",
       "options": [
         "The economy as a whole",
         "Households",
@@ -70,7 +70,7 @@
     },
     {
       "id": "eco_006",
-      "text": "The father of modern economics is:",
+      "text": "Which of the following best describes or relates to The father of modern economics is?",
       "options": [
         "Keynes",
         "Ricardo",
@@ -83,7 +83,7 @@
     },
     {
       "id": "eco_007",
-      "text": "Adam Smith's famous book is:",
+      "text": "Which of the following best describes or relates to Adam Smith's famous book is?",
       "options": [
         "General Theory",
         "Das Kapital",
@@ -200,7 +200,7 @@
     },
     {
       "id": "eco_016",
-      "text": "Free goods are goods that are:",
+      "text": "Which of the following best describes or relates to Free goods are goods that are?",
       "options": [
         "Scarce",
         "Abundant and have no opportunity cost",
@@ -213,7 +213,7 @@
     },
     {
       "id": "eco_017",
-      "text": "Economic goods are goods that are:",
+      "text": "Which of the following best describes or relates to Economic goods are goods that are?",
       "options": [
         "Scarce relative to demand",
         "Unlimited",
@@ -239,7 +239,7 @@
     },
     {
       "id": "eco_019",
-      "text": "The four factors of production are:",
+      "text": "Which of the following best describes or relates to The four factors of production are?",
       "options": [
         "Land, labour, demand, supply",
         "Land, labour, capital, entrepreneur",
@@ -252,7 +252,7 @@
     },
     {
       "id": "eco_020",
-      "text": "The reward for land is:",
+      "text": "What is the economic reward for land?",
       "options": [
         "Wages",
         "Rent",
@@ -265,7 +265,7 @@
     },
     {
       "id": "eco_021",
-      "text": "The reward for labour is:",
+      "text": "What is the economic reward for labour?",
       "options": [
         "Wages",
         "Interest",
@@ -278,7 +278,7 @@
     },
     {
       "id": "eco_022",
-      "text": "The reward for capital is:",
+      "text": "What is the economic reward for capital?",
       "options": [
         "Wages",
         "Profit",
@@ -291,7 +291,7 @@
     },
     {
       "id": "eco_023",
-      "text": "The reward for entrepreneurship is:",
+      "text": "What is the reward for entrepreneurship?",
       "options": [
         "Interest",
         "Rent",
@@ -317,7 +317,7 @@
     },
     {
       "id": "eco_025",
-      "text": "Capital in economics refers to:",
+      "text": "What does Capital in economics refer to?",
       "options": [
         "Man-made resources used in production",
         "Land",
@@ -356,7 +356,7 @@
     },
     {
       "id": "eco_028",
-      "text": "Division of labour is the:",
+      "text": "Which of the following best describes Division of labour?",
       "options": [
         "Splitting of a task into smaller specialised tasks",
         "Working long hours",
@@ -369,7 +369,7 @@
     },
     {
       "id": "eco_029",
-      "text": "Specialisation leads to:",
+      "text": "Which of the following best describes or relates to Specialisation leads to?",
       "options": [
         "Increased productivity and efficiency",
         "Higher costs",
@@ -434,7 +434,7 @@
     },
     {
       "id": "eco_034",
-      "text": "Nigeria operates a:",
+      "text": "Which of the following best describes or relates to Nigeria operates a?",
       "options": [
         "Pure socialist economy",
         "Command economy",
@@ -499,7 +499,7 @@
     },
     {
       "id": "eco_039",
-      "text": "The demand curve slopes:",
+      "text": "Which of the following best describes or relates to The demand curve slopes?",
       "options": [
         "Vertically",
         "Upward",
@@ -512,7 +512,7 @@
     },
     {
       "id": "eco_040",
-      "text": "The supply curve slopes:",
+      "text": "Which of the following best describes or relates to The supply curve slopes?",
       "options": [
         "Downward",
         "Upward from left to right",
@@ -642,7 +642,7 @@
     },
     {
       "id": "eco_050",
-      "text": "A Giffen good is one whose demand:",
+      "text": "Which of the following best describes or relates to A Giffen good is one whose demand?",
       "options": [
         "Is constant",
         "Is zero",
@@ -655,7 +655,7 @@
     },
     {
       "id": "eco_051",
-      "text": "Excess supply occurs when price is:",
+      "text": "Which of the following best describes or relates to Excess supply occurs when price is?",
       "options": [
         "Zero",
         "Below equilibrium",
@@ -668,7 +668,7 @@
     },
     {
       "id": "eco_052",
-      "text": "Excess demand occurs when price is:",
+      "text": "Which of the following best describes or relates to Excess demand occurs when price is?",
       "options": [
         "Above equilibrium",
         "Below equilibrium",
@@ -772,7 +772,7 @@
     },
     {
       "id": "eco_060",
-      "text": "Utility in economics means:",
+      "text": "What does \"Utility in economics\" mean?",
       "options": [
         "Usefulness only",
         "Satisfaction derived from consuming a good",
@@ -837,7 +837,7 @@
     },
     {
       "id": "eco_065",
-      "text": "Fixed costs are costs that:",
+      "text": "Which of the following best describes or relates to Fixed costs are costs that?",
       "options": [
         "Do not vary with output",
         "Are always zero",
@@ -850,7 +850,7 @@
     },
     {
       "id": "eco_066",
-      "text": "Variable costs are costs that:",
+      "text": "Which of the following best describes or relates to Variable costs are costs that?",
       "options": [
         "Are zero",
         "Equal fixed costs",
@@ -863,7 +863,7 @@
     },
     {
       "id": "eco_067",
-      "text": "Total cost equals:",
+      "text": "Which of the following best describes or relates to Total cost equals?",
       "options": [
         "Price × quantity",
         "Fixed cost + variable cost",
@@ -876,7 +876,7 @@
     },
     {
       "id": "eco_068",
-      "text": "Average cost is:",
+      "text": "Which of the following best describes or relates to Average cost is?",
       "options": [
         "Total cost ÷ quantity",
         "Total cost × quantity",
@@ -889,7 +889,7 @@
     },
     {
       "id": "eco_069",
-      "text": "Marginal cost is the cost of:",
+      "text": "Which of the following best describes or relates to Marginal cost is the cost of?",
       "options": [
         "The first unit",
         "All units",
@@ -902,7 +902,7 @@
     },
     {
       "id": "eco_070",
-      "text": "Total revenue equals:",
+      "text": "Which of the following best describes or relates to Total revenue equals?",
       "options": [
         "Profit + cost",
         "Price + quantity",
@@ -915,7 +915,7 @@
     },
     {
       "id": "eco_071",
-      "text": "Profit equals:",
+      "text": "Which of the following best describes or relates to Profit equals?",
       "options": [
         "Price × cost",
         "Total revenue − total cost",
@@ -928,7 +928,7 @@
     },
     {
       "id": "eco_072",
-      "text": "The break-even point occurs when:",
+      "text": "Which of the following best describes or relates to The break-even point occurs when?",
       "options": [
         "Revenue exceeds cost",
         "Revenue equals cost",
@@ -954,7 +954,7 @@
     },
     {
       "id": "eco_074",
-      "text": "A market with a single seller is a:",
+      "text": "Which of the following best defines A market with a single seller?",
       "options": [
         "Duopoly",
         "Monopsony",
@@ -980,7 +980,7 @@
     },
     {
       "id": "eco_076",
-      "text": "A market with a single buyer is a:",
+      "text": "Which of the following best defines A market with a single buyer?",
       "options": [
         "Monopoly",
         "Monopsony",
@@ -993,7 +993,7 @@
     },
     {
       "id": "eco_077",
-      "text": "A market with two sellers is a:",
+      "text": "Which of the following best defines A market with two sellers?",
       "options": [
         "Duopoly",
         "Oligopoly",
@@ -1019,7 +1019,7 @@
     },
     {
       "id": "eco_079",
-      "text": "A monopolist is a price:",
+      "text": "Which of the following best describes or relates to A monopolist is a price?",
       "options": [
         "Discounter",
         "Taker",
@@ -1032,7 +1032,7 @@
     },
     {
       "id": "eco_080",
-      "text": "Barriers to entry are highest in:",
+      "text": "In which context or location does Barriers to entry are highest apply?",
       "options": [
         "Perfect competition",
         "Monopoly",
@@ -1084,7 +1084,7 @@
     },
     {
       "id": "eco_084",
-      "text": "GDP stands for:",
+      "text": "What does the acronym GDP stand for?",
       "options": [
         "Gross Domestic Product",
         "Gross Direct Profit",
@@ -1097,7 +1097,7 @@
     },
     {
       "id": "eco_085",
-      "text": "GNP stands for:",
+      "text": "What does the acronym GNP stand for?",
       "options": [
         "General Net Profit",
         "Gross Net Price",
@@ -1162,7 +1162,7 @@
     },
     {
       "id": "eco_090",
-      "text": "Depreciation is also known as:",
+      "text": "Which of the following best describes or relates to Depreciation is also known as?",
       "options": [
         "Net investment",
         "Gross profit",
@@ -1188,7 +1188,7 @@
     },
     {
       "id": "eco_092",
-      "text": "The three functions of money are:",
+      "text": "Which of the following best describes or relates to The three functions of money are?",
       "options": [
         "Medium of exchange, store of value, unit of account",
         "Saving, spending, taxing",
@@ -1201,7 +1201,7 @@
     },
     {
       "id": "eco_093",
-      "text": "Barter is the exchange of:",
+      "text": "Which of the following best describes or relates to Barter is the exchange of?",
       "options": [
         "Goods for goods",
         "Money for money",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": "eco_095",
-      "text": "The central bank of Nigeria is the:",
+      "text": "Which of the following best describes The central bank of Nigeria?",
       "options": [
         "Wema Bank",
         "First Bank",
@@ -1253,7 +1253,7 @@
     },
     {
       "id": "eco_097",
-      "text": "Commercial banks primarily:",
+      "text": "Which of the following best describes or relates to Commercial banks primarily?",
       "options": [
         "Accept deposits and give loans",
         "Control inflation",
@@ -1292,7 +1292,7 @@
     },
     {
       "id": "eco_100",
-      "text": "The savings account pays:",
+      "text": "Which of the following best describes or relates to The savings account pays?",
       "options": [
         "No interest",
         "Interest on deposits",
@@ -1305,7 +1305,7 @@
     },
     {
       "id": "eco_101",
-      "text": "A cheque is a:",
+      "text": "Which of the following best defines A cheque?",
       "options": [
         "Written order to a bank to pay money",
         "Loan",
@@ -1318,7 +1318,7 @@
     },
     {
       "id": "eco_102",
-      "text": "Near money refers to assets that:",
+      "text": "Which of the following best describes or relates to Near money refers to assets that?",
       "options": [
         "Cannot be converted",
         "Are illegal",
@@ -1370,7 +1370,7 @@
     },
     {
       "id": "eco_106",
-      "text": "Demand-pull inflation is caused by:",
+      "text": "What are the main causes of Demand-pull inflation?",
       "options": [
         "Falling demand",
         "Tax cuts only",
@@ -1383,7 +1383,7 @@
     },
     {
       "id": "eco_107",
-      "text": "Cost-push inflation is caused by:",
+      "text": "What are the main causes of Cost-push inflation?",
       "options": [
         "Lower wages",
         "Excess demand",
@@ -1396,7 +1396,7 @@
     },
     {
       "id": "eco_108",
-      "text": "Hyperinflation is:",
+      "text": "Which of the following best describes or relates to Hyperinflation is?",
       "options": [
         "Mild inflation",
         "Extremely rapid inflation",
@@ -1422,7 +1422,7 @@
     },
     {
       "id": "eco_110",
-      "text": "Inflation is measured by the:",
+      "text": "Which of the following best describes or relates to Inflation is measured by the?",
       "options": [
         "Tax rate",
         "Population",
@@ -1435,7 +1435,7 @@
     },
     {
       "id": "eco_111",
-      "text": "Taxation is the compulsory levy by:",
+      "text": "Which of the following best describes or relates to Taxation is the compulsory levy by?",
       "options": [
         "Individuals only",
         "Banks",
@@ -1448,7 +1448,7 @@
     },
     {
       "id": "eco_112",
-      "text": "A direct tax is one levied on:",
+      "text": "Which of the following best describes or relates to A direct tax is one levied on?",
       "options": [
         "Goods and services",
         "Income and property",
@@ -1461,7 +1461,7 @@
     },
     {
       "id": "eco_113",
-      "text": "An indirect tax is levied on:",
+      "text": "Which of the following best describes or relates to An indirect tax is levied on?",
       "options": [
         "Goods and services",
         "Property",
@@ -1552,7 +1552,7 @@
     },
     {
       "id": "eco_120",
-      "text": "A budget deficit occurs when:",
+      "text": "Which of the following best describes or relates to A budget deficit occurs when?",
       "options": [
         "Revenue exceeds expenditure",
         "Expenditure exceeds revenue",
@@ -1565,7 +1565,7 @@
     },
     {
       "id": "eco_121",
-      "text": "A budget surplus occurs when:",
+      "text": "Which of the following best describes or relates to A budget surplus occurs when?",
       "options": [
         "Revenue exceeds expenditure",
         "They are equal",
@@ -1591,7 +1591,7 @@
     },
     {
       "id": "eco_123",
-      "text": "Goods sold to other countries are:",
+      "text": "Which of the following best describes or relates to Goods sold to other countries are?",
       "options": [
         "Services",
         "Imports",
@@ -1643,7 +1643,7 @@
     },
     {
       "id": "eco_127",
-      "text": "A tariff is a:",
+      "text": "Which of the following best defines A tariff?",
       "options": [
         "Ban on trade",
         "Tax on imports",
@@ -1656,7 +1656,7 @@
     },
     {
       "id": "eco_128",
-      "text": "A quota is a:",
+      "text": "Which of the following best defines A quota?",
       "options": [
         "Tax",
         "Limit on the quantity of imports",
@@ -1669,7 +1669,7 @@
     },
     {
       "id": "eco_129",
-      "text": "An embargo is a:",
+      "text": "Which of the following best defines An embargo?",
       "options": [
         "Total ban on trade with a country",
         "Quota",
@@ -1695,7 +1695,7 @@
     },
     {
       "id": "eco_131",
-      "text": "Devaluation is the:",
+      "text": "Which of the following best describes Devaluation?",
       "options": [
         "Tax increase",
         "Rise in currency value",
@@ -1721,7 +1721,7 @@
     },
     {
       "id": "eco_133",
-      "text": "The balance of payments records:",
+      "text": "Which of the following best describes or relates to The balance of payments records?",
       "options": [
         "Only imports",
         "Only exports",
@@ -1734,7 +1734,7 @@
     },
     {
       "id": "eco_134",
-      "text": "Invisible trade refers to trade in:",
+      "text": "In which context or location does Invisible trade refers to trade apply?",
       "options": [
         "Raw materials",
         "Manufactured goods",
@@ -1747,7 +1747,7 @@
     },
     {
       "id": "eco_135",
-      "text": "Visible trade refers to trade in:",
+      "text": "In which context or location does Visible trade refers to trade apply?",
       "options": [
         "Tourism",
         "Services",
@@ -1812,7 +1812,7 @@
     },
     {
       "id": "eco_140",
-      "text": "The population census is the:",
+      "text": "Which of the following best describes The population census?",
       "options": [
         "Counting of the population",
         "Tax register",
@@ -1838,7 +1838,7 @@
     },
     {
       "id": "eco_142",
-      "text": "Frictional unemployment is:",
+      "text": "Which of the following best describes or relates to Frictional unemployment is?",
       "options": [
         "Seasonal",
         "Structural",
@@ -1877,7 +1877,7 @@
     },
     {
       "id": "eco_145",
-      "text": "The labour force consists of:",
+      "text": "Which of the following best describes or relates to The labour force consists of?",
       "options": [
         "Those able and willing to work",
         "Only the employed",
@@ -1903,7 +1903,7 @@
     },
     {
       "id": "eco_147",
-      "text": "A subsidy is a:",
+      "text": "Which of the following best defines A subsidy?",
       "options": [
         "Loan",
         "Tax",
@@ -1929,7 +1929,7 @@
     },
     {
       "id": "eco_149",
-      "text": "The World Bank's main role is to:",
+      "text": "Which of the following best describes or relates to The World Bank's main role is to?",
       "options": [
         "Provide development loans",
         "Set exchange rates",
@@ -1942,7 +1942,7 @@
     },
     {
       "id": "eco_150",
-      "text": "The IMF's main role is to:",
+      "text": "Which of the following best describes or relates to The IMF's main role is to?",
       "options": [
         "Regulate banks",
         "Tax countries",
@@ -1955,7 +1955,7 @@
     },
     {
       "id": "eco_151",
-      "text": "OPEC is an organisation of:",
+      "text": "Which of the following best describes or relates to OPEC is an organisation of?",
       "options": [
         "European nations",
         "Oil-producing countries",
@@ -1968,7 +1968,7 @@
     },
     {
       "id": "eco_152",
-      "text": "ECOWAS stands for:",
+      "text": "What does the acronym ECOWAS stand for?",
       "options": [
         "Economic Community of West African States",
         "European Community",
@@ -1994,7 +1994,7 @@
     },
     {
       "id": "eco_154",
-      "text": "The currency of Nigeria is the:",
+      "text": "Which of the following best describes The currency of Nigeria?",
       "options": [
         "Cedi",
         "Pound",
@@ -2059,7 +2059,7 @@
     },
     {
       "id": "eco_159",
-      "text": "Savings is defined as:",
+      "text": "How is Savings defined in this context?",
       "options": [
         "Investment",
         "Income minus consumption",
@@ -2085,7 +2085,7 @@
     },
     {
       "id": "eco_161",
-      "text": "A market is any arrangement where:",
+      "text": "Which of the following best describes or relates to A market is any arrangement where?",
       "options": [
         "Only goods are sold",
         "Only services are sold",
@@ -2228,7 +2228,7 @@
     },
     {
       "id": "eco_172",
-      "text": "Reflation is the policy of:",
+      "text": "Which of the following best describes or relates to Reflation is the policy of?",
       "options": [
         "Reducing prices",
         "Reviving the economy after deflation",
@@ -2436,7 +2436,7 @@
     },
     {
       "id": "eco_188",
-      "text": "The headquarters of OPEC is in:",
+      "text": "In which context or location does The headquarters of OPEC is apply?",
       "options": [
         "Riyadh",
         "Vienna",
@@ -2449,7 +2449,7 @@
     },
     {
       "id": "eco_189",
-      "text": "The headquarters of ECOWAS is in:",
+      "text": "In which context or location does The headquarters of ECOWAS is apply?",
       "options": [
         "Abuja",
         "Accra",
@@ -2579,7 +2579,7 @@
     },
     {
       "id": "eco_199",
-      "text": "The oldest economic system is the:",
+      "text": "Which of the following best describes The oldest economic system?",
       "options": [
         "Mixed economy",
         "Capitalism",

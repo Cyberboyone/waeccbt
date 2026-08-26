@@ -18,7 +18,7 @@
     },
     {
       "id": "che_002",
-      "text": "Filtration is used to separate:",
+      "text": "Which of the following best describes or relates to Filtration is used to separate?",
       "options": [
         "A soluble solid from a liquid",
         "Two gases",
@@ -70,7 +70,7 @@
     },
     {
       "id": "che_006",
-      "text": "Chromatography is used to separate:",
+      "text": "Which of the following best describes or relates to Chromatography is used to separate?",
       "options": [
         "Immiscible liquids",
         "Metals",
@@ -109,7 +109,7 @@
     },
     {
       "id": "che_009",
-      "text": "A pure substance has:",
+      "text": "Which of the following best describes or relates to A pure substance has?",
       "options": [
         "A sharp, fixed melting point",
         "Many components",
@@ -200,7 +200,7 @@
     },
     {
       "id": "che_016",
-      "text": "The empirical formula shows the:",
+      "text": "Which of the following best describes or relates to The empirical formula shows the?",
       "options": [
         "Simplest whole-number ratio of atoms",
         "Actual number of atoms",
@@ -213,7 +213,7 @@
     },
     {
       "id": "che_017",
-      "text": "The molecular formula shows the:",
+      "text": "Which of the following best describes or relates to The molecular formula shows the?",
       "options": [
         "Actual number of atoms in a molecule",
         "Valency",
@@ -226,7 +226,7 @@
     },
     {
       "id": "che_018",
-      "text": "The valency of oxygen is:",
+      "text": "Which of the following best describes or relates to The valency of oxygen is?",
       "options": [
         "3",
         "4",
@@ -239,7 +239,7 @@
     },
     {
       "id": "che_019",
-      "text": "The valency of hydrogen is:",
+      "text": "Which of the following best describes or relates to The valency of hydrogen is?",
       "options": [
         "4",
         "1",
@@ -252,7 +252,7 @@
     },
     {
       "id": "che_020",
-      "text": "The formula of sodium chloride is:",
+      "text": "Which of the following best describes or relates to The formula of sodium chloride is?",
       "options": [
         "NaCl",
         "NaCl₂",
@@ -304,7 +304,7 @@
     },
     {
       "id": "che_024",
-      "text": "The three states of matter are:",
+      "text": "Which of the following best describes or relates to The three states of matter are?",
       "options": [
         "Solid, liquid, gas",
         "Solid, vapour, plasma",
@@ -317,7 +317,7 @@
     },
     {
       "id": "che_025",
-      "text": "Diffusion is fastest in:",
+      "text": "In which context or location does Diffusion is fastest apply?",
       "options": [
         "Liquids",
         "Gases",
@@ -356,7 +356,7 @@
     },
     {
       "id": "che_028",
-      "text": "The ideal gas equation is:",
+      "text": "Which of the following best describes or relates to The ideal gas equation is?",
       "options": [
         "PV = nRT",
         "PT = nRV",
@@ -369,7 +369,7 @@
     },
     {
       "id": "che_029",
-      "text": "The atom consists of a nucleus and:",
+      "text": "Which of the following best describes or relates to The atom consists of a nucleus and?",
       "options": [
         "Only protons",
         "Only neutrons",
@@ -473,7 +473,7 @@
     },
     {
       "id": "che_037",
-      "text": "An ionic bond is formed by:",
+      "text": "Which of the following best describes or relates to An ionic bond is formed by?",
       "options": [
         "Transfer of electrons",
         "Sharing of protons",
@@ -486,7 +486,7 @@
     },
     {
       "id": "che_038",
-      "text": "A covalent bond is formed by:",
+      "text": "Which of the following best describes or relates to A covalent bond is formed by?",
       "options": [
         "Loss of protons",
         "Gain of neutrons",
@@ -564,7 +564,7 @@
     },
     {
       "id": "che_044",
-      "text": "The most abundant gas in air is:",
+      "text": "Which of the following best describes or relates to The most abundant gas in air is?",
       "options": [
         "Oxygen",
         "Nitrogen",
@@ -616,7 +616,7 @@
     },
     {
       "id": "che_048",
-      "text": "The active part of air is:",
+      "text": "Which of the following best describes or relates to The active part of air is?",
       "options": [
         "Nitrogen",
         "Oxygen",
@@ -681,7 +681,7 @@
     },
     {
       "id": "che_053",
-      "text": "Water is purified for drinking by:",
+      "text": "Which of the following best describes or relates to Water is purified for drinking by?",
       "options": [
         "Filtration and chlorination",
         "Adding sugar",
@@ -707,7 +707,7 @@
     },
     {
       "id": "che_055",
-      "text": "A saturated solution contains:",
+      "text": "Which of the following best describes or relates to A saturated solution contains?",
       "options": [
         "Only solvent",
         "No solute",
@@ -746,7 +746,7 @@
     },
     {
       "id": "che_058",
-      "text": "A supersaturated solution is:",
+      "text": "Which of the following best describes or relates to A supersaturated solution is?",
       "options": [
         "Dilute",
         "Unsaturated",
@@ -798,7 +798,7 @@
     },
     {
       "id": "che_062",
-      "text": "Air pollution can be reduced by:",
+      "text": "Which of the following best describes or relates to Air pollution can be reduced by?",
       "options": [
         "Cutting trees",
         "More cars",
@@ -811,7 +811,7 @@
     },
     {
       "id": "che_063",
-      "text": "Water pollution is caused by:",
+      "text": "What are the main causes of Water pollution?",
       "options": [
         "Sunlight",
         "Industrial waste",
@@ -837,7 +837,7 @@
     },
     {
       "id": "che_065",
-      "text": "A base is a substance that accepts:",
+      "text": "Which of the following best describes or relates to A base is a substance that accepts?",
       "options": [
         "Protons (H⁺)",
         "Neutrons",
@@ -850,7 +850,7 @@
     },
     {
       "id": "che_066",
-      "text": "The pH of a neutral solution is:",
+      "text": "Which of the following best describes or relates to The pH of a neutral solution is?",
       "options": [
         "14",
         "1",
@@ -863,7 +863,7 @@
     },
     {
       "id": "che_067",
-      "text": "The pH of an acidic solution is:",
+      "text": "Which of the following best describes or relates to The pH of an acidic solution is?",
       "options": [
         "Always 14",
         "Greater than 7",
@@ -876,7 +876,7 @@
     },
     {
       "id": "che_068",
-      "text": "The pH of a basic solution is:",
+      "text": "Which of the following best describes or relates to The pH of a basic solution is?",
       "options": [
         "Less than 7",
         "Greater than 7",
@@ -889,7 +889,7 @@
     },
     {
       "id": "che_069",
-      "text": "The colour of litmus in an acid is:",
+      "text": "Which of the following best describes or relates to The colour of litmus in an acid is?",
       "options": [
         "Red",
         "Green",
@@ -902,7 +902,7 @@
     },
     {
       "id": "che_070",
-      "text": "The colour of litmus in a base is:",
+      "text": "Which of the following best describes or relates to The colour of litmus in a base is?",
       "options": [
         "Green",
         "Colourless",
@@ -954,7 +954,7 @@
     },
     {
       "id": "che_074",
-      "text": "The salt of sulphuric acid is a:",
+      "text": "Which of the following best defines The salt of sulphuric acid?",
       "options": [
         "Nitrate",
         "Carbonate",
@@ -967,7 +967,7 @@
     },
     {
       "id": "che_075",
-      "text": "The salt of nitric acid is a:",
+      "text": "Which of the following best defines The salt of nitric acid?",
       "options": [
         "Carbonate",
         "Chloride",
@@ -980,7 +980,7 @@
     },
     {
       "id": "che_076",
-      "text": "An indicator used in titrations is:",
+      "text": "Which of the following best describes or relates to An indicator used in titrations is?",
       "options": [
         "Methyl orange",
         "Salt",
@@ -1019,7 +1019,7 @@
     },
     {
       "id": "che_079",
-      "text": "Oxidation is the:",
+      "text": "Which of the following best describes Oxidation?",
       "options": [
         "Gain of protons",
         "Loss of electrons",
@@ -1032,7 +1032,7 @@
     },
     {
       "id": "che_080",
-      "text": "Reduction is the:",
+      "text": "Which of the following best describes Reduction?",
       "options": [
         "Loss of electrons",
         "Gain of electrons",
@@ -1045,7 +1045,7 @@
     },
     {
       "id": "che_081",
-      "text": "An oxidising agent:",
+      "text": "Which of the following best describes or relates to An oxidising agent?",
       "options": [
         "Loses electrons",
         "Loses protons",
@@ -1058,7 +1058,7 @@
     },
     {
       "id": "che_082",
-      "text": "A reducing agent:",
+      "text": "Which of the following best describes or relates to A reducing agent?",
       "options": [
         "Gains protons",
         "Loses protons",
@@ -1344,7 +1344,7 @@
     },
     {
       "id": "che_104",
-      "text": "A catalyst speeds up a reaction by:",
+      "text": "Which of the following best describes or relates to A catalyst speeds up a reaction by?",
       "options": [
         "Increasing activation energy",
         "Lowering activation energy",
@@ -1357,7 +1357,7 @@
     },
     {
       "id": "che_105",
-      "text": "A catalyst is a substance that:",
+      "text": "Which of the following best describes or relates to A catalyst is a substance that?",
       "options": [
         "Speeds the reaction without being consumed",
         "Stops the reaction",
@@ -1409,7 +1409,7 @@
     },
     {
       "id": "che_109",
-      "text": "An enzyme is a biological:",
+      "text": "Which of the following best describes or relates to An enzyme is a biological?",
       "options": [
         "Catalyst",
         "Product",
@@ -1500,7 +1500,7 @@
     },
     {
       "id": "che_116",
-      "text": "A catalyst affects equilibrium by:",
+      "text": "Which of the following best describes or relates to A catalyst affects equilibrium by?",
       "options": [
         "Shifting it",
         "Reaching it faster",
@@ -1552,7 +1552,7 @@
     },
     {
       "id": "che_120",
-      "text": "The noble gases are in Group:",
+      "text": "Which of the following best describes or relates to The noble gases are in Group?",
       "options": [
         "0",
         "1",
@@ -1604,7 +1604,7 @@
     },
     {
       "id": "che_124",
-      "text": "Carbon dioxide turns limewater:",
+      "text": "Which of the following best describes or relates to Carbon dioxide turns limewater?",
       "options": [
         "Blue",
         "Milky",
@@ -1643,7 +1643,7 @@
     },
     {
       "id": "che_127",
-      "text": "Which metal is the most reactive?",
+      "text": "Which metal is the most reactive? in the relevant context?",
       "options": [
         "Silver",
         "Gold",
@@ -1656,7 +1656,7 @@
     },
     {
       "id": "che_128",
-      "text": "Which metal is the least reactive?",
+      "text": "Which metal is the least reactive? in the relevant context?",
       "options": [
         "Gold",
         "Sodium",
@@ -1682,7 +1682,7 @@
     },
     {
       "id": "che_130",
-      "text": "Rusting of iron requires:",
+      "text": "Which of the following best describes or relates to Rusting of iron requires?",
       "options": [
         "Nitrogen",
         "Helium",
@@ -1708,7 +1708,7 @@
     },
     {
       "id": "che_132",
-      "text": "An alloy is a mixture of:",
+      "text": "Which of the following best describes or relates to An alloy is a mixture of?",
       "options": [
         "Two or more metals (or metal + non-metal)",
         "Two non-metals",
@@ -1721,7 +1721,7 @@
     },
     {
       "id": "che_133",
-      "text": "Bronze is an alloy of:",
+      "text": "Which of the following best describes or relates to Bronze is an alloy of?",
       "options": [
         "Iron and carbon",
         "Copper and zinc",
@@ -1734,7 +1734,7 @@
     },
     {
       "id": "che_134",
-      "text": "Brass is an alloy of:",
+      "text": "Which of the following best describes or relates to Brass is an alloy of?",
       "options": [
         "Iron and carbon",
         "Aluminium and copper",
@@ -1747,7 +1747,7 @@
     },
     {
       "id": "che_135",
-      "text": "Steel is an alloy of:",
+      "text": "Which of the following best describes or relates to Steel is an alloy of?",
       "options": [
         "Lead and tin",
         "Iron and carbon",
@@ -1786,7 +1786,7 @@
     },
     {
       "id": "che_138",
-      "text": "The simplest hydrocarbon is:",
+      "text": "Which of the following best describes or relates to The simplest hydrocarbon is?",
       "options": [
         "Propane",
         "Butane",
@@ -1799,7 +1799,7 @@
     },
     {
       "id": "che_139",
-      "text": "The general formula for alkanes is:",
+      "text": "Which of the following best describes or relates to The general formula for alkanes is?",
       "options": [
         "CₙH₂ₙ₊₁",
         "CₙH₂ₙ₊₂",
@@ -1812,7 +1812,7 @@
     },
     {
       "id": "che_140",
-      "text": "The general formula for alkenes is:",
+      "text": "Which of the following best describes or relates to The general formula for alkenes is?",
       "options": [
         "CₙH₂ₙ₊₂",
         "CₙH₂ₙ",
@@ -1825,7 +1825,7 @@
     },
     {
       "id": "che_141",
-      "text": "The general formula for alkynes is:",
+      "text": "Which of the following best describes or relates to The general formula for alkynes is?",
       "options": [
         "CₙH₂ₙ",
         "CₙH₂ₙ₋₂",
@@ -1851,7 +1851,7 @@
     },
     {
       "id": "che_143",
-      "text": "Alkenes contain at least one:",
+      "text": "Which of the following best describes or relates to Alkenes contain at least one?",
       "options": [
         "Ionic bond",
         "Single bond",
@@ -1903,7 +1903,7 @@
     },
     {
       "id": "che_147",
-      "text": "The functional group of ketones is:",
+      "text": "Which of the following best describes or relates to The functional group of ketones is?",
       "options": [
         ">C=O",
         "−OH",
@@ -1916,7 +1916,7 @@
     },
     {
       "id": "che_148",
-      "text": "Ethanol is produced from sugars by:",
+      "text": "Which of the following best describes or relates to Ethanol is produced from sugars by?",
       "options": [
         "Fermentation",
         "Distillation",
@@ -1929,7 +1929,7 @@
     },
     {
       "id": "che_149",
-      "text": "The monomer of polythene is:",
+      "text": "Which of the following best describes or relates to The monomer of polythene is?",
       "options": [
         "Ethene",
         "Butene",
@@ -1981,7 +1981,7 @@
     },
     {
       "id": "che_153",
-      "text": "The Contact process manufactures:",
+      "text": "Which of the following best describes or relates to The Contact process manufactures?",
       "options": [
         "Sulphuric acid",
         "Hydrochloric acid",
@@ -2085,7 +2085,7 @@
     },
     {
       "id": "che_161",
-      "text": "The symbol for potassium is:",
+      "text": "Which of the following best describes or relates to The symbol for potassium is?",
       "options": [
         "K",
         "Po",
@@ -2098,7 +2098,7 @@
     },
     {
       "id": "che_162",
-      "text": "The symbol for iron is:",
+      "text": "Which of the following best describes or relates to The symbol for iron is?",
       "options": [
         "Ir",
         "In",
@@ -2111,7 +2111,7 @@
     },
     {
       "id": "che_163",
-      "text": "The symbol for gold is:",
+      "text": "Which of the following best describes or relates to The symbol for gold is?",
       "options": [
         "Go",
         "G",
@@ -2124,7 +2124,7 @@
     },
     {
       "id": "che_164",
-      "text": "The symbol for silver is:",
+      "text": "Which of the following best describes or relates to The symbol for silver is?",
       "options": [
         "S",
         "Ag",
@@ -2137,7 +2137,7 @@
     },
     {
       "id": "che_165",
-      "text": "The symbol for lead is:",
+      "text": "Which of the following best describes or relates to The symbol for lead is?",
       "options": [
         "Pb",
         "Le",
@@ -2254,7 +2254,7 @@
     },
     {
       "id": "che_174",
-      "text": "The density of a substance equals:",
+      "text": "Which of the following best describes or relates to The density of a substance equals?",
       "options": [
         "Mass × volume",
         "Weight/area",
@@ -2293,7 +2293,7 @@
     },
     {
       "id": "che_177",
-      "text": "The charge on a proton is:",
+      "text": "Which of the following best describes or relates to The charge on a proton is?",
       "options": [
         "Negative",
         "Neutral",
@@ -2306,7 +2306,7 @@
     },
     {
       "id": "che_178",
-      "text": "The charge on an electron is:",
+      "text": "Which of the following best describes or relates to The charge on an electron is?",
       "options": [
         "Neutral",
         "Variable",
@@ -2319,7 +2319,7 @@
     },
     {
       "id": "che_179",
-      "text": "The pH scale ranges from:",
+      "text": "Which of the following best describes or relates to The pH scale ranges from?",
       "options": [
         "1 to 14",
         "0 to 14",
@@ -2332,7 +2332,7 @@
     },
     {
       "id": "che_180",
-      "text": "The molecular formula of ethane is:",
+      "text": "Which of the following best describes or relates to The molecular formula of ethane is?",
       "options": [
         "C₂H₆",
         "C₂H₄",
@@ -2345,7 +2345,7 @@
     },
     {
       "id": "che_181",
-      "text": "The molecular formula of ethene is:",
+      "text": "Which of the following best describes or relates to The molecular formula of ethene is?",
       "options": [
         "C₂H₄",
         "C₂H₂",
@@ -2371,7 +2371,7 @@
     },
     {
       "id": "che_183",
-      "text": "The IUPAC name of CH₃CH₂CH₃ is:",
+      "text": "Which of the following best describes or relates to The IUPAC name of CH₃CH₂CH₃ is?",
       "options": [
         "Pentane",
         "Propane",
@@ -2384,7 +2384,7 @@
     },
     {
       "id": "che_184",
-      "text": "The IUPAC name of CH₃COOH is:",
+      "text": "Which of the following best describes or relates to The IUPAC name of CH₃COOH is?",
       "options": [
         "Methanol",
         "Ethanoic acid",
@@ -2397,7 +2397,7 @@
     },
     {
       "id": "che_185",
-      "text": "The IUPAC name of C₂H₅OH is:",
+      "text": "Which of the following best describes or relates to The IUPAC name of C₂H₅OH is?",
       "options": [
         "Ethanol",
         "Propanol",
@@ -2527,7 +2527,7 @@
     },
     {
       "id": "che_195",
-      "text": "Which element is a metalloid?",
+      "text": "Which element is a metalloid? in the relevant context?",
       "options": [
         "Chlorine",
         "Sodium",
@@ -2553,7 +2553,7 @@
     },
     {
       "id": "che_197",
-      "text": "The bond in sodium chloride is:",
+      "text": "Which of the following best describes or relates to The bond in sodium chloride is?",
       "options": [
         "Ionic",
         "Metallic",
@@ -2592,7 +2592,7 @@
     },
     {
       "id": "che_200",
-      "text": "One mole of a gas at STP occupies:",
+      "text": "Which of the following best describes or relates to One mole of a gas at STP occupies?",
       "options": [
         "22.4 dm³",
         "11.2 dm³",

@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": "fsh_001",
-      "text": "Fisheries is:",
+      "text": "What is the definition of fisheries?",
       "options": [
         "Only crop",
         "Only animal",
@@ -18,7 +18,7 @@
     },
     {
       "id": "fsh_002",
-      "text": "Aquaculture means:",
+      "text": "What is the full meaning of aquaculture in fisheries?",
       "options": [
         "No farming",
         "Only hunting",
@@ -31,7 +31,7 @@
     },
     {
       "id": "fsh_003",
-      "text": "Common cultured fish:",
+      "text": "Which of the following is a commonly cultured fish?",
       "options": [
         "Only carp",
         "Catfish",
@@ -44,7 +44,7 @@
     },
     {
       "id": "fsh_004",
-      "text": "Fish breathes through:",
+      "text": "What organ do fish use to breathe? underwater?",
       "options": [
         "Gills",
         "Lungs",
@@ -57,7 +57,7 @@
     },
     {
       "id": "fsh_005",
-      "text": "Movement organ:",
+      "text": "What organ do fish use for movement in water?",
       "options": [
         "Legs",
         "Wings",
@@ -70,7 +70,7 @@
     },
     {
       "id": "fsh_006",
-      "text": "Young fish hatched:",
+      "text": "What is a newly hatched young fish called?",
       "options": [
         "Juvenile",
         "Adult",
@@ -83,7 +83,7 @@
     },
     {
       "id": "fsh_007",
-      "text": "Best soil for pond:",
+      "text": "Which type of soil is best for constructing a fish pond?",
       "options": [
         "Gravel",
         "Clay",
@@ -96,7 +96,7 @@
     },
     {
       "id": "fsh_008",
-      "text": "pH for fish:",
+      "text": "What is the ideal pH range for fish culture?",
       "options": [
         "6.5-9.0",
         "1-2",
@@ -109,7 +109,7 @@
     },
     {
       "id": "fsh_009",
-      "text": "DO should be:",
+      "text": "What should the dissolved oxygen level be for fish survival?",
       "options": [
         "Below 1",
         "No oxygen",
@@ -122,7 +122,7 @@
     },
     {
       "id": "fsh_010",
-      "text": "Protein fingerlings:",
+      "text": "What percentage of protein is required in fingerling feed?",
       "options": [
         "5%",
         "No protein",
@@ -135,7 +135,7 @@
     },
     {
       "id": "fsh_011",
-      "text": "Natural food:",
+      "text": "What is the main natural food for fish in a pond?",
       "options": [
         "Only pellets",
         "Plankton",
@@ -148,7 +148,7 @@
     },
     {
       "id": "fsh_012",
-      "text": "Active gear:",
+      "text": "Which of the following is an example of an active fishing gear?",
       "options": [
         "Trawl net",
         "Set net",
@@ -161,7 +161,7 @@
     },
     {
       "id": "fsh_013",
-      "text": "Preservation method:",
+      "text": "Which of the following is a method of fish preservation?",
       "options": [
         "No preservation",
         "Only fresh",
@@ -174,7 +174,7 @@
     },
     {
       "id": "fsh_014",
-      "text": "Overfishing leads to:",
+      "text": "What is the main consequence of overfishing?",
       "options": [
         "No depletion",
         "Only increase",
@@ -187,7 +187,7 @@
     },
     {
       "id": "fsh_015",
-      "text": "Closed season means:",
+      "text": "What does closed season mean in fisheries management?",
       "options": [
         "Only fishing",
         "No fishing breeding",
@@ -200,7 +200,7 @@
     },
     {
       "id": "fsh_016",
-      "text": "Fish is rich in:",
+      "text": "Which nutrient is fish most rich in?",
       "options": [
         "Protein",
         "Carb",
@@ -213,7 +213,7 @@
     },
     {
       "id": "fsh_017",
-      "text": "Lateral line for:",
+      "text": "What is the lateral line organ in fish used for?",
       "options": [
         "No sensing",
         "Only swimming",
@@ -226,7 +226,7 @@
     },
     {
       "id": "fsh_018",
-      "text": "Swim bladder for:",
+      "text": "What is the swim bladder in fish used for?",
       "options": [
         "Only swimming",
         "Only breathing",
@@ -239,7 +239,7 @@
     },
     {
       "id": "fsh_019",
-      "text": "Feed cost is:",
+      "text": "How does feed cost rank among fish production expenses?",
       "options": [
         "Only labour",
         "Most important",
@@ -252,7 +252,7 @@
     },
     {
       "id": "fsh_020",
-      "text": "Brackish is:",
+      "text": "What type of water is brackish water?",
       "options": [
         "Fresh+salt mixture",
         "Fresh only",
@@ -265,7 +265,7 @@
     },
     {
       "id": "fsh_021",
-      "text": "Fisheries is: (variant 21)",
+      "text": "What is the definition of fisheries? (variant 21?",
       "options": [
         "Only crop",
         "Only animal",
@@ -278,7 +278,7 @@
     },
     {
       "id": "fsh_022",
-      "text": "Aquaculture means: (variant 22)",
+      "text": "What does aquaculture mean? (variant 22)",
       "options": [
         "No farming",
         "Only hunting",
@@ -291,7 +291,7 @@
     },
     {
       "id": "fsh_023",
-      "text": "Common cultured fish: (variant 23)",
+      "text": "Which of the following is a commonly cultured fish? (variant 23)",
       "options": [
         "Only carp",
         "Catfish",
@@ -304,7 +304,7 @@
     },
     {
       "id": "fsh_024",
-      "text": "Fish breathes through: (variant 24)",
+      "text": "What organ do fish use to breathe? (variant 24)",
       "options": [
         "Gills",
         "Lungs",
@@ -317,7 +317,7 @@
     },
     {
       "id": "fsh_025",
-      "text": "Movement organ: (variant 25)",
+      "text": "What organ do fish use for movement in water? (variant 25)",
       "options": [
         "Legs",
         "Wings",
@@ -330,7 +330,7 @@
     },
     {
       "id": "fsh_026",
-      "text": "Young fish hatched: (variant 26)",
+      "text": "What is a newly hatched young fish called? (variant 26)",
       "options": [
         "Juvenile",
         "Adult",
@@ -343,7 +343,7 @@
     },
     {
       "id": "fsh_027",
-      "text": "Best soil for pond: (variant 27)",
+      "text": "Which type of soil is best for constructing a fish pond? (variant 27)",
       "options": [
         "Gravel",
         "Clay",
@@ -356,7 +356,7 @@
     },
     {
       "id": "fsh_028",
-      "text": "pH for fish: (variant 28)",
+      "text": "What is the ideal pH range for fish culture? (variant 28)",
       "options": [
         "6.5-9.0",
         "1-2",
@@ -369,7 +369,7 @@
     },
     {
       "id": "fsh_029",
-      "text": "DO should be: (variant 29)",
+      "text": "What should the dissolved oxygen level be for fish survival? (variant 29)",
       "options": [
         "Below 1",
         "No oxygen",
@@ -382,7 +382,7 @@
     },
     {
       "id": "fsh_030",
-      "text": "Protein fingerlings: (variant 30)",
+      "text": "What percentage of protein is required in fingerling feed? (variant 30)",
       "options": [
         "5%",
         "No protein",
@@ -395,7 +395,7 @@
     },
     {
       "id": "fsh_031",
-      "text": "Natural food: (variant 31)",
+      "text": "What is the main natural food for fish in a pond? (variant 31)",
       "options": [
         "Only pellets",
         "Plankton",
@@ -408,7 +408,7 @@
     },
     {
       "id": "fsh_032",
-      "text": "Active gear: (variant 32)",
+      "text": "Which of the following is an example of an active fishing gear? (variant 32)",
       "options": [
         "Trawl net",
         "Set net",
@@ -421,7 +421,7 @@
     },
     {
       "id": "fsh_033",
-      "text": "Preservation method: (variant 33)",
+      "text": "Which of the following is a method of fish preservation? (variant 33)",
       "options": [
         "No preservation",
         "Only fresh",
@@ -434,7 +434,7 @@
     },
     {
       "id": "fsh_034",
-      "text": "Overfishing leads to: (variant 34)",
+      "text": "What is the main consequence of overfishing? (variant 34)",
       "options": [
         "No depletion",
         "Only increase",
@@ -447,7 +447,7 @@
     },
     {
       "id": "fsh_035",
-      "text": "Closed season means: (variant 35)",
+      "text": "What does closed season mean in fisheries management? (variant 35)",
       "options": [
         "Only fishing",
         "No fishing breeding",
@@ -460,7 +460,7 @@
     },
     {
       "id": "fsh_036",
-      "text": "Fish is rich in: (variant 36)",
+      "text": "Which nutrient is fish most rich in? (variant 36)",
       "options": [
         "Protein",
         "Carb",
@@ -473,7 +473,7 @@
     },
     {
       "id": "fsh_037",
-      "text": "Lateral line for: (variant 37)",
+      "text": "What is the lateral line organ in fish used for? (variant 37)",
       "options": [
         "No sensing",
         "Only swimming",
@@ -486,7 +486,7 @@
     },
     {
       "id": "fsh_038",
-      "text": "Swim bladder for: (variant 38)",
+      "text": "What is the swim bladder in fish used for? (variant 38)",
       "options": [
         "Only swimming",
         "Only breathing",
@@ -499,7 +499,7 @@
     },
     {
       "id": "fsh_039",
-      "text": "Feed cost is: (variant 39)",
+      "text": "How does feed cost rank among fish production expenses? (variant 39)",
       "options": [
         "Only labour",
         "Most important",
@@ -512,7 +512,7 @@
     },
     {
       "id": "fsh_040",
-      "text": "Brackish is: (variant 40)",
+      "text": "What type of water is brackish water? (variant 40)",
       "options": [
         "Fresh+salt mixture",
         "Fresh only",
@@ -525,7 +525,7 @@
     },
     {
       "id": "fsh_041",
-      "text": "Fisheries is: (variant 41)",
+      "text": "What is the definition of fisheries? (variant 41?",
       "options": [
         "Only crop",
         "Only animal",
@@ -538,7 +538,7 @@
     },
     {
       "id": "fsh_042",
-      "text": "Aquaculture means: (variant 42)",
+      "text": "What does aquaculture mean? (variant 42)",
       "options": [
         "No farming",
         "Only hunting",
@@ -551,7 +551,7 @@
     },
     {
       "id": "fsh_043",
-      "text": "Common cultured fish: (variant 43)",
+      "text": "Which of the following is a commonly cultured fish? (variant 43)",
       "options": [
         "Only carp",
         "Catfish",
@@ -564,7 +564,7 @@
     },
     {
       "id": "fsh_044",
-      "text": "Fish breathes through: (variant 44)",
+      "text": "What organ do fish use to breathe? (variant 44)",
       "options": [
         "Gills",
         "Lungs",
@@ -577,7 +577,7 @@
     },
     {
       "id": "fsh_045",
-      "text": "Movement organ: (variant 45)",
+      "text": "What organ do fish use for movement in water? (variant 45)",
       "options": [
         "Legs",
         "Wings",
@@ -590,7 +590,7 @@
     },
     {
       "id": "fsh_046",
-      "text": "Young fish hatched: (variant 46)",
+      "text": "What is a newly hatched young fish called? (variant 46)",
       "options": [
         "Juvenile",
         "Adult",
@@ -603,7 +603,7 @@
     },
     {
       "id": "fsh_047",
-      "text": "Best soil for pond: (variant 47)",
+      "text": "Which type of soil is best for constructing a fish pond? (variant 47)",
       "options": [
         "Gravel",
         "Clay",
@@ -616,7 +616,7 @@
     },
     {
       "id": "fsh_048",
-      "text": "pH for fish: (variant 48)",
+      "text": "What is the ideal pH range for fish culture? (variant 48)",
       "options": [
         "6.5-9.0",
         "1-2",
@@ -629,7 +629,7 @@
     },
     {
       "id": "fsh_049",
-      "text": "DO should be: (variant 49)",
+      "text": "What should the dissolved oxygen level be for fish survival? (variant 49)",
       "options": [
         "Below 1",
         "No oxygen",
@@ -642,7 +642,7 @@
     },
     {
       "id": "fsh_050",
-      "text": "Protein fingerlings: (variant 50)",
+      "text": "What percentage of protein is required in fingerling feed? (variant 50)",
       "options": [
         "5%",
         "No protein",
@@ -655,7 +655,7 @@
     },
     {
       "id": "fsh_051",
-      "text": "Natural food: (variant 51)",
+      "text": "What is the main natural food for fish in a pond? (variant 51)",
       "options": [
         "Only pellets",
         "Plankton",
@@ -668,7 +668,7 @@
     },
     {
       "id": "fsh_052",
-      "text": "Active gear: (variant 52)",
+      "text": "Which of the following is an example of an active fishing gear? (variant 52)",
       "options": [
         "Trawl net",
         "Set net",
@@ -681,7 +681,7 @@
     },
     {
       "id": "fsh_053",
-      "text": "Preservation method: (variant 53)",
+      "text": "Which of the following is a method of fish preservation? (variant 53)",
       "options": [
         "No preservation",
         "Only fresh",
@@ -694,7 +694,7 @@
     },
     {
       "id": "fsh_054",
-      "text": "Overfishing leads to: (variant 54)",
+      "text": "What is the main consequence of overfishing? (variant 54)",
       "options": [
         "No depletion",
         "Only increase",
@@ -707,7 +707,7 @@
     },
     {
       "id": "fsh_055",
-      "text": "Closed season means: (variant 55)",
+      "text": "What does closed season mean in fisheries management? (variant 55)",
       "options": [
         "Only fishing",
         "No fishing breeding",
@@ -720,7 +720,7 @@
     },
     {
       "id": "fsh_056",
-      "text": "Fish is rich in: (variant 56)",
+      "text": "Which nutrient is fish most rich in? (variant 56)",
       "options": [
         "Protein",
         "Carb",
@@ -733,7 +733,7 @@
     },
     {
       "id": "fsh_057",
-      "text": "Lateral line for: (variant 57)",
+      "text": "What is the lateral line organ in fish used for? (variant 57)",
       "options": [
         "No sensing",
         "Only swimming",
@@ -746,7 +746,7 @@
     },
     {
       "id": "fsh_058",
-      "text": "Swim bladder for: (variant 58)",
+      "text": "What is the swim bladder in fish used for? (variant 58)",
       "options": [
         "Only swimming",
         "Only breathing",
@@ -759,7 +759,7 @@
     },
     {
       "id": "fsh_059",
-      "text": "Feed cost is: (variant 59)",
+      "text": "How does feed cost rank among fish production expenses? (variant 59)",
       "options": [
         "Only labour",
         "Most important",
@@ -772,7 +772,7 @@
     },
     {
       "id": "fsh_060",
-      "text": "Brackish is: (variant 60)",
+      "text": "What type of water is brackish water? (variant 60)",
       "options": [
         "Fresh+salt mixture",
         "Fresh only",
@@ -785,7 +785,7 @@
     },
     {
       "id": "fsh_061",
-      "text": "Fisheries is: (variant 61)",
+      "text": "What is the definition of fisheries? (variant 61?",
       "options": [
         "Only crop",
         "Only animal",
@@ -798,7 +798,7 @@
     },
     {
       "id": "fsh_062",
-      "text": "Aquaculture means: (variant 62)",
+      "text": "What does aquaculture mean? (variant 62)",
       "options": [
         "No farming",
         "Only hunting",
@@ -811,7 +811,7 @@
     },
     {
       "id": "fsh_063",
-      "text": "Common cultured fish: (variant 63)",
+      "text": "Which of the following is a commonly cultured fish? (variant 63)",
       "options": [
         "Only carp",
         "Catfish",
@@ -824,7 +824,7 @@
     },
     {
       "id": "fsh_064",
-      "text": "Fish breathes through: (variant 64)",
+      "text": "What organ do fish use to breathe? (variant 64)",
       "options": [
         "Gills",
         "Lungs",
@@ -837,7 +837,7 @@
     },
     {
       "id": "fsh_065",
-      "text": "Movement organ: (variant 65)",
+      "text": "What organ do fish use for movement in water? (variant 65)",
       "options": [
         "Legs",
         "Wings",
@@ -850,7 +850,7 @@
     },
     {
       "id": "fsh_066",
-      "text": "Young fish hatched: (variant 66)",
+      "text": "What is a newly hatched young fish called? (variant 66)",
       "options": [
         "Juvenile",
         "Adult",
@@ -863,7 +863,7 @@
     },
     {
       "id": "fsh_067",
-      "text": "Best soil for pond: (variant 67)",
+      "text": "Which type of soil is best for constructing a fish pond? (variant 67)",
       "options": [
         "Gravel",
         "Clay",
@@ -876,7 +876,7 @@
     },
     {
       "id": "fsh_068",
-      "text": "pH for fish: (variant 68)",
+      "text": "What is the ideal pH range for fish culture? (variant 68)",
       "options": [
         "6.5-9.0",
         "1-2",
@@ -889,7 +889,7 @@
     },
     {
       "id": "fsh_069",
-      "text": "DO should be: (variant 69)",
+      "text": "What should the dissolved oxygen level be for fish survival? (variant 69)",
       "options": [
         "Below 1",
         "No oxygen",
@@ -902,7 +902,7 @@
     },
     {
       "id": "fsh_070",
-      "text": "Protein fingerlings: (variant 70)",
+      "text": "What percentage of protein is required in fingerling feed? (variant 70)",
       "options": [
         "5%",
         "No protein",
@@ -915,7 +915,7 @@
     },
     {
       "id": "fsh_071",
-      "text": "Natural food: (variant 71)",
+      "text": "What is the main natural food for fish in a pond? (variant 71)",
       "options": [
         "Only pellets",
         "Plankton",
@@ -928,7 +928,7 @@
     },
     {
       "id": "fsh_072",
-      "text": "Active gear: (variant 72)",
+      "text": "Which of the following is an example of an active fishing gear? (variant 72)",
       "options": [
         "Trawl net",
         "Set net",
@@ -941,7 +941,7 @@
     },
     {
       "id": "fsh_073",
-      "text": "Preservation method: (variant 73)",
+      "text": "Which of the following is a method of fish preservation? (variant 73)",
       "options": [
         "No preservation",
         "Only fresh",
@@ -954,7 +954,7 @@
     },
     {
       "id": "fsh_074",
-      "text": "Overfishing leads to: (variant 74)",
+      "text": "What is the main consequence of overfishing? (variant 74)",
       "options": [
         "No depletion",
         "Only increase",
@@ -967,7 +967,7 @@
     },
     {
       "id": "fsh_075",
-      "text": "Closed season means: (variant 75)",
+      "text": "What does closed season mean in fisheries management? (variant 75)",
       "options": [
         "Only fishing",
         "No fishing breeding",
@@ -980,7 +980,7 @@
     },
     {
       "id": "fsh_076",
-      "text": "Fish is rich in: (variant 76)",
+      "text": "Which nutrient is fish most rich in? (variant 76)",
       "options": [
         "Protein",
         "Carb",
@@ -993,7 +993,7 @@
     },
     {
       "id": "fsh_077",
-      "text": "Lateral line for: (variant 77)",
+      "text": "What is the lateral line organ in fish used for? (variant 77)",
       "options": [
         "No sensing",
         "Only swimming",
@@ -1006,7 +1006,7 @@
     },
     {
       "id": "fsh_078",
-      "text": "Swim bladder for: (variant 78)",
+      "text": "What is the swim bladder in fish used for? (variant 78)",
       "options": [
         "Only swimming",
         "Only breathing",
@@ -1019,7 +1019,7 @@
     },
     {
       "id": "fsh_079",
-      "text": "Feed cost is: (variant 79)",
+      "text": "How does feed cost rank among fish production expenses? (variant 79)",
       "options": [
         "Only labour",
         "Most important",
@@ -1032,7 +1032,7 @@
     },
     {
       "id": "fsh_080",
-      "text": "Brackish is: (variant 80)",
+      "text": "What type of water is brackish water? (variant 80)",
       "options": [
         "Fresh+salt mixture",
         "Fresh only",
@@ -1045,7 +1045,7 @@
     },
     {
       "id": "fsh_081",
-      "text": "Fisheries is: (variant 81)",
+      "text": "What is the definition of fisheries? (variant 81?",
       "options": [
         "Only crop",
         "Only animal",
@@ -1058,7 +1058,7 @@
     },
     {
       "id": "fsh_082",
-      "text": "Aquaculture means: (variant 82)",
+      "text": "What does aquaculture mean? (variant 82)",
       "options": [
         "No farming",
         "Only hunting",
@@ -1071,7 +1071,7 @@
     },
     {
       "id": "fsh_083",
-      "text": "Common cultured fish: (variant 83)",
+      "text": "Which of the following is a commonly cultured fish? (variant 83)",
       "options": [
         "Only carp",
         "Catfish",
@@ -1084,7 +1084,7 @@
     },
     {
       "id": "fsh_084",
-      "text": "Fish breathes through: (variant 84)",
+      "text": "What organ do fish use to breathe? (variant 84)",
       "options": [
         "Gills",
         "Lungs",
@@ -1097,7 +1097,7 @@
     },
     {
       "id": "fsh_085",
-      "text": "Movement organ: (variant 85)",
+      "text": "What organ do fish use for movement in water? (variant 85)",
       "options": [
         "Legs",
         "Wings",
@@ -1110,7 +1110,7 @@
     },
     {
       "id": "fsh_086",
-      "text": "Young fish hatched: (variant 86)",
+      "text": "What is a newly hatched young fish called? (variant 86)",
       "options": [
         "Juvenile",
         "Adult",
@@ -1123,7 +1123,7 @@
     },
     {
       "id": "fsh_087",
-      "text": "Best soil for pond: (variant 87)",
+      "text": "Which type of soil is best for constructing a fish pond? (variant 87)",
       "options": [
         "Gravel",
         "Clay",
@@ -1136,7 +1136,7 @@
     },
     {
       "id": "fsh_088",
-      "text": "pH for fish: (variant 88)",
+      "text": "What is the ideal pH range for fish culture? (variant 88)",
       "options": [
         "6.5-9.0",
         "1-2",
@@ -1149,7 +1149,7 @@
     },
     {
       "id": "fsh_089",
-      "text": "DO should be: (variant 89)",
+      "text": "What should the dissolved oxygen level be for fish survival? (variant 89)",
       "options": [
         "Below 1",
         "No oxygen",
@@ -1162,7 +1162,7 @@
     },
     {
       "id": "fsh_090",
-      "text": "Protein fingerlings: (variant 90)",
+      "text": "What percentage of protein is required in fingerling feed? (variant 90)",
       "options": [
         "5%",
         "No protein",
@@ -1175,7 +1175,7 @@
     },
     {
       "id": "fsh_091",
-      "text": "Natural food: (variant 91)",
+      "text": "What is the main natural food for fish in a pond? (variant 91)",
       "options": [
         "Only pellets",
         "Plankton",
@@ -1188,7 +1188,7 @@
     },
     {
       "id": "fsh_092",
-      "text": "Active gear: (variant 92)",
+      "text": "Which of the following is an example of an active fishing gear? (variant 92)",
       "options": [
         "Trawl net",
         "Set net",
@@ -1201,7 +1201,7 @@
     },
     {
       "id": "fsh_093",
-      "text": "Preservation method: (variant 93)",
+      "text": "Which of the following is a method of fish preservation? (variant 93)",
       "options": [
         "No preservation",
         "Only fresh",
@@ -1214,7 +1214,7 @@
     },
     {
       "id": "fsh_094",
-      "text": "Overfishing leads to: (variant 94)",
+      "text": "What is the main consequence of overfishing? (variant 94)",
       "options": [
         "No depletion",
         "Only increase",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": "fsh_095",
-      "text": "Closed season means: (variant 95)",
+      "text": "What does closed season mean in fisheries management? (variant 95)",
       "options": [
         "Only fishing",
         "No fishing breeding",
@@ -1240,7 +1240,7 @@
     },
     {
       "id": "fsh_096",
-      "text": "Fish is rich in: (variant 96)",
+      "text": "Which nutrient is fish most rich in? (variant 96)",
       "options": [
         "Protein",
         "Carb",
@@ -1253,7 +1253,7 @@
     },
     {
       "id": "fsh_097",
-      "text": "Lateral line for: (variant 97)",
+      "text": "What is the lateral line organ in fish used for? (variant 97)",
       "options": [
         "No sensing",
         "Only swimming",
@@ -1266,7 +1266,7 @@
     },
     {
       "id": "fsh_098",
-      "text": "Swim bladder for: (variant 98)",
+      "text": "What is the swim bladder in fish used for? (variant 98)",
       "options": [
         "Only swimming",
         "Only breathing",
@@ -1279,7 +1279,7 @@
     },
     {
       "id": "fsh_099",
-      "text": "Feed cost is: (variant 99)",
+      "text": "How does feed cost rank among fish production expenses? (variant 99)",
       "options": [
         "Only labour",
         "Most important",
@@ -1292,7 +1292,7 @@
     },
     {
       "id": "fsh_100",
-      "text": "Brackish is: (variant 100)",
+      "text": "What type of water is brackish water? (variant 100)",
       "options": [
         "Fresh+salt mixture",
         "Fresh only",
@@ -1305,7 +1305,7 @@
     },
     {
       "id": "fsh_101",
-      "text": "Fisheries is: (variant 101)",
+      "text": "What is the definition of fisheries? (variant 101?",
       "options": [
         "Only crop",
         "Only animal",
@@ -1318,7 +1318,7 @@
     },
     {
       "id": "fsh_102",
-      "text": "Aquaculture means: (variant 102)",
+      "text": "What does aquaculture mean? (variant 102)",
       "options": [
         "No farming",
         "Only hunting",
@@ -1331,7 +1331,7 @@
     },
     {
       "id": "fsh_103",
-      "text": "Common cultured fish: (variant 103)",
+      "text": "Which of the following is a commonly cultured fish? (variant 103)",
       "options": [
         "Only carp",
         "Catfish",
@@ -1344,7 +1344,7 @@
     },
     {
       "id": "fsh_104",
-      "text": "Fish breathes through: (variant 104)",
+      "text": "What organ do fish use to breathe? (variant 104)",
       "options": [
         "Gills",
         "Lungs",
@@ -1357,7 +1357,7 @@
     },
     {
       "id": "fsh_105",
-      "text": "Movement organ: (variant 105)",
+      "text": "What organ do fish use for movement in water? (variant 105)",
       "options": [
         "Legs",
         "Wings",
@@ -1370,7 +1370,7 @@
     },
     {
       "id": "fsh_106",
-      "text": "Young fish hatched: (variant 106)",
+      "text": "What is a newly hatched young fish called? (variant 106)",
       "options": [
         "Juvenile",
         "Adult",
@@ -1383,7 +1383,7 @@
     },
     {
       "id": "fsh_107",
-      "text": "Best soil for pond: (variant 107)",
+      "text": "Which type of soil is best for constructing a fish pond? (variant 107)",
       "options": [
         "Gravel",
         "Clay",
@@ -1396,7 +1396,7 @@
     },
     {
       "id": "fsh_108",
-      "text": "pH for fish: (variant 108)",
+      "text": "What is the ideal pH range for fish culture? (variant 108)",
       "options": [
         "6.5-9.0",
         "1-2",
@@ -1409,7 +1409,7 @@
     },
     {
       "id": "fsh_109",
-      "text": "DO should be: (variant 109)",
+      "text": "What should the dissolved oxygen level be for fish survival? (variant 109)",
       "options": [
         "Below 1",
         "No oxygen",
@@ -1422,7 +1422,7 @@
     },
     {
       "id": "fsh_110",
-      "text": "Protein fingerlings: (variant 110)",
+      "text": "What percentage of protein is required in fingerling feed? (variant 110)",
       "options": [
         "5%",
         "No protein",
@@ -1435,7 +1435,7 @@
     },
     {
       "id": "fsh_111",
-      "text": "Natural food: (variant 111)",
+      "text": "What is the main natural food for fish in a pond? (variant 111)",
       "options": [
         "Only pellets",
         "Plankton",
@@ -1448,7 +1448,7 @@
     },
     {
       "id": "fsh_112",
-      "text": "Active gear: (variant 112)",
+      "text": "Which of the following is an example of an active fishing gear? (variant 112)",
       "options": [
         "Trawl net",
         "Set net",
@@ -1461,7 +1461,7 @@
     },
     {
       "id": "fsh_113",
-      "text": "Preservation method: (variant 113)",
+      "text": "Which of the following is a method of fish preservation? (variant 113)",
       "options": [
         "No preservation",
         "Only fresh",
@@ -1474,7 +1474,7 @@
     },
     {
       "id": "fsh_114",
-      "text": "Overfishing leads to: (variant 114)",
+      "text": "What is the main consequence of overfishing? (variant 114)",
       "options": [
         "No depletion",
         "Only increase",
@@ -1487,7 +1487,7 @@
     },
     {
       "id": "fsh_115",
-      "text": "Closed season means: (variant 115)",
+      "text": "What does closed season mean in fisheries management? (variant 115)",
       "options": [
         "Only fishing",
         "No fishing breeding",
@@ -1500,7 +1500,7 @@
     },
     {
       "id": "fsh_116",
-      "text": "Fish is rich in: (variant 116)",
+      "text": "Which nutrient is fish most rich in? (variant 116)",
       "options": [
         "Protein",
         "Carb",
@@ -1513,7 +1513,7 @@
     },
     {
       "id": "fsh_117",
-      "text": "Lateral line for: (variant 117)",
+      "text": "What is the lateral line organ in fish used for? (variant 117)",
       "options": [
         "No sensing",
         "Only swimming",
@@ -1526,7 +1526,7 @@
     },
     {
       "id": "fsh_118",
-      "text": "Swim bladder for: (variant 118)",
+      "text": "What is the swim bladder in fish used for? (variant 118)",
       "options": [
         "Only swimming",
         "Only breathing",
@@ -1539,7 +1539,7 @@
     },
     {
       "id": "fsh_119",
-      "text": "Feed cost is: (variant 119)",
+      "text": "How does feed cost rank among fish production expenses? (variant 119)",
       "options": [
         "Only labour",
         "Most important",
@@ -1552,7 +1552,7 @@
     },
     {
       "id": "fsh_120",
-      "text": "Brackish is: (variant 120)",
+      "text": "What type of water is brackish water? (variant 120)",
       "options": [
         "Fresh+salt mixture",
         "Fresh only",
@@ -1565,7 +1565,7 @@
     },
     {
       "id": "fsh_121",
-      "text": "Fisheries is: (variant 121)",
+      "text": "What is the definition of fisheries? (variant 121?",
       "options": [
         "Only crop",
         "Only animal",
@@ -1578,7 +1578,7 @@
     },
     {
       "id": "fsh_122",
-      "text": "Aquaculture means: (variant 122)",
+      "text": "What does aquaculture mean? (variant 122)",
       "options": [
         "No farming",
         "Only hunting",
@@ -1591,7 +1591,7 @@
     },
     {
       "id": "fsh_123",
-      "text": "Common cultured fish: (variant 123)",
+      "text": "Which of the following is a commonly cultured fish? (variant 123)",
       "options": [
         "Only carp",
         "Catfish",
@@ -1604,7 +1604,7 @@
     },
     {
       "id": "fsh_124",
-      "text": "Fish breathes through: (variant 124)",
+      "text": "What organ do fish use to breathe? (variant 124)",
       "options": [
         "Gills",
         "Lungs",
@@ -1617,7 +1617,7 @@
     },
     {
       "id": "fsh_125",
-      "text": "Movement organ: (variant 125)",
+      "text": "What organ do fish use for movement in water? (variant 125)",
       "options": [
         "Legs",
         "Wings",
@@ -1630,7 +1630,7 @@
     },
     {
       "id": "fsh_126",
-      "text": "Young fish hatched: (variant 126)",
+      "text": "What is a newly hatched young fish called? (variant 126)",
       "options": [
         "Juvenile",
         "Adult",
@@ -1643,7 +1643,7 @@
     },
     {
       "id": "fsh_127",
-      "text": "Best soil for pond: (variant 127)",
+      "text": "Which type of soil is best for constructing a fish pond? (variant 127)",
       "options": [
         "Gravel",
         "Clay",
@@ -1656,7 +1656,7 @@
     },
     {
       "id": "fsh_128",
-      "text": "pH for fish: (variant 128)",
+      "text": "What is the ideal pH range for fish culture? (variant 128)",
       "options": [
         "6.5-9.0",
         "1-2",
@@ -1669,7 +1669,7 @@
     },
     {
       "id": "fsh_129",
-      "text": "DO should be: (variant 129)",
+      "text": "What should the dissolved oxygen level be for fish survival? (variant 129)",
       "options": [
         "Below 1",
         "No oxygen",
@@ -1682,7 +1682,7 @@
     },
     {
       "id": "fsh_130",
-      "text": "Protein fingerlings: (variant 130)",
+      "text": "What percentage of protein is required in fingerling feed? (variant 130)",
       "options": [
         "5%",
         "No protein",
@@ -1695,7 +1695,7 @@
     },
     {
       "id": "fsh_131",
-      "text": "Natural food: (variant 131)",
+      "text": "What is the main natural food for fish in a pond? (variant 131)",
       "options": [
         "Only pellets",
         "Plankton",
@@ -1708,7 +1708,7 @@
     },
     {
       "id": "fsh_132",
-      "text": "Active gear: (variant 132)",
+      "text": "Which of the following is an example of an active fishing gear? (variant 132)",
       "options": [
         "Trawl net",
         "Set net",
@@ -1721,7 +1721,7 @@
     },
     {
       "id": "fsh_133",
-      "text": "Preservation method: (variant 133)",
+      "text": "Which of the following is a method of fish preservation? (variant 133)",
       "options": [
         "No preservation",
         "Only fresh",
@@ -1734,7 +1734,7 @@
     },
     {
       "id": "fsh_134",
-      "text": "Overfishing leads to: (variant 134)",
+      "text": "What is the main consequence of overfishing? (variant 134)",
       "options": [
         "No depletion",
         "Only increase",
@@ -1747,7 +1747,7 @@
     },
     {
       "id": "fsh_135",
-      "text": "Closed season means: (variant 135)",
+      "text": "What does closed season mean in fisheries management? (variant 135)",
       "options": [
         "Only fishing",
         "No fishing breeding",
@@ -1760,7 +1760,7 @@
     },
     {
       "id": "fsh_136",
-      "text": "Fish is rich in: (variant 136)",
+      "text": "Which nutrient is fish most rich in? (variant 136)",
       "options": [
         "Protein",
         "Carb",
@@ -1773,7 +1773,7 @@
     },
     {
       "id": "fsh_137",
-      "text": "Lateral line for: (variant 137)",
+      "text": "What is the lateral line organ in fish used for? (variant 137)",
       "options": [
         "No sensing",
         "Only swimming",
@@ -1786,7 +1786,7 @@
     },
     {
       "id": "fsh_138",
-      "text": "Swim bladder for: (variant 138)",
+      "text": "What is the swim bladder in fish used for? (variant 138)",
       "options": [
         "Only swimming",
         "Only breathing",
@@ -1799,7 +1799,7 @@
     },
     {
       "id": "fsh_139",
-      "text": "Feed cost is: (variant 139)",
+      "text": "How does feed cost rank among fish production expenses? (variant 139)",
       "options": [
         "Only labour",
         "Most important",
@@ -1812,7 +1812,7 @@
     },
     {
       "id": "fsh_140",
-      "text": "Brackish is: (variant 140)",
+      "text": "What type of water is brackish water? (variant 140)",
       "options": [
         "Fresh+salt mixture",
         "Fresh only",
@@ -1825,7 +1825,7 @@
     },
     {
       "id": "fsh_141",
-      "text": "Fisheries is: (variant 141)",
+      "text": "What is the definition of fisheries? (variant 141?",
       "options": [
         "Only crop",
         "Only animal",
@@ -1838,7 +1838,7 @@
     },
     {
       "id": "fsh_142",
-      "text": "Aquaculture means: (variant 142)",
+      "text": "What does aquaculture mean? (variant 142)",
       "options": [
         "No farming",
         "Only hunting",
@@ -1851,7 +1851,7 @@
     },
     {
       "id": "fsh_143",
-      "text": "Common cultured fish: (variant 143)",
+      "text": "Which of the following is a commonly cultured fish? (variant 143)",
       "options": [
         "Only carp",
         "Catfish",
@@ -1864,7 +1864,7 @@
     },
     {
       "id": "fsh_144",
-      "text": "Fish breathes through: (variant 144)",
+      "text": "What organ do fish use to breathe? (variant 144)",
       "options": [
         "Gills",
         "Lungs",
@@ -1877,7 +1877,7 @@
     },
     {
       "id": "fsh_145",
-      "text": "Movement organ: (variant 145)",
+      "text": "What organ do fish use for movement in water? (variant 145)",
       "options": [
         "Legs",
         "Wings",
@@ -1890,7 +1890,7 @@
     },
     {
       "id": "fsh_146",
-      "text": "Young fish hatched: (variant 146)",
+      "text": "What is a newly hatched young fish called? (variant 146)",
       "options": [
         "Juvenile",
         "Adult",
@@ -1903,7 +1903,7 @@
     },
     {
       "id": "fsh_147",
-      "text": "Best soil for pond: (variant 147)",
+      "text": "Which type of soil is best for constructing a fish pond? (variant 147)",
       "options": [
         "Gravel",
         "Clay",
@@ -1916,7 +1916,7 @@
     },
     {
       "id": "fsh_148",
-      "text": "pH for fish: (variant 148)",
+      "text": "What is the ideal pH range for fish culture? (variant 148)",
       "options": [
         "6.5-9.0",
         "1-2",
@@ -1929,7 +1929,7 @@
     },
     {
       "id": "fsh_149",
-      "text": "DO should be: (variant 149)",
+      "text": "What should the dissolved oxygen level be for fish survival? (variant 149)",
       "options": [
         "Below 1",
         "No oxygen",
@@ -1942,7 +1942,7 @@
     },
     {
       "id": "fsh_150",
-      "text": "Protein fingerlings: (variant 150)",
+      "text": "What percentage of protein is required in fingerling feed? (variant 150)",
       "options": [
         "5%",
         "No protein",
@@ -1955,7 +1955,7 @@
     },
     {
       "id": "fsh_151",
-      "text": "Natural food: (variant 151)",
+      "text": "What is the main natural food for fish in a pond? (variant 151)",
       "options": [
         "Only pellets",
         "Plankton",
@@ -1968,7 +1968,7 @@
     },
     {
       "id": "fsh_152",
-      "text": "Active gear: (variant 152)",
+      "text": "Which of the following is an example of an active fishing gear? (variant 152)",
       "options": [
         "Trawl net",
         "Set net",
@@ -1981,7 +1981,7 @@
     },
     {
       "id": "fsh_153",
-      "text": "Preservation method: (variant 153)",
+      "text": "Which of the following is a method of fish preservation? (variant 153)",
       "options": [
         "No preservation",
         "Only fresh",
@@ -1994,7 +1994,7 @@
     },
     {
       "id": "fsh_154",
-      "text": "Overfishing leads to: (variant 154)",
+      "text": "What is the main consequence of overfishing? (variant 154)",
       "options": [
         "No depletion",
         "Only increase",
@@ -2007,7 +2007,7 @@
     },
     {
       "id": "fsh_155",
-      "text": "Closed season means: (variant 155)",
+      "text": "What does closed season mean in fisheries management? (variant 155)",
       "options": [
         "Only fishing",
         "No fishing breeding",
@@ -2020,7 +2020,7 @@
     },
     {
       "id": "fsh_156",
-      "text": "Fish is rich in: (variant 156)",
+      "text": "Which nutrient is fish most rich in? (variant 156)",
       "options": [
         "Protein",
         "Carb",
@@ -2033,7 +2033,7 @@
     },
     {
       "id": "fsh_157",
-      "text": "Lateral line for: (variant 157)",
+      "text": "What is the lateral line organ in fish used for? (variant 157)",
       "options": [
         "No sensing",
         "Only swimming",
@@ -2046,7 +2046,7 @@
     },
     {
       "id": "fsh_158",
-      "text": "Swim bladder for: (variant 158)",
+      "text": "What is the swim bladder in fish used for? (variant 158)",
       "options": [
         "Only swimming",
         "Only breathing",
@@ -2059,7 +2059,7 @@
     },
     {
       "id": "fsh_159",
-      "text": "Feed cost is: (variant 159)",
+      "text": "How does feed cost rank among fish production expenses? (variant 159)",
       "options": [
         "Only labour",
         "Most important",
@@ -2072,7 +2072,7 @@
     },
     {
       "id": "fsh_160",
-      "text": "Brackish is: (variant 160)",
+      "text": "What type of water is brackish water? (variant 160)",
       "options": [
         "Fresh+salt mixture",
         "Fresh only",
@@ -2085,7 +2085,7 @@
     },
     {
       "id": "fsh_161",
-      "text": "Fisheries is: (variant 161)",
+      "text": "What is the definition of fisheries? (variant 161?",
       "options": [
         "Only crop",
         "Only animal",
@@ -2098,7 +2098,7 @@
     },
     {
       "id": "fsh_162",
-      "text": "Aquaculture means: (variant 162)",
+      "text": "What does aquaculture mean? (variant 162)",
       "options": [
         "No farming",
         "Only hunting",
@@ -2111,7 +2111,7 @@
     },
     {
       "id": "fsh_163",
-      "text": "Common cultured fish: (variant 163)",
+      "text": "Which of the following is a commonly cultured fish? (variant 163)",
       "options": [
         "Only carp",
         "Catfish",
@@ -2124,7 +2124,7 @@
     },
     {
       "id": "fsh_164",
-      "text": "Fish breathes through: (variant 164)",
+      "text": "What organ do fish use to breathe? (variant 164)",
       "options": [
         "Gills",
         "Lungs",
@@ -2137,7 +2137,7 @@
     },
     {
       "id": "fsh_165",
-      "text": "Movement organ: (variant 165)",
+      "text": "What organ do fish use for movement in water? (variant 165)",
       "options": [
         "Legs",
         "Wings",
@@ -2150,7 +2150,7 @@
     },
     {
       "id": "fsh_166",
-      "text": "Young fish hatched: (variant 166)",
+      "text": "What is a newly hatched young fish called? (variant 166)",
       "options": [
         "Juvenile",
         "Adult",
@@ -2163,7 +2163,7 @@
     },
     {
       "id": "fsh_167",
-      "text": "Best soil for pond: (variant 167)",
+      "text": "Which type of soil is best for constructing a fish pond? (variant 167)",
       "options": [
         "Gravel",
         "Clay",
@@ -2176,7 +2176,7 @@
     },
     {
       "id": "fsh_168",
-      "text": "pH for fish: (variant 168)",
+      "text": "What is the ideal pH range for fish culture? (variant 168)",
       "options": [
         "6.5-9.0",
         "1-2",
@@ -2189,7 +2189,7 @@
     },
     {
       "id": "fsh_169",
-      "text": "DO should be: (variant 169)",
+      "text": "What should the dissolved oxygen level be for fish survival? (variant 169)",
       "options": [
         "Below 1",
         "No oxygen",
@@ -2202,7 +2202,7 @@
     },
     {
       "id": "fsh_170",
-      "text": "Protein fingerlings: (variant 170)",
+      "text": "What percentage of protein is required in fingerling feed? (variant 170)",
       "options": [
         "5%",
         "No protein",
@@ -2215,7 +2215,7 @@
     },
     {
       "id": "fsh_171",
-      "text": "Natural food: (variant 171)",
+      "text": "What is the main natural food for fish in a pond? (variant 171)",
       "options": [
         "Only pellets",
         "Plankton",
@@ -2228,7 +2228,7 @@
     },
     {
       "id": "fsh_172",
-      "text": "Active gear: (variant 172)",
+      "text": "Which of the following is an example of an active fishing gear? (variant 172)",
       "options": [
         "Trawl net",
         "Set net",
@@ -2241,7 +2241,7 @@
     },
     {
       "id": "fsh_173",
-      "text": "Preservation method: (variant 173)",
+      "text": "Which of the following is a method of fish preservation? (variant 173)",
       "options": [
         "No preservation",
         "Only fresh",
@@ -2254,7 +2254,7 @@
     },
     {
       "id": "fsh_174",
-      "text": "Overfishing leads to: (variant 174)",
+      "text": "What is the main consequence of overfishing? (variant 174)",
       "options": [
         "No depletion",
         "Only increase",
@@ -2267,7 +2267,7 @@
     },
     {
       "id": "fsh_175",
-      "text": "Closed season means: (variant 175)",
+      "text": "What does closed season mean in fisheries management? (variant 175)",
       "options": [
         "Only fishing",
         "No fishing breeding",
@@ -2280,7 +2280,7 @@
     },
     {
       "id": "fsh_176",
-      "text": "Fish is rich in: (variant 176)",
+      "text": "Which nutrient is fish most rich in? (variant 176)",
       "options": [
         "Protein",
         "Carb",
@@ -2293,7 +2293,7 @@
     },
     {
       "id": "fsh_177",
-      "text": "Lateral line for: (variant 177)",
+      "text": "What is the lateral line organ in fish used for? (variant 177)",
       "options": [
         "No sensing",
         "Only swimming",
@@ -2306,7 +2306,7 @@
     },
     {
       "id": "fsh_178",
-      "text": "Swim bladder for: (variant 178)",
+      "text": "What is the swim bladder in fish used for? (variant 178)",
       "options": [
         "Only swimming",
         "Only breathing",
@@ -2319,7 +2319,7 @@
     },
     {
       "id": "fsh_179",
-      "text": "Feed cost is: (variant 179)",
+      "text": "How does feed cost rank among fish production expenses? (variant 179)",
       "options": [
         "Only labour",
         "Most important",
@@ -2332,7 +2332,7 @@
     },
     {
       "id": "fsh_180",
-      "text": "Brackish is: (variant 180)",
+      "text": "What type of water is brackish water? (variant 180)",
       "options": [
         "Fresh+salt mixture",
         "Fresh only",
@@ -2345,7 +2345,7 @@
     },
     {
       "id": "fsh_181",
-      "text": "Fisheries is: (variant 181)",
+      "text": "What is the definition of fisheries? (variant 181?",
       "options": [
         "Only crop",
         "Only animal",
@@ -2358,7 +2358,7 @@
     },
     {
       "id": "fsh_182",
-      "text": "Aquaculture means: (variant 182)",
+      "text": "What does aquaculture mean? (variant 182)",
       "options": [
         "No farming",
         "Only hunting",
@@ -2371,7 +2371,7 @@
     },
     {
       "id": "fsh_183",
-      "text": "Common cultured fish: (variant 183)",
+      "text": "Which of the following is a commonly cultured fish? (variant 183)",
       "options": [
         "Only carp",
         "Catfish",
@@ -2384,7 +2384,7 @@
     },
     {
       "id": "fsh_184",
-      "text": "Fish breathes through: (variant 184)",
+      "text": "What organ do fish use to breathe? (variant 184)",
       "options": [
         "Gills",
         "Lungs",
@@ -2397,7 +2397,7 @@
     },
     {
       "id": "fsh_185",
-      "text": "Movement organ: (variant 185)",
+      "text": "What organ do fish use for movement in water? (variant 185)",
       "options": [
         "Legs",
         "Wings",
@@ -2410,7 +2410,7 @@
     },
     {
       "id": "fsh_186",
-      "text": "Young fish hatched: (variant 186)",
+      "text": "What is a newly hatched young fish called? (variant 186)",
       "options": [
         "Juvenile",
         "Adult",
@@ -2423,7 +2423,7 @@
     },
     {
       "id": "fsh_187",
-      "text": "Best soil for pond: (variant 187)",
+      "text": "Which type of soil is best for constructing a fish pond? (variant 187)",
       "options": [
         "Gravel",
         "Clay",
@@ -2436,7 +2436,7 @@
     },
     {
       "id": "fsh_188",
-      "text": "pH for fish: (variant 188)",
+      "text": "What is the ideal pH range for fish culture? (variant 188)",
       "options": [
         "6.5-9.0",
         "1-2",
@@ -2449,7 +2449,7 @@
     },
     {
       "id": "fsh_189",
-      "text": "DO should be: (variant 189)",
+      "text": "What should the dissolved oxygen level be for fish survival? (variant 189)",
       "options": [
         "Below 1",
         "No oxygen",
@@ -2462,7 +2462,7 @@
     },
     {
       "id": "fsh_190",
-      "text": "Protein fingerlings: (variant 190)",
+      "text": "What percentage of protein is required in fingerling feed? (variant 190)",
       "options": [
         "5%",
         "No protein",
@@ -2475,7 +2475,7 @@
     },
     {
       "id": "fsh_191",
-      "text": "Natural food: (variant 191)",
+      "text": "What is the main natural food for fish in a pond? (variant 191)",
       "options": [
         "Only pellets",
         "Plankton",
@@ -2488,7 +2488,7 @@
     },
     {
       "id": "fsh_192",
-      "text": "Active gear: (variant 192)",
+      "text": "Which of the following is an example of an active fishing gear? (variant 192)",
       "options": [
         "Trawl net",
         "Set net",
@@ -2501,7 +2501,7 @@
     },
     {
       "id": "fsh_193",
-      "text": "Preservation method: (variant 193)",
+      "text": "Which of the following is a method of fish preservation? (variant 193)",
       "options": [
         "No preservation",
         "Only fresh",
@@ -2514,7 +2514,7 @@
     },
     {
       "id": "fsh_194",
-      "text": "Overfishing leads to: (variant 194)",
+      "text": "What is the main consequence of overfishing? (variant 194)",
       "options": [
         "No depletion",
         "Only increase",
@@ -2527,7 +2527,7 @@
     },
     {
       "id": "fsh_195",
-      "text": "Closed season means: (variant 195)",
+      "text": "What does closed season mean in fisheries management? (variant 195)",
       "options": [
         "Only fishing",
         "No fishing breeding",
@@ -2540,7 +2540,7 @@
     },
     {
       "id": "fsh_196",
-      "text": "Fish is rich in: (variant 196)",
+      "text": "Which nutrient is fish most rich in? (variant 196)",
       "options": [
         "Protein",
         "Carb",
@@ -2553,7 +2553,7 @@
     },
     {
       "id": "fsh_197",
-      "text": "Lateral line for: (variant 197)",
+      "text": "What is the lateral line organ in fish used for? (variant 197)",
       "options": [
         "No sensing",
         "Only swimming",
@@ -2566,7 +2566,7 @@
     },
     {
       "id": "fsh_198",
-      "text": "Swim bladder for: (variant 198)",
+      "text": "What is the swim bladder in fish used for? (variant 198)",
       "options": [
         "Only swimming",
         "Only breathing",
@@ -2579,7 +2579,7 @@
     },
     {
       "id": "fsh_199",
-      "text": "Feed cost is: (variant 199)",
+      "text": "How does feed cost rank among fish production expenses? (variant 199)",
       "options": [
         "Only labour",
         "Most important",
@@ -2592,7 +2592,7 @@
     },
     {
       "id": "fsh_200",
-      "text": "Brackish is: (variant 200)",
+      "text": "What type of water is brackish water? (variant 200)",
       "options": [
         "Fresh+salt mixture",
         "Fresh only",

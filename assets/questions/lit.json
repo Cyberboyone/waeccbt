@@ -83,7 +83,7 @@
     },
     {
       "id": "lit_007",
-      "text": "A genre is a:",
+      "text": "A genre is best defined as a category or type of literature.",
       "options": [
         "Stanza",
         "Type or category of literature",
@@ -96,7 +96,7 @@
     },
     {
       "id": "lit_008",
-      "text": "Fiction refers to writing that is:",
+      "text": "Fiction is a type of writing characterised by being:",
       "options": [
         "Factual",
         "Imaginary/invented",
@@ -109,7 +109,7 @@
     },
     {
       "id": "lit_009",
-      "text": "Non-fiction is writing based on:",
+      "text": "Non-fiction writing is primarily based on:",
       "options": [
         "Facts and reality",
         "Fantasy",
@@ -122,7 +122,7 @@
     },
     {
       "id": "lit_010",
-      "text": "A short story is:",
+      "text": "A short story is best defined as a brief work of prose fiction.",
       "options": [
         "A poem",
         "A play",
@@ -135,7 +135,7 @@
     },
     {
       "id": "lit_011",
-      "text": "The author of a play is called a:",
+      "text": "The author who writes a play is known as a:",
       "options": [
         "Essayist",
         "Poet",
@@ -148,7 +148,7 @@
     },
     {
       "id": "lit_012",
-      "text": "The author of a poem is called a:",
+      "text": "The author who writes a poem is known as a poet.",
       "options": [
         "Playwright",
         "Poet",
@@ -161,7 +161,7 @@
     },
     {
       "id": "lit_013",
-      "text": "The author of a novel is called a:",
+      "text": "The author who writes a novel is known as a novelist.",
       "options": [
         "Novelist",
         "Playwright",
@@ -187,7 +187,7 @@
     },
     {
       "id": "lit_015",
-      "text": "A drama that ends happily is a:",
+      "text": "A drama that ends happily is called a comedy.",
       "options": [
         "Melodrama",
         "Tragedy",
@@ -213,7 +213,7 @@
     },
     {
       "id": "lit_017",
-      "text": "The major division of a play is an:",
+      "text": "Which of the following best defines The major division of a play?",
       "options": [
         "Act",
         "Stanza",
@@ -226,7 +226,7 @@
     },
     {
       "id": "lit_018",
-      "text": "The subdivision of an act is a:",
+      "text": "An act in a play is subdivided into scenes.",
       "options": [
         "Chapter",
         "Canto",
@@ -434,7 +434,7 @@
     },
     {
       "id": "lit_034",
-      "text": "A long prose narrative is a:",
+      "text": "A long prose narrative is known as a novel.",
       "options": [
         "Poem",
         "Play",
@@ -447,7 +447,7 @@
     },
     {
       "id": "lit_035",
-      "text": "A novella is:",
+      "text": "A novella is best described as a medium-length work of fiction.",
       "options": [
         "A play",
         "Longer than a novel",
@@ -603,7 +603,7 @@
     },
     {
       "id": "lit_047",
-      "text": "A flashback is a:",
+      "text": "A flashback is best described as a scene set in an earlier time.",
       "options": [
         "Type of ending",
         "Look into the future",
@@ -616,7 +616,7 @@
     },
     {
       "id": "lit_048",
-      "text": "Foreshadowing is:",
+      "text": "How is Foreshadowing best described?",
       "options": [
         "A flashback",
         "A hint of what is to come",
@@ -655,7 +655,7 @@
     },
     {
       "id": "lit_051",
-      "text": "An essay is a:",
+      "text": "An essay is best described as a short piece of non-fiction writing.",
       "options": [
         "Play",
         "Long novel",
@@ -668,7 +668,7 @@
     },
     {
       "id": "lit_052",
-      "text": "A fable is a story that:",
+      "text": "A fable is a short story that teaches a moral lesson.",
       "options": [
         "Is always true",
         "Teaches a moral, often with animals",
@@ -681,7 +681,7 @@
     },
     {
       "id": "lit_053",
-      "text": "A myth is a traditional story that:",
+      "text": "Which of the following best describes or relates to A myth is a traditional story that?",
       "options": [
         "Is factual",
         "Is a poem",
@@ -694,7 +694,7 @@
     },
     {
       "id": "lit_054",
-      "text": "A legend is a story:",
+      "text": "A legend is a story often based on a real person or event.",
       "options": [
         "Purely imaginary",
         "A poem",
@@ -707,7 +707,7 @@
     },
     {
       "id": "lit_055",
-      "text": "An allegory is a story with:",
+      "text": "An allegory is a story with a hidden moral or political meaning.",
       "options": [
         "Only dialogue",
         "One meaning",
@@ -720,7 +720,7 @@
     },
     {
       "id": "lit_056",
-      "text": "A parable is a short story that:",
+      "text": "A parable is a short story that teaches a moral or spiritual lesson.",
       "options": [
         "Is a poem",
         "Illustrates a moral or spiritual lesson",
@@ -733,7 +733,7 @@
     },
     {
       "id": "lit_057",
-      "text": "An epic is a:",
+      "text": "An epic is best described as a long narrative poem about heroic deeds.",
       "options": [
         "Long narrative poem about heroic deeds",
         "Novel",
@@ -746,7 +746,7 @@
     },
     {
       "id": "lit_058",
-      "text": "A satire is a work that:",
+      "text": "A satire is a work that uses humour to criticise or expose vice.",
       "options": [
         "Is always tragic",
         "Is factual",
@@ -759,7 +759,7 @@
     },
     {
       "id": "lit_059",
-      "text": "A line of poetry is called a:",
+      "text": "A single line of poetry is technically called a verse line.",
       "options": [
         "Line",
         "Stanza",
@@ -772,7 +772,7 @@
     },
     {
       "id": "lit_060",
-      "text": "A group of lines in a poem is a:",
+      "text": "A group of lines forming a unit in a poem is called a stanza.",
       "options": [
         "Verse",
         "Stanza",
@@ -785,7 +785,7 @@
     },
     {
       "id": "lit_061",
-      "text": "A stanza of two lines is a:",
+      "text": "A poetic stanza of exactly two lines is called a couplet.",
       "options": [
         "Couplet",
         "Quatrain",
@@ -798,7 +798,7 @@
     },
     {
       "id": "lit_062",
-      "text": "A stanza of four lines is a:",
+      "text": "A poetic stanza of exactly four lines is called a quatrain.",
       "options": [
         "Tercet",
         "Octave",
@@ -811,7 +811,7 @@
     },
     {
       "id": "lit_063",
-      "text": "A stanza of three lines is a:",
+      "text": "A poetic stanza of exactly three lines is called a tercet.",
       "options": [
         "Sestet",
         "Couplet",
@@ -824,7 +824,7 @@
     },
     {
       "id": "lit_064",
-      "text": "A poem of fourteen lines is a:",
+      "text": "A poem of exactly fourteen lines is called a sonnet.",
       "options": [
         "Ballad",
         "Sonnet",
@@ -837,7 +837,7 @@
     },
     {
       "id": "lit_065",
-      "text": "A poem that tells a story is a:",
+      "text": "A poem that narrates a story is classified as a narrative poem.",
       "options": [
         "Narrative poem",
         "Ode",
@@ -863,7 +863,7 @@
     },
     {
       "id": "lit_067",
-      "text": "A poem mourning the dead is an:",
+      "text": "A poem written to lament the dead is called an elegy.",
       "options": [
         "Ballad",
         "Ode",
@@ -876,7 +876,7 @@
     },
     {
       "id": "lit_068",
-      "text": "A poem of praise is an:",
+      "text": "A poem written to glorify a subject is called an ode.",
       "options": [
         "Elegy",
         "Ode",
@@ -889,7 +889,7 @@
     },
     {
       "id": "lit_069",
-      "text": "A short, witty poem is an:",
+      "text": "A short, witty, epigrammatic poem is called an epigram.",
       "options": [
         "Epigram",
         "Epic",
@@ -954,7 +954,7 @@
     },
     {
       "id": "lit_074",
-      "text": "The repetition of vowel sounds is:",
+      "text": "The repetition of similar vowel sounds in nearby words is called assonance.",
       "options": [
         "Consonance",
         "Rhyme",
@@ -1058,7 +1058,7 @@
     },
     {
       "id": "lit_082",
-      "text": "A refrain is a:",
+      "text": "A refrain is best described as a repeated line or group of lines.",
       "options": [
         "Type of stanza",
         "Figure of speech",
@@ -1136,7 +1136,7 @@
     },
     {
       "id": "lit_088",
-      "text": "'The world is a stage' is a:",
+      "text": "The phrase 'The world is a stage' is an example of a metaphor.",
       "options": [
         "Simile",
         "Metaphor",
@@ -1279,7 +1279,7 @@
     },
     {
       "id": "lit_099",
-      "text": "An oxymoron is:",
+      "text": "An oxymoron is best described as combining contradictory terms.",
       "options": [
         "An allusion",
         "Two contradictory words together",
@@ -1344,7 +1344,7 @@
     },
     {
       "id": "lit_104",
-      "text": "A rhetorical question is one that:",
+      "text": "A rhetorical question is one asked for effect, not requiring an answer.",
       "options": [
         "Needs an answer",
         "Is asked for effect, not an answer",
@@ -1500,7 +1500,7 @@
     },
     {
       "id": "lit_116",
-      "text": "'Time is money' is a:",
+      "text": "'Time is money' is an example of which figure of speech?",
       "options": [
         "Simile",
         "Metaphor",
@@ -1526,7 +1526,7 @@
     },
     {
       "id": "lit_118",
-      "text": "'He runs like the wind' is a:",
+      "text": "The phrase 'He runs like the wind' is an example of a simile.",
       "options": [
         "Personification",
         "Oxymoron",
@@ -1565,7 +1565,7 @@
     },
     {
       "id": "lit_121",
-      "text": "The 'climax' of a story is its:",
+      "text": "The climax of a story is best described as its most intense turning point.",
       "options": [
         "Highest point of tension",
         "Ending",
@@ -1617,7 +1617,7 @@
     },
     {
       "id": "lit_125",
-      "text": "A 'round' character is one who is:",
+      "text": "A round character is complex and well-developed in personality.",
       "options": [
         "Fully developed and complex",
         "Minor",
@@ -1630,7 +1630,7 @@
     },
     {
       "id": "lit_126",
-      "text": "A 'flat' character is one who is:",
+      "text": "A flat character is simple, one-dimensional, and undeveloped.",
       "options": [
         "Main",
         "Dynamic",
@@ -1656,7 +1656,7 @@
     },
     {
       "id": "lit_128",
-      "text": "A character who does not change is:",
+      "text": "Which of the following best describes or relates to A character who does not change is?",
       "options": [
         "Dynamic",
         "Static",
@@ -1669,7 +1669,7 @@
     },
     {
       "id": "lit_129",
-      "text": "The 'theme' of a work is its:",
+      "text": "The theme of a literary work is its central idea or underlying message.",
       "options": [
         "Central message/idea",
         "Plot",
@@ -1682,7 +1682,7 @@
     },
     {
       "id": "lit_130",
-      "text": "The 'setting' of a work is its:",
+      "text": "The setting of a literary work refers to its time and place of action.",
       "options": [
         "Plot",
         "Style",
@@ -1708,7 +1708,7 @@
     },
     {
       "id": "lit_132",
-      "text": "The 'mood' of a work is the:",
+      "text": "The mood of a literary work is best described as:",
       "options": [
         "Author's attitude",
         "Feeling/atmosphere evoked",
@@ -1734,7 +1734,7 @@
     },
     {
       "id": "lit_134",
-      "text": "'Suspense' in a story is:",
+      "text": "Suspense in a story is a feeling of anxious uncertainty about what will happen.",
       "options": [
         "The setting",
         "The title",
@@ -1747,7 +1747,7 @@
     },
     {
       "id": "lit_135",
-      "text": "The 'denouement' of a story is its:",
+      "text": "Which of the following best describes or relates to The 'denouement' of a story is its?",
       "options": [
         "Conflict",
         "Beginning",
@@ -1760,7 +1760,7 @@
     },
     {
       "id": "lit_136",
-      "text": "A 'prologue' is found at the:",
+      "text": "A prologue is found at the very beginning of a literary work.",
       "options": [
         "End of a work",
         "Beginning of a work",
@@ -1773,7 +1773,7 @@
     },
     {
       "id": "lit_137",
-      "text": "An 'epilogue' is found at the:",
+      "text": "An epilogue is found at the very end of a literary work, after the story.",
       "options": [
         "End of a work",
         "Middle",
@@ -1786,7 +1786,7 @@
     },
     {
       "id": "lit_138",
-      "text": "The 'subplot' of a story is a:",
+      "text": "The 'subplot' of a story is best described as:",
       "options": [
         "Theme",
         "Setting",
@@ -1799,7 +1799,7 @@
     },
     {
       "id": "lit_139",
-      "text": "A 'foil' character serves to:",
+      "text": "A foil character serves to contrast with and highlight the protagonist.",
       "options": [
         "Narrate",
         "Replace the hero",
@@ -1825,7 +1825,7 @@
     },
     {
       "id": "lit_141",
-      "text": "'Bildungsroman' is a novel about:",
+      "text": "A Bildungsroman is a novel about a characters moral and psychological growth.",
       "options": [
         "A character's growth from youth to maturity",
         "Romance",
@@ -1864,7 +1864,7 @@
     },
     {
       "id": "lit_144",
-      "text": "The 'chorus' in classical drama:",
+      "text": "What is the role of the chorus in classical drama?",
       "options": [
         "Performs",
         "Comments on the action",
@@ -1877,7 +1877,7 @@
     },
     {
       "id": "lit_145",
-      "text": "A 'tragic flaw' is a:",
+      "text": "A 'tragic flaw' is best described as:",
       "options": [
         "Character defect that causes the hero's downfall",
         "Setting",
@@ -1890,7 +1890,7 @@
     },
     {
       "id": "lit_146",
-      "text": "'Hamartia' means:",
+      "text": "What does the literary term 'Hamartia' mean?",
       "options": [
         "Comedy",
         "Revenge",
@@ -1903,7 +1903,7 @@
     },
     {
       "id": "lit_147",
-      "text": "'Catharsis' in tragedy is the:",
+      "text": "Catharsis in tragedy is best described as the purging of emotions.",
       "options": [
         "Setting",
         "Purging of emotions in the audience",
@@ -1942,7 +1942,7 @@
     },
     {
       "id": "lit_150",
-      "text": "The 'persona' in a poem is the:",
+      "text": "The persona in a poem is best described as the voice or speaker.",
       "options": [
         "Author",
         "Publisher",
@@ -1955,7 +1955,7 @@
     },
     {
       "id": "lit_151",
-      "text": "A 'ballad' is a poem that:",
+      "text": "A ballad is a narrative poem that typically tells a story in verse.",
       "options": [
         "Is 14 lines",
         "Tells a story, often meant to be sung",
@@ -1968,7 +1968,7 @@
     },
     {
       "id": "lit_152",
-      "text": "The 'lyric I' refers to the:",
+      "text": "The lyric I in poetry refers to the speaker or narrator of the poem.",
       "options": [
         "Reader",
         "First-person speaker in a lyric",
@@ -1981,7 +1981,7 @@
     },
     {
       "id": "lit_153",
-      "text": "A 'rhetorical device' is used to:",
+      "text": "A rhetorical device is used to persuade the audience or create effect.",
       "options": [
         "Persuade or create effect",
         "End a story",
@@ -1994,7 +1994,7 @@
     },
     {
       "id": "lit_154",
-      "text": "'Diction' refers to the writer's:",
+      "text": "Diction in literature refers to the writers choice of words and phrases.",
       "options": [
         "Setting",
         "Characters",
@@ -2020,7 +2020,7 @@
     },
     {
       "id": "lit_156",
-      "text": "A 'monologue' is a:",
+      "text": "How is A 'monologue' best described?",
       "options": [
         "Dialogue",
         "Long speech by one person",
@@ -2033,7 +2033,7 @@
     },
     {
       "id": "lit_157",
-      "text": "The 'style' of a writer refers to:",
+      "text": "The style of a writer refers to their distinctive use of language.",
       "options": [
         "The distinctive way they write",
         "The setting",
@@ -2059,7 +2059,7 @@
     },
     {
       "id": "lit_159",
-      "text": "'Her eyes were stars' is a:",
+      "text": "'Her eyes were stars' is an example of which figure of speech?",
       "options": [
         "Personification",
         "Simile",
@@ -2072,7 +2072,7 @@
     },
     {
       "id": "lit_160",
-      "text": "'He is as cunning as a fox' is a:",
+      "text": "The phrase 'He is as cunning as a fox' is an example of a simile.",
       "options": [
         "Metaphor",
         "Simile",
@@ -2137,7 +2137,7 @@
     },
     {
       "id": "lit_165",
-      "text": "A 'narrative' is a:",
+      "text": "How is A 'narrative' best described?",
       "options": [
         "Story or account of events",
         "Play only",
@@ -2163,7 +2163,7 @@
     },
     {
       "id": "lit_167",
-      "text": "A 'dialogue' is:",
+      "text": "A dialogue is a conversation between two or more characters in a work.",
       "options": [
         "Narration",
         "A solo speech",
@@ -2176,7 +2176,7 @@
     },
     {
       "id": "lit_168",
-      "text": "The 'villain' of a story is the:",
+      "text": "The villain of a story is best described as the main antagonist or evil character.",
       "options": [
         "Hero",
         "Evil character",
@@ -2189,7 +2189,7 @@
     },
     {
       "id": "lit_169",
-      "text": "The 'hero' of a story is the:",
+      "text": "The hero of a story is best described as the main protagonist or leading character.",
       "options": [
         "Main admirable character",
         "Narrator",
@@ -2202,7 +2202,7 @@
     },
     {
       "id": "lit_170",
-      "text": "The 'heroine' is the:",
+      "text": "How is The 'heroine' best described?",
       "options": [
         "Villain",
         "Narrator",
@@ -2228,7 +2228,7 @@
     },
     {
       "id": "lit_172",
-      "text": "The 'exposition' of a story is its:",
+      "text": "Which of the following best describes or relates to The 'exposition' of a story is its?",
       "options": [
         "Ending",
         "Introductory part",
@@ -2254,7 +2254,7 @@
     },
     {
       "id": "lit_174",
-      "text": "The 'falling action' follows the:",
+      "text": "The falling action in a plot follows which part of the story?",
       "options": [
         "Prologue",
         "Conflict",
@@ -2267,7 +2267,7 @@
     },
     {
       "id": "lit_175",
-      "text": "A 'play' is divided into:",
+      "text": "A play is divided into which major parts?",
       "options": [
         "Cantos",
         "Chapters",
@@ -2280,7 +2280,7 @@
     },
     {
       "id": "lit_176",
-      "text": "A 'novel' is divided into:",
+      "text": "A novel is divided into which major parts?",
       "options": [
         "Acts",
         "Chapters",
@@ -2293,7 +2293,7 @@
     },
     {
       "id": "lit_177",
-      "text": "A 'poem' is divided into:",
+      "text": "A poem is divided into which structural units?",
       "options": [
         "Stanzas",
         "Acts",
@@ -2306,7 +2306,7 @@
     },
     {
       "id": "lit_178",
-      "text": "The 'plot' of a drama is its:",
+      "text": "The plot of a drama is best described as its sequence of main events.",
       "options": [
         "Theme",
         "Cast",
@@ -2319,7 +2319,7 @@
     },
     {
       "id": "lit_179",
-      "text": "A 'proverb' is a:",
+      "text": "A proverb is best described as a short, well-known saying giving advice.",
       "options": [
         "Play",
         "Long story",
@@ -2332,7 +2332,7 @@
     },
     {
       "id": "lit_180",
-      "text": "A 'riddle' is a:",
+      "text": "A riddle is best described as a question or statement designed to puzzle.",
       "options": [
         "Story",
         "Puzzle or question to be solved",
@@ -2345,7 +2345,7 @@
     },
     {
       "id": "lit_181",
-      "text": "An 'idiom' is a:",
+      "text": "An idiom is best described as a phrase whose meaning is not literal.",
       "options": [
         "Phrase whose meaning is not literal",
         "Single word",
@@ -2358,7 +2358,7 @@
     },
     {
       "id": "lit_182",
-      "text": "The 'moral' of a story is its:",
+      "text": "The moral of a story is best described as the lesson or principle it teaches.",
       "options": [
         "Setting",
         "Characters",
@@ -2371,7 +2371,7 @@
     },
     {
       "id": "lit_183",
-      "text": "A 'novel of ideas' focuses on:",
+      "text": "A novel of ideas primarily focuses on exploring philosophical themes.",
       "options": [
         "Setting",
         "Action only",
@@ -2384,7 +2384,7 @@
     },
     {
       "id": "lit_184",
-      "text": "'Irony' occurs when:",
+      "text": "When does 'irony' occur in literature?",
       "options": [
         "Everything is as expected",
         "There is a contrast between expectation and reality",
@@ -2397,7 +2397,7 @@
     },
     {
       "id": "lit_185",
-      "text": "'Dramatic irony' occurs when:",
+      "text": "When does 'dramatic irony' occur in a play or story?",
       "options": [
         "Nobody knows anything",
         "Characters are honest",
@@ -2410,7 +2410,7 @@
     },
     {
       "id": "lit_186",
-      "text": "'Situational irony' is:",
+      "text": "What is 'situational irony' in literature?",
       "options": [
         "A metaphor",
         "A simile",
@@ -2423,7 +2423,7 @@
     },
     {
       "id": "lit_187",
-      "text": "'Verbal irony' is:",
+      "text": "What is 'verbal irony' in literature?",
       "options": [
         "Exaggeration",
         "Saying what you mean",
@@ -2436,7 +2436,7 @@
     },
     {
       "id": "lit_188",
-      "text": "A 'sonnet' has how many lines?",
+      "text": "How many lines does a traditional sonnet contain in total?",
       "options": [
         "12",
         "14",
@@ -2449,7 +2449,7 @@
     },
     {
       "id": "lit_189",
-      "text": "The 'octave' of a sonnet has:",
+      "text": "The octave section of a sonnet consists of exactly how many lines?",
       "options": [
         "8 lines",
         "4 lines",
@@ -2462,7 +2462,7 @@
     },
     {
       "id": "lit_190",
-      "text": "The 'sestet' of a sonnet has:",
+      "text": "The sestet section of a sonnet consists of exactly how many lines?",
       "options": [
         "4 lines",
         "14 lines",
@@ -2488,7 +2488,7 @@
     },
     {
       "id": "lit_192",
-      "text": "The Petrarchan sonnet divides into:",
+      "text": "Which of the following best describes or relates to The Petrarchan sonnet divides into?",
       "options": [
         "Two quatrains",
         "An octave and a sestet",
@@ -2501,7 +2501,7 @@
     },
     {
       "id": "lit_193",
-      "text": "A 'haiku' is a poem with:",
+      "text": "A 'haiku' is a poem characterised by which structure?",
       "options": [
         "Three lines (5-7-5 syllables)",
         "Four lines",
@@ -2514,7 +2514,7 @@
     },
     {
       "id": "lit_194",
-      "text": "An 'epitaph' is:",
+      "text": "An epitaph is best described as an inscription on a tombstone or memorial.",
       "options": [
         "A war poem",
         "A song",
@@ -2527,7 +2527,7 @@
     },
     {
       "id": "lit_195",
-      "text": "A 'eulogy' is a speech or writing:",
+      "text": "A eulogy is a speech or writing that does what?",
       "options": [
         "About nature",
         "Criticising someone",
@@ -2540,7 +2540,7 @@
     },
     {
       "id": "lit_196",
-      "text": "A 'dirge' is a:",
+      "text": "A dirge is best described as a mournful song composed for the dead.",
       "options": [
         "Happy song",
         "Song of mourning",
@@ -2579,7 +2579,7 @@
     },
     {
       "id": "lit_199",
-      "text": "A 'couplet' is:",
+      "text": "A couplet is best described as two consecutive lines of rhyming verse.",
       "options": [
         "Eight lines",
         "Four lines",
@@ -2592,7 +2592,7 @@
     },
     {
       "id": "lit_200",
-      "text": "The 'refrain' of a poem is its:",
+      "text": "The refrain of a poem is best described as its repeated line or set of lines.",
       "options": [
         "Title",
         "Repeated line(s)",

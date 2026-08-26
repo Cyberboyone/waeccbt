@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": "mat_001",
-      "text": "Express 10110₂ in base 10.",
+      "text": "Convert the binary number 10110₂ to its equivalent value in base 10.",
       "options": [
         "22",
         "24",
@@ -18,7 +18,7 @@
     },
     {
       "id": "mat_002",
-      "text": "Convert 45 (base 10) to base 2.",
+      "text": "Convert the base 10 number 45 to its equivalent in base 2 (binary).",
       "options": [
         "101001₂",
         "11101₂",
@@ -31,7 +31,7 @@
     },
     {
       "id": "mat_003",
-      "text": "Express 77₈ in base 10.",
+      "text": "Convert the octal number 77₈ to its equivalent value in base 10.",
       "options": [
         "70",
         "61",
@@ -44,7 +44,7 @@
     },
     {
       "id": "mat_004",
-      "text": "Convert 35 (base 10) to base 5.",
+      "text": "Convert the base 10 number 35 to its equivalent in base 5.",
       "options": [
         "120₅",
         "125₅",
@@ -70,7 +70,7 @@
     },
     {
       "id": "mat_006",
-      "text": "Simplify 1101₂ − 110₂.",
+      "text": "Subtract 110₂ from 1101₂ and simplify the result.",
       "options": [
         "111₂ in base 10 is 7",
         "1001₂",
@@ -83,7 +83,7 @@
     },
     {
       "id": "mat_007",
-      "text": "Evaluate 101₂ × 11₂.",
+      "text": "Multiply the binary numbers 101₂ and 11₂ and give the result.",
       "options": [
         "1101₂",
         "1111₂",
@@ -96,7 +96,7 @@
     },
     {
       "id": "mat_008",
-      "text": "Convert 21₃ to base 10.",
+      "text": "Convert the base 3 number 21₃ to its equivalent value in base 10.",
       "options": [
         "7",
         "6",
@@ -109,7 +109,7 @@
     },
     {
       "id": "mat_009",
-      "text": "What is the value of 10₁₀ in binary?",
+      "text": "What is the binary (base 2) equivalent of the decimal number 10₁₀?",
       "options": [
         "1100₂",
         "1001₂",
@@ -122,7 +122,7 @@
     },
     {
       "id": "mat_010",
-      "text": "Convert 0.5 (base 10) to base 2.",
+      "text": "Convert the decimal number 0.5 to its equivalent in base 2 (binary).",
       "options": [
         "0.11₂",
         "0.101₂",
@@ -135,7 +135,7 @@
     },
     {
       "id": "mat_011",
-      "text": "Simplify 3/4 + 1/2.",
+      "text": "Simplify the sum of the fractions 3/4 and 1/2.",
       "options": [
         "3/8",
         "5/4",
@@ -148,7 +148,7 @@
     },
     {
       "id": "mat_012",
-      "text": "Evaluate 2/3 − 1/6.",
+      "text": "Evaluate the difference between the fractions 2/3 and 1/6.",
       "options": [
         "1/2",
         "1/3",
@@ -161,7 +161,7 @@
     },
     {
       "id": "mat_013",
-      "text": "Find 3/5 × 5/9.",
+      "text": "Find the product of the fractions 3/5 and 5/9.",
       "options": [
         "15/45",
         "3/9",
@@ -174,7 +174,7 @@
     },
     {
       "id": "mat_014",
-      "text": "Divide 3/4 by 2/3.",
+      "text": "Divide the fraction 3/4 by the fraction 2/3.",
       "options": [
         "1/2",
         "8/9",
@@ -200,7 +200,7 @@
     },
     {
       "id": "mat_016",
-      "text": "Write 3/8 as a decimal.",
+      "text": "Express the fraction 3/8 as a decimal number.",
       "options": [
         "0.375",
         "0.38",
@@ -213,7 +213,7 @@
     },
     {
       "id": "mat_017",
-      "text": "Round 3.14159 to 2 decimal places.",
+      "text": "Round the number 3.14159 correct to 2 decimal places.",
       "options": [
         "3.15",
         "3.1",
@@ -226,7 +226,7 @@
     },
     {
       "id": "mat_018",
-      "text": "Express 0.00045 in standard form.",
+      "text": "Express the number 0.00045 in standard form (scientific notation).",
       "options": [
         "45 × 10⁻⁵",
         "4.5 × 10⁻³",
@@ -239,7 +239,7 @@
     },
     {
       "id": "mat_019",
-      "text": "What is 15% of 240?",
+      "text": "What is 15 percent of 240? Calculate the answer.",
       "options": [
         "40",
         "36",
@@ -252,7 +252,7 @@
     },
     {
       "id": "mat_020",
-      "text": "Express 4/25 as a percentage.",
+      "text": "Express the fraction 4/25 as a percentage.",
       "options": [
         "16%",
         "4%",
@@ -265,7 +265,7 @@
     },
     {
       "id": "mat_021",
-      "text": "Increase 500 by 10%.",
+      "text": "Increase the number 500 by 10 percent and find the result.",
       "options": [
         "510",
         "600",
@@ -291,7 +291,7 @@
     },
     {
       "id": "mat_023",
-      "text": "Simplify 2³ × 2⁴.",
+      "text": "Simplify the expression 2³ multiplied by 2⁴ using index laws.",
       "options": [
         "2¹",
         "2⁷",
@@ -304,7 +304,7 @@
     },
     {
       "id": "mat_024",
-      "text": "Evaluate 3⁵ ÷ 3².",
+      "text": "Evaluate the expression 3⁵ divided by 3² using index laws.",
       "options": [
         "3³",
         "3⁷",
@@ -317,7 +317,7 @@
     },
     {
       "id": "mat_025",
-      "text": "Simplify (x²)³.",
+      "text": "Simplify the expression (x²)³ using the laws of indices.",
       "options": [
         "x⁵",
         "x⁹",
@@ -330,7 +330,7 @@
     },
     {
       "id": "mat_026",
-      "text": "Evaluate 5⁰.",
+      "text": "What is the value of 5 raised to the power of 0?",
       "options": [
         "5",
         "Undefined",
@@ -343,7 +343,7 @@
     },
     {
       "id": "mat_027",
-      "text": "Simplify (a²b³)².",
+      "text": "Simplify the expression (a²b³)² using the laws of indices.",
       "options": [
         "a⁴b⁹",
         "a⁴b⁶",
@@ -356,7 +356,7 @@
     },
     {
       "id": "mat_028",
-      "text": "Evaluate 8^(2/3).",
+      "text": "Evaluate 8 raised to the power of two-thirds, that is 8^(2/3).",
       "options": [
         "4",
         "2",
@@ -369,7 +369,7 @@
     },
     {
       "id": "mat_029",
-      "text": "Simplify 2⁻³.",
+      "text": "Simplify the expression 2 raised to the power of negative 3.",
       "options": [
         "−8",
         "8",
@@ -382,7 +382,7 @@
     },
     {
       "id": "mat_030",
-      "text": "Write log₁₀ 1000.",
+      "text": "Evaluate the logarithm log base 10 of 1000.",
       "options": [
         "10",
         "100",
@@ -395,7 +395,7 @@
     },
     {
       "id": "mat_031",
-      "text": "Evaluate log₂ 32.",
+      "text": "Evaluate the logarithm log base 2 of 32.",
       "options": [
         "16",
         "4",
@@ -408,7 +408,7 @@
     },
     {
       "id": "mat_032",
-      "text": "Simplify log₁₀ 5 + log₁₀ 2.",
+      "text": "Simplify the expression log₁₀ 5 plus log₁₀ 2 using logarithm laws.",
       "options": [
         "log₁₀ 7",
         "1",
@@ -421,7 +421,7 @@
     },
     {
       "id": "mat_033",
-      "text": "Simplify log₁₀ 100 − log₁₀ 10.",
+      "text": "Simplify the expression log₁₀ 100 minus log₁₀ 10 using logarithm laws.",
       "options": [
         "10",
         "2",
@@ -434,7 +434,7 @@
     },
     {
       "id": "mat_034",
-      "text": "Simplify √50.",
+      "text": "Simplify the surd √50 into its simplest radical form.",
       "options": [
         "25√2",
         "10√5",
@@ -447,7 +447,7 @@
     },
     {
       "id": "mat_035",
-      "text": "Rationalise 1/√2.",
+      "text": "Rationalise the denominator of the fraction 1/√2.",
       "options": [
         "1/2",
         "√2/2",
@@ -460,7 +460,7 @@
     },
     {
       "id": "mat_036",
-      "text": "Simplify (2√3)².",
+      "text": "Simplify the expression (2√3)² by expanding the bracket.",
       "options": [
         "12",
         "6",
@@ -473,7 +473,7 @@
     },
     {
       "id": "mat_037",
-      "text": "Simplify √8 + √18.",
+      "text": "Simplify the sum of surds √8 and √18.",
       "options": [
         "√26",
         "2√13",
@@ -616,7 +616,7 @@
     },
     {
       "id": "mat_048",
-      "text": "If f(x) = 2x² − 3x + 1, find f(2).",
+      "text": "If f(x) = 2x² − 3x + 1, find the value of f(2).",
       "options": [
         "3",
         "5",
@@ -655,7 +655,7 @@
     },
     {
       "id": "mat_051",
-      "text": "Expand (x + 3)(x − 2).",
+      "text": "Expand the algebraic expression (x + 3)(x − 2).",
       "options": [
         "x² − x − 6",
         "x² + x − 6",
@@ -668,7 +668,7 @@
     },
     {
       "id": "mat_052",
-      "text": "Factorise x² − 9.",
+      "text": "Factorise the expression x² − 9 completely.",
       "options": [
         "(x−3)(x+3)",
         "(x−9)(x+1)",
@@ -681,7 +681,7 @@
     },
     {
       "id": "mat_053",
-      "text": "Find the roots of x² − 5x + 6 = 0.",
+      "text": "Find the roots of the quadratic equation x² − 5x + 6 = 0.",
       "options": [
         "x = −2, −3",
         "x = 1, 6",
@@ -733,7 +733,7 @@
     },
     {
       "id": "mat_057",
-      "text": "Simplify (x² − 4)/(x − 2).",
+      "text": "Simplify the algebraic fraction (x² − 4) divided by (x − 2).",
       "options": [
         "x − 2",
         "x² − 2",
@@ -824,7 +824,7 @@
     },
     {
       "id": "mat_064",
-      "text": "Solve: x + 5 > 12.",
+      "text": "Solve the inequality x + 5 > 12 and find the values of x.",
       "options": [
         "x > 7",
         "x > 17",
@@ -837,7 +837,7 @@
     },
     {
       "id": "mat_065",
-      "text": "Solve: 3x − 4 ≤ 8.",
+      "text": "Solve the inequality 3x − 4 ≤ 8 and find the values of x.",
       "options": [
         "x ≤ 12",
         "x ≥ 4",
@@ -850,7 +850,7 @@
     },
     {
       "id": "mat_066",
-      "text": "Solve: −2x < 6.",
+      "text": "Solve the inequality −2x < 6 and find the values of x.",
       "options": [
         "x > 3",
         "x < 3",
@@ -876,7 +876,7 @@
     },
     {
       "id": "mat_068",
-      "text": "Solve x² − 4 < 0.",
+      "text": "Solve the quadratic inequality x² − 4 < 0.",
       "options": [
         "−2 < x < 2",
         "x < −2 or x > 2",
@@ -1019,7 +1019,7 @@
     },
     {
       "id": "mat_079",
-      "text": "If x * y = xy + x, find 2 * 3.",
+      "text": "If the operation x * y is defined as xy + x, find the value of 2 * 3.",
       "options": [
         "11",
         "8",
@@ -1045,7 +1045,7 @@
     },
     {
       "id": "mat_081",
-      "text": "If a * b = (a + b)/2, find 8 * 4.",
+      "text": "If the operation a * b is defined as (a + b)/2, find the value of 8 * 4.",
       "options": [
         "12",
         "4",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": "mat_095",
-      "text": "Angles on a straight line add up to:",
+      "text": "What is the total sum of all angles on a straight line?",
       "options": [
         "45°",
         "180°",
@@ -1240,7 +1240,7 @@
     },
     {
       "id": "mat_096",
-      "text": "The angle in a semicircle is:",
+      "text": "What is the size of the angle subtended in a semicircle?",
       "options": [
         "90°",
         "180°",
@@ -1253,7 +1253,7 @@
     },
     {
       "id": "mat_097",
-      "text": "Vertically opposite angles are:",
+      "text": "What is the relationship between vertically opposite angles?",
       "options": [
         "Supplementary",
         "Complementary",
@@ -1539,7 +1539,7 @@
     },
     {
       "id": "mat_119",
-      "text": "In a right triangle, sin θ equals:",
+      "text": "In a right-angled triangle, what is sin θ equal to?",
       "options": [
         "Hypotenuse/Opposite",
         "Opposite/Hypotenuse",
@@ -1552,7 +1552,7 @@
     },
     {
       "id": "mat_120",
-      "text": "cos θ is defined as:",
+      "text": "In a right-angled triangle, what is cos θ defined as?",
       "options": [
         "Adjacent/Hypotenuse",
         "Opposite/Hypotenuse",
@@ -1565,7 +1565,7 @@
     },
     {
       "id": "mat_121",
-      "text": "tan θ equals:",
+      "text": "In a right-angled triangle, what does tan θ equal to?",
       "options": [
         "Adjacent/Opposite",
         "Opposite/Hypotenuse",
@@ -1578,7 +1578,7 @@
     },
     {
       "id": "mat_122",
-      "text": "The value of sin 30° is:",
+      "text": "What is the exact value of sin 30° in fractional form?",
       "options": [
         "1",
         "√2/2",
@@ -1591,7 +1591,7 @@
     },
     {
       "id": "mat_123",
-      "text": "The value of cos 60° is:",
+      "text": "What is the exact value of cos 60° in fractional form?",
       "options": [
         "0",
         "1/2",
@@ -1604,7 +1604,7 @@
     },
     {
       "id": "mat_124",
-      "text": "The value of tan 45° is:",
+      "text": "What is the exact value of tan 45° in fractional form?",
       "options": [
         "1",
         "0",
@@ -1617,7 +1617,7 @@
     },
     {
       "id": "mat_125",
-      "text": "sin²θ + cos²θ equals:",
+      "text": "What does the trigonometric identity sin²θ + cos²θ equal to?",
       "options": [
         "0",
         "2",
@@ -1630,7 +1630,7 @@
     },
     {
       "id": "mat_126",
-      "text": "Convert 90° to radians.",
+      "text": "Convert the angle 90 degrees to its equivalent in radians.",
       "options": [
         "2π",
         "π/4",
@@ -1643,7 +1643,7 @@
     },
     {
       "id": "mat_127",
-      "text": "Convert π radians to degrees.",
+      "text": "Convert the angle π radians to its equivalent in degrees.",
       "options": [
         "270°",
         "180°",
@@ -1669,7 +1669,7 @@
     },
     {
       "id": "mat_129",
-      "text": "Find the derivative of y = x².",
+      "text": "Find the derivative of the function y = x² with respect to x.",
       "options": [
         "x",
         "2x²",
@@ -1682,7 +1682,7 @@
     },
     {
       "id": "mat_130",
-      "text": "Find the derivative of y = 3x³.",
+      "text": "Find the derivative of the function y = 3x³ with respect to x.",
       "options": [
         "9x³",
         "6x²",
@@ -1721,7 +1721,7 @@
     },
     {
       "id": "mat_133",
-      "text": "Find the derivative of y = x⁻².",
+      "text": "Find the derivative of the function y = x⁻² with respect to x.",
       "options": [
         "−2x⁻¹",
         "2x⁻³",
@@ -1734,7 +1734,7 @@
     },
     {
       "id": "mat_134",
-      "text": "Find the derivative of y = √x.",
+      "text": "Find the derivative of the function y = √x with respect to x.",
       "options": [
         "2√x",
         "1/√x",
@@ -1747,7 +1747,7 @@
     },
     {
       "id": "mat_135",
-      "text": "The derivative of sin x is:",
+      "text": "What is the derivative of the function sin x with respect to x?",
       "options": [
         "tan x",
         "cos x",
@@ -1760,7 +1760,7 @@
     },
     {
       "id": "mat_136",
-      "text": "The derivative of cos x is:",
+      "text": "What is the derivative of the function cos x with respect to x?",
       "options": [
         "−sin x",
         "sin x",
@@ -1838,7 +1838,7 @@
     },
     {
       "id": "mat_142",
-      "text": "∫ x dx =",
+      "text": "Evaluate the indefinite integral of x with respect to x.",
       "options": [
         "x + c",
         "2x + c",
@@ -1851,7 +1851,7 @@
     },
     {
       "id": "mat_143",
-      "text": "∫ 2x dx =",
+      "text": "Evaluate the indefinite integral of 2x with respect to x.",
       "options": [
         "x²/2 + c",
         "x² + c",
@@ -1864,7 +1864,7 @@
     },
     {
       "id": "mat_144",
-      "text": "∫ 3x² dx =",
+      "text": "Evaluate the indefinite integral of 3x² with respect to x.",
       "options": [
         "x³ + c",
         "3x³ + c",
@@ -1877,7 +1877,7 @@
     },
     {
       "id": "mat_145",
-      "text": "∫ (2x + 1) dx =",
+      "text": "Evaluate the indefinite integral of (2x + 1) with respect to x.",
       "options": [
         "x² + c",
         "2x² + x + c",
@@ -1890,7 +1890,7 @@
     },
     {
       "id": "mat_146",
-      "text": "∫₁² x dx =",
+      "text": "Evaluate the definite integral of x dx from 1 to 2.",
       "options": [
         "2",
         "5/2",
@@ -1903,7 +1903,7 @@
     },
     {
       "id": "mat_147",
-      "text": "∫ cos x dx =",
+      "text": "Evaluate the indefinite integral of cos x with respect to x.",
       "options": [
         "tan x + c",
         "sin x + c",
@@ -1916,7 +1916,7 @@
     },
     {
       "id": "mat_148",
-      "text": "Find the mean of 2, 4, 6, 8, 10.",
+      "text": "Find the arithmetic mean of the numbers 2, 4, 6, 8, and 10.",
       "options": [
         "6",
         "5",
@@ -1929,7 +1929,7 @@
     },
     {
       "id": "mat_149",
-      "text": "Find the median of 3, 7, 1, 5, 9.",
+      "text": "Find the median value of the data set 3, 7, 1, 5, 9.",
       "options": [
         "7",
         "3",
@@ -1955,7 +1955,7 @@
     },
     {
       "id": "mat_151",
-      "text": "Find the range of 12, 5, 8, 20, 3.",
+      "text": "Find the range of the data set 12, 5, 8, 20, and 3.",
       "options": [
         "12",
         "17",
@@ -1981,7 +1981,7 @@
     },
     {
       "id": "mat_153",
-      "text": "The variance of a dataset measures:",
+      "text": "What does the variance of a data set measure?",
       "options": [
         "Centre",
         "Position",
@@ -1994,7 +1994,7 @@
     },
     {
       "id": "mat_154",
-      "text": "The standard deviation is the:",
+      "text": "What is the standard deviation defined as in statistics?",
       "options": [
         "Mean",
         "Median",
@@ -2033,7 +2033,7 @@
     },
     {
       "id": "mat_157",
-      "text": "A pie chart is best used to show:",
+      "text": "A pie chart is best used to display which type of data?",
       "options": [
         "Trends over time",
         "Exact values",
@@ -2059,7 +2059,7 @@
     },
     {
       "id": "mat_159",
-      "text": "A fair coin is tossed. P(head) =",
+      "text": "When a fair coin is tossed once, what is the probability of getting a head?",
       "options": [
         "0",
         "1/2",
@@ -2098,7 +2098,7 @@
     },
     {
       "id": "mat_162",
-      "text": "Two dice are rolled. P(sum of 7) =",
+      "text": "When two fair dice are rolled, what is the probability the sum equals 7?",
       "options": [
         "1/36",
         "7/36",
@@ -2137,7 +2137,7 @@
     },
     {
       "id": "mat_165",
-      "text": "If P(A) = 0.3, then P(not A) =",
+      "text": "If the probability of event A is 0.3, what is the probability of not A?",
       "options": [
         "0.3",
         "1",
@@ -2215,7 +2215,7 @@
     },
     {
       "id": "mat_171",
-      "text": "Simplify √12 × √3.",
+      "text": "Simplify the product of the surds √12 and √3.",
       "options": [
         "12",
         "6",
@@ -2228,7 +2228,7 @@
     },
     {
       "id": "mat_172",
-      "text": "If x² = 49, then x =",
+      "text": "If x squared equals 49, what are the possible values of x?",
       "options": [
         "±7",
         "7",
@@ -2241,7 +2241,7 @@
     },
     {
       "id": "mat_173",
-      "text": "Solve 2x + 5 = 15.",
+      "text": "Solve the linear equation 2x + 5 = 15 to find x.",
       "options": [
         "10",
         "7",
@@ -2254,7 +2254,7 @@
     },
     {
       "id": "mat_174",
-      "text": "Solve 3(x − 2) = 12.",
+      "text": "Solve the equation 3(x − 2) = 12 to find the value of x.",
       "options": [
         "2",
         "18",
@@ -2267,7 +2267,7 @@
     },
     {
       "id": "mat_175",
-      "text": "Simplify (a³)² ÷ a².",
+      "text": "Simplify the expression (a³)² divided by a² using index laws.",
       "options": [
         "a⁶",
         "a⁴",
@@ -2293,7 +2293,7 @@
     },
     {
       "id": "mat_177",
-      "text": "Solve x² − 7x + 12 = 0.",
+      "text": "Solve the quadratic equation x² − 7x + 12 = 0.",
       "options": [
         "x = −3, −4",
         "x = 3, −4",
@@ -2358,7 +2358,7 @@
     },
     {
       "id": "mat_182",
-      "text": "Simplify 5a + 3b − 2a + b.",
+      "text": "Simplify the algebraic expression 5a + 3b − 2a + b.",
       "options": [
         "7a + 4b",
         "3a + 2b",
@@ -2371,7 +2371,7 @@
     },
     {
       "id": "mat_183",
-      "text": "Expand 2x(3x + 4).",
+      "text": "Expand the algebraic expression 2x(3x + 4) by distributing.",
       "options": [
         "6x² + 4",
         "6x² + 8x",
@@ -2384,7 +2384,7 @@
     },
     {
       "id": "mat_184",
-      "text": "Find the HCF of 12 and 18.",
+      "text": "Find the highest common factor (HCF) of 12 and 18.",
       "options": [
         "6",
         "3",
@@ -2397,7 +2397,7 @@
     },
     {
       "id": "mat_185",
-      "text": "Find the LCM of 6 and 8.",
+      "text": "Find the lowest common multiple (LCM) of 6 and 8.",
       "options": [
         "12",
         "48",
@@ -2423,7 +2423,7 @@
     },
     {
       "id": "mat_187",
-      "text": "Simplify 4/9 ÷ 2/3.",
+      "text": "Simplify the division of fraction 4/9 by fraction 2/3.",
       "options": [
         "2/9",
         "2/3",
@@ -2436,7 +2436,7 @@
     },
     {
       "id": "mat_188",
-      "text": "What is 20% of 60?",
+      "text": "What is 20 percent of 60? Calculate the answer.",
       "options": [
         "12",
         "6",
@@ -2475,7 +2475,7 @@
     },
     {
       "id": "mat_191",
-      "text": "Evaluate log₁₀ 10000.",
+      "text": "Evaluate the logarithm log base 10 of 10000.",
       "options": [
         "2",
         "4",
@@ -2488,7 +2488,7 @@
     },
     {
       "id": "mat_192",
-      "text": "Simplify 3√2 + 5√2.",
+      "text": "Simplify the sum of the like surds 3√2 and 5√2.",
       "options": [
         "8√2",
         "8√4",
@@ -2514,7 +2514,7 @@
     },
     {
       "id": "mat_194",
-      "text": "Solve: 2x − 3 < 5.",
+      "text": "Solve the inequality 2x − 3 < 5 and find the values of x.",
       "options": [
         "x > 4",
         "x < 8",
@@ -2566,7 +2566,7 @@
     },
     {
       "id": "mat_198",
-      "text": "∫ 4 dx =",
+      "text": "Evaluate the indefinite integral of 4 with respect to x.",
       "options": [
         "4x² + c",
         "x + c",

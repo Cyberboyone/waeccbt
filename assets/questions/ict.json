@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": "ict_001",
-      "text": "Computer processes:",
+      "text": "What does a computer primarily process?",
       "options": [
         "Only storage",
         "Only print",
@@ -18,7 +18,7 @@
     },
     {
       "id": "ict_002",
-      "text": "Father of computer:",
+      "text": "Who is widely regarded as the father of the computer?",
       "options": [
         "Jobs",
         "Zuckerberg",
@@ -31,7 +31,7 @@
     },
     {
       "id": "ict_003",
-      "text": "CPU means:",
+      "text": "What does the acronym CPU stand for in computing?",
       "options": [
         "Only processing",
         "Central Processing Unit",
@@ -44,7 +44,7 @@
     },
     {
       "id": "ict_004",
-      "text": "RAM means:",
+      "text": "What does the acronym RAM stand for in computing?",
       "options": [
         "Random Access Memory",
         "No meaning",
@@ -57,7 +57,7 @@
     },
     {
       "id": "ict_005",
-      "text": "ROM means:",
+      "text": "What does the acronym ROM stand for in computing?",
       "options": [
         "No meaning",
         "Only read",
@@ -70,7 +70,7 @@
     },
     {
       "id": "ict_006",
-      "text": "Input device:",
+      "text": "Which of the following is an input device?",
       "options": [
         "Printer",
         "Speaker",
@@ -83,7 +83,7 @@
     },
     {
       "id": "ict_007",
-      "text": "Output device:",
+      "text": "Which of the following is an output device?",
       "options": [
         "Scanner",
         "Monitor",
@@ -96,7 +96,7 @@
     },
     {
       "id": "ict_008",
-      "text": "1 Byte =",
+      "text": "How many bits are there in one Byte?",
       "options": [
         "8 bits",
         "4 bits",
@@ -109,7 +109,7 @@
     },
     {
       "id": "ict_009",
-      "text": "Binary base:",
+      "text": "What is the base of the binary number system?",
       "options": [
         "10",
         "8",
@@ -122,7 +122,7 @@
     },
     {
       "id": "ict_010",
-      "text": "AND gate:",
+      "text": "What is the output condition of an AND gate?",
       "options": [
         "Inverts",
         "No gate",
@@ -135,7 +135,7 @@
     },
     {
       "id": "ict_011",
-      "text": "Internet is:",
+      "text": "What is the Internet best described as?",
       "options": [
         "Only one",
         "Interconnected networks",
@@ -148,7 +148,7 @@
     },
     {
       "id": "ict_012",
-      "text": "Browser example:",
+      "text": "Which of the following is an example of a web browser?",
       "options": [
         "Chrome",
         "Windows",
@@ -161,7 +161,7 @@
     },
     {
       "id": "ict_013",
-      "text": "Email means:",
+      "text": "What does the term Email stand for? in full?",
       "options": [
         "No mail",
         "Only electronic",
@@ -174,7 +174,7 @@
     },
     {
       "id": "ict_014",
-      "text": "LAN means:",
+      "text": "What does the acronym LAN stand for in networking?",
       "options": [
         "Only local",
         "Only area",
@@ -187,7 +187,7 @@
     },
     {
       "id": "ict_015",
-      "text": "MS Word for:",
+      "text": "What is Microsoft Word primarily used for?",
       "options": [
         "No processing",
         "Word processing",
@@ -200,7 +200,7 @@
     },
     {
       "id": "ict_016",
-      "text": "Excel for:",
+      "text": "What is Microsoft Excel primarily used for?",
       "options": [
         "Spreadsheet",
         "Word",
@@ -213,7 +213,7 @@
     },
     {
       "id": "ict_017",
-      "text": "Virus is:",
+      "text": "What is a computer virus and how does it affect a system?",
       "options": [
         "Useful",
         "No program",
@@ -226,7 +226,7 @@
     },
     {
       "id": "ict_018",
-      "text": "ICT means:",
+      "text": "What does the acronym ICT stand for?",
       "options": [
         "Only info",
         "Only tech",
@@ -239,7 +239,7 @@
     },
     {
       "id": "ict_019",
-      "text": "HTTP means:",
+      "text": "What does the acronym HTTP stand for?",
       "options": [
         "Only transfer",
         "HyperText Transfer Protocol",
@@ -252,7 +252,7 @@
     },
     {
       "id": "ict_020",
-      "text": "HTML means:",
+      "text": "What does the acronym HTML stand for?",
       "options": [
         "HyperText Markup Language",
         "No language",
@@ -265,7 +265,7 @@
     },
     {
       "id": "ict_021",
-      "text": "Computer processes: (variant 21)",
+      "text": "What does a computer primarily process? (variant 21)",
       "options": [
         "Only storage",
         "Only print",
@@ -278,7 +278,7 @@
     },
     {
       "id": "ict_022",
-      "text": "Father of computer: (variant 22)",
+      "text": "Who is widely regarded as the father of the computer? (variant 22)",
       "options": [
         "Jobs",
         "Zuckerberg",
@@ -291,7 +291,7 @@
     },
     {
       "id": "ict_023",
-      "text": "CPU means: (variant 23)",
+      "text": "What does the acronym CPU stand for in computing? (variant 23)",
       "options": [
         "Only processing",
         "Central Processing Unit",
@@ -304,7 +304,7 @@
     },
     {
       "id": "ict_024",
-      "text": "RAM means: (variant 24)",
+      "text": "What does the acronym RAM stand for in computing? (variant 24)",
       "options": [
         "Random Access Memory",
         "No meaning",
@@ -317,7 +317,7 @@
     },
     {
       "id": "ict_025",
-      "text": "ROM means: (variant 25)",
+      "text": "What does the acronym ROM stand for in computing? (variant 25)",
       "options": [
         "No meaning",
         "Only read",
@@ -330,7 +330,7 @@
     },
     {
       "id": "ict_026",
-      "text": "Input device: (variant 26)",
+      "text": "Which of the following is an input device? (variant 26)",
       "options": [
         "Printer",
         "Speaker",
@@ -343,7 +343,7 @@
     },
     {
       "id": "ict_027",
-      "text": "Output device: (variant 27)",
+      "text": "Which of the following is an output device? (variant 27)",
       "options": [
         "Scanner",
         "Monitor",
@@ -356,7 +356,7 @@
     },
     {
       "id": "ict_028",
-      "text": "1 Byte = (variant 28)",
+      "text": "How many bits are there in one Byte? (variant 28)",
       "options": [
         "8 bits",
         "4 bits",
@@ -369,7 +369,7 @@
     },
     {
       "id": "ict_029",
-      "text": "Binary base: (variant 29)",
+      "text": "What is the base of the binary number system? (variant 29)",
       "options": [
         "10",
         "8",
@@ -382,7 +382,7 @@
     },
     {
       "id": "ict_030",
-      "text": "AND gate: (variant 30)",
+      "text": "What is the output condition of an AND gate? (variant 30)",
       "options": [
         "Inverts",
         "No gate",
@@ -395,7 +395,7 @@
     },
     {
       "id": "ict_031",
-      "text": "Internet is: (variant 31)",
+      "text": "What is the Internet best described as? (variant 31)",
       "options": [
         "Only one",
         "Interconnected networks",
@@ -408,7 +408,7 @@
     },
     {
       "id": "ict_032",
-      "text": "Browser example: (variant 32)",
+      "text": "Which of the following is an example of a web browser? (variant 32)",
       "options": [
         "Chrome",
         "Windows",
@@ -421,7 +421,7 @@
     },
     {
       "id": "ict_033",
-      "text": "Email means: (variant 33)",
+      "text": "What does the term Email stand for? (variant 33)",
       "options": [
         "No mail",
         "Only electronic",
@@ -434,7 +434,7 @@
     },
     {
       "id": "ict_034",
-      "text": "LAN means: (variant 34)",
+      "text": "What does the acronym LAN stand for in networking? (variant 34)",
       "options": [
         "Only local",
         "Only area",
@@ -447,7 +447,7 @@
     },
     {
       "id": "ict_035",
-      "text": "MS Word for: (variant 35)",
+      "text": "What is Microsoft Word primarily used for? (variant 35)",
       "options": [
         "No processing",
         "Word processing",
@@ -460,7 +460,7 @@
     },
     {
       "id": "ict_036",
-      "text": "Excel for: (variant 36)",
+      "text": "What is Microsoft Excel primarily used for? (variant 36)",
       "options": [
         "Spreadsheet",
         "Word",
@@ -473,7 +473,7 @@
     },
     {
       "id": "ict_037",
-      "text": "Virus is: (variant 37)",
+      "text": "What is a computer virus and how does it affect a system? (variant 37)",
       "options": [
         "Useful",
         "No program",
@@ -486,7 +486,7 @@
     },
     {
       "id": "ict_038",
-      "text": "ICT means: (variant 38)",
+      "text": "What does the acronym ICT stand for? (variant 38)",
       "options": [
         "Only info",
         "Only tech",
@@ -499,7 +499,7 @@
     },
     {
       "id": "ict_039",
-      "text": "HTTP means: (variant 39)",
+      "text": "What does the acronym HTTP stand for? (variant 39)",
       "options": [
         "Only transfer",
         "HyperText Transfer Protocol",
@@ -512,7 +512,7 @@
     },
     {
       "id": "ict_040",
-      "text": "HTML means: (variant 40)",
+      "text": "What does the acronym HTML stand for? (variant 40)",
       "options": [
         "HyperText Markup Language",
         "No language",
@@ -525,7 +525,7 @@
     },
     {
       "id": "ict_041",
-      "text": "Computer processes: (variant 41)",
+      "text": "What does a computer primarily process? (variant 41)",
       "options": [
         "Only storage",
         "Only print",
@@ -538,7 +538,7 @@
     },
     {
       "id": "ict_042",
-      "text": "Father of computer: (variant 42)",
+      "text": "Who is widely regarded as the father of the computer? (variant 42)",
       "options": [
         "Jobs",
         "Zuckerberg",
@@ -551,7 +551,7 @@
     },
     {
       "id": "ict_043",
-      "text": "CPU means: (variant 43)",
+      "text": "What does the acronym CPU stand for in computing? (variant 43)",
       "options": [
         "Only processing",
         "Central Processing Unit",
@@ -564,7 +564,7 @@
     },
     {
       "id": "ict_044",
-      "text": "RAM means: (variant 44)",
+      "text": "What does the acronym RAM stand for in computing? (variant 44)",
       "options": [
         "Random Access Memory",
         "No meaning",
@@ -577,7 +577,7 @@
     },
     {
       "id": "ict_045",
-      "text": "ROM means: (variant 45)",
+      "text": "What does the acronym ROM stand for in computing? (variant 45)",
       "options": [
         "No meaning",
         "Only read",
@@ -590,7 +590,7 @@
     },
     {
       "id": "ict_046",
-      "text": "Input device: (variant 46)",
+      "text": "Which of the following is an input device? (variant 46)",
       "options": [
         "Printer",
         "Speaker",
@@ -603,7 +603,7 @@
     },
     {
       "id": "ict_047",
-      "text": "Output device: (variant 47)",
+      "text": "Which of the following is an output device? (variant 47)",
       "options": [
         "Scanner",
         "Monitor",
@@ -616,7 +616,7 @@
     },
     {
       "id": "ict_048",
-      "text": "1 Byte = (variant 48)",
+      "text": "How many bits are there in one Byte? (variant 48)",
       "options": [
         "8 bits",
         "4 bits",
@@ -629,7 +629,7 @@
     },
     {
       "id": "ict_049",
-      "text": "Binary base: (variant 49)",
+      "text": "What is the base of the binary number system? (variant 49)",
       "options": [
         "10",
         "8",
@@ -642,7 +642,7 @@
     },
     {
       "id": "ict_050",
-      "text": "AND gate: (variant 50)",
+      "text": "What is the output condition of an AND gate? (variant 50)",
       "options": [
         "Inverts",
         "No gate",
@@ -655,7 +655,7 @@
     },
     {
       "id": "ict_051",
-      "text": "Internet is: (variant 51)",
+      "text": "What is the Internet best described as? (variant 51)",
       "options": [
         "Only one",
         "Interconnected networks",
@@ -668,7 +668,7 @@
     },
     {
       "id": "ict_052",
-      "text": "Browser example: (variant 52)",
+      "text": "Which of the following is an example of a web browser? (variant 52)",
       "options": [
         "Chrome",
         "Windows",
@@ -681,7 +681,7 @@
     },
     {
       "id": "ict_053",
-      "text": "Email means: (variant 53)",
+      "text": "What does the term Email stand for? (variant 53)",
       "options": [
         "No mail",
         "Only electronic",
@@ -694,7 +694,7 @@
     },
     {
       "id": "ict_054",
-      "text": "LAN means: (variant 54)",
+      "text": "What does the acronym LAN stand for in networking? (variant 54)",
       "options": [
         "Only local",
         "Only area",
@@ -707,7 +707,7 @@
     },
     {
       "id": "ict_055",
-      "text": "MS Word for: (variant 55)",
+      "text": "What is Microsoft Word primarily used for? (variant 55)",
       "options": [
         "No processing",
         "Word processing",
@@ -720,7 +720,7 @@
     },
     {
       "id": "ict_056",
-      "text": "Excel for: (variant 56)",
+      "text": "What is Microsoft Excel primarily used for? (variant 56)",
       "options": [
         "Spreadsheet",
         "Word",
@@ -733,7 +733,7 @@
     },
     {
       "id": "ict_057",
-      "text": "Virus is: (variant 57)",
+      "text": "What is a computer virus and how does it affect a system? (variant 57)",
       "options": [
         "Useful",
         "No program",
@@ -746,7 +746,7 @@
     },
     {
       "id": "ict_058",
-      "text": "ICT means: (variant 58)",
+      "text": "What does the acronym ICT stand for? (variant 58)",
       "options": [
         "Only info",
         "Only tech",
@@ -759,7 +759,7 @@
     },
     {
       "id": "ict_059",
-      "text": "HTTP means: (variant 59)",
+      "text": "What does the acronym HTTP stand for? (variant 59)",
       "options": [
         "Only transfer",
         "HyperText Transfer Protocol",
@@ -772,7 +772,7 @@
     },
     {
       "id": "ict_060",
-      "text": "HTML means: (variant 60)",
+      "text": "What does the acronym HTML stand for? (variant 60)",
       "options": [
         "HyperText Markup Language",
         "No language",
@@ -785,7 +785,7 @@
     },
     {
       "id": "ict_061",
-      "text": "Computer processes: (variant 61)",
+      "text": "What does a computer primarily process? (variant 61)",
       "options": [
         "Only storage",
         "Only print",
@@ -798,7 +798,7 @@
     },
     {
       "id": "ict_062",
-      "text": "Father of computer: (variant 62)",
+      "text": "Who is widely regarded as the father of the computer? (variant 62)",
       "options": [
         "Jobs",
         "Zuckerberg",
@@ -811,7 +811,7 @@
     },
     {
       "id": "ict_063",
-      "text": "CPU means: (variant 63)",
+      "text": "What does the acronym CPU stand for in computing? (variant 63)",
       "options": [
         "Only processing",
         "Central Processing Unit",
@@ -824,7 +824,7 @@
     },
     {
       "id": "ict_064",
-      "text": "RAM means: (variant 64)",
+      "text": "What does the acronym RAM stand for in computing? (variant 64)",
       "options": [
         "Random Access Memory",
         "No meaning",
@@ -837,7 +837,7 @@
     },
     {
       "id": "ict_065",
-      "text": "ROM means: (variant 65)",
+      "text": "What does the acronym ROM stand for in computing? (variant 65)",
       "options": [
         "No meaning",
         "Only read",
@@ -850,7 +850,7 @@
     },
     {
       "id": "ict_066",
-      "text": "Input device: (variant 66)",
+      "text": "Which of the following is an input device? (variant 66)",
       "options": [
         "Printer",
         "Speaker",
@@ -863,7 +863,7 @@
     },
     {
       "id": "ict_067",
-      "text": "Output device: (variant 67)",
+      "text": "Which of the following is an output device? (variant 67)",
       "options": [
         "Scanner",
         "Monitor",
@@ -876,7 +876,7 @@
     },
     {
       "id": "ict_068",
-      "text": "1 Byte = (variant 68)",
+      "text": "How many bits are there in one Byte? (variant 68)",
       "options": [
         "8 bits",
         "4 bits",
@@ -889,7 +889,7 @@
     },
     {
       "id": "ict_069",
-      "text": "Binary base: (variant 69)",
+      "text": "What is the base of the binary number system? (variant 69)",
       "options": [
         "10",
         "8",
@@ -902,7 +902,7 @@
     },
     {
       "id": "ict_070",
-      "text": "AND gate: (variant 70)",
+      "text": "What is the output condition of an AND gate? (variant 70)",
       "options": [
         "Inverts",
         "No gate",
@@ -915,7 +915,7 @@
     },
     {
       "id": "ict_071",
-      "text": "Internet is: (variant 71)",
+      "text": "What is the Internet best described as? (variant 71)",
       "options": [
         "Only one",
         "Interconnected networks",
@@ -928,7 +928,7 @@
     },
     {
       "id": "ict_072",
-      "text": "Browser example: (variant 72)",
+      "text": "Which of the following is an example of a web browser? (variant 72)",
       "options": [
         "Chrome",
         "Windows",
@@ -941,7 +941,7 @@
     },
     {
       "id": "ict_073",
-      "text": "Email means: (variant 73)",
+      "text": "What does the term Email stand for? (variant 73)",
       "options": [
         "No mail",
         "Only electronic",
@@ -954,7 +954,7 @@
     },
     {
       "id": "ict_074",
-      "text": "LAN means: (variant 74)",
+      "text": "What does the acronym LAN stand for in networking? (variant 74)",
       "options": [
         "Only local",
         "Only area",
@@ -967,7 +967,7 @@
     },
     {
       "id": "ict_075",
-      "text": "MS Word for: (variant 75)",
+      "text": "What is Microsoft Word primarily used for? (variant 75)",
       "options": [
         "No processing",
         "Word processing",
@@ -980,7 +980,7 @@
     },
     {
       "id": "ict_076",
-      "text": "Excel for: (variant 76)",
+      "text": "What is Microsoft Excel primarily used for? (variant 76)",
       "options": [
         "Spreadsheet",
         "Word",
@@ -993,7 +993,7 @@
     },
     {
       "id": "ict_077",
-      "text": "Virus is: (variant 77)",
+      "text": "What is a computer virus and how does it affect a system? (variant 77)",
       "options": [
         "Useful",
         "No program",
@@ -1006,7 +1006,7 @@
     },
     {
       "id": "ict_078",
-      "text": "ICT means: (variant 78)",
+      "text": "What does the acronym ICT stand for? (variant 78)",
       "options": [
         "Only info",
         "Only tech",
@@ -1019,7 +1019,7 @@
     },
     {
       "id": "ict_079",
-      "text": "HTTP means: (variant 79)",
+      "text": "What does the acronym HTTP stand for? (variant 79)",
       "options": [
         "Only transfer",
         "HyperText Transfer Protocol",
@@ -1032,7 +1032,7 @@
     },
     {
       "id": "ict_080",
-      "text": "HTML means: (variant 80)",
+      "text": "What does the acronym HTML stand for? (variant 80)",
       "options": [
         "HyperText Markup Language",
         "No language",
@@ -1045,7 +1045,7 @@
     },
     {
       "id": "ict_081",
-      "text": "Computer processes: (variant 81)",
+      "text": "What does a computer primarily process? (variant 81)",
       "options": [
         "Only storage",
         "Only print",
@@ -1058,7 +1058,7 @@
     },
     {
       "id": "ict_082",
-      "text": "Father of computer: (variant 82)",
+      "text": "Who is widely regarded as the father of the computer? (variant 82)",
       "options": [
         "Jobs",
         "Zuckerberg",
@@ -1071,7 +1071,7 @@
     },
     {
       "id": "ict_083",
-      "text": "CPU means: (variant 83)",
+      "text": "What does the acronym CPU stand for in computing? (variant 83)",
       "options": [
         "Only processing",
         "Central Processing Unit",
@@ -1084,7 +1084,7 @@
     },
     {
       "id": "ict_084",
-      "text": "RAM means: (variant 84)",
+      "text": "What does the acronym RAM stand for in computing? (variant 84)",
       "options": [
         "Random Access Memory",
         "No meaning",
@@ -1097,7 +1097,7 @@
     },
     {
       "id": "ict_085",
-      "text": "ROM means: (variant 85)",
+      "text": "What does the acronym ROM stand for in computing? (variant 85)",
       "options": [
         "No meaning",
         "Only read",
@@ -1110,7 +1110,7 @@
     },
     {
       "id": "ict_086",
-      "text": "Input device: (variant 86)",
+      "text": "Which of the following is an input device? (variant 86)",
       "options": [
         "Printer",
         "Speaker",
@@ -1123,7 +1123,7 @@
     },
     {
       "id": "ict_087",
-      "text": "Output device: (variant 87)",
+      "text": "Which of the following is an output device? (variant 87)",
       "options": [
         "Scanner",
         "Monitor",
@@ -1136,7 +1136,7 @@
     },
     {
       "id": "ict_088",
-      "text": "1 Byte = (variant 88)",
+      "text": "How many bits are there in one Byte? (variant 88)",
       "options": [
         "8 bits",
         "4 bits",
@@ -1149,7 +1149,7 @@
     },
     {
       "id": "ict_089",
-      "text": "Binary base: (variant 89)",
+      "text": "What is the base of the binary number system? (variant 89)",
       "options": [
         "10",
         "8",
@@ -1162,7 +1162,7 @@
     },
     {
       "id": "ict_090",
-      "text": "AND gate: (variant 90)",
+      "text": "What is the output condition of an AND gate? (variant 90)",
       "options": [
         "Inverts",
         "No gate",
@@ -1175,7 +1175,7 @@
     },
     {
       "id": "ict_091",
-      "text": "Internet is: (variant 91)",
+      "text": "What is the Internet best described as? (variant 91)",
       "options": [
         "Only one",
         "Interconnected networks",
@@ -1188,7 +1188,7 @@
     },
     {
       "id": "ict_092",
-      "text": "Browser example: (variant 92)",
+      "text": "Which of the following is an example of a web browser? (variant 92)",
       "options": [
         "Chrome",
         "Windows",
@@ -1201,7 +1201,7 @@
     },
     {
       "id": "ict_093",
-      "text": "Email means: (variant 93)",
+      "text": "What does the term Email stand for? (variant 93)",
       "options": [
         "No mail",
         "Only electronic",
@@ -1214,7 +1214,7 @@
     },
     {
       "id": "ict_094",
-      "text": "LAN means: (variant 94)",
+      "text": "What does the acronym LAN stand for in networking? (variant 94)",
       "options": [
         "Only local",
         "Only area",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": "ict_095",
-      "text": "MS Word for: (variant 95)",
+      "text": "What is Microsoft Word primarily used for? (variant 95)",
       "options": [
         "No processing",
         "Word processing",
@@ -1240,7 +1240,7 @@
     },
     {
       "id": "ict_096",
-      "text": "Excel for: (variant 96)",
+      "text": "What is Microsoft Excel primarily used for? (variant 96)",
       "options": [
         "Spreadsheet",
         "Word",
@@ -1253,7 +1253,7 @@
     },
     {
       "id": "ict_097",
-      "text": "Virus is: (variant 97)",
+      "text": "What is a computer virus and how does it affect a system? (variant 97)",
       "options": [
         "Useful",
         "No program",
@@ -1266,7 +1266,7 @@
     },
     {
       "id": "ict_098",
-      "text": "ICT means: (variant 98)",
+      "text": "What does the acronym ICT stand for? (variant 98)",
       "options": [
         "Only info",
         "Only tech",
@@ -1279,7 +1279,7 @@
     },
     {
       "id": "ict_099",
-      "text": "HTTP means: (variant 99)",
+      "text": "What does the acronym HTTP stand for? (variant 99)",
       "options": [
         "Only transfer",
         "HyperText Transfer Protocol",
@@ -1292,7 +1292,7 @@
     },
     {
       "id": "ict_100",
-      "text": "HTML means: (variant 100)",
+      "text": "What does the acronym HTML stand for? (variant 100)",
       "options": [
         "HyperText Markup Language",
         "No language",
@@ -1305,7 +1305,7 @@
     },
     {
       "id": "ict_101",
-      "text": "Computer processes: (variant 101)",
+      "text": "What does a computer primarily process? (variant 101)",
       "options": [
         "Only storage",
         "Only print",
@@ -1318,7 +1318,7 @@
     },
     {
       "id": "ict_102",
-      "text": "Father of computer: (variant 102)",
+      "text": "Who is widely regarded as the father of the computer? (variant 102)",
       "options": [
         "Jobs",
         "Zuckerberg",
@@ -1331,7 +1331,7 @@
     },
     {
       "id": "ict_103",
-      "text": "CPU means: (variant 103)",
+      "text": "What does the acronym CPU stand for in computing? (variant 103)",
       "options": [
         "Only processing",
         "Central Processing Unit",
@@ -1344,7 +1344,7 @@
     },
     {
       "id": "ict_104",
-      "text": "RAM means: (variant 104)",
+      "text": "What does the acronym RAM stand for in computing? (variant 104)",
       "options": [
         "Random Access Memory",
         "No meaning",
@@ -1357,7 +1357,7 @@
     },
     {
       "id": "ict_105",
-      "text": "ROM means: (variant 105)",
+      "text": "What does the acronym ROM stand for in computing? (variant 105)",
       "options": [
         "No meaning",
         "Only read",
@@ -1370,7 +1370,7 @@
     },
     {
       "id": "ict_106",
-      "text": "Input device: (variant 106)",
+      "text": "Which of the following is an input device? (variant 106)",
       "options": [
         "Printer",
         "Speaker",
@@ -1383,7 +1383,7 @@
     },
     {
       "id": "ict_107",
-      "text": "Output device: (variant 107)",
+      "text": "Which of the following is an output device? (variant 107)",
       "options": [
         "Scanner",
         "Monitor",
@@ -1396,7 +1396,7 @@
     },
     {
       "id": "ict_108",
-      "text": "1 Byte = (variant 108)",
+      "text": "How many bits are there in one Byte? (variant 108)",
       "options": [
         "8 bits",
         "4 bits",
@@ -1409,7 +1409,7 @@
     },
     {
       "id": "ict_109",
-      "text": "Binary base: (variant 109)",
+      "text": "What is the base of the binary number system? (variant 109)",
       "options": [
         "10",
         "8",
@@ -1422,7 +1422,7 @@
     },
     {
       "id": "ict_110",
-      "text": "AND gate: (variant 110)",
+      "text": "What is the output condition of an AND gate? (variant 110)",
       "options": [
         "Inverts",
         "No gate",
@@ -1435,7 +1435,7 @@
     },
     {
       "id": "ict_111",
-      "text": "Internet is: (variant 111)",
+      "text": "What is the Internet best described as? (variant 111)",
       "options": [
         "Only one",
         "Interconnected networks",
@@ -1448,7 +1448,7 @@
     },
     {
       "id": "ict_112",
-      "text": "Browser example: (variant 112)",
+      "text": "Which of the following is an example of a web browser? (variant 112)",
       "options": [
         "Chrome",
         "Windows",
@@ -1461,7 +1461,7 @@
     },
     {
       "id": "ict_113",
-      "text": "Email means: (variant 113)",
+      "text": "What does the term Email stand for? (variant 113)",
       "options": [
         "No mail",
         "Only electronic",
@@ -1474,7 +1474,7 @@
     },
     {
       "id": "ict_114",
-      "text": "LAN means: (variant 114)",
+      "text": "What does the acronym LAN stand for in networking? (variant 114)",
       "options": [
         "Only local",
         "Only area",
@@ -1487,7 +1487,7 @@
     },
     {
       "id": "ict_115",
-      "text": "MS Word for: (variant 115)",
+      "text": "What is Microsoft Word primarily used for? (variant 115)",
       "options": [
         "No processing",
         "Word processing",
@@ -1500,7 +1500,7 @@
     },
     {
       "id": "ict_116",
-      "text": "Excel for: (variant 116)",
+      "text": "What is Microsoft Excel primarily used for? (variant 116)",
       "options": [
         "Spreadsheet",
         "Word",
@@ -1513,7 +1513,7 @@
     },
     {
       "id": "ict_117",
-      "text": "Virus is: (variant 117)",
+      "text": "What is a computer virus and how does it affect a system? (variant 117)",
       "options": [
         "Useful",
         "No program",
@@ -1526,7 +1526,7 @@
     },
     {
       "id": "ict_118",
-      "text": "ICT means: (variant 118)",
+      "text": "What does the acronym ICT stand for? (variant 118)",
       "options": [
         "Only info",
         "Only tech",
@@ -1539,7 +1539,7 @@
     },
     {
       "id": "ict_119",
-      "text": "HTTP means: (variant 119)",
+      "text": "What does the acronym HTTP stand for? (variant 119)",
       "options": [
         "Only transfer",
         "HyperText Transfer Protocol",
@@ -1552,7 +1552,7 @@
     },
     {
       "id": "ict_120",
-      "text": "HTML means: (variant 120)",
+      "text": "What does the acronym HTML stand for? (variant 120)",
       "options": [
         "HyperText Markup Language",
         "No language",
@@ -1565,7 +1565,7 @@
     },
     {
       "id": "ict_121",
-      "text": "Computer processes: (variant 121)",
+      "text": "What does a computer primarily process? (variant 121)",
       "options": [
         "Only storage",
         "Only print",
@@ -1578,7 +1578,7 @@
     },
     {
       "id": "ict_122",
-      "text": "Father of computer: (variant 122)",
+      "text": "Who is widely regarded as the father of the computer? (variant 122)",
       "options": [
         "Jobs",
         "Zuckerberg",
@@ -1591,7 +1591,7 @@
     },
     {
       "id": "ict_123",
-      "text": "CPU means: (variant 123)",
+      "text": "What does the acronym CPU stand for in computing? (variant 123)",
       "options": [
         "Only processing",
         "Central Processing Unit",
@@ -1604,7 +1604,7 @@
     },
     {
       "id": "ict_124",
-      "text": "RAM means: (variant 124)",
+      "text": "What does the acronym RAM stand for in computing? (variant 124)",
       "options": [
         "Random Access Memory",
         "No meaning",
@@ -1617,7 +1617,7 @@
     },
     {
       "id": "ict_125",
-      "text": "ROM means: (variant 125)",
+      "text": "What does the acronym ROM stand for in computing? (variant 125)",
       "options": [
         "No meaning",
         "Only read",
@@ -1630,7 +1630,7 @@
     },
     {
       "id": "ict_126",
-      "text": "Input device: (variant 126)",
+      "text": "Which of the following is an input device? (variant 126)",
       "options": [
         "Printer",
         "Speaker",
@@ -1643,7 +1643,7 @@
     },
     {
       "id": "ict_127",
-      "text": "Output device: (variant 127)",
+      "text": "Which of the following is an output device? (variant 127)",
       "options": [
         "Scanner",
         "Monitor",
@@ -1656,7 +1656,7 @@
     },
     {
       "id": "ict_128",
-      "text": "1 Byte = (variant 128)",
+      "text": "How many bits are there in one Byte? (variant 128)",
       "options": [
         "8 bits",
         "4 bits",
@@ -1669,7 +1669,7 @@
     },
     {
       "id": "ict_129",
-      "text": "Binary base: (variant 129)",
+      "text": "What is the base of the binary number system? (variant 129)",
       "options": [
         "10",
         "8",
@@ -1682,7 +1682,7 @@
     },
     {
       "id": "ict_130",
-      "text": "AND gate: (variant 130)",
+      "text": "What is the output condition of an AND gate? (variant 130)",
       "options": [
         "Inverts",
         "No gate",
@@ -1695,7 +1695,7 @@
     },
     {
       "id": "ict_131",
-      "text": "Internet is: (variant 131)",
+      "text": "What is the Internet best described as? (variant 131)",
       "options": [
         "Only one",
         "Interconnected networks",
@@ -1708,7 +1708,7 @@
     },
     {
       "id": "ict_132",
-      "text": "Browser example: (variant 132)",
+      "text": "Which of the following is an example of a web browser? (variant 132)",
       "options": [
         "Chrome",
         "Windows",
@@ -1721,7 +1721,7 @@
     },
     {
       "id": "ict_133",
-      "text": "Email means: (variant 133)",
+      "text": "What does the term Email stand for? (variant 133)",
       "options": [
         "No mail",
         "Only electronic",
@@ -1734,7 +1734,7 @@
     },
     {
       "id": "ict_134",
-      "text": "LAN means: (variant 134)",
+      "text": "What does the acronym LAN stand for in networking? (variant 134)",
       "options": [
         "Only local",
         "Only area",
@@ -1747,7 +1747,7 @@
     },
     {
       "id": "ict_135",
-      "text": "MS Word for: (variant 135)",
+      "text": "What is Microsoft Word primarily used for? (variant 135)",
       "options": [
         "No processing",
         "Word processing",
@@ -1760,7 +1760,7 @@
     },
     {
       "id": "ict_136",
-      "text": "Excel for: (variant 136)",
+      "text": "What is Microsoft Excel primarily used for? (variant 136)",
       "options": [
         "Spreadsheet",
         "Word",
@@ -1773,7 +1773,7 @@
     },
     {
       "id": "ict_137",
-      "text": "Virus is: (variant 137)",
+      "text": "What is a computer virus and how does it affect a system? (variant 137)",
       "options": [
         "Useful",
         "No program",
@@ -1786,7 +1786,7 @@
     },
     {
       "id": "ict_138",
-      "text": "ICT means: (variant 138)",
+      "text": "What does the acronym ICT stand for? (variant 138)",
       "options": [
         "Only info",
         "Only tech",
@@ -1799,7 +1799,7 @@
     },
     {
       "id": "ict_139",
-      "text": "HTTP means: (variant 139)",
+      "text": "What does the acronym HTTP stand for? (variant 139)",
       "options": [
         "Only transfer",
         "HyperText Transfer Protocol",
@@ -1812,7 +1812,7 @@
     },
     {
       "id": "ict_140",
-      "text": "HTML means: (variant 140)",
+      "text": "What does the acronym HTML stand for? (variant 140)",
       "options": [
         "HyperText Markup Language",
         "No language",
@@ -1825,7 +1825,7 @@
     },
     {
       "id": "ict_141",
-      "text": "Computer processes: (variant 141)",
+      "text": "What does a computer primarily process? (variant 141)",
       "options": [
         "Only storage",
         "Only print",
@@ -1838,7 +1838,7 @@
     },
     {
       "id": "ict_142",
-      "text": "Father of computer: (variant 142)",
+      "text": "Who is widely regarded as the father of the computer? (variant 142)",
       "options": [
         "Jobs",
         "Zuckerberg",
@@ -1851,7 +1851,7 @@
     },
     {
       "id": "ict_143",
-      "text": "CPU means: (variant 143)",
+      "text": "What does the acronym CPU stand for in computing? (variant 143)",
       "options": [
         "Only processing",
         "Central Processing Unit",
@@ -1864,7 +1864,7 @@
     },
     {
       "id": "ict_144",
-      "text": "RAM means: (variant 144)",
+      "text": "What does the acronym RAM stand for in computing? (variant 144)",
       "options": [
         "Random Access Memory",
         "No meaning",
@@ -1877,7 +1877,7 @@
     },
     {
       "id": "ict_145",
-      "text": "ROM means: (variant 145)",
+      "text": "What does the acronym ROM stand for in computing? (variant 145)",
       "options": [
         "No meaning",
         "Only read",
@@ -1890,7 +1890,7 @@
     },
     {
       "id": "ict_146",
-      "text": "Input device: (variant 146)",
+      "text": "Which of the following is an input device? (variant 146)",
       "options": [
         "Printer",
         "Speaker",
@@ -1903,7 +1903,7 @@
     },
     {
       "id": "ict_147",
-      "text": "Output device: (variant 147)",
+      "text": "Which of the following is an output device? (variant 147)",
       "options": [
         "Scanner",
         "Monitor",
@@ -1916,7 +1916,7 @@
     },
     {
       "id": "ict_148",
-      "text": "1 Byte = (variant 148)",
+      "text": "How many bits are there in one Byte? (variant 148)",
       "options": [
         "8 bits",
         "4 bits",
@@ -1929,7 +1929,7 @@
     },
     {
       "id": "ict_149",
-      "text": "Binary base: (variant 149)",
+      "text": "What is the base of the binary number system? (variant 149)",
       "options": [
         "10",
         "8",
@@ -1942,7 +1942,7 @@
     },
     {
       "id": "ict_150",
-      "text": "AND gate: (variant 150)",
+      "text": "What is the output condition of an AND gate? (variant 150)",
       "options": [
         "Inverts",
         "No gate",
@@ -1955,7 +1955,7 @@
     },
     {
       "id": "ict_151",
-      "text": "Internet is: (variant 151)",
+      "text": "What is the Internet best described as? (variant 151)",
       "options": [
         "Only one",
         "Interconnected networks",
@@ -1968,7 +1968,7 @@
     },
     {
       "id": "ict_152",
-      "text": "Browser example: (variant 152)",
+      "text": "Which of the following is an example of a web browser? (variant 152)",
       "options": [
         "Chrome",
         "Windows",
@@ -1981,7 +1981,7 @@
     },
     {
       "id": "ict_153",
-      "text": "Email means: (variant 153)",
+      "text": "What does the term Email stand for? (variant 153)",
       "options": [
         "No mail",
         "Only electronic",
@@ -1994,7 +1994,7 @@
     },
     {
       "id": "ict_154",
-      "text": "LAN means: (variant 154)",
+      "text": "What does the acronym LAN stand for in networking? (variant 154)",
       "options": [
         "Only local",
         "Only area",
@@ -2007,7 +2007,7 @@
     },
     {
       "id": "ict_155",
-      "text": "MS Word for: (variant 155)",
+      "text": "What is Microsoft Word primarily used for? (variant 155)",
       "options": [
         "No processing",
         "Word processing",
@@ -2020,7 +2020,7 @@
     },
     {
       "id": "ict_156",
-      "text": "Excel for: (variant 156)",
+      "text": "What is Microsoft Excel primarily used for? (variant 156)",
       "options": [
         "Spreadsheet",
         "Word",
@@ -2033,7 +2033,7 @@
     },
     {
       "id": "ict_157",
-      "text": "Virus is: (variant 157)",
+      "text": "What is a computer virus and how does it affect a system? (variant 157)",
       "options": [
         "Useful",
         "No program",
@@ -2046,7 +2046,7 @@
     },
     {
       "id": "ict_158",
-      "text": "ICT means: (variant 158)",
+      "text": "What does the acronym ICT stand for? (variant 158)",
       "options": [
         "Only info",
         "Only tech",
@@ -2059,7 +2059,7 @@
     },
     {
       "id": "ict_159",
-      "text": "HTTP means: (variant 159)",
+      "text": "What does the acronym HTTP stand for? (variant 159)",
       "options": [
         "Only transfer",
         "HyperText Transfer Protocol",
@@ -2072,7 +2072,7 @@
     },
     {
       "id": "ict_160",
-      "text": "HTML means: (variant 160)",
+      "text": "What does the acronym HTML stand for? (variant 160)",
       "options": [
         "HyperText Markup Language",
         "No language",
@@ -2085,7 +2085,7 @@
     },
     {
       "id": "ict_161",
-      "text": "Computer processes: (variant 161)",
+      "text": "What does a computer primarily process? (variant 161)",
       "options": [
         "Only storage",
         "Only print",
@@ -2098,7 +2098,7 @@
     },
     {
       "id": "ict_162",
-      "text": "Father of computer: (variant 162)",
+      "text": "Who is widely regarded as the father of the computer? (variant 162)",
       "options": [
         "Jobs",
         "Zuckerberg",
@@ -2111,7 +2111,7 @@
     },
     {
       "id": "ict_163",
-      "text": "CPU means: (variant 163)",
+      "text": "What does the acronym CPU stand for in computing? (variant 163)",
       "options": [
         "Only processing",
         "Central Processing Unit",
@@ -2124,7 +2124,7 @@
     },
     {
       "id": "ict_164",
-      "text": "RAM means: (variant 164)",
+      "text": "What does the acronym RAM stand for in computing? (variant 164)",
       "options": [
         "Random Access Memory",
         "No meaning",
@@ -2137,7 +2137,7 @@
     },
     {
       "id": "ict_165",
-      "text": "ROM means: (variant 165)",
+      "text": "What does the acronym ROM stand for in computing? (variant 165)",
       "options": [
         "No meaning",
         "Only read",
@@ -2150,7 +2150,7 @@
     },
     {
       "id": "ict_166",
-      "text": "Input device: (variant 166)",
+      "text": "Which of the following is an input device? (variant 166)",
       "options": [
         "Printer",
         "Speaker",
@@ -2163,7 +2163,7 @@
     },
     {
       "id": "ict_167",
-      "text": "Output device: (variant 167)",
+      "text": "Which of the following is an output device? (variant 167)",
       "options": [
         "Scanner",
         "Monitor",
@@ -2176,7 +2176,7 @@
     },
     {
       "id": "ict_168",
-      "text": "1 Byte = (variant 168)",
+      "text": "How many bits are there in one Byte? (variant 168)",
       "options": [
         "8 bits",
         "4 bits",
@@ -2189,7 +2189,7 @@
     },
     {
       "id": "ict_169",
-      "text": "Binary base: (variant 169)",
+      "text": "What is the base of the binary number system? (variant 169)",
       "options": [
         "10",
         "8",
@@ -2202,7 +2202,7 @@
     },
     {
       "id": "ict_170",
-      "text": "AND gate: (variant 170)",
+      "text": "What is the output condition of an AND gate? (variant 170)",
       "options": [
         "Inverts",
         "No gate",
@@ -2215,7 +2215,7 @@
     },
     {
       "id": "ict_171",
-      "text": "Internet is: (variant 171)",
+      "text": "What is the Internet best described as? (variant 171)",
       "options": [
         "Only one",
         "Interconnected networks",
@@ -2228,7 +2228,7 @@
     },
     {
       "id": "ict_172",
-      "text": "Browser example: (variant 172)",
+      "text": "Which of the following is an example of a web browser? (variant 172)",
       "options": [
         "Chrome",
         "Windows",
@@ -2241,7 +2241,7 @@
     },
     {
       "id": "ict_173",
-      "text": "Email means: (variant 173)",
+      "text": "What does the term Email stand for? (variant 173)",
       "options": [
         "No mail",
         "Only electronic",
@@ -2254,7 +2254,7 @@
     },
     {
       "id": "ict_174",
-      "text": "LAN means: (variant 174)",
+      "text": "What does the acronym LAN stand for in networking? (variant 174)",
       "options": [
         "Only local",
         "Only area",
@@ -2267,7 +2267,7 @@
     },
     {
       "id": "ict_175",
-      "text": "MS Word for: (variant 175)",
+      "text": "What is Microsoft Word primarily used for? (variant 175)",
       "options": [
         "No processing",
         "Word processing",
@@ -2280,7 +2280,7 @@
     },
     {
       "id": "ict_176",
-      "text": "Excel for: (variant 176)",
+      "text": "What is Microsoft Excel primarily used for? (variant 176)",
       "options": [
         "Spreadsheet",
         "Word",
@@ -2293,7 +2293,7 @@
     },
     {
       "id": "ict_177",
-      "text": "Virus is: (variant 177)",
+      "text": "What is a computer virus and how does it affect a system? (variant 177)",
       "options": [
         "Useful",
         "No program",
@@ -2306,7 +2306,7 @@
     },
     {
       "id": "ict_178",
-      "text": "ICT means: (variant 178)",
+      "text": "What does the acronym ICT stand for? (variant 178)",
       "options": [
         "Only info",
         "Only tech",
@@ -2319,7 +2319,7 @@
     },
     {
       "id": "ict_179",
-      "text": "HTTP means: (variant 179)",
+      "text": "What does the acronym HTTP stand for? (variant 179)",
       "options": [
         "Only transfer",
         "HyperText Transfer Protocol",
@@ -2332,7 +2332,7 @@
     },
     {
       "id": "ict_180",
-      "text": "HTML means: (variant 180)",
+      "text": "What does the acronym HTML stand for? (variant 180)",
       "options": [
         "HyperText Markup Language",
         "No language",
@@ -2345,7 +2345,7 @@
     },
     {
       "id": "ict_181",
-      "text": "Computer processes: (variant 181)",
+      "text": "What does a computer primarily process? (variant 181)",
       "options": [
         "Only storage",
         "Only print",
@@ -2358,7 +2358,7 @@
     },
     {
       "id": "ict_182",
-      "text": "Father of computer: (variant 182)",
+      "text": "Who is widely regarded as the father of the computer? (variant 182)",
       "options": [
         "Jobs",
         "Zuckerberg",
@@ -2371,7 +2371,7 @@
     },
     {
       "id": "ict_183",
-      "text": "CPU means: (variant 183)",
+      "text": "What does the acronym CPU stand for in computing? (variant 183)",
       "options": [
         "Only processing",
         "Central Processing Unit",
@@ -2384,7 +2384,7 @@
     },
     {
       "id": "ict_184",
-      "text": "RAM means: (variant 184)",
+      "text": "What does the acronym RAM stand for in computing? (variant 184)",
       "options": [
         "Random Access Memory",
         "No meaning",
@@ -2397,7 +2397,7 @@
     },
     {
       "id": "ict_185",
-      "text": "ROM means: (variant 185)",
+      "text": "What does the acronym ROM stand for in computing? (variant 185)",
       "options": [
         "No meaning",
         "Only read",
@@ -2410,7 +2410,7 @@
     },
     {
       "id": "ict_186",
-      "text": "Input device: (variant 186)",
+      "text": "Which of the following is an input device? (variant 186)",
       "options": [
         "Printer",
         "Speaker",
@@ -2423,7 +2423,7 @@
     },
     {
       "id": "ict_187",
-      "text": "Output device: (variant 187)",
+      "text": "Which of the following is an output device? (variant 187)",
       "options": [
         "Scanner",
         "Monitor",
@@ -2436,7 +2436,7 @@
     },
     {
       "id": "ict_188",
-      "text": "1 Byte = (variant 188)",
+      "text": "How many bits are there in one Byte? (variant 188)",
       "options": [
         "8 bits",
         "4 bits",
@@ -2449,7 +2449,7 @@
     },
     {
       "id": "ict_189",
-      "text": "Binary base: (variant 189)",
+      "text": "What is the base of the binary number system? (variant 189)",
       "options": [
         "10",
         "8",
@@ -2462,7 +2462,7 @@
     },
     {
       "id": "ict_190",
-      "text": "AND gate: (variant 190)",
+      "text": "What is the output condition of an AND gate? (variant 190)",
       "options": [
         "Inverts",
         "No gate",
@@ -2475,7 +2475,7 @@
     },
     {
       "id": "ict_191",
-      "text": "Internet is: (variant 191)",
+      "text": "What is the Internet best described as? (variant 191)",
       "options": [
         "Only one",
         "Interconnected networks",
@@ -2488,7 +2488,7 @@
     },
     {
       "id": "ict_192",
-      "text": "Browser example: (variant 192)",
+      "text": "Which of the following is an example of a web browser? (variant 192)",
       "options": [
         "Chrome",
         "Windows",
@@ -2501,7 +2501,7 @@
     },
     {
       "id": "ict_193",
-      "text": "Email means: (variant 193)",
+      "text": "What does the term Email stand for? (variant 193)",
       "options": [
         "No mail",
         "Only electronic",
@@ -2514,7 +2514,7 @@
     },
     {
       "id": "ict_194",
-      "text": "LAN means: (variant 194)",
+      "text": "What does the acronym LAN stand for in networking? (variant 194)",
       "options": [
         "Only local",
         "Only area",
@@ -2527,7 +2527,7 @@
     },
     {
       "id": "ict_195",
-      "text": "MS Word for: (variant 195)",
+      "text": "What is Microsoft Word primarily used for? (variant 195)",
       "options": [
         "No processing",
         "Word processing",
@@ -2540,7 +2540,7 @@
     },
     {
       "id": "ict_196",
-      "text": "Excel for: (variant 196)",
+      "text": "What is Microsoft Excel primarily used for? (variant 196)",
       "options": [
         "Spreadsheet",
         "Word",
@@ -2553,7 +2553,7 @@
     },
     {
       "id": "ict_197",
-      "text": "Virus is: (variant 197)",
+      "text": "What is a computer virus and how does it affect a system? (variant 197)",
       "options": [
         "Useful",
         "No program",
@@ -2566,7 +2566,7 @@
     },
     {
       "id": "ict_198",
-      "text": "ICT means: (variant 198)",
+      "text": "What does the acronym ICT stand for? (variant 198)",
       "options": [
         "Only info",
         "Only tech",
@@ -2579,7 +2579,7 @@
     },
     {
       "id": "ict_199",
-      "text": "HTTP means: (variant 199)",
+      "text": "What does the acronym HTTP stand for? (variant 199)",
       "options": [
         "Only transfer",
         "HyperText Transfer Protocol",
@@ -2592,7 +2592,7 @@
     },
     {
       "id": "ict_200",
-      "text": "HTML means: (variant 200)",
+      "text": "What does the acronym HTML stand for? (variant 200)",
       "options": [
         "HyperText Markup Language",
         "No language",

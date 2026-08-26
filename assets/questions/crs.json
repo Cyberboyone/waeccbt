@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": "crs_001",
-      "text": "First man:",
+      "text": "Who was the first man created by God according to the Bible?",
       "options": [
         "Abraham",
         "Moses",
@@ -18,7 +18,7 @@
     },
     {
       "id": "crs_002",
-      "text": "First woman:",
+      "text": "Who was the first woman created by God according to the Bible?",
       "options": [
         "Rebekah",
         "Rachel",
@@ -31,7 +31,7 @@
     },
     {
       "id": "crs_003",
-      "text": "Garden:",
+      "text": "In which garden were Adam and Eve placed by God?",
       "options": [
         "Jerusalem",
         "Eden",
@@ -44,7 +44,7 @@
     },
     {
       "id": "crs_004",
-      "text": "Noah saved because:",
+      "text": "Why was Noah saved from the great flood by God?",
       "options": [
         "Righteous",
         "Wicked",
@@ -57,7 +57,7 @@
     },
     {
       "id": "crs_005",
-      "text": "Abraham son of promise:",
+      "text": "Which son of Abraham was the son of promise?",
       "options": [
         "Ishmael",
         "Jacob",
@@ -70,7 +70,7 @@
     },
     {
       "id": "crs_006",
-      "text": "Jacob changed to:",
+      "text": "What new name was given to Jacob after he wrestled with God?",
       "options": [
         "Joseph",
         "Benjamin",
@@ -83,7 +83,7 @@
     },
     {
       "id": "crs_007",
-      "text": "Moses called from:",
+      "text": "From what was Moses called by God to lead the Israelites?",
       "options": [
         "Temple",
         "Burning bush",
@@ -96,7 +96,7 @@
     },
     {
       "id": "crs_008",
-      "text": "Plagues in Egypt:",
+      "text": "How many plagues did God send upon Egypt?",
       "options": [
         "10",
         "5",
@@ -109,7 +109,7 @@
     },
     {
       "id": "crs_009",
-      "text": "Law at Mount:",
+      "text": "At which mountain did God give the law to Moses?",
       "options": [
         "Zion",
         "Ararat",
@@ -122,7 +122,7 @@
     },
     {
       "id": "crs_010",
-      "text": "Commandments:",
+      "text": "How many commandments did God give to Moses on Mount Sinai?",
       "options": [
         "7",
         "5",
@@ -135,7 +135,7 @@
     },
     {
       "id": "crs_011",
-      "text": "David killed Goliath with:",
+      "text": "What weapon did David use to kill the giant Goliath?",
       "options": [
         "Bow",
         "Sling stone",
@@ -148,7 +148,7 @@
     },
     {
       "id": "crs_012",
-      "text": "Temple built by:",
+      "text": "Which king built the first temple in Jerusalem?",
       "options": [
         "Solomon",
         "David",
@@ -161,7 +161,7 @@
     },
     {
       "id": "crs_013",
-      "text": "Jesus born in:",
+      "text": "In which town was Jesus Christ born?",
       "options": [
         "Nazareth",
         "Jerusalem",
@@ -174,7 +174,7 @@
     },
     {
       "id": "crs_014",
-      "text": "Baptized by:",
+      "text": "Who baptized Jesus Christ in the River Jordan?",
       "options": [
         "James",
         "Andrew",
@@ -187,7 +187,7 @@
     },
     {
       "id": "crs_015",
-      "text": "First miracle at:",
+      "text": "At which place did Jesus perform his first miracle?",
       "options": [
         "Bethlehem",
         "Cana",
@@ -200,7 +200,7 @@
     },
     {
       "id": "crs_016",
-      "text": "Fed 5000 with:",
+      "text": "What did Jesus use to feed the five thousand people?",
       "options": [
         "5 loaves 2 fish",
         "10 loaves",
@@ -213,7 +213,7 @@
     },
     {
       "id": "crs_017",
-      "text": "Betrayed by:",
+      "text": "Which disciple betrayed Jesus Christ to the authorities?",
       "options": [
         "Peter",
         "John",
@@ -226,7 +226,7 @@
     },
     {
       "id": "crs_018",
-      "text": "Crucified at:",
+      "text": "At which place was Jesus Christ crucified?",
       "options": [
         "Nazareth",
         "Galilee",
@@ -239,7 +239,7 @@
     },
     {
       "id": "crs_019",
-      "text": "Resurrected on:",
+      "text": "On which day after his death was Jesus Christ resurrected?",
       "options": [
         "First",
         "Third day",
@@ -252,7 +252,7 @@
     },
     {
       "id": "crs_020",
-      "text": "First martyr:",
+      "text": "Who was the first Christian martyr mentioned in the Bible?",
       "options": [
         "Stephen",
         "Peter",
@@ -265,7 +265,7 @@
     },
     {
       "id": "crs_021",
-      "text": "First man: (variant 21)",
+      "text": "Who was the first man created by God according to the Bible? (variant 21)",
       "options": [
         "Abraham",
         "Moses",
@@ -278,7 +278,7 @@
     },
     {
       "id": "crs_022",
-      "text": "First woman: (variant 22)",
+      "text": "Who was the first woman created by God according to the Bible? (variant 22)",
       "options": [
         "Rebekah",
         "Rachel",
@@ -291,7 +291,7 @@
     },
     {
       "id": "crs_023",
-      "text": "Garden: (variant 23)",
+      "text": "What is the name of the garden where Adam and Eve lived? (variant 23)",
       "options": [
         "Jerusalem",
         "Eden",
@@ -304,7 +304,7 @@
     },
     {
       "id": "crs_024",
-      "text": "Noah saved because: (variant 24)",
+      "text": "Why was Noah saved from the great flood by God? (variant 24)",
       "options": [
         "Righteous",
         "Wicked",
@@ -330,7 +330,7 @@
     },
     {
       "id": "crs_026",
-      "text": "Jacob changed to: (variant 26)",
+      "text": "What was Jacob's new name after he wrestled with God? (variant 26)",
       "options": [
         "Joseph",
         "Benjamin",
@@ -343,7 +343,7 @@
     },
     {
       "id": "crs_027",
-      "text": "Moses called from: (variant 27)",
+      "text": "From which mountain did God call Moses through the burning bush? (variant 27)",
       "options": [
         "Temple",
         "Burning bush",
@@ -356,7 +356,7 @@
     },
     {
       "id": "crs_028",
-      "text": "Plagues in Egypt: (variant 28)",
+      "text": "How many plagues did God bring upon Egypt? (variant 28)",
       "options": [
         "10",
         "5",
@@ -369,7 +369,7 @@
     },
     {
       "id": "crs_029",
-      "text": "Law at Mount: (variant 29)",
+      "text": "On which mountain did Moses receive the Ten Commandments? (variant 29)",
       "options": [
         "Zion",
         "Ararat",
@@ -382,7 +382,7 @@
     },
     {
       "id": "crs_030",
-      "text": "Commandments: (variant 30)",
+      "text": "What did God give to Moses on Mount Sinai? (variant 30)",
       "options": [
         "7",
         "5",
@@ -408,7 +408,7 @@
     },
     {
       "id": "crs_032",
-      "text": "Temple built by: (variant 32)",
+      "text": "Who built the first temple in Jerusalem for God? (variant 32)",
       "options": [
         "Solomon",
         "David",
@@ -421,7 +421,7 @@
     },
     {
       "id": "crs_033",
-      "text": "Jesus born in: (variant 33)",
+      "text": "Where was Jesus Christ born according to the Bible? (variant 33)",
       "options": [
         "Nazareth",
         "Jerusalem",
@@ -434,7 +434,7 @@
     },
     {
       "id": "crs_034",
-      "text": "Baptized by: (variant 34)",
+      "text": "Who baptized Jesus Christ in the River Jordan? (variant 34)",
       "options": [
         "James",
         "Andrew",
@@ -447,7 +447,7 @@
     },
     {
       "id": "crs_035",
-      "text": "First miracle at: (variant 35)",
+      "text": "At which place did Jesus perform his first miracle? (variant 35)",
       "options": [
         "Bethlehem",
         "Cana",
@@ -460,7 +460,7 @@
     },
     {
       "id": "crs_036",
-      "text": "Fed 5000 with: (variant 36)",
+      "text": "What did Jesus use to feed the five thousand people? (variant 36)",
       "options": [
         "5 loaves 2 fish",
         "10 loaves",
@@ -473,7 +473,7 @@
     },
     {
       "id": "crs_037",
-      "text": "Betrayed by: (variant 37)",
+      "text": "Who betrayed Jesus Christ to the Roman soldiers? (variant 37)",
       "options": [
         "Peter",
         "John",
@@ -486,7 +486,7 @@
     },
     {
       "id": "crs_038",
-      "text": "Crucified at: (variant 38)",
+      "text": "At which place was Jesus Christ crucified? (variant 38)",
       "options": [
         "Nazareth",
         "Galilee",
@@ -499,7 +499,7 @@
     },
     {
       "id": "crs_039",
-      "text": "Resurrected on: (variant 39)",
+      "text": "On which day of the week did Jesus Christ resurrect? (variant 39)",
       "options": [
         "First",
         "Third day",
@@ -512,7 +512,7 @@
     },
     {
       "id": "crs_040",
-      "text": "First martyr: (variant 40)",
+      "text": "Who was the first Christian martyr in the Bible? (variant 40)",
       "options": [
         "Stephen",
         "Peter",
@@ -525,7 +525,7 @@
     },
     {
       "id": "crs_041",
-      "text": "First man: (variant 41)",
+      "text": "Who was the first man created by God according to the Bible? (variant 41)",
       "options": [
         "Abraham",
         "Moses",
@@ -538,7 +538,7 @@
     },
     {
       "id": "crs_042",
-      "text": "First woman: (variant 42)",
+      "text": "Who was the first woman created by God according to the Bible? (variant 42)",
       "options": [
         "Rebekah",
         "Rachel",
@@ -551,7 +551,7 @@
     },
     {
       "id": "crs_043",
-      "text": "Garden: (variant 43)",
+      "text": "What is the name of the garden where Adam and Eve lived? (variant 43)",
       "options": [
         "Jerusalem",
         "Eden",
@@ -564,7 +564,7 @@
     },
     {
       "id": "crs_044",
-      "text": "Noah saved because: (variant 44)",
+      "text": "Why was Noah saved from the great flood by God? (variant 44)",
       "options": [
         "Righteous",
         "Wicked",
@@ -590,7 +590,7 @@
     },
     {
       "id": "crs_046",
-      "text": "Jacob changed to: (variant 46)",
+      "text": "What was Jacob's new name after he wrestled with God? (variant 46)",
       "options": [
         "Joseph",
         "Benjamin",
@@ -603,7 +603,7 @@
     },
     {
       "id": "crs_047",
-      "text": "Moses called from: (variant 47)",
+      "text": "From which mountain did God call Moses through the burning bush? (variant 47)",
       "options": [
         "Temple",
         "Burning bush",
@@ -616,7 +616,7 @@
     },
     {
       "id": "crs_048",
-      "text": "Plagues in Egypt: (variant 48)",
+      "text": "How many plagues did God bring upon Egypt? (variant 48)",
       "options": [
         "10",
         "5",
@@ -629,7 +629,7 @@
     },
     {
       "id": "crs_049",
-      "text": "Law at Mount: (variant 49)",
+      "text": "On which mountain did Moses receive the Ten Commandments? (variant 49)",
       "options": [
         "Zion",
         "Ararat",
@@ -642,7 +642,7 @@
     },
     {
       "id": "crs_050",
-      "text": "Commandments: (variant 50)",
+      "text": "What did God give to Moses on Mount Sinai? (variant 50)",
       "options": [
         "7",
         "5",
@@ -668,7 +668,7 @@
     },
     {
       "id": "crs_052",
-      "text": "Temple built by: (variant 52)",
+      "text": "Who built the first temple in Jerusalem for God? (variant 52)",
       "options": [
         "Solomon",
         "David",
@@ -681,7 +681,7 @@
     },
     {
       "id": "crs_053",
-      "text": "Jesus born in: (variant 53)",
+      "text": "Where was Jesus Christ born according to the Bible? (variant 53)",
       "options": [
         "Nazareth",
         "Jerusalem",
@@ -694,7 +694,7 @@
     },
     {
       "id": "crs_054",
-      "text": "Baptized by: (variant 54)",
+      "text": "Who baptized Jesus Christ in the River Jordan? (variant 54)",
       "options": [
         "James",
         "Andrew",
@@ -707,7 +707,7 @@
     },
     {
       "id": "crs_055",
-      "text": "First miracle at: (variant 55)",
+      "text": "At which place did Jesus perform his first miracle? (variant 55)",
       "options": [
         "Bethlehem",
         "Cana",
@@ -720,7 +720,7 @@
     },
     {
       "id": "crs_056",
-      "text": "Fed 5000 with: (variant 56)",
+      "text": "What did Jesus use to feed the five thousand people? (variant 56)",
       "options": [
         "5 loaves 2 fish",
         "10 loaves",
@@ -733,7 +733,7 @@
     },
     {
       "id": "crs_057",
-      "text": "Betrayed by: (variant 57)",
+      "text": "Who betrayed Jesus Christ to the Roman soldiers? (variant 57)",
       "options": [
         "Peter",
         "John",
@@ -746,7 +746,7 @@
     },
     {
       "id": "crs_058",
-      "text": "Crucified at: (variant 58)",
+      "text": "At which place was Jesus Christ crucified? (variant 58)",
       "options": [
         "Nazareth",
         "Galilee",
@@ -759,7 +759,7 @@
     },
     {
       "id": "crs_059",
-      "text": "Resurrected on: (variant 59)",
+      "text": "On which day of the week did Jesus Christ resurrect? (variant 59)",
       "options": [
         "First",
         "Third day",
@@ -772,7 +772,7 @@
     },
     {
       "id": "crs_060",
-      "text": "First martyr: (variant 60)",
+      "text": "Who was the first Christian martyr in the Bible? (variant 60)",
       "options": [
         "Stephen",
         "Peter",
@@ -785,7 +785,7 @@
     },
     {
       "id": "crs_061",
-      "text": "First man: (variant 61)",
+      "text": "Who was the first man created by God according to the Bible? (variant 61)",
       "options": [
         "Abraham",
         "Moses",
@@ -798,7 +798,7 @@
     },
     {
       "id": "crs_062",
-      "text": "First woman: (variant 62)",
+      "text": "Who was the first woman created by God according to the Bible? (variant 62)",
       "options": [
         "Rebekah",
         "Rachel",
@@ -811,7 +811,7 @@
     },
     {
       "id": "crs_063",
-      "text": "Garden: (variant 63)",
+      "text": "What is the name of the garden where Adam and Eve lived? (variant 63)",
       "options": [
         "Jerusalem",
         "Eden",
@@ -824,7 +824,7 @@
     },
     {
       "id": "crs_064",
-      "text": "Noah saved because: (variant 64)",
+      "text": "Why was Noah saved from the great flood by God? (variant 64)",
       "options": [
         "Righteous",
         "Wicked",
@@ -850,7 +850,7 @@
     },
     {
       "id": "crs_066",
-      "text": "Jacob changed to: (variant 66)",
+      "text": "What was Jacob's new name after he wrestled with God? (variant 66)",
       "options": [
         "Joseph",
         "Benjamin",
@@ -863,7 +863,7 @@
     },
     {
       "id": "crs_067",
-      "text": "Moses called from: (variant 67)",
+      "text": "From which mountain did God call Moses through the burning bush? (variant 67)",
       "options": [
         "Temple",
         "Burning bush",
@@ -876,7 +876,7 @@
     },
     {
       "id": "crs_068",
-      "text": "Plagues in Egypt: (variant 68)",
+      "text": "How many plagues did God bring upon Egypt? (variant 68)",
       "options": [
         "10",
         "5",
@@ -889,7 +889,7 @@
     },
     {
       "id": "crs_069",
-      "text": "Law at Mount: (variant 69)",
+      "text": "On which mountain did Moses receive the Ten Commandments? (variant 69)",
       "options": [
         "Zion",
         "Ararat",
@@ -902,7 +902,7 @@
     },
     {
       "id": "crs_070",
-      "text": "Commandments: (variant 70)",
+      "text": "What did God give to Moses on Mount Sinai? (variant 70)",
       "options": [
         "7",
         "5",
@@ -928,7 +928,7 @@
     },
     {
       "id": "crs_072",
-      "text": "Temple built by: (variant 72)",
+      "text": "Who built the first temple in Jerusalem for God? (variant 72)",
       "options": [
         "Solomon",
         "David",
@@ -941,7 +941,7 @@
     },
     {
       "id": "crs_073",
-      "text": "Jesus born in: (variant 73)",
+      "text": "Where was Jesus Christ born according to the Bible? (variant 73)",
       "options": [
         "Nazareth",
         "Jerusalem",
@@ -954,7 +954,7 @@
     },
     {
       "id": "crs_074",
-      "text": "Baptized by: (variant 74)",
+      "text": "Who baptized Jesus Christ in the River Jordan? (variant 74)",
       "options": [
         "James",
         "Andrew",
@@ -967,7 +967,7 @@
     },
     {
       "id": "crs_075",
-      "text": "First miracle at: (variant 75)",
+      "text": "At which place did Jesus perform his first miracle? (variant 75)",
       "options": [
         "Bethlehem",
         "Cana",
@@ -980,7 +980,7 @@
     },
     {
       "id": "crs_076",
-      "text": "Fed 5000 with: (variant 76)",
+      "text": "What did Jesus use to feed the five thousand people? (variant 76)",
       "options": [
         "5 loaves 2 fish",
         "10 loaves",
@@ -993,7 +993,7 @@
     },
     {
       "id": "crs_077",
-      "text": "Betrayed by: (variant 77)",
+      "text": "Who betrayed Jesus Christ to the Roman soldiers? (variant 77)",
       "options": [
         "Peter",
         "John",
@@ -1006,7 +1006,7 @@
     },
     {
       "id": "crs_078",
-      "text": "Crucified at: (variant 78)",
+      "text": "At which place was Jesus Christ crucified? (variant 78)",
       "options": [
         "Nazareth",
         "Galilee",
@@ -1019,7 +1019,7 @@
     },
     {
       "id": "crs_079",
-      "text": "Resurrected on: (variant 79)",
+      "text": "On which day of the week did Jesus Christ resurrect? (variant 79)",
       "options": [
         "First",
         "Third day",
@@ -1032,7 +1032,7 @@
     },
     {
       "id": "crs_080",
-      "text": "First martyr: (variant 80)",
+      "text": "Who was the first Christian martyr in the Bible? (variant 80)",
       "options": [
         "Stephen",
         "Peter",
@@ -1045,7 +1045,7 @@
     },
     {
       "id": "crs_081",
-      "text": "First man: (variant 81)",
+      "text": "Who was the first man created by God according to the Bible? (variant 81)",
       "options": [
         "Abraham",
         "Moses",
@@ -1058,7 +1058,7 @@
     },
     {
       "id": "crs_082",
-      "text": "First woman: (variant 82)",
+      "text": "Who was the first woman created by God according to the Bible? (variant 82)",
       "options": [
         "Rebekah",
         "Rachel",
@@ -1071,7 +1071,7 @@
     },
     {
       "id": "crs_083",
-      "text": "Garden: (variant 83)",
+      "text": "What is the name of the garden where Adam and Eve lived? (variant 83)",
       "options": [
         "Jerusalem",
         "Eden",
@@ -1084,7 +1084,7 @@
     },
     {
       "id": "crs_084",
-      "text": "Noah saved because: (variant 84)",
+      "text": "Why was Noah saved from the great flood by God? (variant 84)",
       "options": [
         "Righteous",
         "Wicked",
@@ -1110,7 +1110,7 @@
     },
     {
       "id": "crs_086",
-      "text": "Jacob changed to: (variant 86)",
+      "text": "What was Jacob's new name after he wrestled with God? (variant 86)",
       "options": [
         "Joseph",
         "Benjamin",
@@ -1123,7 +1123,7 @@
     },
     {
       "id": "crs_087",
-      "text": "Moses called from: (variant 87)",
+      "text": "From which mountain did God call Moses through the burning bush? (variant 87)",
       "options": [
         "Temple",
         "Burning bush",
@@ -1136,7 +1136,7 @@
     },
     {
       "id": "crs_088",
-      "text": "Plagues in Egypt: (variant 88)",
+      "text": "How many plagues did God bring upon Egypt? (variant 88)",
       "options": [
         "10",
         "5",
@@ -1149,7 +1149,7 @@
     },
     {
       "id": "crs_089",
-      "text": "Law at Mount: (variant 89)",
+      "text": "On which mountain did Moses receive the Ten Commandments? (variant 89)",
       "options": [
         "Zion",
         "Ararat",
@@ -1162,7 +1162,7 @@
     },
     {
       "id": "crs_090",
-      "text": "Commandments: (variant 90)",
+      "text": "What did God give to Moses on Mount Sinai? (variant 90)",
       "options": [
         "7",
         "5",
@@ -1188,7 +1188,7 @@
     },
     {
       "id": "crs_092",
-      "text": "Temple built by: (variant 92)",
+      "text": "Who built the first temple in Jerusalem for God? (variant 92)",
       "options": [
         "Solomon",
         "David",
@@ -1201,7 +1201,7 @@
     },
     {
       "id": "crs_093",
-      "text": "Jesus born in: (variant 93)",
+      "text": "Where was Jesus Christ born according to the Bible? (variant 93)",
       "options": [
         "Nazareth",
         "Jerusalem",
@@ -1214,7 +1214,7 @@
     },
     {
       "id": "crs_094",
-      "text": "Baptized by: (variant 94)",
+      "text": "Who baptized Jesus Christ in the River Jordan? (variant 94)",
       "options": [
         "James",
         "Andrew",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": "crs_095",
-      "text": "First miracle at: (variant 95)",
+      "text": "At which place did Jesus perform his first miracle? (variant 95)",
       "options": [
         "Bethlehem",
         "Cana",
@@ -1240,7 +1240,7 @@
     },
     {
       "id": "crs_096",
-      "text": "Fed 5000 with: (variant 96)",
+      "text": "What did Jesus use to feed the five thousand people? (variant 96)",
       "options": [
         "5 loaves 2 fish",
         "10 loaves",
@@ -1253,7 +1253,7 @@
     },
     {
       "id": "crs_097",
-      "text": "Betrayed by: (variant 97)",
+      "text": "Who betrayed Jesus Christ to the Roman soldiers? (variant 97)",
       "options": [
         "Peter",
         "John",
@@ -1266,7 +1266,7 @@
     },
     {
       "id": "crs_098",
-      "text": "Crucified at: (variant 98)",
+      "text": "At which place was Jesus Christ crucified? (variant 98)",
       "options": [
         "Nazareth",
         "Galilee",
@@ -1279,7 +1279,7 @@
     },
     {
       "id": "crs_099",
-      "text": "Resurrected on: (variant 99)",
+      "text": "On which day of the week did Jesus Christ resurrect? (variant 99)",
       "options": [
         "First",
         "Third day",
@@ -1292,7 +1292,7 @@
     },
     {
       "id": "crs_100",
-      "text": "First martyr: (variant 100)",
+      "text": "Who was the first Christian martyr in the Bible? (variant 100)",
       "options": [
         "Stephen",
         "Peter",
@@ -1305,7 +1305,7 @@
     },
     {
       "id": "crs_101",
-      "text": "First man: (variant 101)",
+      "text": "Who was the first man created by God according to the Bible? (variant 101)",
       "options": [
         "Abraham",
         "Moses",
@@ -1318,7 +1318,7 @@
     },
     {
       "id": "crs_102",
-      "text": "First woman: (variant 102)",
+      "text": "Who was the first woman created by God according to the Bible? (variant 102)",
       "options": [
         "Rebekah",
         "Rachel",
@@ -1331,7 +1331,7 @@
     },
     {
       "id": "crs_103",
-      "text": "Garden: (variant 103)",
+      "text": "What is the name of the garden where Adam and Eve lived? (variant 103)",
       "options": [
         "Jerusalem",
         "Eden",
@@ -1344,7 +1344,7 @@
     },
     {
       "id": "crs_104",
-      "text": "Noah saved because: (variant 104)",
+      "text": "Why was Noah saved from the great flood by God? (variant 104)",
       "options": [
         "Righteous",
         "Wicked",
@@ -1370,7 +1370,7 @@
     },
     {
       "id": "crs_106",
-      "text": "Jacob changed to: (variant 106)",
+      "text": "What was Jacob's new name after he wrestled with God? (variant 106)",
       "options": [
         "Joseph",
         "Benjamin",
@@ -1383,7 +1383,7 @@
     },
     {
       "id": "crs_107",
-      "text": "Moses called from: (variant 107)",
+      "text": "From which mountain did God call Moses through the burning bush? (variant 107)",
       "options": [
         "Temple",
         "Burning bush",
@@ -1396,7 +1396,7 @@
     },
     {
       "id": "crs_108",
-      "text": "Plagues in Egypt: (variant 108)",
+      "text": "How many plagues did God bring upon Egypt? (variant 108)",
       "options": [
         "10",
         "5",
@@ -1409,7 +1409,7 @@
     },
     {
       "id": "crs_109",
-      "text": "Law at Mount: (variant 109)",
+      "text": "On which mountain did Moses receive the Ten Commandments? (variant 109)",
       "options": [
         "Zion",
         "Ararat",
@@ -1422,7 +1422,7 @@
     },
     {
       "id": "crs_110",
-      "text": "Commandments: (variant 110)",
+      "text": "What did God give to Moses on Mount Sinai? (variant 110)",
       "options": [
         "7",
         "5",
@@ -1448,7 +1448,7 @@
     },
     {
       "id": "crs_112",
-      "text": "Temple built by: (variant 112)",
+      "text": "Who built the first temple in Jerusalem for God? (variant 112)",
       "options": [
         "Solomon",
         "David",
@@ -1461,7 +1461,7 @@
     },
     {
       "id": "crs_113",
-      "text": "Jesus born in: (variant 113)",
+      "text": "Where was Jesus Christ born according to the Bible? (variant 113)",
       "options": [
         "Nazareth",
         "Jerusalem",
@@ -1474,7 +1474,7 @@
     },
     {
       "id": "crs_114",
-      "text": "Baptized by: (variant 114)",
+      "text": "Who baptized Jesus Christ in the River Jordan? (variant 114)",
       "options": [
         "James",
         "Andrew",
@@ -1487,7 +1487,7 @@
     },
     {
       "id": "crs_115",
-      "text": "First miracle at: (variant 115)",
+      "text": "At which place did Jesus perform his first miracle? (variant 115)",
       "options": [
         "Bethlehem",
         "Cana",
@@ -1500,7 +1500,7 @@
     },
     {
       "id": "crs_116",
-      "text": "Fed 5000 with: (variant 116)",
+      "text": "What did Jesus use to feed the five thousand people? (variant 116)",
       "options": [
         "5 loaves 2 fish",
         "10 loaves",
@@ -1513,7 +1513,7 @@
     },
     {
       "id": "crs_117",
-      "text": "Betrayed by: (variant 117)",
+      "text": "Who betrayed Jesus Christ to the Roman soldiers? (variant 117)",
       "options": [
         "Peter",
         "John",
@@ -1526,7 +1526,7 @@
     },
     {
       "id": "crs_118",
-      "text": "Crucified at: (variant 118)",
+      "text": "At which place was Jesus Christ crucified? (variant 118)",
       "options": [
         "Nazareth",
         "Galilee",
@@ -1539,7 +1539,7 @@
     },
     {
       "id": "crs_119",
-      "text": "Resurrected on: (variant 119)",
+      "text": "On which day of the week did Jesus Christ resurrect? (variant 119)",
       "options": [
         "First",
         "Third day",
@@ -1552,7 +1552,7 @@
     },
     {
       "id": "crs_120",
-      "text": "First martyr: (variant 120)",
+      "text": "Who was the first Christian martyr in the Bible? (variant 120)",
       "options": [
         "Stephen",
         "Peter",
@@ -1565,7 +1565,7 @@
     },
     {
       "id": "crs_121",
-      "text": "First man: (variant 121)",
+      "text": "Who was the first man created by God according to the Bible? (variant 121)",
       "options": [
         "Abraham",
         "Moses",
@@ -1578,7 +1578,7 @@
     },
     {
       "id": "crs_122",
-      "text": "First woman: (variant 122)",
+      "text": "Who was the first woman created by God according to the Bible? (variant 122)",
       "options": [
         "Rebekah",
         "Rachel",
@@ -1591,7 +1591,7 @@
     },
     {
       "id": "crs_123",
-      "text": "Garden: (variant 123)",
+      "text": "What is the name of the garden where Adam and Eve lived? (variant 123)",
       "options": [
         "Jerusalem",
         "Eden",
@@ -1604,7 +1604,7 @@
     },
     {
       "id": "crs_124",
-      "text": "Noah saved because: (variant 124)",
+      "text": "Why was Noah saved from the great flood by God? (variant 124)",
       "options": [
         "Righteous",
         "Wicked",
@@ -1630,7 +1630,7 @@
     },
     {
       "id": "crs_126",
-      "text": "Jacob changed to: (variant 126)",
+      "text": "What was Jacob's new name after he wrestled with God? (variant 126)",
       "options": [
         "Joseph",
         "Benjamin",
@@ -1643,7 +1643,7 @@
     },
     {
       "id": "crs_127",
-      "text": "Moses called from: (variant 127)",
+      "text": "From which mountain did God call Moses through the burning bush? (variant 127)",
       "options": [
         "Temple",
         "Burning bush",
@@ -1656,7 +1656,7 @@
     },
     {
       "id": "crs_128",
-      "text": "Plagues in Egypt: (variant 128)",
+      "text": "How many plagues did God bring upon Egypt? (variant 128)",
       "options": [
         "10",
         "5",
@@ -1669,7 +1669,7 @@
     },
     {
       "id": "crs_129",
-      "text": "Law at Mount: (variant 129)",
+      "text": "On which mountain did Moses receive the Ten Commandments? (variant 129)",
       "options": [
         "Zion",
         "Ararat",
@@ -1682,7 +1682,7 @@
     },
     {
       "id": "crs_130",
-      "text": "Commandments: (variant 130)",
+      "text": "What did God give to Moses on Mount Sinai? (variant 130)",
       "options": [
         "7",
         "5",
@@ -1708,7 +1708,7 @@
     },
     {
       "id": "crs_132",
-      "text": "Temple built by: (variant 132)",
+      "text": "Who built the first temple in Jerusalem for God? (variant 132)",
       "options": [
         "Solomon",
         "David",
@@ -1721,7 +1721,7 @@
     },
     {
       "id": "crs_133",
-      "text": "Jesus born in: (variant 133)",
+      "text": "Where was Jesus Christ born according to the Bible? (variant 133)",
       "options": [
         "Nazareth",
         "Jerusalem",
@@ -1734,7 +1734,7 @@
     },
     {
       "id": "crs_134",
-      "text": "Baptized by: (variant 134)",
+      "text": "Who baptized Jesus Christ in the River Jordan? (variant 134)",
       "options": [
         "James",
         "Andrew",
@@ -1747,7 +1747,7 @@
     },
     {
       "id": "crs_135",
-      "text": "First miracle at: (variant 135)",
+      "text": "At which place did Jesus perform his first miracle? (variant 135)",
       "options": [
         "Bethlehem",
         "Cana",
@@ -1760,7 +1760,7 @@
     },
     {
       "id": "crs_136",
-      "text": "Fed 5000 with: (variant 136)",
+      "text": "What did Jesus use to feed the five thousand people? (variant 136)",
       "options": [
         "5 loaves 2 fish",
         "10 loaves",
@@ -1773,7 +1773,7 @@
     },
     {
       "id": "crs_137",
-      "text": "Betrayed by: (variant 137)",
+      "text": "Who betrayed Jesus Christ to the Roman soldiers? (variant 137)",
       "options": [
         "Peter",
         "John",
@@ -1786,7 +1786,7 @@
     },
     {
       "id": "crs_138",
-      "text": "Crucified at: (variant 138)",
+      "text": "At which place was Jesus Christ crucified? (variant 138)",
       "options": [
         "Nazareth",
         "Galilee",
@@ -1799,7 +1799,7 @@
     },
     {
       "id": "crs_139",
-      "text": "Resurrected on: (variant 139)",
+      "text": "On which day of the week did Jesus Christ resurrect? (variant 139)",
       "options": [
         "First",
         "Third day",
@@ -1812,7 +1812,7 @@
     },
     {
       "id": "crs_140",
-      "text": "First martyr: (variant 140)",
+      "text": "Who was the first Christian martyr in the Bible? (variant 140)",
       "options": [
         "Stephen",
         "Peter",
@@ -1825,7 +1825,7 @@
     },
     {
       "id": "crs_141",
-      "text": "First man: (variant 141)",
+      "text": "Who was the first man created by God according to the Bible? (variant 141)",
       "options": [
         "Abraham",
         "Moses",
@@ -1838,7 +1838,7 @@
     },
     {
       "id": "crs_142",
-      "text": "First woman: (variant 142)",
+      "text": "Who was the first woman created by God according to the Bible? (variant 142)",
       "options": [
         "Rebekah",
         "Rachel",
@@ -1851,7 +1851,7 @@
     },
     {
       "id": "crs_143",
-      "text": "Garden: (variant 143)",
+      "text": "What is the name of the garden where Adam and Eve lived? (variant 143)",
       "options": [
         "Jerusalem",
         "Eden",
@@ -1864,7 +1864,7 @@
     },
     {
       "id": "crs_144",
-      "text": "Noah saved because: (variant 144)",
+      "text": "Why was Noah saved from the great flood by God? (variant 144)",
       "options": [
         "Righteous",
         "Wicked",
@@ -1890,7 +1890,7 @@
     },
     {
       "id": "crs_146",
-      "text": "Jacob changed to: (variant 146)",
+      "text": "What was Jacob's new name after he wrestled with God? (variant 146)",
       "options": [
         "Joseph",
         "Benjamin",
@@ -1903,7 +1903,7 @@
     },
     {
       "id": "crs_147",
-      "text": "Moses called from: (variant 147)",
+      "text": "From which mountain did God call Moses through the burning bush? (variant 147)",
       "options": [
         "Temple",
         "Burning bush",
@@ -1916,7 +1916,7 @@
     },
     {
       "id": "crs_148",
-      "text": "Plagues in Egypt: (variant 148)",
+      "text": "How many plagues did God bring upon Egypt? (variant 148)",
       "options": [
         "10",
         "5",
@@ -1929,7 +1929,7 @@
     },
     {
       "id": "crs_149",
-      "text": "Law at Mount: (variant 149)",
+      "text": "On which mountain did Moses receive the Ten Commandments? (variant 149)",
       "options": [
         "Zion",
         "Ararat",
@@ -1942,7 +1942,7 @@
     },
     {
       "id": "crs_150",
-      "text": "Commandments: (variant 150)",
+      "text": "What did God give to Moses on Mount Sinai? (variant 150)",
       "options": [
         "7",
         "5",
@@ -1968,7 +1968,7 @@
     },
     {
       "id": "crs_152",
-      "text": "Temple built by: (variant 152)",
+      "text": "Who built the first temple in Jerusalem for God? (variant 152)",
       "options": [
         "Solomon",
         "David",
@@ -1981,7 +1981,7 @@
     },
     {
       "id": "crs_153",
-      "text": "Jesus born in: (variant 153)",
+      "text": "Where was Jesus Christ born according to the Bible? (variant 153)",
       "options": [
         "Nazareth",
         "Jerusalem",
@@ -1994,7 +1994,7 @@
     },
     {
       "id": "crs_154",
-      "text": "Baptized by: (variant 154)",
+      "text": "Who baptized Jesus Christ in the River Jordan? (variant 154)",
       "options": [
         "James",
         "Andrew",
@@ -2007,7 +2007,7 @@
     },
     {
       "id": "crs_155",
-      "text": "First miracle at: (variant 155)",
+      "text": "At which place did Jesus perform his first miracle? (variant 155)",
       "options": [
         "Bethlehem",
         "Cana",
@@ -2020,7 +2020,7 @@
     },
     {
       "id": "crs_156",
-      "text": "Fed 5000 with: (variant 156)",
+      "text": "What did Jesus use to feed the five thousand people? (variant 156)",
       "options": [
         "5 loaves 2 fish",
         "10 loaves",
@@ -2033,7 +2033,7 @@
     },
     {
       "id": "crs_157",
-      "text": "Betrayed by: (variant 157)",
+      "text": "Who betrayed Jesus Christ to the Roman soldiers? (variant 157)",
       "options": [
         "Peter",
         "John",
@@ -2046,7 +2046,7 @@
     },
     {
       "id": "crs_158",
-      "text": "Crucified at: (variant 158)",
+      "text": "At which place was Jesus Christ crucified? (variant 158)",
       "options": [
         "Nazareth",
         "Galilee",
@@ -2059,7 +2059,7 @@
     },
     {
       "id": "crs_159",
-      "text": "Resurrected on: (variant 159)",
+      "text": "On which day of the week did Jesus Christ resurrect? (variant 159)",
       "options": [
         "First",
         "Third day",
@@ -2072,7 +2072,7 @@
     },
     {
       "id": "crs_160",
-      "text": "First martyr: (variant 160)",
+      "text": "Who was the first Christian martyr in the Bible? (variant 160)",
       "options": [
         "Stephen",
         "Peter",
@@ -2085,7 +2085,7 @@
     },
     {
       "id": "crs_161",
-      "text": "First man: (variant 161)",
+      "text": "Who was the first man created by God according to the Bible? (variant 161)",
       "options": [
         "Abraham",
         "Moses",
@@ -2098,7 +2098,7 @@
     },
     {
       "id": "crs_162",
-      "text": "First woman: (variant 162)",
+      "text": "Who was the first woman created by God according to the Bible? (variant 162)",
       "options": [
         "Rebekah",
         "Rachel",
@@ -2111,7 +2111,7 @@
     },
     {
       "id": "crs_163",
-      "text": "Garden: (variant 163)",
+      "text": "What is the name of the garden where Adam and Eve lived? (variant 163)",
       "options": [
         "Jerusalem",
         "Eden",
@@ -2124,7 +2124,7 @@
     },
     {
       "id": "crs_164",
-      "text": "Noah saved because: (variant 164)",
+      "text": "Why was Noah saved from the great flood by God? (variant 164)",
       "options": [
         "Righteous",
         "Wicked",
@@ -2150,7 +2150,7 @@
     },
     {
       "id": "crs_166",
-      "text": "Jacob changed to: (variant 166)",
+      "text": "What was Jacob's new name after he wrestled with God? (variant 166)",
       "options": [
         "Joseph",
         "Benjamin",
@@ -2163,7 +2163,7 @@
     },
     {
       "id": "crs_167",
-      "text": "Moses called from: (variant 167)",
+      "text": "From which mountain did God call Moses through the burning bush? (variant 167)",
       "options": [
         "Temple",
         "Burning bush",
@@ -2176,7 +2176,7 @@
     },
     {
       "id": "crs_168",
-      "text": "Plagues in Egypt: (variant 168)",
+      "text": "How many plagues did God bring upon Egypt? (variant 168)",
       "options": [
         "10",
         "5",
@@ -2189,7 +2189,7 @@
     },
     {
       "id": "crs_169",
-      "text": "Law at Mount: (variant 169)",
+      "text": "On which mountain did Moses receive the Ten Commandments? (variant 169)",
       "options": [
         "Zion",
         "Ararat",
@@ -2202,7 +2202,7 @@
     },
     {
       "id": "crs_170",
-      "text": "Commandments: (variant 170)",
+      "text": "What did God give to Moses on Mount Sinai? (variant 170)",
       "options": [
         "7",
         "5",
@@ -2228,7 +2228,7 @@
     },
     {
       "id": "crs_172",
-      "text": "Temple built by: (variant 172)",
+      "text": "Who built the first temple in Jerusalem for God? (variant 172)",
       "options": [
         "Solomon",
         "David",
@@ -2241,7 +2241,7 @@
     },
     {
       "id": "crs_173",
-      "text": "Jesus born in: (variant 173)",
+      "text": "Where was Jesus Christ born according to the Bible? (variant 173)",
       "options": [
         "Nazareth",
         "Jerusalem",
@@ -2254,7 +2254,7 @@
     },
     {
       "id": "crs_174",
-      "text": "Baptized by: (variant 174)",
+      "text": "Who baptized Jesus Christ in the River Jordan? (variant 174)",
       "options": [
         "James",
         "Andrew",
@@ -2267,7 +2267,7 @@
     },
     {
       "id": "crs_175",
-      "text": "First miracle at: (variant 175)",
+      "text": "At which place did Jesus perform his first miracle? (variant 175)",
       "options": [
         "Bethlehem",
         "Cana",
@@ -2280,7 +2280,7 @@
     },
     {
       "id": "crs_176",
-      "text": "Fed 5000 with: (variant 176)",
+      "text": "What did Jesus use to feed the five thousand people? (variant 176)",
       "options": [
         "5 loaves 2 fish",
         "10 loaves",
@@ -2293,7 +2293,7 @@
     },
     {
       "id": "crs_177",
-      "text": "Betrayed by: (variant 177)",
+      "text": "Who betrayed Jesus Christ to the Roman soldiers? (variant 177)",
       "options": [
         "Peter",
         "John",
@@ -2306,7 +2306,7 @@
     },
     {
       "id": "crs_178",
-      "text": "Crucified at: (variant 178)",
+      "text": "At which place was Jesus Christ crucified? (variant 178)",
       "options": [
         "Nazareth",
         "Galilee",
@@ -2319,7 +2319,7 @@
     },
     {
       "id": "crs_179",
-      "text": "Resurrected on: (variant 179)",
+      "text": "On which day of the week did Jesus Christ resurrect? (variant 179)",
       "options": [
         "First",
         "Third day",
@@ -2332,7 +2332,7 @@
     },
     {
       "id": "crs_180",
-      "text": "First martyr: (variant 180)",
+      "text": "Who was the first Christian martyr in the Bible? (variant 180)",
       "options": [
         "Stephen",
         "Peter",
@@ -2345,7 +2345,7 @@
     },
     {
       "id": "crs_181",
-      "text": "First man: (variant 181)",
+      "text": "Who was the first man created by God according to the Bible? (variant 181)",
       "options": [
         "Abraham",
         "Moses",
@@ -2358,7 +2358,7 @@
     },
     {
       "id": "crs_182",
-      "text": "First woman: (variant 182)",
+      "text": "Who was the first woman created by God according to the Bible? (variant 182)",
       "options": [
         "Rebekah",
         "Rachel",
@@ -2371,7 +2371,7 @@
     },
     {
       "id": "crs_183",
-      "text": "Garden: (variant 183)",
+      "text": "What is the name of the garden where Adam and Eve lived? (variant 183)",
       "options": [
         "Jerusalem",
         "Eden",
@@ -2384,7 +2384,7 @@
     },
     {
       "id": "crs_184",
-      "text": "Noah saved because: (variant 184)",
+      "text": "Why was Noah saved from the great flood by God? (variant 184)",
       "options": [
         "Righteous",
         "Wicked",
@@ -2410,7 +2410,7 @@
     },
     {
       "id": "crs_186",
-      "text": "Jacob changed to: (variant 186)",
+      "text": "What was Jacob's new name after he wrestled with God? (variant 186)",
       "options": [
         "Joseph",
         "Benjamin",
@@ -2423,7 +2423,7 @@
     },
     {
       "id": "crs_187",
-      "text": "Moses called from: (variant 187)",
+      "text": "From which mountain did God call Moses through the burning bush? (variant 187)",
       "options": [
         "Temple",
         "Burning bush",
@@ -2436,7 +2436,7 @@
     },
     {
       "id": "crs_188",
-      "text": "Plagues in Egypt: (variant 188)",
+      "text": "How many plagues did God bring upon Egypt? (variant 188)",
       "options": [
         "10",
         "5",
@@ -2449,7 +2449,7 @@
     },
     {
       "id": "crs_189",
-      "text": "Law at Mount: (variant 189)",
+      "text": "On which mountain did Moses receive the Ten Commandments? (variant 189)",
       "options": [
         "Zion",
         "Ararat",
@@ -2462,7 +2462,7 @@
     },
     {
       "id": "crs_190",
-      "text": "Commandments: (variant 190)",
+      "text": "What did God give to Moses on Mount Sinai? (variant 190)",
       "options": [
         "7",
         "5",
@@ -2488,7 +2488,7 @@
     },
     {
       "id": "crs_192",
-      "text": "Temple built by: (variant 192)",
+      "text": "Who built the first temple in Jerusalem for God? (variant 192)",
       "options": [
         "Solomon",
         "David",
@@ -2501,7 +2501,7 @@
     },
     {
       "id": "crs_193",
-      "text": "Jesus born in: (variant 193)",
+      "text": "Where was Jesus Christ born according to the Bible? (variant 193)",
       "options": [
         "Nazareth",
         "Jerusalem",
@@ -2514,7 +2514,7 @@
     },
     {
       "id": "crs_194",
-      "text": "Baptized by: (variant 194)",
+      "text": "Who baptized Jesus Christ in the River Jordan? (variant 194)",
       "options": [
         "James",
         "Andrew",
@@ -2527,7 +2527,7 @@
     },
     {
       "id": "crs_195",
-      "text": "First miracle at: (variant 195)",
+      "text": "At which place did Jesus perform his first miracle? (variant 195)",
       "options": [
         "Bethlehem",
         "Cana",
@@ -2540,7 +2540,7 @@
     },
     {
       "id": "crs_196",
-      "text": "Fed 5000 with: (variant 196)",
+      "text": "What did Jesus use to feed the five thousand people? (variant 196)",
       "options": [
         "5 loaves 2 fish",
         "10 loaves",
@@ -2553,7 +2553,7 @@
     },
     {
       "id": "crs_197",
-      "text": "Betrayed by: (variant 197)",
+      "text": "Who betrayed Jesus Christ to the Roman soldiers? (variant 197)",
       "options": [
         "Peter",
         "John",
@@ -2566,7 +2566,7 @@
     },
     {
       "id": "crs_198",
-      "text": "Crucified at: (variant 198)",
+      "text": "At which place was Jesus Christ crucified? (variant 198)",
       "options": [
         "Nazareth",
         "Galilee",
@@ -2579,7 +2579,7 @@
     },
     {
       "id": "crs_199",
-      "text": "Resurrected on: (variant 199)",
+      "text": "On which day of the week did Jesus Christ resurrect? (variant 199)",
       "options": [
         "First",
         "Third day",
@@ -2592,7 +2592,7 @@
     },
     {
       "id": "crs_200",
-      "text": "First martyr: (variant 200)",
+      "text": "Who was the first Christian martyr in the Bible? (variant 200)",
       "options": [
         "Stephen",
         "Peter",

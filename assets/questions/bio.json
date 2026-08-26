@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": "bio_001",
-      "text": "The basic unit of life is the:",
+      "text": "Which of the following best describes The basic unit of life?",
       "options": [
         "Cell",
         "Organ",
@@ -226,7 +226,7 @@
     },
     {
       "id": "bio_018",
-      "text": "The scientific name of humans is:",
+      "text": "Which of the following best describes or relates to The scientific name of humans is?",
       "options": [
         "Homo habilis",
         "Australopithecus",
@@ -291,7 +291,7 @@
     },
     {
       "id": "bio_023",
-      "text": "Mushrooms belong to the kingdom:",
+      "text": "Which of the following best describes or relates to Mushrooms belong to the kingdom?",
       "options": [
         "Monera",
         "Plantae",
@@ -551,7 +551,7 @@
     },
     {
       "id": "bio_043",
-      "text": "The stomach produces which acid?",
+      "text": "Which acid does the human stomach produce for digestion?",
       "options": [
         "Acetic acid",
         "Sulphuric acid",
@@ -564,7 +564,7 @@
     },
     {
       "id": "bio_044",
-      "text": "The enzyme pepsin digests:",
+      "text": "Which of the following best describes or relates to The enzyme pepsin digests?",
       "options": [
         "Starch",
         "Proteins",
@@ -577,7 +577,7 @@
     },
     {
       "id": "bio_045",
-      "text": "Bile is produced by the:",
+      "text": "Which of the following best describes or relates to Bile is produced by the?",
       "options": [
         "Liver",
         "Stomach",
@@ -590,7 +590,7 @@
     },
     {
       "id": "bio_046",
-      "text": "Bile is stored in the:",
+      "text": "Which of the following best describes or relates to Bile is stored in the?",
       "options": [
         "Pancreas",
         "Stomach",
@@ -603,7 +603,7 @@
     },
     {
       "id": "bio_047",
-      "text": "Bile aids in the digestion of:",
+      "text": "Which of the following best describes or relates to Bile aids in the digestion of?",
       "options": [
         "Vitamins",
         "Proteins",
@@ -694,7 +694,7 @@
     },
     {
       "id": "bio_054",
-      "text": "A diet lacking in iodine leads to:",
+      "text": "Which of the following best describes or relates to A diet lacking in iodine leads to?",
       "options": [
         "Rickets",
         "Beriberi",
@@ -772,7 +772,7 @@
     },
     {
       "id": "bio_060",
-      "text": "The liquid part of blood is:",
+      "text": "Which of the following best describes or relates to The liquid part of blood is?",
       "options": [
         "Serum",
         "Plasma",
@@ -1045,7 +1045,7 @@
     },
     {
       "id": "bio_081",
-      "text": "The skin excretes waste through:",
+      "text": "Which of the following best describes or relates to The skin excretes waste through?",
       "options": [
         "Sweat",
         "Faeces",
@@ -1097,7 +1097,7 @@
     },
     {
       "id": "bio_085",
-      "text": "The skeleton of humans provides:",
+      "text": "Which of the following best describes or relates to The skeleton of humans provides?",
       "options": [
         "Support, protection and movement",
         "Only protection",
@@ -1162,7 +1162,7 @@
     },
     {
       "id": "bio_090",
-      "text": "The skull protects the:",
+      "text": "Which of the following best describes or relates to The skull protects the?",
       "options": [
         "Lungs",
         "Stomach",
@@ -1175,7 +1175,7 @@
     },
     {
       "id": "bio_091",
-      "text": "Muscles work by:",
+      "text": "Which of the following best describes or relates to Muscles work by?",
       "options": [
         "Vibrating",
         "Pushing",
@@ -1214,7 +1214,7 @@
     },
     {
       "id": "bio_094",
-      "text": "The male gamete in humans is the:",
+      "text": "Which of the following best describes The male gamete in humans?",
       "options": [
         "Ovum",
         "Zygote",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": "bio_095",
-      "text": "The female gamete in humans is the:",
+      "text": "Which of the following best describes The female gamete in humans?",
       "options": [
         "Gamete",
         "Sperm",
@@ -1253,7 +1253,7 @@
     },
     {
       "id": "bio_097",
-      "text": "The fertilised egg is called a:",
+      "text": "Which of the following best describes or relates to The fertilised egg is called a?",
       "options": [
         "Zygote",
         "Embryo",
@@ -1747,7 +1747,7 @@
     },
     {
       "id": "bio_135",
-      "text": "The basic unit of heredity is the:",
+      "text": "Which of the following best describes The basic unit of heredity?",
       "options": [
         "Cell",
         "Chromosome",
@@ -1760,7 +1760,7 @@
     },
     {
       "id": "bio_136",
-      "text": "Genes are located on:",
+      "text": "Which of the following best describes or relates to Genes are located on?",
       "options": [
         "Ribosomes",
         "Chromosomes",
@@ -1773,7 +1773,7 @@
     },
     {
       "id": "bio_137",
-      "text": "The father of genetics is:",
+      "text": "Which of the following best describes or relates to The father of genetics is?",
       "options": [
         "Gregor Mendel",
         "Watson",
@@ -1851,7 +1851,7 @@
     },
     {
       "id": "bio_143",
-      "text": "An allele that is masked is:",
+      "text": "Which of the following best describes or relates to An allele that is masked is?",
       "options": [
         "Mutant",
         "Dominant",
@@ -1955,7 +1955,7 @@
     },
     {
       "id": "bio_151",
-      "text": "DNA stands for:",
+      "text": "What does the acronym DNA stand for?",
       "options": [
         "Dinitrogen acid",
         "Deoxyribonucleic acid",
@@ -1981,7 +1981,7 @@
     },
     {
       "id": "bio_153",
-      "text": "Natural selection is based on:",
+      "text": "Which of the following best describes or relates to Natural selection is based on?",
       "options": [
         "Survival of the fittest",
         "Random chance only",
@@ -2033,7 +2033,7 @@
     },
     {
       "id": "bio_157",
-      "text": "Malaria is caused by:",
+      "text": "What are the main causes of Malaria?",
       "options": [
         "Plasmodium (protozoan)",
         "Virus",
@@ -2046,7 +2046,7 @@
     },
     {
       "id": "bio_158",
-      "text": "Malaria is transmitted by:",
+      "text": "Which of the following best describes or relates to Malaria is transmitted by?",
       "options": [
         "Housefly",
         "Tick",
@@ -2371,7 +2371,7 @@
     },
     {
       "id": "bio_183",
-      "text": "The voice box is the:",
+      "text": "Which of the following best describes The voice box?",
       "options": [
         "Bronchus",
         "Pharynx",

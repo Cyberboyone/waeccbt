@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": "fdn_001",
-      "text": "Food classes:",
+      "text": "How many classes of food are there? in total?",
       "options": [
         "3",
         "2",
@@ -18,7 +18,7 @@
     },
     {
       "id": "fdn_002",
-      "text": "Carb provides:",
+      "text": "What does carbohydrate primarily provide to the body?",
       "options": [
         "No energy",
         "Only protection",
@@ -31,7 +31,7 @@
     },
     {
       "id": "fdn_003",
-      "text": "Protein for:",
+      "text": "What is the primary function of protein in the body?",
       "options": [
         "Only protection",
         "Body building",
@@ -44,7 +44,7 @@
     },
     {
       "id": "fdn_004",
-      "text": "Scurvy lack of:",
+      "text": "Scurvy is caused by the deficiency of which vitamin?",
       "options": [
         "Vitamin C",
         "A",
@@ -57,7 +57,7 @@
     },
     {
       "id": "fdn_005",
-      "text": "Rickets lack of:",
+      "text": "Rickets is caused by the deficiency of which vitamin?",
       "options": [
         "C",
         "A",
@@ -70,7 +70,7 @@
     },
     {
       "id": "fdn_006",
-      "text": "Night blindness lack of:",
+      "text": "Night blindness is caused by the deficiency of which vitamin?",
       "options": [
         "D",
         "K",
@@ -83,7 +83,7 @@
     },
     {
       "id": "fdn_007",
-      "text": "Balanced diet:",
+      "text": "What does a balanced diet contain? in terms of nutrients?",
       "options": [
         "Only two",
         "All nutrients right proportion",
@@ -96,7 +96,7 @@
     },
     {
       "id": "fdn_008",
-      "text": "Boiling uses:",
+      "text": "What is used as the cooking medium in boiling?",
       "options": [
         "Water",
         "Oil",
@@ -109,7 +109,7 @@
     },
     {
       "id": "fdn_009",
-      "text": "Frying uses:",
+      "text": "What is used as the cooking medium in frying?",
       "options": [
         "Water",
         "No oil",
@@ -122,7 +122,7 @@
     },
     {
       "id": "fdn_010",
-      "text": "Baking is:",
+      "text": "What type of heat is used in baking?",
       "options": [
         "Frying",
         "No dry heat",
@@ -135,7 +135,7 @@
     },
     {
       "id": "fdn_011",
-      "text": "Colostrum is:",
+      "text": "What is colostrum in the context of infant nutrition?",
       "options": [
         "Only water",
         "First milk",
@@ -148,7 +148,7 @@
     },
     {
       "id": "fdn_012",
-      "text": "1g carb gives:",
+      "text": "How many calories does one gram of carbohydrate provide?",
       "options": [
         "4 calories",
         "9 calories",
@@ -161,7 +161,7 @@
     },
     {
       "id": "fdn_013",
-      "text": "1g fat gives:",
+      "text": "How many calories does one gram of fat provide?",
       "options": [
         "4",
         "0",
@@ -174,7 +174,7 @@
     },
     {
       "id": "fdn_014",
-      "text": "Roughage for:",
+      "text": "What is the primary function of roughage in the diet?",
       "options": [
         "Fat",
         "No nutrient",
@@ -187,7 +187,7 @@
     },
     {
       "id": "fdn_015",
-      "text": "Digestion starts in:",
+      "text": "In which part of the body does digestion begin?",
       "options": [
         "Large",
         "Mouth",
@@ -200,7 +200,7 @@
     },
     {
       "id": "fdn_016",
-      "text": "NAFDAC controls:",
+      "text": "What does NAFDAC regulate in Nigeria?",
       "options": [
         "Food and drug",
         "No control",
@@ -213,7 +213,7 @@
     },
     {
       "id": "fdn_017",
-      "text": "BMI means:",
+      "text": "What does the acronym BMI stand for?",
       "options": [
         "No index",
         "Only body",
@@ -226,7 +226,7 @@
     },
     {
       "id": "fdn_018",
-      "text": "Normal BMI:",
+      "text": "What is the normal range for Body Mass Index?",
       "options": [
         "10-15",
         "No range",
@@ -239,7 +239,7 @@
     },
     {
       "id": "fdn_019",
-      "text": "Food security means:",
+      "text": "What does the term food security mean?",
       "options": [
         "Only safe",
         "Access sufficient safe nutritious",
@@ -252,7 +252,7 @@
     },
     {
       "id": "fdn_020",
-      "text": "Kitchen for:",
+      "text": "What is the primary purpose of a kitchen?",
       "options": [
         "Cooking",
         "No cooking",
@@ -265,7 +265,7 @@
     },
     {
       "id": "fdn_021",
-      "text": "Food classes: (variant 21)",
+      "text": "How many classes of food are there? (variant 21)",
       "options": [
         "3",
         "2",
@@ -278,7 +278,7 @@
     },
     {
       "id": "fdn_022",
-      "text": "Carb provides: (variant 22)",
+      "text": "What does carbohydrate primarily provide to the body? (variant 22)",
       "options": [
         "No energy",
         "Only protection",
@@ -291,7 +291,7 @@
     },
     {
       "id": "fdn_023",
-      "text": "Protein for: (variant 23)",
+      "text": "What is the primary function of protein in the body? (variant 23)",
       "options": [
         "Only protection",
         "Body building",
@@ -304,7 +304,7 @@
     },
     {
       "id": "fdn_024",
-      "text": "Scurvy lack of: (variant 24)",
+      "text": "Scurvy is caused by the deficiency of which vitamin? (variant 24)",
       "options": [
         "Vitamin C",
         "A",
@@ -317,7 +317,7 @@
     },
     {
       "id": "fdn_025",
-      "text": "Rickets lack of: (variant 25)",
+      "text": "Rickets is caused by the deficiency of which vitamin? (variant 25)",
       "options": [
         "C",
         "A",
@@ -330,7 +330,7 @@
     },
     {
       "id": "fdn_026",
-      "text": "Night blindness lack of: (variant 26)",
+      "text": "Night blindness is caused by the deficiency of which vitamin? (variant 26)",
       "options": [
         "D",
         "K",
@@ -343,7 +343,7 @@
     },
     {
       "id": "fdn_027",
-      "text": "Balanced diet: (variant 27)",
+      "text": "What does a balanced diet contain? (variant 27)",
       "options": [
         "Only two",
         "All nutrients right proportion",
@@ -356,7 +356,7 @@
     },
     {
       "id": "fdn_028",
-      "text": "Boiling uses: (variant 28)",
+      "text": "What is used as the cooking medium in boiling? (variant 28)",
       "options": [
         "Water",
         "Oil",
@@ -369,7 +369,7 @@
     },
     {
       "id": "fdn_029",
-      "text": "Frying uses: (variant 29)",
+      "text": "What is used as the cooking medium in frying? (variant 29)",
       "options": [
         "Water",
         "No oil",
@@ -382,7 +382,7 @@
     },
     {
       "id": "fdn_030",
-      "text": "Baking is: (variant 30)",
+      "text": "What type of heat is used in baking? (variant 30)",
       "options": [
         "Frying",
         "No dry heat",
@@ -395,7 +395,7 @@
     },
     {
       "id": "fdn_031",
-      "text": "Colostrum is: (variant 31)",
+      "text": "What is colostrum in the context of infant nutrition? (variant 31)",
       "options": [
         "Only water",
         "First milk",
@@ -408,7 +408,7 @@
     },
     {
       "id": "fdn_032",
-      "text": "1g carb gives: (variant 32)",
+      "text": "How many calories does one gram of carbohydrate provide? (variant 32)",
       "options": [
         "4 calories",
         "9 calories",
@@ -421,7 +421,7 @@
     },
     {
       "id": "fdn_033",
-      "text": "1g fat gives: (variant 33)",
+      "text": "How many calories does one gram of fat provide? (variant 33)",
       "options": [
         "4",
         "0",
@@ -434,7 +434,7 @@
     },
     {
       "id": "fdn_034",
-      "text": "Roughage for: (variant 34)",
+      "text": "What is the primary function of roughage in the diet? (variant 34)",
       "options": [
         "Fat",
         "No nutrient",
@@ -447,7 +447,7 @@
     },
     {
       "id": "fdn_035",
-      "text": "Digestion starts in: (variant 35)",
+      "text": "In which part of the body does digestion begin? (variant 35)",
       "options": [
         "Large",
         "Mouth",
@@ -460,7 +460,7 @@
     },
     {
       "id": "fdn_036",
-      "text": "NAFDAC controls: (variant 36)",
+      "text": "What does NAFDAC regulate in Nigeria? (variant 36)",
       "options": [
         "Food and drug",
         "No control",
@@ -473,7 +473,7 @@
     },
     {
       "id": "fdn_037",
-      "text": "BMI means: (variant 37)",
+      "text": "What does the acronym BMI stand for? (variant 37)",
       "options": [
         "No index",
         "Only body",
@@ -486,7 +486,7 @@
     },
     {
       "id": "fdn_038",
-      "text": "Normal BMI: (variant 38)",
+      "text": "What is the normal range for Body Mass Index? (variant 38)",
       "options": [
         "10-15",
         "No range",
@@ -499,7 +499,7 @@
     },
     {
       "id": "fdn_039",
-      "text": "Food security means: (variant 39)",
+      "text": "What does the term food security mean? (variant 39)",
       "options": [
         "Only safe",
         "Access sufficient safe nutritious",
@@ -512,7 +512,7 @@
     },
     {
       "id": "fdn_040",
-      "text": "Kitchen for: (variant 40)",
+      "text": "What is the primary purpose of a kitchen? (variant 40)",
       "options": [
         "Cooking",
         "No cooking",
@@ -525,7 +525,7 @@
     },
     {
       "id": "fdn_041",
-      "text": "Food classes: (variant 41)",
+      "text": "How many classes of food are there? (variant 41)",
       "options": [
         "3",
         "2",
@@ -538,7 +538,7 @@
     },
     {
       "id": "fdn_042",
-      "text": "Carb provides: (variant 42)",
+      "text": "What does carbohydrate primarily provide to the body? (variant 42)",
       "options": [
         "No energy",
         "Only protection",
@@ -551,7 +551,7 @@
     },
     {
       "id": "fdn_043",
-      "text": "Protein for: (variant 43)",
+      "text": "What is the primary function of protein in the body? (variant 43)",
       "options": [
         "Only protection",
         "Body building",
@@ -564,7 +564,7 @@
     },
     {
       "id": "fdn_044",
-      "text": "Scurvy lack of: (variant 44)",
+      "text": "Scurvy is caused by the deficiency of which vitamin? (variant 44)",
       "options": [
         "Vitamin C",
         "A",
@@ -577,7 +577,7 @@
     },
     {
       "id": "fdn_045",
-      "text": "Rickets lack of: (variant 45)",
+      "text": "Rickets is caused by the deficiency of which vitamin? (variant 45)",
       "options": [
         "C",
         "A",
@@ -590,7 +590,7 @@
     },
     {
       "id": "fdn_046",
-      "text": "Night blindness lack of: (variant 46)",
+      "text": "Night blindness is caused by the deficiency of which vitamin? (variant 46)",
       "options": [
         "D",
         "K",
@@ -603,7 +603,7 @@
     },
     {
       "id": "fdn_047",
-      "text": "Balanced diet: (variant 47)",
+      "text": "What does a balanced diet contain? (variant 47)",
       "options": [
         "Only two",
         "All nutrients right proportion",
@@ -616,7 +616,7 @@
     },
     {
       "id": "fdn_048",
-      "text": "Boiling uses: (variant 48)",
+      "text": "What is used as the cooking medium in boiling? (variant 48)",
       "options": [
         "Water",
         "Oil",
@@ -629,7 +629,7 @@
     },
     {
       "id": "fdn_049",
-      "text": "Frying uses: (variant 49)",
+      "text": "What is used as the cooking medium in frying? (variant 49)",
       "options": [
         "Water",
         "No oil",
@@ -642,7 +642,7 @@
     },
     {
       "id": "fdn_050",
-      "text": "Baking is: (variant 50)",
+      "text": "What type of heat is used in baking? (variant 50)",
       "options": [
         "Frying",
         "No dry heat",
@@ -655,7 +655,7 @@
     },
     {
       "id": "fdn_051",
-      "text": "Colostrum is: (variant 51)",
+      "text": "What is colostrum in the context of infant nutrition? (variant 51)",
       "options": [
         "Only water",
         "First milk",
@@ -668,7 +668,7 @@
     },
     {
       "id": "fdn_052",
-      "text": "1g carb gives: (variant 52)",
+      "text": "How many calories does one gram of carbohydrate provide? (variant 52)",
       "options": [
         "4 calories",
         "9 calories",
@@ -681,7 +681,7 @@
     },
     {
       "id": "fdn_053",
-      "text": "1g fat gives: (variant 53)",
+      "text": "How many calories does one gram of fat provide? (variant 53)",
       "options": [
         "4",
         "0",
@@ -694,7 +694,7 @@
     },
     {
       "id": "fdn_054",
-      "text": "Roughage for: (variant 54)",
+      "text": "What is the primary function of roughage in the diet? (variant 54)",
       "options": [
         "Fat",
         "No nutrient",
@@ -707,7 +707,7 @@
     },
     {
       "id": "fdn_055",
-      "text": "Digestion starts in: (variant 55)",
+      "text": "In which part of the body does digestion begin? (variant 55)",
       "options": [
         "Large",
         "Mouth",
@@ -720,7 +720,7 @@
     },
     {
       "id": "fdn_056",
-      "text": "NAFDAC controls: (variant 56)",
+      "text": "What does NAFDAC regulate in Nigeria? (variant 56)",
       "options": [
         "Food and drug",
         "No control",
@@ -733,7 +733,7 @@
     },
     {
       "id": "fdn_057",
-      "text": "BMI means: (variant 57)",
+      "text": "What does the acronym BMI stand for? (variant 57)",
       "options": [
         "No index",
         "Only body",
@@ -746,7 +746,7 @@
     },
     {
       "id": "fdn_058",
-      "text": "Normal BMI: (variant 58)",
+      "text": "What is the normal range for Body Mass Index? (variant 58)",
       "options": [
         "10-15",
         "No range",
@@ -759,7 +759,7 @@
     },
     {
       "id": "fdn_059",
-      "text": "Food security means: (variant 59)",
+      "text": "What does the term food security mean? (variant 59)",
       "options": [
         "Only safe",
         "Access sufficient safe nutritious",
@@ -772,7 +772,7 @@
     },
     {
       "id": "fdn_060",
-      "text": "Kitchen for: (variant 60)",
+      "text": "What is the primary purpose of a kitchen? (variant 60)",
       "options": [
         "Cooking",
         "No cooking",
@@ -785,7 +785,7 @@
     },
     {
       "id": "fdn_061",
-      "text": "Food classes: (variant 61)",
+      "text": "How many classes of food are there? (variant 61)",
       "options": [
         "3",
         "2",
@@ -798,7 +798,7 @@
     },
     {
       "id": "fdn_062",
-      "text": "Carb provides: (variant 62)",
+      "text": "What does carbohydrate primarily provide to the body? (variant 62)",
       "options": [
         "No energy",
         "Only protection",
@@ -811,7 +811,7 @@
     },
     {
       "id": "fdn_063",
-      "text": "Protein for: (variant 63)",
+      "text": "What is the primary function of protein in the body? (variant 63)",
       "options": [
         "Only protection",
         "Body building",
@@ -824,7 +824,7 @@
     },
     {
       "id": "fdn_064",
-      "text": "Scurvy lack of: (variant 64)",
+      "text": "Scurvy is caused by the deficiency of which vitamin? (variant 64)",
       "options": [
         "Vitamin C",
         "A",
@@ -837,7 +837,7 @@
     },
     {
       "id": "fdn_065",
-      "text": "Rickets lack of: (variant 65)",
+      "text": "Rickets is caused by the deficiency of which vitamin? (variant 65)",
       "options": [
         "C",
         "A",
@@ -850,7 +850,7 @@
     },
     {
       "id": "fdn_066",
-      "text": "Night blindness lack of: (variant 66)",
+      "text": "Night blindness is caused by the deficiency of which vitamin? (variant 66)",
       "options": [
         "D",
         "K",
@@ -863,7 +863,7 @@
     },
     {
       "id": "fdn_067",
-      "text": "Balanced diet: (variant 67)",
+      "text": "What does a balanced diet contain? (variant 67)",
       "options": [
         "Only two",
         "All nutrients right proportion",
@@ -876,7 +876,7 @@
     },
     {
       "id": "fdn_068",
-      "text": "Boiling uses: (variant 68)",
+      "text": "What is used as the cooking medium in boiling? (variant 68)",
       "options": [
         "Water",
         "Oil",
@@ -889,7 +889,7 @@
     },
     {
       "id": "fdn_069",
-      "text": "Frying uses: (variant 69)",
+      "text": "What is used as the cooking medium in frying? (variant 69)",
       "options": [
         "Water",
         "No oil",
@@ -902,7 +902,7 @@
     },
     {
       "id": "fdn_070",
-      "text": "Baking is: (variant 70)",
+      "text": "What type of heat is used in baking? (variant 70)",
       "options": [
         "Frying",
         "No dry heat",
@@ -915,7 +915,7 @@
     },
     {
       "id": "fdn_071",
-      "text": "Colostrum is: (variant 71)",
+      "text": "What is colostrum in the context of infant nutrition? (variant 71)",
       "options": [
         "Only water",
         "First milk",
@@ -928,7 +928,7 @@
     },
     {
       "id": "fdn_072",
-      "text": "1g carb gives: (variant 72)",
+      "text": "How many calories does one gram of carbohydrate provide? (variant 72)",
       "options": [
         "4 calories",
         "9 calories",
@@ -941,7 +941,7 @@
     },
     {
       "id": "fdn_073",
-      "text": "1g fat gives: (variant 73)",
+      "text": "How many calories does one gram of fat provide? (variant 73)",
       "options": [
         "4",
         "0",
@@ -954,7 +954,7 @@
     },
     {
       "id": "fdn_074",
-      "text": "Roughage for: (variant 74)",
+      "text": "What is the primary function of roughage in the diet? (variant 74)",
       "options": [
         "Fat",
         "No nutrient",
@@ -967,7 +967,7 @@
     },
     {
       "id": "fdn_075",
-      "text": "Digestion starts in: (variant 75)",
+      "text": "In which part of the body does digestion begin? (variant 75)",
       "options": [
         "Large",
         "Mouth",
@@ -980,7 +980,7 @@
     },
     {
       "id": "fdn_076",
-      "text": "NAFDAC controls: (variant 76)",
+      "text": "What does NAFDAC regulate in Nigeria? (variant 76)",
       "options": [
         "Food and drug",
         "No control",
@@ -993,7 +993,7 @@
     },
     {
       "id": "fdn_077",
-      "text": "BMI means: (variant 77)",
+      "text": "What does the acronym BMI stand for? (variant 77)",
       "options": [
         "No index",
         "Only body",
@@ -1006,7 +1006,7 @@
     },
     {
       "id": "fdn_078",
-      "text": "Normal BMI: (variant 78)",
+      "text": "What is the normal range for Body Mass Index? (variant 78)",
       "options": [
         "10-15",
         "No range",
@@ -1019,7 +1019,7 @@
     },
     {
       "id": "fdn_079",
-      "text": "Food security means: (variant 79)",
+      "text": "What does the term food security mean? (variant 79)",
       "options": [
         "Only safe",
         "Access sufficient safe nutritious",
@@ -1032,7 +1032,7 @@
     },
     {
       "id": "fdn_080",
-      "text": "Kitchen for: (variant 80)",
+      "text": "What is the primary purpose of a kitchen? (variant 80)",
       "options": [
         "Cooking",
         "No cooking",
@@ -1045,7 +1045,7 @@
     },
     {
       "id": "fdn_081",
-      "text": "Food classes: (variant 81)",
+      "text": "How many classes of food are there? (variant 81)",
       "options": [
         "3",
         "2",
@@ -1058,7 +1058,7 @@
     },
     {
       "id": "fdn_082",
-      "text": "Carb provides: (variant 82)",
+      "text": "What does carbohydrate primarily provide to the body? (variant 82)",
       "options": [
         "No energy",
         "Only protection",
@@ -1071,7 +1071,7 @@
     },
     {
       "id": "fdn_083",
-      "text": "Protein for: (variant 83)",
+      "text": "What is the primary function of protein in the body? (variant 83)",
       "options": [
         "Only protection",
         "Body building",
@@ -1084,7 +1084,7 @@
     },
     {
       "id": "fdn_084",
-      "text": "Scurvy lack of: (variant 84)",
+      "text": "Scurvy is caused by the deficiency of which vitamin? (variant 84)",
       "options": [
         "Vitamin C",
         "A",
@@ -1097,7 +1097,7 @@
     },
     {
       "id": "fdn_085",
-      "text": "Rickets lack of: (variant 85)",
+      "text": "Rickets is caused by the deficiency of which vitamin? (variant 85)",
       "options": [
         "C",
         "A",
@@ -1110,7 +1110,7 @@
     },
     {
       "id": "fdn_086",
-      "text": "Night blindness lack of: (variant 86)",
+      "text": "Night blindness is caused by the deficiency of which vitamin? (variant 86)",
       "options": [
         "D",
         "K",
@@ -1123,7 +1123,7 @@
     },
     {
       "id": "fdn_087",
-      "text": "Balanced diet: (variant 87)",
+      "text": "What does a balanced diet contain? (variant 87)",
       "options": [
         "Only two",
         "All nutrients right proportion",
@@ -1136,7 +1136,7 @@
     },
     {
       "id": "fdn_088",
-      "text": "Boiling uses: (variant 88)",
+      "text": "What is used as the cooking medium in boiling? (variant 88)",
       "options": [
         "Water",
         "Oil",
@@ -1149,7 +1149,7 @@
     },
     {
       "id": "fdn_089",
-      "text": "Frying uses: (variant 89)",
+      "text": "What is used as the cooking medium in frying? (variant 89)",
       "options": [
         "Water",
         "No oil",
@@ -1162,7 +1162,7 @@
     },
     {
       "id": "fdn_090",
-      "text": "Baking is: (variant 90)",
+      "text": "What type of heat is used in baking? (variant 90)",
       "options": [
         "Frying",
         "No dry heat",
@@ -1175,7 +1175,7 @@
     },
     {
       "id": "fdn_091",
-      "text": "Colostrum is: (variant 91)",
+      "text": "What is colostrum in the context of infant nutrition? (variant 91)",
       "options": [
         "Only water",
         "First milk",
@@ -1188,7 +1188,7 @@
     },
     {
       "id": "fdn_092",
-      "text": "1g carb gives: (variant 92)",
+      "text": "How many calories does one gram of carbohydrate provide? (variant 92)",
       "options": [
         "4 calories",
         "9 calories",
@@ -1201,7 +1201,7 @@
     },
     {
       "id": "fdn_093",
-      "text": "1g fat gives: (variant 93)",
+      "text": "How many calories does one gram of fat provide? (variant 93)",
       "options": [
         "4",
         "0",
@@ -1214,7 +1214,7 @@
     },
     {
       "id": "fdn_094",
-      "text": "Roughage for: (variant 94)",
+      "text": "What is the primary function of roughage in the diet? (variant 94)",
       "options": [
         "Fat",
         "No nutrient",
@@ -1227,7 +1227,7 @@
     },
     {
       "id": "fdn_095",
-      "text": "Digestion starts in: (variant 95)",
+      "text": "In which part of the body does digestion begin? (variant 95)",
       "options": [
         "Large",
         "Mouth",
@@ -1240,7 +1240,7 @@
     },
     {
       "id": "fdn_096",
-      "text": "NAFDAC controls: (variant 96)",
+      "text": "What does NAFDAC regulate in Nigeria? (variant 96)",
       "options": [
         "Food and drug",
         "No control",
@@ -1253,7 +1253,7 @@
     },
     {
       "id": "fdn_097",
-      "text": "BMI means: (variant 97)",
+      "text": "What does the acronym BMI stand for? (variant 97)",
       "options": [
         "No index",
         "Only body",
@@ -1266,7 +1266,7 @@
     },
     {
       "id": "fdn_098",
-      "text": "Normal BMI: (variant 98)",
+      "text": "What is the normal range for Body Mass Index? (variant 98)",
       "options": [
         "10-15",
         "No range",
@@ -1279,7 +1279,7 @@
     },
     {
       "id": "fdn_099",
-      "text": "Food security means: (variant 99)",
+      "text": "What does the term food security mean? (variant 99)",
       "options": [
         "Only safe",
         "Access sufficient safe nutritious",
@@ -1292,7 +1292,7 @@
     },
     {
       "id": "fdn_100",
-      "text": "Kitchen for: (variant 100)",
+      "text": "What is the primary purpose of a kitchen? (variant 100)",
       "options": [
         "Cooking",
         "No cooking",
@@ -1305,7 +1305,7 @@
     },
     {
       "id": "fdn_101",
-      "text": "Food classes: (variant 101)",
+      "text": "How many classes of food are there? (variant 101)",
       "options": [
         "3",
         "2",
@@ -1318,7 +1318,7 @@
     },
     {
       "id": "fdn_102",
-      "text": "Carb provides: (variant 102)",
+      "text": "What does carbohydrate primarily provide to the body? (variant 102)",
       "options": [
         "No energy",
         "Only protection",
@@ -1331,7 +1331,7 @@
     },
     {
       "id": "fdn_103",
-      "text": "Protein for: (variant 103)",
+      "text": "What is the primary function of protein in the body? (variant 103)",
       "options": [
         "Only protection",
         "Body building",
@@ -1344,7 +1344,7 @@
     },
     {
       "id": "fdn_104",
-      "text": "Scurvy lack of: (variant 104)",
+      "text": "Scurvy is caused by the deficiency of which vitamin? (variant 104)",
       "options": [
         "Vitamin C",
         "A",
@@ -1357,7 +1357,7 @@
     },
     {
       "id": "fdn_105",
-      "text": "Rickets lack of: (variant 105)",
+      "text": "Rickets is caused by the deficiency of which vitamin? (variant 105)",
       "options": [
         "C",
         "A",
@@ -1370,7 +1370,7 @@
     },
     {
       "id": "fdn_106",
-      "text": "Night blindness lack of: (variant 106)",
+      "text": "Night blindness is caused by the deficiency of which vitamin? (variant 106)",
       "options": [
         "D",
         "K",
@@ -1383,7 +1383,7 @@
     },
     {
       "id": "fdn_107",
-      "text": "Balanced diet: (variant 107)",
+      "text": "What does a balanced diet contain? (variant 107)",
       "options": [
         "Only two",
         "All nutrients right proportion",
@@ -1396,7 +1396,7 @@
     },
     {
       "id": "fdn_108",
-      "text": "Boiling uses: (variant 108)",
+      "text": "What is used as the cooking medium in boiling? (variant 108)",
       "options": [
         "Water",
         "Oil",
@@ -1409,7 +1409,7 @@
     },
     {
       "id": "fdn_109",
-      "text": "Frying uses: (variant 109)",
+      "text": "What is used as the cooking medium in frying? (variant 109)",
       "options": [
         "Water",
         "No oil",
@@ -1422,7 +1422,7 @@
     },
     {
       "id": "fdn_110",
-      "text": "Baking is: (variant 110)",
+      "text": "What type of heat is used in baking? (variant 110)",
       "options": [
         "Frying",
         "No dry heat",
@@ -1435,7 +1435,7 @@
     },
     {
       "id": "fdn_111",
-      "text": "Colostrum is: (variant 111)",
+      "text": "What is colostrum in the context of infant nutrition? (variant 111)",
       "options": [
         "Only water",
         "First milk",
@@ -1448,7 +1448,7 @@
     },
     {
       "id": "fdn_112",
-      "text": "1g carb gives: (variant 112)",
+      "text": "How many calories does one gram of carbohydrate provide? (variant 112)",
       "options": [
         "4 calories",
         "9 calories",
@@ -1461,7 +1461,7 @@
     },
     {
       "id": "fdn_113",
-      "text": "1g fat gives: (variant 113)",
+      "text": "How many calories does one gram of fat provide? (variant 113)",
       "options": [
         "4",
         "0",
@@ -1474,7 +1474,7 @@
     },
     {
       "id": "fdn_114",
-      "text": "Roughage for: (variant 114)",
+      "text": "What is the primary function of roughage in the diet? (variant 114)",
       "options": [
         "Fat",
         "No nutrient",
@@ -1487,7 +1487,7 @@
     },
     {
       "id": "fdn_115",
-      "text": "Digestion starts in: (variant 115)",
+      "text": "In which part of the body does digestion begin? (variant 115)",
       "options": [
         "Large",
         "Mouth",
@@ -1500,7 +1500,7 @@
     },
     {
       "id": "fdn_116",
-      "text": "NAFDAC controls: (variant 116)",
+      "text": "What does NAFDAC regulate in Nigeria? (variant 116)",
       "options": [
         "Food and drug",
         "No control",
@@ -1513,7 +1513,7 @@
     },
     {
       "id": "fdn_117",
-      "text": "BMI means: (variant 117)",
+      "text": "What does the acronym BMI stand for? (variant 117)",
       "options": [
         "No index",
         "Only body",
@@ -1526,7 +1526,7 @@
     },
     {
       "id": "fdn_118",
-      "text": "Normal BMI: (variant 118)",
+      "text": "What is the normal range for Body Mass Index? (variant 118)",
       "options": [
         "10-15",
         "No range",
@@ -1539,7 +1539,7 @@
     },
     {
       "id": "fdn_119",
-      "text": "Food security means: (variant 119)",
+      "text": "What does the term food security mean? (variant 119)",
       "options": [
         "Only safe",
         "Access sufficient safe nutritious",
@@ -1552,7 +1552,7 @@
     },
     {
       "id": "fdn_120",
-      "text": "Kitchen for: (variant 120)",
+      "text": "What is the primary purpose of a kitchen? (variant 120)",
       "options": [
         "Cooking",
         "No cooking",
@@ -1565,7 +1565,7 @@
     },
     {
       "id": "fdn_121",
-      "text": "Food classes: (variant 121)",
+      "text": "How many classes of food are there? (variant 121)",
       "options": [
         "3",
         "2",
@@ -1578,7 +1578,7 @@
     },
     {
       "id": "fdn_122",
-      "text": "Carb provides: (variant 122)",
+      "text": "What does carbohydrate primarily provide to the body? (variant 122)",
       "options": [
         "No energy",
         "Only protection",
@@ -1591,7 +1591,7 @@
     },
     {
       "id": "fdn_123",
-      "text": "Protein for: (variant 123)",
+      "text": "What is the primary function of protein in the body? (variant 123)",
       "options": [
         "Only protection",
         "Body building",
@@ -1604,7 +1604,7 @@
     },
     {
       "id": "fdn_124",
-      "text": "Scurvy lack of: (variant 124)",
+      "text": "Scurvy is caused by the deficiency of which vitamin? (variant 124)",
       "options": [
         "Vitamin C",
         "A",
@@ -1617,7 +1617,7 @@
     },
     {
       "id": "fdn_125",
-      "text": "Rickets lack of: (variant 125)",
+      "text": "Rickets is caused by the deficiency of which vitamin? (variant 125)",
       "options": [
         "C",
         "A",
@@ -1630,7 +1630,7 @@
     },
     {
       "id": "fdn_126",
-      "text": "Night blindness lack of: (variant 126)",
+      "text": "Night blindness is caused by the deficiency of which vitamin? (variant 126)",
       "options": [
         "D",
         "K",
@@ -1643,7 +1643,7 @@
     },
     {
       "id": "fdn_127",
-      "text": "Balanced diet: (variant 127)",
+      "text": "What does a balanced diet contain? (variant 127)",
       "options": [
         "Only two",
         "All nutrients right proportion",
@@ -1656,7 +1656,7 @@
     },
     {
       "id": "fdn_128",
-      "text": "Boiling uses: (variant 128)",
+      "text": "What is used as the cooking medium in boiling? (variant 128)",
       "options": [
         "Water",
         "Oil",
@@ -1669,7 +1669,7 @@
     },
     {
       "id": "fdn_129",
-      "text": "Frying uses: (variant 129)",
+      "text": "What is used as the cooking medium in frying? (variant 129)",
       "options": [
         "Water",
         "No oil",
@@ -1682,7 +1682,7 @@
     },
     {
       "id": "fdn_130",
-      "text": "Baking is: (variant 130)",
+      "text": "What type of heat is used in baking? (variant 130)",
       "options": [
         "Frying",
         "No dry heat",
@@ -1695,7 +1695,7 @@
     },
     {
       "id": "fdn_131",
-      "text": "Colostrum is: (variant 131)",
+      "text": "What is colostrum in the context of infant nutrition? (variant 131)",
       "options": [
         "Only water",
         "First milk",
@@ -1708,7 +1708,7 @@
     },
     {
       "id": "fdn_132",
-      "text": "1g carb gives: (variant 132)",
+      "text": "How many calories does one gram of carbohydrate provide? (variant 132)",
       "options": [
         "4 calories",
         "9 calories",
@@ -1721,7 +1721,7 @@
     },
     {
       "id": "fdn_133",
-      "text": "1g fat gives: (variant 133)",
+      "text": "How many calories does one gram of fat provide? (variant 133)",
       "options": [
         "4",
         "0",
@@ -1734,7 +1734,7 @@
     },
     {
       "id": "fdn_134",
-      "text": "Roughage for: (variant 134)",
+      "text": "What is the primary function of roughage in the diet? (variant 134)",
       "options": [
         "Fat",
         "No nutrient",
@@ -1747,7 +1747,7 @@
     },
     {
       "id": "fdn_135",
-      "text": "Digestion starts in: (variant 135)",
+      "text": "In which part of the body does digestion begin? (variant 135)",
       "options": [
         "Large",
         "Mouth",
@@ -1760,7 +1760,7 @@
     },
     {
       "id": "fdn_136",
-      "text": "NAFDAC controls: (variant 136)",
+      "text": "What does NAFDAC regulate in Nigeria? (variant 136)",
       "options": [
         "Food and drug",
         "No control",
@@ -1773,7 +1773,7 @@
     },
     {
       "id": "fdn_137",
-      "text": "BMI means: (variant 137)",
+      "text": "What does the acronym BMI stand for? (variant 137)",
       "options": [
         "No index",
         "Only body",
@@ -1786,7 +1786,7 @@
     },
     {
       "id": "fdn_138",
-      "text": "Normal BMI: (variant 138)",
+      "text": "What is the normal range for Body Mass Index? (variant 138)",
       "options": [
         "10-15",
         "No range",
@@ -1799,7 +1799,7 @@
     },
     {
       "id": "fdn_139",
-      "text": "Food security means: (variant 139)",
+      "text": "What does the term food security mean? (variant 139)",
       "options": [
         "Only safe",
         "Access sufficient safe nutritious",
@@ -1812,7 +1812,7 @@
     },
     {
       "id": "fdn_140",
-      "text": "Kitchen for: (variant 140)",
+      "text": "What is the primary purpose of a kitchen? (variant 140)",
       "options": [
         "Cooking",
         "No cooking",
@@ -1825,7 +1825,7 @@
     },
     {
       "id": "fdn_141",
-      "text": "Food classes: (variant 141)",
+      "text": "How many classes of food are there? (variant 141)",
       "options": [
         "3",
         "2",
@@ -1838,7 +1838,7 @@
     },
     {
       "id": "fdn_142",
-      "text": "Carb provides: (variant 142)",
+      "text": "What does carbohydrate primarily provide to the body? (variant 142)",
       "options": [
         "No energy",
         "Only protection",
@@ -1851,7 +1851,7 @@
     },
     {
       "id": "fdn_143",
-      "text": "Protein for: (variant 143)",
+      "text": "What is the primary function of protein in the body? (variant 143)",
       "options": [
         "Only protection",
         "Body building",
@@ -1864,7 +1864,7 @@
     },
     {
       "id": "fdn_144",
-      "text": "Scurvy lack of: (variant 144)",
+      "text": "Scurvy is caused by the deficiency of which vitamin? (variant 144)",
       "options": [
         "Vitamin C",
         "A",
@@ -1877,7 +1877,7 @@
     },
     {
       "id": "fdn_145",
-      "text": "Rickets lack of: (variant 145)",
+      "text": "Rickets is caused by the deficiency of which vitamin? (variant 145)",
       "options": [
         "C",
         "A",
@@ -1890,7 +1890,7 @@
     },
     {
       "id": "fdn_146",
-      "text": "Night blindness lack of: (variant 146)",
+      "text": "Night blindness is caused by the deficiency of which vitamin? (variant 146)",
       "options": [
         "D",
         "K",
@@ -1903,7 +1903,7 @@
     },
     {
       "id": "fdn_147",
-      "text": "Balanced diet: (variant 147)",
+      "text": "What does a balanced diet contain? (variant 147)",
       "options": [
         "Only two",
         "All nutrients right proportion",
@@ -1916,7 +1916,7 @@
     },
     {
       "id": "fdn_148",
-      "text": "Boiling uses: (variant 148)",
+      "text": "What is used as the cooking medium in boiling? (variant 148)",
       "options": [
         "Water",
         "Oil",
@@ -1929,7 +1929,7 @@
     },
     {
       "id": "fdn_149",
-      "text": "Frying uses: (variant 149)",
+      "text": "What is used as the cooking medium in frying? (variant 149)",
       "options": [
         "Water",
         "No oil",
@@ -1942,7 +1942,7 @@
     },
     {
       "id": "fdn_150",
-      "text": "Baking is: (variant 150)",
+      "text": "What type of heat is used in baking? (variant 150)",
       "options": [
         "Frying",
         "No dry heat",
@@ -1955,7 +1955,7 @@
     },
     {
       "id": "fdn_151",
-      "text": "Colostrum is: (variant 151)",
+      "text": "What is colostrum in the context of infant nutrition? (variant 151)",
       "options": [
         "Only water",
         "First milk",
@@ -1968,7 +1968,7 @@
     },
     {
       "id": "fdn_152",
-      "text": "1g carb gives: (variant 152)",
+      "text": "How many calories does one gram of carbohydrate provide? (variant 152)",
       "options": [
         "4 calories",
         "9 calories",
@@ -1981,7 +1981,7 @@
     },
     {
       "id": "fdn_153",
-      "text": "1g fat gives: (variant 153)",
+      "text": "How many calories does one gram of fat provide? (variant 153)",
       "options": [
         "4",
         "0",
@@ -1994,7 +1994,7 @@
     },
     {
       "id": "fdn_154",
-      "text": "Roughage for: (variant 154)",
+      "text": "What is the primary function of roughage in the diet? (variant 154)",
       "options": [
         "Fat",
         "No nutrient",
@@ -2007,7 +2007,7 @@
     },
     {
       "id": "fdn_155",
-      "text": "Digestion starts in: (variant 155)",
+      "text": "In which part of the body does digestion begin? (variant 155)",
       "options": [
         "Large",
         "Mouth",
@@ -2020,7 +2020,7 @@
     },
     {
       "id": "fdn_156",
-      "text": "NAFDAC controls: (variant 156)",
+      "text": "What does NAFDAC regulate in Nigeria? (variant 156)",
       "options": [
         "Food and drug",
         "No control",
@@ -2033,7 +2033,7 @@
     },
     {
       "id": "fdn_157",
-      "text": "BMI means: (variant 157)",
+      "text": "What does the acronym BMI stand for? (variant 157)",
       "options": [
         "No index",
         "Only body",
@@ -2046,7 +2046,7 @@
     },
     {
       "id": "fdn_158",
-      "text": "Normal BMI: (variant 158)",
+      "text": "What is the normal range for Body Mass Index? (variant 158)",
       "options": [
         "10-15",
         "No range",
@@ -2059,7 +2059,7 @@
     },
     {
       "id": "fdn_159",
-      "text": "Food security means: (variant 159)",
+      "text": "What does the term food security mean? (variant 159)",
       "options": [
         "Only safe",
         "Access sufficient safe nutritious",
@@ -2072,7 +2072,7 @@
     },
     {
       "id": "fdn_160",
-      "text": "Kitchen for: (variant 160)",
+      "text": "What is the primary purpose of a kitchen? (variant 160)",
       "options": [
         "Cooking",
         "No cooking",
@@ -2085,7 +2085,7 @@
     },
     {
       "id": "fdn_161",
-      "text": "Food classes: (variant 161)",
+      "text": "How many classes of food are there? (variant 161)",
       "options": [
         "3",
         "2",
@@ -2098,7 +2098,7 @@
     },
     {
       "id": "fdn_162",
-      "text": "Carb provides: (variant 162)",
+      "text": "What does carbohydrate primarily provide to the body? (variant 162)",
       "options": [
         "No energy",
         "Only protection",
@@ -2111,7 +2111,7 @@
     },
     {
       "id": "fdn_163",
-      "text": "Protein for: (variant 163)",
+      "text": "What is the primary function of protein in the body? (variant 163)",
       "options": [
         "Only protection",
         "Body building",
@@ -2124,7 +2124,7 @@
     },
     {
       "id": "fdn_164",
-      "text": "Scurvy lack of: (variant 164)",
+      "text": "Scurvy is caused by the deficiency of which vitamin? (variant 164)",
       "options": [
         "Vitamin C",
         "A",
@@ -2137,7 +2137,7 @@
     },
     {
       "id": "fdn_165",
-      "text": "Rickets lack of: (variant 165)",
+      "text": "Rickets is caused by the deficiency of which vitamin? (variant 165)",
       "options": [
         "C",
         "A",
@@ -2150,7 +2150,7 @@
     },
     {
       "id": "fdn_166",
-      "text": "Night blindness lack of: (variant 166)",
+      "text": "Night blindness is caused by the deficiency of which vitamin? (variant 166)",
       "options": [
         "D",
         "K",
@@ -2163,7 +2163,7 @@
     },
     {
       "id": "fdn_167",
-      "text": "Balanced diet: (variant 167)",
+      "text": "What does a balanced diet contain? (variant 167)",
       "options": [
         "Only two",
         "All nutrients right proportion",
@@ -2176,7 +2176,7 @@
     },
     {
       "id": "fdn_168",
-      "text": "Boiling uses: (variant 168)",
+      "text": "What is used as the cooking medium in boiling? (variant 168)",
       "options": [
         "Water",
         "Oil",
@@ -2189,7 +2189,7 @@
     },
     {
       "id": "fdn_169",
-      "text": "Frying uses: (variant 169)",
+      "text": "What is used as the cooking medium in frying? (variant 169)",
       "options": [
         "Water",
         "No oil",
@@ -2202,7 +2202,7 @@
     },
     {
       "id": "fdn_170",
-      "text": "Baking is: (variant 170)",
+      "text": "What type of heat is used in baking? (variant 170)",
       "options": [
         "Frying",
         "No dry heat",
@@ -2215,7 +2215,7 @@
     },
     {
       "id": "fdn_171",
-      "text": "Colostrum is: (variant 171)",
+      "text": "What is colostrum in the context of infant nutrition? (variant 171)",
       "options": [
         "Only water",
         "First milk",
@@ -2228,7 +2228,7 @@
     },
     {
       "id": "fdn_172",
-      "text": "1g carb gives: (variant 172)",
+      "text": "How many calories does one gram of carbohydrate provide? (variant 172)",
       "options": [
         "4 calories",
         "9 calories",
@@ -2241,7 +2241,7 @@
     },
     {
       "id": "fdn_173",
-      "text": "1g fat gives: (variant 173)",
+      "text": "How many calories does one gram of fat provide? (variant 173)",
       "options": [
         "4",
         "0",
@@ -2254,7 +2254,7 @@
     },
     {
       "id": "fdn_174",
-      "text": "Roughage for: (variant 174)",
+      "text": "What is the primary function of roughage in the diet? (variant 174)",
       "options": [
         "Fat",
         "No nutrient",
@@ -2267,7 +2267,7 @@
     },
     {
       "id": "fdn_175",
-      "text": "Digestion starts in: (variant 175)",
+      "text": "In which part of the body does digestion begin? (variant 175)",
       "options": [
         "Large",
         "Mouth",
@@ -2280,7 +2280,7 @@
     },
     {
       "id": "fdn_176",
-      "text": "NAFDAC controls: (variant 176)",
+      "text": "What does NAFDAC regulate in Nigeria? (variant 176)",
       "options": [
         "Food and drug",
         "No control",
@@ -2293,7 +2293,7 @@
     },
     {
       "id": "fdn_177",
-      "text": "BMI means: (variant 177)",
+      "text": "What does the acronym BMI stand for? (variant 177)",
       "options": [
         "No index",
         "Only body",
@@ -2306,7 +2306,7 @@
     },
     {
       "id": "fdn_178",
-      "text": "Normal BMI: (variant 178)",
+      "text": "What is the normal range for Body Mass Index? (variant 178)",
       "options": [
         "10-15",
         "No range",
@@ -2319,7 +2319,7 @@
     },
     {
       "id": "fdn_179",
-      "text": "Food security means: (variant 179)",
+      "text": "What does the term food security mean? (variant 179)",
       "options": [
         "Only safe",
         "Access sufficient safe nutritious",
@@ -2332,7 +2332,7 @@
     },
     {
       "id": "fdn_180",
-      "text": "Kitchen for: (variant 180)",
+      "text": "What is the primary purpose of a kitchen? (variant 180)",
       "options": [
         "Cooking",
         "No cooking",
@@ -2345,7 +2345,7 @@
     },
     {
       "id": "fdn_181",
-      "text": "Food classes: (variant 181)",
+      "text": "How many classes of food are there? (variant 181)",
       "options": [
         "3",
         "2",
@@ -2358,7 +2358,7 @@
     },
     {
       "id": "fdn_182",
-      "text": "Carb provides: (variant 182)",
+      "text": "What does carbohydrate primarily provide to the body? (variant 182)",
       "options": [
         "No energy",
         "Only protection",
@@ -2371,7 +2371,7 @@
     },
     {
       "id": "fdn_183",
-      "text": "Protein for: (variant 183)",
+      "text": "What is the primary function of protein in the body? (variant 183)",
       "options": [
         "Only protection",
         "Body building",
@@ -2384,7 +2384,7 @@
     },
     {
       "id": "fdn_184",
-      "text": "Scurvy lack of: (variant 184)",
+      "text": "Scurvy is caused by the deficiency of which vitamin? (variant 184)",
       "options": [
         "Vitamin C",
         "A",
@@ -2397,7 +2397,7 @@
     },
     {
       "id": "fdn_185",
-      "text": "Rickets lack of: (variant 185)",
+      "text": "Rickets is caused by the deficiency of which vitamin? (variant 185)",
       "options": [
         "C",
         "A",
@@ -2410,7 +2410,7 @@
     },
     {
       "id": "fdn_186",
-      "text": "Night blindness lack of: (variant 186)",
+      "text": "Night blindness is caused by the deficiency of which vitamin? (variant 186)",
       "options": [
         "D",
         "K",
@@ -2423,7 +2423,7 @@
     },
     {
       "id": "fdn_187",
-      "text": "Balanced diet: (variant 187)",
+      "text": "What does a balanced diet contain? (variant 187)",
       "options": [
         "Only two",
         "All nutrients right proportion",
@@ -2436,7 +2436,7 @@
     },
     {
       "id": "fdn_188",
-      "text": "Boiling uses: (variant 188)",
+      "text": "What is used as the cooking medium in boiling? (variant 188)",
       "options": [
         "Water",
         "Oil",
@@ -2449,7 +2449,7 @@
     },
     {
       "id": "fdn_189",
-      "text": "Frying uses: (variant 189)",
+      "text": "What is used as the cooking medium in frying? (variant 189)",
       "options": [
         "Water",
         "No oil",
@@ -2462,7 +2462,7 @@
     },
     {
       "id": "fdn_190",
-      "text": "Baking is: (variant 190)",
+      "text": "What type of heat is used in baking? (variant 190)",
       "options": [
         "Frying",
         "No dry heat",
@@ -2475,7 +2475,7 @@
     },
     {
       "id": "fdn_191",
-      "text": "Colostrum is: (variant 191)",
+      "text": "What is colostrum in the context of infant nutrition? (variant 191)",
       "options": [
         "Only water",
         "First milk",
@@ -2488,7 +2488,7 @@
     },
     {
       "id": "fdn_192",
-      "text": "1g carb gives: (variant 192)",
+      "text": "How many calories does one gram of carbohydrate provide? (variant 192)",
       "options": [
         "4 calories",
         "9 calories",
@@ -2501,7 +2501,7 @@
     },
     {
       "id": "fdn_193",
-      "text": "1g fat gives: (variant 193)",
+      "text": "How many calories does one gram of fat provide? (variant 193)",
       "options": [
         "4",
         "0",
@@ -2514,7 +2514,7 @@
     },
     {
       "id": "fdn_194",
-      "text": "Roughage for: (variant 194)",
+      "text": "What is the primary function of roughage in the diet? (variant 194)",
       "options": [
         "Fat",
         "No nutrient",
@@ -2527,7 +2527,7 @@
     },
     {
       "id": "fdn_195",
-      "text": "Digestion starts in: (variant 195)",
+      "text": "In which part of the body does digestion begin? (variant 195)",
       "options": [
         "Large",
         "Mouth",
@@ -2540,7 +2540,7 @@
     },
     {
       "id": "fdn_196",
-      "text": "NAFDAC controls: (variant 196)",
+      "text": "What does NAFDAC regulate in Nigeria? (variant 196)",
       "options": [
         "Food and drug",
         "No control",
@@ -2553,7 +2553,7 @@
     },
     {
       "id": "fdn_197",
-      "text": "BMI means: (variant 197)",
+      "text": "What does the acronym BMI stand for? (variant 197)",
       "options": [
         "No index",
         "Only body",
@@ -2566,7 +2566,7 @@
     },
     {
       "id": "fdn_198",
-      "text": "Normal BMI: (variant 198)",
+      "text": "What is the normal range for Body Mass Index? (variant 198)",
       "options": [
         "10-15",
         "No range",
@@ -2579,7 +2579,7 @@
     },
     {
       "id": "fdn_199",
-      "text": "Food security means: (variant 199)",
+      "text": "What does the term food security mean? (variant 199)",
       "options": [
         "Only safe",
         "Access sufficient safe nutritious",
@@ -2592,7 +2592,7 @@
     },
     {
       "id": "fdn_200",
-      "text": "Kitchen for: (variant 200)",
+      "text": "What is the primary purpose of a kitchen? (variant 200)",
       "options": [
         "Cooking",
         "No cooking",

@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": "gov_001",
-      "text": "Government is best defined as the:",
+      "text": "Which of the following best describes or relates to Government is best defined as the?",
       "options": [
         "Machinery through which the state exercises power",
         "President",
@@ -31,7 +31,7 @@
     },
     {
       "id": "gov_003",
-      "text": "The three organs of government are:",
+      "text": "Which of the following best describes or relates to The three organs of government are?",
       "options": [
         "Federal, state, local",
         "Legislature, executive, judiciary",
@@ -83,7 +83,7 @@
     },
     {
       "id": "gov_007",
-      "text": "A state is defined by all EXCEPT:",
+      "text": "Which of the following best describes or relates to A state is defined by all EXCEPT?",
       "options": [
         "A single political party",
         "Population",
@@ -96,7 +96,7 @@
     },
     {
       "id": "gov_008",
-      "text": "Sovereignty is the:",
+      "text": "Sovereignty is the supreme political authority of a state over its territory and people.",
       "options": [
         "Wealth of a state",
         "Supreme power of the state",
@@ -109,7 +109,7 @@
     },
     {
       "id": "gov_009",
-      "text": "A nation is a group of people with:",
+      "text": "Which of the following best describes or relates to A nation is a group of people with?",
       "options": [
         "Shared culture, history and identity",
         "Only shared language",
@@ -122,7 +122,7 @@
     },
     {
       "id": "gov_010",
-      "text": "Power is best defined as the:",
+      "text": "Power is best defined as the ability to influence or control others.",
       "options": [
         "Size of an army",
         "Popularity",
@@ -135,7 +135,7 @@
     },
     {
       "id": "gov_011",
-      "text": "Authority is power that is:",
+      "text": "Authority is power that is accepted as legitimate by the people.",
       "options": [
         "Temporary",
         "Illegal",
@@ -148,7 +148,7 @@
     },
     {
       "id": "gov_012",
-      "text": "Legitimacy means the:",
+      "text": "Legitimacy means the people accept a government as rightful and lawful.",
       "options": [
         "Legality of a law",
         "Acceptance of the right to rule",
@@ -161,7 +161,7 @@
     },
     {
       "id": "gov_013",
-      "text": "A constitution is a:",
+      "text": "A constitution is a set of rules and principles governing a state.",
       "options": [
         "Political party",
         "Court ruling",
@@ -265,7 +265,7 @@
     },
     {
       "id": "gov_021",
-      "text": "Checks and balances refers to:",
+      "text": "Checks and balances refers to mechanisms that prevent any branch of government from becoming too powerful.",
       "options": [
         "Each organ checking the others",
         "Military rule",
@@ -278,7 +278,7 @@
     },
     {
       "id": "gov_022",
-      "text": "The rule of law means:",
+      "text": "The rule of law means that every citizen is subject to the law of the land.",
       "options": [
         "Rule by the rich",
         "Rule by one person",
@@ -291,7 +291,7 @@
     },
     {
       "id": "gov_023",
-      "text": "The rule of law was popularised by:",
+      "text": "Which of the following best describes or relates to The rule of law was popularised by?",
       "options": [
         "Marx",
         "Montesquieu",
@@ -304,7 +304,7 @@
     },
     {
       "id": "gov_024",
-      "text": "Socialism advocates:",
+      "text": "Socialism advocates for collective or government ownership of the means of production.",
       "options": [
         "Private ownership",
         "Public ownership of the means of production",
@@ -317,7 +317,7 @@
     },
     {
       "id": "gov_025",
-      "text": "Capitalism advocates:",
+      "text": "Capitalism advocates for private ownership and free market competition.",
       "options": [
         "Private ownership and free markets",
         "Government control",
@@ -330,7 +330,7 @@
     },
     {
       "id": "gov_026",
-      "text": "Communism was propounded by:",
+      "text": "Communism was propounded by Karl Marx and Friedrich Engels.",
       "options": [
         "Keynes",
         "Locke",
@@ -356,7 +356,7 @@
     },
     {
       "id": "gov_028",
-      "text": "Liberalism emphasises:",
+      "text": "Liberalism emphasises individual rights, freedom, and limited government.",
       "options": [
         "State control",
         "Individual freedom and rights",
@@ -382,7 +382,7 @@
     },
     {
       "id": "gov_030",
-      "text": "A bicameral legislature has:",
+      "text": "A bicameral legislature has two chambers or houses.",
       "options": [
         "Three houses",
         "No houses",
@@ -395,7 +395,7 @@
     },
     {
       "id": "gov_031",
-      "text": "A unicameral legislature has:",
+      "text": "A unicameral legislature has only one chamber or house.",
       "options": [
         "No houses",
         "Two houses",
@@ -408,7 +408,7 @@
     },
     {
       "id": "gov_032",
-      "text": "Nigeria's federal legislature is:",
+      "text": "Which of the following best describes or relates to Nigeria's federal legislature is?",
       "options": [
         "Unicameral",
         "Bicameral",
@@ -525,7 +525,7 @@
     },
     {
       "id": "gov_041",
-      "text": "Nigeria became a federation in:",
+      "text": "Nigeria became a federation in the year 1963.",
       "options": [
         "1954",
         "1946",
@@ -538,7 +538,7 @@
     },
     {
       "id": "gov_042",
-      "text": "The number of states in Nigeria is:",
+      "text": "Which of the following best describes or relates to The number of states in Nigeria is?",
       "options": [
         "40",
         "25",
@@ -564,7 +564,7 @@
     },
     {
       "id": "gov_044",
-      "text": "The former capital of Nigeria was:",
+      "text": "Which of the following best describes or relates to The former capital of Nigeria was?",
       "options": [
         "Abuja",
         "Lagos",
@@ -642,7 +642,7 @@
     },
     {
       "id": "gov_050",
-      "text": "Citizenship is the:",
+      "text": "Citizenship is the legal status of belonging to a particular state or country.",
       "options": [
         "Visiting a country",
         "Paying tax",
@@ -655,7 +655,7 @@
     },
     {
       "id": "gov_051",
-      "text": "Citizenship by birth is called:",
+      "text": "Citizenship by birth is called natural citizenship.",
       "options": [
         "Marriage",
         "Naturalisation",
@@ -707,7 +707,7 @@
     },
     {
       "id": "gov_055",
-      "text": "A duty of a citizen is to:",
+      "text": "A duty of a citizen is to pay taxes and obey the law.",
       "options": [
         "Own property",
         "Vote only",
@@ -746,7 +746,7 @@
     },
     {
       "id": "gov_058",
-      "text": "A one-party system exists when:",
+      "text": "A one-party system exists when only one political party is legally allowed to govern.",
       "options": [
         "No parties exist",
         "Two parties exist",
@@ -759,7 +759,7 @@
     },
     {
       "id": "gov_059",
-      "text": "A two-party system has:",
+      "text": "A two-party system has two major parties competing for power.",
       "options": [
         "No parties",
         "One dominant party",
@@ -772,7 +772,7 @@
     },
     {
       "id": "gov_060",
-      "text": "A multi-party system has:",
+      "text": "A multi-party system has several political parties competing for government.",
       "options": [
         "One party",
         "Two parties",
@@ -785,7 +785,7 @@
     },
     {
       "id": "gov_061",
-      "text": "Nigeria operates a:",
+      "text": "Nigeria operates a multi-party system of government.",
       "options": [
         "Two-party system",
         "Multi-party system",
@@ -837,7 +837,7 @@
     },
     {
       "id": "gov_065",
-      "text": "INEC stands for:",
+      "text": "INEC stands for the Independent National Electoral Commission.",
       "options": [
         "Internal National Electoral Council",
         "Independent Nigerian Electoral Committee",
@@ -889,7 +889,7 @@
     },
     {
       "id": "gov_069",
-      "text": "Public opinion is the:",
+      "text": "Public opinion is the collective views of citizens on political issues.",
       "options": [
         "Aggregate of citizens' views on issues",
         "Judges' view",
@@ -915,7 +915,7 @@
     },
     {
       "id": "gov_071",
-      "text": "An election is the process of:",
+      "text": "An election is the process of choosing representatives by popular vote.",
       "options": [
         "Appointing judges",
         "Making laws",
@@ -928,7 +928,7 @@
     },
     {
       "id": "gov_072",
-      "text": "A referendum is a:",
+      "text": "A referendum is a direct vote by citizens on a specific political question.",
       "options": [
         "General election",
         "Direct vote by citizens on a specific issue",
@@ -941,7 +941,7 @@
     },
     {
       "id": "gov_073",
-      "text": "A by-election is held to fill:",
+      "text": "A by-election is held to fill a vacant seat between general elections.",
       "options": [
         "A vacant seat between general elections",
         "The presidency",
@@ -967,7 +967,7 @@
     },
     {
       "id": "gov_075",
-      "text": "The secret ballot means voting is:",
+      "text": "Which of the following best describes or relates to The secret ballot means voting is?",
       "options": [
         "Open",
         "Public",
@@ -980,7 +980,7 @@
     },
     {
       "id": "gov_076",
-      "text": "Gerrymandering is the:",
+      "text": "Gerrymandering is the manipulation of electoral boundaries for political advantage.",
       "options": [
         "Fair drawing of constituencies",
         "Manipulation of constituency boundaries for advantage",
@@ -993,7 +993,7 @@
     },
     {
       "id": "gov_077",
-      "text": "The voting age in Nigeria is:",
+      "text": "The voting age in Nigeria is 18 years old.",
       "options": [
         "18",
         "21",
@@ -1045,7 +1045,7 @@
     },
     {
       "id": "gov_081",
-      "text": "Nigeria gained independence on:",
+      "text": "Nigeria gained independence on the 1st of October 1960.",
       "options": [
         "1 October 1963",
         "1 January 1960",
@@ -1058,7 +1058,7 @@
     },
     {
       "id": "gov_082",
-      "text": "Nigeria became a republic in:",
+      "text": "Nigeria became a republic in the year 1963.",
       "options": [
         "1966",
         "1979",
@@ -1071,7 +1071,7 @@
     },
     {
       "id": "gov_083",
-      "text": "Nigeria's first President was:",
+      "text": "Nigeria's first President was Dr Nnamdi Azikiwe.",
       "options": [
         "Ahmadu Bello",
         "Tafawa Balewa",
@@ -1084,7 +1084,7 @@
     },
     {
       "id": "gov_084",
-      "text": "Nigeria's first Prime Minister was:",
+      "text": "Which of the following best describes or relates to Nigeria's first Prime Minister was?",
       "options": [
         "Nnamdi Azikiwe",
         "Abubakar Tafawa Balewa",
@@ -1110,7 +1110,7 @@
     },
     {
       "id": "gov_086",
-      "text": "The Nigerian Civil War lasted from:",
+      "text": "Which of the following best describes or relates to The Nigerian Civil War lasted from?",
       "options": [
         "1970–1973",
         "1963–1966",
@@ -1305,7 +1305,7 @@
     },
     {
       "id": "gov_101",
-      "text": "The 1999 Constitution established:",
+      "text": "Which of the following best describes or relates to The 1999 Constitution established?",
       "options": [
         "Presidential system",
         "Monarchy",
@@ -1318,7 +1318,7 @@
     },
     {
       "id": "gov_102",
-      "text": "A military government rules by:",
+      "text": "A military government rules by the use of armed forces and decrees.",
       "options": [
         "Referenda",
         "Consensus",
@@ -1331,7 +1331,7 @@
     },
     {
       "id": "gov_103",
-      "text": "A decree is a law made by the:",
+      "text": "A decree is a law made by the head of a military government.",
       "options": [
         "Local council",
         "Legislature",
@@ -1344,7 +1344,7 @@
     },
     {
       "id": "gov_104",
-      "text": "A coup d'état is the:",
+      "text": "A coup d'état is the violent overthrow of a government by the military.",
       "options": [
         "Peaceful transfer of power",
         "Violent seizure of government",
@@ -1370,7 +1370,7 @@
     },
     {
       "id": "gov_106",
-      "text": "Foreign policy is a country's:",
+      "text": "Foreign policy is a country's strategy for dealing with other nations.",
       "options": [
         "Economic plans",
         "Tax policy",
@@ -1396,7 +1396,7 @@
     },
     {
       "id": "gov_108",
-      "text": "The UN was founded in:",
+      "text": "The United Nations was founded in 1945.",
       "options": [
         "1945",
         "1919",
@@ -1409,7 +1409,7 @@
     },
     {
       "id": "gov_109",
-      "text": "The headquarters of the UN is in:",
+      "text": "In which context or location does The headquarters of the UN is apply?",
       "options": [
         "New York",
         "Paris",
@@ -1448,7 +1448,7 @@
     },
     {
       "id": "gov_112",
-      "text": "The AU was formerly called the:",
+      "text": "The African Union was formerly called the Organisation of African Unity (OAU).",
       "options": [
         "ECOWAS",
         "OAU",
@@ -1474,7 +1474,7 @@
     },
     {
       "id": "gov_114",
-      "text": "The AU was founded in:",
+      "text": "The African Union was founded in the year 2001.",
       "options": [
         "1999",
         "1945",
@@ -1487,7 +1487,7 @@
     },
     {
       "id": "gov_115",
-      "text": "The OAU was founded in:",
+      "text": "The Organisation of African Unity (OAU) was founded in 1963.",
       "options": [
         "1975",
         "1963",
@@ -1500,7 +1500,7 @@
     },
     {
       "id": "gov_116",
-      "text": "The headquarters of ECOWAS is in:",
+      "text": "In which context or location does The headquarters of ECOWAS is apply?",
       "options": [
         "Accra",
         "Abuja",
@@ -1552,7 +1552,7 @@
     },
     {
       "id": "gov_120",
-      "text": "The ECOWAS protocol concerns:",
+      "text": "The ECOWAS protocol concerns free movement of goods and persons.",
       "options": [
         "Free movement of persons and goods",
         "Military alliance only",
@@ -1565,7 +1565,7 @@
     },
     {
       "id": "gov_121",
-      "text": "The main organ of the AU is the:",
+      "text": "The main organ of the African Union is the Assembly of Heads of State.",
       "options": [
         "Parliament",
         "Court",
@@ -1578,7 +1578,7 @@
     },
     {
       "id": "gov_122",
-      "text": "The Secretary-General heads the:",
+      "text": "The Secretary-General heads the secretariat of an international organisation.",
       "options": [
         "General Assembly",
         "ECOSOC",
@@ -1656,7 +1656,7 @@
     },
     {
       "id": "gov_128",
-      "text": "The amalgamation of Nigeria was in:",
+      "text": "In which year was The amalgamation of Nigeria was established?",
       "options": [
         "1914",
         "1900",
@@ -1721,7 +1721,7 @@
     },
     {
       "id": "gov_133",
-      "text": "The NCNC was founded by:",
+      "text": "The NCNC was founded by Herbert Macaulay.",
       "options": [
         "Herbert Macaulay and Nnamdi Azikiwe",
         "Ahmadu Bello",
@@ -1734,7 +1734,7 @@
     },
     {
       "id": "gov_134",
-      "text": "The Action Group was founded by:",
+      "text": "The Action Group was founded by Obafemi Awolowo.",
       "options": [
         "Bello",
         "Balewa",
@@ -1747,7 +1747,7 @@
     },
     {
       "id": "gov_135",
-      "text": "The NPC was led by:",
+      "text": "The Northern People's Congress (NPC) was led by Ahmadu Bello.",
       "options": [
         "Ojukwu",
         "Awolowo",
@@ -1929,7 +1929,7 @@
     },
     {
       "id": "gov_149",
-      "text": "The police is headed by the:",
+      "text": "The police force in Nigeria is headed by the Inspector General of Police.",
       "options": [
         "Inspector-General of Police",
         "Attorney-General",
@@ -1942,7 +1942,7 @@
     },
     {
       "id": "gov_150",
-      "text": "The armed forces are headed by the:",
+      "text": "Which of the following best describes or relates to The armed forces are headed by the?",
       "options": [
         "Chief Justice",
         "Senate President",
@@ -2020,7 +2020,7 @@
     },
     {
       "id": "gov_156",
-      "text": "A monarchy is a system ruled by a:",
+      "text": "Which of the following best describes or relates to A monarchy is a system ruled by a?",
       "options": [
         "President",
         "King or Queen",
@@ -2033,7 +2033,7 @@
     },
     {
       "id": "gov_157",
-      "text": "A republic is a state without a:",
+      "text": "A republic is a state without a monarchy, where power is held by elected officials.",
       "options": [
         "Monarch",
         "Government",
@@ -2046,7 +2046,7 @@
     },
     {
       "id": "gov_158",
-      "text": "A dictatorship is characterised by:",
+      "text": "Which of the following best describes or relates to A dictatorship is characterised by?",
       "options": [
         "Rule of law",
         "Multi-party politics",
@@ -2059,7 +2059,7 @@
     },
     {
       "id": "gov_159",
-      "text": "An oligarchy is rule by:",
+      "text": "An oligarchy is rule by a small group of powerful people.",
       "options": [
         "Religious leaders",
         "The people",
@@ -2072,7 +2072,7 @@
     },
     {
       "id": "gov_160",
-      "text": "An aristocracy is rule by the:",
+      "text": "An aristocracy is rule by the privileged upper class or nobility.",
       "options": [
         "Poor",
         "Nobility/privileged class",
@@ -2085,7 +2085,7 @@
     },
     {
       "id": "gov_161",
-      "text": "Democracy is government by:",
+      "text": "Democracy is government by the people, through their elected representatives.",
       "options": [
         "The people",
         "The military",
@@ -2241,7 +2241,7 @@
     },
     {
       "id": "gov_173",
-      "text": "The civil service is the body of:",
+      "text": "Which of the following best describes or relates to The civil service is the body of?",
       "options": [
         "Permanent government officials",
         "Soldiers",
@@ -2280,7 +2280,7 @@
     },
     {
       "id": "gov_176",
-      "text": "A minister is a:",
+      "text": "A minister is a senior government official who heads a ministry or department.",
       "options": [
         "Civil servant",
         "Political appointee heading a ministry",
@@ -2384,7 +2384,7 @@
     },
     {
       "id": "gov_184",
-      "text": "The quorum is the:",
+      "text": "The quorum is the minimum number of members required to conduct business in a legislature.",
       "options": [
         "Maximum members",
         "Minimum members required for a valid meeting",
@@ -2410,7 +2410,7 @@
     },
     {
       "id": "gov_186",
-      "text": "A manifesto is a document stating:",
+      "text": "Which of the following best describes or relates to A manifesto is a document stating?",
       "options": [
         "Tax laws",
         "Census results",
@@ -2423,7 +2423,7 @@
     },
     {
       "id": "gov_187",
-      "text": "The electorate refers to the:",
+      "text": "The electorate refers to the body of people who are eligible to vote.",
       "options": [
         "Parties",
         "Candidates",
@@ -2488,7 +2488,7 @@
     },
     {
       "id": "gov_192",
-      "text": "The NYSC scheme was established in:",
+      "text": "In which year was The NYSC scheme was established established?",
       "options": [
         "1973",
         "1976",
@@ -2527,7 +2527,7 @@
     },
     {
       "id": "gov_195",
-      "text": "The Second Republic lasted from:",
+      "text": "The Second Republic lasted from 1979 to 1983.",
       "options": [
         "1975–1979",
         "1979–1983",
@@ -2592,7 +2592,7 @@
     },
     {
       "id": "gov_200",
-      "text": "The June 12 election was held in:",
+      "text": "In which year was The June 12 election was held established?",
       "options": [
         "1993",
         "1999",
