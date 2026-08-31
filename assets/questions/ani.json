@@ -7,213 +7,213 @@
       "id": "ani_001",
       "text": "What is the definition of Animal Husbandry?",
       "options": [
-        "Only crop",
-        "Only fishing",
-        "No science",
-        "Breeding and caring for farm animals"
+        "Crop farming only",
+        "Fish farming only",
+        "Rearing of domestic animals",
+        "Wild animal hunting"
       ],
-      "correct_index": 3,
-      "explanation": "Breeding caring.",
+      "correct_index": 2,
+      "explanation": "Animal husbandry involves the rearing and management of domestic animals.",
       "difficulty": 1
     },
     {
       "id": "ani_002",
-      "text": "What is a bull in the context of animal husbandry?",
+      "text": "Complete the statement: \"A male cattle is called a\" by choosing the correct option.",
       "options": [
-        "Young",
-        "No cattle",
-        "Male cattle",
-        "Female"
+        "Cow",
+        "Bull",
+        "Heifer",
+        "Calf"
       ],
-      "correct_index": 2,
-      "explanation": "Male cattle.",
+      "correct_index": 1,
+      "explanation": "A male cattle is called a bull.",
       "difficulty": 1
     },
     {
       "id": "ani_003",
-      "text": "What is a cow in the context of animal husbandry?",
+      "text": "A female cattle that has not calved is called a",
       "options": [
-        "No cattle",
-        "Female cattle",
-        "Male",
-        "Young"
+        "Cow",
+        "Bull",
+        "Heifer",
+        "Steer"
       ],
-      "correct_index": 1,
-      "explanation": "Female.",
+      "correct_index": 2,
+      "explanation": "A young female cattle that has not yet given birth is called a heifer.",
       "difficulty": 1
     },
     {
       "id": "ani_004",
-      "text": "What is the gestation period of cattle?",
+      "text": "The gestation period of cattle is approximately",
       "options": [
-        "283 days",
         "150 days",
-        "114 days",
-        "30 days"
+        "210 days",
+        "283 days",
+        "340 days"
       ],
-      "correct_index": 0,
-      "explanation": "283 days.",
+      "correct_index": 2,
+      "explanation": "Cattle have a gestation period of approximately 283 days.",
       "difficulty": 1
     },
     {
       "id": "ani_005",
-      "text": "What is the gestation period of a goat?",
+      "text": "The gestation period of a goat is approximately",
       "options": [
-        "283 days",
-        "114 days",
-        "30 days",
-        "150 days"
+        "90 days",
+        "150 days",
+        "210 days",
+        "283 days"
       ],
-      "correct_index": 3,
-      "explanation": "150 days.",
+      "correct_index": 1,
+      "explanation": "Goats have a gestation period of approximately 150 days.",
       "difficulty": 1
     },
     {
       "id": "ani_006",
-      "text": "What is the incubation period of a chicken?",
+      "text": "The incubation period of a chicken egg is",
       "options": [
-        "30 days",
-        "35 days",
+        "14 days",
         "21 days",
-        "28 days"
+        "28 days",
+        "35 days"
       ],
-      "correct_index": 2,
-      "explanation": "21 days.",
+      "correct_index": 1,
+      "explanation": "Chicken eggs require 21 days of incubation.",
       "difficulty": 1
     },
     {
       "id": "ani_007",
-      "text": "What is calving in animal husbandry?",
+      "text": "What does the term Calving refer to in animal husbandry?",
       "options": [
-        "Pig",
+        "Pigs giving birth",
         "Cattle giving birth",
-        "Sheep",
-        "Goat"
+        "Sheep giving birth",
+        "Goats giving birth"
       ],
       "correct_index": 1,
-      "explanation": "Cattle birth.",
+      "explanation": "Calving is the process of cattle giving birth.",
       "difficulty": 1
     },
     {
       "id": "ani_008",
-      "text": "What is lactation in animal husbandry?",
+      "text": "The process of milk secretion by the mammary gland after parturition is called",
       "options": [
-        "Milk production",
         "Gestation",
-        "Incubation",
-        "Parturition"
+        "Lactation",
+        "Rumination",
+        "Incubation"
       ],
-      "correct_index": 0,
-      "explanation": "Milk.",
+      "correct_index": 1,
+      "explanation": "Lactation is the production and secretion of milk.",
       "difficulty": 1
     },
     {
       "id": "ani_009",
-      "text": "What is an extensive system of animal production?",
+      "text": "An extensive system of animal production is characterised by",
       "options": [
-        "Confined",
-        "No system",
-        "Only intensive",
-        "Free range"
+        "Confinement in housing",
+        "Free range grazing",
+        "High capital input",
+        "Use of battery cages"
       ],
-      "correct_index": 3,
-      "explanation": "Free range.",
+      "correct_index": 1,
+      "explanation": "In extensive systems, animals graze freely on pasture.",
       "difficulty": 1
     },
     {
       "id": "ani_010",
-      "text": "What are battery cages used for in poultry production?",
+      "text": "Battery cages are primarily used in the production of",
       "options": [
         "Cattle",
-        "Goats",
+        "Sheep",
         "Layers",
-        "Broilers"
+        "Pigs"
       ],
       "correct_index": 2,
-      "explanation": "Layers.",
+      "explanation": "Battery cages are used to house laying birds.",
       "difficulty": 1
     },
     {
       "id": "ani_011",
-      "text": "What is the definition of the White Fulani?",
+      "text": "Complete the statement: \"The White Fulani is a breed of\" by choosing the correct option.",
       "options": [
-        "Pig",
-        "Cattle breed",
         "Sheep",
-        "Goat"
+        "Goat",
+        "Cattle",
+        "Pig"
       ],
-      "correct_index": 1,
-      "explanation": "Cattle.",
+      "correct_index": 2,
+      "explanation": "White Fulani (also called Bunaji) is a breed of cattle in West Africa.",
       "difficulty": 1
     },
     {
       "id": "ani_012",
-      "text": "What is castration in animal husbandry?",
+      "text": "Castration in male animals involves the removal of the",
       "options": [
-        "Removal testes",
-        "Removal horns",
-        "No removal",
-        "Only tail"
+        "Horns",
+        "Tail",
+        "Testes",
+        "Hooves"
       ],
-      "correct_index": 0,
-      "explanation": "Removal testes.",
+      "correct_index": 2,
+      "explanation": "Castration is the removal of the testes from a male animal.",
       "difficulty": 1
     },
     {
       "id": "ani_013",
-      "text": "What type of animal does Newcastle disease affect?",
+      "text": "Complete the statement: \"Newcastle disease primarily affects\" by choosing the correct option.",
       "options": [
         "Cattle",
-        "Goats",
         "Sheep",
+        "Goats",
         "Poultry"
       ],
       "correct_index": 3,
-      "explanation": "Poultry.",
+      "explanation": "Newcastle disease is a viral disease of poultry.",
       "difficulty": 1
     },
     {
       "id": "ani_014",
-      "text": "The tsetse fly is a vector of which disease?",
+      "text": "Complete the statement: \"The tsetse fly is the vector of\" by choosing the correct option.",
       "options": [
-        "No disease",
-        "Only fever",
+        "Rinderpest",
+        "Anthrax",
         "Trypanosomiasis",
-        "Malaria"
+        "Mastitis"
       ],
       "correct_index": 2,
-      "explanation": "Trypanosomiasis.",
+      "explanation": "Trypanosomiasis (sleeping sickness) is transmitted by the tsetse fly.",
       "difficulty": 2
     },
     {
       "id": "ani_015",
-      "text": "What does protein build in the body?",
+      "text": "Which class of animal feed is mainly used for body tissue building?",
       "options": [
-        "Only fat",
-        "Body tissues",
-        "No tissues",
-        "Only energy"
+        "Carbohydrates",
+        "Proteins",
+        "Fats",
+        "Vitamins"
       ],
       "correct_index": 1,
-      "explanation": "Tissues.",
+      "explanation": "Proteins are responsible for body tissue growth and repair.",
       "difficulty": 1
     },
     {
       "id": "ani_016",
-      "text": "What is the rumen in ruminant animals?",
+      "text": "The largest compartment of the stomach of a ruminant is the",
       "options": [
-        "Largest stomach compartment",
-        "Smallest",
-        "No compartment",
-        "Only true stomach"
+        "Reticulum",
+        "Rumen",
+        "Omasum",
+        "Abomasum"
       ],
-      "correct_index": 0,
-      "explanation": "Largest.",
+      "correct_index": 1,
+      "explanation": "The rumen is the largest stomach compartment in ruminants.",
       "difficulty": 2
     },
     {
       "id": "ani_017",
-      "text": "Which compartment is known as the true stomach of a ruminant?",
+      "text": "The true stomach of a ruminant animal is the",
       "options": [
         "Rumen",
         "Reticulum",
@@ -221,2386 +221,2386 @@
         "Abomasum"
       ],
       "correct_index": 3,
-      "explanation": "Abomasum.",
+      "explanation": "The abomasum is the true glandular stomach of ruminants.",
       "difficulty": 2
     },
     {
       "id": "ani_018",
-      "text": "What are broiler chickens raised for?",
+      "text": "Broiler chickens are raised primarily for the production of",
       "options": [
-        "No meat",
-        "Only feathers",
+        "Eggs",
+        "Feathers",
         "Meat",
-        "Eggs"
+        "Manure"
       ],
       "correct_index": 2,
-      "explanation": "Meat.",
+      "explanation": "Broilers are reared for meat production.",
       "difficulty": 1
     },
     {
       "id": "ani_019",
-      "text": "What is the meaning of layer chickens raised for?",
+      "text": "Layer chickens are raised primarily for the production of",
       "options": [
-        "Only feathers",
-        "Eggs",
         "Meat",
-        "No eggs"
+        "Eggs",
+        "Feathers",
+        "Milk"
       ],
       "correct_index": 1,
-      "explanation": "Eggs.",
+      "explanation": "Layers are reared for egg production.",
       "difficulty": 1
     },
     {
       "id": "ani_020",
-      "text": "What is the definition of apiculture?",
+      "text": "Complete the statement: \"Apiculture is the art of\" by choosing the correct option.",
       "options": [
+        "Bird rearing",
         "Bee keeping",
         "Fish farming",
-        "Cattle",
-        "Poultry"
+        "Snail farming"
       ],
-      "correct_index": 0,
-      "explanation": "Bee keeping.",
+      "correct_index": 1,
+      "explanation": "Apiculture is bee keeping.",
       "difficulty": 2
     },
     {
       "id": "ani_021",
-      "text": "What is Animal Husbandry? (variant 21)",
+      "text": "The gestation period of a sheep is approximately",
       "options": [
-        "Only crop",
-        "Only fishing",
-        "No science",
-        "Breeding and caring for farm animals"
+        "90 days",
+        "114 days",
+        "150 days",
+        "210 days"
       ],
-      "correct_index": 3,
-      "explanation": "Breeding caring.",
+      "correct_index": 2,
+      "explanation": "Sheep have a gestation period of approximately 150 days.",
       "difficulty": 1
     },
     {
       "id": "ani_022",
-      "text": "What is the definition of a bull? (variant 22?",
+      "text": "The gestation period of a pig is approximately",
       "options": [
-        "Young",
-        "No cattle",
-        "Male cattle",
-        "Female"
+        "90 days",
+        "114 days",
+        "150 days",
+        "283 days"
       ],
-      "correct_index": 2,
-      "explanation": "Male cattle.",
+      "correct_index": 1,
+      "explanation": "Pigs have a gestation period of approximately 114 days.",
       "difficulty": 1
     },
     {
       "id": "ani_023",
-      "text": "What is the definition of a cow? (variant 23?",
+      "text": "An animal that eats both plant and animal materials is called a",
       "options": [
-        "No cattle",
-        "Female cattle",
-        "Male",
-        "Young"
+        "Herbivore",
+        "Carnivore",
+        "Omnivore",
+        "Ruminant"
       ],
-      "correct_index": 1,
-      "explanation": "Female.",
+      "correct_index": 2,
+      "explanation": "Omnivores feed on both plant and animal materials.",
       "difficulty": 1
     },
     {
       "id": "ani_024",
-      "text": "What is the gestation period of cattle? (variant 24)",
+      "text": "Which of the following is NOT a breed of sheep?",
       "options": [
-        "283 days",
-        "150 days",
-        "114 days",
-        "30 days"
+        "Dorper",
+        "Suffolk",
+        "Yankasa",
+        "Bunaji"
       ],
-      "correct_index": 0,
-      "explanation": "283 days.",
-      "difficulty": 1
+      "correct_index": 3,
+      "explanation": "Bunaji (White Fulani) is a breed of cattle, not sheep.",
+      "difficulty": 2
     },
     {
       "id": "ani_025",
-      "text": "What is the gestation period of a goat? (variant 25)",
+      "text": "The process by which ruminants regurgitate and re-chew their feed is called",
       "options": [
-        "283 days",
-        "114 days",
-        "30 days",
-        "150 days"
+        "Lactation",
+        "Rumination",
+        "Gestation",
+        "Parturition"
       ],
-      "correct_index": 3,
-      "explanation": "150 days.",
+      "correct_index": 1,
+      "explanation": "Rumination is the process of re-chewing partially digested feed.",
       "difficulty": 1
     },
     {
       "id": "ani_026",
-      "text": "What is the incubation period of a chicken? (variant 26)",
+      "text": "The first milk produced by a cow after calving is called",
       "options": [
-        "30 days",
-        "35 days",
-        "21 days",
-        "28 days"
+        "Whey",
+        "Colostrum",
+        "Skim milk",
+        "Buttermilk"
       ],
-      "correct_index": 2,
-      "explanation": "21 days.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Colostrum is the first milk rich in antibodies produced after calving.",
+      "difficulty": 3
     },
     {
       "id": "ani_027",
-      "text": "What is calving in animal husbandry? (variant 27)",
+      "text": "Rickets in animals is caused by the deficiency of",
       "options": [
-        "Pig",
-        "Cattle giving birth",
-        "Sheep",
-        "Goat"
-      ],
-      "correct_index": 1,
-      "explanation": "Cattle birth.",
-      "difficulty": 1
-    },
-    {
-      "id": "ani_028",
-      "text": "What is lactation in animal husbandry? (variant 28)",
-      "options": [
-        "Milk production",
-        "Gestation",
-        "Incubation",
-        "Parturition"
-      ],
-      "correct_index": 0,
-      "explanation": "Milk.",
-      "difficulty": 1
-    },
-    {
-      "id": "ani_029",
-      "text": "What is an extensive system of animal production? (variant 29)",
-      "options": [
-        "Confined",
-        "No system",
-        "Only intensive",
-        "Free range"
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
       ],
       "correct_index": 3,
-      "explanation": "Free range.",
-      "difficulty": 1
-    },
-    {
-      "id": "ani_030",
-      "text": "What are battery cages used for in poultry production? (variant 30)",
-      "options": [
-        "Cattle",
-        "Goats",
-        "Layers",
-        "Broilers"
-      ],
-      "correct_index": 2,
-      "explanation": "Layers.",
-      "difficulty": 1
-    },
-    {
-      "id": "ani_031",
-      "text": "What is the White Fulani? (variant 31)",
-      "options": [
-        "Pig",
-        "Cattle breed",
-        "Sheep",
-        "Goat"
-      ],
-      "correct_index": 1,
-      "explanation": "Cattle.",
-      "difficulty": 1
-    },
-    {
-      "id": "ani_032",
-      "text": "What is castration in animal husbandry? (variant 32)",
-      "options": [
-        "Removal testes",
-        "Removal horns",
-        "No removal",
-        "Only tail"
-      ],
-      "correct_index": 0,
-      "explanation": "Removal testes.",
-      "difficulty": 1
-    },
-    {
-      "id": "ani_033",
-      "text": "What type of animal does Newcastle disease affect? (variant 33)",
-      "options": [
-        "Cattle",
-        "Goats",
-        "Sheep",
-        "Poultry"
-      ],
-      "correct_index": 3,
-      "explanation": "Poultry.",
-      "difficulty": 1
-    },
-    {
-      "id": "ani_034",
-      "text": "The tsetse fly is a vector of which disease? (variant 34)",
-      "options": [
-        "No disease",
-        "Only fever",
-        "Trypanosomiasis",
-        "Malaria"
-      ],
-      "correct_index": 2,
-      "explanation": "Trypanosomiasis.",
+      "explanation": "Vitamin D deficiency causes rickets, a bone deformity.",
       "difficulty": 2
     },
     {
-      "id": "ani_035",
-      "text": "What does protein build in the body? (variant 35)",
+      "id": "ani_028",
+      "text": "Complete the statement: \"Dehorning in cattle is done to\" by choosing the correct option.",
       "options": [
-        "Only fat",
-        "Body tissues",
-        "No tissues",
-        "Only energy"
+        "Increase milk production",
+        "Prevent injury to handlers and other animals",
+        "Improve feed conversion",
+        "Stimulate growth"
       ],
       "correct_index": 1,
-      "explanation": "Tissues.",
-      "difficulty": 1
+      "explanation": "Dehorning is done to prevent injuries to handlers and other animals.",
+      "difficulty": 3
+    },
+    {
+      "id": "ani_029",
+      "text": "The Nigerian local breed of pig is called",
+      "options": [
+        "Large White",
+        "Duroc",
+        "Nigerian West African Dwarf",
+        "Landrace"
+      ],
+      "correct_index": 2,
+      "explanation": "The Nigerian West African Dwarf is a local pig breed.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_030",
+      "text": "Roughages are feeds that are high in",
+      "options": [
+        "Protein",
+        "Fat",
+        "Crude fibre",
+        "Carbohydrates"
+      ],
+      "correct_index": 2,
+      "explanation": "Roughages such as grasses and hay are high in crude fibre.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_031",
+      "text": "The disease caused by Infectious Bovine Rhinotracheitis virus affects",
+      "options": [
+        "Poultry",
+        "Pigs",
+        "Cattle",
+        "Goats"
+      ],
+      "correct_index": 2,
+      "explanation": "IBR is a viral respiratory disease that affects cattle.",
+      "difficulty": 3
+    },
+    {
+      "id": "ani_032",
+      "text": "Complete the statement: \"Mastitis is an inflammation of the\" by choosing the correct option.",
+      "options": [
+        "Uterus",
+        "Udder",
+        "Liver",
+        "Lungs"
+      ],
+      "correct_index": 1,
+      "explanation": "Mastitis is the inflammation of the mammary gland (udder).",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_033",
+      "text": "Concentrates in animal nutrition are feeds that are",
+      "options": [
+        "High in crude fibre",
+        "Low in nutrients",
+        "Low in crude fibre and high in energy",
+        "Mainly roughage"
+      ],
+      "correct_index": 2,
+      "explanation": "Concentrates like maize and bran are low in fibre and high in energy.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_034",
+      "text": "The bovine species has how many pairs of chromosomes?",
+      "options": [
+        "20 pairs",
+        "30 pairs",
+        "32 pairs",
+        "40 pairs"
+      ],
+      "correct_index": 1,
+      "explanation": "Cattle have 30 pairs (60) of chromosomes.",
+      "difficulty": 3
+    },
+    {
+      "id": "ani_035",
+      "text": "Which of the following is a parasitic disease of poultry?",
+      "options": [
+        "Newcastle disease",
+        "Coccidiosis",
+        "Fowl pox",
+        "Bronchitis"
+      ],
+      "correct_index": 1,
+      "explanation": "Coccidiosis is caused by the protozoan parasite Eimeria species.",
+      "difficulty": 2
     },
     {
       "id": "ani_036",
-      "text": "What is the rumen in ruminant animals? (variant 36)",
+      "text": "Artificial insemination in animal breeding involves",
       "options": [
-        "Largest stomach compartment",
-        "Smallest",
-        "No compartment",
-        "Only true stomach"
+        "Natural mating",
+        "Introduction of semen into the female reproductive tract by man",
+        "Crossbreeding two species",
+        " embryo transfer"
       ],
-      "correct_index": 0,
-      "explanation": "Largest.",
+      "correct_index": 1,
+      "explanation": "Artificial insemination is the manual introduction of semen into the female's reproductive tract.",
       "difficulty": 2
     },
     {
       "id": "ani_037",
-      "text": "Which compartment is known as the true stomach of a ruminant? (variant 37)",
+      "text": "What does the abbreviation The WAD goat stand for in full?",
       "options": [
-        "Rumen",
-        "Reticulum",
-        "Omasum",
-        "Abomasum"
+        "West African Dwarf",
+        "West African Dairy",
+        "Wide African Dwarf",
+        "West Andes Dairy"
       ],
-      "correct_index": 3,
-      "explanation": "Abomasum.",
-      "difficulty": 2
+      "correct_index": 0,
+      "explanation": "WAD stands for West African Dwarf goat.",
+      "difficulty": 3
     },
     {
       "id": "ani_038",
-      "text": "What are broiler chickens raised for? (variant 38)",
+      "text": "Which of the following minerals is needed for egg shell formation?",
       "options": [
-        "No meat",
-        "Only feathers",
-        "Meat",
-        "Eggs"
+        "Iron",
+        "Calcium",
+        "Zinc",
+        "Sodium"
       ],
-      "correct_index": 2,
-      "explanation": "Meat.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Calcium is essential for egg shell formation in layers.",
+      "difficulty": 3
     },
     {
       "id": "ani_039",
-      "text": "What are layer chickens raised for? (variant 39)",
+      "text": "The embryo of a cow is attached to the uterine wall by the",
       "options": [
-        "Only feathers",
-        "Eggs",
-        "Meat",
-        "No eggs"
+        "Placenta",
+        "Umbilical cord",
+        "Amnion",
+        "Chorion"
       ],
-      "correct_index": 1,
-      "explanation": "Eggs.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "The placenta attaches the embryo to the uterine wall.",
+      "difficulty": 2
     },
     {
       "id": "ani_040",
-      "text": "What is the definition of apiculture? (variant 40?",
+      "text": "Complete the statement: \"Anthrax is caused by\" by choosing the correct option.",
       "options": [
-        "Bee keeping",
-        "Fish farming",
-        "Cattle",
-        "Poultry"
+        "Virus",
+        "Bacterium",
+        "Protozoan",
+        "Fungus"
       ],
-      "correct_index": 0,
-      "explanation": "Bee keeping.",
+      "correct_index": 1,
+      "explanation": "Anthrax is caused by the bacterium Bacillus anthracis.",
       "difficulty": 2
     },
     {
       "id": "ani_041",
-      "text": "What is Animal Husbandry? (variant 41)",
+      "text": "The bovine ovum is fertilised in the",
       "options": [
-        "Only crop",
-        "Only fishing",
-        "No science",
-        "Breeding and caring for farm animals"
+        "Uterus",
+        "Ovary",
+        "Fallopian tube",
+        "Vagina"
       ],
-      "correct_index": 3,
-      "explanation": "Breeding caring.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Fertilisation of the ovum occurs in the fallopian tube (oviduct).",
+      "difficulty": 3
     },
     {
       "id": "ani_042",
-      "text": "What is the definition of a bull? (variant 42?",
+      "text": "Which of the following is a function of vitamins in animal nutrition?",
       "options": [
-        "Young",
-        "No cattle",
-        "Male cattle",
-        "Female"
+        "Provide energy",
+        "Build body tissues",
+        "Regulate body processes",
+        "Form bones only"
       ],
       "correct_index": 2,
-      "explanation": "Male cattle.",
+      "explanation": "Vitamins regulate various body metabolic processes.",
       "difficulty": 1
     },
     {
       "id": "ani_043",
-      "text": "What is the definition of a cow? (variant 43?",
+      "text": "Complete the statement: \"The Ghana Shorthorn is a breed of\" by choosing the correct option.",
       "options": [
-        "No cattle",
-        "Female cattle",
-        "Male",
-        "Young"
+        "Sheep",
+        "Goat",
+        "Cattle",
+        "Pig"
       ],
-      "correct_index": 1,
-      "explanation": "Female.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Ghana Shorthorn is a breed of cattle found in West Africa.",
+      "difficulty": 2
     },
     {
       "id": "ani_044",
-      "text": "What is the gestation period of cattle? (variant 44)",
+      "text": "Poultry droppings are mainly composed of",
       "options": [
-        "283 days",
-        "150 days",
-        "114 days",
-        "30 days"
+        "Urine and faeces combined",
+        "Faeces only",
+        "Urine only",
+        "Undigested feed"
       ],
       "correct_index": 0,
-      "explanation": "283 days.",
-      "difficulty": 1
+      "explanation": "Birds excrete urine and faeces together through the cloaca.",
+      "difficulty": 2
     },
     {
       "id": "ani_045",
-      "text": "What is the gestation period of a goat? (variant 45)",
+      "text": "What is the correct animal husbandry term for a male buck?",
       "options": [
-        "283 days",
-        "114 days",
-        "30 days",
-        "150 days"
+        "Cattle",
+        "Sheep",
+        "Goat",
+        "Pig"
       ],
-      "correct_index": 3,
-      "explanation": "150 days.",
+      "correct_index": 2,
+      "explanation": "A male goat is called a buck or billy.",
       "difficulty": 1
     },
     {
       "id": "ani_046",
-      "text": "What is the incubation period of a chicken? (variant 46)",
+      "text": "What is the correct animal husbandry term for a male ram?",
       "options": [
-        "30 days",
-        "35 days",
-        "21 days",
-        "28 days"
+        "Goat",
+        "Sheep",
+        "Pig",
+        "Cattle"
       ],
-      "correct_index": 2,
-      "explanation": "21 days.",
+      "correct_index": 1,
+      "explanation": "A male sheep is called a ram.",
       "difficulty": 1
     },
     {
       "id": "ani_047",
-      "text": "What is calving in animal husbandry? (variant 47)",
+      "text": "Complete the statement: \"The common louse in poultry causes\" by choosing the correct option.",
       "options": [
-        "Pig",
-        "Cattle giving birth",
-        "Sheep",
-        "Goat"
+        "Improved egg production",
+        "Irritation and irritation of the skin",
+        "Increased body weight",
+        "Better plumage"
       ],
       "correct_index": 1,
-      "explanation": "Cattle birth.",
-      "difficulty": 1
-    },
-    {
-      "id": "ani_048",
-      "text": "What is lactation in animal husbandry? (variant 48)",
-      "options": [
-        "Milk production",
-        "Gestation",
-        "Incubation",
-        "Parturition"
-      ],
-      "correct_index": 0,
-      "explanation": "Milk.",
-      "difficulty": 1
-    },
-    {
-      "id": "ani_049",
-      "text": "What is an extensive system of animal production? (variant 49)",
-      "options": [
-        "Confined",
-        "No system",
-        "Only intensive",
-        "Free range"
-      ],
-      "correct_index": 3,
-      "explanation": "Free range.",
-      "difficulty": 1
-    },
-    {
-      "id": "ani_050",
-      "text": "What are battery cages used for in poultry production? (variant 50)",
-      "options": [
-        "Cattle",
-        "Goats",
-        "Layers",
-        "Broilers"
-      ],
-      "correct_index": 2,
-      "explanation": "Layers.",
-      "difficulty": 1
-    },
-    {
-      "id": "ani_051",
-      "text": "What is the White Fulani? (variant 51)",
-      "options": [
-        "Pig",
-        "Cattle breed",
-        "Sheep",
-        "Goat"
-      ],
-      "correct_index": 1,
-      "explanation": "Cattle.",
-      "difficulty": 1
-    },
-    {
-      "id": "ani_052",
-      "text": "What is castration in animal husbandry? (variant 52)",
-      "options": [
-        "Removal testes",
-        "Removal horns",
-        "No removal",
-        "Only tail"
-      ],
-      "correct_index": 0,
-      "explanation": "Removal testes.",
-      "difficulty": 1
-    },
-    {
-      "id": "ani_053",
-      "text": "What type of animal does Newcastle disease affect? (variant 53)",
-      "options": [
-        "Cattle",
-        "Goats",
-        "Sheep",
-        "Poultry"
-      ],
-      "correct_index": 3,
-      "explanation": "Poultry.",
-      "difficulty": 1
-    },
-    {
-      "id": "ani_054",
-      "text": "The tsetse fly is a vector of which disease? (variant 54)",
-      "options": [
-        "No disease",
-        "Only fever",
-        "Trypanosomiasis",
-        "Malaria"
-      ],
-      "correct_index": 2,
-      "explanation": "Trypanosomiasis.",
+      "explanation": "External parasites like lice cause irritation and reduce productivity.",
       "difficulty": 2
     },
     {
-      "id": "ani_055",
-      "text": "What does protein build in the body? (variant 55)",
+      "id": "ani_048",
+      "text": "Castration of male animals is done to",
       "options": [
-        "Only fat",
-        "Body tissues",
-        "No tissues",
-        "Only energy"
+        "Increase aggression",
+        "Improve meat quality and temperament",
+        "Improve fertility",
+        "Increase mating ability"
       ],
       "correct_index": 1,
-      "explanation": "Tissues.",
-      "difficulty": 1
+      "explanation": "Castration improves meat quality and makes animals docile.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_049",
+      "text": "The layer ration should contain high levels of",
+      "options": [
+        "Carbohydrates only",
+        "Calcium and protein",
+        "Fat and fibre",
+        "Water and salt"
+      ],
+      "correct_index": 1,
+      "explanation": "Layers need high calcium for egg shells and protein for egg formation.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_050",
+      "text": "What does the term Foetoclasm refer to in animal husbandry?",
+      "options": [
+        "Killing a foetus in the womb",
+        "Feeding foetuses",
+        "Examining foetuses",
+        "Mating pregnant animals"
+      ],
+      "correct_index": 0,
+      "explanation": "Foetoclasm is the deliberate killing of a foetus in the uterus.",
+      "difficulty": 3
+    },
+    {
+      "id": "ani_051",
+      "text": "The process of removing the beak tip of young chicks is called",
+      "options": [
+        "Dehorning",
+        "Debeaking",
+        "Castration",
+        "Branding"
+      ],
+      "correct_index": 1,
+      "explanation": "Debeaking is the trimming of the beak to prevent cannibalism.",
+      "difficulty": 3
+    },
+    {
+      "id": "ani_052",
+      "text": "Dystocia in animal production refers to",
+      "options": [
+        "Easy birth",
+        "Difficult birth",
+        "Premature birth",
+        "Stillbirth"
+      ],
+      "correct_index": 1,
+      "explanation": "Dystocia means difficult parturition.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_053",
+      "text": "The saddle back pig breed is mainly used for",
+      "options": [
+        "Egg production",
+        "Leather production",
+        "Bacon production",
+        "Milk production"
+      ],
+      "correct_index": 2,
+      "explanation": "The saddle back is a bacon-type pig breed.",
+      "difficulty": 3
+    },
+    {
+      "id": "ani_054",
+      "text": "Thiamine (Vitamin B1) deficiency in poultry causes",
+      "options": [
+        "Rickets",
+        "Curl toe paralysis",
+        "Perosis",
+        "Goitre"
+      ],
+      "correct_index": 1,
+      "explanation": "Vitamin B1 deficiency causes curly toe paralysis in chicks.",
+      "difficulty": 3
+    },
+    {
+      "id": "ani_055",
+      "text": "Complete the statement: \"Tuberculosis in cattle is caused by\" by choosing the correct option.",
+      "options": [
+        "Escherichia coli",
+        "Mycobacterium bovis",
+        "Salmonella",
+        "Brucella"
+      ],
+      "correct_index": 1,
+      "explanation": "Mycobacterium bovis causes bovine tuberculosis.",
+      "difficulty": 3
     },
     {
       "id": "ani_056",
-      "text": "What is the rumen in ruminant animals? (variant 56)",
+      "text": "Which of the following is an internal parasite of sheep?",
       "options": [
-        "Largest stomach compartment",
-        "Smallest",
-        "No compartment",
-        "Only true stomach"
+        "Ticks",
+        "Lice",
+        "Liver fluke",
+        "Fleas"
       ],
-      "correct_index": 0,
-      "explanation": "Largest.",
+      "correct_index": 2,
+      "explanation": "Liver fluke (Fasciola hepatica) is an internal parasite of sheep.",
       "difficulty": 2
     },
     {
       "id": "ani_057",
-      "text": "Which compartment is known as the true stomach of a ruminant? (variant 57)",
+      "text": "Complete the statement: \"The Zebu cattle is characterised by\" by choosing the correct option.",
       "options": [
-        "Rumen",
-        "Reticulum",
-        "Omasum",
-        "Abomasum"
+        "Absence of hump",
+        "Presence of a hump",
+        "Large body size",
+        "Poor heat tolerance"
       ],
-      "correct_index": 3,
-      "explanation": "Abomasum.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Zebu cattle have a prominent hump on their shoulders.",
+      "difficulty": 3
     },
     {
       "id": "ani_058",
-      "text": "What are broiler chickens raised for? (variant 58)",
+      "text": "What does the term Brooding in poultry refer to in animal husbandry?",
       "options": [
-        "No meat",
-        "Only feathers",
-        "Meat",
-        "Eggs"
+        "Feeding adult birds",
+        "Providing warmth to young chicks",
+        "Collecting eggs",
+        "Cleaning the poultry house"
       ],
-      "correct_index": 2,
-      "explanation": "Meat.",
+      "correct_index": 1,
+      "explanation": "Brooding provides artificial heat to maintain body temperature in chicks.",
       "difficulty": 1
     },
     {
       "id": "ani_059",
-      "text": "What are layer chickens raised for? (variant 59)",
+      "text": "Roughages include all of the following EXCEPT",
       "options": [
-        "Only feathers",
-        "Eggs",
-        "Meat",
-        "No eggs"
+        "Hay",
+        "Silage",
+        "Maize",
+        "Pasture grass"
       ],
-      "correct_index": 1,
-      "explanation": "Eggs.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Maize is a concentrate feed, not a roughage.",
+      "difficulty": 2
     },
     {
       "id": "ani_060",
-      "text": "What is the definition of apiculture? (variant 60?",
+      "text": "The estrus cycle of a cow lasts approximately",
       "options": [
-        "Bee keeping",
-        "Fish farming",
-        "Cattle",
-        "Poultry"
+        "7 days",
+        "14 days",
+        "21 days",
+        "28 days"
       ],
-      "correct_index": 0,
-      "explanation": "Bee keeping.",
+      "correct_index": 2,
+      "explanation": "The oestrus cycle in cattle is approximately 21 days.",
       "difficulty": 2
     },
     {
       "id": "ani_061",
-      "text": "What is Animal Husbandry? (variant 61)",
+      "text": "Vitamin A deficiency in animals causes",
       "options": [
-        "Only crop",
-        "Only fishing",
-        "No science",
-        "Breeding and caring for farm animals"
+        "Rickets",
+        "Night blindness",
+        "Scurvy",
+        "Beriberi"
       ],
-      "correct_index": 3,
-      "explanation": "Breeding caring.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Vitamin A deficiency causes night blindness and poor growth.",
+      "difficulty": 2
     },
     {
       "id": "ani_062",
-      "text": "What is the definition of a bull? (variant 62?",
+      "text": "The Nigerian Beske is a local breed of",
       "options": [
-        "Young",
-        "No cattle",
-        "Male cattle",
-        "Female"
+        "Goat",
+        "Sheep",
+        "Cattle",
+        "Pig"
       ],
       "correct_index": 2,
-      "explanation": "Male cattle.",
-      "difficulty": 1
+      "explanation": "Beske is a breed of cattle found in Northern Nigeria.",
+      "difficulty": 3
     },
     {
       "id": "ani_063",
-      "text": "What is the definition of a cow? (variant 63?",
+      "text": "In which animal or structure is Cloac found?",
       "options": [
-        "No cattle",
-        "Female cattle",
-        "Male",
-        "Young"
+        "Mammals only",
+        "Birds and reptiles",
+        "Fish only",
+        "Amphibians only"
       ],
       "correct_index": 1,
-      "explanation": "Female.",
-      "difficulty": 1
+      "explanation": "The cloaca is a common opening for the digestive, urinary and reproductive tracts in birds.",
+      "difficulty": 2
     },
     {
       "id": "ani_064",
-      "text": "What is the gestation period of cattle? (variant 64)",
+      "text": "The function of the gizzard in poultry is to",
       "options": [
-        "283 days",
-        "150 days",
-        "114 days",
-        "30 days"
+        "Secrete digestive enzymes",
+        "Absorb water",
+        "Grind food",
+        "Store food"
       ],
-      "correct_index": 0,
-      "explanation": "283 days.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "The gizzard grinds food with the aid of grit stones.",
+      "difficulty": 3
     },
     {
       "id": "ani_065",
-      "text": "What is the gestation period of a goat? (variant 65)",
+      "text": "Coccidiosis in poultry is treated with",
       "options": [
-        "283 days",
-        "114 days",
-        "30 days",
-        "150 days"
+        "Antibiotics",
+        "Anticoccidial drugs",
+        "Vitamins",
+        "Minerals"
       ],
-      "correct_index": 3,
-      "explanation": "150 days.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Anticoccidial drugs are used to treat coccidiosis.",
+      "difficulty": 2
     },
     {
       "id": "ani_066",
-      "text": "What is the incubation period of a chicken? (variant 66)",
+      "text": "Complete the statement: \"The Tamsweg is a breed of\" by choosing the correct option.",
       "options": [
-        "30 days",
-        "35 days",
-        "21 days",
-        "28 days"
+        "Cattle",
+        "Sheep",
+        "Goat",
+        "Rabbit"
       ],
-      "correct_index": 2,
-      "explanation": "21 days.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Tamsweg is a breed of sheep.",
+      "difficulty": 3
     },
     {
       "id": "ani_067",
-      "text": "What is calving in animal husbandry? (variant 67)",
+      "text": "Crossbreeding involves mating animals of",
       "options": [
-        "Pig",
-        "Cattle giving birth",
-        "Sheep",
-        "Goat"
+        "The same breed",
+        "Different breeds",
+        "The same species only",
+        "Different species"
       ],
       "correct_index": 1,
-      "explanation": "Cattle birth.",
+      "explanation": "Crossbreeding is mating animals of different breeds within the same species.",
       "difficulty": 1
     },
     {
       "id": "ani_068",
-      "text": "What is lactation in animal husbandry? (variant 68)",
+      "text": "Milk letdown in dairy cattle is controlled by the hormone",
       "options": [
-        "Milk production",
-        "Gestation",
-        "Incubation",
-        "Parturition"
+        "Oestrogen",
+        "Progesterone",
+        "Oxytocin",
+        "Thyroxine"
       ],
-      "correct_index": 0,
-      "explanation": "Milk.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Oxytocin causes milk letdown (ejection) from the mammary gland.",
+      "difficulty": 3
     },
     {
       "id": "ani_069",
-      "text": "What is an extensive system of animal production? (variant 69)",
+      "text": "Complete the statement: \"The main product of the rumen is\" by choosing the correct option.",
       "options": [
-        "Confined",
-        "No system",
-        "Only intensive",
-        "Free range"
+        "Glucose",
+        "Volatile fatty acids",
+        "Lactic acid",
+        "Amino acids"
       ],
-      "correct_index": 3,
-      "explanation": "Free range.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Microbial fermentation in the rumen produces volatile fatty acids as the main energy source.",
+      "difficulty": 3
     },
     {
       "id": "ani_070",
-      "text": "What are battery cages used for in poultry production? (variant 70)",
+      "text": "Which of the following is a function of calcium in animal nutrition?",
       "options": [
-        "Cattle",
-        "Goats",
-        "Layers",
-        "Broilers"
+        "Blood clotting",
+        "Bone and teeth formation only",
+        "Prevention of goitre",
+        "Activation of enzymes"
       ],
-      "correct_index": 2,
-      "explanation": "Layers.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Calcium is essential for bone and teeth formation.",
+      "difficulty": 3
     },
     {
       "id": "ani_071",
-      "text": "What is the White Fulani? (variant 71)",
+      "text": "The warm beef breed in West Africa is",
       "options": [
-        "Pig",
-        "Cattle breed",
-        "Sheep",
-        "Goat"
-      ],
-      "correct_index": 1,
-      "explanation": "Cattle.",
-      "difficulty": 1
-    },
-    {
-      "id": "ani_072",
-      "text": "What is castration in animal husbandry? (variant 72)",
-      "options": [
-        "Removal testes",
-        "Removal horns",
-        "No removal",
-        "Only tail"
-      ],
-      "correct_index": 0,
-      "explanation": "Removal testes.",
-      "difficulty": 1
-    },
-    {
-      "id": "ani_073",
-      "text": "What type of animal does Newcastle disease affect? (variant 73)",
-      "options": [
-        "Cattle",
-        "Goats",
-        "Sheep",
-        "Poultry"
-      ],
-      "correct_index": 3,
-      "explanation": "Poultry.",
-      "difficulty": 1
-    },
-    {
-      "id": "ani_074",
-      "text": "The tsetse fly is a vector of which disease? (variant 74)",
-      "options": [
-        "No disease",
-        "Only fever",
-        "Trypanosomiasis",
-        "Malaria"
+        "Hereford",
+        "Angus",
+        "White Fulani",
+        "Holstein"
       ],
       "correct_index": 2,
-      "explanation": "Trypanosomiasis.",
+      "explanation": "White Fulani (Bunaji) is a Zebu breed adapted to West African conditions.",
       "difficulty": 2
     },
     {
-      "id": "ani_075",
-      "text": "What does protein build in the body? (variant 75)",
+      "id": "ani_072",
+      "text": "Feed conversion ratio (FCR) measures",
       "options": [
-        "Only fat",
-        "Body tissues",
-        "No tissues",
-        "Only energy"
+        "Body weight divided by age",
+        "Feed consumed per unit of weight gain",
+        "Total feed consumed",
+        "Weight gained per day"
       ],
       "correct_index": 1,
-      "explanation": "Tissues.",
+      "explanation": "FCR is the ratio of feed intake to body weight gain.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_073",
+      "text": "Complete the statement: \"Brucellosis in cattle causes\" by choosing the correct option.",
+      "options": [
+        "Diarrhoea only",
+        "Abortion and infertility",
+        "Skin lesions",
+        "Respiratory distress"
+      ],
+      "correct_index": 1,
+      "explanation": "Brucellosis causes abortion, infertility and reduced milk yield.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_074",
+      "text": "The perosis condition in chicks is caused by deficiency of",
+      "options": [
+        "Vitamin A",
+        "Vitamin D",
+        "Manganese",
+        "Iron"
+      ],
+      "correct_index": 2,
+      "explanation": "Manganese deficiency causes perosis (slipped tendon) in chicks.",
+      "difficulty": 3
+    },
+    {
+      "id": "ani_075",
+      "text": "What does the term \"Parturition\" mean?",
+      "options": [
+        "Mating",
+        "Giving birth",
+        "Laying eggs",
+        "Incubation"
+      ],
+      "correct_index": 1,
+      "explanation": "Parturition is the act of giving birth.",
       "difficulty": 1
     },
     {
       "id": "ani_076",
-      "text": "What is the rumen in ruminant animals? (variant 76)",
+      "text": "Which of the following is a breed of pig?",
       "options": [
-        "Largest stomach compartment",
-        "Smallest",
-        "No compartment",
-        "Only true stomach"
+        "Dorper",
+        "Large White",
+        "N'Dama",
+        "Sahel"
       ],
-      "correct_index": 0,
-      "explanation": "Largest.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Large White is a popular breed of pig.",
+      "difficulty": 1
     },
     {
       "id": "ani_077",
-      "text": "Which compartment is known as the true stomach of a ruminant? (variant 77)",
+      "text": "The insemination technique that involves introducing semen through the cervix is called",
       "options": [
-        "Rumen",
-        "Reticulum",
-        "Omasum",
-        "Abomasum"
+        "Rectovaginal",
+        "Avian",
+        "Surgical",
+        "Rectal"
       ],
-      "correct_index": 3,
-      "explanation": "Abomasum.",
-      "difficulty": 2
+      "correct_index": 0,
+      "explanation": "Rectovaginal is the most common AI technique in cattle.",
+      "difficulty": 3
     },
     {
       "id": "ani_078",
-      "text": "What are broiler chickens raised for? (variant 78)",
+      "text": "An animal that feeds exclusively on plants is called a",
       "options": [
-        "No meat",
-        "Only feathers",
-        "Meat",
-        "Eggs"
+        "Carnivore",
+        "Omnivore",
+        "Herbivore",
+        "Scavenger"
       ],
       "correct_index": 2,
-      "explanation": "Meat.",
+      "explanation": "Herbivores feed exclusively on plant materials.",
       "difficulty": 1
     },
     {
       "id": "ani_079",
-      "text": "What are layer chickens raised for? (variant 79)",
+      "text": "The primary aim of livestock breeding is to",
       "options": [
-        "Only feathers",
-        "Eggs",
-        "Meat",
-        "No eggs"
+        "Increase animal numbers only",
+        "Improve desirable economic traits",
+        "Reduce animal size",
+        "Increase disease susceptibility"
       ],
       "correct_index": 1,
-      "explanation": "Eggs.",
+      "explanation": "Livestock breeding aims to improve desirable traits like growth rate and fertility.",
       "difficulty": 1
     },
     {
       "id": "ani_080",
-      "text": "What is the definition of apiculture? (variant 80?",
+      "text": "The breed of cattle commonly used for dairy production is",
       "options": [
-        "Bee keeping",
-        "Fish farming",
-        "Cattle",
-        "Poultry"
+        "N'Dama",
+        "Hereford",
+        "Holstein Friesian",
+        "Zebu"
       ],
-      "correct_index": 0,
-      "explanation": "Bee keeping.",
-      "difficulty": 2
+      "correct_index": 2,
+      "explanation": "Holstein Friesian is a high-yielding dairy breed.",
+      "difficulty": 1
     },
     {
       "id": "ani_081",
-      "text": "What is Animal Husbandry? (variant 81)",
+      "text": "Complete the statement: \"Silage is produced by\" by choosing the correct option.",
       "options": [
-        "Only crop",
-        "Only fishing",
-        "No science",
-        "Breeding and caring for farm animals"
+        "Sun-drying grass",
+        "Anaerobic fermentation of green fodder",
+        "Burning crop residues",
+        "Mixing concentrates"
       ],
-      "correct_index": 3,
-      "explanation": "Breeding caring.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Silage is made by fermenting green forage under anaerobic conditions.",
+      "difficulty": 2
     },
     {
       "id": "ani_082",
-      "text": "What is the definition of a bull? (variant 82?",
+      "text": "The presence of colostrum is important to the newborn because it",
       "options": [
-        "Young",
-        "No cattle",
-        "Male cattle",
-        "Female"
+        "Provides energy only",
+        "Contains antibodies for passive immunity",
+        "Increases body weight",
+        "Prevents dehydration only"
       ],
-      "correct_index": 2,
-      "explanation": "Male cattle.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Colostrum contains maternal antibodies that provide passive immunity.",
+      "difficulty": 2
     },
     {
       "id": "ani_083",
-      "text": "What is the definition of a cow? (variant 83?",
+      "text": "Inbreeding refers to mating of closely related animals and it leads to",
       "options": [
-        "No cattle",
-        "Female cattle",
-        "Male",
-        "Young"
+        "Hybrid vigour",
+        "Increased genetic diversity",
+        "Inbreeding depression",
+        "Improved fertility"
       ],
-      "correct_index": 1,
-      "explanation": "Female.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Inbreeding depression is the reduced performance due to mating of closely related animals.",
+      "difficulty": 2
     },
     {
       "id": "ani_084",
-      "text": "What is the gestation period of cattle? (variant 84)",
+      "text": "The hatchery operation of turning eggs regularly is called",
       "options": [
-        "283 days",
-        "150 days",
-        "114 days",
-        "30 days"
+        "Candling",
+        "Turning",
+        "Grading",
+        "Setting"
       ],
-      "correct_index": 0,
-      "explanation": "283 days.",
+      "correct_index": 1,
+      "explanation": "Eggs must be turned regularly during incubation to prevent embryo adhesion.",
       "difficulty": 1
     },
     {
       "id": "ani_085",
-      "text": "What is the gestation period of a goat? (variant 85)",
+      "text": "The most common method of castration in cattle is by using",
       "options": [
-        "283 days",
-        "114 days",
-        "30 days",
-        "150 days"
+        "Surgical removal",
+        "Burdizzo (elastrator)",
+        "Chemical injection",
+        "Radiation"
       ],
-      "correct_index": 3,
-      "explanation": "150 days.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Burdizzo bloodless castrator is the most common method.",
+      "difficulty": 2
     },
     {
       "id": "ani_086",
-      "text": "What is the incubation period of a chicken? (variant 86)",
+      "text": "The period of estrus in a cow (heat) lasts about",
       "options": [
-        "30 days",
-        "35 days",
-        "21 days",
-        "28 days"
+        "6 hours",
+        "12 hours",
+        "18 hours",
+        "24 hours"
       ],
       "correct_index": 2,
-      "explanation": "21 days.",
-      "difficulty": 1
+      "explanation": "The oestrus period in cattle lasts approximately 18 hours.",
+      "difficulty": 3
     },
     {
       "id": "ani_087",
-      "text": "What is calving in animal husbandry? (variant 87)",
+      "text": "Which of the following is a type of feed supplement?",
       "options": [
-        "Pig",
-        "Cattle giving birth",
-        "Sheep",
-        "Goat"
+        "Maize",
+        "Soybean meal",
+        "Bone meal",
+        "Wheat offal"
       ],
-      "correct_index": 1,
-      "explanation": "Cattle birth.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Bone meal is a mineral supplement used in animal feed.",
+      "difficulty": 2
     },
     {
       "id": "ani_088",
-      "text": "What is lactation in animal husbandry? (variant 88)",
+      "text": "Complete the statement: \"Egg candling is done to\" by choosing the correct option.",
       "options": [
-        "Milk production",
-        "Gestation",
-        "Incubation",
-        "Parturition"
+        "Clean eggs",
+        "Determine fertility and embryo development",
+        "Increase egg size",
+        "Preserve eggs"
       ],
-      "correct_index": 0,
-      "explanation": "Milk.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Candling is the examination of eggs using light to check for fertility and development.",
+      "difficulty": 3
     },
     {
       "id": "ani_089",
-      "text": "What is an extensive system of animal production? (variant 89)",
+      "text": "The ideal ambient temperature for broiler chickens at day one is",
       "options": [
-        "Confined",
-        "No system",
-        "Only intensive",
-        "Free range"
+        "20°C",
+        "27°C",
+        "35°C",
+        "40°C"
       ],
-      "correct_index": 3,
-      "explanation": "Free range.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Day-old chicks need a brooding temperature of about 35°C.",
+      "difficulty": 2
     },
     {
       "id": "ani_090",
-      "text": "What are battery cages used for in poultry production? (variant 90)",
+      "text": "Complete the statement: \"Iodine deficiency in animals causes\" by choosing the correct option.",
       "options": [
-        "Cattle",
-        "Goats",
-        "Layers",
-        "Broilers"
+        "Rickets",
+        "Goitre",
+        "Scurvy",
+        "Anaemia"
       ],
-      "correct_index": 2,
-      "explanation": "Layers.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Iodine deficiency causes goitre (enlargement of the thyroid gland).",
+      "difficulty": 2
     },
     {
       "id": "ani_091",
-      "text": "What is the White Fulani? (variant 91)",
+      "text": "What is the correct animal husbandry term for a female sow?",
       "options": [
-        "Pig",
-        "Cattle breed",
+        "Cattle",
         "Sheep",
-        "Goat"
+        "Goat",
+        "Pig"
       ],
-      "correct_index": 1,
-      "explanation": "Cattle.",
+      "correct_index": 3,
+      "explanation": "A female pig is called a sow.",
       "difficulty": 1
     },
     {
       "id": "ani_092",
-      "text": "What is castration in animal husbandry? (variant 92)",
+      "text": "The primary purpose of dip tanks in livestock management is to",
       "options": [
-        "Removal testes",
-        "Removal horns",
-        "No removal",
-        "Only tail"
+        "Provide drinking water",
+        "Control external parasites",
+        "Cool animals",
+        "Improve coat condition"
       ],
-      "correct_index": 0,
-      "explanation": "Removal testes.",
+      "correct_index": 1,
+      "explanation": "Dip tanks are used to control ticks and other ectoparasites.",
       "difficulty": 1
     },
     {
       "id": "ani_093",
-      "text": "What type of animal does Newcastle disease affect? (variant 93)",
+      "text": "Which of the following is a viral disease of cattle?",
       "options": [
-        "Cattle",
-        "Goats",
-        "Sheep",
-        "Poultry"
+        "Anthrax",
+        "Rinderpest",
+        "Tuberculosis",
+        "Brucellosis"
       ],
-      "correct_index": 3,
-      "explanation": "Poultry.",
-      "difficulty": 1
-    },
-    {
-      "id": "ani_094",
-      "text": "The tsetse fly is a vector of which disease? (variant 94)",
-      "options": [
-        "No disease",
-        "Only fever",
-        "Trypanosomiasis",
-        "Malaria"
-      ],
-      "correct_index": 2,
-      "explanation": "Trypanosomiasis.",
+      "correct_index": 1,
+      "explanation": "Rinderpest is a viral disease that affects cattle and other ruminants.",
       "difficulty": 2
     },
     {
-      "id": "ani_095",
-      "text": "What does protein build in the body? (variant 95)",
+      "id": "ani_094",
+      "text": "Scurvy in animals is caused by deficiency of",
       "options": [
-        "Only fat",
-        "Body tissues",
-        "No tissues",
-        "Only energy"
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "correct_index": 2,
+      "explanation": "Scurvy is caused by vitamin C (ascorbic acid) deficiency.",
+      "difficulty": 3
+    },
+    {
+      "id": "ani_095",
+      "text": "The Sahel breed of cattle is well adapted to",
+      "options": [
+        "Humid regions",
+        "Arid and semi-arid regions",
+        "Cold regions",
+        "Mountainous regions"
       ],
       "correct_index": 1,
-      "explanation": "Tissues.",
-      "difficulty": 1
+      "explanation": "Sahel cattle are adapted to the dry savanna and Sahel regions.",
+      "difficulty": 2
     },
     {
       "id": "ani_096",
-      "text": "What is the rumen in ruminant animals? (variant 96)",
+      "text": "Body condition scoring in livestock is used to assess",
       "options": [
-        "Largest stomach compartment",
-        "Smallest",
-        "No compartment",
-        "Only true stomach"
+        "Disease status",
+        "Level of body fat or fleshing",
+        "Age of the animal",
+        "Breed purity"
       ],
-      "correct_index": 0,
-      "explanation": "Largest.",
+      "correct_index": 1,
+      "explanation": "Body condition scoring evaluates the amount of body fat or muscle cover.",
       "difficulty": 2
     },
     {
       "id": "ani_097",
-      "text": "Which compartment is known as the true stomach of a ruminant? (variant 97)",
+      "text": "What does the term The conceptus refer to in animal husbandry?",
       "options": [
-        "Rumen",
-        "Reticulum",
-        "Omasum",
-        "Abomasum"
+        "The mother animal only",
+        "The embryo/foetus and its membranes",
+        "The placenta only",
+        "The amniotic fluid"
       ],
-      "correct_index": 3,
-      "explanation": "Abomasum.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "The conceptus includes the embryo or foetus and all its associated membranes.",
+      "difficulty": 3
     },
     {
       "id": "ani_098",
-      "text": "What are broiler chickens raised for? (variant 98)",
+      "text": "Complete the statement: \"The crop of a chicken is used for\" by choosing the correct option.",
       "options": [
-        "No meat",
-        "Only feathers",
-        "Meat",
-        "Eggs"
+        "Grinding food",
+        "Water purification",
+        "Temporary food storage",
+        "Gas exchange"
       ],
       "correct_index": 2,
-      "explanation": "Meat.",
-      "difficulty": 1
+      "explanation": "The crop is an enlargement of the oesophagus used for temporary food storage.",
+      "difficulty": 3
     },
     {
       "id": "ani_099",
-      "text": "What are layer chickens raised for? (variant 99)",
+      "text": "Which of the following is a concentrate feed?",
       "options": [
-        "Only feathers",
-        "Eggs",
-        "Meat",
-        "No eggs"
+        "Hay",
+        "Silage",
+        "Groundnut cake",
+        "Pasture grass"
       ],
-      "correct_index": 1,
-      "explanation": "Eggs.",
+      "correct_index": 2,
+      "explanation": "Groundnut cake is a protein-rich concentrate feed.",
       "difficulty": 1
     },
     {
       "id": "ani_100",
-      "text": "What is the definition of apiculture? (variant 100?",
+      "text": "Litter in poultry production refers to",
       "options": [
-        "Bee keeping",
-        "Fish farming",
-        "Cattle",
-        "Poultry"
+        "The number of eggs laid",
+        "Floor covering material in poultry houses",
+        "The offspring of a hen",
+        "Feed troughs"
       ],
-      "correct_index": 0,
-      "explanation": "Bee keeping.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Litter refers to the material such as wood shavings used to cover poultry house floors.",
+      "difficulty": 1
     },
     {
       "id": "ani_101",
-      "text": "What is Animal Husbandry? (variant 101)",
+      "text": "The major product obtained from goat production in West Africa is",
       "options": [
-        "Only crop",
-        "Only fishing",
-        "No science",
-        "Breeding and caring for farm animals"
+        "Wool",
+        "Milk",
+        "Cheese",
+        "Honey"
       ],
-      "correct_index": 3,
-      "explanation": "Breeding caring.",
+      "correct_index": 1,
+      "explanation": "Goats in West Africa are primarily reared for milk and meat.",
       "difficulty": 1
     },
     {
       "id": "ani_102",
-      "text": "What is the definition of a bull? (variant 102?",
+      "text": "The Red Maradi is a breed of goat found in",
       "options": [
-        "Young",
-        "No cattle",
-        "Male cattle",
-        "Female"
+        "Ghana",
+        "Niger",
+        "Nigeria",
+        "Senegal"
       ],
-      "correct_index": 2,
-      "explanation": "Male cattle.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Red Maradi goat breed originates from Niger.",
+      "difficulty": 3
     },
     {
       "id": "ani_103",
-      "text": "What is the definition of a cow? (variant 103?",
+      "text": "The primary cause of enterotoxaemia in sheep is",
       "options": [
-        "No cattle",
-        "Female cattle",
-        "Male",
-        "Young"
+        "Viral infection",
+        "Overfeeding with concentrates",
+        "Parasitic worm infestation",
+        "Vitamin deficiency"
       ],
       "correct_index": 1,
-      "explanation": "Female.",
-      "difficulty": 1
+      "explanation": "Enterotoxaemia is caused by overconsumption of lush pasture or concentrates.",
+      "difficulty": 3
     },
     {
       "id": "ani_104",
-      "text": "What is the gestation period of cattle? (variant 104)",
+      "text": "Complete the statement: \"The hoof of cattle is made up of\" by choosing the correct option.",
       "options": [
-        "283 days",
-        "150 days",
-        "114 days",
-        "30 days"
+        "Two toes",
+        "Four toes",
+        "One toe",
+        "Three toes"
       ],
       "correct_index": 0,
-      "explanation": "283 days.",
-      "difficulty": 1
+      "explanation": "Cattle have cloven hooves with two toes.",
+      "difficulty": 3
     },
     {
       "id": "ani_105",
-      "text": "What is the gestation period of a goat? (variant 105)",
+      "text": "Complete the statement: \"Fowl pox is transmitted mainly by\" by choosing the correct option.",
       "options": [
-        "283 days",
-        "114 days",
-        "30 days",
-        "150 days"
+        "Air",
+        "Mosquitoes and other biting insects",
+        "Contaminated feed",
+        "Water"
       ],
-      "correct_index": 3,
-      "explanation": "150 days.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Fowl pox is transmitted by mosquitoes and other biting insects.",
+      "difficulty": 2
     },
     {
       "id": "ani_106",
-      "text": "What is the incubation period of a chicken? (variant 106)",
+      "text": "The gestation period of a rabbit is approximately",
       "options": [
-        "30 days",
-        "35 days",
+        "14 days",
         "21 days",
-        "28 days"
+        "31 days",
+        "60 days"
       ],
       "correct_index": 2,
-      "explanation": "21 days.",
-      "difficulty": 1
+      "explanation": "Rabbits have a gestation period of approximately 31 days.",
+      "difficulty": 2
     },
     {
       "id": "ani_107",
-      "text": "What is calving in animal husbandry? (variant 107)",
+      "text": "A veterinarian is a professional who",
       "options": [
-        "Pig",
-        "Cattle giving birth",
-        "Sheep",
-        "Goat"
+        "Sells farm produce",
+        "Treats and prevents animal diseases",
+        "Builds animal shelters",
+        "Manufactures animal feed"
       ],
       "correct_index": 1,
-      "explanation": "Cattle birth.",
+      "explanation": "A veterinarian is a doctor of animal medicine.",
       "difficulty": 1
     },
     {
       "id": "ani_108",
-      "text": "What is lactation in animal husbandry? (variant 108)",
+      "text": "The ratio of males to females in a breeding flock of poultry is usually",
       "options": [
-        "Milk production",
-        "Gestation",
-        "Incubation",
-        "Parturition"
+        "1:1",
+        "1 male to 10-12 females",
+        "10 males to 1 female",
+        "1:50"
       ],
-      "correct_index": 0,
-      "explanation": "Milk.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "One male is mated to 10-12 females in poultry breeding.",
+      "difficulty": 2
     },
     {
       "id": "ani_109",
-      "text": "What is an extensive system of animal production? (variant 109)",
+      "text": "Haemorrhagic septicemia (HS) primarily affects",
       "options": [
-        "Confined",
-        "No system",
-        "Only intensive",
-        "Free range"
+        "Poultry",
+        "Pigs",
+        "Cattle and buffalo",
+        "Fish"
       ],
-      "correct_index": 3,
-      "explanation": "Free range.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "HS is a bacterial disease that primarily affects cattle and buffalo.",
+      "difficulty": 3
     },
     {
       "id": "ani_110",
-      "text": "What are battery cages used for in poultry production? (variant 110)",
+      "text": "The primary function of water in animal nutrition is",
       "options": [
-        "Cattle",
-        "Goats",
-        "Layers",
-        "Broilers"
+        "Provide energy",
+        "Transport nutrients and regulate body temperature",
+        "Build muscle tissue",
+        "Provide vitamins"
       ],
-      "correct_index": 2,
-      "explanation": "Layers.",
+      "correct_index": 1,
+      "explanation": "Water is essential for nutrient transport, temperature regulation and metabolic processes.",
       "difficulty": 1
     },
     {
       "id": "ani_111",
-      "text": "What is the White Fulani? (variant 111)",
+      "text": "The pregnancy toxaemia disease is common in",
       "options": [
-        "Pig",
-        "Cattle breed",
-        "Sheep",
-        "Goat"
+        "Cattle",
+        "Sheep and goats",
+        "Poultry",
+        "Pigs"
       ],
       "correct_index": 1,
-      "explanation": "Cattle.",
-      "difficulty": 1
+      "explanation": "Pregnancy toxaemia (ketosis) is common in late-pregnant ewes and does.",
+      "difficulty": 3
     },
     {
       "id": "ani_112",
-      "text": "What is castration in animal husbandry? (variant 112)",
+      "text": "Complete the statement: \"Cockerel refers to a\" by choosing the correct option.",
       "options": [
-        "Removal testes",
-        "Removal horns",
-        "No removal",
-        "Only tail"
+        "Young female chicken",
+        "Young male chicken",
+        "Mature female chicken",
+        "Mature male chicken"
       ],
-      "correct_index": 0,
-      "explanation": "Removal testes.",
+      "correct_index": 1,
+      "explanation": "A cockerel is a young male chicken, while a cock is mature.",
       "difficulty": 1
     },
     {
       "id": "ani_113",
-      "text": "What type of animal does Newcastle disease affect? (variant 113)",
+      "text": "The carrying capacity of a pasture depends on",
       "options": [
-        "Cattle",
-        "Goats",
-        "Sheep",
-        "Poultry"
+        "The number of farmers available",
+        "The amount of forage produced per unit area",
+        "The size of the farmhouse",
+        "The price of livestock"
       ],
-      "correct_index": 3,
-      "explanation": "Poultry.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Carrying capacity depends on the availability of forage per unit area.",
+      "difficulty": 2
     },
     {
       "id": "ani_114",
-      "text": "The tsetse fly is a vector of which disease? (variant 114)",
+      "text": "A flock in animal husbandry usually refers to",
       "options": [
-        "No disease",
-        "Only fever",
-        "Trypanosomiasis",
-        "Malaria"
+        "A group of cattle",
+        "A group of sheep, goats or poultry",
+        "A group of pigs",
+        "A group of horses"
       ],
-      "correct_index": 2,
-      "explanation": "Trypanosomiasis.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Flock is the term used for a group of sheep, goats or poultry.",
+      "difficulty": 3
     },
     {
       "id": "ani_115",
-      "text": "What does protein build in the body? (variant 115)",
+      "text": "What does the term \"Flushing in sheep management\" mean?",
       "options": [
-        "Only fat",
-        "Body tissues",
-        "No tissues",
-        "Only energy"
+        "Cleaning the pen",
+        "Increasing feed intake before mating",
+        "Shearing the wool",
+        "Vaccinating the flock"
       ],
       "correct_index": 1,
-      "explanation": "Tissues.",
-      "difficulty": 1
+      "explanation": "Flushing involves increasing nutrition before mating to boost ovulation rate.",
+      "difficulty": 3
     },
     {
       "id": "ani_116",
-      "text": "What is the rumen in ruminant animals? (variant 116)",
+      "text": "The major mineral salt required by all classes of livestock is",
       "options": [
-        "Largest stomach compartment",
-        "Smallest",
-        "No compartment",
-        "Only true stomach"
+        "Calcium phosphate",
+        "Common salt (sodium chloride)",
+        "Iron sulphate",
+        "Zinc oxide"
       ],
-      "correct_index": 0,
-      "explanation": "Largest.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Common salt is the most essential mineral supplement for all livestock.",
+      "difficulty": 3
     },
     {
       "id": "ani_117",
-      "text": "Which compartment is known as the true stomach of a ruminant? (variant 117)",
+      "text": "Which of the following is a disease of pigs?",
       "options": [
-        "Rumen",
-        "Reticulum",
-        "Omasum",
-        "Abomasum"
+        "Glanders",
+        "Swine erysipelas",
+        "Fowl cholera",
+        "Blackquarter"
       ],
-      "correct_index": 3,
-      "explanation": "Abomasum.",
+      "correct_index": 1,
+      "explanation": "Swine erysipelas is a bacterial disease of pigs caused by Erysipelothrix rhusiopathiae.",
       "difficulty": 2
     },
     {
       "id": "ani_118",
-      "text": "What are broiler chickens raised for? (variant 118)",
+      "text": "A heifer that has calved for the first time is called a",
       "options": [
-        "No meat",
-        "Only feathers",
-        "Meat",
-        "Eggs"
+        "Cow",
+        "Primipara",
+        "Multipara",
+        "Steer"
       ],
-      "correct_index": 2,
-      "explanation": "Meat.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A primipara is a female animal that has produced one offspring.",
+      "difficulty": 3
     },
     {
       "id": "ani_119",
-      "text": "What are layer chickens raised for? (variant 119)",
+      "text": "The development of the conceptus before implantation takes place in the",
       "options": [
-        "Only feathers",
-        "Eggs",
-        "Meat",
-        "No eggs"
+        "Ovary",
+        "Vagina",
+        "Fallopian tube and uterus",
+        "Udder"
       ],
-      "correct_index": 1,
-      "explanation": "Eggs.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Early embryonic development occurs in the oviduct before implantation in the uterus.",
+      "difficulty": 3
     },
     {
       "id": "ani_120",
-      "text": "What is the definition of apiculture? (variant 120?",
+      "text": "The most important reason for record keeping in animal husbandry is to",
       "options": [
-        "Bee keeping",
-        "Fish farming",
-        "Cattle",
-        "Poultry"
+        "Satisfy government regulations",
+        "Make informed management decisions",
+        "Increase paperwork",
+        "Entertain visitors"
       ],
-      "correct_index": 0,
-      "explanation": "Bee keeping.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Records help farmers track performance and make informed management decisions.",
+      "difficulty": 3
     },
     {
       "id": "ani_121",
-      "text": "What is Animal Husbandry? (variant 121)",
+      "text": "Complete the statement: \"The ideal stocking rate depends on\" by choosing the correct option.",
       "options": [
-        "Only crop",
-        "Only fishing",
-        "No science",
-        "Breeding and caring for farm animals"
+        "The farmer's age",
+        "The carrying capacity of the land",
+        "The price of animal feeds",
+        "The number of available labourers"
       ],
-      "correct_index": 3,
-      "explanation": "Breeding caring.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Stocking rate should match the carrying capacity of the pasture.",
+      "difficulty": 2
     },
     {
       "id": "ani_122",
-      "text": "What is the definition of a bull? (variant 122?",
+      "text": "Complete the statement: \"Lamb refers to a young\" by choosing the correct option.",
       "options": [
-        "Young",
-        "No cattle",
-        "Male cattle",
-        "Female"
+        "Goat",
+        "Sheep",
+        "Pig",
+        "Cattle"
       ],
-      "correct_index": 2,
-      "explanation": "Male cattle.",
+      "correct_index": 1,
+      "explanation": "A young sheep is called a lamb.",
       "difficulty": 1
     },
     {
       "id": "ani_123",
-      "text": "What is the definition of a cow? (variant 123?",
+      "text": "Complete the statement: \"Kid refers to a young\" by choosing the correct option.",
       "options": [
-        "No cattle",
-        "Female cattle",
-        "Male",
-        "Young"
+        "Sheep",
+        "Cattle",
+        "Goat",
+        "Pig"
       ],
-      "correct_index": 1,
-      "explanation": "Female.",
+      "correct_index": 2,
+      "explanation": "A young goat is called a kid.",
       "difficulty": 1
     },
     {
       "id": "ani_124",
-      "text": "What is the gestation period of cattle? (variant 124)",
+      "text": "Complete the statement: \"Piglet refers to a young\" by choosing the correct option.",
       "options": [
-        "283 days",
-        "150 days",
-        "114 days",
-        "30 days"
+        "Cow",
+        "Sheep",
+        "Goat",
+        "Pig"
       ],
-      "correct_index": 0,
-      "explanation": "283 days.",
+      "correct_index": 3,
+      "explanation": "A young pig is called a piglet.",
       "difficulty": 1
     },
     {
       "id": "ani_125",
-      "text": "What is the gestation period of a goat? (variant 125)",
+      "text": "Complete the statement: \"A calf refers to a young\" by choosing the correct option.",
       "options": [
-        "283 days",
-        "114 days",
-        "30 days",
-        "150 days"
+        "Sheep",
+        "Goat",
+        "Cattle",
+        "Pig"
       ],
-      "correct_index": 3,
-      "explanation": "150 days.",
+      "correct_index": 2,
+      "explanation": "A young cattle is called a calf.",
       "difficulty": 1
     },
     {
       "id": "ani_126",
-      "text": "What is the incubation period of a chicken? (variant 126)",
+      "text": "Complete the statement: \"Chick refers to a young\" by choosing the correct option.",
       "options": [
-        "30 days",
-        "35 days",
-        "21 days",
-        "28 days"
+        "Duck",
+        "Turkey",
+        "Chicken",
+        "Guinea fowl"
       ],
       "correct_index": 2,
-      "explanation": "21 days.",
+      "explanation": "A young chicken is called a chick.",
       "difficulty": 1
     },
     {
       "id": "ani_127",
-      "text": "What is calving in animal husbandry? (variant 127)",
+      "text": "What does the term Molting in poultry refer to in animal husbandry?",
       "options": [
-        "Pig",
-        "Cattle giving birth",
-        "Sheep",
-        "Goat"
+        "Laying of eggs",
+        "Periodic shedding and replacement of feathers",
+        "Loss of body weight",
+        "Increased feed consumption"
       ],
       "correct_index": 1,
-      "explanation": "Cattle birth.",
-      "difficulty": 1
+      "explanation": "Molting is the natural shedding and replacement of feathers.",
+      "difficulty": 2
     },
     {
       "id": "ani_128",
-      "text": "What is lactation in animal husbandry? (variant 128)",
+      "text": "What does the term The term ovulation refer to in animal husbandry?",
       "options": [
-        "Milk production",
-        "Gestation",
-        "Incubation",
-        "Parturition"
+        "Fertilisation of egg by sperm",
+        "Release of mature ovum from the ovary",
+        "Implantation of embryo",
+        "Attachment of placenta"
       ],
-      "correct_index": 0,
-      "explanation": "Milk.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Ovulation is the release of a mature ovum from the Graafian follicle.",
+      "difficulty": 2
     },
     {
       "id": "ani_129",
-      "text": "What is an extensive system of animal production? (variant 129)",
+      "text": "Fertilisation in animals is the fusion of",
       "options": [
-        "Confined",
-        "No system",
-        "Only intensive",
-        "Free range"
+        "Two ova",
+        "Sperm and ovum",
+        "Two spermatozoa",
+        "Embryo and placenta"
       ],
-      "correct_index": 3,
-      "explanation": "Free range.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Fertilisation is the union of male sperm and female ovum.",
+      "difficulty": 3
     },
     {
       "id": "ani_130",
-      "text": "What are battery cages used for in poultry production? (variant 130)",
+      "text": "Complete the statement: \"The Barnvelder is a breed of\" by choosing the correct option.",
       "options": [
-        "Cattle",
-        "Goats",
-        "Layers",
-        "Broilers"
+        "Turkey",
+        "Duck",
+        "Chicken",
+        "Goose"
       ],
       "correct_index": 2,
-      "explanation": "Layers.",
-      "difficulty": 1
+      "explanation": "The Barnevelder is a breed of chicken, known for dark brown eggs.",
+      "difficulty": 2
     },
     {
       "id": "ani_131",
-      "text": "What is the White Fulani? (variant 131)",
+      "text": "A herd in animal husbandry usually refers to a group of",
       "options": [
-        "Pig",
-        "Cattle breed",
+        "Poultry",
         "Sheep",
-        "Goat"
+        "Cattle",
+        "Fish"
       ],
-      "correct_index": 1,
-      "explanation": "Cattle.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "A herd is the collective term for a group of cattle.",
+      "difficulty": 3
     },
     {
       "id": "ani_132",
-      "text": "What is castration in animal husbandry? (variant 132)",
+      "text": "The N'Dama cattle is well known for its",
       "options": [
-        "Removal testes",
-        "Removal horns",
-        "No removal",
-        "Only tail"
+        "High milk yield",
+        "Trypanotolerance",
+        "Large body size",
+        "Rapid growth rate"
       ],
-      "correct_index": 0,
-      "explanation": "Removal testes.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "N'Dama cattle are resistant to trypanosomiasis (trypanotolerant).",
+      "difficulty": 2
     },
     {
       "id": "ani_133",
-      "text": "What type of animal does Newcastle disease affect? (variant 133)",
+      "text": "The main use of the Khaki Campbell duck breed is for",
       "options": [
-        "Cattle",
-        "Goats",
-        "Sheep",
-        "Poultry"
+        "Meat production",
+        "Egg production",
+        "Feather production",
+        "Ornamental purposes"
       ],
-      "correct_index": 3,
-      "explanation": "Poultry.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Khaki Campbell ducks are primarily raised for egg production.",
+      "difficulty": 2
     },
     {
       "id": "ani_134",
-      "text": "The tsetse fly is a vector of which disease? (variant 134)",
+      "text": "What does Dry lot feeding system involve in the context of fishing?",
       "options": [
-        "No disease",
-        "Only fever",
-        "Trypanosomiasis",
-        "Malaria"
+        "Grazing on open pasture",
+        "Feeding animals in pens with stored feeds",
+        "Free-range management",
+        "Selective grazing"
       ],
-      "correct_index": 2,
-      "explanation": "Trypanosomiasis.",
+      "correct_index": 1,
+      "explanation": "Dry lot feeding involves confining animals and feeding stored feeds.",
       "difficulty": 2
     },
     {
       "id": "ani_135",
-      "text": "What does protein build in the body? (variant 135)",
+      "text": "Which of the following is NOT a function of the liver in farm animals?",
       "options": [
-        "Only fat",
-        "Body tissues",
-        "No tissues",
-        "Only energy"
+        "Detoxification of poisonous substances",
+        "Production of bile",
+        "Storage of vitamins A, D, E and K",
+        "Digestion of food in the stomach"
       ],
-      "correct_index": 1,
-      "explanation": "Tissues.",
-      "difficulty": 1
+      "correct_index": 3,
+      "explanation": "Food digestion in the stomach is not a function of the liver.",
+      "difficulty": 2
     },
     {
       "id": "ani_136",
-      "text": "What is the rumen in ruminant animals? (variant 136)",
+      "text": "Complete the statement: \"Tail docking is commonly done in\" by choosing the correct option.",
       "options": [
-        "Largest stomach compartment",
-        "Smallest",
-        "No compartment",
-        "Only true stomach"
+        "Cattle",
+        "Sheep",
+        "Pigs",
+        "Chickens"
       ],
-      "correct_index": 0,
-      "explanation": "Largest.",
+      "correct_index": 1,
+      "explanation": "Tail docking is commonly performed in sheep to prevent fly strike.",
       "difficulty": 2
     },
     {
       "id": "ani_137",
-      "text": "Which compartment is known as the true stomach of a ruminant? (variant 137)",
+      "text": "The primary cause of ascites (water belly) in broilers is",
       "options": [
-        "Rumen",
-        "Reticulum",
-        "Omasum",
-        "Abomasum"
+        "Bacterial infection",
+        "Heart failure due to rapid growth",
+        "Vitamin deficiency",
+        "Parasitic infection"
       ],
-      "correct_index": 3,
-      "explanation": "Abomasum.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Ascites in broilers results from pulmonary hypertension and right-sided heart failure.",
+      "difficulty": 3
     },
     {
       "id": "ani_138",
-      "text": "What are broiler chickens raised for? (variant 138)",
+      "text": "The reproductive organ of the bull is called the",
       "options": [
-        "No meat",
-        "Only feathers",
-        "Meat",
-        "Eggs"
+        "Vulva",
+        "Penis",
+        "Uterus",
+        "Ovary"
       ],
-      "correct_index": 2,
-      "explanation": "Meat.",
+      "correct_index": 1,
+      "explanation": "The penis is the male reproductive organ in bulls.",
       "difficulty": 1
     },
     {
       "id": "ani_139",
-      "text": "What are layer chickens raised for? (variant 139)",
+      "text": "Immunisation in animal husbandry is achieved through",
       "options": [
-        "Only feathers",
-        "Eggs",
-        "Meat",
-        "No eggs"
+        "Castration",
+        "Vaccination",
+        "Deworming",
+        "Dehorning"
       ],
       "correct_index": 1,
-      "explanation": "Eggs.",
+      "explanation": "Vaccination stimulates the immune system to produce antibodies against diseases.",
       "difficulty": 1
     },
     {
       "id": "ani_140",
-      "text": "What is the definition of apiculture? (variant 140?",
+      "text": "The ideal pH for silage fermentation is",
       "options": [
-        "Bee keeping",
-        "Fish farming",
-        "Cattle",
-        "Poultry"
+        "7.0 - 8.0",
+        "5.5 - 6.5",
+        "4.0 - 4.5",
+        "8.0 - 9.0"
       ],
-      "correct_index": 0,
-      "explanation": "Bee keeping.",
-      "difficulty": 2
+      "correct_index": 2,
+      "explanation": "Good silage should have a pH of 4.0 to 4.5 for proper preservation.",
+      "difficulty": 3
     },
     {
       "id": "ani_141",
-      "text": "What is Animal Husbandry? (variant 141)",
+      "text": "Culling in livestock management means",
       "options": [
-        "Only crop",
-        "Only fishing",
-        "No science",
-        "Breeding and caring for farm animals"
+        "Selecting the best animals",
+        "Removing unproductive or diseased animals",
+        "Mating animals",
+        "Feeding animals heavily"
       ],
-      "correct_index": 3,
-      "explanation": "Breeding caring.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Culling involves removing animals that are unproductive or unhealthy.",
+      "difficulty": 3
     },
     {
       "id": "ani_142",
-      "text": "What is the definition of a bull? (variant 142?",
+      "text": "Complete the statement: \"The primary product from an ewe is\" by choosing the correct option.",
       "options": [
-        "Young",
-        "No cattle",
-        "Male cattle",
-        "Female"
+        "Eggs",
+        "Milk and wool",
+        "Honey",
+        "Leather"
       ],
-      "correct_index": 2,
-      "explanation": "Male cattle.",
+      "correct_index": 1,
+      "explanation": "Ewes (female sheep) produce milk and wool.",
       "difficulty": 1
     },
     {
       "id": "ani_143",
-      "text": "What is the definition of a cow? (variant 143?",
+      "text": "Agro-industrial by-products used as animal feed include",
       "options": [
-        "No cattle",
-        "Female cattle",
-        "Male",
-        "Young"
+        "Fresh pasture",
+        "Brewery waste and rice bran",
+        "Tree leaves only",
+        "Sawdust"
       ],
       "correct_index": 1,
-      "explanation": "Female.",
-      "difficulty": 1
+      "explanation": "Brewery waste, rice bran and other agro-industrial by-products are used as animal feed.",
+      "difficulty": 2
     },
     {
       "id": "ani_144",
-      "text": "What is the gestation period of cattle? (variant 144)",
+      "text": "The process of mating a bull with a cow naturally is called",
       "options": [
-        "283 days",
-        "150 days",
-        "114 days",
-        "30 days"
+        "Artificial insemination",
+        "Natural service or mating",
+        "Embryo transfer",
+        "Cloning"
       ],
-      "correct_index": 0,
-      "explanation": "283 days.",
+      "correct_index": 1,
+      "explanation": "Natural service is the mating of animals without human assistance in copulation.",
       "difficulty": 1
     },
     {
       "id": "ani_145",
-      "text": "What is the gestation period of a goat? (variant 145)",
+      "text": "Anaphylaxis in farm animals is caused by",
       "options": [
-        "283 days",
-        "114 days",
-        "30 days",
-        "150 days"
+        "Feed allergy",
+        "Hypersensitivity reaction to foreign protein",
+        "Bacterial infection",
+        "Vitamin overdose"
       ],
-      "correct_index": 3,
-      "explanation": "150 days.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Anaphylaxis is a severe allergic reaction to foreign proteins such as vaccines or drugs.",
+      "difficulty": 3
     },
     {
       "id": "ani_146",
-      "text": "What is the incubation period of a chicken? (variant 146)",
+      "text": "In animal husbandry, the doe refers to which female animal?",
       "options": [
-        "30 days",
-        "35 days",
-        "21 days",
-        "28 days"
+        "Sheep",
+        "Cattle",
+        "Goat",
+        "Pig"
       ],
       "correct_index": 2,
-      "explanation": "21 days.",
+      "explanation": "A female goat is called a doe.",
       "difficulty": 1
     },
     {
       "id": "ani_147",
-      "text": "What is calving in animal husbandry? (variant 147)",
+      "text": "In animal husbandry, the ewe refers to which female animal?",
       "options": [
-        "Pig",
-        "Cattle giving birth",
+        "Goat",
         "Sheep",
-        "Goat"
+        "Pig",
+        "Cattle"
       ],
       "correct_index": 1,
-      "explanation": "Cattle birth.",
+      "explanation": "A female sheep is called an ewe.",
       "difficulty": 1
     },
     {
       "id": "ani_148",
-      "text": "What is lactation in animal husbandry? (variant 148)",
+      "text": "Which of the following is a poultry housing system?",
       "options": [
-        "Milk production",
-        "Gestation",
-        "Incubation",
-        "Parturition"
+        "Dip tank system",
+        "Deep litter system",
+        "Flushing system",
+        "Silage system"
       ],
-      "correct_index": 0,
-      "explanation": "Milk.",
+      "correct_index": 1,
+      "explanation": "Deep litter system is a method of housing poultry on thick layers of litter.",
       "difficulty": 1
     },
     {
       "id": "ani_149",
-      "text": "What is an extensive system of animal production? (variant 149)",
+      "text": "Complete the statement: \"Fascioliasis in sheep is caused by\" by choosing the correct option.",
       "options": [
-        "Confined",
-        "No system",
-        "Only intensive",
-        "Free range"
-      ],
-      "correct_index": 3,
-      "explanation": "Free range.",
-      "difficulty": 1
-    },
-    {
-      "id": "ani_150",
-      "text": "What are battery cages used for in poultry production? (variant 150)",
-      "options": [
-        "Cattle",
-        "Goats",
-        "Layers",
-        "Broilers"
+        "Bacteria",
+        "Virus",
+        "Liver fluke (Fasciola)",
+        "Protozoa"
       ],
       "correct_index": 2,
-      "explanation": "Layers.",
-      "difficulty": 1
-    },
-    {
-      "id": "ani_151",
-      "text": "What is the White Fulani? (variant 151)",
-      "options": [
-        "Pig",
-        "Cattle breed",
-        "Sheep",
-        "Goat"
-      ],
-      "correct_index": 1,
-      "explanation": "Cattle.",
-      "difficulty": 1
-    },
-    {
-      "id": "ani_152",
-      "text": "What is castration in animal husbandry? (variant 152)",
-      "options": [
-        "Removal testes",
-        "Removal horns",
-        "No removal",
-        "Only tail"
-      ],
-      "correct_index": 0,
-      "explanation": "Removal testes.",
-      "difficulty": 1
-    },
-    {
-      "id": "ani_153",
-      "text": "What type of animal does Newcastle disease affect? (variant 153)",
-      "options": [
-        "Cattle",
-        "Goats",
-        "Sheep",
-        "Poultry"
-      ],
-      "correct_index": 3,
-      "explanation": "Poultry.",
-      "difficulty": 1
-    },
-    {
-      "id": "ani_154",
-      "text": "The tsetse fly is a vector of which disease? (variant 154)",
-      "options": [
-        "No disease",
-        "Only fever",
-        "Trypanosomiasis",
-        "Malaria"
-      ],
-      "correct_index": 2,
-      "explanation": "Trypanosomiasis.",
+      "explanation": "Fascioliasis is caused by the liver fluke Fasciola hepatica.",
       "difficulty": 2
     },
     {
-      "id": "ani_155",
-      "text": "What does protein build in the body? (variant 155)",
+      "id": "ani_150",
+      "text": "The amount of concentrate feed in a broiler's diet is increased as the bird",
       "options": [
-        "Only fat",
-        "Body tissues",
-        "No tissues",
-        "Only energy"
+        "Hatches",
+        "Grows older",
+        "Loses weight",
+        "Becomes sick"
       ],
       "correct_index": 1,
-      "explanation": "Tissues.",
+      "explanation": "Broilers receive increasing levels of concentrate as they grow.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_151",
+      "text": "Complete the statement: \"Twins in goats are called\" by choosing the correct option.",
+      "options": [
+        "Singles",
+        "Multiples",
+        "Singlings",
+        "Doubles"
+      ],
+      "correct_index": 1,
+      "explanation": "Multiple births (twins, triplets) in goats are referred to as multiples.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_152",
+      "text": "The primary factor that determines sex in mammals is",
+      "options": [
+        "Diet of the mother",
+        "Chromosomal combination at fertilisation (XX or XY)",
+        "Temperature during incubation",
+        "Age of the father"
+      ],
+      "correct_index": 1,
+      "explanation": "Sex is determined by the sperm carrying either X or Y chromosome at fertilisation.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_153",
+      "text": "The most common internal parasite of poultry is",
+      "options": [
+        "Ticks",
+        "Roundworms (Ascaridia galli)",
+        "Lice",
+        "Mites"
+      ],
+      "correct_index": 1,
+      "explanation": "Ascaridia galli (roundworm) is the most common intestinal parasite of poultry.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_154",
+      "text": "Anoestrus in female animals refers to",
+      "options": [
+        "The fertile period",
+        "A state of sexual inactivity",
+        "The mating period",
+        "Pregnancy"
+      ],
+      "correct_index": 1,
+      "explanation": "Anoestrus is the period of sexual quiescence with no oestrus cycle.",
+      "difficulty": 3
+    },
+    {
+      "id": "ani_155",
+      "text": "The primary source of energy in animal feed is provided by",
+      "options": [
+        "Proteins",
+        "Carbohydrates",
+        "Vitamins",
+        "Minerals"
+      ],
+      "correct_index": 1,
+      "explanation": "Carbohydrates (starch and sugars) are the main source of energy in animal diets.",
       "difficulty": 1
     },
     {
       "id": "ani_156",
-      "text": "What is the rumen in ruminant animals? (variant 156)",
+      "text": "Rickets in young animals is characterised by",
       "options": [
-        "Largest stomach compartment",
-        "Smallest",
-        "No compartment",
-        "Only true stomach"
+        "Weight loss only",
+        "Soft and deformed bones",
+        "Hair loss",
+        "Diarrhoea"
       ],
-      "correct_index": 0,
-      "explanation": "Largest.",
+      "correct_index": 1,
+      "explanation": "Rickets causes soft and deformed bones due to vitamin D, calcium or phosphorus deficiency.",
       "difficulty": 2
     },
     {
       "id": "ani_157",
-      "text": "Which compartment is known as the true stomach of a ruminant? (variant 157)",
+      "text": "In animal husbandry, the boar refers to which male animal?",
       "options": [
-        "Rumen",
-        "Reticulum",
-        "Omasum",
-        "Abomasum"
+        "Cattle",
+        "Sheep",
+        "Goat",
+        "Pig"
       ],
       "correct_index": 3,
-      "explanation": "Abomasum.",
-      "difficulty": 2
+      "explanation": "A male pig is called a boar.",
+      "difficulty": 3
     },
     {
       "id": "ani_158",
-      "text": "What are broiler chickens raised for? (variant 158)",
+      "text": "What does the term Parthenogenesis refer to in animal husbandry?",
       "options": [
-        "No meat",
-        "Only feathers",
-        "Meat",
-        "Eggs"
+        "Mating between closely related animals",
+        "Development of an egg without fertilisation",
+        "Asexual reproduction in mammals",
+        "Cloning of animals"
       ],
-      "correct_index": 2,
-      "explanation": "Meat.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Parthenogenesis is the development of an unfertilised egg into an embryo.",
+      "difficulty": 3
     },
     {
       "id": "ani_159",
-      "text": "What are layer chickens raised for? (variant 159)",
+      "text": "The Peppered moth breed of chicken is popular for its",
       "options": [
-        "Only feathers",
-        "Eggs",
-        "Meat",
-        "No eggs"
+        "High egg production",
+        "Speckled feather pattern",
+        "Large body size",
+        "Meat quality"
       ],
       "correct_index": 1,
-      "explanation": "Eggs.",
-      "difficulty": 1
-    },
-    {
-      "id": "ani_160",
-      "text": "What is the definition of apiculture? (variant 160?",
-      "options": [
-        "Bee keeping",
-        "Fish farming",
-        "Cattle",
-        "Poultry"
-      ],
-      "correct_index": 0,
-      "explanation": "Bee keeping.",
+      "explanation": "The Peppered breed is known for its distinctive speckled plumage.",
       "difficulty": 2
     },
     {
-      "id": "ani_161",
-      "text": "What is Animal Husbandry? (variant 161)",
+      "id": "ani_160",
+      "text": "The windpipe of a bird is called the",
       "options": [
-        "Only crop",
-        "Only fishing",
-        "No science",
-        "Breeding and caring for farm animals"
+        "Oesophagus",
+        "Trachea",
+        "Crop",
+        "Bronchus"
       ],
-      "correct_index": 3,
-      "explanation": "Breeding caring.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The trachea (windpipe) connects the larynx to the bronchi in birds.",
+      "difficulty": 3
+    },
+    {
+      "id": "ani_161",
+      "text": "The purpose of debeaking in poultry is to prevent",
+      "options": [
+        "Egg eating",
+        "Cannibalism and feather pecking",
+        "Respiratory disease",
+        "Egg binding"
+      ],
+      "correct_index": 1,
+      "explanation": "Debeaking prevents cannibalism, feather pecking and egg eating.",
+      "difficulty": 2
     },
     {
       "id": "ani_162",
-      "text": "What is the definition of a bull? (variant 162?",
+      "text": "The Ankara breed of sheep is found in",
       "options": [
-        "Young",
-        "No cattle",
-        "Male cattle",
-        "Female"
+        "Ghana",
+        "Nigeria",
+        "Mali",
+        "Senegal"
       ],
-      "correct_index": 2,
-      "explanation": "Male cattle.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Ankara (also called Uda or Balami) sheep is a long-wool breed found in Nigeria.",
+      "difficulty": 2
     },
     {
       "id": "ani_163",
-      "text": "What is the definition of a cow? (variant 163?",
+      "text": "Artificial incubation was invented by",
       "options": [
-        "No cattle",
-        "Female cattle",
-        "Male",
-        "Young"
+        "Robert Koch",
+        "Louis Pasteur",
+        "The Chinese over 2000 years ago",
+        "Charles Darwin"
       ],
-      "correct_index": 1,
-      "explanation": "Female.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Artificial incubation of eggs was developed by the Chinese over 2000 years ago.",
+      "difficulty": 3
     },
     {
       "id": "ani_164",
-      "text": "What is the gestation period of cattle? (variant 164)",
+      "text": "The function of the rumen microorganisms is to",
       "options": [
-        "283 days",
-        "150 days",
-        "114 days",
-        "30 days"
+        "Produce milk",
+        "Break down cellulose in roughages",
+        "Absorb water",
+        "Filter blood"
       ],
-      "correct_index": 0,
-      "explanation": "283 days.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Rumen microorganisms ferment and break down cellulose and other fibrous materials.",
+      "difficulty": 2
     },
     {
       "id": "ani_165",
-      "text": "What is the gestation period of a goat? (variant 165)",
+      "text": "Bluetongue disease primarily affects",
       "options": [
-        "283 days",
-        "114 days",
-        "30 days",
-        "150 days"
+        "Cattle",
+        "Sheep and goats",
+        "Poultry",
+        "Pigs"
       ],
-      "correct_index": 3,
-      "explanation": "150 days.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Bluetongue is a viral disease that primarily affects sheep and goats.",
+      "difficulty": 2
     },
     {
       "id": "ani_166",
-      "text": "What is the incubation period of a chicken? (variant 166)",
+      "text": "Which of the following is an example of a meat-type (broiler) breed?",
       "options": [
-        "30 days",
-        "35 days",
-        "21 days",
-        "28 days"
+        "White Leghorn",
+        "Cornish Cross",
+        "Rhode Island Red",
+        "Sussex"
       ],
-      "correct_index": 2,
-      "explanation": "21 days.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Cornish Cross is a widely used broiler breed for meat production.",
+      "difficulty": 2
     },
     {
       "id": "ani_167",
-      "text": "What is calving in animal husbandry? (variant 167)",
+      "text": "What does the term The term progeny testing refer to in animal husbandry?",
       "options": [
-        "Pig",
-        "Cattle giving birth",
-        "Sheep",
-        "Goat"
+        "Testing the offspring for disease",
+        "Evaluating the genetic merit of a sire based on performance of its offspring",
+        "Feeding trial on young animals",
+        "Vaccination of newborns"
       ],
       "correct_index": 1,
-      "explanation": "Cattle birth.",
-      "difficulty": 1
+      "explanation": "Progeny testing evaluates a parent's genetic value from the performance of its progeny.",
+      "difficulty": 3
     },
     {
       "id": "ani_168",
-      "text": "What is lactation in animal husbandry? (variant 168)",
+      "text": "What does the term Phenotype refer to in animal husbandry?",
       "options": [
-        "Milk production",
-        "Gestation",
-        "Incubation",
-        "Parturition"
+        "The genetic makeup of an animal",
+        "The observable physical characteristics of an animal",
+        "The blood group of an animal",
+        "The pedigree of an animal"
       ],
-      "correct_index": 0,
-      "explanation": "Milk.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Phenotype is the observable expression of genes influenced by the environment.",
+      "difficulty": 2
     },
     {
       "id": "ani_169",
-      "text": "What is an extensive system of animal production? (variant 169)",
+      "text": "What does the term Genotype refer to in animal husbandry?",
       "options": [
-        "Confined",
-        "No system",
-        "Only intensive",
-        "Free range"
+        "The visible traits of an animal",
+        "The genetic constitution of an animal",
+        "The animal's weight",
+        "The animal's age"
       ],
-      "correct_index": 3,
-      "explanation": "Free range.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Genotype is the total genetic information of an organism.",
+      "difficulty": 2
     },
     {
       "id": "ani_170",
-      "text": "What are battery cages used for in poultry production? (variant 170)",
+      "text": "Hybrid vigour (heterosis) is the improved performance of",
       "options": [
-        "Cattle",
-        "Goats",
-        "Layers",
-        "Broilers"
+        "Inbred animals",
+        "Crossbred offspring over the average of purebred parents",
+        "Animals of the same breed",
+        "Old animals"
       ],
-      "correct_index": 2,
-      "explanation": "Layers.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Heterosis is the superior performance of crossbred progeny over the average of purebred parents.",
+      "difficulty": 3
     },
     {
       "id": "ani_171",
-      "text": "What is the White Fulani? (variant 171)",
+      "text": "Which of the following is a deep-bodied breed of pig?",
       "options": [
-        "Pig",
-        "Cattle breed",
-        "Sheep",
-        "Goat"
+        "Large White",
+        "Berkshire",
+        "Duroc",
+        "All of the above"
       ],
-      "correct_index": 1,
-      "explanation": "Cattle.",
-      "difficulty": 1
+      "correct_index": 3,
+      "explanation": "Large White, Berkshire and Duroc are all deep-bodied pig breeds.",
+      "difficulty": 2
     },
     {
       "id": "ani_172",
-      "text": "What is castration in animal husbandry? (variant 172)",
+      "text": "Teaser animals are used in livestock breeding to",
       "options": [
-        "Removal testes",
-        "Removal horns",
-        "No removal",
-        "Only tail"
+        "Provide milk",
+        "Detect oestrus in females",
+        "Produce meat",
+        "Guard the flock"
       ],
-      "correct_index": 0,
-      "explanation": "Removal testes.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Teaser animals (vasectomised males) are used to detect oestrus in females.",
+      "difficulty": 3
     },
     {
       "id": "ani_173",
-      "text": "What type of animal does Newcastle disease affect? (variant 173)",
+      "text": "The major vitamin synthesised in the skin of animals when exposed to sunlight is",
       "options": [
-        "Cattle",
-        "Goats",
-        "Sheep",
-        "Poultry"
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
       ],
       "correct_index": 3,
-      "explanation": "Poultry.",
-      "difficulty": 1
+      "explanation": "Vitamin D is synthesised in the skin upon exposure to ultraviolet light.",
+      "difficulty": 2
     },
     {
       "id": "ani_174",
-      "text": "The tsetse fly is a vector of which disease? (variant 174)",
+      "text": "The rumination process in cattle involves how many distinct steps of chewing?",
       "options": [
-        "No disease",
-        "Only fever",
-        "Trypanosomiasis",
-        "Malaria"
+        "One",
+        "Two",
+        "Three",
+        "Four"
       ],
-      "correct_index": 2,
-      "explanation": "Trypanosomiasis.",
+      "correct_index": 1,
+      "explanation": "Feed is swallowed, regurgitated, re-chewed (second chewing), and swallowed again.",
       "difficulty": 2
     },
     {
       "id": "ani_175",
-      "text": "What does protein build in the body? (variant 175)",
+      "text": "Which of the following is NOT a method of preserving animal feed?",
       "options": [
-        "Only fat",
-        "Body tissues",
-        "No tissues",
-        "Only energy"
+        "Silage making",
+        "Hay making",
+        "Sun-drying",
+        "Autoclaving"
       ],
-      "correct_index": 1,
-      "explanation": "Tissues.",
-      "difficulty": 1
+      "correct_index": 3,
+      "explanation": "Autoclaving is a sterilisation method, not a feed preservation technique.",
+      "difficulty": 2
     },
     {
       "id": "ani_176",
-      "text": "What is the rumen in ruminant animals? (variant 176)",
+      "text": "The function of the oesophagus in farm animals is to",
       "options": [
-        "Largest stomach compartment",
-        "Smallest",
-        "No compartment",
-        "Only true stomach"
+        "Digest food",
+        "Transport food from mouth to stomach",
+        "Absorb nutrients",
+        "Store food"
       ],
-      "correct_index": 0,
-      "explanation": "Largest.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "The oesophagus (gullet) transports food from the mouth to the stomach.",
+      "difficulty": 1
     },
     {
       "id": "ani_177",
-      "text": "Which compartment is known as the true stomach of a ruminant? (variant 177)",
+      "text": "Semen evaluation in artificial insemination includes checking for",
       "options": [
-        "Rumen",
-        "Reticulum",
-        "Omasum",
-        "Abomasum"
+        "Colour only",
+        "Motility, volume, concentration and morphology",
+        "Temperature only",
+        "Smell only"
       ],
-      "correct_index": 3,
-      "explanation": "Abomasum.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Semen is evaluated for motility, volume, sperm concentration and morphology.",
+      "difficulty": 3
     },
     {
       "id": "ani_178",
-      "text": "What are broiler chickens raised for? (variant 178)",
+      "text": "The Poultry Industry is primarily divided into",
       "options": [
-        "No meat",
-        "Only feathers",
-        "Meat",
-        "Eggs"
+        "Broiler and layer production",
+        "Meat and wool production",
+        "Dairy and beef production",
+        "Egg and milk production"
       ],
-      "correct_index": 2,
-      "explanation": "Meat.",
+      "correct_index": 0,
+      "explanation": "The poultry industry is mainly divided into broiler (meat) and layer (egg) production.",
       "difficulty": 1
     },
     {
       "id": "ani_179",
-      "text": "What are layer chickens raised for? (variant 179)",
+      "text": "The total number of eggs laid by a layer in one year is called",
       "options": [
-        "Only feathers",
-        "Eggs",
-        "Meat",
-        "No eggs"
+        "Fertility rate",
+        "Hatchability",
+        "Hen-day egg production",
+        "Mortality rate"
       ],
-      "correct_index": 1,
-      "explanation": "Eggs.",
-      "difficulty": 1
-    },
-    {
-      "id": "ani_180",
-      "text": "What is the definition of apiculture? (variant 180?",
-      "options": [
-        "Bee keeping",
-        "Fish farming",
-        "Cattle",
-        "Poultry"
-      ],
-      "correct_index": 0,
-      "explanation": "Bee keeping.",
+      "correct_index": 2,
+      "explanation": "Hen-day egg production measures the total eggs produced per hen per year.",
       "difficulty": 2
     },
     {
-      "id": "ani_181",
-      "text": "What is Animal Husbandry? (variant 181)",
+      "id": "ani_180",
+      "text": "A steer is a male cattle that has been",
       "options": [
-        "Only crop",
-        "Only fishing",
-        "No science",
-        "Breeding and caring for farm animals"
+        "Left intact",
+        "Castrated",
+        "Dehorned",
+        "Vaccinated"
       ],
-      "correct_index": 3,
-      "explanation": "Breeding caring.",
+      "correct_index": 1,
+      "explanation": "A steer is a castrated male cattle.",
       "difficulty": 1
     },
     {
-      "id": "ani_182",
-      "text": "What is the definition of a bull? (variant 182?",
+      "id": "ani_181",
+      "text": "Iron anaemia in piglets is prevented by",
       "options": [
-        "Young",
-        "No cattle",
-        "Male cattle",
-        "Female"
+        "Vitamin supplementation",
+        "Iron dextran injection",
+        "Calcium supplementation",
+        "Feeding concentrates"
       ],
-      "correct_index": 2,
-      "explanation": "Male cattle.",
+      "correct_index": 1,
+      "explanation": "Iron dextran injections prevent anaemia in baby piglets.",
+      "difficulty": 2
+    },
+    {
+      "id": "ani_182",
+      "text": "The leghorn chicken breed is mainly used for",
+      "options": [
+        "Meat production",
+        "Egg production",
+        "Feather production",
+        "Ornamental purposes"
+      ],
+      "correct_index": 1,
+      "explanation": "White Leghorn is a high-producing layer breed.",
       "difficulty": 1
     },
     {
       "id": "ani_183",
-      "text": "What is the definition of a cow? (variant 183?",
+      "text": "Which of the following is a method of controlling poultry parasites?",
       "options": [
-        "No cattle",
-        "Female cattle",
-        "Male",
-        "Young"
+        "Debeaking",
+        "Use of anthelmintics",
+        "Culling",
+        "Flushing"
       ],
       "correct_index": 1,
-      "explanation": "Female.",
-      "difficulty": 1
+      "explanation": "Anthelmintics (dewormers) are used to control internal parasites.",
+      "difficulty": 2
     },
     {
       "id": "ani_184",
-      "text": "What is the gestation period of cattle? (variant 184)",
+      "text": "The optimum relative humidity for an incubator during hatching is",
       "options": [
-        "283 days",
-        "150 days",
-        "114 days",
-        "30 days"
+        "30-40%",
+        "50-55%",
+        "65-75%",
+        "90-100%"
       ],
-      "correct_index": 0,
-      "explanation": "283 days.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "The relative humidity should be about 65-75% during the hatching phase.",
+      "difficulty": 3
     },
     {
       "id": "ani_185",
-      "text": "What is the gestation period of a goat? (variant 185)",
+      "text": "Boiling a quart of milk to make it safe for consumption is an example of",
       "options": [
-        "283 days",
-        "114 days",
-        "30 days",
-        "150 days"
+        "Pasteurisation",
+        "Sterilisation",
+        "Homogenisation",
+        "Fermentation"
       ],
-      "correct_index": 3,
-      "explanation": "150 days.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Boiling milk at 100°C is a form of sterilisation that kills all micro-organisms.",
+      "difficulty": 2
     },
     {
       "id": "ani_186",
-      "text": "What is the incubation period of a chicken? (variant 186)",
+      "text": "A cow in oestrus (heat) will typically show",
       "options": [
-        "30 days",
-        "35 days",
-        "21 days",
-        "28 days"
+        "Loss of appetite and isolation",
+        "Restlessness, mounting others and mucus discharge",
+        "Lameness only",
+        "Diarrhoea"
       ],
-      "correct_index": 2,
-      "explanation": "21 days.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Signs of oestrus include restlessness, mounting, swollen vulva and mucus discharge.",
+      "difficulty": 2
     },
     {
       "id": "ani_187",
-      "text": "What is calving in animal husbandry? (variant 187)",
+      "text": "The maintenance requirement of an animal is the amount of nutrients needed for",
       "options": [
-        "Pig",
-        "Cattle giving birth",
-        "Sheep",
-        "Goat"
+        "Growth only",
+        "Basic body functions without production",
+        "Milk production",
+        "Egg production"
       ],
       "correct_index": 1,
-      "explanation": "Cattle birth.",
-      "difficulty": 1
+      "explanation": "Maintenance requirement is the energy and nutrients needed to sustain basic body functions.",
+      "difficulty": 2
     },
     {
       "id": "ani_188",
-      "text": "What is lactation in animal husbandry? (variant 188)",
+      "text": "What does the term The term twinning rate refer to in animal husbandry?",
       "options": [
-        "Milk production",
-        "Gestation",
-        "Incubation",
-        "Parturition"
+        "Number of eggs laid",
+        "The proportion of females that produce two offspring at a time",
+        "The rate of egg hatching",
+        "The number of chicks per clutch"
       ],
-      "correct_index": 0,
-      "explanation": "Milk.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Twinning rate is the percentage of births that produce twins.",
+      "difficulty": 2
     },
     {
       "id": "ani_189",
-      "text": "What is an extensive system of animal production? (variant 189)",
+      "text": "The globular protein in egg white is called",
       "options": [
-        "Confined",
-        "No system",
-        "Only intensive",
-        "Free range"
+        "Casein",
+        "Albumin",
+        "Gelatin",
+        "Keratin"
       ],
-      "correct_index": 3,
-      "explanation": "Free range.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Albumin is the protein found in egg white.",
+      "difficulty": 2
     },
     {
       "id": "ani_190",
-      "text": "What are battery cages used for in poultry production? (variant 190)",
+      "text": "The process of forcing a bird to moult artificially is called",
       "options": [
-        "Cattle",
-        "Goats",
-        "Layers",
-        "Broilers"
+        "Debeaking",
+        "Force moulting",
+        "Culling",
+        "Flushing"
       ],
-      "correct_index": 2,
-      "explanation": "Layers.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Force moulting involves restricting feed to induce feather shedding and rest egg production.",
+      "difficulty": 3
     },
     {
       "id": "ani_191",
-      "text": "What is the White Fulani? (variant 191)",
+      "text": "The major role of phosphorus in animal nutrition is",
       "options": [
-        "Pig",
-        "Cattle breed",
-        "Sheep",
-        "Goat"
+        "Blood clotting",
+        "Bone formation and metabolism of carbohydrates and fats",
+        "Prevention of scurvy",
+        "Vision in dim light"
       ],
       "correct_index": 1,
-      "explanation": "Cattle.",
-      "difficulty": 1
+      "explanation": "Phosphorus is essential for bone formation and energy metabolism.",
+      "difficulty": 2
     },
     {
       "id": "ani_192",
-      "text": "What is castration in animal husbandry? (variant 192)",
+      "text": "The American-breed type of turkey is called the",
       "options": [
-        "Removal testes",
-        "Removal horns",
-        "No removal",
-        "Only tail"
+        "Bourbon Red",
+        "Broad Breasted White",
+        "Narragansett",
+        "Blue Slate"
       ],
-      "correct_index": 0,
-      "explanation": "Removal testes.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Broad Breasted White is the most common commercial turkey breed.",
+      "difficulty": 2
     },
     {
       "id": "ani_193",
-      "text": "What type of animal does Newcastle disease affect? (variant 193)",
+      "text": "Super-ovulation in animal breeding is induced by the use of",
       "options": [
-        "Cattle",
-        "Goats",
-        "Sheep",
-        "Poultry"
+        "Antibiotics",
+        "Gonadotrophic hormones",
+        "Mineral supplements",
+        "Vitamins"
       ],
-      "correct_index": 3,
-      "explanation": "Poultry.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Gonadotrophic hormones (e.g. FSH, PMSG) are used to induce super-ovulation.",
+      "difficulty": 3
     },
     {
       "id": "ani_194",
-      "text": "The tsetse fly is a vector of which disease? (variant 194)",
+      "text": "Disbudding in dairy calves involves the removal of",
       "options": [
-        "No disease",
-        "Only fever",
-        "Trypanosomiasis",
-        "Malaria"
+        "Teeth",
+        "Horn buds before they attach to the skull",
+        "Tail",
+        "Hooves"
       ],
-      "correct_index": 2,
-      "explanation": "Trypanosomiasis.",
+      "correct_index": 1,
+      "explanation": "Disbudding is the removal of horn buds in young calves before horn growth.",
       "difficulty": 2
     },
     {
       "id": "ani_195",
-      "text": "What does protein build in the body? (variant 195)",
+      "text": "The total digestible nutrients (TDN) in a feed measures the",
       "options": [
-        "Only fat",
-        "Body tissues",
-        "No tissues",
-        "Only energy"
+        "Total weight of the feed",
+        "Sum of digestible protein, carbohydrates and fat",
+        "Number of vitamins in the feed",
+        "Moisture content of the feed"
       ],
       "correct_index": 1,
-      "explanation": "Tissues.",
-      "difficulty": 1
+      "explanation": "TDN is the sum of digestible crude protein, digestible carbohydrates and digestible fat.",
+      "difficulty": 3
     },
     {
       "id": "ani_196",
-      "text": "What is the rumen in ruminant animals? (variant 196)",
+      "text": "The sheath (prepuce) in male animals is",
       "options": [
-        "Largest stomach compartment",
-        "Smallest",
-        "No compartment",
-        "Only true stomach"
+        "The testicle",
+        "The skin covering the retracted penis",
+        "The scrotum",
+        "The epididymis"
       ],
-      "correct_index": 0,
-      "explanation": "Largest.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "The prepuce (sheath) is the fold of skin that covers the penis when retracted.",
+      "difficulty": 3
     },
     {
       "id": "ani_197",
-      "text": "Which compartment is known as the true stomach of a ruminant? (variant 197)",
+      "text": "The heat increment of a feed refers to",
       "options": [
-        "Rumen",
-        "Reticulum",
-        "Omasum",
-        "Abomasum"
+        "The temperature at which feed is stored",
+        "Extra heat produced by the animal during digestion and metabolism",
+        "The boiling point of water in feed",
+        "The temperature of the feed after cooking"
       ],
-      "correct_index": 3,
-      "explanation": "Abomasum.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Heat increment is the extra heat produced from the digestion and utilisation of feed.",
+      "difficulty": 3
     },
     {
       "id": "ani_198",
-      "text": "What are broiler chickens raised for? (variant 198)",
+      "text": "Complete the statement: \"A wether is a castrated male\" by choosing the correct option.",
       "options": [
-        "No meat",
-        "Only feathers",
-        "Meat",
-        "Eggs"
+        "Pig",
+        "Goat or sheep",
+        "Cattle",
+        "Horse"
       ],
-      "correct_index": 2,
-      "explanation": "Meat.",
+      "correct_index": 1,
+      "explanation": "A wether is a castrated male sheep or goat.",
       "difficulty": 1
     },
     {
       "id": "ani_199",
-      "text": "What are layer chickens raised for? (variant 199)",
+      "text": "The purpose of adding grit to poultry feed is to",
       "options": [
-        "Only feathers",
-        "Eggs",
-        "Meat",
-        "No eggs"
+        "Add vitamins",
+        "Aid the gizzard in grinding food",
+        "Increase water intake",
+        "Prevent disease"
       ],
       "correct_index": 1,
-      "explanation": "Eggs.",
+      "explanation": "Grit stones in the gizzard help grind hard food particles.",
       "difficulty": 1
     },
     {
       "id": "ani_200",
-      "text": "What is the definition of apiculture? (variant 200?",
+      "text": "The optimum temperature for comfort of adult dairy cattle is between",
       "options": [
-        "Bee keeping",
-        "Fish farming",
-        "Cattle",
-        "Poultry"
+        "0°C and 10°C",
+        "5°C and 25°C",
+        "25°C and 35°C",
+        "35°C and 45°C"
       ],
-      "correct_index": 0,
-      "explanation": "Bee keeping.",
+      "correct_index": 1,
+      "explanation": "Dairy cattle are most comfortable between 5°C and 25°C.",
       "difficulty": 2
     }
   ]

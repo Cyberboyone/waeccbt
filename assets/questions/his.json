@@ -14,20 +14,20 @@
       ],
       "correct_index": 3,
       "explanation": "Herodotus.",
-      "difficulty": 2
+      "difficulty": 3
     },
     {
       "id": "his_002",
       "text": "What is the Nok culture best known for?",
       "options": [
-        "Gold",
+        "Gold work",
         "Iron only",
-        "Terracotta",
-        "Bronze"
+        "Terracotta sculpture",
+        "Bronze casting"
       ],
       "correct_index": 2,
-      "explanation": "Terracotta.",
-      "difficulty": 2
+      "explanation": "The Nok culture is famous for its terracotta sculptures.",
+      "difficulty": 1
     },
     {
       "id": "his_003",
@@ -39,7 +39,7 @@
         "Southeast"
       ],
       "correct_index": 1,
-      "explanation": "Northeast.",
+      "explanation": "The Kanem-Borno Empire was in the northeast.",
       "difficulty": 1
     },
     {
@@ -52,7 +52,7 @@
         "Northwest"
       ],
       "correct_index": 0,
-      "explanation": "Southwest.",
+      "explanation": "The Oyo Empire was in the southwest.",
       "difficulty": 1
     },
     {
@@ -61,24 +61,24 @@
       "options": [
         "Terracotta",
         "Gold only",
-        "No works",
+        "Wood only",
         "Bronze"
       ],
       "correct_index": 3,
-      "explanation": "Bronze.",
+      "explanation": "Benin is famous for its bronze works.",
       "difficulty": 1
     },
     {
       "id": "his_006",
       "text": "Who was the founder of the Sokoto Caliphate?",
       "options": [
-        "Alooma",
-        "Alaafin",
+        "Ali Ghajini",
+        "Alaafin Oyo",
         "Usman dan Fodio",
-        "Bello"
+        "Muhammad Bello"
       ],
       "correct_index": 2,
-      "explanation": "Dan Fodio.",
+      "explanation": "Usman dan Fodio founded the Sokoto Caliphate.",
       "difficulty": 1
     },
     {
@@ -91,7 +91,7 @@
         "1960"
       ],
       "correct_index": 1,
-      "explanation": "1804.",
+      "explanation": "The Fulani Jihad began in 1804.",
       "difficulty": 2
     },
     {
@@ -104,7 +104,7 @@
         "1861"
       ],
       "correct_index": 0,
-      "explanation": "1914.",
+      "explanation": "Nigeria was amalgamated in 1914.",
       "difficulty": 1
     },
     {
@@ -112,13 +112,13 @@
       "text": "What system of administration did Lord Lugard introduce in Nigeria?",
       "options": [
         "Direct rule",
-        "No rule",
-        "Only direct",
+        "Military rule",
+        "Democracy",
         "Indirect rule"
       ],
       "correct_index": 3,
-      "explanation": "Indirect rule.",
-      "difficulty": 1
+      "explanation": "Lugard introduced indirect rule.",
+      "difficulty": 3
     },
     {
       "id": "his_010",
@@ -130,7 +130,7 @@
         "1944"
       ],
       "correct_index": 2,
-      "explanation": "1923.",
+      "explanation": "The NNDP was formed in 1923.",
       "difficulty": 2
     },
     {
@@ -143,20 +143,20 @@
         "1900"
       ],
       "correct_index": 1,
-      "explanation": "1960.",
+      "explanation": "Nigeria gained independence in 1960.",
       "difficulty": 1
     },
     {
       "id": "his_012",
       "text": "Who was the first Prime Minister of Nigeria?",
       "options": [
-        "Balewa",
-        "Azikiwe",
-        "Awolowo",
-        "Bello"
+        "Abubakar Tafawa Balewa",
+        "Nnamdi Azikiwe",
+        "Obafemi Awolowo",
+        "Ahmadu Bello"
       ],
       "correct_index": 0,
-      "explanation": "Balewa.",
+      "explanation": "Balewa was the first Prime Minister.",
       "difficulty": 1
     },
     {
@@ -166,10 +166,10 @@
         "1960",
         "1963",
         "1970",
-        "Jan 1966"
+        "January 1966"
       ],
       "correct_index": 3,
-      "explanation": "Jan 1966.",
+      "explanation": "The first coup was in January 1966.",
       "difficulty": 2
     },
     {
@@ -182,7 +182,7 @@
         "1960-63"
       ],
       "correct_index": 2,
-      "explanation": "1967-70.",
+      "explanation": "The Civil War lasted from 1967 to 1970.",
       "difficulty": 1
     },
     {
@@ -195,20 +195,20 @@
         "1966-79"
       ],
       "correct_index": 1,
-      "explanation": "1979-83.",
+      "explanation": "The Second Republic lasted 1979-83.",
       "difficulty": 2
     },
     {
       "id": "his_016",
-      "text": "Who was the winner of the annulled June 12, 1993 presidential election?",
+      "text": "Who won the annulled June 12, 1993 presidential election?",
       "options": [
-        "Abiola",
-        "Babangida",
-        "Abacha",
-        "Shagari"
+        "MKO Abiola",
+        "Ibrahim Babangida",
+        "Sani Abacha",
+        "Shehu Shagari"
       ],
       "correct_index": 0,
-      "explanation": "Abiola.",
+      "explanation": "MKO Abiola won the June 12 election.",
       "difficulty": 1
     },
     {
@@ -221,12 +221,12 @@
         "1999"
       ],
       "correct_index": 3,
-      "explanation": "1999.",
+      "explanation": "The Fourth Republic began in 1999.",
       "difficulty": 1
     },
     {
       "id": "his_018",
-      "text": "In what year was the Economic Community of West African States (ECOWAS) founded?",
+      "text": "In which year did the event related to was ECOWAS founded actually occur?",
       "options": [
         "1963",
         "1999",
@@ -234,12 +234,12 @@
         "1960"
       ],
       "correct_index": 2,
-      "explanation": "1975.",
+      "explanation": "ECOWAS was founded in 1975.",
       "difficulty": 2
     },
     {
       "id": "his_019",
-      "text": "In what year was the United Nations (UN) founded?",
+      "text": "In what year was the United Nations founded?",
       "options": [
         "1939",
         "1945",
@@ -247,2361 +247,2361 @@
         "1960"
       ],
       "correct_index": 1,
-      "explanation": "1945.",
-      "difficulty": 1
+      "explanation": "The UN was founded in 1945.",
+      "difficulty": 3
     },
     {
       "id": "his_020",
       "text": "Who designed the Nigerian national flag?",
       "options": [
-        "Akinkunmi",
-        "Azikiwe",
-        "Awolowo",
-        "Bello"
+        "Michael Taiwo Akinkunmi",
+        "Nnamdi Azikiwe",
+        "Obafemi Awolowo",
+        "Ahmadu Bello"
       ],
       "correct_index": 0,
-      "explanation": "Akinkunmi.",
+      "explanation": "Akinkunmi designed the Nigerian flag.",
       "difficulty": 1
     },
     {
       "id": "his_021",
-      "text": "Who is known as the Father of History? (variant 21)",
+      "text": "What was the main trade item in the trans-Saharan trade?",
       "options": [
-        "Plato",
-        "Aristotle",
-        "Socrates",
-        "Herodotus"
+        "Cocoa",
+        "Salt and gold",
+        "Rubber",
+        "Cotton"
       ],
-      "correct_index": 3,
-      "explanation": "Herodotus.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Salt and gold were major trans-Saharan trade goods.",
+      "difficulty": 3
     },
     {
       "id": "his_022",
-      "text": "What is the Nok culture best known for? (variant 22)",
+      "text": "Which empire was the largest in West Africa in the 14th century?",
       "options": [
-        "Gold",
-        "Iron only",
-        "Terracotta",
-        "Bronze"
+        "Songhai",
+        "Mali",
+        "Ghana",
+        "Benin"
       ],
-      "correct_index": 2,
-      "explanation": "Terracotta.",
+      "correct_index": 1,
+      "explanation": "The Mali Empire was the largest in 14th-century West Africa.",
       "difficulty": 2
     },
     {
       "id": "his_023",
-      "text": "The Kanem-Borno Empire was located in which part of Nigeria? (variant 23)",
+      "text": "Who was mansa musa associated with and what was their role in history?",
       "options": [
-        "Northwest",
-        "Northeast",
-        "Southwest",
-        "Southeast"
+        "Songhai Empire",
+        "Mali Empire",
+        "Ghana Empire",
+        "Kanem-Borno"
       ],
       "correct_index": 1,
-      "explanation": "Northeast.",
+      "explanation": "Mansa Musa was ruler of the Mali Empire.",
       "difficulty": 1
     },
     {
       "id": "his_024",
-      "text": "The Oyo Empire was located in which part of Nigeria? (variant 24)",
+      "text": "The Hausa city-states were known for:",
       "options": [
-        "Southwest",
-        "Northeast",
-        "Southeast",
-        "Northwest"
+        "Maritime trade",
+        "Crafts and commerce",
+        "Only farming",
+        "Metal smelting only"
       ],
-      "correct_index": 0,
-      "explanation": "Southwest.",
+      "correct_index": 1,
+      "explanation": "Hausa states were known for crafts and commerce.",
       "difficulty": 1
     },
     {
       "id": "his_025",
-      "text": "The Benin Kingdom is famous for its works in which material? (variant 25)",
+      "text": "What does 'indirect rule' mean in colonial administration?",
       "options": [
-        "Terracotta",
-        "Gold only",
-        "No works",
-        "Bronze"
+        "Ruling through local chiefs",
+        "Direct European governance",
+        "No governance at all",
+        "Military occupation only"
       ],
-      "correct_index": 3,
-      "explanation": "Bronze.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Indirect rule means governing through existing traditional rulers.",
+      "difficulty": 3
     },
     {
       "id": "his_026",
-      "text": "Who founded the Sokoto Caliphate? (variant 26)",
+      "text": "Which city is associated with the ancient Ife kingdom?",
       "options": [
-        "Alooma",
-        "Alaafin",
-        "Usman dan Fodio",
-        "Bello"
+        "Lagos",
+        "Ile-Ife",
+        "Benin City",
+        "Kano"
       ],
-      "correct_index": 2,
-      "explanation": "Dan Fodio.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Ile-Ife is the ancient city of the Ife kingdom.",
+      "difficulty": 3
     },
     {
       "id": "his_027",
-      "text": "In what year did the Fulani Jihad begin in Nigeria? (variant 27)",
+      "text": "What is the significance of the Berlin Conference of 1884?",
       "options": [
-        "1914",
-        "1804",
-        "1900",
-        "1960"
+        "African independence",
+        "Partitioning of Africa",
+        "End of slave trade",
+        "Formation of UN"
       ],
       "correct_index": 1,
-      "explanation": "1804.",
-      "difficulty": 2
-    },
-    {
-      "id": "his_028",
-      "text": "In what year was Nigeria amalgamated by Lord Lugard? (variant 28)",
-      "options": [
-        "1914",
-        "1900",
-        "1960",
-        "1861"
-      ],
-      "correct_index": 0,
-      "explanation": "1914.",
+      "explanation": "The Berlin Conference led to the partitioning of Africa.",
       "difficulty": 1
     },
     {
-      "id": "his_029",
-      "text": "What system of administration did Lord Lugard introduce in Nigeria? (variant 29)",
+      "id": "his_028",
+      "text": "Who was the first civilian Governor-General of Nigeria?",
       "options": [
-        "Direct rule",
-        "No rule",
-        "Only direct",
-        "Indirect rule"
+        "Lord Lugard",
+        "Dr. Nnamdi Azikiwe",
+        "Sir John Macpherson",
+        "Sir James Robertson"
       ],
-      "correct_index": 3,
-      "explanation": "Indirect rule.",
+      "correct_index": 2,
+      "explanation": "Sir John Macpherson was the first civilian Governor-General.",
+      "difficulty": 3
+    },
+    {
+      "id": "his_029",
+      "text": "The transatlantic slave trade mainly affected which part of Africa?",
+      "options": [
+        "North Africa",
+        "East Africa",
+        "West Africa",
+        "Southern Africa"
+      ],
+      "correct_index": 2,
+      "explanation": "West Africa was most affected by the transatlantic slave trade.",
       "difficulty": 1
     },
     {
       "id": "his_030",
-      "text": "In what year was the first political party in Nigeria, the NNDP, formed? (variant 30)",
+      "text": "Which political party did Obafemi Awolowo lead?",
       "options": [
-        "1951",
-        "1960",
-        "1923",
-        "1944"
+        "NCNC",
+        "NPC",
+        "AG",
+        "NNDP"
       ],
       "correct_index": 2,
-      "explanation": "1923.",
+      "explanation": "Awolowo led the Action Group (AG).",
       "difficulty": 2
     },
     {
       "id": "his_031",
-      "text": "In what year did Nigeria gain independence? (variant 31)",
+      "text": "What does the acronym NCNC stand for in full?",
       "options": [
-        "1963",
-        "1960",
-        "1914",
-        "1900"
+        "National Council of Nigeria and the Cameroons",
+        "Northern Congress of Nigeria and Cameroon",
+        "Nigerian Council of National Congress",
+        "None of the above"
       ],
-      "correct_index": 1,
-      "explanation": "1960.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "NCNC stands for National Council of Nigeria and the Cameroons.",
+      "difficulty": 2
     },
     {
       "id": "his_032",
-      "text": "Who was the first Prime Minister of Nigeria? (variant 32)",
+      "text": "Who was known as 'zik of africa' and what was their role in history?",
       "options": [
-        "Balewa",
-        "Azikiwe",
         "Awolowo",
-        "Bello"
+        "Nnamdi Azikiwe",
+        "Balewa",
+        "Amino Kano"
       ],
-      "correct_index": 0,
-      "explanation": "Balewa.",
+      "correct_index": 1,
+      "explanation": "Nnamdi Azikiwe was known as Zik of Africa.",
       "difficulty": 1
     },
     {
       "id": "his_033",
-      "text": "When did Nigeria's first military coup take place? (variant 33)",
+      "text": "The Ghana Empire was known by what other name?",
       "options": [
-        "1960",
-        "1963",
-        "1970",
-        "Jan 1966"
+        "Wagadou",
+        "Songhai",
+        "Mali",
+        "Kanem"
       ],
-      "correct_index": 3,
-      "explanation": "Jan 1966.",
-      "difficulty": 2
+      "correct_index": 0,
+      "explanation": "The Ghana Empire was also called Wagadou.",
+      "difficulty": 3
     },
     {
       "id": "his_034",
-      "text": "During what years was the Nigerian Civil War fought? (variant 34)",
+      "text": "Who led the Songhai Empire to its greatest height?",
       "options": [
-        "1966 only",
-        "1970-75",
-        "1967-1970",
-        "1960-63"
+        "Mansa Musa",
+        "Sunni Ali",
+        "Askia Muhammad",
+        "Ibn Battuta"
       ],
       "correct_index": 2,
-      "explanation": "1967-70.",
-      "difficulty": 1
+      "explanation": "Askia Muhammad expanded the Songhai Empire greatly.",
+      "difficulty": 2
     },
     {
       "id": "his_035",
-      "text": "During what years did Nigeria's Second Republic last? (variant 35)",
+      "text": "What was theçš„ä¸»è¦ cause of the Nigerian Civil War?",
       "options": [
-        "1983-99",
-        "1979-83",
-        "1960-66",
-        "1966-79"
+        "Religious differences",
+        "Political tension and secession attempt",
+        "Economic crisis",
+        "Foreign invasion"
       ],
       "correct_index": 1,
-      "explanation": "1979-83.",
+      "explanation": "Political tension and the Biafran secession caused the war.",
       "difficulty": 2
     },
     {
       "id": "his_036",
-      "text": "Who was the winner of the annulled June 12, 1993 presidential election? (variant 36)",
+      "text": "Who declared the secession of Biafra?",
       "options": [
-        "Abiola",
-        "Babangida",
-        "Abacha",
-        "Shagari"
+        "Yakubu Gowon",
+        "Odumegwu Ojukwu",
+        "Aguiyi-Ironsi",
+        "Murtala Mohammed"
       ],
-      "correct_index": 0,
-      "explanation": "Abiola.",
+      "correct_index": 1,
+      "explanation": "Ojukwu declared Biafra's secession.",
       "difficulty": 1
     },
     {
       "id": "his_037",
-      "text": "In what year did Nigeria's Fourth Republic begin? (variant 37)",
+      "text": "In what year did Nigeria become a republic?",
       "options": [
-        "1993",
-        "1983",
-        "1979",
-        "1999"
+        "1960",
+        "1963",
+        "1966",
+        "1979"
       ],
-      "correct_index": 3,
-      "explanation": "1999.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Nigeria became a republic in 1963.",
+      "difficulty": 2
     },
     {
       "id": "his_038",
-      "text": "In what year was the Economic Community of West African States (ECOWAS) founded? (variant 38)",
+      "text": "Who was the first President of Nigeria?",
       "options": [
-        "1963",
-        "1999",
-        "1975",
-        "1960"
+        "Balewa",
+        "Azikiwe",
+        "Awolowo",
+        "Shagari"
       ],
-      "correct_index": 2,
-      "explanation": "1975.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Nnamdi Azikiwe was the first President.",
+      "difficulty": 3
     },
     {
       "id": "his_039",
-      "text": "In what year was the United Nations (UN) founded? (variant 39)",
+      "text": "The Sokoto Caliphate was divided into how many emirates?",
       "options": [
-        "1939",
-        "1945",
-        "1914",
-        "1960"
+        "10",
+        "20",
+        "Over 30",
+        "5"
       ],
-      "correct_index": 1,
-      "explanation": "1945.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "The Sokoto Caliphate had over 30 emirates.",
+      "difficulty": 3
     },
     {
       "id": "his_040",
-      "text": "Who designed the Nigerian national flag? (variant 40)",
+      "text": "Which ruler of Kanem-Borno is known for promoting Islam?",
       "options": [
-        "Akinkunmi",
-        "Azikiwe",
-        "Awolowo",
-        "Bello"
+        "Idris Alooma",
+        "Sunni Ali",
+        "Askia Muhammad",
+        "Mansa Musa"
       ],
       "correct_index": 0,
-      "explanation": "Akinkunmi.",
-      "difficulty": 1
+      "explanation": "Idris Alooma promoted Islam in Kanem-Borno.",
+      "difficulty": 2
     },
     {
       "id": "his_041",
-      "text": "Who is known as the Father of History? (variant 41)",
+      "text": "What is the primary source of historical information?",
       "options": [
-        "Plato",
-        "Aristotle",
-        "Socrates",
-        "Herodotus"
+        "Textbooks",
+        "Oral tradition",
+        "Novels",
+        "Movies"
       ],
-      "correct_index": 3,
-      "explanation": "Herodotus.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Oral tradition is a primary source of historical information.",
+      "difficulty": 3
     },
     {
       "id": "his_042",
-      "text": "What is the Nok culture best known for? (variant 42)",
+      "text": "What is the meaning of the term 'amalgamation'?",
       "options": [
-        "Gold",
-        "Iron only",
-        "Terracotta",
-        "Bronze"
+        "Separation of regions",
+        "Combining two territories into one",
+        "Declaration of independence",
+        "Signing of a treaty"
       ],
-      "correct_index": 2,
-      "explanation": "Terracotta.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Amalgamation means combining two territories.",
+      "difficulty": 3
     },
     {
       "id": "his_043",
-      "text": "The Kanem-Borno Empire was located in which part of Nigeria? (variant 43)",
+      "text": "Who introduced the warrant chiefs in southeastern Nigeria?",
       "options": [
-        "Northwest",
-        "Northeast",
-        "Southwest",
-        "Southeast"
-      ],
-      "correct_index": 1,
-      "explanation": "Northeast.",
-      "difficulty": 1
-    },
-    {
-      "id": "his_044",
-      "text": "The Oyo Empire was located in which part of Nigeria? (variant 44)",
-      "options": [
-        "Southwest",
-        "Northeast",
-        "Southeast",
-        "Northwest"
-      ],
-      "correct_index": 0,
-      "explanation": "Southwest.",
-      "difficulty": 1
-    },
-    {
-      "id": "his_045",
-      "text": "The Benin Kingdom is famous for its works in which material? (variant 45)",
-      "options": [
-        "Terracotta",
-        "Gold only",
-        "No works",
-        "Bronze"
+        "Lord Lugard",
+        "Nnamdi Azikiwe",
+        "Lord Fredrick Lugard",
+        "Both A and C"
       ],
       "correct_index": 3,
-      "explanation": "Bronze.",
-      "difficulty": 1
-    },
-    {
-      "id": "his_046",
-      "text": "Who founded the Sokoto Caliphate? (variant 46)",
-      "options": [
-        "Alooma",
-        "Alaafin",
-        "Usman dan Fodio",
-        "Bello"
-      ],
-      "correct_index": 2,
-      "explanation": "Dan Fodio.",
-      "difficulty": 1
-    },
-    {
-      "id": "his_047",
-      "text": "In what year did the Fulani Jihad begin in Nigeria? (variant 47)",
-      "options": [
-        "1914",
-        "1804",
-        "1900",
-        "1960"
-      ],
-      "correct_index": 1,
-      "explanation": "1804.",
+      "explanation": "Lord Lugard introduced warrant chiefs in the southeast.",
       "difficulty": 2
     },
     {
-      "id": "his_048",
-      "text": "In what year was Nigeria amalgamated by Lord Lugard? (variant 48)",
+      "id": "his_044",
+      "text": "Which community most resisted indirect rule in Nigeria?",
       "options": [
-        "1914",
-        "1900",
-        "1960",
-        "1861"
+        "Yoruba",
+        "Hausa-Fulani",
+        "Igbo",
+        "Ijaw"
       ],
-      "correct_index": 0,
-      "explanation": "1914.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "The Igbo community resisted indirect rule.",
+      "difficulty": 2
+    },
+    {
+      "id": "his_045",
+      "text": "What was the Aburi Accord mainly concerned with in Nigerian history?",
+      "options": [
+        "Peace during Civil War",
+        "Agreement to prevent war",
+        "Post-war reconstruction",
+        "Currency reform"
+      ],
+      "correct_index": 1,
+      "explanation": "The Aburi Accord was an agreement to prevent civil war.",
+      "difficulty": 3
+    },
+    {
+      "id": "his_046",
+      "text": "Who was the head of state after the July 1966 counter-coup?",
+      "options": [
+        "Aguiyi-Ironsi",
+        "Yakubu Gowon",
+        "Murtala Mohammed",
+        "Obasanjo"
+      ],
+      "correct_index": 1,
+      "explanation": "Yakubu Gowon became head of state after July 1966.",
+      "difficulty": 2
+    },
+    {
+      "id": "his_047",
+      "text": "Which of the following best describes Pan-Africanism advocates for?",
+      "options": [
+        "African isolation",
+        "Unity of African peoples",
+        "European colonisation",
+        "Arab-African union"
+      ],
+      "correct_index": 1,
+      "explanation": "Pan-Africanism advocates unity of African peoples.",
+      "difficulty": 3
+    },
+    {
+      "id": "his_048",
+      "text": "Who is considered a founding father of Pan-Africanism?",
+      "options": [
+        "Kwame Nkrumah",
+        "Marcus Garvey",
+        "W.E.B. Du Bois",
+        "All of the above"
+      ],
+      "correct_index": 3,
+      "explanation": "Nkrumah, Garvey and Du Bois were Pan-Africanist pioneers.",
+      "difficulty": 2
     },
     {
       "id": "his_049",
-      "text": "What system of administration did Lord Lugard introduce in Nigeria? (variant 49)",
+      "text": "Which West African country gained independence in 1957?",
       "options": [
-        "Direct rule",
-        "No rule",
-        "Only direct",
-        "Indirect rule"
+        "Nigeria",
+        "Ghana",
+        "Sierra Leone",
+        "Senegal"
       ],
-      "correct_index": 3,
-      "explanation": "Indirect rule.",
+      "correct_index": 1,
+      "explanation": "Ghana gained independence in 1957.",
       "difficulty": 1
     },
     {
       "id": "his_050",
-      "text": "In what year was the first political party in Nigeria, the NNDP, formed? (variant 50)",
+      "text": "Who led Ghana to gain its political independence?",
       "options": [
-        "1951",
-        "1960",
-        "1923",
-        "1944"
+        "Patrice Lumumba",
+        "Kwame Nkrumah",
+        "Jomo Kenyatta",
+        "Julius Nyerere"
       ],
-      "correct_index": 2,
-      "explanation": "1923.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Kwame Nkrumah led Ghana to independence.",
+      "difficulty": 1
     },
     {
       "id": "his_051",
-      "text": "In what year did Nigeria gain independence? (variant 51)",
+      "text": "The Oyo Empire's political system featured a:",
       "options": [
-        "1963",
-        "1960",
-        "1914",
-        "1900"
+        "Single king",
+        "Council of elders and Alaafin",
+        "Military dictatorship",
+        "Democratic assembly"
       ],
       "correct_index": 1,
-      "explanation": "1960.",
-      "difficulty": 1
+      "explanation": "Oyo had a council of elders (Oyo Mesi) and the Alaafin.",
+      "difficulty": 2
     },
     {
       "id": "his_052",
-      "text": "Who was the first Prime Minister of Nigeria? (variant 52)",
+      "text": "What was the role of the Oyo Mesi council in the Oyo Empire?",
       "options": [
-        "Balewa",
-        "Azikiwe",
-        "Awolowo",
-        "Bello"
+        "Military commanders",
+        "Advisory council to Alaafin",
+        "Religious priests",
+        "Trade regulators"
       ],
-      "correct_index": 0,
-      "explanation": "Balewa.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Oyo Mesi was an advisory council to the Alaafin.",
+      "difficulty": 2
     },
     {
       "id": "his_053",
-      "text": "When did Nigeria's first military coup take place? (variant 53)",
+      "text": "The Benin Bronzes were looted during which event?",
       "options": [
-        "1960",
-        "1963",
-        "1970",
-        "Jan 1966"
+        "Trans-Saharan trade",
+        "British punitive expedition of 1897",
+        "Portuguese trading missions",
+        "Dutch invasion"
       ],
-      "correct_index": 3,
-      "explanation": "Jan 1966.",
+      "correct_index": 1,
+      "explanation": "The Benin Bronzes were looted in the 1897 British expedition.",
       "difficulty": 2
     },
     {
       "id": "his_054",
-      "text": "During what years was the Nigerian Civil War fought? (variant 54)",
+      "text": "Which Nigerian region was the first to have a directly elected legislative council?",
       "options": [
-        "1966 only",
-        "1970-75",
-        "1967-1970",
-        "1960-63"
+        "Northern Nigeria",
+        "Southern Nigeria",
+        "Eastern Nigeria",
+        "Western Nigeria"
       ],
-      "correct_index": 2,
-      "explanation": "1967-70.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Southern Nigeria had the first legislative council.",
+      "difficulty": 3
     },
     {
       "id": "his_055",
-      "text": "During what years did Nigeria's Second Republic last? (variant 55)",
+      "text": "The Northern People's Congress (NPC) was formed in what year?",
       "options": [
-        "1983-99",
-        "1979-83",
-        "1960-66",
-        "1966-79"
+        "1949",
+        "1951",
+        "1953",
+        "1960"
       ],
-      "correct_index": 1,
-      "explanation": "1979-83.",
-      "difficulty": 2
+      "correct_index": 0,
+      "explanation": "The NPC was formed in 1949.",
+      "difficulty": 3
     },
     {
       "id": "his_056",
-      "text": "Who was the winner of the annulled June 12, 1993 presidential election? (variant 56)",
+      "text": "Who was the leader of the npc and what was their role in history?",
       "options": [
-        "Abiola",
-        "Babangida",
-        "Abacha",
-        "Shagari"
+        "Obafemi Awolowo",
+        "Ahmadu Bello",
+        "Nnamdi Azikiwe",
+        "Samuel Akintola"
       ],
-      "correct_index": 0,
-      "explanation": "Abiola.",
-      "difficulty": 1
-    },
-    {
-      "id": "his_057",
-      "text": "In what year did Nigeria's Fourth Republic begin? (variant 57)",
-      "options": [
-        "1993",
-        "1983",
-        "1979",
-        "1999"
-      ],
-      "correct_index": 3,
-      "explanation": "1999.",
-      "difficulty": 1
-    },
-    {
-      "id": "his_058",
-      "text": "In what year was the Economic Community of West African States (ECOWAS) founded? (variant 58)",
-      "options": [
-        "1963",
-        "1999",
-        "1975",
-        "1960"
-      ],
-      "correct_index": 2,
-      "explanation": "1975.",
+      "correct_index": 1,
+      "explanation": "Ahmadu Bello led the NPC.",
       "difficulty": 2
     },
     {
-      "id": "his_059",
-      "text": "In what year was the United Nations (UN) founded? (variant 59)",
+      "id": "his_057",
+      "text": "The Action Group crisis of 1962 involved Awolowo and:",
       "options": [
-        "1939",
-        "1945",
-        "1914",
-        "1960"
+        "Azikiwe",
+        "Akintola",
+        "Balewa",
+        "Bello"
       ],
       "correct_index": 1,
-      "explanation": "1945.",
+      "explanation": "The crisis was between Awolowo and Samuel Akintola.",
+      "difficulty": 2
+    },
+    {
+      "id": "his_058",
+      "text": "What was the Western Region crisis of 1962-63 also called?",
+      "options": [
+        "Cocoa purge",
+        "Wild Wild West",
+        "Mid-West crisis",
+        "Action crisis"
+      ],
+      "correct_index": 1,
+      "explanation": "It was popularly called the 'Wild Wild West'.",
+      "difficulty": 3
+    },
+    {
+      "id": "his_059",
+      "text": "Who was the leader of the first military government in Nigeria?",
+      "options": [
+        "Yakubu Gowon",
+        "Aguiyi-Ironsi",
+        "Murtala Mohammed",
+        "Buhari"
+      ],
+      "correct_index": 1,
+      "explanation": "Aguiyi-Ironsi led the first military government.",
       "difficulty": 1
     },
     {
       "id": "his_060",
-      "text": "Who designed the Nigerian national flag? (variant 60)",
+      "text": "Which of the following best describes Decree 34 of 1966 abolished?",
       "options": [
-        "Akinkunmi",
-        "Azikiwe",
-        "Awolowo",
-        "Bello"
+        "Democracy",
+        "Federalism",
+        "Political parties",
+        "Trade unions"
       ],
-      "correct_index": 0,
-      "explanation": "Akinkunmi.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Decree 34 abolished federalism and created a unitary state.",
+      "difficulty": 3
     },
     {
       "id": "his_061",
-      "text": "Who is known as the Father of History? (variant 61)",
+      "text": "Which British colony was located in present-day Ghana?",
       "options": [
-        "Plato",
-        "Aristotle",
-        "Socrates",
-        "Herodotus"
+        "Nigeria",
+        "Gold Coast",
+        "Sierra Leone",
+        "Gambia"
       ],
-      "correct_index": 3,
-      "explanation": "Herodotus.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "The Gold Coast is present-day Ghana.",
+      "difficulty": 3
     },
     {
       "id": "his_062",
-      "text": "What is the Nok culture best known for? (variant 62)",
+      "text": "Who introduced the use of 'warrant chiefs' in eastern Nigeria?",
       "options": [
-        "Gold",
-        "Iron only",
-        "Terracotta",
-        "Bronze"
+        "Gallagher",
+        "Lugard",
+        "Clifford",
+        "Macpherson"
       ],
-      "correct_index": 2,
-      "explanation": "Terracotta.",
+      "correct_index": 1,
+      "explanation": "Lord Lugard introduced warrant chiefs in the east.",
       "difficulty": 2
     },
     {
       "id": "his_063",
-      "text": "The Kanem-Borno Empire was located in which part of Nigeria? (variant 63)",
+      "text": "The Warrant Chief system was most resisted in:",
       "options": [
-        "Northwest",
-        "Northeast",
-        "Southwest",
-        "Southeast"
+        "Yorubaland",
+        "Hausaland",
+        "Igboland",
+        "Edoland"
       ],
-      "correct_index": 1,
-      "explanation": "Northeast.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "The Igbo people most resisted the warrant chief system.",
+      "difficulty": 2
     },
     {
       "id": "his_064",
-      "text": "The Oyo Empire was located in which part of Nigeria? (variant 64)",
+      "text": "The ABA Women's War of 1929 was against:",
       "options": [
-        "Southwest",
-        "Northeast",
-        "Southeast",
-        "Northwest"
+        "Taxation by warrant chiefs",
+        "Military conscription",
+        "Land seizure",
+        "Trade restrictions"
       ],
       "correct_index": 0,
-      "explanation": "Southwest.",
-      "difficulty": 1
+      "explanation": "The women protested taxation imposed by warrant chiefs.",
+      "difficulty": 2
     },
     {
       "id": "his_065",
-      "text": "The Benin Kingdom is famous for its works in which material? (variant 65)",
+      "text": "Which of these was a pre-colonial Hausa state?",
       "options": [
-        "Terracotta",
-        "Gold only",
-        "No works",
-        "Bronze"
+        "Benin",
+        "Oyo",
+        "Kano",
+        "Ife"
       ],
-      "correct_index": 3,
-      "explanation": "Bronze.",
+      "correct_index": 2,
+      "explanation": "Kano was a major Hausa city-state.",
       "difficulty": 1
     },
     {
       "id": "his_066",
-      "text": "Who founded the Sokoto Caliphate? (variant 66)",
+      "text": "The Jebba-Niger bridge was built during whose administration?",
       "options": [
-        "Alooma",
-        "Alaafin",
-        "Usman dan Fodio",
-        "Bello"
+        "Lugard",
+        "Macpherson",
+        "Gowon",
+        "Obasanjo"
       ],
-      "correct_index": 2,
-      "explanation": "Dan Fodio.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Lugard oversaw the construction of the Jebba-Niger bridge.",
+      "difficulty": 3
     },
     {
       "id": "his_067",
-      "text": "In what year did the Fulani Jihad begin in Nigeria? (variant 67)",
+      "text": "What does 'Nationalism' mean in the African context?",
       "options": [
-        "1914",
-        "1804",
-        "1900",
-        "1960"
+        "Tribal loyalty",
+        "Movement for self-governance",
+        "Anti-education",
+        "Support for colonialism"
       ],
       "correct_index": 1,
-      "explanation": "1804.",
-      "difficulty": 2
+      "explanation": "African nationalism was a movement for self-governance.",
+      "difficulty": 3
     },
     {
       "id": "his_068",
-      "text": "In what year was Nigeria amalgamated by Lord Lugard? (variant 68)",
+      "text": "The 1954 constitution established a federal system in:",
       "options": [
-        "1914",
-        "1900",
-        "1960",
-        "1861"
+        "Ghana",
+        "Nigeria",
+        "Cameroon",
+        "Senegal"
       ],
-      "correct_index": 0,
-      "explanation": "1914.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The 1954 constitution created Nigeria's federal system.",
+      "difficulty": 2
     },
     {
       "id": "his_069",
-      "text": "What system of administration did Lord Lugard introduce in Nigeria? (variant 69)",
+      "text": "Who became the first Premier of the Northern Region?",
       "options": [
-        "Direct rule",
-        "No rule",
-        "Only direct",
-        "Indirect rule"
+        "Obafemi Awolowo",
+        "Ahmadu Bello",
+        "Nnamdi Azikiwe",
+        "Samuel Akintola"
       ],
-      "correct_index": 3,
-      "explanation": "Indirect rule.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Ahmadu Bello became the first Northern Region Premier.",
+      "difficulty": 2
     },
     {
       "id": "his_070",
-      "text": "In what year was the first political party in Nigeria, the NNDP, formed? (variant 70)",
+      "text": "The Richards Constitution was introduced in what year?",
       "options": [
+        "1946",
         "1951",
-        "1960",
-        "1923",
-        "1944"
+        "1954",
+        "1960"
       ],
-      "correct_index": 2,
-      "explanation": "1923.",
+      "correct_index": 0,
+      "explanation": "The Richards Constitution was introduced in 1946.",
       "difficulty": 2
     },
     {
       "id": "his_071",
-      "text": "In what year did Nigeria gain independence? (variant 71)",
+      "text": "The Macpherson Constitution was based on what principle?",
       "options": [
-        "1963",
-        "1960",
-        "1914",
-        "1900"
+        "Unitary government",
+        "Federalism and regionalism",
+        "Military rule",
+        "Direct rule"
       ],
       "correct_index": 1,
-      "explanation": "1960.",
-      "difficulty": 1
+      "explanation": "The Macpherson Constitution was based on federalism.",
+      "difficulty": 3
     },
     {
       "id": "his_072",
-      "text": "Who was the first Prime Minister of Nigeria? (variant 72)",
+      "text": "Which political party won the most seats in the 1959 federal elections?",
       "options": [
-        "Balewa",
-        "Azikiwe",
-        "Awolowo",
-        "Bello"
+        "AG",
+        "NCNC",
+        "NPC",
+        "NNDP"
       ],
-      "correct_index": 0,
-      "explanation": "Balewa.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "The NPC won the most seats in the 1959 elections.",
+      "difficulty": 2
     },
     {
       "id": "his_073",
-      "text": "When did Nigeria's first military coup take place? (variant 73)",
+      "text": "What was the NAME of the 1960 independence constitution?",
       "options": [
-        "1960",
-        "1963",
-        "1970",
-        "Jan 1966"
+        "Richards Constitution",
+        "Mcpherson Constitution",
+        "Independence Constitution",
+        "Republican Constitution"
       ],
-      "correct_index": 3,
-      "explanation": "Jan 1966.",
+      "correct_index": 2,
+      "explanation": "It was simply called the Independence Constitution.",
       "difficulty": 2
     },
     {
       "id": "his_074",
-      "text": "During what years was the Nigerian Civil War fought? (variant 74)",
+      "text": "Who was the Governor-General at Nigerian independence in 1960?",
       "options": [
-        "1966 only",
-        "1970-75",
-        "1967-1970",
-        "1960-63"
+        "Lord Lugard",
+        "Sir James Robertson",
+        "Sir John Macpherson",
+        "Dr. Azikiwe"
       ],
-      "correct_index": 2,
-      "explanation": "1967-70.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Sir James Robertson was the last Governor-General.",
+      "difficulty": 3
     },
     {
       "id": "his_075",
-      "text": "During what years did Nigeria's Second Republic last? (variant 75)",
+      "text": "The Yoruba kingdom of Ijebu was known for:",
       "options": [
-        "1983-99",
-        "1979-83",
-        "1960-66",
-        "1966-79"
+        "Bronze casting",
+        "Wealth from trade",
+        "Military conquest",
+        "Iron smelting"
       ],
       "correct_index": 1,
-      "explanation": "1979-83.",
+      "explanation": "The Ijebu kingdom was known for trade wealth.",
       "difficulty": 2
     },
     {
       "id": "his_076",
-      "text": "Who was the winner of the annulled June 12, 1993 presidential election? (variant 76)",
+      "text": "Which empire controlled the city of Timbuktu?",
       "options": [
-        "Abiola",
-        "Babangida",
-        "Abacha",
-        "Shagari"
+        "Ghana",
+        "Mali",
+        "Benin",
+        "Hausa states"
       ],
-      "correct_index": 0,
-      "explanation": "Abiola.",
+      "correct_index": 1,
+      "explanation": "Timbuktu was part of the Mali Empire.",
       "difficulty": 1
     },
     {
       "id": "his_077",
-      "text": "In what year did Nigeria's Fourth Republic begin? (variant 77)",
+      "text": "The University of Ibadan was established in what year?",
       "options": [
-        "1993",
-        "1983",
-        "1979",
-        "1999"
+        "1948",
+        "1960",
+        "1955",
+        "1965"
       ],
-      "correct_index": 3,
-      "explanation": "1999.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "The University of Ibadan was established in 1948.",
+      "difficulty": 3
     },
     {
       "id": "his_078",
-      "text": "In what year was the Economic Community of West African States (ECOWAS) founded? (variant 78)",
+      "text": "What was the primary motivation for European colonialism in Africa?",
       "options": [
-        "1963",
-        "1999",
-        "1975",
-        "1960"
+        "Education",
+        "Resources and trade",
+        "Religion",
+        "Humanitarianism"
       ],
-      "correct_index": 2,
-      "explanation": "1975.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Europeans sought resources and trade routes.",
+      "difficulty": 1
     },
     {
       "id": "his_079",
-      "text": "In what year was the United Nations (UN) founded? (variant 79)",
+      "text": "Which European country colonized Nigeria during the colonial era?",
       "options": [
-        "1939",
-        "1945",
-        "1914",
-        "1960"
+        "France",
+        "Germany",
+        "Britain",
+        "Portugal"
       ],
-      "correct_index": 1,
-      "explanation": "1945.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Britain colonized Nigeria.",
+      "difficulty": 3
     },
     {
       "id": "his_080",
-      "text": "Who designed the Nigerian national flag? (variant 80)",
+      "text": "The Royal Niger Company was formed by:",
       "options": [
-        "Akinkunmi",
-        "Azikiwe",
-        "Awolowo",
-        "Bello"
+        "French traders",
+        "British merchants",
+        "German traders",
+        "Belgian merchants"
       ],
-      "correct_index": 0,
-      "explanation": "Akinkunmi.",
-      "difficulty": 1
-    },
-    {
-      "id": "his_081",
-      "text": "Who is known as the Father of History? (variant 81)",
-      "options": [
-        "Plato",
-        "Aristotle",
-        "Socrates",
-        "Herodotus"
-      ],
-      "correct_index": 3,
-      "explanation": "Herodotus.",
+      "correct_index": 1,
+      "explanation": "The Royal Niger Company was formed by British merchants.",
       "difficulty": 2
     },
     {
-      "id": "his_082",
-      "text": "What is the Nok culture best known for? (variant 82)",
+      "id": "his_081",
+      "text": "What was the significance of the 1914 amalgamation?",
       "options": [
-        "Gold",
-        "Iron only",
-        "Terracotta",
-        "Bronze"
+        "Independence",
+        "Northern and Southern Nigeria merged",
+        "End of slave trade",
+        "Creation of regions"
       ],
-      "correct_index": 2,
-      "explanation": "Terracotta.",
+      "correct_index": 1,
+      "explanation": "The 1914 amalgamation merged Northern and Southern Nigeria.",
+      "difficulty": 1
+    },
+    {
+      "id": "his_082",
+      "text": "The Aba Women's Revolt occurred in which year?",
+      "options": [
+        "1920",
+        "1929",
+        "1935",
+        "1945"
+      ],
+      "correct_index": 1,
+      "explanation": "The Aba Women's Revolt occurred in 1929.",
       "difficulty": 2
     },
     {
       "id": "his_083",
-      "text": "The Kanem-Borno Empire was located in which part of Nigeria? (variant 83)",
+      "text": "Who was the first Nigerian to graduate from a European university?",
       "options": [
-        "Northwest",
-        "Northeast",
-        "Southwest",
-        "Southeast"
+        "Nnamdi Azikiwe",
+        "Herbert Macaulay",
+        "Obafemi Awolowo",
+        "Samuel Akinsanya"
       ],
       "correct_index": 1,
-      "explanation": "Northeast.",
-      "difficulty": 1
+      "explanation": "Herbert Macaulay was among the earliest Nigerian graduates.",
+      "difficulty": 3
     },
     {
       "id": "his_084",
-      "text": "The Oyo Empire was located in which part of Nigeria? (variant 84)",
+      "text": "The concept of 'force majeure' in colonial treaties often meant:",
       "options": [
-        "Southwest",
-        "Northeast",
-        "Southeast",
-        "Northwest"
+        "Peaceful negotiation",
+        "Coercion and deception",
+        "Fair trade",
+        "Democratic consent"
       ],
-      "correct_index": 0,
-      "explanation": "Southwest.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Colonial treaties were often signed through coercion.",
+      "difficulty": 3
     },
     {
       "id": "his_085",
-      "text": "The Benin Kingdom is famous for its works in which material? (variant 85)",
+      "text": "The Biafran flag featured which symbol?",
       "options": [
-        "Terracotta",
-        "Gold only",
-        "No works",
-        "Bronze"
+        "Eagle",
+        "Half sun",
+        "Crescent moon",
+        "Lion"
       ],
-      "correct_index": 3,
-      "explanation": "Bronze.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Biafran flag featured a half sun.",
+      "difficulty": 2
     },
     {
       "id": "his_086",
-      "text": "Who founded the Sokoto Caliphate? (variant 86)",
+      "text": "How many regions did Nigeria have at independence?",
       "options": [
-        "Alooma",
-        "Alaafin",
-        "Usman dan Fodio",
-        "Bello"
+        "3",
+        "4",
+        "5",
+        "6"
       ],
-      "correct_index": 2,
-      "explanation": "Dan Fodio.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Nigeria had three regions at independence.",
+      "difficulty": 3
     },
     {
       "id": "his_087",
-      "text": "In what year did the Fulani Jihad begin in Nigeria? (variant 87)",
+      "text": "What was the name of Nigeria's 1963 Republican Constitution?",
       "options": [
-        "1914",
-        "1804",
-        "1900",
-        "1960"
+        "Independence Constitution",
+        "Republican Constitution",
+        "Federal Constitution",
+        "Unitary Constitution"
       ],
       "correct_index": 1,
-      "explanation": "1804.",
+      "explanation": "It was called the Republican Constitution.",
       "difficulty": 2
     },
     {
       "id": "his_088",
-      "text": "In what year was Nigeria amalgamated by Lord Lugard? (variant 88)",
+      "text": "What does the term 'amalgamation of 1914' specifically refer to?",
       "options": [
-        "1914",
-        "1900",
-        "1960",
-        "1861"
+        "Creation of Lagos Colony",
+        "Merger of Northern and Southern Protectorates",
+        "Division into regions",
+        "Formation of political parties"
       ],
-      "correct_index": 0,
-      "explanation": "1914.",
-      "difficulty": 1
-    },
-    {
-      "id": "his_089",
-      "text": "What system of administration did Lord Lugard introduce in Nigeria? (variant 89)",
-      "options": [
-        "Direct rule",
-        "No rule",
-        "Only direct",
-        "Indirect rule"
-      ],
-      "correct_index": 3,
-      "explanation": "Indirect rule.",
-      "difficulty": 1
-    },
-    {
-      "id": "his_090",
-      "text": "In what year was the first political party in Nigeria, the NNDP, formed? (variant 90)",
-      "options": [
-        "1951",
-        "1960",
-        "1923",
-        "1944"
-      ],
-      "correct_index": 2,
-      "explanation": "1923.",
+      "correct_index": 1,
+      "explanation": "It referred to the merger of Northern and Southern Protectorates.",
       "difficulty": 2
     },
     {
-      "id": "his_091",
-      "text": "In what year did Nigeria gain independence? (variant 91)",
+      "id": "his_089",
+      "text": "Who was the leader of the Mid-West region during the Civil War?",
       "options": [
-        "1963",
-        "1960",
-        "1914",
-        "1900"
+        "Ojukwu",
+        "David Ejoor",
+        "Gowon",
+        "Ironsi"
       ],
       "correct_index": 1,
-      "explanation": "1960.",
+      "explanation": "David Ejoor was the military administrator of the Mid-West.",
+      "difficulty": 3
+    },
+    {
+      "id": "his_090",
+      "text": "What does the acronym OAU stand for in full?",
+      "options": [
+        "Organisation of African Unity",
+        "Organisation of American Unity",
+        "Organisation of Asian Unity",
+        "Organisation of Arab Unity"
+      ],
+      "correct_index": 0,
+      "explanation": "OAU stands for Organisation of African Unity.",
       "difficulty": 1
     },
     {
-      "id": "his_092",
-      "text": "Who was the first Prime Minister of Nigeria? (variant 92)",
+      "id": "his_091",
+      "text": "In which year did the event related to was the OAU founded actually occur?",
       "options": [
-        "Balewa",
-        "Azikiwe",
-        "Awolowo",
-        "Bello"
+        "1957",
+        "1963",
+        "1975",
+        "1980"
       ],
-      "correct_index": 0,
-      "explanation": "Balewa.",
+      "correct_index": 1,
+      "explanation": "The OAU was founded in 1963.",
+      "difficulty": 2
+    },
+    {
+      "id": "his_092",
+      "text": "The OAU was replaced by which organisation?",
+      "options": [
+        "ECOWAS",
+        "African Union",
+        "UN",
+        "AUAS"
+      ],
+      "correct_index": 1,
+      "explanation": "The African Union replaced the OAU in 2002.",
       "difficulty": 1
     },
     {
       "id": "his_093",
-      "text": "When did Nigeria's first military coup take place? (variant 93)",
+      "text": "Who was the first chairman of oau and what was their role in history?",
       "options": [
-        "1960",
-        "1963",
-        "1970",
-        "Jan 1966"
+        "Nkrumah",
+        "Haile Selassie",
+        "Nyerere",
+        "Senghor"
       ],
-      "correct_index": 3,
-      "explanation": "Jan 1966.",
+      "correct_index": 1,
+      "explanation": "Haile Selassie was the first OAU chairman.",
       "difficulty": 2
     },
     {
       "id": "his_094",
-      "text": "During what years was the Nigerian Civil War fought? (variant 94)",
+      "text": "The Sahara Desert separates North Africa from:",
       "options": [
-        "1966 only",
-        "1970-75",
-        "1967-1970",
-        "1960-63"
+        "Europe",
+        "Sub-Saharan Africa",
+        "Middle East",
+        "Asia"
       ],
-      "correct_index": 2,
-      "explanation": "1967-70.",
+      "correct_index": 1,
+      "explanation": "The Sahara separates North Africa from sub-Saharan Africa.",
       "difficulty": 1
     },
     {
       "id": "his_095",
-      "text": "During what years did Nigeria's Second Republic last? (variant 95)",
+      "text": "Salt was mainly imported to West Africa from:",
       "options": [
-        "1983-99",
-        "1979-83",
-        "1960-66",
-        "1966-79"
+        "Europe",
+        "Taghaza in the Sahara",
+        "India",
+        "Egypt"
       ],
       "correct_index": 1,
-      "explanation": "1979-83.",
-      "difficulty": 2
+      "explanation": "Salt came from Taghaza in the Sahara Desert.",
+      "difficulty": 3
     },
     {
       "id": "his_096",
-      "text": "Who was the winner of the annulled June 12, 1993 presidential election? (variant 96)",
+      "text": "Which explorer was the first European to reach the coast of Nigeria?",
       "options": [
-        "Abiola",
-        "Babangida",
-        "Abacha",
-        "Shagari"
+        "David Livingstone",
+        "Henry the Navigator's sailors",
+        "Mungo Park",
+        "Richard Burton"
       ],
-      "correct_index": 0,
-      "explanation": "Abiola.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Portuguese sailors under Henry the Navigator were the first.",
+      "difficulty": 3
     },
     {
       "id": "his_097",
-      "text": "In what year did Nigeria's Fourth Republic begin? (variant 97)",
+      "text": "Lagos was ceded to Britain in what year?",
       "options": [
-        "1993",
-        "1983",
-        "1979",
-        "1999"
+        "1807",
+        "1861",
+        "1885",
+        "1914"
       ],
-      "correct_index": 3,
-      "explanation": "1999.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Lagos was ceded to Britain in 1861.",
+      "difficulty": 2
     },
     {
       "id": "his_098",
-      "text": "In what year was the Economic Community of West African States (ECOWAS) founded? (variant 98)",
+      "text": "Who led the 1966 January coup in Nigeria?",
       "options": [
-        "1963",
-        "1999",
-        "1975",
-        "1960"
+        "Yakubu Gowon",
+        "Emmanuel Ifeajuna and Chukwuma Kaduna Nzeogwu",
+        "Murtala Mohammed",
+        "Olusegun Obasanjo"
       ],
-      "correct_index": 2,
-      "explanation": "1975.",
+      "correct_index": 1,
+      "explanation": "Ifeajuna and Nzeogwu were key coup leaders.",
       "difficulty": 2
     },
     {
       "id": "his_099",
-      "text": "In what year was the United Nations (UN) founded? (variant 99)",
+      "text": "What significant event happened in Nigeria on July 29, 1966?",
       "options": [
-        "1939",
-        "1945",
-        "1914",
-        "1960"
+        "Independence",
+        "Counter-coup",
+        "End of Civil War",
+        "Constitutional conference"
       ],
       "correct_index": 1,
-      "explanation": "1945.",
-      "difficulty": 1
-    },
-    {
-      "id": "his_100",
-      "text": "Who designed the Nigerian national flag? (variant 100)",
-      "options": [
-        "Akinkunmi",
-        "Azikiwe",
-        "Awolowo",
-        "Bello"
-      ],
-      "correct_index": 0,
-      "explanation": "Akinkunmi.",
-      "difficulty": 1
-    },
-    {
-      "id": "his_101",
-      "text": "Who is known as the Father of History? (variant 101)",
-      "options": [
-        "Plato",
-        "Aristotle",
-        "Socrates",
-        "Herodotus"
-      ],
-      "correct_index": 3,
-      "explanation": "Herodotus.",
+      "explanation": "A counter-coup occurred on July 29, 1966.",
       "difficulty": 2
     },
     {
-      "id": "his_102",
-      "text": "What is the Nok culture best known for? (variant 102)",
+      "id": "his_100",
+      "text": "The concept of 'indirect rule' was borrowed from which colony?",
       "options": [
-        "Gold",
-        "Iron only",
-        "Terracotta",
-        "Bronze"
+        "India",
+        "Egypt",
+        "Ghana",
+        "Kenya"
       ],
-      "correct_index": 2,
-      "explanation": "Terracotta.",
+      "correct_index": 0,
+      "explanation": "Indirect rule was borrowed from the British system in India.",
+      "difficulty": 3
+    },
+    {
+      "id": "his_101",
+      "text": "The Benin Kingdom was located in present-day:",
+      "options": [
+        "Benin Republic",
+        "Edo State, Nigeria",
+        "Togo",
+        "Ghana"
+      ],
+      "correct_index": 1,
+      "explanation": "The Benin Kingdom was in present-day Edo State.",
+      "difficulty": 1
+    },
+    {
+      "id": "his_102",
+      "text": "Who was the Oba of Benin during the British invasion of 1897?",
+      "options": [
+        "Eweka I",
+        "Ovonramwen",
+        "Ewuare the Great",
+        "Akenzua I"
+      ],
+      "correct_index": 1,
+      "explanation": "Ovonramwen was the Oba during the 1897 invasion.",
       "difficulty": 2
     },
     {
       "id": "his_103",
-      "text": "The Kanem-Borno Empire was located in which part of Nigeria? (variant 103)",
+      "text": "What trade route connected West Africa to the Mediterranean?",
       "options": [
-        "Northwest",
-        "Northeast",
-        "Southwest",
-        "Southeast"
+        "Trans-Atlantic route",
+        "Trans-Saharan route",
+        "Niger River route",
+        "Congo River route"
       ],
       "correct_index": 1,
-      "explanation": "Northeast.",
-      "difficulty": 1
+      "explanation": "The trans-Saharan route connected West Africa to the Mediterranean.",
+      "difficulty": 3
     },
     {
       "id": "his_104",
-      "text": "The Oyo Empire was located in which part of Nigeria? (variant 104)",
+      "text": "The 'Middle Belt' of Nigeria refers to:",
       "options": [
-        "Southwest",
-        "Northeast",
-        "Southeast",
-        "Northwest"
+        "The southern coast",
+        "The central region between north and south",
+        "The far north",
+        "The western region"
       ],
-      "correct_index": 0,
-      "explanation": "Southwest.",
+      "correct_index": 1,
+      "explanation": "The Middle Belt is the central region between north and south.",
       "difficulty": 1
     },
     {
       "id": "his_105",
-      "text": "The Benin Kingdom is famous for its works in which material? (variant 105)",
+      "text": "Who was the first Nigerian Inspector-General of Police?",
       "options": [
-        "Terracotta",
-        "Gold only",
-        "No works",
-        "Bronze"
+        "Louis Orok-Eyo",
+        "Adetokunbo Ademola",
+        "Nnamdi Azikiwe",
+        "Tafawa Balewa"
       ],
-      "correct_index": 3,
-      "explanation": "Bronze.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Louis Orok-Eyo was the first Nigerian IGP.",
+      "difficulty": 3
     },
     {
       "id": "his_106",
-      "text": "Who founded the Sokoto Caliphate? (variant 106)",
+      "text": "The civil service in Nigeria was reorganised by which constitution?",
       "options": [
-        "Alooma",
-        "Alaafin",
-        "Usman dan Fodio",
-        "Bello"
+        "Richards Constitution",
+        "Clifford Constitution",
+        "Macpherson Constitution",
+        "1979 Constitution"
       ],
       "correct_index": 2,
-      "explanation": "Dan Fodio.",
-      "difficulty": 1
+      "explanation": "The Macpherson Constitution reorganised the civil service.",
+      "difficulty": 3
     },
     {
       "id": "his_107",
-      "text": "In what year did the Fulani Jihad begin in Nigeria? (variant 107)",
+      "text": "The Benin Punitive Expedition was led by:",
       "options": [
-        "1914",
-        "1804",
-        "1900",
-        "1960"
+        "Lord Lugard",
+        "Sir Harry Rawson",
+        "Captain Baynton",
+        "Sir Frederick Lugard"
       ],
       "correct_index": 1,
-      "explanation": "1804.",
+      "explanation": "Sir Harry Rawson led the 1897 Benin Expedition.",
       "difficulty": 2
     },
     {
       "id": "his_108",
-      "text": "In what year was Nigeria amalgamated by Lord Lugard? (variant 108)",
+      "text": "What was the principal export of the Gold Coast?",
       "options": [
-        "1914",
-        "1900",
-        "1960",
-        "1861"
+        "Oil",
+        "Gold and cocoa",
+        "Cotton",
+        "Rubber"
       ],
-      "correct_index": 0,
-      "explanation": "1914.",
+      "correct_index": 1,
+      "explanation": "Gold and cocoa were the Gold Coast's main exports.",
       "difficulty": 1
     },
     {
       "id": "his_109",
-      "text": "What system of administration did Lord Lugard introduce in Nigeria? (variant 109)",
+      "text": "Which of the following best describes The Yoruba concept of 'Ogboni' was?",
       "options": [
-        "Direct rule",
-        "No rule",
-        "Only direct",
-        "Indirect rule"
+        "A trade guild",
+        "A secret judicial society",
+        "A farming cooperative",
+        "A military unit"
       ],
-      "correct_index": 3,
-      "explanation": "Indirect rule.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Ogboni was a secret judicial society among the Yoruba.",
+      "difficulty": 2
     },
     {
       "id": "his_110",
-      "text": "In what year was the first political party in Nigeria, the NNDP, formed? (variant 110)",
+      "text": "Which Nigerian region produced the most cocoa at independence?",
       "options": [
-        "1951",
-        "1960",
-        "1923",
-        "1944"
+        "Northern Region",
+        "Eastern Region",
+        "Western Region",
+        "Mid-Western Region"
       ],
       "correct_index": 2,
-      "explanation": "1923.",
+      "explanation": "The Western Region was the largest cocoa producer.",
       "difficulty": 2
     },
     {
       "id": "his_111",
-      "text": "In what year did Nigeria gain independence? (variant 111)",
+      "text": "The Northern Region was mainly known for:",
       "options": [
-        "1963",
-        "1960",
-        "1914",
-        "1900"
+        "Cash crop farming",
+        "Groundnut and cotton production",
+        "Mining",
+        "Fishing"
       ],
       "correct_index": 1,
-      "explanation": "1960.",
+      "explanation": "The Northern Region was known for groundnut and cotton.",
       "difficulty": 1
     },
     {
       "id": "his_112",
-      "text": "Who was the first Prime Minister of Nigeria? (variant 112)",
+      "text": "The Eastern Region's main export at independence was:",
       "options": [
-        "Balewa",
-        "Azikiwe",
-        "Awolowo",
-        "Bello"
+        "Cocoa",
+        "Rubber and palm produce",
+        "Groundnuts",
+        "Cotton"
       ],
-      "correct_index": 0,
-      "explanation": "Balewa.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Eastern Region exported rubber and palm produce.",
+      "difficulty": 2
     },
     {
       "id": "his_113",
-      "text": "When did Nigeria's first military coup take place? (variant 113)",
+      "text": "Which Nigerian leader introduced the 'Northernisation' policy?",
       "options": [
-        "1960",
-        "1963",
-        "1970",
-        "Jan 1966"
+        "Balewa",
+        "Bello",
+        "Gowon",
+        "Buhari"
       ],
-      "correct_index": 3,
-      "explanation": "Jan 1966.",
+      "correct_index": 1,
+      "explanation": "Ahmadu Bello implemented the Northernisation policy.",
       "difficulty": 2
     },
     {
       "id": "his_114",
-      "text": "During what years was the Nigerian Civil War fought? (variant 114)",
+      "text": "The Tiv riots of 1960 were caused by:",
       "options": [
-        "1966 only",
-        "1970-75",
-        "1967-1970",
-        "1960-63"
+        "Taxation",
+        "Resistance to indirect rule",
+        "Election fraud",
+        "Land seizure"
       ],
-      "correct_index": 2,
-      "explanation": "1967-70.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Tiv people resisted indirect rule.",
+      "difficulty": 3
     },
     {
       "id": "his_115",
-      "text": "During what years did Nigeria's Second Republic last? (variant 115)",
+      "text": "Who was the civilian Head of State during the Second Republic?",
       "options": [
-        "1983-99",
-        "1979-83",
-        "1960-66",
-        "1966-79"
+        "Obasanjo",
+        "Shehu Shagari",
+        "Balewa",
+        "Azikiwe"
       ],
       "correct_index": 1,
-      "explanation": "1979-83.",
-      "difficulty": 2
+      "explanation": "Shehu Shagari was the Second Republic Head of State.",
+      "difficulty": 1
     },
     {
       "id": "his_116",
-      "text": "Who was the winner of the annulled June 12, 1993 presidential election? (variant 116)",
+      "text": "The Second Republic was ended by a coup in what year?",
       "options": [
-        "Abiola",
-        "Babangida",
-        "Abacha",
-        "Shagari"
+        "1979",
+        "1983",
+        "1985",
+        "1993"
       ],
-      "correct_index": 0,
-      "explanation": "Abiola.",
+      "correct_index": 1,
+      "explanation": "The 1983 coup ended the Second Republic.",
       "difficulty": 1
     },
     {
       "id": "his_117",
-      "text": "In what year did Nigeria's Fourth Republic begin? (variant 117)",
+      "text": "Who led the military coup that took place in Nigeria in 1983?",
       "options": [
-        "1993",
-        "1983",
-        "1979",
-        "1999"
+        "Babangida",
+        "Buhari",
+        "Murtala",
+        "Obasanjo"
       ],
-      "correct_index": 3,
-      "explanation": "1999.",
-      "difficulty": 1
-    },
-    {
-      "id": "his_118",
-      "text": "In what year was the Economic Community of West African States (ECOWAS) founded? (variant 118)",
-      "options": [
-        "1963",
-        "1999",
-        "1975",
-        "1960"
-      ],
-      "correct_index": 2,
-      "explanation": "1975.",
+      "correct_index": 1,
+      "explanation": "Muhammadu Buhari led the 1983 coup.",
       "difficulty": 2
     },
     {
-      "id": "his_119",
-      "text": "In what year was the United Nations (UN) founded? (variant 119)",
+      "id": "his_118",
+      "text": "Ibrahim Babangida took power in what year?",
       "options": [
-        "1939",
-        "1945",
-        "1914",
-        "1960"
+        "1983",
+        "1985",
+        "1993",
+        "1999"
       ],
       "correct_index": 1,
-      "explanation": "1945.",
+      "explanation": "Babangida took power in 1985.",
       "difficulty": 1
+    },
+    {
+      "id": "his_119",
+      "text": "What was the name of Babangida's political transition programme?",
+      "options": [
+        "Arms-for-rice",
+        "Transition to Civil Rule Programme",
+        "National Reconciliation",
+        "Operation Restore Democracy"
+      ],
+      "correct_index": 1,
+      "explanation": "It was called the Transition to Civil Rule Programme.",
+      "difficulty": 2
     },
     {
       "id": "his_120",
-      "text": "Who designed the Nigerian national flag? (variant 120)",
+      "text": "Who was Babangida's Chief of General Staff?",
       "options": [
-        "Akinkunmi",
-        "Azikiwe",
-        "Awolowo",
-        "Bello"
+        "Olusegun Obasanjo",
+        "Augustus Aikhomu",
+        "Ernest Shonekan",
+        "Sani Abacha"
       ],
-      "correct_index": 0,
-      "explanation": "Akinkunmi.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Augustus Aikhomu was Babangida's Chief of General Staff.",
+      "difficulty": 3
     },
     {
       "id": "his_121",
-      "text": "Who is known as the Father of History? (variant 121)",
+      "text": "What was the Interim National Government?",
       "options": [
-        "Plato",
-        "Aristotle",
-        "Socrates",
-        "Herodotus"
+        "Military rule",
+        "An unelected civilian government led by Ernest Shonekan",
+        "A constitutional assembly",
+        "An military council"
       ],
-      "correct_index": 3,
-      "explanation": "Herodotus.",
+      "correct_index": 1,
+      "explanation": "The ING was an unelected civilian government led by Shonekan.",
       "difficulty": 2
     },
     {
       "id": "his_122",
-      "text": "What is the Nok culture best known for? (variant 122)",
+      "text": "How long did the Interim National Government last?",
       "options": [
-        "Gold",
-        "Iron only",
-        "Terracotta",
-        "Bronze"
+        "3 months",
+        "82 days",
+        "1 year",
+        "6 months"
       ],
-      "correct_index": 2,
-      "explanation": "Terracotta.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "The ING lasted only 82 days.",
+      "difficulty": 3
     },
     {
       "id": "his_123",
-      "text": "The Kanem-Borno Empire was located in which part of Nigeria? (variant 123)",
+      "text": "Sani Abacha seized power in what year?",
       "options": [
-        "Northwest",
-        "Northeast",
-        "Southwest",
-        "Southeast"
+        "1985",
+        "1990",
+        "1993",
+        "1998"
       ],
-      "correct_index": 1,
-      "explanation": "Northeast.",
+      "correct_index": 2,
+      "explanation": "Abacha seized power in November 1993.",
       "difficulty": 1
     },
     {
       "id": "his_124",
-      "text": "The Oyo Empire was located in which part of Nigeria? (variant 124)",
+      "text": "Who was executed alongside Ken Saro-Wiwa?",
       "options": [
-        "Southwest",
-        "Northeast",
-        "Southeast",
-        "Northwest"
+        "MKO Abiola",
+        "Eight Ogoni activists",
+        "Bola Ige",
+        "Alex Ibru"
       ],
-      "correct_index": 0,
-      "explanation": "Southwest.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Eight Ogoni activists were executed with Saro-Wiwa.",
+      "difficulty": 2
     },
     {
       "id": "his_125",
-      "text": "The Benin Kingdom is famous for its works in which material? (variant 125)",
+      "text": "Which of the following best describes Ken Saro-Wiwa was an advocate for?",
       "options": [
-        "Terracotta",
-        "Gold only",
-        "No works",
-        "Bronze"
+        "Yoruba rights",
+        "Ogoni environmental and political rights",
+        "Northern interests",
+        "Military democracy"
       ],
-      "correct_index": 3,
-      "explanation": "Bronze.",
+      "correct_index": 1,
+      "explanation": "Saro-Wiwa advocated for Ogoni rights.",
       "difficulty": 1
     },
     {
       "id": "his_126",
-      "text": "Who founded the Sokoto Caliphate? (variant 126)",
+      "text": "The National Democratic Coalition (NADECO) was formed to:",
       "options": [
-        "Alooma",
-        "Alaafin",
-        "Usman dan Fodio",
-        "Bello"
-      ],
-      "correct_index": 2,
-      "explanation": "Dan Fodio.",
-      "difficulty": 1
-    },
-    {
-      "id": "his_127",
-      "text": "In what year did the Fulani Jihad begin in Nigeria? (variant 127)",
-      "options": [
-        "1914",
-        "1804",
-        "1900",
-        "1960"
+        "Support military rule",
+        "Demand implementation of June 12",
+        "Oppose taxes",
+        "Promote education"
       ],
       "correct_index": 1,
-      "explanation": "1804.",
+      "explanation": "NADECO demanded implementation of June 12 results.",
       "difficulty": 2
     },
     {
-      "id": "his_128",
-      "text": "In what year was Nigeria amalgamated by Lord Lugard? (variant 128)",
+      "id": "his_127",
+      "text": "Who succeeded Abacha as Head of State?",
       "options": [
-        "1914",
-        "1900",
-        "1960",
-        "1861"
+        "Babangida",
+        "Obasanjo",
+        "Abdulsalami Abubakar",
+        "Shonekan"
       ],
-      "correct_index": 0,
-      "explanation": "1914.",
+      "correct_index": 2,
+      "explanation": "Abdulsalami Abubakar succeeded Abacha.",
+      "difficulty": 1
+    },
+    {
+      "id": "his_128",
+      "text": "In which year did the event related to did Abacha die actually occur?",
+      "options": [
+        "1995",
+        "1997",
+        "1998",
+        "1999"
+      ],
+      "correct_index": 2,
+      "explanation": "Abacha died in 1998.",
       "difficulty": 1
     },
     {
       "id": "his_129",
-      "text": "What system of administration did Lord Lugard introduce in Nigeria? (variant 129)",
+      "text": "MKO Abiola died in detention in what year?",
       "options": [
-        "Direct rule",
-        "No rule",
-        "Only direct",
-        "Indirect rule"
+        "1995",
+        "1996",
+        "1997",
+        "1998"
       ],
       "correct_index": 3,
-      "explanation": "Indirect rule.",
-      "difficulty": 1
-    },
-    {
-      "id": "his_130",
-      "text": "In what year was the first political party in Nigeria, the NNDP, formed? (variant 130)",
-      "options": [
-        "1951",
-        "1960",
-        "1923",
-        "1944"
-      ],
-      "correct_index": 2,
-      "explanation": "1923.",
+      "explanation": "Abiola died in detention in 1998.",
       "difficulty": 2
     },
     {
-      "id": "his_131",
-      "text": "In what year did Nigeria gain independence? (variant 131)",
+      "id": "his_130",
+      "text": "Who won the 1999 presidential election?",
       "options": [
-        "1963",
-        "1960",
-        "1914",
-        "1900"
+        "Olu Falae",
+        "Olusegun Obasanjo",
+        "Alex Ekwueme",
+        "Bola Ige"
       ],
       "correct_index": 1,
-      "explanation": "1960.",
+      "explanation": "Obasanjo won the 1999 election.",
+      "difficulty": 1
+    },
+    {
+      "id": "his_131",
+      "text": "The Fourth Republic is based on which constitution?",
+      "options": [
+        "1963 Constitution",
+        "1979 Constitution",
+        "1999 Constitution",
+        "2011 Constitution"
+      ],
+      "correct_index": 2,
+      "explanation": "The Fourth Republic operates under the 1999 Constitution.",
       "difficulty": 1
     },
     {
       "id": "his_132",
-      "text": "Who was the first Prime Minister of Nigeria? (variant 132)",
+      "text": "How many states does Nigeria currently have?",
       "options": [
-        "Balewa",
-        "Azikiwe",
-        "Awolowo",
-        "Bello"
+        "30",
+        "34",
+        "36",
+        "39"
       ],
-      "correct_index": 0,
-      "explanation": "Balewa.",
+      "correct_index": 2,
+      "explanation": "Nigeria has 36 states.",
       "difficulty": 1
     },
     {
       "id": "his_133",
-      "text": "When did Nigeria's first military coup take place? (variant 133)",
+      "text": "The military created states in Nigeria to:",
       "options": [
-        "1960",
-        "1963",
-        "1970",
-        "Jan 1966"
+        "Promote democracy",
+        "Weaken regional power bases",
+        "Increase farming",
+        "Promote tourism"
       ],
-      "correct_index": 3,
-      "explanation": "Jan 1966.",
+      "correct_index": 1,
+      "explanation": "State creation aimed to weaken regional power bases.",
       "difficulty": 2
     },
     {
       "id": "his_134",
-      "text": "During what years was the Nigerian Civil War fought? (variant 134)",
+      "text": "The Nigerian Armed Forces Ruling Council was established by:",
       "options": [
-        "1966 only",
-        "1970-75",
-        "1967-1970",
-        "1960-63"
+        "Buhari",
+        "Babangida",
+        "Abacha",
+        "Abubakar"
       ],
-      "correct_index": 2,
-      "explanation": "1967-70.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Babangida established the AFRC.",
+      "difficulty": 3
     },
     {
       "id": "his_135",
-      "text": "During what years did Nigeria's Second Republic last? (variant 135)",
+      "text": "Which of these was NOT a pre-colonial Yoruba kingdom?",
       "options": [
-        "1983-99",
-        "1979-83",
-        "1960-66",
-        "1966-79"
+        "Oyo",
+        "Ife",
+        "Ijebu",
+        "Kanem"
       ],
-      "correct_index": 1,
-      "explanation": "1979-83.",
-      "difficulty": 2
+      "correct_index": 3,
+      "explanation": "Kanem was not a Yoruba kingdom.",
+      "difficulty": 3
     },
     {
       "id": "his_136",
-      "text": "Who was the winner of the annulled June 12, 1993 presidential election? (variant 136)",
+      "text": "The Ife bronze heads date back to approximately:",
       "options": [
-        "Abiola",
-        "Babangida",
-        "Abacha",
-        "Shagari"
+        "1000 BC",
+        "12th-14th century AD",
+        "19th century AD",
+        "500 BC"
       ],
-      "correct_index": 0,
-      "explanation": "Abiola.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Ife bronze heads date to the 12th-14th century AD.",
+      "difficulty": 2
     },
     {
       "id": "his_137",
-      "text": "In what year did Nigeria's Fourth Republic begin? (variant 137)",
+      "text": "What material were the Ife bronze heads actually made from?",
       "options": [
-        "1993",
-        "1983",
-        "1979",
-        "1999"
+        "Gold",
+        "Brass and bronze",
+        "Iron",
+        "Clay only"
       ],
-      "correct_index": 3,
-      "explanation": "1999.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Ife heads were made from brass and bronze.",
+      "difficulty": 2
     },
     {
       "id": "his_138",
-      "text": "In what year was the Economic Community of West African States (ECOWAS) founded? (variant 138)",
+      "text": "The Kanem-Borno Empire lasted for approximately how many centuries?",
       "options": [
-        "1963",
-        "1999",
-        "1975",
-        "1960"
+        "3 centuries",
+        "5 centuries",
+        "Over 10 centuries",
+        "1 century"
       ],
       "correct_index": 2,
-      "explanation": "1975.",
-      "difficulty": 2
+      "explanation": "Kanem-Borno lasted for over 10 centuries.",
+      "difficulty": 3
     },
     {
       "id": "his_139",
-      "text": "In what year was the United Nations (UN) founded? (variant 139)",
+      "text": "Which dynasty ruled the Kanem-Borno Empire?",
       "options": [
-        "1939",
-        "1945",
-        "1914",
-        "1960"
+        "Sefawa dynasty",
+        "Hausa dynasty",
+        "Oyo dynasty",
+        "Benin dynasty"
       ],
-      "correct_index": 1,
-      "explanation": "1945.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "The Sefawa dynasty ruled Kanem-Borno.",
+      "difficulty": 3
     },
     {
       "id": "his_140",
-      "text": "Who designed the Nigerian national flag? (variant 140)",
+      "text": "The Flaton Scheme of 1912 was aimed at:",
       "options": [
-        "Akinkunmi",
-        "Azikiwe",
-        "Awolowo",
-        "Bello"
+        "Education reform",
+        "Cotton production in Northern Nigeria",
+        "Road construction",
+        "Mining"
       ],
-      "correct_index": 0,
-      "explanation": "Akinkunmi.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Flaton Scheme promoted cotton production in the north.",
+      "difficulty": 3
     },
     {
       "id": "his_141",
-      "text": "Who is known as the Father of History? (variant 141)",
+      "text": "What does 'scramble for Africa' refer to?",
       "options": [
-        "Plato",
-        "Aristotle",
-        "Socrates",
-        "Herodotus"
+        "African migrations",
+        "European competition for African territory",
+        "Trade wars",
+        "Religious conflicts"
       ],
-      "correct_index": 3,
-      "explanation": "Herodotus.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "It refers to European competition for African territory.",
+      "difficulty": 1
     },
     {
       "id": "his_142",
-      "text": "What is the Nok culture best known for? (variant 142)",
+      "text": "Which of the following best describes The Uganda Railway was built by?",
       "options": [
-        "Gold",
-        "Iron only",
-        "Terracotta",
-        "Bronze"
+        "Britain",
+        "Germany",
+        "France",
+        "Portugal"
       ],
-      "correct_index": 2,
-      "explanation": "Terracotta.",
+      "correct_index": 0,
+      "explanation": "Britain built the Uganda Railway.",
       "difficulty": 2
     },
     {
       "id": "his_143",
-      "text": "The Kanem-Borno Empire was located in which part of Nigeria? (variant 143)",
+      "text": "Cecil Rhodes was associated with which colony?",
       "options": [
-        "Northwest",
-        "Northeast",
-        "Southwest",
-        "Southeast"
+        "Nigeria",
+        "Rhodesia (Zimbabwe)",
+        "Kenya",
+        "Gold Coast"
       ],
       "correct_index": 1,
-      "explanation": "Northeast.",
-      "difficulty": 1
+      "explanation": "Cecil Rhodes was associated with Rhodesia.",
+      "difficulty": 2
     },
     {
       "id": "his_144",
-      "text": "The Oyo Empire was located in which part of Nigeria? (variant 144)",
+      "text": "The 1960 Independence Constitution created how many regions?",
       "options": [
-        "Southwest",
-        "Northeast",
-        "Southeast",
-        "Northwest"
+        "3",
+        "4",
+        "5",
+        "6"
       ],
       "correct_index": 0,
-      "explanation": "Southwest.",
-      "difficulty": 1
+      "explanation": "The 1960 Constitution maintained three regions.",
+      "difficulty": 2
     },
     {
       "id": "his_145",
-      "text": "The Benin Kingdom is famous for its works in which material? (variant 145)",
+      "text": "The Mid-Western Region was carved out of which region?",
       "options": [
-        "Terracotta",
-        "Gold only",
-        "No works",
-        "Bronze"
+        "Eastern Region",
+        "Western Region",
+        "Northern Region",
+        "Lagos"
       ],
-      "correct_index": 3,
-      "explanation": "Bronze.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Mid-Western Region was carved from the Western Region.",
+      "difficulty": 2
     },
     {
       "id": "his_146",
-      "text": "Who founded the Sokoto Caliphate? (variant 146)",
+      "text": "When was the Mid-Western Region created?",
       "options": [
-        "Alooma",
-        "Alaafin",
-        "Usman dan Fodio",
-        "Bello"
+        "1960",
+        "1963",
+        "1967",
+        "1976"
       ],
-      "correct_index": 2,
-      "explanation": "Dan Fodio.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Mid-Western Region was created in 1963.",
+      "difficulty": 2
     },
     {
       "id": "his_147",
-      "text": "In what year did the Fulani Jihad begin in Nigeria? (variant 147)",
+      "text": "The National Youth Service Corps (NYSC) was established by:",
       "options": [
-        "1914",
-        "1804",
-        "1900",
-        "1960"
+        "Gowon",
+        "Obasanjo",
+        "Babangida",
+        "Buhari"
       ],
-      "correct_index": 1,
-      "explanation": "1804.",
+      "correct_index": 0,
+      "explanation": "Gowon established the NYSC in 1973.",
       "difficulty": 2
     },
     {
       "id": "his_148",
-      "text": "In what year was Nigeria amalgamated by Lord Lugard? (variant 148)",
+      "text": "What was the main objective of the NYSC?",
       "options": [
-        "1914",
-        "1900",
-        "1960",
-        "1861"
+        "Military training",
+        "Promote national unity",
+        "Economic development",
+        "Agricultural reform"
       ],
-      "correct_index": 0,
-      "explanation": "1914.",
+      "correct_index": 1,
+      "explanation": "NYSC was created to promote national unity.",
       "difficulty": 1
     },
     {
       "id": "his_149",
-      "text": "What system of administration did Lord Lugard introduce in Nigeria? (variant 149)",
+      "text": "The River Niger was first navigated by Europeans in:",
       "options": [
-        "Direct rule",
-        "No rule",
-        "Only direct",
-        "Indirect rule"
+        "1400s",
+        "1500s",
+        "1800s",
+        "1900s"
       ],
-      "correct_index": 3,
-      "explanation": "Indirect rule.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Europeans first navigated the Niger in the 1800s.",
+      "difficulty": 3
     },
     {
       "id": "his_150",
-      "text": "In what year was the first political party in Nigeria, the NNDP, formed? (variant 150)",
+      "text": "Who was the first Nigerian to fly a plane?",
       "options": [
-        "1951",
-        "1960",
-        "1923",
-        "1944"
+        "Funmilayo Ransome-Kuti",
+        "Chikelue Egbuna",
+        "Baba Ahmed",
+        "Gabriel Dara"
       ],
-      "correct_index": 2,
-      "explanation": "1923.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Chikelue Egbuna was a pioneer Nigerian aviator.",
+      "difficulty": 3
     },
     {
       "id": "his_151",
-      "text": "In what year did Nigeria gain independence? (variant 151)",
+      "text": "The Biafran Air Force was supported by which country?",
       "options": [
-        "1963",
-        "1960",
-        "1914",
-        "1900"
+        "Britain",
+        "France",
+        "America",
+        "Russia"
       ],
       "correct_index": 1,
-      "explanation": "1960.",
-      "difficulty": 1
+      "explanation": "France provided covert support to Biafra.",
+      "difficulty": 2
     },
     {
       "id": "his_152",
-      "text": "Who was the first Prime Minister of Nigeria? (variant 152)",
+      "text": "The Organisation of Petroleum Exporting Countries (OPEC) was founded in:",
       "options": [
-        "Balewa",
-        "Azikiwe",
-        "Awolowo",
-        "Bello"
+        "1950",
+        "1960",
+        "1970",
+        "1980"
       ],
-      "correct_index": 0,
-      "explanation": "Balewa.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "OPEC was founded in 1960.",
+      "difficulty": 2
     },
     {
       "id": "his_153",
-      "text": "When did Nigeria's first military coup take place? (variant 153)",
+      "text": "In which year did Nigeria join the Organization of Petroleum Exporting Countries (OPEC)?",
       "options": [
         "1960",
-        "1963",
-        "1970",
-        "Jan 1966"
+        "1965",
+        "1971",
+        "1975"
       ],
-      "correct_index": 3,
-      "explanation": "Jan 1966.",
+      "correct_index": 2,
+      "explanation": "Nigeria joined OPEC in 1971.",
       "difficulty": 2
     },
     {
       "id": "his_154",
-      "text": "During what years was the Nigerian Civil War fought? (variant 154)",
+      "text": "The oil boom of the 1970s had what effect on Nigeria?",
       "options": [
-        "1966 only",
-        "1970-75",
-        "1967-1970",
-        "1960-63"
+        "Poverty",
+        "Rapid economic growth and urbanisation",
+        "De-industrialisation only",
+        "No effect"
       ],
-      "correct_index": 2,
-      "explanation": "1967-70.",
+      "correct_index": 1,
+      "explanation": "The oil boom caused rapid economic growth.",
       "difficulty": 1
     },
     {
       "id": "his_155",
-      "text": "During what years did Nigeria's Second Republic last? (variant 155)",
+      "text": "Which of the following best describes The Udoji Awards of 1975 were?",
       "options": [
-        "1983-99",
-        "1979-83",
-        "1960-66",
-        "1966-79"
+        "Art prizes",
+        "Public service salary awards",
+        "Agricultural awards",
+        "Music awards"
       ],
       "correct_index": 1,
-      "explanation": "1979-83.",
-      "difficulty": 2
+      "explanation": "The Udoji Awards were public service salary awards.",
+      "difficulty": 3
     },
     {
       "id": "his_156",
-      "text": "Who was the winner of the annulled June 12, 1993 presidential election? (variant 156)",
+      "text": "Who introduced the Udoji Awards scheme in Nigeria?",
       "options": [
-        "Abiola",
-        "Babangida",
-        "Abacha",
-        "Shagari"
+        "Gowon",
+        "Murtala Mohammed",
+        "Obasanjo",
+        "Babangida"
       ],
-      "correct_index": 0,
-      "explanation": "Abiola.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Murtala Mohammed introduced the Udoji Awards.",
+      "difficulty": 3
     },
     {
       "id": "his_157",
-      "text": "In what year did Nigeria's Fourth Republic begin? (variant 157)",
+      "text": "Murtala Mohammed was assassinated in what year?",
       "options": [
-        "1993",
-        "1983",
-        "1979",
-        "1999"
+        "1975",
+        "1976",
+        "1977",
+        "1978"
       ],
-      "correct_index": 3,
-      "explanation": "1999.",
+      "correct_index": 1,
+      "explanation": "Murtala was assassinated in 1976.",
       "difficulty": 1
     },
     {
       "id": "his_158",
-      "text": "In what year was the Economic Community of West African States (ECOWAS) founded? (variant 158)",
+      "text": "Who succeeded General Murtala Mohammed as the head of state of Nigeria?",
       "options": [
-        "1963",
-        "1999",
-        "1975",
-        "1960"
+        "Buhari",
+        "Obasanjo",
+        "Babangida",
+        "Idiagbon"
       ],
-      "correct_index": 2,
-      "explanation": "1975.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Obasanjo succeeded Murtala Mohammed.",
+      "difficulty": 1
     },
     {
       "id": "his_159",
-      "text": "In what year was the United Nations (UN) founded? (variant 159)",
+      "text": "Obasanjo voluntarily handed over power to a civilian in:",
       "options": [
-        "1939",
-        "1945",
-        "1914",
-        "1960"
+        "1979",
+        "1983",
+        "1985",
+        "1999"
       ],
       "correct_index": 1,
-      "explanation": "1945.",
+      "explanation": "Obasanjo handed over to Shehu Shagari in 1983.",
       "difficulty": 1
     },
     {
       "id": "his_160",
-      "text": "Who designed the Nigerian national flag? (variant 160)",
+      "text": "The Second Republic used which political system?",
       "options": [
-        "Akinkunmi",
-        "Azikiwe",
-        "Awolowo",
-        "Bello"
+        "Westminster",
+        "Presidential",
+        "Parliamentary",
+        "Unitary"
       ],
-      "correct_index": 0,
-      "explanation": "Akinkunmi.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Second Republic used a presidential system.",
+      "difficulty": 2
     },
     {
       "id": "his_161",
-      "text": "Who is known as the Father of History? (variant 161)",
+      "text": "How many parties were allowed in the Second Republic?",
       "options": [
-        "Plato",
-        "Aristotle",
-        "Socrates",
-        "Herodotus"
+        "2",
+        "3",
+        "5",
+        "Unlimited"
       ],
-      "correct_index": 3,
-      "explanation": "Herodotus.",
+      "correct_index": 1,
+      "explanation": "Three parties were allowed in the Second Republic.",
       "difficulty": 2
     },
     {
       "id": "his_162",
-      "text": "What is the Nok culture best known for? (variant 162)",
+      "text": "The three parties of the Second Republic were based on:",
       "options": [
-        "Gold",
-        "Iron only",
-        "Terracotta",
-        "Bronze"
+        "Ethnicity",
+        "Three designated geopolitical zones",
+        "Religion",
+        "Class"
       ],
-      "correct_index": 2,
-      "explanation": "Terracotta.",
+      "correct_index": 1,
+      "explanation": "Each party was based on a geopolitical zone.",
       "difficulty": 2
     },
     {
       "id": "his_163",
-      "text": "The Kanem-Borno Empire was located in which part of Nigeria? (variant 163)",
+      "text": "Which party was associated with the Northern zone in the Second Republic?",
       "options": [
-        "Northwest",
-        "Northeast",
-        "Southwest",
-        "Southeast"
+        "PDP",
+        "GNPP",
+        "NPN",
+        "UPP"
       ],
-      "correct_index": 1,
-      "explanation": "Northeast.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "NPN was associated with the Northern zone.",
+      "difficulty": 2
     },
     {
       "id": "his_164",
-      "text": "The Oyo Empire was located in which part of Nigeria? (variant 164)",
+      "text": "What does the acronym NPN stand for in full?",
       "options": [
-        "Southwest",
-        "Northeast",
-        "Southeast",
-        "Northwest"
+        "National Party of Nigeria",
+        "New Party of Nigeria",
+        "Northern Party of Nigeria",
+        "National Progressive Nigeria"
       ],
       "correct_index": 0,
-      "explanation": "Southwest.",
+      "explanation": "NPN stands for National Party of Nigeria.",
       "difficulty": 1
     },
     {
       "id": "his_165",
-      "text": "The Benin Kingdom is famous for its works in which material? (variant 165)",
+      "text": "The Unity Party of Nigeria (UPN) was led by:",
       "options": [
-        "Terracotta",
-        "Gold only",
-        "No works",
-        "Bronze"
+        "Azikiwe",
+        "Awolowo",
+        "Adekunle Ajasin",
+        "Waziri Ibrahim"
       ],
-      "correct_index": 3,
-      "explanation": "Bronze.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The UPN was led by Obafemi Awolowo.",
+      "difficulty": 2
     },
     {
       "id": "his_166",
-      "text": "Who founded the Sokoto Caliphate? (variant 166)",
+      "text": "The Great Wall of China was mainly built to protect against:",
       "options": [
-        "Alooma",
-        "Alaafin",
-        "Usman dan Fodio",
-        "Bello"
+        "Japanese invasion",
+        "Mongol invasions",
+        "European traders",
+        "Internal rebellion"
       ],
-      "correct_index": 2,
-      "explanation": "Dan Fodio.",
+      "correct_index": 1,
+      "explanation": "The Great Wall was built to protect against Mongol invasions.",
       "difficulty": 1
     },
     {
       "id": "his_167",
-      "text": "In what year did the Fulani Jihad begin in Nigeria? (variant 167)",
+      "text": "The ancient city-state of Carthage was located in present-day:",
       "options": [
-        "1914",
-        "1804",
-        "1900",
-        "1960"
+        "Egypt",
+        "Tunisia",
+        "Morocco",
+        "Libya"
       ],
       "correct_index": 1,
-      "explanation": "1804.",
+      "explanation": "Carthage was in present-day Tunisia.",
       "difficulty": 2
     },
     {
       "id": "his_168",
-      "text": "In what year was Nigeria amalgamated by Lord Lugard? (variant 168)",
+      "text": "Who was the first female African head of state?",
       "options": [
-        "1914",
-        "1900",
-        "1960",
-        "1861"
+        "Ellen Johnson Sirleaf",
+        "Joyce Banda",
+        "Nkosazana Dlamini-Zuma",
+        "Wangari Maathai"
       ],
       "correct_index": 0,
-      "explanation": "1914.",
+      "explanation": "Ellen Johnson Sirleaf was the first female African head of state.",
       "difficulty": 1
     },
     {
       "id": "his_169",
-      "text": "What system of administration did Lord Lugard introduce in Nigeria? (variant 169)",
+      "text": "Which East African country was known as the 'Swiss of Africa'?",
       "options": [
-        "Direct rule",
-        "No rule",
-        "Only direct",
-        "Indirect rule"
+        "Kenya",
+        "Tanzania",
+        "Rwanda",
+        "Uganda"
       ],
-      "correct_index": 3,
-      "explanation": "Indirect rule.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Rwanda was called the 'Swiss of Africa'.",
+      "difficulty": 3
     },
     {
       "id": "his_170",
-      "text": "In what year was the first political party in Nigeria, the NNDP, formed? (variant 170)",
+      "text": "The Shagari government was accused of:",
       "options": [
-        "1951",
-        "1960",
-        "1923",
-        "1944"
+        "Human rights abuse only",
+        "Corruption and mismanagement",
+        "Starting a war",
+        "Abolishing education"
       ],
-      "correct_index": 2,
-      "explanation": "1923.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "The Shagari government was accused of corruption.",
+      "difficulty": 1
     },
     {
       "id": "his_171",
-      "text": "In what year did Nigeria gain independence? (variant 171)",
+      "text": "What was the Operation Feed the Nation programme in Nigeria?",
       "options": [
-        "1963",
-        "1960",
-        "1914",
-        "1900"
+        "Military operation",
+        "Agricultural programme under Obasanjo",
+        "Health programme",
+        "Education reform"
       ],
       "correct_index": 1,
-      "explanation": "1960.",
-      "difficulty": 1
-    },
-    {
-      "id": "his_172",
-      "text": "Who was the first Prime Minister of Nigeria? (variant 172)",
-      "options": [
-        "Balewa",
-        "Azikiwe",
-        "Awolowo",
-        "Bello"
-      ],
-      "correct_index": 0,
-      "explanation": "Balewa.",
-      "difficulty": 1
-    },
-    {
-      "id": "his_173",
-      "text": "When did Nigeria's first military coup take place? (variant 173)",
-      "options": [
-        "1960",
-        "1963",
-        "1970",
-        "Jan 1966"
-      ],
-      "correct_index": 3,
-      "explanation": "Jan 1966.",
+      "explanation": "OFN was an agricultural programme under Obasanjo.",
       "difficulty": 2
     },
     {
-      "id": "his_174",
-      "text": "During what years was the Nigerian Civil War fought? (variant 174)",
+      "id": "his_172",
+      "text": "The Nigerian National Petroleum Corporation (NNPC) was established in:",
       "options": [
-        "1966 only",
-        "1970-75",
-        "1967-1970",
-        "1960-63"
+        "1971",
+        "1977",
+        "1983",
+        "1990"
       ],
-      "correct_index": 2,
-      "explanation": "1967-70.",
+      "correct_index": 1,
+      "explanation": "NNPC was established in 1977.",
+      "difficulty": 3
+    },
+    {
+      "id": "his_173",
+      "text": "Which of these was a consequence of the Nigerian Civil War?",
+      "options": [
+        "National reconstruction",
+        "3 Rs: Reconciliation, Rehabilitation, Reconstruction",
+        "Separation of states",
+        "Abolition of military"
+      ],
+      "correct_index": 1,
+      "explanation": "The 3 Rs policy was adopted after the war.",
+      "difficulty": 1
+    },
+    {
+      "id": "his_174",
+      "text": "The phrase 'no victor, no vanquished' was used after:",
+      "options": [
+        "January 1966 coup",
+        "Nigerian Civil War",
+        "1983 coup",
+        "June 12 crisis"
+      ],
+      "correct_index": 1,
+      "explanation": "It was used after the Nigerian Civil War.",
       "difficulty": 1
     },
     {
       "id": "his_175",
-      "text": "During what years did Nigeria's Second Republic last? (variant 175)",
+      "text": "Who wrote the book 'Things Fall Apart'?",
       "options": [
-        "1983-99",
-        "1979-83",
-        "1960-66",
-        "1966-79"
+        "Wole Soyinka",
+        "Chinua Achebe",
+        "Ben Okri",
+        "Helon Habila"
       ],
       "correct_index": 1,
-      "explanation": "1979-83.",
-      "difficulty": 2
+      "explanation": "Chinua Achebe wrote 'Things Fall Apart'.",
+      "difficulty": 3
     },
     {
       "id": "his_176",
-      "text": "Who was the winner of the annulled June 12, 1993 presidential election? (variant 176)",
+      "text": "Wole Soyinka won the Nobel Prize in which field?",
       "options": [
-        "Abiola",
-        "Babangida",
-        "Abacha",
-        "Shagari"
+        "Physics",
+        "Literature",
+        "Peace",
+        "Economics"
       ],
-      "correct_index": 0,
-      "explanation": "Abiola.",
+      "correct_index": 1,
+      "explanation": "Soyinka won the Nobel Prize in Literature.",
       "difficulty": 1
     },
     {
       "id": "his_177",
-      "text": "In what year did Nigeria's Fourth Republic begin? (variant 177)",
+      "text": "In what year did Wole Soyinka win the Nobel Prize?",
       "options": [
-        "1993",
-        "1983",
-        "1979",
-        "1999"
-      ],
-      "correct_index": 3,
-      "explanation": "1999.",
-      "difficulty": 1
-    },
-    {
-      "id": "his_178",
-      "text": "In what year was the Economic Community of West African States (ECOWAS) founded? (variant 178)",
-      "options": [
-        "1963",
-        "1999",
         "1975",
-        "1960"
+        "1986",
+        "1995",
+        "2000"
       ],
-      "correct_index": 2,
-      "explanation": "1975.",
+      "correct_index": 1,
+      "explanation": "Soyinka won the Nobel Prize in 1986.",
       "difficulty": 2
     },
     {
-      "id": "his_179",
-      "text": "In what year was the United Nations (UN) founded? (variant 179)",
+      "id": "his_178",
+      "text": "The Delsu 'A' mass protest in 1978 was led by:",
       "options": [
-        "1939",
-        "1945",
-        "1914",
-        "1960"
+        "Students",
+        "Workers",
+        "Market women",
+        "Farmers"
+      ],
+      "correct_index": 0,
+      "explanation": "It was a student-led protest.",
+      "difficulty": 3
+    },
+    {
+      "id": "his_179",
+      "text": "The June 12 movement was strongest in which part of Nigeria?",
+      "options": [
+        "North",
+        "Southwest",
+        "Southeast",
+        "Northeast"
       ],
       "correct_index": 1,
-      "explanation": "1945.",
-      "difficulty": 1
+      "explanation": "The June 12 movement was strongest in the Southwest.",
+      "difficulty": 2
     },
     {
       "id": "his_180",
-      "text": "Who designed the Nigerian national flag? (variant 180)",
+      "text": "Who was Abiola's running mate in the 1993 election?",
       "options": [
-        "Akinkunmi",
-        "Azikiwe",
-        "Awolowo",
-        "Bello"
+        "Babagana Kingibe",
+        "Olusegun Obasanjo",
+        "Bola Tinubu",
+        "Atiku Abubakar"
       ],
       "correct_index": 0,
-      "explanation": "Akinkunmi.",
-      "difficulty": 1
+      "explanation": "Babagana Kingibe was Abiola's running mate.",
+      "difficulty": 2
     },
     {
       "id": "his_181",
-      "text": "Who is known as the Father of History? (variant 181)",
+      "text": "The National Constitutional Conference of 1994-95 was convened by:",
       "options": [
-        "Plato",
-        "Aristotle",
-        "Socrates",
-        "Herodotus"
+        "Babangida",
+        "Shonekan",
+        "Abacha",
+        "Abubakar"
       ],
-      "correct_index": 3,
-      "explanation": "Herodotus.",
+      "correct_index": 2,
+      "explanation": "Abacha convened the 1994-95 NCC.",
       "difficulty": 2
     },
     {
       "id": "his_182",
-      "text": "What is the Nok culture best known for? (variant 182)",
+      "text": "How many political parties did Abacha register?",
       "options": [
-        "Gold",
-        "Iron only",
-        "Terracotta",
-        "Bronze"
+        "3",
+        "5",
+        "9",
+        "2"
       ],
-      "correct_index": 2,
-      "explanation": "Terracotta.",
+      "correct_index": 1,
+      "explanation": "Abacha registered five political parties.",
       "difficulty": 2
     },
     {
       "id": "his_183",
-      "text": "The Kanem-Borno Empire was located in which part of Nigeria? (variant 183)",
+      "text": "What happened to all five parties Abacha registered?",
       "options": [
-        "Northwest",
-        "Northeast",
-        "Southwest",
-        "Southeast"
+        "They contested elections",
+        "They all nominated Abacha as candidate",
+        "They merged",
+        "They were banned"
       ],
       "correct_index": 1,
-      "explanation": "Northeast.",
-      "difficulty": 1
+      "explanation": "All five nominated Abacha as their presidential candidate.",
+      "difficulty": 2
     },
     {
       "id": "his_184",
-      "text": "The Oyo Empire was located in which part of Nigeria? (variant 184)",
+      "text": "The 1999 Constitution was largely modelled on:",
       "options": [
-        "Southwest",
-        "Northeast",
-        "Southeast",
-        "Northwest"
+        "British constitution",
+        "1979 Nigerian Constitution",
+        "US Constitution",
+        "French constitution"
       ],
-      "correct_index": 0,
-      "explanation": "Southwest.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The 1999 Constitution was modelled on the 1979 Constitution.",
+      "difficulty": 2
     },
     {
       "id": "his_185",
-      "text": "The Benin Kingdom is famous for its works in which material? (variant 185)",
+      "text": "Which organ of government does the judiciary represent?",
       "options": [
-        "Terracotta",
-        "Gold only",
-        "No works",
-        "Bronze"
+        "Legislative",
+        "Executive",
+        "Judicial",
+        "Military"
       ],
-      "correct_index": 3,
-      "explanation": "Bronze.",
+      "correct_index": 2,
+      "explanation": "The judiciary represents the judicial organ of government.",
       "difficulty": 1
     },
     {
       "id": "his_186",
-      "text": "Who founded the Sokoto Caliphate? (variant 186)",
+      "text": "The concept of 'separation of powers' means:",
       "options": [
-        "Alooma",
-        "Alaafin",
-        "Usman dan Fodio",
-        "Bello"
+        "Military control",
+        "Division of government into three branches",
+        "One-party rule",
+        "Presidential dictatorship"
       ],
-      "correct_index": 2,
-      "explanation": "Dan Fodio.",
+      "correct_index": 1,
+      "explanation": "It means division into legislative, executive and judicial branches.",
       "difficulty": 1
     },
     {
       "id": "his_187",
-      "text": "In what year did the Fulani Jihad begin in Nigeria? (variant 187)",
+      "text": "How many emirates made up the Kano Emirate?",
       "options": [
-        "1914",
-        "1804",
-        "1900",
-        "1960"
+        "1",
+        "Several",
+        "Over 100",
+        "None"
       ],
       "correct_index": 1,
-      "explanation": "1804.",
-      "difficulty": 2
+      "explanation": "The Kano Emirate was made up of several districts.",
+      "difficulty": 3
     },
     {
       "id": "his_188",
-      "text": "In what year was Nigeria amalgamated by Lord Lugard? (variant 188)",
+      "text": "The Aburi Agreement was signed in which country?",
       "options": [
-        "1914",
-        "1900",
-        "1960",
-        "1861"
+        "Nigeria",
+        "Ghana",
+        "Togo",
+        "Cameroon"
       ],
-      "correct_index": 0,
-      "explanation": "1914.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Aburi Agreement was signed in Ghana.",
+      "difficulty": 2
     },
     {
       "id": "his_189",
-      "text": "What system of administration did Lord Lugard introduce in Nigeria? (variant 189)",
+      "text": "The Zikist Movement was founded in what year?",
       "options": [
-        "Direct rule",
-        "No rule",
-        "Only direct",
-        "Indirect rule"
+        "1942",
+        "1945",
+        "1950",
+        "1955"
       ],
-      "correct_index": 3,
-      "explanation": "Indirect rule.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Zikist Movement was founded in 1945.",
+      "difficulty": 3
     },
     {
       "id": "his_190",
-      "text": "In what year was the first political party in Nigeria, the NNDP, formed? (variant 190)",
+      "text": "What was the main objective of the Zikist Movement?",
       "options": [
-        "1951",
-        "1960",
-        "1923",
-        "1944"
+        "Education",
+        "Full independence for Nigeria",
+        "Trade unionism",
+        "Religious freedom"
       ],
-      "correct_index": 2,
-      "explanation": "1923.",
+      "correct_index": 1,
+      "explanation": "The Zikist Movement demanded full independence.",
       "difficulty": 2
     },
     {
       "id": "his_191",
-      "text": "In what year did Nigeria gain independence? (variant 191)",
+      "text": "The National Council for the Representation of the Peoples was formed in what year?",
       "options": [
-        "1963",
-        "1960",
-        "1914",
-        "1900"
+        "1922",
+        "1937",
+        "1944",
+        "1951"
       ],
-      "correct_index": 1,
-      "explanation": "1960.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "The group was formed in 1944.",
+      "difficulty": 3
     },
     {
       "id": "his_192",
-      "text": "Who was the first Prime Minister of Nigeria? (variant 192)",
+      "text": "Herbert Macaulay is often called the:",
       "options": [
-        "Balewa",
-        "Azikiwe",
-        "Awolowo",
-        "Bello"
+        "Father of Nigerian nationalism",
+        "Father of Nigerian independence",
+        "First Nigerian president",
+        "First Nigerian prime minister"
       ],
       "correct_index": 0,
-      "explanation": "Balewa.",
-      "difficulty": 1
-    },
-    {
-      "id": "his_193",
-      "text": "When did Nigeria's first military coup take place? (variant 193)",
-      "options": [
-        "1960",
-        "1963",
-        "1970",
-        "Jan 1966"
-      ],
-      "correct_index": 3,
-      "explanation": "Jan 1966.",
+      "explanation": "Macaulay is called the father of Nigerian nationalism.",
       "difficulty": 2
     },
     {
-      "id": "his_194",
-      "text": "During what years was the Nigerian Civil War fought? (variant 194)",
+      "id": "his_193",
+      "text": "Which of the following best describes The first newspaper in Nigeria was?",
       "options": [
-        "1966 only",
-        "1970-75",
-        "1967-1970",
-        "1960-63"
+        "Punch",
+        "Times of Lagos",
+        "West African Pilot",
+        "Nigerian Guardian"
       ],
-      "correct_index": 2,
-      "explanation": "1967-70.",
+      "correct_index": 1,
+      "explanation": "The Times of Lagos was among the earliest Nigerian newspapers.",
+      "difficulty": 3
+    },
+    {
+      "id": "his_194",
+      "text": "The 'Cocoa House' in Ibadan was built using revenue from:",
+      "options": [
+        "Oil",
+        "Cocoa",
+        "Groundnuts",
+        "Rubber"
+      ],
+      "correct_index": 1,
+      "explanation": "Cocoa House was built using cocoa revenue.",
       "difficulty": 1
     },
     {
       "id": "his_195",
-      "text": "During what years did Nigeria's Second Republic last? (variant 195)",
+      "text": "The First Republic was characterised by:",
       "options": [
-        "1983-99",
-        "1979-83",
-        "1960-66",
-        "1966-79"
+        "Military dictatorship",
+        "Ethnic politics and instability",
+        "Peaceful democracy",
+        "No elections"
       ],
       "correct_index": 1,
-      "explanation": "1979-83.",
-      "difficulty": 2
+      "explanation": "The First Republic had ethnic politics and instability.",
+      "difficulty": 1
     },
     {
       "id": "his_196",
-      "text": "Who was the winner of the annulled June 12, 1993 presidential election? (variant 196)",
+      "text": "What does 'true federalism' advocate?",
       "options": [
-        "Abiola",
-        "Babangida",
-        "Abacha",
-        "Shagari"
+        "Centralised power",
+        "Greater autonomy for component units",
+        "Unitary system",
+        "No government"
       ],
-      "correct_index": 0,
-      "explanation": "Abiola.",
+      "correct_index": 1,
+      "explanation": "True federalism advocates greater regional autonomy.",
       "difficulty": 1
     },
     {
       "id": "his_197",
-      "text": "In what year did Nigeria's Fourth Republic begin? (variant 197)",
+      "text": "The Kano groundnut pyramids were a symbol of:",
       "options": [
-        "1993",
-        "1983",
-        "1979",
-        "1999"
+        "Northern agricultural wealth",
+        "Southern trade",
+        "Oil production",
+        "Military power"
       ],
-      "correct_index": 3,
-      "explanation": "1999.",
+      "correct_index": 0,
+      "explanation": "Groundnut pyramids symbolised Northern agricultural wealth.",
       "difficulty": 1
     },
     {
       "id": "his_198",
-      "text": "In what year was the Economic Community of West African States (ECOWAS) founded? (variant 198)",
+      "text": "The Tafawa Balewa mausoleum is located in:",
       "options": [
-        "1963",
-        "1999",
-        "1975",
-        "1960"
+        "Lagos",
+        "Bauchi",
+        "Kano",
+        "Abuja"
       ],
-      "correct_index": 2,
-      "explanation": "1975.",
+      "correct_index": 1,
+      "explanation": "The Balewa mausoleum is in Bauchi.",
       "difficulty": 2
     },
     {
       "id": "his_199",
-      "text": "In what year was the United Nations (UN) founded? (variant 199)",
+      "text": "Who was the first Nigerian Chief Justice?",
       "options": [
-        "1939",
-        "1945",
-        "1914",
-        "1960"
+        "Adetokunbo Ademola",
+        "Niki Tobi",
+        "Iê±tas Alli",
+        "Kayode Eso"
       ],
-      "correct_index": 1,
-      "explanation": "1945.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Adetokunbo Ademola was the first Nigerian Chief Justice.",
+      "difficulty": 2
     },
     {
       "id": "his_200",
-      "text": "Who designed the Nigerian national flag? (variant 200)",
+      "text": "Which Nigerian leader was known as 'Ebenezer'?",
       "options": [
-        "Akinkunmi",
-        "Azikiwe",
-        "Awolowo",
-        "Bello"
+        "Obasanjo",
+        "Shagari",
+        "Babangida",
+        "Abacha"
       ],
-      "correct_index": 0,
-      "explanation": "Akinkunmi.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Shagari was sometimes called 'Ebenezer'.",
+      "difficulty": 3
     }
   ]
 }

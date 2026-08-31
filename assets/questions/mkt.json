@@ -10,10 +10,10 @@
         "Only buying",
         "Only selling",
         "No activities",
-        "Flow of goods to consumers"
+        "Creating, communicating, delivering and exchanging offerings"
       ],
       "correct_index": 3,
-      "explanation": "Flow goods consumers.",
+      "explanation": "Marketing involves creating, communicating, delivering and exchanging value.",
       "difficulty": 1
     },
     {
@@ -26,7 +26,7 @@
         "People Price Place Promotion"
       ],
       "correct_index": 2,
-      "explanation": "4Ps.",
+      "explanation": "The 4Ps are Product, Price, Place and Promotion.",
       "difficulty": 1
     },
     {
@@ -34,2573 +34,2573 @@
       "text": "The stages of the product life cycle are:",
       "options": [
         "Only decline",
-        "Intro growth maturity decline",
-        "Only intro",
-        "No cycle"
+        "Introduction Growth Maturity Decline",
+        "Only introduction",
+        "No cycle exists"
       ],
       "correct_index": 1,
-      "explanation": "PLC.",
+      "explanation": "The PLC has four stages: Introduction, Growth, Maturity and Decline.",
       "difficulty": 1
     },
     {
       "id": "mkt_004",
       "text": "Advertising is best described as a form of promotion that is:",
       "options": [
-        "Paid non-personal",
-        "Free",
+        "Paid non-personal communication",
+        "Free word of mouth",
         "Personal only",
-        "No promotion"
+        "No form of promotion"
       ],
       "correct_index": 0,
-      "explanation": "Paid non-personal.",
+      "explanation": "Advertising is paid, non-personal communication through mass media.",
       "difficulty": 1
     },
     {
       "id": "mkt_005",
       "text": "A wholesaler buys goods from manufacturers and sells them:",
       "options": [
-        "Small",
-        "No bulk",
-        "Only retail",
-        "In bulk"
+        "In small quantities",
+        "Without any bulk",
+        "Only to retailers",
+        "In bulk to retailers and other businesses"
       ],
       "correct_index": 3,
-      "explanation": "Bulk.",
+      "explanation": "Wholesalers buy in bulk and sell in smaller quantities to retailers.",
       "difficulty": 1
     },
     {
       "id": "mkt_006",
-      "text": "Which of the following best describes or relates to A retailer sells goods directly to?",
+      "text": "Which of the following best describes A retailer sells goods directly to?",
       "options": [
-        "No consumer",
-        "Only bulk",
-        "Final consumer",
-        "Wholesaler"
+        "Manufacturers only",
+        "Wholesalers only",
+        "Final consumers",
+        "Other retailers"
       ],
       "correct_index": 2,
-      "explanation": "Final consumer.",
+      "explanation": "Retailers sell directly to the final consumer for personal use.",
       "difficulty": 1
     },
     {
       "id": "mkt_007",
-      "text": "What does SWOT is an acronym that stand for?",
+      "text": "Which of the following best describes Market segmentation refers to?",
       "options": [
-        "Only weaknesses",
-        "Strengths Weaknesses Opportunities Threats",
-        "No meaning",
-        "Only strengths"
+        "Selling to everyone the same",
+        "Dividing a market into distinct groups of buyers",
+        "Producing one product only",
+        "Ignoring customer differences"
       ],
       "correct_index": 1,
-      "explanation": "SWOT.",
+      "explanation": "Market segmentation is dividing a market into distinct groups with different needs.",
       "difficulty": 1
     },
     {
       "id": "mkt_008",
-      "text": "Market segmentation refers to dividing a market into:",
+      "text": "Which of the following is NOT a type of consumer product?",
       "options": [
-        "Dividing market",
-        "No division",
-        "Only mass",
-        "Only niche"
+        "Convenience product",
+        "Shopping product",
+        "Specialty product",
+        "Raw material"
       ],
-      "correct_index": 0,
-      "explanation": "Dividing.",
+      "correct_index": 3,
+      "explanation": "Raw materials are industrial goods, not consumer products.",
       "difficulty": 1
     },
     {
       "id": "mkt_009",
-      "text": "Branding is the process of creating a unique:",
+      "text": "The concept of marketing orientation means:",
       "options": [
-        "No identity",
-        "Only name",
-        "Only logo",
-        "Identity"
+        "Producing what is easy",
+        "Customer needs come first",
+        "Selling whatever is produced",
+        "Ignoring competitors"
       ],
-      "correct_index": 3,
-      "explanation": "Identity.",
+      "correct_index": 1,
+      "explanation": "Marketing orientation focuses on identifying and satisfying customer needs profitably.",
       "difficulty": 1
     },
     {
       "id": "mkt_010",
-      "text": "AIDA is an acronym used in marketing that stands for:",
+      "text": "Which of the following best describes SWOT analysis examines a company's?",
       "options": [
-        "Only attention",
-        "Only action",
-        "Attention Interest Desire Action",
-        "No meaning"
+        "Sales Turnover Output Revenue",
+        "Strengths Weaknesses Opportunities Threats",
+        "Suppliers Workers Owners Traders",
+        "Size Weight Output Technology"
       ],
-      "correct_index": 2,
-      "explanation": "AIDA.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "SWOT stands for Strengths, Weaknesses, Opportunities and Threats.",
+      "difficulty": 1
     },
     {
       "id": "mkt_011",
-      "text": "SEO is an acronym that stands for search engine:",
+      "text": "A convenience product is one that consumers buy:",
       "options": [
-        "Only engine",
-        "Search Engine Optimization",
-        "No optimization",
-        "Only search"
+        "Rarely and with much planning",
+        "Frequently with minimal effort",
+        "Only during festivals",
+        "From specialist shops only"
       ],
       "correct_index": 1,
-      "explanation": "SEO.",
-      "difficulty": 2
+      "explanation": "Convenience products are bought frequently with minimal comparison.",
+      "difficulty": 1
     },
     {
       "id": "mkt_012",
-      "text": "CRM is an acronym that stands for customer relationship:",
+      "text": "Which of the following best describes Personal selling involves?",
       "options": [
-        "Customer Relationship Management",
-        "No management",
-        "Only customer",
-        "Only relationship"
+        "Advertising on TV",
+        "Face-to-face communication with buyers",
+        "Sending mass emails only",
+        "Print media only"
       ],
-      "correct_index": 0,
-      "explanation": "CRM.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Personal selling is direct, face-to-face communication between seller and buyer.",
+      "difficulty": 1
     },
     {
       "id": "mkt_013",
-      "text": "The break-even point occurs when total revenue equals:",
+      "text": "A product life cycle stage where sales peak is called:",
       "options": [
-        "Revenue>Cost",
-        "Revenue<Cost",
-        "No revenue",
-        "Revenue=Cost"
+        "Introduction",
+        "Growth",
+        "Maturity",
+        "Decline"
       ],
-      "correct_index": 3,
-      "explanation": "Revenue=Cost.",
-      "difficulty": 2
+      "correct_index": 2,
+      "explanation": "Sales peak during the maturity stage of the product life cycle.",
+      "difficulty": 1
     },
     {
       "id": "mkt_014",
-      "text": "Profit is calculated as total revenue less:",
+      "text": "Price in the marketing mix refers to:",
       "options": [
-        "Revenue*Cost",
-        "Revenue/Cost",
-        "Revenue-Cost",
-        "Revenue+Cost"
+        "Only manufacturing cost",
+        "The amount a customer pays for a product",
+        "The profit margin only",
+        "The cost of advertising"
       ],
-      "correct_index": 2,
-      "explanation": "Revenue-Cost.",
+      "correct_index": 1,
+      "explanation": "Price is the amount of money customers pay for a product or service.",
       "difficulty": 1
     },
     {
       "id": "mkt_015",
-      "text": "A niche market is defined as a specialised segment:",
+      "text": "Place in the marketing mix is concerned with:",
       "options": [
-        "Only mass",
-        "Small specialized",
-        "Large",
-        "No market"
+        "Product design",
+        "Where and how the product is made available",
+        "The price of the product",
+        "Advertising strategy"
       ],
       "correct_index": 1,
-      "explanation": "Small specialized.",
-      "difficulty": 2
+      "explanation": "Place refers to distribution channels and making the product available to customers.",
+      "difficulty": 1
     },
     {
       "id": "mkt_016",
-      "text": "Mass marketing is best described as:",
+      "text": "Which of the following best describes Sales promotion is aimed at?",
       "options": [
-        "One for all",
-        "Different for all",
-        "No marketing",
-        "Only niche"
+        "Building long-term brand image",
+        "Triggering immediate purchase",
+        "Personal selling only",
+        "Public relations only"
       ],
-      "correct_index": 0,
-      "explanation": "One for all.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Sales promotion offers short-term incentives to encourage immediate buying.",
+      "difficulty": 1
     },
     {
       "id": "mkt_017",
-      "text": "Viral marketing is a strategy in which a message:",
+      "text": "Which of the following is an example of a shopping product?",
       "options": [
-        "No spreading",
-        "Only slow",
-        "Only traditional",
-        "Spreads quickly"
+        "Bread",
+        "Newspaper",
+        "Furniture",
+        "Salt"
       ],
-      "correct_index": 3,
-      "explanation": "Spreads quickly.",
-      "difficulty": 2
+      "correct_index": 2,
+      "explanation": "Furniture is a shopping product as consumers compare quality, price and style.",
+      "difficulty": 1
     },
     {
       "id": "mkt_018",
-      "text": "Direct marketing involves communicating directly with customers through:",
+      "text": "Which of the following best describes Branding helps a business to?",
       "options": [
-        "No direct",
-        "Only publicity",
-        "Email telemarketing",
-        "Only advertising"
+        "Reduce production costs",
+        "Differentiate its products from competitors",
+        "Eliminate the need for advertising",
+        "Avoid paying taxes"
       ],
-      "correct_index": 2,
-      "explanation": "Email.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Branding creates a unique identity that differentiates products from competitors.",
+      "difficulty": 1
     },
     {
       "id": "mkt_019",
       "text": "Digital marketing primarily uses electronic devices to:",
       "options": [
-        "Only print",
-        "Internet",
-        "No internet",
-        "Only traditional"
+        "Print newspapers only",
+        "Reach customers via the internet and digital channels",
+        "Avoid using the internet",
+        "Replace traditional marketing completely"
       ],
       "correct_index": 1,
-      "explanation": "Internet.",
+      "explanation": "Digital marketing uses online channels like websites, social media and email.",
       "difficulty": 1
     },
     {
       "id": "mkt_020",
       "text": "Market share is defined as the proportion of:",
       "options": [
-        "Company % of total",
-        "No share",
-        "Only total",
-        "Only company"
+        "Total company profit",
+        "A firm's sales compared to total industry sales",
+        "Total market size",
+        "Export sales only"
       ],
-      "correct_index": 0,
-      "explanation": "Company % total.",
+      "correct_index": 1,
+      "explanation": "Market share is the percentage of total industry sales held by a firm.",
       "difficulty": 2
     },
     {
       "id": "mkt_021",
-      "text": "Marketing is best described as: (variant 21)",
+      "text": "The production concept holds that consumers will favour products that are:",
       "options": [
-        "Only buying",
-        "Only selling",
-        "No activities",
-        "Flow of goods to consumers"
+        "Most expensive",
+        "Available and affordable",
+        "Heavily advertised",
+        "Sold by door-to-door sellers"
       ],
-      "correct_index": 3,
-      "explanation": "Flow goods consumers.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The production concept emphasises wide availability and low cost.",
+      "difficulty": 3
     },
     {
       "id": "mkt_022",
-      "text": "The four components of the marketing mix known as the 4Ps are: (variant 22)",
+      "text": "Which of the following is an industrial good?",
       "options": [
-        "No Ps",
-        "Only product",
-        "Product Price Place Promotion",
-        "People Price Place Promotion"
+        "Soap",
+        "Factory machinery",
+        "Soft drink",
+        "Clothing"
       ],
-      "correct_index": 2,
-      "explanation": "4Ps.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Factory machinery is an industrial good used in production processes.",
+      "difficulty": 3
     },
     {
       "id": "mkt_023",
-      "text": "The stages of the product life cycle are: (variant 23)",
+      "text": "What does the acronym The AIDA model stand for in full?",
       "options": [
-        "Only decline",
-        "Intro growth maturity decline",
-        "Only intro",
-        "No cycle"
+        "Attitude Interest Desire Action",
+        "Attention Interest Desire Action",
+        "Analysis Information Data Action",
+        "Advertising Input Demand Application"
       ],
       "correct_index": 1,
-      "explanation": "PLC.",
-      "difficulty": 1
+      "explanation": "AIDA stands for Attention, Interest, Desire and Action.",
+      "difficulty": 3
     },
     {
       "id": "mkt_024",
-      "text": "Advertising is best described as a form of promotion that is: (variant 24)",
+      "text": "Break-even analysis helps a marketer to determine:",
       "options": [
-        "Paid non-personal",
-        "Free",
-        "Personal only",
-        "No promotion"
+        "Maximum profit only",
+        "The sales volume at which total revenue equals total cost",
+        "The cheapest product to make",
+        "The best advertising channel"
       ],
-      "correct_index": 0,
-      "explanation": "Paid non-personal.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Break-even analysis finds the point where total revenue equals total costs.",
+      "difficulty": 3
     },
     {
       "id": "mkt_025",
-      "text": "A wholesaler buys goods from manufacturers and sells them: (variant 25)",
+      "text": "Publicity differs from advertising in that publicity is:",
       "options": [
-        "Small",
-        "No bulk",
-        "Only retail",
-        "In bulk"
+        "Always paid for",
+        "Paid non-personal communication",
+        "Not directly paid for by the company",
+        "Only done through TV"
       ],
-      "correct_index": 3,
-      "explanation": "Bulk.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Publicity is media coverage not directly paid for by the organisation.",
+      "difficulty": 2
     },
     {
       "id": "mkt_026",
-      "text": "A retailer sells goods directly to: (variant 26)",
+      "text": "A marketing environment includes all the factors:",
       "options": [
-        "No consumer",
-        "Only bulk",
-        "Final consumer",
-        "Wholesaler"
+        "Inside the factory only",
+        "Outside the firm that affect marketing decisions",
+        "Related to production only",
+        "That are controllable by the firm"
       ],
-      "correct_index": 2,
-      "explanation": "Final consumer.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The marketing environment includes external macro and micro factors affecting decisions.",
+      "difficulty": 3
     },
     {
       "id": "mkt_027",
-      "text": "SWOT is an acronym that stands for: (variant 27)",
+      "text": "What does the acronym CRM stand for in full?",
       "options": [
-        "Only weaknesses",
-        "Strengths Weaknesses Opportunities Threats",
-        "No meaning",
-        "Only strengths"
+        "Customer Resource Management",
+        "Consumer Relationship Management",
+        "Customer Relationship Management",
+        "Company Revenue Management"
       ],
-      "correct_index": 1,
-      "explanation": "SWOT.",
+      "correct_index": 2,
+      "explanation": "CRM stands for Customer Relationship Management.",
       "difficulty": 1
     },
     {
       "id": "mkt_028",
-      "text": "Market segmentation refers to: (variant 28)",
+      "text": "A pricing strategy where a low initial price is set to attract many buyers quickly is called:",
       "options": [
-        "Dividing market",
-        "No division",
-        "Only mass",
-        "Only niche"
+        "Price skimming",
+        "Penetration pricing",
+        "Cost-plus pricing",
+        "Premium pricing"
       ],
-      "correct_index": 0,
-      "explanation": "Dividing.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Penetration pricing sets a low price to gain market share rapidly.",
+      "difficulty": 3
     },
     {
       "id": "mkt_029",
-      "text": "Branding is the process of creating a unique: (variant 29)",
+      "text": "Price skimming involves setting a high initial price to:",
       "options": [
-        "No identity",
-        "Only name",
-        "Only logo",
-        "Identity"
+        "Attract price-sensitive buyers",
+        "Skim maximum revenue from market segments willing to pay",
+        "Drive out competitors quickly",
+        "Ensure no profit is made initially"
       ],
-      "correct_index": 3,
-      "explanation": "Identity.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Price skimming targets early adopters willing to pay a premium.",
+      "difficulty": 3
     },
     {
       "id": "mkt_030",
-      "text": "AIDA is an acronym used in marketing that stands for: (variant 30)",
+      "text": "A channel of distribution with one intermediary is called:",
       "options": [
-        "Only attention",
-        "Only action",
-        "Attention Interest Desire Action",
-        "No meaning"
+        "Direct channel",
+        "One-level channel",
+        "Two-level channel",
+        "Three-level channel"
       ],
-      "correct_index": 2,
-      "explanation": "AIDA.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "A one-level channel has one intermediary, typically a retailer.",
+      "difficulty": 3
     },
     {
       "id": "mkt_031",
-      "text": "SEO is an acronym that stands for: (variant 31)",
+      "text": "Direct distribution means the manufacturer sells:",
       "options": [
-        "Only engine",
-        "Search Engine Optimization",
-        "No optimization",
-        "Only search"
-      ],
-      "correct_index": 1,
-      "explanation": "SEO.",
-      "difficulty": 2
-    },
-    {
-      "id": "mkt_032",
-      "text": "CRM is an acronym that stands for: (variant 32)",
-      "options": [
-        "Customer Relationship Management",
-        "No management",
-        "Only customer",
-        "Only relationship"
-      ],
-      "correct_index": 0,
-      "explanation": "CRM.",
-      "difficulty": 2
-    },
-    {
-      "id": "mkt_033",
-      "text": "The break-even point occurs when: (variant 33)",
-      "options": [
-        "Revenue>Cost",
-        "Revenue<Cost",
-        "No revenue",
-        "Revenue=Cost"
-      ],
-      "correct_index": 3,
-      "explanation": "Revenue=Cost.",
-      "difficulty": 2
-    },
-    {
-      "id": "mkt_034",
-      "text": "Profit is calculated as: (variant 34)",
-      "options": [
-        "Revenue*Cost",
-        "Revenue/Cost",
-        "Revenue-Cost",
-        "Revenue+Cost"
+        "Through a wholesaler",
+        "Through a retailer",
+        "Directly to the consumer",
+        "Through multiple intermediaries"
       ],
       "correct_index": 2,
-      "explanation": "Revenue-Cost.",
+      "explanation": "Direct distribution involves selling straight to the final consumer.",
       "difficulty": 1
     },
     {
-      "id": "mkt_035",
-      "text": "A niche market is defined as: (variant 35)",
+      "id": "mkt_032",
+      "text": "Market research is important because it helps a firm to:",
       "options": [
-        "Only mass",
-        "Small specialized",
-        "Large",
-        "No market"
+        "Eliminate all risks",
+        "Make informed marketing decisions",
+        "Avoid competition",
+        "Reduce production costs directly"
       ],
       "correct_index": 1,
-      "explanation": "Small specialized.",
+      "explanation": "Market research provides data to guide sound marketing decisions.",
+      "difficulty": 1
+    },
+    {
+      "id": "mkt_033",
+      "text": "A unique selling proposition (USP) refers to:",
+      "options": [
+        "The cheapest price",
+        "A feature that differentiates a product from competitors",
+        "The company's address",
+        "The number of employees"
+      ],
+      "correct_index": 1,
+      "explanation": "A USP is the distinctive benefit that sets a product apart from rivals.",
+      "difficulty": 3
+    },
+    {
+      "id": "mkt_034",
+      "text": "Which of the following is a characteristic of services?",
+      "options": [
+        "They can be stored as inventory",
+        "They are tangible",
+        "They are consumed at the point of delivery",
+        "They are always cheap"
+      ],
+      "correct_index": 2,
+      "explanation": "Services are intangible and typically consumed as they are produced.",
+      "difficulty": 3
+    },
+    {
+      "id": "mkt_035",
+      "text": "International marketing requires awareness of:",
+      "options": [
+        "Domestic laws only",
+        "Cultural differences across markets",
+        "Only price competition",
+        "Single language use"
+      ],
+      "correct_index": 1,
+      "explanation": "Cultural awareness is critical when marketing across national borders.",
       "difficulty": 2
     },
     {
       "id": "mkt_036",
-      "text": "Mass marketing is best described as: (variant 36)",
+      "text": "An oligopoly market structure is characterised by:",
       "options": [
-        "One for all",
-        "Different for all",
-        "No marketing",
-        "Only niche"
+        "Many small sellers",
+        "A few large dominant sellers",
+        "One seller only",
+        "No barriers to entry"
       ],
-      "correct_index": 0,
-      "explanation": "One for all.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "An oligopoly has a few firms dominating the market.",
+      "difficulty": 3
     },
     {
       "id": "mkt_037",
-      "text": "Viral marketing is a strategy in which a message: (variant 37)",
+      "text": "Which of the following is a pull strategy in promotion?",
       "options": [
-        "No spreading",
-        "Only slow",
-        "Only traditional",
-        "Spreads quickly"
+        "Salespersons persuading retailers",
+        "Advertising to attract consumers directly to demand the product",
+        "Giving discounts to wholesalers",
+        "Training distributors"
       ],
-      "correct_index": 3,
-      "explanation": "Spreads quickly.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "A pull strategy targets end consumers to create demand that pulls products through channels.",
+      "difficulty": 3
     },
     {
       "id": "mkt_038",
-      "text": "Direct marketing involves communicating directly with customers through: (variant 38)",
+      "text": "A push strategy in promotion involves:",
       "options": [
-        "No direct",
-        "Only publicity",
-        "Email telemarketing",
-        "Only advertising"
+        "Advertising to consumers",
+        "Promoting to wholesalers and retailers to push products to consumers",
+        "Ignoring intermediaries",
+        "Using only social media"
       ],
-      "correct_index": 2,
-      "explanation": "Email.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "A push strategy promotes through intermediaries who then push products to consumers.",
+      "difficulty": 3
     },
     {
       "id": "mkt_039",
-      "text": "Digital marketing primarily uses: (variant 39)",
+      "text": "Viral marketing is a strategy that relies on:",
       "options": [
-        "Only print",
-        "Internet",
-        "No internet",
-        "Only traditional"
+        "Expensive TV adverts",
+        "Consumers sharing the message with others rapidly",
+        "Direct mail only",
+        "Government regulations"
       ],
       "correct_index": 1,
-      "explanation": "Internet.",
-      "difficulty": 1
+      "explanation": "Viral marketing spreads rapidly through word of mouth and social sharing.",
+      "difficulty": 3
     },
     {
       "id": "mkt_040",
-      "text": "Market share is defined as: (variant 40)",
+      "text": "The micro environment of marketing includes:",
       "options": [
-        "Company % of total",
-        "No share",
-        "Only total",
-        "Only company"
+        "Political forces",
+        "The company, suppliers and customers",
+        "Natural disasters",
+        "Technological inventions only"
       ],
-      "correct_index": 0,
-      "explanation": "Company % total.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "The micro environment includes actors close to the firm such as suppliers and customers.",
+      "difficulty": 3
     },
     {
       "id": "mkt_041",
-      "text": "Marketing is best described as: (variant 41)",
+      "text": "The macro environment of marketing includes:",
       "options": [
-        "Only buying",
-        "Only selling",
-        "No activities",
-        "Flow of goods to consumers"
+        "Individual customer preferences",
+        "Demographic, economic and political forces",
+        "Company production methods",
+        "Warehouse layout"
       ],
-      "correct_index": 3,
-      "explanation": "Flow goods consumers.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The macro environment comprises broad societal forces like demographics and economics.",
+      "difficulty": 3
     },
     {
       "id": "mkt_042",
-      "text": "The four components of the marketing mix known as the 4Ps are: (variant 42)",
+      "text": "Which of the following best describes Consumer behaviour studies how?",
       "options": [
-        "No Ps",
-        "Only product",
-        "Product Price Place Promotion",
-        "People Price Place Promotion"
+        "Factories produce goods",
+        "Individuals make decisions to spend resources",
+        "Governments tax goods",
+        "Wholesalers store products"
       ],
-      "correct_index": 2,
-      "explanation": "4Ps.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Consumer behaviour examines how people select, buy and use products.",
+      "difficulty": 3
     },
     {
       "id": "mkt_043",
-      "text": "The stages of the product life cycle are: (variant 43)",
+      "text": "Which of the following best describes A niche market is a?",
       "options": [
-        "Only decline",
-        "Intro growth maturity decline",
-        "Only intro",
-        "No cycle"
+        "Very broad market for all consumers",
+        "Small, specialised segment of a larger market",
+        "Market with no competitors",
+        "Government-controlled market"
       ],
       "correct_index": 1,
-      "explanation": "PLC.",
-      "difficulty": 1
+      "explanation": "A niche market is a focused segment with specific unmet needs.",
+      "difficulty": 3
     },
     {
       "id": "mkt_044",
-      "text": "Advertising is best described as a form of promotion that is: (variant 44)",
+      "text": "Which of the following best describes Mass marketing involves?",
       "options": [
-        "Paid non-personal",
-        "Free",
-        "Personal only",
-        "No promotion"
+        "Targeting a small niche",
+        "Ignoring market differences and offering one product to all",
+        "Personalised marketing only",
+        "Selling only online"
       ],
-      "correct_index": 0,
-      "explanation": "Paid non-personal.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Mass marketing treats the market as homogenous with no segmentation.",
+      "difficulty": 3
     },
     {
       "id": "mkt_045",
-      "text": "A wholesaler buys goods from manufacturers and sells them: (variant 45)",
+      "text": "Which of the following best describes The promotional mix consists of?",
       "options": [
-        "Small",
-        "No bulk",
-        "Only retail",
-        "In bulk"
+        "Only advertising",
+        "Advertising personal selling sales promotion publicity",
+        "Only personal selling",
+        "Only public relations"
       ],
-      "correct_index": 3,
-      "explanation": "Bulk.",
+      "correct_index": 1,
+      "explanation": "The promotional mix includes advertising, personal selling, sales promotion and publicity.",
       "difficulty": 1
     },
     {
       "id": "mkt_046",
-      "text": "A retailer sells goods directly to: (variant 46)",
+      "text": "Which of the following best describes Cost-plus pricing involves?",
       "options": [
-        "No consumer",
-        "Only bulk",
-        "Final consumer",
-        "Wholesaler"
+        "Setting price based on competitor pricing",
+        "Adding a standard markup to the cost of producing the product",
+        "Pricing below cost to gain share",
+        "Ignoring production costs"
       ],
-      "correct_index": 2,
-      "explanation": "Final consumer.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Cost-plus pricing adds a fixed percentage to unit cost to determine price.",
+      "difficulty": 3
     },
     {
       "id": "mkt_047",
-      "text": "SWOT is an acronym that stands for: (variant 47)",
+      "text": "Which of the following best describes a specialty product?",
       "options": [
-        "Only weaknesses",
-        "Strengths Weaknesses Opportunities Threats",
-        "No meaning",
-        "Only strengths"
+        "A product bought frequently without planning",
+        "A product with unique characteristics buyers are willing to seek out",
+        "A product compared on price only",
+        "A product with no brand loyalty"
       ],
       "correct_index": 1,
-      "explanation": "SWOT.",
-      "difficulty": 1
+      "explanation": "Specialty products have unique features for which consumers make special efforts to obtain.",
+      "difficulty": 3
     },
     {
       "id": "mkt_048",
-      "text": "Market segmentation refers to: (variant 48)",
+      "text": "A marketing plan is a document that:",
       "options": [
-        "Dividing market",
-        "No division",
-        "Only mass",
-        "Only niche"
+        "Lists employees' names",
+        "Outlines the marketing strategy and actions for a product",
+        "Records production output only",
+        "States the company's legal structure"
       ],
-      "correct_index": 0,
-      "explanation": "Dividing.",
+      "correct_index": 1,
+      "explanation": "A marketing plan details the strategy, tactics and actions for marketing a product.",
       "difficulty": 1
     },
     {
       "id": "mkt_049",
-      "text": "Branding is the process of creating a unique: (variant 49)",
+      "text": "Which of the following best describes The term 'product mix' refers to?",
       "options": [
-        "No identity",
-        "Only name",
-        "Only logo",
-        "Identity"
+        "A single product line",
+        "The total set of all product lines and items a seller offers",
+        "The manufacturing process",
+        "The packaging of a product"
       ],
-      "correct_index": 3,
-      "explanation": "Identity.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Product mix is the complete range of product lines and items offered by a firm.",
+      "difficulty": 3
     },
     {
       "id": "mkt_050",
-      "text": "AIDA is an acronym used in marketing that stands for: (variant 50)",
+      "text": "Which of the following is a method of primary data collection?",
       "options": [
-        "Only attention",
-        "Only action",
-        "Attention Interest Desire Action",
-        "No meaning"
+        "Reviewing government publications",
+        "Conducting a consumer survey",
+        "Reading industry reports",
+        "Checking company financial statements"
       ],
-      "correct_index": 2,
-      "explanation": "AIDA.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Surveys are a primary research method to collect fresh data from respondents.",
+      "difficulty": 3
     },
     {
       "id": "mkt_051",
-      "text": "SEO is an acronym that stands for: (variant 51)",
+      "text": "Secondary data in market research refers to:",
       "options": [
-        "Only engine",
-        "Search Engine Optimization",
-        "No optimization",
-        "Only search"
+        "Data collected for the first time",
+        "Data that already exists and was collected by someone else",
+        "Data from surveys only",
+        "Data from focus groups only"
       ],
       "correct_index": 1,
-      "explanation": "SEO.",
-      "difficulty": 2
+      "explanation": "Secondary data is pre-existing data collected for other purposes.",
+      "difficulty": 3
     },
     {
       "id": "mkt_052",
-      "text": "CRM is an acronym that stands for: (variant 52)",
+      "text": "Which of the following best describes Product adaptation involves?",
       "options": [
-        "Customer Relationship Management",
-        "No management",
-        "Only customer",
-        "Only relationship"
+        "Selling the same product worldwide without changes",
+        "Modifying a product to suit a foreign market",
+        "Removing all product features",
+        "Using the same packaging everywhere"
       ],
-      "correct_index": 0,
-      "explanation": "CRM.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Product adaptation changes features to meet local preferences in different markets.",
+      "difficulty": 3
     },
     {
       "id": "mkt_053",
-      "text": "The break-even point occurs when: (variant 53)",
+      "text": "Which of the following best describes Brand equity refers to?",
       "options": [
-        "Revenue>Cost",
-        "Revenue<Cost",
-        "No revenue",
-        "Revenue=Cost"
+        "The monetary value of brand assets",
+        "The added value a brand name gives to a product beyond the functional benefits",
+        "The cost of manufacturing the brand",
+        "The number of brand outlets"
       ],
-      "correct_index": 3,
-      "explanation": "Revenue=Cost.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Brand equity is the premium value consumers associate with a recognised brand name.",
+      "difficulty": 3
     },
     {
       "id": "mkt_054",
-      "text": "Profit is calculated as: (variant 54)",
+      "text": "Which of the following best describes Co-branding is a strategy where?",
       "options": [
-        "Revenue*Cost",
-        "Revenue/Cost",
-        "Revenue-Cost",
-        "Revenue+Cost"
+        "One brand is removed from the market",
+        "Two established brand names are used on the same product",
+        "A brand is sold to a competitor",
+        "No brand name is used"
       ],
-      "correct_index": 2,
-      "explanation": "Revenue-Cost.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Co-branding combines two or more brand names on a single product.",
+      "difficulty": 3
     },
     {
       "id": "mkt_055",
-      "text": "A niche market is defined as: (variant 55)",
+      "text": "The concept of 'exchange' in marketing means:",
       "options": [
-        "Only mass",
-        "Small specialized",
-        "Large",
-        "No market"
+        "Giving away products for free",
+        "Two parties trading something of value",
+        "Returning defective products",
+        "Changing the product price"
       ],
       "correct_index": 1,
-      "explanation": "Small specialized.",
-      "difficulty": 2
+      "explanation": "Exchange is the act of obtaining a desired object by offering something in return.",
+      "difficulty": 1
     },
     {
       "id": "mkt_056",
-      "text": "Mass marketing is best described as: (variant 56)",
+      "text": "A competitive pricing strategy involves:",
       "options": [
-        "One for all",
-        "Different for all",
-        "No marketing",
-        "Only niche"
+        "Ignoring competitors' prices",
+        "Setting prices based on what competitors are charging",
+        "Always setting the lowest price",
+        "Pricing without considering costs"
       ],
-      "correct_index": 0,
-      "explanation": "One for all.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Competitive pricing sets prices in relation to competitors' pricing levels.",
+      "difficulty": 3
     },
     {
       "id": "mkt_057",
-      "text": "Viral marketing is a strategy in which a message: (variant 57)",
+      "text": "Which of the following best describes Physical distribution includes?",
       "options": [
-        "No spreading",
-        "Only slow",
-        "Only traditional",
-        "Spreads quickly"
+        "Only warehousing",
+        "Transportation, warehousing and inventory management",
+        "Only transportation",
+        "Only inventory control"
       ],
-      "correct_index": 3,
-      "explanation": "Spreads quickly.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Physical distribution encompasses transport, storage and inventory management.",
+      "difficulty": 3
     },
     {
       "id": "mkt_058",
-      "text": "Direct marketing involves communicating directly with customers through: (variant 58)",
+      "text": "What does the term \"Market targeting\" mean?",
       "options": [
-        "No direct",
-        "Only publicity",
-        "Email telemarketing",
-        "Only advertising"
+        "Selling to every customer",
+        "Evaluating each market segment and selecting one or more to enter",
+        "Ignoring profitable segments",
+        "Producing for a single factory"
       ],
-      "correct_index": 2,
-      "explanation": "Email.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Market targeting is evaluating segments and choosing which ones to serve.",
+      "difficulty": 3
     },
     {
       "id": "mkt_059",
-      "text": "Digital marketing primarily uses: (variant 59)",
+      "text": "SWOT stands for Strengths Weaknesses Opportunities and:",
       "options": [
-        "Only print",
-        "Internet",
-        "No internet",
-        "Only traditional"
+        "Turnover",
+        "Threats",
+        "Technology",
+        "Trade"
       ],
       "correct_index": 1,
-      "explanation": "Internet.",
-      "difficulty": 1
+      "explanation": "SWOT = Strengths Weaknesses Opportunities Threats.",
+      "difficulty": 3
     },
     {
       "id": "mkt_060",
-      "text": "Market share is defined as: (variant 60)",
+      "text": "Consumer goods are products bought by:",
       "options": [
-        "Company % of total",
-        "No share",
-        "Only total",
-        "Only company"
+        "Factories for production",
+        "Final consumers for personal use",
+        "Wholesalers for resale only",
+        "Governments for public use"
       ],
-      "correct_index": 0,
-      "explanation": "Company % total.",
-      "difficulty": 2
-    },
-    {
-      "id": "mkt_061",
-      "text": "Marketing is best described as: (variant 61)",
-      "options": [
-        "Only buying",
-        "Only selling",
-        "No activities",
-        "Flow of goods to consumers"
-      ],
-      "correct_index": 3,
-      "explanation": "Flow goods consumers.",
+      "correct_index": 1,
+      "explanation": "Consumer goods are purchased by individuals for personal or household use.",
       "difficulty": 1
     },
     {
-      "id": "mkt_062",
-      "text": "The four components of the marketing mix known as the 4Ps are: (variant 62)",
+      "id": "mkt_061",
+      "text": "Which of the following is an unsought product?",
       "options": [
-        "No Ps",
-        "Only product",
-        "Product Price Place Promotion",
-        "People Price Place Promotion"
+        "Bread",
+        "Life insurance",
+        "Soft drink",
+        "Shoes"
       ],
-      "correct_index": 2,
-      "explanation": "4Ps.",
+      "correct_index": 1,
+      "explanation": "Life insurance is an unsought product that consumers do not normally think of buying.",
+      "difficulty": 3
+    },
+    {
+      "id": "mkt_062",
+      "text": "Packaging serves many purposes including:",
+      "options": [
+        "Only holding the product",
+        "Protection, promotion and information",
+        "Only making products look attractive",
+        "Replacing advertising"
+      ],
+      "correct_index": 1,
+      "explanation": "Packaging protects, promotes and provides information about the product.",
       "difficulty": 1
     },
     {
       "id": "mkt_063",
-      "text": "The stages of the product life cycle are: (variant 63)",
+      "text": "A wholesaler provides all of the following services except:",
       "options": [
-        "Only decline",
-        "Intro growth maturity decline",
-        "Only intro",
-        "No cycle"
+        "Bulk breaking",
+        "Storage and transport",
+        "Direct personal selling to final consumers",
+        "Credit facilities to retailers"
       ],
-      "correct_index": 1,
-      "explanation": "PLC.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Wholesalers do not typically sell directly to final consumers.",
+      "difficulty": 3
     },
     {
       "id": "mkt_064",
-      "text": "Advertising is best described as a form of promotion that is: (variant 64)",
+      "text": "Which pricing method uses competitors' prices as a reference?",
       "options": [
-        "Paid non-personal",
-        "Free",
-        "Personal only",
-        "No promotion"
+        "Cost-plus pricing",
+        "Going-rate pricing",
+        "Target return pricing",
+        "Psychological pricing"
       ],
-      "correct_index": 0,
-      "explanation": "Paid non-personal.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Going-rate pricing sets prices based on competitors' prevailing prices.",
+      "difficulty": 3
     },
     {
       "id": "mkt_065",
-      "text": "A wholesaler buys goods from manufacturers and sells them: (variant 65)",
+      "text": "The 'selling concept' in marketing holds that:",
       "options": [
-        "Small",
-        "No bulk",
-        "Only retail",
-        "In bulk"
+        "Customers will come on their own",
+        "Consumers will not buy enough unless the firm undertakes aggressive selling",
+        "Production is the most important function",
+        "Price is the only factor that matters"
       ],
-      "correct_index": 3,
-      "explanation": "Bulk.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The selling concept focuses on aggressive selling and promotion to push sales.",
+      "difficulty": 2
     },
     {
       "id": "mkt_066",
-      "text": "A retailer sells goods directly to: (variant 66)",
+      "text": "Market research through focus groups involves:",
       "options": [
-        "No consumer",
-        "Only bulk",
-        "Final consumer",
-        "Wholesaler"
+        "Distributing questionnaires to thousands",
+        "A small group discussing a topic guided by a moderator",
+        "Only analysing sales records",
+        "Observing traffic patterns only"
       ],
-      "correct_index": 2,
-      "explanation": "Final consumer.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Focus groups bring together a small group for guided discussion on a topic.",
+      "difficulty": 3
     },
     {
       "id": "mkt_067",
-      "text": "SWOT is an acronym that stands for: (variant 67)",
+      "text": "Which of the following is an example of sales promotion?",
       "options": [
-        "Only weaknesses",
-        "Strengths Weaknesses Opportunities Threats",
-        "No meaning",
-        "Only strengths"
+        "TV commercial",
+        "Buy one get one free offer",
+        "Company brochure",
+        "Press release"
       ],
       "correct_index": 1,
-      "explanation": "SWOT.",
+      "explanation": "A buy-one-get-one-free offer is a short-term sales promotion incentive.",
       "difficulty": 1
     },
     {
       "id": "mkt_068",
-      "text": "Market segmentation refers to: (variant 68)",
+      "text": "Which of the following best describes Brand loyalty refers to?",
       "options": [
-        "Dividing market",
-        "No division",
-        "Only mass",
-        "Only niche"
+        "Consumers switching brands frequently",
+        "A consumer's consistent preference for and repurchase of one brand",
+        "The cost of branding",
+        "The number of products in a brand"
       ],
-      "correct_index": 0,
-      "explanation": "Dividing.",
+      "correct_index": 1,
+      "explanation": "Brand loyalty is the consistent preference and repeat purchase of the same brand.",
       "difficulty": 1
     },
     {
       "id": "mkt_069",
-      "text": "Branding is the process of creating a unique: (variant 69)",
+      "text": "The term 'positioning' in marketing means:",
       "options": [
-        "No identity",
-        "Only name",
-        "Only logo",
-        "Identity"
+        "Locating the product in a warehouse",
+        "Creating an image or identity of a product in consumers' minds",
+        "Placing ads in newspapers",
+        "Setting up a retail shop"
       ],
-      "correct_index": 3,
-      "explanation": "Identity.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Positioning is how a product is perceived in the minds of target customers.",
+      "difficulty": 3
     },
     {
       "id": "mkt_070",
-      "text": "AIDA is an acronym used in marketing that stands for: (variant 70)",
+      "text": "Which of the following best describes A market is best defined as?",
       "options": [
-        "Only attention",
-        "Only action",
-        "Attention Interest Desire Action",
-        "No meaning"
+        "A physical building where goods are sold",
+        "The set of all actual and potential buyers of a product",
+        "A government auction house",
+        "Only online shopping platforms"
       ],
-      "correct_index": 2,
-      "explanation": "AIDA.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "A market consists of all potential and actual customers sharing a common need.",
+      "difficulty": 1
     },
     {
       "id": "mkt_071",
-      "text": "SEO is an acronym that stands for: (variant 71)",
+      "text": "Which of the following is a demographic segmentation variable?",
       "options": [
-        "Only engine",
-        "Search Engine Optimization",
-        "No optimization",
-        "Only search"
+        "Personality",
+        "Age",
+        "Lifestyle",
+        "Opinion"
       ],
       "correct_index": 1,
-      "explanation": "SEO.",
-      "difficulty": 2
+      "explanation": "Age is a demographic variable along with gender, income and education.",
+      "difficulty": 3
     },
     {
       "id": "mkt_072",
-      "text": "CRM is an acronym that stands for: (variant 72)",
+      "text": "Psychographic segmentation divides the market based on:",
       "options": [
-        "Customer Relationship Management",
-        "No management",
-        "Only customer",
-        "Only relationship"
+        "Geographic location",
+        "Social class, lifestyle and personality",
+        "Age and gender only",
+        "Product usage rate only"
       ],
-      "correct_index": 0,
-      "explanation": "CRM.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Psychographic segmentation uses lifestyle, personality and social class.",
+      "difficulty": 3
     },
     {
       "id": "mkt_073",
-      "text": "The break-even point occurs when: (variant 73)",
+      "text": "Geographic segmentation divides the market according to:",
       "options": [
-        "Revenue>Cost",
-        "Revenue<Cost",
-        "No revenue",
-        "Revenue=Cost"
+        "Income levels",
+        "Physical location such as region or city",
+        "Consumer personality",
+        "Product type"
       ],
-      "correct_index": 3,
-      "explanation": "Revenue=Cost.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Geographic segmentation groups consumers by their physical location.",
+      "difficulty": 3
     },
     {
       "id": "mkt_074",
-      "text": "Profit is calculated as: (variant 74)",
+      "text": "Behavioural segmentation divides the market based on:",
       "options": [
-        "Revenue*Cost",
-        "Revenue/Cost",
-        "Revenue-Cost",
-        "Revenue+Cost"
+        "Age and gender",
+        "Knowledge, attitude and use of a product",
+        "Geographic region only",
+        "Climate only"
       ],
-      "correct_index": 2,
-      "explanation": "Revenue-Cost.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Behavioural segmentation uses consumer knowledge, attitudes and product usage.",
+      "difficulty": 3
     },
     {
       "id": "mkt_075",
-      "text": "A niche market is defined as: (variant 75)",
+      "text": "A marketing information system (MIS) is used to:",
       "options": [
-        "Only mass",
-        "Small specialized",
-        "Large",
-        "No market"
+        "Produce goods in the factory",
+        "Collect, store and analyse marketing data for decision making",
+        "Pay employees' salaries",
+        "Manage warehouse security"
       ],
       "correct_index": 1,
-      "explanation": "Small specialized.",
-      "difficulty": 2
+      "explanation": "MIS gathers and analyses marketing data to support decision making.",
+      "difficulty": 3
     },
     {
       "id": "mkt_076",
-      "text": "Mass marketing is best described as: (variant 76)",
+      "text": "Which of the following best describes 'product line depth'?",
       "options": [
-        "One for all",
-        "Different for all",
-        "No marketing",
-        "Only niche"
+        "Number of different product lines",
+        "Number of versions offered within a product line",
+        "The total number of products",
+        "The physical size of the product"
       ],
-      "correct_index": 0,
-      "explanation": "One for all.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Product line depth is the number of variants within a specific product line.",
+      "difficulty": 3
     },
     {
       "id": "mkt_077",
-      "text": "Viral marketing is a strategy in which a message: (variant 77)",
+      "text": "What does the term \"Exclusive distribution\" mean?",
       "options": [
-        "No spreading",
-        "Only slow",
-        "Only traditional",
-        "Spreads quickly"
+        "Selling through many retailers",
+        "Giving only a limited number of outlets the right to sell the product",
+        "Selling only on the internet",
+        "No distribution strategy"
       ],
-      "correct_index": 3,
-      "explanation": "Spreads quickly.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Exclusive distribution restricts selling to very few chosen outlets.",
+      "difficulty": 3
     },
     {
       "id": "mkt_078",
-      "text": "Direct marketing involves communicating directly with customers through: (variant 78)",
+      "text": "Which of the following best describes Intensive distribution aims to?",
       "options": [
-        "No direct",
-        "Only publicity",
-        "Email telemarketing",
-        "Only advertising"
+        "Limit outlets",
+        "Place products in as many outlets as possible",
+        "Sell only through one shop",
+        "Avoid using intermediaries"
       ],
-      "correct_index": 2,
-      "explanation": "Email.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Intensive distribution seeks maximum market coverage through many outlets.",
+      "difficulty": 3
     },
     {
       "id": "mkt_079",
-      "text": "Digital marketing primarily uses: (variant 79)",
+      "text": "Selective distribution falls between:",
       "options": [
-        "Only print",
-        "Internet",
-        "No internet",
-        "Only traditional"
+        "Cost-plus and penetration pricing",
+        "Intensive and exclusive distribution",
+        "Online and offline selling",
+        "Personal selling and advertising"
       ],
       "correct_index": 1,
-      "explanation": "Internet.",
-      "difficulty": 1
+      "explanation": "Selective distribution uses more than one but fewer than all available intermediaries.",
+      "difficulty": 3
     },
     {
       "id": "mkt_080",
-      "text": "Market share is defined as: (variant 80)",
+      "text": "The breakeven point is reached when:",
       "options": [
-        "Company % of total",
-        "No share",
-        "Only total",
-        "Only company"
+        "Revenue is double the cost",
+        "Total revenue equals total cost",
+        "Profit is at its maximum",
+        "Sales volume is zero"
       ],
-      "correct_index": 0,
-      "explanation": "Company % total.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "At the breakeven point total revenue equals total cost with no profit or loss.",
+      "difficulty": 1
     },
     {
       "id": "mkt_081",
-      "text": "Marketing is best described as: (variant 81)",
+      "text": "Fixed costs in marketing refer to costs that:",
       "options": [
-        "Only buying",
-        "Only selling",
-        "No activities",
-        "Flow of goods to consumers"
+        "Change with output level",
+        "Remain constant regardless of output level",
+        "Are always zero",
+        "Only apply to digital products"
       ],
-      "correct_index": 3,
-      "explanation": "Flow goods consumers.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Fixed costs do not change with the level of production or sales.",
+      "difficulty": 3
     },
     {
       "id": "mkt_082",
-      "text": "The four components of the marketing mix known as the 4Ps are: (variant 82)",
+      "text": "Which of the following best describes Variable costs are costs that?",
       "options": [
-        "No Ps",
-        "Only product",
-        "Product Price Place Promotion",
-        "People Price Place Promotion"
+        "Stay the same at all times",
+        "Change directly with the level of production or sales",
+        "Are only related to rent",
+        "Apply only to services"
       ],
-      "correct_index": 2,
-      "explanation": "4Ps.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Variable costs fluctuate in proportion to production or sales volume.",
+      "difficulty": 3
     },
     {
       "id": "mkt_083",
-      "text": "The stages of the product life cycle are: (variant 83)",
+      "text": "Target return pricing sets the price to:",
       "options": [
-        "Only decline",
-        "Intro growth maturity decline",
-        "Only intro",
-        "No cycle"
+        "Maximise short-term sales",
+        "Achieve a specific target return on investment",
+        "Match competitors exactly",
+        "Cover only variable costs"
       ],
       "correct_index": 1,
-      "explanation": "PLC.",
-      "difficulty": 1
+      "explanation": "Target return pricing aims to achieve a predetermined rate of return.",
+      "difficulty": 2
     },
     {
       "id": "mkt_084",
-      "text": "Advertising is best described as a form of promotion that is: (variant 84)",
+      "text": "Psychological pricing uses techniques such as:",
       "options": [
-        "Paid non-personal",
-        "Free",
-        "Personal only",
-        "No promotion"
+        "Setting very high prices only",
+        "Pricing at 9.99 instead of 10 to appear cheaper",
+        "Ignoring customer perception",
+        "Pricing all items the same"
       ],
-      "correct_index": 0,
-      "explanation": "Paid non-personal.",
+      "correct_index": 1,
+      "explanation": "Psychological pricing uses price points like 9.99 to influence buyer perception.",
       "difficulty": 1
     },
     {
       "id": "mkt_085",
-      "text": "A wholesaler buys goods from manufacturers and sells them: (variant 85)",
+      "text": "The channel of distribution that has no intermediary is called:",
       "options": [
-        "Small",
-        "No bulk",
-        "Only retail",
-        "In bulk"
+        "One-level channel",
+        "Two-level channel",
+        "Zero-level or direct channel",
+        "Three-level channel"
       ],
-      "correct_index": 3,
-      "explanation": "Bulk.",
+      "correct_index": 2,
+      "explanation": "A zero-level channel is direct distribution from producer to consumer.",
       "difficulty": 1
     },
     {
       "id": "mkt_086",
-      "text": "A retailer sells goods directly to: (variant 86)",
+      "text": "Which of the following best describes Marketing ethics relate to?",
       "options": [
-        "No consumer",
-        "Only bulk",
-        "Final consumer",
-        "Wholesaler"
+        "Only product pricing",
+        "Principles and standards that guide marketing behaviour",
+        "Only advertising rules",
+        "Warehouse management"
       ],
-      "correct_index": 2,
-      "explanation": "Final consumer.",
+      "correct_index": 1,
+      "explanation": "Marketing ethics are moral principles governing marketing practices.",
       "difficulty": 1
     },
     {
       "id": "mkt_087",
-      "text": "SWOT is an acronym that stands for: (variant 87)",
+      "text": "Which of the following is an unethical marketing practice?",
       "options": [
-        "Only weaknesses",
-        "Strengths Weaknesses Opportunities Threats",
-        "No meaning",
-        "Only strengths"
+        "Providing accurate product information",
+        "False advertising and misleading claims",
+        "Offering fair prices",
+        "Giving after-sales service"
       ],
       "correct_index": 1,
-      "explanation": "SWOT.",
+      "explanation": "False advertising and misleading claims are unethical marketing practices.",
       "difficulty": 1
     },
     {
       "id": "mkt_088",
-      "text": "Market segmentation refers to: (variant 88)",
+      "text": "What does the acronym SEO stand for in full?",
       "options": [
-        "Dividing market",
-        "No division",
-        "Only mass",
-        "Only niche"
+        "Sales Evaluation Office",
+        "Search Engine Optimisation",
+        "Strategic Export Operations",
+        "Selling Everything Online"
       ],
-      "correct_index": 0,
-      "explanation": "Dividing.",
+      "correct_index": 1,
+      "explanation": "SEO is Search Engine Optimisation to improve website visibility on search engines.",
       "difficulty": 1
     },
     {
       "id": "mkt_089",
-      "text": "Branding is the process of creating a unique: (variant 89)",
+      "text": "What does the acronym SEM stand for in full?",
       "options": [
-        "No identity",
-        "Only name",
-        "Only logo",
-        "Identity"
+        "Simple Email Marketing",
+        "Search Engine Marketing",
+        "Sales Email Method",
+        "Strategic E-commerce Management"
       ],
-      "correct_index": 3,
-      "explanation": "Identity.",
+      "correct_index": 1,
+      "explanation": "SEM is Search Engine Marketing which includes paid advertising on search engines.",
       "difficulty": 1
     },
     {
       "id": "mkt_090",
-      "text": "AIDA is an acronym used in marketing that stands for: (variant 90)",
+      "text": "Which of the following best describes Content marketing focuses on?",
       "options": [
-        "Only attention",
-        "Only action",
-        "Attention Interest Desire Action",
-        "No meaning"
+        "Directly selling products only",
+        "Creating valuable content to attract and engage a target audience",
+        "Sending spam emails",
+        "Television commercials only"
       ],
-      "correct_index": 2,
-      "explanation": "AIDA.",
+      "correct_index": 1,
+      "explanation": "Content marketing creates and shares valuable content to attract potential customers.",
       "difficulty": 2
     },
     {
       "id": "mkt_091",
-      "text": "SEO is an acronym that stands for: (variant 91)",
+      "text": "Which of the following best describes Social media marketing involves?",
       "options": [
-        "Only engine",
-        "Search Engine Optimization",
-        "No optimization",
-        "Only search"
+        "Only selling in physical stores",
+        "Using social platforms to connect with audiences and promote products",
+        "Avoiding the internet entirely",
+        "Only personal selling"
       ],
       "correct_index": 1,
-      "explanation": "SEO.",
-      "difficulty": 2
+      "explanation": "Social media marketing uses platforms like Facebook and Instagram to engage audiences.",
+      "difficulty": 1
     },
     {
       "id": "mkt_092",
-      "text": "CRM is an acronym that stands for: (variant 92)",
+      "text": "Which of the following best describes E-marketing is another term for?",
       "options": [
-        "Customer Relationship Management",
-        "No management",
-        "Only customer",
-        "Only relationship"
+        "Traditional print marketing",
+        "Online or internet-based marketing",
+        "Outdoor billboard marketing",
+        "Direct mail marketing"
       ],
-      "correct_index": 0,
-      "explanation": "CRM.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "E-marketing refers to marketing activities conducted over the internet.",
+      "difficulty": 1
     },
     {
       "id": "mkt_093",
-      "text": "The break-even point occurs when: (variant 93)",
+      "text": "A monopoly market structure is characterised by:",
       "options": [
-        "Revenue>Cost",
-        "Revenue<Cost",
-        "No revenue",
-        "Revenue=Cost"
+        "Many sellers",
+        "One single seller dominating the entire market",
+        "Equal number of buyers and sellers",
+        "No barriers to entry"
       ],
-      "correct_index": 3,
-      "explanation": "Revenue=Cost.",
+      "correct_index": 1,
+      "explanation": "A monopoly exists when one firm is the sole supplier in a market.",
       "difficulty": 2
     },
     {
       "id": "mkt_094",
-      "text": "Profit is calculated as: (variant 94)",
+      "text": "Perfect competition is a market where:",
       "options": [
-        "Revenue*Cost",
-        "Revenue/Cost",
-        "Revenue-Cost",
-        "Revenue+Cost"
+        "One firm dominates",
+        "Many buyers and sellers deal in identical products",
+        "Products are differentiated",
+        "There are high barriers to entry"
       ],
-      "correct_index": 2,
-      "explanation": "Revenue-Cost.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Perfect competition has many firms selling identical products with free entry.",
+      "difficulty": 2
     },
     {
       "id": "mkt_095",
-      "text": "A niche market is defined as: (variant 95)",
+      "text": "Monopolistic competition is characterised by:",
       "options": [
-        "Only mass",
-        "Small specialized",
-        "Large",
-        "No market"
+        "One seller",
+        "Many sellers offering differentiated products",
+        "No competition",
+        "Identical products only"
       ],
       "correct_index": 1,
-      "explanation": "Small specialized.",
+      "explanation": "Monopolistic competition has many firms selling similar but differentiated products.",
       "difficulty": 2
     },
     {
       "id": "mkt_096",
-      "text": "Mass marketing is best described as: (variant 96)",
+      "text": "What does the term \"Competitive advantage\" mean?",
       "options": [
-        "One for all",
-        "Different for all",
-        "No marketing",
-        "Only niche"
+        "Having the lowest number of employees",
+        "Offering superior value that competitors cannot easily match",
+        "Copying all competitor products",
+        "Ignoring market trends"
       ],
-      "correct_index": 0,
-      "explanation": "One for all.",
+      "correct_index": 1,
+      "explanation": "Competitive advantage is a unique edge that allows a firm to outperform rivals.",
       "difficulty": 2
     },
     {
       "id": "mkt_097",
-      "text": "Viral marketing is a strategy in which a message: (variant 97)",
+      "text": "A customer database in CRM is used to:",
       "options": [
-        "No spreading",
-        "Only slow",
-        "Only traditional",
-        "Spreads quickly"
+        "Store production records only",
+        "Track customer interactions and preferences to improve service",
+        "Calculate tax liabilities",
+        "Manage employee payroll"
       ],
-      "correct_index": 3,
-      "explanation": "Spreads quickly.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "CRM databases store customer data to enhance relationships and service.",
+      "difficulty": 1
     },
     {
       "id": "mkt_098",
-      "text": "Direct marketing involves communicating directly with customers through: (variant 98)",
+      "text": "What does the term \"Market penetration\" mean?",
       "options": [
-        "No direct",
-        "Only publicity",
-        "Email telemarketing",
-        "Only advertising"
+        "Entering a foreign market",
+        "Increasing sales of existing products in existing markets",
+        "Developing new products for new markets",
+        "Closing down a branch"
       ],
-      "correct_index": 2,
-      "explanation": "Email.",
+      "correct_index": 1,
+      "explanation": "Market penetration focuses on selling more current products in current markets.",
       "difficulty": 2
     },
     {
       "id": "mkt_099",
-      "text": "Digital marketing primarily uses: (variant 99)",
+      "text": "Product development as a growth strategy means:",
       "options": [
-        "Only print",
-        "Internet",
-        "No internet",
-        "Only traditional"
+        "Selling existing products in new markets",
+        "Creating new products for existing markets",
+        "Copying competitors' products",
+        "Reducing product quality"
       ],
       "correct_index": 1,
-      "explanation": "Internet.",
-      "difficulty": 1
+      "explanation": "Product development introduces new products to serve existing customers.",
+      "difficulty": 2
     },
     {
       "id": "mkt_100",
-      "text": "Market share is defined as: (variant 100)",
+      "text": "Market development as a strategy involves:",
       "options": [
-        "Company % of total",
-        "No share",
-        "Only total",
-        "Only company"
+        "Developing new products only",
+        "Selling existing products to new markets or customer segments",
+        "Ignoring existing customers",
+        "Reducing distribution channels"
       ],
-      "correct_index": 0,
-      "explanation": "Company % total.",
+      "correct_index": 1,
+      "explanation": "Market development takes current products into new geographic or demographic areas.",
       "difficulty": 2
     },
     {
       "id": "mkt_101",
-      "text": "Marketing is best described as: (variant 101)",
+      "text": "Diversification as a growth strategy means:",
       "options": [
-        "Only buying",
-        "Only selling",
-        "No activities",
-        "Flow of goods to consumers"
+        "Selling existing products to existing markets",
+        "Offering new products to new markets",
+        "Reducing product variety",
+        "Using only one distribution channel"
       ],
-      "correct_index": 3,
-      "explanation": "Flow goods consumers.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Diversification involves entering new markets with new products.",
+      "difficulty": 2
     },
     {
       "id": "mkt_102",
-      "text": "The four components of the marketing mix known as the 4Ps are: (variant 102)",
+      "text": "The Ansoff Matrix includes four strategies: market penetration product development market development and:",
       "options": [
-        "No Ps",
-        "Only product",
-        "Product Price Place Promotion",
-        "People Price Place Promotion"
+        "Cost reduction",
+        "Diversification",
+        "Liquidation",
+        "Outsourcing"
       ],
-      "correct_index": 2,
-      "explanation": "4Ps.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Ansoff Matrix: market penetration product development market development diversification.",
+      "difficulty": 2
     },
     {
       "id": "mkt_103",
-      "text": "The stages of the product life cycle are: (variant 103)",
+      "text": "Market research through observation involves:",
       "options": [
-        "Only decline",
-        "Intro growth maturity decline",
-        "Only intro",
-        "No cycle"
+        "Asking questions directly",
+        "Watching and recording consumer behaviour without interference",
+        "Distributing questionnaires",
+        "Conducting telephone interviews"
       ],
       "correct_index": 1,
-      "explanation": "PLC.",
-      "difficulty": 1
+      "explanation": "Observation research records consumer behaviour as it naturally occurs.",
+      "difficulty": 2
     },
     {
       "id": "mkt_104",
-      "text": "Advertising is best described as a form of promotion that is: (variant 104)",
+      "text": "A survey in market research is a tool used to:",
       "options": [
-        "Paid non-personal",
-        "Free",
-        "Personal only",
-        "No promotion"
+        "Produce goods",
+        "Collect primary data by asking respondents specific questions",
+        "Manage inventory",
+        "Transport goods"
       ],
-      "correct_index": 0,
-      "explanation": "Paid non-personal.",
+      "correct_index": 1,
+      "explanation": "Surveys collect primary data by asking structured questions to respondents.",
       "difficulty": 1
     },
     {
       "id": "mkt_105",
-      "text": "A wholesaler buys goods from manufacturers and sells them: (variant 105)",
+      "text": "Which of the following is an element of the micro environment?",
       "options": [
-        "Small",
-        "No bulk",
-        "Only retail",
-        "In bulk"
+        "Inflation rate",
+        "The company itself",
+        "Population growth",
+        "Technological change"
       ],
-      "correct_index": 3,
-      "explanation": "Bulk.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The company itself is part of the micro environment along with suppliers and customers.",
+      "difficulty": 2
     },
     {
       "id": "mkt_106",
-      "text": "A retailer sells goods directly to: (variant 106)",
+      "text": "Which of the following is part of the macro marketing environment?",
       "options": [
-        "No consumer",
-        "Only bulk",
-        "Final consumer",
-        "Wholesaler"
+        "Competitors' pricing",
+        "Political and legal forces",
+        "Customer buying habits",
+        "Supplier reliability"
       ],
-      "correct_index": 2,
-      "explanation": "Final consumer.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Political and legal forces are macro environmental factors outside the firm's control.",
+      "difficulty": 2
     },
     {
       "id": "mkt_107",
-      "text": "SWOT is an acronym that stands for: (variant 107)",
+      "text": "Demographic factors in the marketing environment include:",
       "options": [
-        "Only weaknesses",
-        "Strengths Weaknesses Opportunities Threats",
-        "No meaning",
-        "Only strengths"
+        "Technology level",
+        "Population size age and income distribution",
+        "Competitor actions",
+        "Supplier capacity"
       ],
       "correct_index": 1,
-      "explanation": "SWOT.",
-      "difficulty": 1
+      "explanation": "Demographic factors include population size age structure income and education.",
+      "difficulty": 2
     },
     {
       "id": "mkt_108",
-      "text": "Market segmentation refers to: (variant 108)",
+      "text": "The buying decision process typically starts with:",
       "options": [
-        "Dividing market",
-        "No division",
-        "Only mass",
-        "Only niche"
+        "Purchase decision",
+        "Problem or need recognition",
+        "Evaluation of alternatives",
+        "Post-purchase behaviour"
       ],
-      "correct_index": 0,
-      "explanation": "Dividing.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The first stage is recognising a problem or need that triggers the buying process.",
+      "difficulty": 2
     },
     {
       "id": "mkt_109",
-      "text": "Branding is the process of creating a unique: (variant 109)",
+      "text": "The final stage of the buyer decision process is:",
       "options": [
-        "No identity",
-        "Only name",
-        "Only logo",
-        "Identity"
+        "Information search",
+        "Evaluation of alternatives",
+        "Purchase decision",
+        "Post-purchase behaviour"
       ],
       "correct_index": 3,
-      "explanation": "Identity.",
-      "difficulty": 1
+      "explanation": "Post-purchase behaviour is the final stage where the buyer evaluates satisfaction.",
+      "difficulty": 2
     },
     {
       "id": "mkt_110",
-      "text": "AIDA is an acronym used in marketing that stands for: (variant 110)",
+      "text": "Cultural factors influencing consumer behaviour include:",
       "options": [
-        "Only attention",
-        "Only action",
-        "Attention Interest Desire Action",
-        "No meaning"
+        "Company size",
+        "Values beliefs and customs of a society",
+        "Product price only",
+        "Warehouse location"
       ],
-      "correct_index": 2,
-      "explanation": "AIDA.",
+      "correct_index": 1,
+      "explanation": "Culture shapes the values beliefs and behaviours of consumers.",
       "difficulty": 2
     },
     {
       "id": "mkt_111",
-      "text": "SEO is an acronym that stands for: (variant 111)",
+      "text": "Social factors influencing consumer behaviour include:",
       "options": [
-        "Only engine",
-        "Search Engine Optimization",
-        "No optimization",
-        "Only search"
+        "Climate conditions",
+        "Family groups and reference groups",
+        "Government policy",
+        "Company logo design"
       ],
       "correct_index": 1,
-      "explanation": "SEO.",
+      "explanation": "Social influences include family peers and reference groups that affect buying behaviour.",
       "difficulty": 2
     },
     {
       "id": "mkt_112",
-      "text": "CRM is an acronym that stands for: (variant 112)",
+      "text": "Personal factors in consumer behaviour include:",
       "options": [
-        "Customer Relationship Management",
-        "No management",
-        "Only customer",
-        "Only relationship"
+        "National GDP",
+        "Age occupation income and lifestyle",
+        "Exchange rate fluctuations",
+        "Trade agreements"
       ],
-      "correct_index": 0,
-      "explanation": "CRM.",
+      "correct_index": 1,
+      "explanation": "Personal factors such as age income and lifestyle influence individual buying decisions.",
       "difficulty": 2
     },
     {
       "id": "mkt_113",
-      "text": "The break-even point occurs when: (variant 113)",
+      "text": "Public relations in the promotional mix aim to:",
       "options": [
-        "Revenue>Cost",
-        "Revenue<Cost",
-        "No revenue",
-        "Revenue=Cost"
+        "Sell products at a discount",
+        "Build and maintain a favourable image with stakeholders",
+        "Replace advertising entirely",
+        "Deliver products to consumers"
       ],
-      "correct_index": 3,
-      "explanation": "Revenue=Cost.",
+      "correct_index": 1,
+      "explanation": "Public relations manages the image and reputation of a company among its stakeholders.",
       "difficulty": 2
     },
     {
       "id": "mkt_114",
-      "text": "Profit is calculated as: (variant 114)",
+      "text": "A trade discount is a reduction in the list price given to:",
       "options": [
-        "Revenue*Cost",
-        "Revenue/Cost",
-        "Revenue-Cost",
-        "Revenue+Cost"
+        "Final consumers only",
+        "Channel members for performing certain functions",
+        "Government officials",
+        "Competitors"
       ],
-      "correct_index": 2,
-      "explanation": "Revenue-Cost.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Trade discounts are offered to intermediaries for performing distribution functions.",
+      "difficulty": 2
     },
     {
       "id": "mkt_115",
-      "text": "A niche market is defined as: (variant 115)",
+      "text": "A cash discount is an allowance given to buyers for:",
       "options": [
-        "Only mass",
-        "Small specialized",
-        "Large",
-        "No market"
+        "Buying in large quantities only",
+        "Paying their bill within a specified period",
+        "Returning products",
+        "Attending a trade fair"
       ],
       "correct_index": 1,
-      "explanation": "Small specialized.",
+      "explanation": "Cash discounts incentivise prompt payment of invoices.",
       "difficulty": 2
     },
     {
       "id": "mkt_116",
-      "text": "Mass marketing is best described as: (variant 116)",
+      "text": "Seasonal discount is a price reduction offered to buyers who:",
       "options": [
-        "One for all",
-        "Different for all",
-        "No marketing",
-        "Only niche"
+        "Buy during peak season only",
+        "Purchase goods during off-peak periods",
+        "Refuse delivery",
+        "Pay in cash only"
       ],
-      "correct_index": 0,
-      "explanation": "One for all.",
+      "correct_index": 1,
+      "explanation": "Seasonal discounts encourage purchasing during off-peak periods to balance demand.",
       "difficulty": 2
     },
     {
       "id": "mkt_117",
-      "text": "Viral marketing is a strategy in which a message: (variant 117)",
+      "text": "Which of the following best describes A loss leader strategy involves?",
       "options": [
-        "No spreading",
-        "Only slow",
-        "Only traditional",
-        "Spreads quickly"
+        "Selling all products at a profit",
+        "Selling a product at below cost to attract customers into the store",
+        "Only selling luxury goods",
+        "Avoiding discounts entirely"
       ],
-      "correct_index": 3,
-      "explanation": "Spreads quickly.",
+      "correct_index": 1,
+      "explanation": "A loss leader sells at a loss to draw customers who may also buy profitable items.",
       "difficulty": 2
     },
     {
       "id": "mkt_118",
-      "text": "Direct marketing involves communicating directly with customers through: (variant 118)",
+      "text": "Which of the following best describes Geographic pricing decides?",
       "options": [
-        "No direct",
-        "Only publicity",
-        "Email telemarketing",
-        "Only advertising"
+        "Product features only",
+        "How to price products considering delivery to different locations",
+        "Employee salaries",
+        "Raw material sourcing"
       ],
-      "correct_index": 2,
-      "explanation": "Email.",
+      "correct_index": 1,
+      "explanation": "Geographic pricing accounts for shipping costs to different customer locations.",
       "difficulty": 2
     },
     {
       "id": "mkt_119",
-      "text": "Digital marketing primarily uses: (variant 119)",
+      "text": "What does the term \"F.O.B. pricing\" mean?",
       "options": [
-        "Only print",
-        "Internet",
-        "No internet",
-        "Only traditional"
+        "Free delivery to all customers",
+        "The buyer pays shipping costs from the factory or warehouse",
+        "Price includes all delivery charges",
+        "No price is quoted"
       ],
       "correct_index": 1,
-      "explanation": "Internet.",
-      "difficulty": 1
+      "explanation": "F.O.B. (Free On Board) pricing means the buyer takes responsibility for shipping costs.",
+      "difficulty": 2
     },
     {
       "id": "mkt_120",
-      "text": "Market share is defined as: (variant 120)",
+      "text": "A distribution centre is a facility designed to:",
       "options": [
-        "Company % of total",
-        "No share",
-        "Only total",
-        "Only company"
+        "Manufacture products",
+        "Store and redistribute products efficiently to retailers and customers",
+        "Only sell directly to consumers",
+        "Repair defective products"
       ],
-      "correct_index": 0,
-      "explanation": "Company % total.",
+      "correct_index": 1,
+      "explanation": "Distribution centres store and redistribute products efficiently through the supply chain.",
       "difficulty": 2
     },
     {
       "id": "mkt_121",
-      "text": "Marketing is best described as: (variant 121)",
+      "text": "Inventory management in logistics aims to:",
       "options": [
-        "Only buying",
-        "Only selling",
-        "No activities",
-        "Flow of goods to consumers"
+        "Maximise storage costs",
+        "Balance holding costs with the need to meet customer demand",
+        "Eliminate all stock",
+        "Only store finished goods"
       ],
-      "correct_index": 3,
-      "explanation": "Flow goods consumers.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Inventory management balances storage costs against product availability.",
+      "difficulty": 2
     },
     {
       "id": "mkt_122",
-      "text": "The four components of the marketing mix known as the 4Ps are: (variant 122)",
+      "text": "Just-in-time (JIT) inventory is a system where:",
       "options": [
-        "No Ps",
-        "Only product",
-        "Product Price Place Promotion",
-        "People Price Place Promotion"
+        "Large stockpiles are maintained",
+        "Materials arrive exactly when needed for production",
+        "Products are stored indefinitely",
+        "Suppliers are ignored"
       ],
-      "correct_index": 2,
-      "explanation": "4Ps.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "JIT reduces holding costs by receiving goods only as they are needed.",
+      "difficulty": 2
     },
     {
       "id": "mkt_123",
-      "text": "The stages of the product life cycle are: (variant 123)",
+      "text": "The customer decision-making process has how many stages?",
       "options": [
-        "Only decline",
-        "Intro growth maturity decline",
-        "Only intro",
-        "No cycle"
+        "Three",
+        "Four",
+        "Five",
+        "Seven"
       ],
-      "correct_index": 1,
-      "explanation": "PLC.",
+      "correct_index": 2,
+      "explanation": "There are five stages: need recognition information search evaluation purchase post-purchase.",
       "difficulty": 1
     },
     {
       "id": "mkt_124",
-      "text": "Advertising is best described as a form of promotion that is: (variant 124)",
+      "text": "Which of the following is NOT a stage in the consumer buying process?",
       "options": [
-        "Paid non-personal",
-        "Free",
-        "Personal only",
-        "No promotion"
+        "Problem recognition",
+        "Information search",
+        "Product manufacturing",
+        "Evaluation of alternatives"
       ],
-      "correct_index": 0,
-      "explanation": "Paid non-personal.",
+      "correct_index": 2,
+      "explanation": "Product manufacturing is not a stage in the consumer buying decision process.",
       "difficulty": 1
     },
     {
       "id": "mkt_125",
-      "text": "A wholesaler buys goods from manufacturers and sells them: (variant 125)",
+      "text": "Which of the following best describes The term 'market leader' refers to?",
       "options": [
-        "Small",
-        "No bulk",
-        "Only retail",
-        "In bulk"
+        "The newest company in the market",
+        "The firm with the largest market share in an industry",
+        "The government regulator",
+        "The smallest firm in the market"
       ],
-      "correct_index": 3,
-      "explanation": "Bulk.",
+      "correct_index": 1,
+      "explanation": "A market leader has the largest share of sales in a given industry.",
       "difficulty": 1
     },
     {
       "id": "mkt_126",
-      "text": "A retailer sells goods directly to: (variant 126)",
+      "text": "Which of the following best describes A market challenger is a firm that?",
       "options": [
-        "No consumer",
-        "Only bulk",
-        "Final consumer",
-        "Wholesaler"
+        "Has the largest market share",
+        "Aggressively tries to increase its market share",
+        "Has left the market",
+        "Only exports goods"
       ],
-      "correct_index": 2,
-      "explanation": "Final consumer.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Market challengers are runner-up firms that actively fight for larger market share.",
+      "difficulty": 2
     },
     {
       "id": "mkt_127",
-      "text": "SWOT is an acronym that stands for: (variant 127)",
+      "text": "Which of the following best describes A market follower is a firm that?",
       "options": [
-        "Only weaknesses",
-        "Strengths Weaknesses Opportunities Threats",
-        "No meaning",
-        "Only strengths"
+        "Leads the market",
+        "Chooses not to rock the boat usually out of fear of losing position",
+        "Always starts price wars",
+        "Only sells online"
       ],
       "correct_index": 1,
-      "explanation": "SWOT.",
-      "difficulty": 1
+      "explanation": "Market followers copy or maintain the leader's offerings without challenging directly.",
+      "difficulty": 2
     },
     {
       "id": "mkt_128",
-      "text": "Market segmentation refers to: (variant 128)",
+      "text": "Which of the following best describes A generic product is one that?",
       "options": [
-        "Dividing market",
-        "No division",
-        "Only mass",
-        "Only niche"
+        "Has a brand name and is heavily advertised",
+        "Has no brand name and is sold without frills",
+        "Is only sold to businesses",
+        "Is only available online"
       ],
-      "correct_index": 0,
-      "explanation": "Dividing.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Generic products lack brand names and are typically sold at lower prices.",
+      "difficulty": 2
     },
     {
       "id": "mkt_129",
-      "text": "Branding is the process of creating a unique: (variant 129)",
+      "text": "What does the term \"Product repositioning\" mean?",
       "options": [
-        "No identity",
-        "Only name",
-        "Only logo",
-        "Identity"
+        "Changing the product's physical shape only",
+        "Altering the way a product is perceived in consumers' minds",
+        "Removing a product from the market",
+        "Changing the factory location"
       ],
-      "correct_index": 3,
-      "explanation": "Identity.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Repositioning changes the image or identity of a product in consumers' minds.",
+      "difficulty": 2
     },
     {
       "id": "mkt_130",
-      "text": "AIDA is an acronym used in marketing that stands for: (variant 130)",
+      "text": "A branding strategy where a company uses its existing brand name for a new product is called:",
       "options": [
-        "Only attention",
-        "Only action",
-        "Attention Interest Desire Action",
-        "No meaning"
+        "Multi-branding",
+        "Line extension",
+        "New branding",
+        "Brand discontinuation"
       ],
-      "correct_index": 2,
-      "explanation": "AIDA.",
+      "correct_index": 1,
+      "explanation": "A line extension uses an established brand name for new products in the same category.",
       "difficulty": 2
     },
     {
       "id": "mkt_131",
-      "text": "SEO is an acronym that stands for: (variant 131)",
+      "text": "Which of the following best describes Brand dilution occurs when?",
       "options": [
-        "Only engine",
-        "Search Engine Optimization",
-        "No optimization",
-        "Only search"
+        "A brand gains more recognition",
+        "A brand extension weakens the core brand's meaning",
+        "A company increases advertising",
+        "Sales increase significantly"
       ],
       "correct_index": 1,
-      "explanation": "SEO.",
-      "difficulty": 2
+      "explanation": "Brand dilution happens when too many extensions confuse or weaken the brand identity.",
+      "difficulty": 3
     },
     {
       "id": "mkt_132",
-      "text": "CRM is an acronym that stands for: (variant 132)",
+      "text": "Which of the following is a disadvantage of personal selling?",
       "options": [
-        "Customer Relationship Management",
-        "No management",
-        "Only customer",
-        "Only relationship"
+        "High reach per contact",
+        "Very high cost per contact",
+        "Cannot be used for complex products",
+        "Not suitable for B2B sales"
       ],
-      "correct_index": 0,
-      "explanation": "CRM.",
+      "correct_index": 1,
+      "explanation": "Personal selling is expensive per contact compared to advertising.",
       "difficulty": 2
     },
     {
       "id": "mkt_133",
-      "text": "The break-even point occurs when: (variant 133)",
+      "text": "Which of the following is an advantage of advertising?",
       "options": [
-        "Revenue>Cost",
-        "Revenue<Cost",
-        "No revenue",
-        "Revenue=Cost"
+        "High cost per exposure",
+        "Low cost per exposure to a large audience",
+        "Cannot reach mass markets",
+        "Not effective for building brand awareness"
       ],
-      "correct_index": 3,
-      "explanation": "Revenue=Cost.",
-      "difficulty": 2
-    },
-    {
-      "id": "mkt_134",
-      "text": "Profit is calculated as: (variant 134)",
-      "options": [
-        "Revenue*Cost",
-        "Revenue/Cost",
-        "Revenue-Cost",
-        "Revenue+Cost"
-      ],
-      "correct_index": 2,
-      "explanation": "Revenue-Cost.",
+      "correct_index": 1,
+      "explanation": "Advertising reaches large audiences at a relatively low cost per exposure.",
       "difficulty": 1
     },
     {
-      "id": "mkt_135",
-      "text": "A niche market is defined as: (variant 135)",
+      "id": "mkt_134",
+      "text": "Trade fairs and exhibitions are examples of:",
       "options": [
-        "Only mass",
-        "Small specialized",
-        "Large",
-        "No market"
+        "Advertising media",
+        "Sales promotion tools",
+        "Direct marketing channels",
+        "Public relations activities"
       ],
       "correct_index": 1,
-      "explanation": "Small specialized.",
+      "explanation": "Trade fairs are sales promotion tools used to showcase products to potential buyers.",
       "difficulty": 2
+    },
+    {
+      "id": "mkt_135",
+      "text": "Coupons and vouchers are examples of:",
+      "options": [
+        "Advertising",
+        "Sales promotion",
+        "Personal selling",
+        "Publicity"
+      ],
+      "correct_index": 1,
+      "explanation": "Coupons and vouchers are sales promotion tools offering short-term price incentives.",
+      "difficulty": 1
     },
     {
       "id": "mkt_136",
-      "text": "Mass marketing is best described as: (variant 136)",
+      "text": "A loyalty card programme is a type of:",
       "options": [
-        "One for all",
-        "Different for all",
-        "No marketing",
-        "Only niche"
+        "Advertising",
+        "Sales promotion",
+        "Publicity",
+        "Direct mail"
       ],
-      "correct_index": 0,
-      "explanation": "One for all.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Loyalty cards reward repeat purchases and are a form of sales promotion.",
+      "difficulty": 1
     },
     {
       "id": "mkt_137",
-      "text": "Viral marketing is a strategy in which a message: (variant 137)",
+      "text": "Which of the following best describes Media mix in advertising refers to?",
       "options": [
-        "No spreading",
-        "Only slow",
-        "Only traditional",
-        "Spreads quickly"
+        "Only television channels",
+        "The combination of different media used to deliver an advertising message",
+        "The budget for one channel",
+        "Product mixing in the factory"
       ],
-      "correct_index": 3,
-      "explanation": "Spreads quickly.",
+      "correct_index": 1,
+      "explanation": "Media mix is the combination of TV radio print and online channels used for advertising.",
       "difficulty": 2
     },
     {
       "id": "mkt_138",
-      "text": "Direct marketing involves communicating directly with customers through: (variant 138)",
+      "text": "The reach of an advertisement refers to:",
       "options": [
-        "No direct",
-        "Only publicity",
-        "Email telemarketing",
-        "Only advertising"
+        "How often the same person sees the ad",
+        "The number of different people exposed to the ad at least once",
+        "The total cost of the ad",
+        "The duration of the campaign"
       ],
-      "correct_index": 2,
-      "explanation": "Email.",
+      "correct_index": 1,
+      "explanation": "Reach measures the number of unique individuals exposed to an advertisement.",
       "difficulty": 2
     },
     {
       "id": "mkt_139",
-      "text": "Digital marketing primarily uses: (variant 139)",
+      "text": "Which of the following best describes Frequency in advertising measures?",
       "options": [
-        "Only print",
-        "Internet",
-        "No internet",
-        "Only traditional"
+        "The number of people who see the ad",
+        "How many times the average person is exposed to the ad",
+        "The cost per ad",
+        "The number of media channels used"
       ],
       "correct_index": 1,
-      "explanation": "Internet.",
-      "difficulty": 1
+      "explanation": "Frequency is the average number of times a person is exposed to an advertisement.",
+      "difficulty": 2
     },
     {
       "id": "mkt_140",
-      "text": "Market share is defined as: (variant 140)",
+      "text": "Which of the following is a limitation of print advertising?",
       "options": [
-        "Company % of total",
-        "No share",
-        "Only total",
-        "Only company"
+        "Cannot reach literate audiences",
+        "Cannot capture attention as quickly as broadcast media",
+        "Too expensive for small firms",
+        "Only reaches young consumers"
       ],
-      "correct_index": 0,
-      "explanation": "Company % total.",
+      "correct_index": 1,
+      "explanation": "Print media cannot capture attention as quickly or vividly as TV or radio.",
       "difficulty": 2
     },
     {
       "id": "mkt_141",
-      "text": "Marketing is best described as: (variant 141)",
+      "text": "Which of the following best describes Above-the-line promotion refers to?",
       "options": [
-        "Only buying",
-        "Only selling",
-        "No activities",
-        "Flow of goods to consumers"
+        "Personal selling only",
+        "Mass media advertising such as TV radio and newspapers",
+        "Sales promotion only",
+        "Direct marketing only"
       ],
-      "correct_index": 3,
-      "explanation": "Flow goods consumers.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Above-the-line promotion uses mass media channels like TV and print.",
+      "difficulty": 3
     },
     {
       "id": "mkt_142",
-      "text": "The four components of the marketing mix known as the 4Ps are: (variant 142)",
+      "text": "Below-the-line promotion includes all of the following except:",
       "options": [
-        "No Ps",
-        "Only product",
-        "Product Price Place Promotion",
-        "People Price Place Promotion"
+        "Sales promotion",
+        "Personal selling",
+        "National TV advertising",
+        "Trade exhibitions"
       ],
       "correct_index": 2,
-      "explanation": "4Ps.",
-      "difficulty": 1
+      "explanation": "National TV advertising is above-the-line promotion, not below-the-line.",
+      "difficulty": 3
     },
     {
       "id": "mkt_143",
-      "text": "The stages of the product life cycle are: (variant 143)",
+      "text": "Word-of-mouth marketing is effective because:",
       "options": [
-        "Only decline",
-        "Intro growth maturity decline",
-        "Only intro",
-        "No cycle"
+        "It is the cheapest form of media",
+        "Consumers trust personal recommendations from others",
+        "It uses professional actors",
+        "It guarantees immediate sales"
       ],
       "correct_index": 1,
-      "explanation": "PLC.",
-      "difficulty": 1
+      "explanation": "Word-of-mouth is powerful because personal recommendations carry high credibility.",
+      "difficulty": 2
     },
     {
       "id": "mkt_144",
-      "text": "Advertising is best described as a form of promotion that is: (variant 144)",
+      "text": "Cause-related marketing links a brand to:",
       "options": [
-        "Paid non-personal",
-        "Free",
-        "Personal only",
-        "No promotion"
+        "A celebrity endorsement only",
+        "A social cause or charitable initiative",
+        "A competitor's campaign",
+        "A government mandate"
       ],
-      "correct_index": 0,
-      "explanation": "Paid non-personal.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Cause-related marketing associates a brand with a social or charitable cause.",
+      "difficulty": 2
     },
     {
       "id": "mkt_145",
-      "text": "A wholesaler buys goods from manufacturers and sells them: (variant 145)",
+      "text": "Which of the following best describes Mobile marketing refers to?",
       "options": [
-        "Small",
-        "No bulk",
-        "Only retail",
-        "In bulk"
+        "Selling products from a mobile shop",
+        "Marketing through smartphones and mobile devices",
+        "Marketing while travelling",
+        "Selling mobile phones only"
       ],
-      "correct_index": 3,
-      "explanation": "Bulk.",
+      "correct_index": 1,
+      "explanation": "Mobile marketing uses smartphones tablets and mobile networks to reach consumers.",
       "difficulty": 1
     },
     {
       "id": "mkt_146",
-      "text": "A retailer sells goods directly to: (variant 146)",
+      "text": "Which of the following best describes A brand ambassador is a person who?",
       "options": [
-        "No consumer",
-        "Only bulk",
-        "Final consumer",
-        "Wholesaler"
+        "Owns the company",
+        "Represents and promotes a brand publicly",
+        "Delivers products to customers",
+        "Works in the warehouse"
       ],
-      "correct_index": 2,
-      "explanation": "Final consumer.",
+      "correct_index": 1,
+      "explanation": "A brand ambassador publicly represents and promotes a brand to consumers.",
       "difficulty": 1
     },
     {
       "id": "mkt_147",
-      "text": "SWOT is an acronym that stands for: (variant 147)",
+      "text": "Which of the following best describes Guerrilla marketing involves?",
       "options": [
-        "Only weaknesses",
-        "Strengths Weaknesses Opportunities Threats",
-        "No meaning",
-        "Only strengths"
+        "Spending very large budgets on TV ads",
+        "Using unconventional and low-cost tactics to promote a product",
+        "Following traditional marketing methods only",
+        "Ignoring the competition"
       ],
       "correct_index": 1,
-      "explanation": "SWOT.",
-      "difficulty": 1
+      "explanation": "Guerrilla marketing uses creative and unexpected low-cost strategies.",
+      "difficulty": 2
     },
     {
       "id": "mkt_148",
-      "text": "Market segmentation refers to: (variant 148)",
+      "text": "Affiliate marketing is a performance-based strategy where:",
       "options": [
-        "Dividing market",
-        "No division",
-        "Only mass",
-        "Only niche"
+        "The company pays for office space",
+        "Affiliates earn commission for driving traffic or sales to a business",
+        "Products are given away free",
+        "Only employees promote products"
       ],
-      "correct_index": 0,
-      "explanation": "Dividing.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Affiliate marketing rewards partners with commission for generating leads or sales.",
+      "difficulty": 2
     },
     {
       "id": "mkt_149",
-      "text": "Branding is the process of creating a unique: (variant 149)",
+      "text": "Remarketing or retargeting in digital marketing means:",
       "options": [
-        "No identity",
-        "Only name",
-        "Only logo",
-        "Identity"
+        "Launching a brand new campaign",
+        "Showing ads to people who have previously visited your website",
+        "Marketing to first-time visitors only",
+        "Changing product prices"
       ],
-      "correct_index": 3,
-      "explanation": "Identity.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Remarketing targets users who have already interacted with your brand online.",
+      "difficulty": 3
     },
     {
       "id": "mkt_150",
-      "text": "AIDA is an acronym used in marketing that stands for: (variant 150)",
+      "text": "A conversion rate in digital marketing measures:",
       "options": [
-        "Only attention",
-        "Only action",
-        "Attention Interest Desire Action",
-        "No meaning"
+        "The number of website visitors only",
+        "The percentage of visitors who take a desired action",
+        "The number of pages on a website",
+        "The speed of the website"
       ],
-      "correct_index": 2,
-      "explanation": "AIDA.",
+      "correct_index": 1,
+      "explanation": "Conversion rate is the percentage of visitors who complete a desired goal.",
       "difficulty": 2
     },
     {
       "id": "mkt_151",
-      "text": "SEO is an acronym that stands for: (variant 151)",
+      "text": "Which of the following is a benefit of e-marketing?",
       "options": [
-        "Only engine",
-        "Search Engine Optimization",
-        "No optimization",
-        "Only search"
+        "No need for a website",
+        "Ability to reach a global audience at low cost",
+        "Guaranteed sales",
+        "No competition online"
       ],
       "correct_index": 1,
-      "explanation": "SEO.",
-      "difficulty": 2
+      "explanation": "E-marketing allows businesses to reach global audiences at relatively low cost.",
+      "difficulty": 1
     },
     {
       "id": "mkt_152",
-      "text": "CRM is an acronym that stands for: (variant 152)",
+      "text": "A landing page in digital marketing is:",
       "options": [
-        "Customer Relationship Management",
-        "No management",
-        "Only customer",
-        "Only relationship"
+        "The last page a user visits",
+        "A specific web page designed to capture leads or drive conversions",
+        "The company homepage only",
+        "An error page"
       ],
-      "correct_index": 0,
-      "explanation": "CRM.",
+      "correct_index": 1,
+      "explanation": "A landing page is a focused page built to convert visitors into leads or customers.",
       "difficulty": 2
     },
     {
       "id": "mkt_153",
-      "text": "The break-even point occurs when: (variant 153)",
+      "text": "Which of the following best describes Click-through rate (CTR) measures?",
       "options": [
-        "Revenue>Cost",
-        "Revenue<Cost",
-        "No revenue",
-        "Revenue=Cost"
+        "The total number of impressions",
+        "The percentage of people who click on a link after seeing it",
+        "The cost of an ad",
+        "The number of sales made"
       ],
-      "correct_index": 3,
-      "explanation": "Revenue=Cost.",
+      "correct_index": 1,
+      "explanation": "CTR is the ratio of users who click on a specific link to the total who view it.",
       "difficulty": 2
     },
     {
       "id": "mkt_154",
-      "text": "Profit is calculated as: (variant 154)",
+      "text": "An impression in digital advertising refers to:",
       "options": [
-        "Revenue*Cost",
-        "Revenue/Cost",
-        "Revenue-Cost",
-        "Revenue+Cost"
+        "A single sale made",
+        "One display of an advertisement to a user",
+        "A customer complaint",
+        "A product review"
       ],
-      "correct_index": 2,
-      "explanation": "Revenue-Cost.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "An impression is counted each time an ad is shown to a user.",
+      "difficulty": 2
     },
     {
       "id": "mkt_155",
-      "text": "A niche market is defined as: (variant 155)",
+      "text": "Email marketing is most effective when:",
       "options": [
-        "Only mass",
-        "Small specialized",
-        "Large",
-        "No market"
+        "Emails are sent to random addresses",
+        "Messages are personalised and targeted to relevant audiences",
+        "No subject lines are used",
+        "The same email is sent every day"
       ],
       "correct_index": 1,
-      "explanation": "Small specialized.",
+      "explanation": "Personalised and targeted emails achieve higher open and conversion rates.",
       "difficulty": 2
     },
     {
       "id": "mkt_156",
-      "text": "Mass marketing is best described as: (variant 156)",
+      "text": "A call to action (CTA) in marketing is:",
       "options": [
-        "One for all",
-        "Different for all",
-        "No marketing",
-        "Only niche"
+        "A phone call to a customer",
+        "A prompt telling the audience to take a specific next step",
+        "A company meeting",
+        "A complaint from a customer"
       ],
-      "correct_index": 0,
-      "explanation": "One for all.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "A CTA directs the audience to take an action such as buy sign up or learn more.",
+      "difficulty": 1
     },
     {
       "id": "mkt_157",
-      "text": "Viral marketing is a strategy in which a message: (variant 157)",
+      "text": "What is a value proposition and how is it best described?",
       "options": [
-        "No spreading",
-        "Only slow",
-        "Only traditional",
-        "Spreads quickly"
+        "The cost of producing a product",
+        "The unique benefit a company promises to deliver to customers",
+        "The total revenue of a firm",
+        "The number of products in stock"
       ],
-      "correct_index": 3,
-      "explanation": "Spreads quickly.",
+      "correct_index": 1,
+      "explanation": "A value proposition explains why a customer should choose a particular product.",
       "difficulty": 2
     },
     {
       "id": "mkt_158",
-      "text": "Direct marketing involves communicating directly with customers through: (variant 158)",
+      "text": "Market orientation is a business philosophy that focuses on:",
       "options": [
-        "No direct",
-        "Only publicity",
-        "Email telemarketing",
-        "Only advertising"
-      ],
-      "correct_index": 2,
-      "explanation": "Email.",
-      "difficulty": 2
-    },
-    {
-      "id": "mkt_159",
-      "text": "Digital marketing primarily uses: (variant 159)",
-      "options": [
-        "Only print",
-        "Internet",
-        "No internet",
-        "Only traditional"
+        "Maximising production output",
+        "Understanding and meeting customer needs better than competitors",
+        "Minimising marketing costs",
+        "Ignoring customer feedback"
       ],
       "correct_index": 1,
-      "explanation": "Internet.",
+      "explanation": "Market orientation focuses on identifying and satisfying customer needs profitably.",
       "difficulty": 1
     },
     {
-      "id": "mkt_160",
-      "text": "Market share is defined as: (variant 160)",
+      "id": "mkt_159",
+      "text": "The product concept holds that consumers will favour products that offer:",
       "options": [
-        "Company % of total",
-        "No share",
-        "Only total",
-        "Only company"
+        "Lowest price",
+        "The most quality performance and innovative features",
+        "The widest availability",
+        "The most basic functions only"
       ],
-      "correct_index": 0,
-      "explanation": "Company % total.",
+      "correct_index": 1,
+      "explanation": "The product concept emphasises continuous product improvement and quality.",
+      "difficulty": 2
+    },
+    {
+      "id": "mkt_160",
+      "text": "Which of the following best describes Relationship marketing aims to?",
+      "options": [
+        "Make one-time sales only",
+        "Build long-term mutually beneficial relationships with key parties",
+        "Ignore customer complaints",
+        "Reduce product quality"
+      ],
+      "correct_index": 1,
+      "explanation": "Relationship marketing focuses on long-term engagement and customer loyalty.",
       "difficulty": 2
     },
     {
       "id": "mkt_161",
-      "text": "Marketing is best described as: (variant 161)",
+      "text": "Which of the following best describes a 'commodity'?",
       "options": [
-        "Only buying",
-        "Only selling",
-        "No activities",
-        "Flow of goods to consumers"
+        "A branded luxury product",
+        "A basic product with little differentiation from competitors' offerings",
+        "A digital service",
+        "A patented invention"
       ],
-      "correct_index": 3,
-      "explanation": "Flow goods consumers.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Commodities are basic goods that are largely undifferentiated across sellers.",
+      "difficulty": 2
     },
     {
       "id": "mkt_162",
-      "text": "The four components of the marketing mix known as the 4Ps are: (variant 162)",
+      "text": "After-sales service is important because it:",
       "options": [
-        "No Ps",
-        "Only product",
-        "Product Price Place Promotion",
-        "People Price Place Promotion"
+        "Increases production costs only",
+        "Builds customer loyalty and repeat business",
+        "Reduces product quality",
+        "Eliminates the need for warranties"
       ],
-      "correct_index": 2,
-      "explanation": "4Ps.",
+      "correct_index": 1,
+      "explanation": "Good after-sales service enhances satisfaction and encourages repeat purchases.",
       "difficulty": 1
     },
     {
       "id": "mkt_163",
-      "text": "The stages of the product life cycle are: (variant 163)",
+      "text": "Price elasticity of demand measures:",
       "options": [
-        "Only decline",
-        "Intro growth maturity decline",
-        "Only intro",
-        "No cycle"
+        "The total cost of production",
+        "How much demand changes when price changes",
+        "The number of competitors",
+        "The total market size"
       ],
       "correct_index": 1,
-      "explanation": "PLC.",
-      "difficulty": 1
+      "explanation": "Price elasticity measures the responsiveness of demand to a change in price.",
+      "difficulty": 3
     },
     {
       "id": "mkt_164",
-      "text": "Advertising is best described as a form of promotion that is: (variant 164)",
+      "text": "Which of the following makes demand for a product price inelastic?",
       "options": [
-        "Paid non-personal",
-        "Free",
-        "Personal only",
-        "No promotion"
+        "Many close substitutes available",
+        "The product is a necessity with no close substitutes",
+        "The product is a luxury item",
+        "The market is highly competitive"
       ],
-      "correct_index": 0,
-      "explanation": "Paid non-personal.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Necessities with few substitutes tend to have inelastic demand.",
+      "difficulty": 3
     },
     {
       "id": "mkt_165",
-      "text": "A wholesaler buys goods from manufacturers and sells them: (variant 165)",
+      "text": "Penetration pricing is most suitable when:",
       "options": [
-        "Small",
-        "No bulk",
-        "Only retail",
-        "In bulk"
+        "The product targets a luxury segment",
+        "The market is highly price-sensitive and competition is strong",
+        "The product is unique with no competitors",
+        "The firm wants to recover costs quickly"
       ],
-      "correct_index": 3,
-      "explanation": "Bulk.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Penetration pricing works best in price-sensitive markets with strong competition.",
+      "difficulty": 2
     },
     {
       "id": "mkt_166",
-      "text": "A retailer sells goods directly to: (variant 166)",
+      "text": "Price skimming is most suitable when:",
       "options": [
-        "No consumer",
-        "Only bulk",
-        "Final consumer",
-        "Wholesaler"
+        "The market is very price-sensitive",
+        "A new innovative product has no direct competitors initially",
+        "The product is a commodity",
+        "The firm wants to enter a price war"
       ],
-      "correct_index": 2,
-      "explanation": "Final consumer.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Skimming works when a novel product attracts early adopters willing to pay a premium.",
+      "difficulty": 2
     },
     {
       "id": "mkt_167",
-      "text": "SWOT is an acronym that stands for: (variant 167)",
+      "text": "Which of the following is NOT a type of wholesaler?",
       "options": [
-        "Only weaknesses",
-        "Strengths Weaknesses Opportunities Threats",
-        "No meaning",
-        "Only strengths"
+        "Cash-and-carry wholesaler",
+        "Drop shipper",
+        "Retailer",
+        "Truck wholesaler"
       ],
-      "correct_index": 1,
-      "explanation": "SWOT.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Retailers are not wholesalers as they sell directly to final consumers.",
+      "difficulty": 2
     },
     {
       "id": "mkt_168",
-      "text": "Market segmentation refers to: (variant 168)",
+      "text": "A franchise is a contractual association where:",
       "options": [
-        "Dividing market",
-        "No division",
-        "Only mass",
-        "Only niche"
+        "The franchisor takes all operational risk",
+        "A franchisee operates under the franchisor's brand and system",
+        "No branding is used",
+        "The product is sold at cost"
       ],
-      "correct_index": 0,
-      "explanation": "Dividing.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A franchisee pays fees to operate using the franchisor's brand and business model.",
+      "difficulty": 2
     },
     {
       "id": "mkt_169",
-      "text": "Branding is the process of creating a unique: (variant 169)",
+      "text": "Which of the following best describes E-commerce refers to?",
       "options": [
-        "No identity",
-        "Only name",
-        "Only logo",
-        "Identity"
+        "Selling only in physical stores",
+        "Buying and selling goods and services over the internet",
+        "Manufacturing processes",
+        "Government procurement only"
       ],
-      "correct_index": 3,
-      "explanation": "Identity.",
+      "correct_index": 1,
+      "explanation": "E-commerce is the buying and selling of goods and services through online platforms.",
       "difficulty": 1
     },
     {
       "id": "mkt_170",
-      "text": "AIDA is an acronym used in marketing that stands for: (variant 170)",
+      "text": "A competitive market structure with many sellers and differentiated products is called:",
       "options": [
-        "Only attention",
-        "Only action",
-        "Attention Interest Desire Action",
-        "No meaning"
+        "Pure monopoly",
+        "Oligopoly",
+        "Monopolistic competition",
+        "Perfect competition"
       ],
       "correct_index": 2,
-      "explanation": "AIDA.",
+      "explanation": "Monopolistic competition has many sellers offering differentiated products.",
       "difficulty": 2
     },
     {
       "id": "mkt_171",
-      "text": "SEO is an acronym that stands for: (variant 171)",
+      "text": "Which of the following best describes Market concentration refers to?",
       "options": [
-        "Only engine",
-        "Search Engine Optimization",
-        "No optimization",
-        "Only search"
+        "The density of population in a city",
+        "The degree to which a small number of firms dominate an industry",
+        "The number of customers in a region",
+        "The concentration of product features"
       ],
       "correct_index": 1,
-      "explanation": "SEO.",
-      "difficulty": 2
+      "explanation": "Market concentration measures how much of total sales is held by the leading firms.",
+      "difficulty": 3
     },
     {
       "id": "mkt_172",
-      "text": "CRM is an acronym that stands for: (variant 172)",
+      "text": "Which of the following best describes A product warranty provides?",
       "options": [
-        "Customer Relationship Management",
-        "No management",
-        "Only customer",
-        "Only relationship"
+        "Free products for life",
+        "A guarantee of product quality or performance for a specified period",
+        "Unlimited replacements",
+        "No protection to consumers"
       ],
-      "correct_index": 0,
-      "explanation": "CRM.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "A warranty guarantees product performance or quality within a set time period.",
+      "difficulty": 1
     },
     {
       "id": "mkt_173",
-      "text": "The break-even point occurs when: (variant 173)",
+      "text": "The cost of customer acquisition refers to:",
       "options": [
-        "Revenue>Cost",
-        "Revenue<Cost",
-        "No revenue",
-        "Revenue=Cost"
+        "The cost of manufacturing a product",
+        "The total cost of attracting a new customer to the business",
+        "The salary of the marketing manager",
+        "The cost of raw materials"
       ],
-      "correct_index": 3,
-      "explanation": "Revenue=Cost.",
+      "correct_index": 1,
+      "explanation": "Customer acquisition cost is the expense of gaining a new customer through marketing.",
       "difficulty": 2
     },
     {
       "id": "mkt_174",
-      "text": "Profit is calculated as: (variant 174)",
+      "text": "Customer lifetime value (CLV) measures:",
       "options": [
-        "Revenue*Cost",
-        "Revenue/Cost",
-        "Revenue-Cost",
-        "Revenue+Cost"
+        "A customer's age",
+        "The total revenue a business can expect from a customer over the entire relationship",
+        "The cost of a single transaction",
+        "The number of complaints a customer makes"
       ],
-      "correct_index": 2,
-      "explanation": "Revenue-Cost.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "CLV estimates the total worth of a customer to a business over their entire relationship.",
+      "difficulty": 3
     },
     {
       "id": "mkt_175",
-      "text": "A niche market is defined as: (variant 175)",
+      "text": "Which of the following is an example of a pull advertising campaign?",
       "options": [
-        "Only mass",
-        "Small specialized",
-        "Large",
-        "No market"
+        "Sales reps visiting retailers",
+        "A TV advert encouraging consumers to ask for the product in stores",
+        "Bulk discounts given to wholesalers",
+        "Training for sales staff"
       ],
       "correct_index": 1,
-      "explanation": "Small specialized.",
+      "explanation": "A pull campaign creates consumer demand that pulls the product through the channel.",
       "difficulty": 2
     },
     {
       "id": "mkt_176",
-      "text": "Mass marketing is best described as: (variant 176)",
+      "text": "The concept of consumer sovereignty means:",
       "options": [
-        "One for all",
-        "Different for all",
-        "No marketing",
-        "Only niche"
+        "Producers decide what is made",
+        "Consumers ultimately determine what goods and services are produced",
+        "The government controls all markets",
+        "Retailers dictate prices"
       ],
-      "correct_index": 0,
-      "explanation": "One for all.",
+      "correct_index": 1,
+      "explanation": "Consumer sovereignty holds that consumer buying decisions determine what is produced.",
       "difficulty": 2
     },
     {
       "id": "mkt_177",
-      "text": "Viral marketing is a strategy in which a message: (variant 177)",
+      "text": "Blue ocean strategy in marketing involves:",
       "options": [
-        "No spreading",
-        "Only slow",
-        "Only traditional",
-        "Spreads quickly"
+        "Competing aggressively in existing markets",
+        "Creating new uncontested market spaces rather than competing in existing ones",
+        "Selling products at the lowest price",
+        "Copying competitor strategies"
       ],
-      "correct_index": 3,
-      "explanation": "Spreads quickly.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Blue ocean strategy seeks to create new demand in uncontested market space.",
+      "difficulty": 3
     },
     {
       "id": "mkt_178",
-      "text": "Direct marketing involves communicating directly with customers through: (variant 178)",
+      "text": "What does the term \"Mass customisation\" mean?",
       "options": [
-        "No direct",
-        "Only publicity",
-        "Email telemarketing",
-        "Only advertising"
+        "Producing only one standard product",
+        "Tailoring products to individual customer needs on a large scale",
+        "Mass-producing identical items",
+        "Selling only to mass markets"
       ],
-      "correct_index": 2,
-      "explanation": "Email.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Mass customisation combines the efficiency of mass production with personalisation.",
+      "difficulty": 3
     },
     {
       "id": "mkt_179",
-      "text": "Digital marketing primarily uses: (variant 179)",
+      "text": "Which of the following is an example of a convenience product?",
       "options": [
-        "Only print",
-        "Internet",
-        "No internet",
-        "Only traditional"
+        "Designer handbag",
+        "Newspaper",
+        "Luxury car",
+        "Wedding dress"
       ],
       "correct_index": 1,
-      "explanation": "Internet.",
+      "explanation": "A newspaper is a convenience product bought frequently with minimal effort.",
       "difficulty": 1
     },
     {
       "id": "mkt_180",
-      "text": "Market share is defined as: (variant 180)",
+      "text": "Which of the following is an example of an industrial good?",
       "options": [
-        "Company % of total",
-        "No share",
-        "Only total",
-        "Only company"
+        "Soft drink",
+        "Office photocopier",
+        "Packaged rice",
+        "Toothpaste"
       ],
-      "correct_index": 0,
-      "explanation": "Company % total.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "An office photocopier is an industrial good used in business operations.",
+      "difficulty": 1
     },
     {
       "id": "mkt_181",
-      "text": "Marketing is best described as: (variant 181)",
+      "text": "The 7Ps of the extended marketing mix add three elements to the 4Ps. One of them is:",
       "options": [
-        "Only buying",
-        "Only selling",
-        "No activities",
-        "Flow of goods to consumers"
+        "Production",
+        "People",
+        "Packaging",
+        "Policy"
       ],
-      "correct_index": 3,
-      "explanation": "Flow goods consumers.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The 7Ps add People Process and Physical Evidence to the original 4Ps.",
+      "difficulty": 2
     },
     {
       "id": "mkt_182",
-      "text": "The four components of the marketing mix known as the 4Ps are: (variant 182)",
+      "text": "Process in the extended marketing mix (7Ps) refers to:",
       "options": [
-        "No Ps",
-        "Only product",
-        "Product Price Place Promotion",
-        "People Price Place Promotion"
+        "The manufacturing equipment",
+        "The procedures and flow of activities by which a service is delivered",
+        "The company's legal structure",
+        "The advertising budget"
       ],
-      "correct_index": 2,
-      "explanation": "4Ps.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Process covers the systems and procedures used to deliver a service to customers.",
+      "difficulty": 2
     },
     {
       "id": "mkt_183",
-      "text": "The stages of the product life cycle are: (variant 183)",
+      "text": "Physical evidence in the 7Ps refers to:",
       "options": [
-        "Only decline",
-        "Intro growth maturity decline",
-        "Only intro",
-        "No cycle"
+        "The factory building only",
+        "The tangible cues customers use to evaluate a service before purchase",
+        "The weight of a product",
+        "The raw materials used"
       ],
       "correct_index": 1,
-      "explanation": "PLC.",
-      "difficulty": 1
+      "explanation": "Physical evidence includes the tangible elements like decor receipts and packaging.",
+      "difficulty": 2
     },
     {
       "id": "mkt_184",
-      "text": "Advertising is best described as a form of promotion that is: (variant 184)",
+      "text": "Services are described as inseparable because:",
       "options": [
-        "Paid non-personal",
-        "Free",
-        "Personal only",
-        "No promotion"
+        "They can be stored easily",
+        "They are produced and consumed at the same time",
+        "They have no quality standards",
+        "They are always cheap"
       ],
-      "correct_index": 0,
-      "explanation": "Paid non-personal.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Inseparability means services cannot be separated from their providers at the point of delivery.",
+      "difficulty": 2
     },
     {
       "id": "mkt_185",
-      "text": "A wholesaler buys goods from manufacturers and sells them: (variant 185)",
+      "text": "Services are described as heterogeneous because:",
       "options": [
-        "Small",
-        "No bulk",
-        "Only retail",
-        "In bulk"
+        "All services are identical",
+        "Service quality varies depending on who provides them and when",
+        "They are always delivered online",
+        "They never change"
       ],
-      "correct_index": 3,
-      "explanation": "Bulk.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Heterogeneity means service quality can vary between providers and occasions.",
+      "difficulty": 2
     },
     {
       "id": "mkt_186",
-      "text": "A retailer sells goods directly to: (variant 186)",
+      "text": "What does the term \"Perishability of services\" mean?",
       "options": [
-        "No consumer",
-        "Only bulk",
-        "Final consumer",
-        "Wholesaler"
+        "Services last forever",
+        "Services cannot be stored for later use or sale",
+        "Services are always free",
+        "Services are tangible products"
       ],
-      "correct_index": 2,
-      "explanation": "Final consumer.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Perishability means unused service capacity cannot be saved for future use.",
+      "difficulty": 2
     },
     {
       "id": "mkt_187",
-      "text": "SWOT is an acronym that stands for: (variant 187)",
+      "text": "In international marketing the term 'globalisation' means:",
       "options": [
-        "Only weaknesses",
-        "Strengths Weaknesses Opportunities Threats",
-        "No meaning",
-        "Only strengths"
+        "Isolating a country's market",
+        "The increasing interconnectedness and integration of world markets",
+        "Prohibiting imports",
+        "Selling only locally"
       ],
       "correct_index": 1,
-      "explanation": "SWOT.",
-      "difficulty": 1
+      "explanation": "Globalisation is the growing integration of economies and markets worldwide.",
+      "difficulty": 2
     },
     {
       "id": "mkt_188",
-      "text": "Market segmentation refers to: (variant 188)",
+      "text": "Exporting as a market entry strategy involves:",
       "options": [
-        "Dividing market",
-        "No division",
-        "Only mass",
-        "Only niche"
+        "Building factories abroad",
+        "Selling domestically produced products to buyers in another country",
+        "Licensing a foreign firm to manufacture",
+        "Creating a joint venture"
       ],
-      "correct_index": 0,
-      "explanation": "Dividing.",
+      "correct_index": 1,
+      "explanation": "Exporting is selling products produced in the home country to foreign markets.",
       "difficulty": 1
     },
     {
       "id": "mkt_189",
-      "text": "Branding is the process of creating a unique: (variant 189)",
+      "text": "Licensing in international marketing means:",
       "options": [
-        "No identity",
-        "Only name",
-        "Only logo",
-        "Identity"
+        "Setting up a factory abroad",
+        "A firm grants a foreign company the right to use its intellectual property for a fee",
+        "Selling products through an agent",
+        "Importing raw materials only"
       ],
-      "correct_index": 3,
-      "explanation": "Identity.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Licensing allows a foreign firm to use trademarks patents or technology for royalties.",
+      "difficulty": 2
     },
     {
       "id": "mkt_190",
-      "text": "AIDA is an acronym used in marketing that stands for: (variant 190)",
+      "text": "A joint venture in international marketing is when:",
       "options": [
-        "Only attention",
-        "Only action",
-        "Attention Interest Desire Action",
-        "No meaning"
+        "One company operates alone abroad",
+        "Two or more firms create a new entity to operate in a foreign market",
+        "A company closes all domestic operations",
+        "A firm imports goods only"
       ],
-      "correct_index": 2,
-      "explanation": "AIDA.",
+      "correct_index": 1,
+      "explanation": "A joint venture involves shared ownership between local and foreign partners.",
       "difficulty": 2
     },
     {
       "id": "mkt_191",
-      "text": "SEO is an acronym that stands for: (variant 191)",
+      "text": "Foreign direct investment (FDI) in marketing means:",
       "options": [
-        "Only engine",
-        "Search Engine Optimization",
-        "No optimization",
-        "Only search"
+        "Buying foreign currency",
+        "A company investing directly in facilities or operations in a foreign country",
+        "Selling products on the internet",
+        "Hiring local workers only"
       ],
       "correct_index": 1,
-      "explanation": "SEO.",
-      "difficulty": 2
+      "explanation": "FDI involves establishing a physical presence such as factories or offices abroad.",
+      "difficulty": 3
     },
     {
       "id": "mkt_192",
-      "text": "CRM is an acronym that stands for: (variant 192)",
+      "text": "Counter trade in international marketing involves:",
       "options": [
-        "Customer Relationship Management",
-        "No management",
-        "Only customer",
-        "Only relationship"
+        "Selling for cash only",
+        "The direct exchange of goods and services between countries without using money",
+        "Banning all imports",
+        "Fixing exchange rates"
       ],
-      "correct_index": 0,
-      "explanation": "CRM.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Counter trade is barter-like exchange of goods between nations without cash.",
+      "difficulty": 3
     },
     {
       "id": "mkt_193",
-      "text": "The break-even point occurs when: (variant 193)",
+      "text": "Which of the following best describes Tariffs in international trade are?",
       "options": [
-        "Revenue>Cost",
-        "Revenue<Cost",
-        "No revenue",
-        "Revenue=Cost"
+        "Subsidies given to exporters",
+        "Taxes imposed on imported goods",
+        "Quotas on domestic production",
+        "Free trade agreements"
       ],
-      "correct_index": 3,
-      "explanation": "Revenue=Cost.",
+      "correct_index": 1,
+      "explanation": "Tariffs are government taxes levied on goods imported into a country.",
       "difficulty": 2
     },
     {
       "id": "mkt_194",
-      "text": "Profit is calculated as: (variant 194)",
+      "text": "A quota in international trade is a:",
       "options": [
-        "Revenue*Cost",
-        "Revenue/Cost",
-        "Revenue-Cost",
-        "Revenue+Cost"
+        "Tax on exports",
+        "Government-imposed limit on the quantity of a product that can be imported",
+        "Type of trade discount",
+        "Form of advertising"
       ],
-      "correct_index": 2,
-      "explanation": "Revenue-Cost.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "An import quota limits the quantity of a specific product that can be brought in.",
+      "difficulty": 2
     },
     {
       "id": "mkt_195",
-      "text": "A niche market is defined as: (variant 195)",
+      "text": "Dumping in international marketing is when:",
       "options": [
-        "Only mass",
-        "Small specialized",
-        "Large",
-        "No market"
+        "Products are packaged attractively",
+        "A firm exports a product at a price below its domestic cost or market price",
+        "Products are delivered late",
+        "A company closes a foreign branch"
       ],
       "correct_index": 1,
-      "explanation": "Small specialized.",
-      "difficulty": 2
+      "explanation": "Dumping is selling exports at a price lower than the home market price to gain share.",
+      "difficulty": 3
     },
     {
       "id": "mkt_196",
-      "text": "Mass marketing is best described as: (variant 196)",
+      "text": "Which of the following best describes Market share can be increased by?",
       "options": [
-        "One for all",
-        "Different for all",
-        "No marketing",
-        "Only niche"
+        "Raising prices significantly",
+        "Attracting customers from competitors through better marketing strategies",
+        "Reducing product quality",
+        "Limiting distribution channels"
       ],
-      "correct_index": 0,
-      "explanation": "One for all.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Effective marketing strategies can attract customers from competitors and grow market share.",
+      "difficulty": 1
     },
     {
       "id": "mkt_197",
-      "text": "Viral marketing is a strategy in which a message: (variant 197)",
+      "text": "Competitive parity is a budgeting method where:",
       "options": [
-        "No spreading",
-        "Only slow",
-        "Only traditional",
-        "Spreads quickly"
+        "The budget is set arbitrarily",
+        "A firm matches or approximates competitors' advertising spending",
+        "No budget is allocated",
+        "Only production costs are budgeted"
       ],
-      "correct_index": 3,
-      "explanation": "Spreads quickly.",
+      "correct_index": 1,
+      "explanation": "Competitive parity sets the promotional budget to match what rivals are spending.",
       "difficulty": 2
     },
     {
       "id": "mkt_198",
-      "text": "Direct marketing involves communicating directly with customers through: (variant 198)",
+      "text": "The percentage of sales method for setting a promotional budget involves:",
       "options": [
-        "No direct",
-        "Only publicity",
-        "Email telemarketing",
-        "Only advertising"
+        "Setting a fixed amount regardless of sales",
+        "Allocating a fixed percentage of current or forecasted sales",
+        "Ignoring sales data entirely",
+        "Using only competitor data"
       ],
-      "correct_index": 2,
-      "explanation": "Email.",
+      "correct_index": 1,
+      "explanation": "The percentage of sales method bases the budget on a set percentage of revenue.",
       "difficulty": 2
     },
     {
       "id": "mkt_199",
-      "text": "Digital marketing primarily uses: (variant 199)",
+      "text": "A brand's logo symbol and colour scheme together form its:",
       "options": [
-        "Only print",
-        "Internet",
-        "No internet",
-        "Only traditional"
+        "Market share",
+        "Brand identity",
+        "Price structure",
+        "Distribution plan"
       ],
       "correct_index": 1,
-      "explanation": "Internet.",
+      "explanation": "A brand identity includes visual elements like logo symbol and colour scheme.",
       "difficulty": 1
     },
     {
       "id": "mkt_200",
-      "text": "Market share is defined as: (variant 200)",
+      "text": "Commercial bribery in marketing is unethical because it:",
       "options": [
-        "Company % of total",
-        "No share",
-        "Only total",
-        "Only company"
+        "Reduces production costs",
+        "Involves offering illegal incentives to influence purchasing decisions",
+        "Increases product quality",
+        "Improves customer service"
       ],
-      "correct_index": 0,
-      "explanation": "Company % total.",
+      "correct_index": 1,
+      "explanation": "Commercial bribery uses improper payments to unfairly influence buying decisions.",
       "difficulty": 2
     }
   ]

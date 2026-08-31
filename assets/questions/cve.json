@@ -13,2594 +13,2594 @@
         "Naturalization"
       ],
       "correct_index": 0,
-      "explanation": "Citizenship by birth is place and parentage.",
+      "explanation": "Section 25 of the 1999 Constitution provides for citizenship by birth.",
       "difficulty": 1
     },
     {
       "id": "cve_002",
-      "text": "What does the green colour in the Nigerian national flag represent?",
+      "text": "The green colour in the Nigerian national flag represents:",
       "options": [
-        "Blood",
-        "Sun",
+        "Bloodshed",
+        "Agriculture and natural wealth",
         "Peace",
-        "Agriculture"
+        "The sun"
       ],
-      "correct_index": 3,
-      "explanation": "Green agriculture.",
+      "correct_index": 1,
+      "explanation": "Green symbolizes Nigeria's agricultural wealth and natural resources.",
       "difficulty": 1
     },
     {
       "id": "cve_003",
-      "text": "What is the meaning of human rights?",
+      "text": "Which of the following best describes Human rights are best described as?",
       "options": [
-        "Temporary gifts",
-        "Privileges for leaders",
-        "Inherent entitlements of all humans",
-        "Given by employers"
+        "Privileges granted by rulers",
+        "Inherent rights of all humans",
+        "Rewards for good behaviour",
+        "Laws made by government"
       ],
-      "correct_index": 2,
-      "explanation": "Human rights inherent.",
+      "correct_index": 1,
+      "explanation": "Human rights are inherent, inalienable and universal entitlements of every person.",
       "difficulty": 1
     },
     {
       "id": "cve_004",
-      "text": "What does the principle of rule of law mean?",
+      "text": "What does the term \"The principle of rule of law\" mean?",
       "options": [
+        "Leaders are above the law",
         "Law applies equally to all",
-        "Leaders above law",
-        "Law favours rich",
-        "Law optional"
+        "Law favours the rich",
+        "Law can be ignored"
       ],
-      "correct_index": 0,
-      "explanation": "Equality before law.",
+      "correct_index": 1,
+      "explanation": "Rule of law implies equality before the law and supremacy of law over arbitrary power.",
       "difficulty": 1
     },
     {
       "id": "cve_005",
-      "text": "What is the definition of drug abuse?",
+      "text": "Which of the following best describes Drug abuse refers to?",
       "options": [
-        "Misuse for non-medical purposes",
-        "Prescribed use",
-        "Avoiding drugs",
-        "Proper use"
+        "Proper medical use of drugs",
+        "Taking drugs without prescription or in excess",
+        "Avoiding all drugs",
+        "Taking only herbal medicine"
       ],
-      "correct_index": 0,
-      "explanation": "Drug abuse misuse.",
+      "correct_index": 1,
+      "explanation": "Drug abuse is the misuse or overuse of drugs for non-medical purposes.",
       "difficulty": 1
     },
     {
       "id": "cve_006",
-      "text": "What does the acronym FRSC stand for in Nigeria?",
+      "text": "What does the acronym FRSC stand for in full?",
       "options": [
-        "Only road",
-        "Only safety",
+        "Federal Republic Safety Commission",
         "Federal Road Safety Corps",
-        "No meaning"
+        "First Response Safety Corps",
+        "Federal Road Security Committee"
       ],
-      "correct_index": 2,
-      "explanation": "FRSC Federal Road Safety Corps.",
+      "correct_index": 1,
+      "explanation": "FRSC is the Federal Road Safety Corps established in 1988.",
       "difficulty": 1
     },
     {
       "id": "cve_007",
-      "text": "What does a red traffic light signal indicate?",
+      "text": "Which organ of government makes laws in Nigeria?",
       "options": [
-        "Park",
-        "Stop",
-        "Go",
-        "Get ready"
+        "Executive",
+        "Judiciary",
+        "Legislature",
+        "Police"
       ],
-      "correct_index": 1,
-      "explanation": "Red stop.",
+      "correct_index": 2,
+      "explanation": "The legislature at federal and state levels is responsible for law-making.",
       "difficulty": 1
     },
     {
       "id": "cve_008",
-      "text": "Democracy is government of the people, by the people and:",
+      "text": "The Nigerian coat of arms has how many colours?",
       "options": [
-        "For the people",
-        "For army",
-        "For rich",
-        "For foreigners"
+        "Two",
+        "Three",
+        "Four",
+        "Five"
       ],
-      "correct_index": 0,
-      "explanation": "For the people.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The coat of arms features three colours: green, white and red.",
+      "difficulty": 2
     },
     {
       "id": "cve_009",
-      "text": "What is the meaning of political apathy?",
+      "text": "What is the value or meaning of the full meaning of INEC in mathematics?",
       "options": [
-        "Active participation",
-        "Voting always",
-        "Joining parties",
-        "Lack of interest in politics"
+        "Independent National Electoral Commission",
+        "Interim National Election Committee",
+        "Independent Nigeria Electoral Commission",
+        "International National Election Commission"
       ],
-      "correct_index": 3,
-      "explanation": "Apathy lack interest.",
+      "correct_index": 0,
+      "explanation": "INEC is the Independent National Electoral Commission responsible for elections in Nigeria.",
       "difficulty": 1
     },
     {
       "id": "cve_010",
-      "text": "What does the acronym INEC stand for in Nigeria?",
+      "text": "Which of the following best describes Democracy is defined as?",
       "options": [
-        "International Network",
-        "No meaning",
-        "Independent National Electoral Commission",
-        "Internal Council"
+        "Government by the military",
+        "Government of the people, by the people and for the people",
+        "Rule by one person",
+        "Government by the rich"
       ],
-      "correct_index": 2,
-      "explanation": "INEC Independent National Electoral Commission.",
+      "correct_index": 1,
+      "explanation": "Democracy is a system of government where power rests with the citizens.",
       "difficulty": 1
     },
     {
       "id": "cve_011",
-      "text": "Which quality should a good leader possess?",
+      "text": "The white colour in the Nigerian flag represents:",
       "options": [
-        "Dictatorial",
-        "Honest and accountable",
-        "Corrupt",
-        "Selfish"
+        "Agriculture",
+        "Peace and unity",
+        "Oil wealth",
+        "The people"
       ],
       "correct_index": 1,
-      "explanation": "Honest accountable.",
+      "explanation": "White symbolizes peace and unity among Nigerians.",
       "difficulty": 1
     },
     {
       "id": "cve_012",
-      "text": "What was the primary purpose of establishing the NYSC?",
+      "text": "Which of the following best describes EFCC is established to fight?",
       "options": [
-        "National unity",
-        "Tribalism",
-        "Disunity",
-        "War"
+        "Drug trafficking",
+        "Financial and economic crimes",
+        "Road accidents",
+        "Terrorism"
       ],
-      "correct_index": 0,
-      "explanation": "NYSC unity.",
+      "correct_index": 1,
+      "explanation": "EFCC is the Economic and Financial Crimes Commission.",
       "difficulty": 1
     },
     {
       "id": "cve_013",
-      "text": "The Nigerian constitution guarantees:",
+      "text": "A fundamental human right under the 1999 Constitution is:",
       "options": [
-        "Right to steal",
-        "Right to kill",
-        "Right to cheat",
-        "Fundamental human rights"
+        "Right to bear arms",
+        "Right to free education",
+        "Right to life",
+        "Right to rule"
       ],
-      "correct_index": 3,
-      "explanation": "Guarantees human rights.",
+      "correct_index": 2,
+      "explanation": "Section 33 of the 1999 Constitution guarantees the right to life.",
       "difficulty": 1
     },
     {
       "id": "cve_014",
-      "text": "What does the EFCC fight against in Nigeria?",
+      "text": "What does the term \"National unity\" mean?",
       "options": [
-        "Drug",
-        "No corruption",
-        "Corruption",
-        "Road safety"
+        "Division of the country",
+        "Oneness and togetherness of all citizens",
+        "Separation of regions",
+        "Conflict among ethnic groups"
       ],
-      "correct_index": 2,
-      "explanation": "EFCC corruption.",
+      "correct_index": 1,
+      "explanation": "National unity is the bond of togetherness among diverse groups in a nation.",
       "difficulty": 1
     },
     {
       "id": "cve_015",
-      "text": "Who designed the Nigerian national flag?",
+      "text": "What does the acronym NDLEA stand for in full?",
       "options": [
-        "Bello",
-        "Taiwo Akinkunmi",
-        "Azikiwe",
-        "Awolowo"
+        "National Drug Law Enforcement Agency",
+        "Nigerian Defence and Logistics Executive Authority",
+        "National Drug Liberation and Education Agency",
+        "Nigerian Drug and Law Enforcement Association"
       ],
-      "correct_index": 1,
-      "explanation": "Akinkunmi.",
+      "correct_index": 0,
+      "explanation": "NDLEA is responsible for combating drug trafficking in Nigeria.",
       "difficulty": 1
     },
     {
       "id": "cve_016",
-      "text": "In what year was the Nigerian national anthem adopted?",
+      "text": "A civic responsibility of citizens includes:",
       "options": [
-        "1978",
-        "1960",
-        "1999",
-        "2005"
+        "Avoiding tax payment",
+        "Obeying laws and paying taxes",
+        "Encouraging corruption",
+        "Ignoring elections"
       ],
-      "correct_index": 0,
-      "explanation": "Anthem 1978.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Citizens must obey laws, pay taxes and participate in governance.",
+      "difficulty": 1
     },
     {
       "id": "cve_017",
-      "text": "How many members does the Nigerian Senate have?",
+      "text": "The preamble of the Nigerian Constitution begins with:",
       "options": [
-        "360",
-        "100",
-        "50",
-        "109 members"
+        "We the government",
+        "We the people",
+        "We the leaders",
+        "We the nation"
       ],
-      "correct_index": 3,
-      "explanation": "Senate 109.",
+      "correct_index": 1,
+      "explanation": "The 1999 Constitution begins with 'We the people of the Federal Republic of Nigeria'.",
       "difficulty": 2
     },
     {
       "id": "cve_018",
-      "text": "How many members does the Nigerian House of Representatives have?",
+      "text": "Which of these is a function of the judiciary?",
       "options": [
-        "100",
-        "50",
-        "360 members",
-        "109"
+        "Making laws",
+        "Implementing laws",
+        "Interpreting laws",
+        "Collecting taxes"
       ],
       "correct_index": 2,
-      "explanation": "House 360.",
-      "difficulty": 2
+      "explanation": "The judiciary interprets laws and adjudicates disputes.",
+      "difficulty": 1
     },
     {
       "id": "cve_019",
-      "text": "The press is called fourth estate because it:",
+      "text": "Cultism among youths is dangerous because it:",
       "options": [
-        "Fights wars",
-        "Informs and checks government",
-        "Makes laws",
-        "Executes laws"
+        "Promotes learning",
+        "Encourages violence and crime",
+        "Builds discipline",
+        "Creates employment"
       ],
       "correct_index": 1,
-      "explanation": "Press informs checks.",
-      "difficulty": 2
+      "explanation": "Cultism leads to violence, crime and social unrest among youths.",
+      "difficulty": 1
     },
     {
       "id": "cve_020",
-      "text": "What is the full meaning of patriotism as a concept?",
+      "text": "The Nigerian national anthem has how many stanzas?",
       "options": [
-        "Love for country",
-        "Hatred",
-        "Betrayal",
-        "Indifference"
+        "One",
+        "Two",
+        "Three",
+        "Four"
       ],
-      "correct_index": 0,
-      "explanation": "Love for country.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The current Nigerian national anthem has two stanzas.",
+      "difficulty": 2
     },
     {
       "id": "cve_021",
-      "text": "Citizenship by birth is acquired through: (variant 21)",
+      "text": "Civil society organizations are important because they:",
       "options": [
-        "Place of birth and parentage",
-        "Registration",
-        "Honorary award",
-        "Naturalization"
+        "Make laws",
+        "Serve as watchdog over government",
+        "Control the military",
+        "Run elections"
       ],
-      "correct_index": 0,
-      "explanation": "Citizenship by birth is place and parentage.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "CSOs monitor government activities and advocate for citizens' interests.",
+      "difficulty": 2
     },
     {
       "id": "cve_022",
-      "text": "What does the green colour in the Nigerian national flag represent? (variant 22)",
+      "text": "Traffic regulations in Nigeria are enforced by:",
       "options": [
-        "Blood",
-        "Sun",
-        "Peace",
-        "Agriculture"
+        "The Police only",
+        "FRSC and related agencies",
+        "INEC",
+        "The judiciary"
       ],
-      "correct_index": 3,
-      "explanation": "Green agriculture.",
+      "correct_index": 1,
+      "explanation": "FRSC is the primary agency for traffic regulation on federal roads.",
       "difficulty": 1
     },
     {
       "id": "cve_023",
-      "text": "What is the meaning of human rights?",
+      "text": "Values are important in society because they:",
       "options": [
-        "Temporary gifts",
-        "Privileges for leaders",
-        "Inherent entitlements of all humans",
-        "Given by employers"
+        "Cause conflict",
+        "Guide behaviour and promote social order",
+        "Destroy culture",
+        "Encourage crime"
       ],
-      "correct_index": 2,
-      "explanation": "Human rights inherent.",
+      "correct_index": 1,
+      "explanation": "Values serve as standards that guide acceptable human behaviour.",
       "difficulty": 1
     },
     {
       "id": "cve_024",
-      "text": "What does the principle of rule of law mean? (variant 24)",
+      "text": "The concept of citizenship education means:",
       "options": [
-        "Law applies equally to all",
-        "Leaders above law",
-        "Law favours rich",
-        "Law optional"
+        "Teaching only mathematics",
+        "Knowledge and skills for responsible citizenship",
+        "Learning foreign languages",
+        "Studying only history"
       ],
-      "correct_index": 0,
-      "explanation": "Equality before law.",
+      "correct_index": 1,
+      "explanation": "Citizenship education equips individuals with knowledge for meaningful participation in governance.",
       "difficulty": 1
     },
     {
       "id": "cve_025",
-      "text": "What is the definition of drug abuse? (variant 25?",
+      "text": "What does the acronym NSCDC stand for in full?",
       "options": [
-        "Misuse for non-medical purposes",
-        "Prescribed use",
-        "Avoiding drugs",
-        "Proper use"
+        "Nigerian Security and Civil Defence Corps",
+        "National Security Crime Defence Corps",
+        "Nigerian State Civil Defence Commission",
+        "National Safety and Civil Defence Corps"
       ],
       "correct_index": 0,
-      "explanation": "Drug abuse misuse.",
-      "difficulty": 1
+      "explanation": "NSCDC protects critical national infrastructure and maintains civil order.",
+      "difficulty": 2
     },
     {
       "id": "cve_026",
-      "text": "What does the acronym FRSC stand for in Nigeria? (variant 26)",
+      "text": "Which of these is NOT a function of INEC?",
       "options": [
-        "Only road",
-        "Only safety",
-        "Federal Road Safety Corps",
-        "No meaning"
+        "Conducting elections",
+        "Registering voters",
+        "Making election laws",
+        "Delimiting constituencies"
       ],
       "correct_index": 2,
-      "explanation": "FRSC Federal Road Safety Corps.",
-      "difficulty": 1
+      "explanation": "INEC does not make election laws; that is the duty of the legislature.",
+      "difficulty": 2
     },
     {
       "id": "cve_027",
-      "text": "What does a red traffic light signal indicate? (variant 27)",
+      "text": "Drug abuse can lead to all of the following EXCEPT:",
       "options": [
-        "Park",
-        "Stop",
-        "Go",
-        "Get ready"
+        "Kidney damage",
+        "Improved academic performance",
+        "Liver disease",
+        "Mental disorder"
       ],
       "correct_index": 1,
-      "explanation": "Red stop.",
+      "explanation": "Drug abuse harms health and academic performance rather than improving it.",
       "difficulty": 1
     },
     {
       "id": "cve_028",
-      "text": "Democracy is government of the people, by the people and: (variant 28)",
+      "text": "The Nigerian pledge was first recited in:",
       "options": [
-        "For the people",
-        "For army",
-        "For rich",
-        "For foreigners"
+        "1960",
+        "1978",
+        "1979",
+        "1999"
       ],
-      "correct_index": 0,
-      "explanation": "For the people.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "The national pledge was composed by Christine Oligbo in 1979.",
+      "difficulty": 3
     },
     {
       "id": "cve_029",
-      "text": "What does political apathy mean? (variant 29)",
+      "text": "Which of the following best describes Waste management is important for?",
       "options": [
-        "Active participation",
-        "Voting always",
-        "Joining parties",
-        "Lack of interest in politics"
+        "Promoting pollution",
+        "Maintaining a clean and healthy environment",
+        "Increasing disease",
+        "Blocking drainage"
       ],
-      "correct_index": 3,
-      "explanation": "Apathy lack interest.",
+      "correct_index": 1,
+      "explanation": "Proper waste management prevents disease and environmental degradation.",
       "difficulty": 1
     },
     {
       "id": "cve_030",
-      "text": "What does the acronym INEC stand for in Nigeria? (variant 30)",
+      "text": "A good leader should possess the quality of:",
       "options": [
-        "International Network",
-        "No meaning",
-        "Independent National Electoral Commission",
-        "Internal Council"
+        "Selfishness",
+        "Integrity and honesty",
+        "Corruption",
+        "Arrogance"
       ],
-      "correct_index": 2,
-      "explanation": "INEC Independent National Electoral Commission.",
+      "correct_index": 1,
+      "explanation": "Good leaders demonstrate integrity, honesty and accountability.",
       "difficulty": 1
     },
     {
       "id": "cve_031",
-      "text": "Which quality should a good leader possess? (variant 31)",
+      "text": "Which of the following best describes Human trafficking involves?",
       "options": [
-        "Dictatorial",
-        "Honest and accountable",
-        "Corrupt",
-        "Selfish"
+        "Legal transportation of goods",
+        "Illegal recruitment and transport of persons",
+        "International trade",
+        "Immigration by air"
       ],
       "correct_index": 1,
-      "explanation": "Honest accountable.",
+      "explanation": "Human trafficking is the recruitment and movement of persons through force or deception for exploitation.",
       "difficulty": 1
     },
     {
       "id": "cve_032",
-      "text": "What was the primary purpose of establishing the NYSC? (variant 32)",
+      "text": "The legislature in Nigeria is at how many levels?",
       "options": [
-        "National unity",
-        "Tribalism",
-        "Disunity",
-        "War"
+        "One",
+        "Two",
+        "Three",
+        "Four"
       ],
-      "correct_index": 0,
-      "explanation": "NYSC unity.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Nigeria has the National Assembly (federal) and State Houses of Assembly.",
+      "difficulty": 2
     },
     {
       "id": "cve_033",
-      "text": "The Nigerian constitution guarantees: (variant 33)",
+      "text": "Which of the following best describes The Nigerian flag was designed by?",
       "options": [
-        "Right to steal",
-        "Right to kill",
-        "Right to cheat",
-        "Fundamental human rights"
+        "Chinua Achebe",
+        "Michael Taiwo Akinkunmi",
+        "Nnamdi Azikiwe",
+        "Obafemi Awolowo"
       ],
-      "correct_index": 3,
-      "explanation": "Guarantees human rights.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Michael Taiwo Akinkunmi designed the Nigerian flag as a student in 1959.",
+      "difficulty": 2
     },
     {
       "id": "cve_034",
-      "text": "What does the EFCC fight against in Nigeria? (variant 34)",
+      "text": "Which of the following best describes ICPC is responsible for fighting?",
       "options": [
-        "Drug",
-        "No corruption",
+        "Drug abuse",
         "Corruption",
-        "Road safety"
+        "Road accidents",
+        "Election fraud"
       ],
-      "correct_index": 2,
-      "explanation": "EFCC corruption.",
+      "correct_index": 1,
+      "explanation": "ICPC is the Independent Corrupt Practices and Other Related Offences Commission.",
       "difficulty": 1
     },
     {
       "id": "cve_035",
-      "text": "Who designed the Nigerian national flag? (variant 35)",
+      "text": "Which right is guaranteed under Chapter IV of the Nigerian Constitution?",
       "options": [
-        "Bello",
-        "Taiwo Akinkunmi",
-        "Azikiwe",
-        "Awolowo"
+        "Right to free education",
+        "Right to dignity of human person",
+        "Right to bear arms",
+        "Right to rule"
       ],
       "correct_index": 1,
-      "explanation": "Akinkunmi.",
-      "difficulty": 1
+      "explanation": "Chapter IV covers fundamental human rights including dignity of person.",
+      "difficulty": 2
     },
     {
       "id": "cve_036",
-      "text": "In what year was the Nigerian national anthem adopted? (variant 36)",
+      "text": "National symbols are important because they:",
       "options": [
-        "1978",
-        "1960",
-        "1999",
-        "2005"
+        "Create division",
+        "Foster unity and national identity",
+        "Encourage tribalism",
+        "Promote foreign culture"
       ],
-      "correct_index": 0,
-      "explanation": "Anthem 1978.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "National symbols promote patriotism and national consciousness.",
+      "difficulty": 1
     },
     {
       "id": "cve_037",
-      "text": "How many members does the Nigerian Senate have? (variant 37)",
+      "text": "Which of the following best describes Emergency management involves?",
       "options": [
-        "360",
-        "100",
-        "50",
-        "109 members"
+        "Ignoring disasters",
+        "Preparedness, response and recovery from disasters",
+        "Causing emergencies",
+        "Avoiding victims"
       ],
-      "correct_index": 3,
-      "explanation": "Senate 109.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Emergency management covers disaster preparedness, response and recovery.",
+      "difficulty": 1
     },
     {
       "id": "cve_038",
-      "text": "How many members does the Nigerian House of Representatives have? (variant 38)",
+      "text": "Which of the following best describes NAFDAC is concerned with?",
       "options": [
-        "100",
-        "50",
-        "360 members",
-        "109"
+        "Road safety",
+        "Food and drug regulation",
+        "Tax collection",
+        "Election conduct"
       ],
-      "correct_index": 2,
-      "explanation": "House 360.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "NAFDAC regulates and controls food, drugs and chemicals in Nigeria.",
+      "difficulty": 1
     },
     {
       "id": "cve_039",
-      "text": "The press is called fourth estate because it: (variant 39)",
+      "text": "What is a hallmark of democracy and how is it best described?",
       "options": [
-        "Fights wars",
-        "Informs and checks government",
-        "Makes laws",
-        "Executes laws"
+        "One-party rule",
+        "Free and fair elections",
+        "Military intervention",
+        "Suspension of the constitution"
       ],
       "correct_index": 1,
-      "explanation": "Press informs checks.",
-      "difficulty": 2
+      "explanation": "Free and fair elections are essential features of a democratic system.",
+      "difficulty": 1
     },
     {
       "id": "cve_040",
-      "text": "What does patriotism mean? (variant 40)",
+      "text": "Youth empowerment is necessary because it:",
       "options": [
-        "Love for country",
-        "Hatred",
-        "Betrayal",
-        "Indifference"
+        "Increases idleness",
+        "Provides skills and reduces unemployment",
+        "Encourages crime",
+        "Promotes dependency"
       ],
-      "correct_index": 0,
-      "explanation": "Love for country.",
+      "correct_index": 1,
+      "explanation": "Youth empowerment equips young people with skills for self-reliance.",
       "difficulty": 1
     },
     {
       "id": "cve_041",
-      "text": "Citizenship by birth is acquired through: (variant 41)",
+      "text": "The functions of the police include:",
       "options": [
-        "Place of birth and parentage",
-        "Registration",
-        "Honorary award",
-        "Naturalization"
+        "Making laws",
+        "Maintaining law and order",
+        "Interpreting the constitution",
+        "Collecting revenue"
       ],
-      "correct_index": 0,
-      "explanation": "Citizenship by birth is place and parentage.",
+      "correct_index": 1,
+      "explanation": "The primary duty of the police is to maintain law and order.",
       "difficulty": 1
     },
     {
       "id": "cve_042",
-      "text": "What does the green colour in the Nigerian national flag represent? (variant 42)",
+      "text": "Political parties in Nigeria are regulated by:",
       "options": [
-        "Blood",
-        "Sun",
-        "Peace",
-        "Agriculture"
+        "The judiciary",
+        "INEC",
+        "The police",
+        "The military"
       ],
-      "correct_index": 3,
-      "explanation": "Green agriculture.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "INEC registers and regulates political parties in Nigeria.",
+      "difficulty": 2
     },
     {
       "id": "cve_043",
-      "text": "What is the meaning of human rights?",
+      "text": "The concept of separation of powers means:",
       "options": [
-        "Temporary gifts",
-        "Privileges for leaders",
-        "Inherent entitlements of all humans",
-        "Given by employers"
+        "All power concentrated in one person",
+        "Division of government functions among three arms",
+        "No government at all",
+        "Rule by the military"
       ],
-      "correct_index": 2,
-      "explanation": "Human rights inherent.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Separation of powers divides government into executive, legislative and judicial arms.",
+      "difficulty": 2
     },
     {
       "id": "cve_044",
-      "text": "What does the principle of rule of law mean? (variant 44)",
+      "text": "Which of the following best describes Public service delivery refers to?",
       "options": [
-        "Law applies equally to all",
-        "Leaders above law",
-        "Law favours rich",
-        "Law optional"
+        "Serving food in public",
+        "Provision of essential services by government to citizens",
+        "Private company operations",
+        "Street trading"
       ],
-      "correct_index": 0,
-      "explanation": "Equality before law.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Public service delivery is the government provision of water, health, education etc.",
+      "difficulty": 2
     },
     {
       "id": "cve_045",
-      "text": "What is the definition of drug abuse? (variant 45?",
+      "text": "Which of these is a consequence of drug abuse?",
       "options": [
-        "Misuse for non-medical purposes",
-        "Prescribed use",
-        "Avoiding drugs",
-        "Proper use"
+        "Improved memory",
+        "Social isolation and health problems",
+        "Better grades",
+        "Increased strength"
       ],
-      "correct_index": 0,
-      "explanation": "Drug abuse misuse.",
+      "correct_index": 1,
+      "explanation": "Drug abuse causes health deterioration, addiction and social problems.",
       "difficulty": 1
     },
     {
       "id": "cve_046",
-      "text": "What does the acronym FRSC stand for in Nigeria? (variant 46)",
+      "text": "The Nigerian Constitution is the supreme law of the land. This means:",
       "options": [
-        "Only road",
-        "Only safety",
-        "Federal Road Safety Corps",
-        "No meaning"
+        "The president is above the constitution",
+        "Any law conflicting with it is void",
+        "It can be changed by any person",
+        "It is optional"
       ],
-      "correct_index": 2,
-      "explanation": "FRSC Federal Road Safety Corps.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Section 1(1) states the Constitution is supreme and any inconsistent law is void.",
+      "difficulty": 2
     },
     {
       "id": "cve_047",
-      "text": "What does a red traffic light signal indicate? (variant 47)",
+      "text": "National security includes the protection of:",
       "options": [
-        "Park",
-        "Stop",
-        "Go",
-        "Get ready"
+        "Only the military",
+        "Lives, property and territorial integrity",
+        "Only the government",
+        "Foreign nationals only"
       ],
       "correct_index": 1,
-      "explanation": "Red stop.",
+      "explanation": "National security encompasses the protection of citizens and national interests.",
       "difficulty": 1
     },
     {
       "id": "cve_048",
-      "text": "Democracy is government of the people, by the people and: (variant 48)",
+      "text": "Which of these is a civic responsibility?",
       "options": [
-        "For the people",
-        "For army",
-        "For rich",
-        "For foreigners"
+        "Ignoring election day",
+        "Casting your vote during elections",
+        "Encouraging electoral violence",
+        "Refusing to pay tax"
       ],
-      "correct_index": 0,
-      "explanation": "For the people.",
+      "correct_index": 1,
+      "explanation": "Voting is a civic duty that helps shape governance.",
       "difficulty": 1
     },
     {
       "id": "cve_049",
-      "text": "What does political apathy mean? (variant 49)",
+      "text": "The white horse on the Nigerian coat of arms symbolizes:",
       "options": [
-        "Active participation",
-        "Voting always",
-        "Joining parties",
-        "Lack of interest in politics"
+        "Peace",
+        "Dignity",
+        "Strength",
+        "Hope"
       ],
-      "correct_index": 3,
-      "explanation": "Apathy lack interest.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The white horse on the shield represents dignity.",
+      "difficulty": 3
     },
     {
       "id": "cve_050",
-      "text": "What does the acronym INEC stand for in Nigeria? (variant 50)",
+      "text": "The black shield on the Nigerian coat of arms represents:",
       "options": [
-        "International Network",
-        "No meaning",
-        "Independent National Electoral Commission",
-        "Internal Council"
+        "Death",
+        "Fertile soil of Nigeria",
+        "Darkness",
+        "War"
       ],
-      "correct_index": 2,
-      "explanation": "INEC Independent National Electoral Commission.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The black shield symbolizes the fertile soil of Nigeria.",
+      "difficulty": 2
     },
     {
       "id": "cve_051",
-      "text": "Which quality should a good leader possess? (variant 51)",
+      "text": "The two horses on the Nigerian coat of arms symbolize:",
       "options": [
-        "Dictatorial",
-        "Honest and accountable",
-        "Corrupt",
-        "Selfish"
+        "Wealth",
+        "Dignity",
+        "War and peace",
+        "Agriculture"
       ],
       "correct_index": 1,
-      "explanation": "Honest accountable.",
-      "difficulty": 1
+      "explanation": "The two white horses flanking the shield represent dignity.",
+      "difficulty": 3
     },
     {
       "id": "cve_052",
-      "text": "What was the primary purpose of establishing the NYSC? (variant 52)",
+      "text": "The eagle on the Nigerian coat of arms represents:",
       "options": [
-        "National unity",
-        "Tribalism",
-        "Disunity",
-        "War"
+        "Speed",
+        "Strength and vision",
+        "Fertility",
+        "Peace"
       ],
-      "correct_index": 0,
-      "explanation": "NYSC unity.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The eagle symbolizes strength and great vision.",
+      "difficulty": 2
     },
     {
       "id": "cve_053",
-      "text": "The Nigerian constitution guarantees: (variant 53)",
+      "text": "The wreath of coconut leaves on the coat of arms represents:",
       "options": [
-        "Right to steal",
-        "Right to kill",
-        "Right to cheat",
-        "Fundamental human rights"
+        "Beauty",
+        "Agriculture and defence of the nation",
+        "Religion",
+        "Commerce"
       ],
-      "correct_index": 3,
-      "explanation": "Guarantees human rights.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The green and white wreath represents Nigeria's agricultural wealth.",
+      "difficulty": 3
     },
     {
       "id": "cve_054",
-      "text": "What does the EFCC fight against in Nigeria? (variant 54)",
+      "text": "The motto on the Nigerian coat of arms is:",
       "options": [
-        "Drug",
-        "No corruption",
-        "Corruption",
-        "Road safety"
+        "Unity and Faith",
+        "Peace and Progress",
+        "Faith, Peace, Progress",
+        "Strength and Honour"
       ],
       "correct_index": 2,
-      "explanation": "EFCC corruption.",
-      "difficulty": 1
+      "explanation": "The national motto is 'Faith, Peace and Progress'.",
+      "difficulty": 2
     },
     {
       "id": "cve_055",
-      "text": "Who designed the Nigerian national flag? (variant 55)",
+      "text": "The Y-shaped symbol on the coat of arms represents:",
       "options": [
-        "Bello",
-        "Taiwo Akinkunmi",
-        "Azikiwe",
-        "Awolowo"
+        "War",
+        "The confluence of Rivers Niger and Benue",
+        "The road to prosperity",
+        "National unity"
       ],
       "correct_index": 1,
-      "explanation": "Akinkunmi.",
-      "difficulty": 1
+      "explanation": "The Y-shape represents the confluence of Rivers Niger and Benue at Lokoja.",
+      "difficulty": 3
     },
     {
       "id": "cve_056",
-      "text": "In what year was the Nigerian national anthem adopted? (variant 56)",
+      "text": "Which of the following options is an example of an important societal value?",
       "options": [
-        "1978",
-        "1960",
-        "1999",
-        "2005"
+        "Robbery",
+        "Honesty",
+        "Terrorism",
+        "Corruption"
       ],
-      "correct_index": 0,
-      "explanation": "Anthem 1978.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Honesty is a positive value that promotes moral conduct.",
+      "difficulty": 1
     },
     {
       "id": "cve_057",
-      "text": "How many members does the Nigerian Senate have? (variant 57)",
+      "text": "What is a negative value and how is it best described?",
       "options": [
-        "360",
-        "100",
-        "50",
-        "109 members"
+        "Integrity",
+        "Hard work",
+        "Corruption",
+        "Respect"
       ],
-      "correct_index": 3,
-      "explanation": "Senate 109.",
-      "difficulty": 2
+      "correct_index": 2,
+      "explanation": "Corruption is a negative value that undermines societal development.",
+      "difficulty": 1
     },
     {
       "id": "cve_058",
-      "text": "How many members does the Nigerian House of Representatives have? (variant 58)",
+      "text": "Citizenship by registration in Nigeria requires:",
       "options": [
-        "100",
-        "50",
-        "360 members",
-        "109"
+        "Being born in Nigeria",
+        "Legal procedures and marriage to a Nigerian",
+        "Paying bribe",
+        "Military service"
       ],
-      "correct_index": 2,
-      "explanation": "House 360.",
+      "correct_index": 1,
+      "explanation": "Section 26 provides for citizenship by registration including marriage to a citizen.",
       "difficulty": 2
     },
     {
       "id": "cve_059",
-      "text": "The press is called fourth estate because it: (variant 59)",
+      "text": "Naturalization as a means of acquiring citizenship involves:",
       "options": [
-        "Fights wars",
-        "Informs and checks government",
-        "Makes laws",
-        "Executes laws"
+        "Automatic grant",
+        "Application and approval by the government",
+        "Birth in the country",
+        "Ethnicity"
       ],
       "correct_index": 1,
-      "explanation": "Press informs checks.",
+      "explanation": "Section 27 provides for citizenship by naturalization upon application and approval.",
       "difficulty": 2
     },
     {
       "id": "cve_060",
-      "text": "What does patriotism mean? (variant 60)",
+      "text": "The right to freedom of expression is guaranteed under section:",
       "options": [
-        "Love for country",
-        "Hatred",
-        "Betrayal",
-        "Indifference"
+        "Section 33",
+        "Section 39",
+        "Section 41",
+        "Section 44"
       ],
-      "correct_index": 0,
-      "explanation": "Love for country.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Section 39 of the 1999 Constitution guarantees freedom of expression.",
+      "difficulty": 3
     },
     {
       "id": "cve_061",
-      "text": "Citizenship by birth is acquired through: (variant 61)",
+      "text": "Freedom of movement in Nigeria is guaranteed under section:",
       "options": [
-        "Place of birth and parentage",
-        "Registration",
-        "Honorary award",
-        "Naturalization"
+        "Section 35",
+        "Section 37",
+        "Section 41",
+        "Section 43"
       ],
-      "correct_index": 0,
-      "explanation": "Citizenship by birth is place and parentage.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Section 41 guarantees the right of every citizen to move freely throughout Nigeria.",
+      "difficulty": 3
     },
     {
       "id": "cve_062",
-      "text": "What does the green colour in the Nigerian national flag represent? (variant 62)",
+      "text": "The right to fair hearing is found in section:",
       "options": [
-        "Blood",
-        "Sun",
-        "Peace",
-        "Agriculture"
+        "Section 33",
+        "Section 35",
+        "Section 36",
+        "Section 37"
       ],
-      "correct_index": 3,
-      "explanation": "Green agriculture.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Section 36 provides for the right to fair hearing.",
+      "difficulty": 3
     },
     {
       "id": "cve_063",
-      "text": "What is the meaning of human rights?",
+      "text": "Which of the following best describes The National Assembly consists of?",
       "options": [
-        "Temporary gifts",
-        "Privileges for leaders",
-        "Inherent entitlements of all humans",
-        "Given by employers"
+        "Senate only",
+        "House of Representatives only",
+        "Senate and House of Representatives",
+        "All state assemblies"
       ],
       "correct_index": 2,
-      "explanation": "Human rights inherent.",
-      "difficulty": 1
+      "explanation": "The National Assembly comprises the Senate and the House of Representatives.",
+      "difficulty": 2
     },
     {
       "id": "cve_064",
-      "text": "What does the principle of rule of law mean? (variant 64)",
+      "text": "How many senators represent Nigeria in the Senate?",
       "options": [
-        "Law applies equally to all",
-        "Leaders above law",
-        "Law favours rich",
-        "Law optional"
+        "109",
+        "360",
+        "369",
+        "250"
       ],
       "correct_index": 0,
-      "explanation": "Equality before law.",
-      "difficulty": 1
+      "explanation": "There are 109 senators: 3 from each of the 36 states plus 1 from FCT.",
+      "difficulty": 2
     },
     {
       "id": "cve_065",
-      "text": "What is the definition of drug abuse? (variant 65?",
+      "text": "Members of the House of Representatives are elected for a term of:",
       "options": [
-        "Misuse for non-medical purposes",
-        "Prescribed use",
-        "Avoiding drugs",
-        "Proper use"
+        "Two years",
+        "Three years",
+        "Four years",
+        "Five years"
       ],
-      "correct_index": 0,
-      "explanation": "Drug abuse misuse.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Members of the House serve four-year terms.",
+      "difficulty": 2
     },
     {
       "id": "cve_066",
-      "text": "What does the acronym FRSC stand for in Nigeria? (variant 66)",
+      "text": "The head of the Executive arm of government in Nigeria is the:",
       "options": [
-        "Only road",
-        "Only safety",
-        "Federal Road Safety Corps",
-        "No meaning"
+        "Governor",
+        "President",
+        "Speaker",
+        "Chief Judge"
       ],
-      "correct_index": 2,
-      "explanation": "FRSC Federal Road Safety Corps.",
+      "correct_index": 1,
+      "explanation": "The President is the head of the executive arm at the federal level.",
       "difficulty": 1
     },
     {
       "id": "cve_067",
-      "text": "What does a red traffic light signal indicate? (variant 67)",
+      "text": "A state governor is the head of the:",
       "options": [
-        "Park",
-        "Stop",
-        "Go",
-        "Get ready"
+        "Federal government",
+        "State executive arm",
+        "Legislature",
+        "Judiciary"
       ],
       "correct_index": 1,
-      "explanation": "Red stop.",
+      "explanation": "A governor heads the state executive arm.",
       "difficulty": 1
     },
     {
       "id": "cve_068",
-      "text": "Democracy is government of the people, by the people and: (variant 68)",
+      "text": "The minimum age to contest for the presidency in Nigeria is:",
       "options": [
-        "For the people",
-        "For army",
-        "For rich",
-        "For foreigners"
+        "25 years",
+        "30 years",
+        "35 years",
+        "40 years"
       ],
-      "correct_index": 0,
-      "explanation": "For the people.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Section 131 requires a presidential candidate to be at least 35 years old.",
+      "difficulty": 2
     },
     {
       "id": "cve_069",
-      "text": "What does political apathy mean? (variant 69)",
+      "text": "The minimum age to contest for a seat in the House of Representatives is:",
       "options": [
-        "Active participation",
-        "Voting always",
-        "Joining parties",
-        "Lack of interest in politics"
+        "21 years",
+        "25 years",
+        "30 years",
+        "35 years"
       ],
-      "correct_index": 3,
-      "explanation": "Apathy lack interest.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Section 65 requires a minimum age of 25 for the House of Representatives.",
+      "difficulty": 2
     },
     {
       "id": "cve_070",
-      "text": "What does the acronym INEC stand for in Nigeria? (variant 70)",
+      "text": "Political parties in Nigeria operate under a:",
       "options": [
-        "International Network",
-        "No meaning",
-        "Independent National Electoral Commission",
-        "Internal Council"
+        "One-party system",
+        "Two-party system",
+        "Multi-party system",
+        "No-party system"
       ],
       "correct_index": 2,
-      "explanation": "INEC Independent National Electoral Commission.",
+      "explanation": "Nigeria operates a multi-party system allowing multiple political parties.",
       "difficulty": 1
     },
     {
       "id": "cve_071",
-      "text": "Which quality should a good leader possess? (variant 71)",
+      "text": "What does the term \"Universal adult suffrage\" mean?",
       "options": [
-        "Dictatorial",
-        "Honest and accountable",
-        "Corrupt",
-        "Selfish"
+        "Only educated people vote",
+        "All adult citizens have the right to vote",
+        "Only men vote",
+        "Only the wealthy vote"
       ],
       "correct_index": 1,
-      "explanation": "Honest accountable.",
+      "explanation": "Universal adult suffrage grants all eligible adults the right to vote.",
       "difficulty": 1
     },
     {
       "id": "cve_072",
-      "text": "What was the primary purpose of establishing the NYSC? (variant 72)",
+      "text": "What is an electoral constituency and how is it best described?",
       "options": [
-        "National unity",
-        "Tribalism",
-        "Disunity",
-        "War"
+        "A court of law",
+        "A geographical area for electing representatives",
+        "A police station",
+        "A government ministry"
       ],
-      "correct_index": 0,
-      "explanation": "NYSC unity.",
+      "correct_index": 1,
+      "explanation": "A constituency is a defined area that elects a representative.",
       "difficulty": 1
     },
     {
       "id": "cve_073",
-      "text": "The Nigerian constitution guarantees: (variant 73)",
+      "text": "Which of the following best describes The secret ballot system ensures?",
       "options": [
-        "Right to steal",
-        "Right to kill",
-        "Right to cheat",
-        "Fundamental human rights"
+        "Voting in public",
+        "Voter privacy and freedom from intimidation",
+        "Forced voting",
+        "No voting at all"
       ],
-      "correct_index": 3,
-      "explanation": "Guarantees human rights.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The secret ballot allows voters to cast votes without coercion.",
+      "difficulty": 2
     },
     {
       "id": "cve_074",
-      "text": "What does the EFCC fight against in Nigeria? (variant 74)",
+      "text": "What is a referendum and how is it best described?",
       "options": [
-        "Drug",
-        "No corruption",
-        "Corruption",
-        "Road safety"
+        "Election of representatives",
+        "A direct vote by citizens on a specific issue",
+        "Judicial hearing",
+        "Military exercise"
       ],
-      "correct_index": 2,
-      "explanation": "EFCC corruption.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A referendum is a direct vote by citizens on a particular proposal.",
+      "difficulty": 2
     },
     {
       "id": "cve_075",
-      "text": "Who designed the Nigerian national flag? (variant 75)",
+      "text": "The Nigerian Constitution guarantees the right to:",
       "options": [
-        "Bello",
-        "Taiwo Akinkunmi",
-        "Azikiwe",
-        "Awolowo"
+        "Own slaves",
+        "Acquire and own property",
+        "Exploit others",
+        "Break the law"
       ],
       "correct_index": 1,
-      "explanation": "Akinkunmi.",
+      "explanation": "Section 44 guarantees the right to own property.",
       "difficulty": 1
     },
     {
       "id": "cve_076",
-      "text": "In what year was the Nigerian national anthem adopted? (variant 76)",
+      "text": "Which of these is a law enforcement agency?",
       "options": [
-        "1978",
-        "1960",
-        "1999",
-        "2005"
+        "INEC",
+        "ICPC",
+        "The Senate",
+        "State Houses of Assembly"
       ],
-      "correct_index": 0,
-      "explanation": "Anthem 1978.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "ICPC is a law enforcement agency that fights corruption.",
+      "difficulty": 1
     },
     {
       "id": "cve_077",
-      "text": "How many members does the Nigerian Senate have? (variant 77)",
+      "text": "The function of the Nigerian Police Force includes:",
       "options": [
-        "360",
-        "100",
-        "50",
-        "109 members"
+        "Making laws",
+        "Investigating criminal offences",
+        "Interpreting the constitution",
+        "Conducting elections"
       ],
-      "correct_index": 3,
-      "explanation": "Senate 109.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "The police investigate crimes and maintain law and order.",
+      "difficulty": 1
     },
     {
       "id": "cve_078",
-      "text": "How many members does the Nigerian House of Representatives have? (variant 78)",
+      "text": "The National Youth Service Corps (NYSC) was established in:",
       "options": [
-        "100",
-        "50",
-        "360 members",
-        "109"
+        "1960",
+        "1970",
+        "1973",
+        "1999"
       ],
       "correct_index": 2,
-      "explanation": "House 360.",
+      "explanation": "NYSC was established in 1973 to promote national unity.",
       "difficulty": 2
     },
     {
       "id": "cve_079",
-      "text": "The press is called fourth estate because it: (variant 79)",
+      "text": "Which of the following best describes The primary aim of NYSC is to?",
       "options": [
-        "Fights wars",
-        "Informs and checks government",
-        "Makes laws",
-        "Executes laws"
+        "Enforce military service",
+        "Promote national unity and integration",
+        "Provide employment",
+        "Educate only graduates"
       ],
       "correct_index": 1,
-      "explanation": "Press informs checks.",
-      "difficulty": 2
+      "explanation": "NYSC promotes national unity by posting graduates to states other than their origin.",
+      "difficulty": 1
     },
     {
       "id": "cve_080",
-      "text": "What does patriotism mean? (variant 80)",
+      "text": "Who inaugurates the President of Nigeria?",
       "options": [
-        "Love for country",
-        "Hatred",
-        "Betrayal",
-        "Indifference"
+        "The Chief Justice",
+        "The Vice President",
+        "The Senate President",
+        "INEC Chairman"
       ],
       "correct_index": 0,
-      "explanation": "Love for country.",
-      "difficulty": 1
+      "explanation": "The Chief Justice administers the oath of office to the President.",
+      "difficulty": 2
     },
     {
       "id": "cve_081",
-      "text": "Citizenship by birth is acquired through: (variant 81)",
+      "text": "The tenure of the Nigerian President is:",
       "options": [
-        "Place of birth and parentage",
-        "Registration",
-        "Honorary award",
-        "Naturalization"
+        "Three years",
+        "Four years",
+        "Five years",
+        "Six years"
       ],
-      "correct_index": 0,
-      "explanation": "Citizenship by birth is place and parentage.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The President serves a four-year term, renewable once.",
+      "difficulty": 2
     },
     {
       "id": "cve_082",
-      "text": "What does the green colour in the Nigerian national flag represent? (variant 82)",
+      "text": "How many times can a Nigerian President be re-elected?",
       "options": [
-        "Blood",
-        "Sun",
-        "Peace",
-        "Agriculture"
+        "Unlimited times",
+        "Once",
+        "Twice",
+        "Three times"
       ],
-      "correct_index": 3,
-      "explanation": "Green agriculture.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Section 135 limits the President to two terms of four years each.",
+      "difficulty": 2
     },
     {
       "id": "cve_083",
-      "text": "What is the meaning of human rights?",
+      "text": "The Vice President of Nigeria must be from:",
       "options": [
-        "Temporary gifts",
-        "Privileges for leaders",
-        "Inherent entitlements of all humans",
-        "Given by employers"
+        "The same state as the President",
+        "The same zone as the President",
+        "A different state from the President",
+        "Anywhere in Nigeria"
       ],
       "correct_index": 2,
-      "explanation": "Human rights inherent.",
-      "difficulty": 1
+      "explanation": "The President and Vice President must come from different states.",
+      "difficulty": 2
     },
     {
       "id": "cve_084",
-      "text": "What does the principle of rule of law mean? (variant 84)",
+      "text": "Which of the following best describes The judiciary is headed by the?",
       "options": [
-        "Law applies equally to all",
-        "Leaders above law",
-        "Law favours rich",
-        "Law optional"
+        "Attorney General",
+        "Chief Justice of Nigeria",
+        "Inspector General of Police",
+        "President"
       ],
-      "correct_index": 0,
-      "explanation": "Equality before law.",
+      "correct_index": 1,
+      "explanation": "The Chief Justice of Nigeria heads the judiciary.",
       "difficulty": 1
     },
     {
       "id": "cve_085",
-      "text": "What is the definition of drug abuse? (variant 85?",
+      "text": "The Supreme Court of Nigeria is the:",
       "options": [
-        "Misuse for non-medical purposes",
-        "Prescribed use",
-        "Avoiding drugs",
-        "Proper use"
+        "Lowest court",
+        "Highest court of appeal",
+        "Trial court",
+        "Family court"
       ],
-      "correct_index": 0,
-      "explanation": "Drug abuse misuse.",
+      "correct_index": 1,
+      "explanation": "The Supreme Court is the final court of appeal in Nigeria.",
       "difficulty": 1
     },
     {
       "id": "cve_086",
-      "text": "What does the acronym FRSC stand for in Nigeria? (variant 86)",
+      "text": "Federal Character Principle aims at:",
       "options": [
-        "Only road",
-        "Only safety",
-        "Federal Road Safety Corps",
-        "No meaning"
+        "Promoting nepotism",
+        "Ensuring equitable representation of all states in government",
+        "Creating tribalism",
+        "Reducing population"
       ],
-      "correct_index": 2,
-      "explanation": "FRSC Federal Road Safety Corps.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Federal Character Principle ensures fair representation across states.",
+      "difficulty": 2
     },
     {
       "id": "cve_087",
-      "text": "What does a red traffic light signal indicate? (variant 87)",
+      "text": "Which of the following best describes The Local Government is the?",
       "options": [
-        "Park",
-        "Stop",
-        "Go",
-        "Get ready"
+        "First tier of government",
+        "Third tier of government",
+        "Second tier of government",
+        "Fourth tier of government"
       ],
       "correct_index": 1,
-      "explanation": "Red stop.",
-      "difficulty": 1
+      "explanation": "Local Government is the third tier after federal and state.",
+      "difficulty": 2
     },
     {
       "id": "cve_088",
-      "text": "Democracy is government of the people, by the people and: (variant 88)",
+      "text": "Public service delivery can be improved by:",
       "options": [
-        "For the people",
-        "For army",
-        "For rich",
-        "For foreigners"
+        "Reducing government workers",
+        "Accountability and transparency",
+        "Increasing corruption",
+        "Ignoring citizens' needs"
       ],
-      "correct_index": 0,
-      "explanation": "For the people.",
+      "correct_index": 1,
+      "explanation": "Accountability and transparency improve the quality of public services.",
       "difficulty": 1
     },
     {
       "id": "cve_089",
-      "text": "What does political apathy mean? (variant 89)",
+      "text": "Corruption in public service leads to:",
       "options": [
-        "Active participation",
-        "Voting always",
-        "Joining parties",
-        "Lack of interest in politics"
+        "National development",
+        "Poor service delivery and poverty",
+        "Improved infrastructure",
+        "Better education"
       ],
-      "correct_index": 3,
-      "explanation": "Apathy lack interest.",
+      "correct_index": 1,
+      "explanation": "Corruption diverts resources meant for development.",
       "difficulty": 1
     },
     {
       "id": "cve_090",
-      "text": "What does the acronym INEC stand for in Nigeria? (variant 90)",
+      "text": "The Independent Corrupt Practices Commission (ICPC) was established in:",
       "options": [
-        "International Network",
-        "No meaning",
-        "Independent National Electoral Commission",
-        "Internal Council"
+        "1999",
+        "2000",
+        "2001",
+        "2003"
       ],
-      "correct_index": 2,
-      "explanation": "INEC Independent National Electoral Commission.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "ICPC was established by the Corrupt Practices and Other Related Offences Act 2000.",
+      "difficulty": 3
     },
     {
       "id": "cve_091",
-      "text": "Which quality should a good leader possess? (variant 91)",
+      "text": "Which of the following best describes EFCC was established in?",
       "options": [
-        "Dictatorial",
-        "Honest and accountable",
-        "Corrupt",
-        "Selfish"
+        "2000",
+        "2003",
+        "2004",
+        "2007"
       ],
       "correct_index": 1,
-      "explanation": "Honest accountable.",
-      "difficulty": 1
+      "explanation": "EFCC was established by the EFCC Act of 2003.",
+      "difficulty": 3
     },
     {
       "id": "cve_092",
-      "text": "What was the primary purpose of establishing the NYSC? (variant 92)",
+      "text": "The Nigeria Police Force is under which arm of government?",
       "options": [
-        "National unity",
-        "Tribalism",
-        "Disunity",
-        "War"
+        "Legislative",
+        "Executive",
+        "Judicial",
+        "Independent"
       ],
-      "correct_index": 0,
-      "explanation": "NYSC unity.",
+      "correct_index": 1,
+      "explanation": "The Police operates under the Executive arm of government.",
       "difficulty": 1
     },
     {
       "id": "cve_093",
-      "text": "The Nigerian constitution guarantees: (variant 93)",
+      "text": "Freedom of religion in Nigeria is guaranteed under:",
       "options": [
-        "Right to steal",
-        "Right to kill",
-        "Right to cheat",
-        "Fundamental human rights"
+        "Section 33",
+        "Section 38",
+        "Section 39",
+        "Section 40"
       ],
-      "correct_index": 3,
-      "explanation": "Guarantees human rights.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Section 38 guarantees the right to freedom of thought, conscience and religion.",
+      "difficulty": 3
     },
     {
       "id": "cve_094",
-      "text": "What does the EFCC fight against in Nigeria? (variant 94)",
+      "text": "The right to peaceful assembly is provided in:",
       "options": [
-        "Drug",
-        "No corruption",
-        "Corruption",
-        "Road safety"
+        "Section 39",
+        "Section 40",
+        "Section 41",
+        "Section 42"
       ],
-      "correct_index": 2,
-      "explanation": "EFCC corruption.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Section 40 guarantees the right to peaceful assembly and association.",
+      "difficulty": 3
     },
     {
       "id": "cve_095",
-      "text": "Who designed the Nigerian national flag? (variant 95)",
+      "text": "Non-discrimination is guaranteed under:",
       "options": [
-        "Bello",
-        "Taiwo Akinkunmi",
-        "Azikiwe",
-        "Awolowo"
+        "Section 39",
+        "Section 40",
+        "Section 42",
+        "Section 44"
       ],
-      "correct_index": 1,
-      "explanation": "Akinkunmi.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Section 42 provides the right to freedom from discrimination.",
+      "difficulty": 3
     },
     {
       "id": "cve_096",
-      "text": "In what year was the Nigerian national anthem adopted? (variant 96)",
+      "text": "The National Orientation Agency (NOA) is responsible for:",
       "options": [
-        "1978",
-        "1960",
-        "1999",
-        "2005"
+        "Conducting elections",
+        "Promoting national values and consciousness",
+        "Building roads",
+        "Training soldiers"
       ],
-      "correct_index": 0,
-      "explanation": "Anthem 1978.",
+      "correct_index": 1,
+      "explanation": "NOA promotes patriotism, national values and civic responsibilities.",
       "difficulty": 2
     },
     {
       "id": "cve_097",
-      "text": "How many members does the Nigerian Senate have? (variant 97)",
+      "text": "Which of these is a quality of good leadership?",
       "options": [
-        "360",
-        "100",
-        "50",
-        "109 members"
-      ],
-      "correct_index": 3,
-      "explanation": "Senate 109.",
-      "difficulty": 2
-    },
-    {
-      "id": "cve_098",
-      "text": "How many members does the Nigerian House of Representatives have? (variant 98)",
-      "options": [
-        "100",
-        "50",
-        "360 members",
-        "109"
-      ],
-      "correct_index": 2,
-      "explanation": "House 360.",
-      "difficulty": 2
-    },
-    {
-      "id": "cve_099",
-      "text": "The press is called fourth estate because it: (variant 99)",
-      "options": [
-        "Fights wars",
-        "Informs and checks government",
-        "Makes laws",
-        "Executes laws"
+        "Tyranny",
+        "Accountability",
+        "Nepotism",
+        "Corruption"
       ],
       "correct_index": 1,
-      "explanation": "Press informs checks.",
-      "difficulty": 2
-    },
-    {
-      "id": "cve_100",
-      "text": "What does patriotism mean? (variant 100)",
-      "options": [
-        "Love for country",
-        "Hatred",
-        "Betrayal",
-        "Indifference"
-      ],
-      "correct_index": 0,
-      "explanation": "Love for country.",
+      "explanation": "Good leaders are accountable to the people they serve.",
       "difficulty": 1
     },
     {
-      "id": "cve_101",
-      "text": "Citizenship by birth is acquired through: (variant 101)",
+      "id": "cve_098",
+      "text": "Which of the following best describes Good followership involves?",
       "options": [
-        "Place of birth and parentage",
-        "Registration",
-        "Honorary award",
-        "Naturalization"
+        "Blind obedience",
+        "Constructive criticism and loyalty",
+        "Rebellion",
+        "Ignoring leaders"
       ],
-      "correct_index": 0,
-      "explanation": "Citizenship by birth is place and parentage.",
+      "correct_index": 1,
+      "explanation": "Good followers provide constructive criticism and support legitimate leadership.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_099",
+      "text": "Drug trafficking in Nigeria is combated by:",
+      "options": [
+        "FRSC",
+        "NDLEA",
+        "INEC",
+        "NOA"
+      ],
+      "correct_index": 1,
+      "explanation": "NDLEA is the primary agency for combating drug trafficking.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_100",
+      "text": "The colour red on the Nigerian coat of arms represents:",
+      "options": [
+        "Peace",
+        "Warmth and love",
+        "Death",
+        "Corruption"
+      ],
+      "correct_index": 1,
+      "explanation": "Red on the coat of arms symbolizes warmth and love of fellow citizens.",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_101",
+      "text": "Which of the following best describes Civic education helps citizens to?",
+      "options": [
+        "Engage in cultism",
+        "Understand their rights and responsibilities",
+        "Commit crimes",
+        "Ignore the law"
+      ],
+      "correct_index": 1,
+      "explanation": "Civic education equips citizens with knowledge of rights and duties.",
       "difficulty": 1
     },
     {
       "id": "cve_102",
-      "text": "What does the green colour in the Nigerian national flag represent? (variant 102)",
+      "text": "A citizen who does not vote in elections is:",
       "options": [
-        "Blood",
-        "Sun",
-        "Peace",
-        "Agriculture"
+        "Fulfilling a duty",
+        "Abandoning civic responsibility",
+        "Being wise",
+        "Following the law"
       ],
-      "correct_index": 3,
-      "explanation": "Green agriculture.",
+      "correct_index": 1,
+      "explanation": "Failure to vote is an abandonment of civic responsibility.",
       "difficulty": 1
     },
     {
       "id": "cve_103",
-      "text": "What are human rights? (variant 103)",
+      "text": "Which of these is a function of the executive?",
       "options": [
-        "Temporary gifts",
-        "Privileges for leaders",
-        "Inherent entitlements of all humans",
-        "Given by employers"
+        "Interpreting laws",
+        "Implementing and executing laws",
+        "Making laws",
+        "Judging disputes"
       ],
-      "correct_index": 2,
-      "explanation": "Human rights inherent.",
+      "correct_index": 1,
+      "explanation": "The executive implements and executes laws made by the legislature.",
       "difficulty": 1
     },
     {
       "id": "cve_104",
-      "text": "What does the principle of rule of law mean? (variant 104)",
+      "text": "The concept of checks and balances is meant to:",
       "options": [
-        "Law applies equally to all",
-        "Leaders above law",
-        "Law favours rich",
-        "Law optional"
+        "Give one arm absolute power",
+        "Prevent abuse of power by any arm of government",
+        "Weaken the judiciary",
+        "Strengthen the military"
       ],
-      "correct_index": 0,
-      "explanation": "Equality before law.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Checks and balances ensure no single arm of government becomes too powerful.",
+      "difficulty": 2
     },
     {
       "id": "cve_105",
-      "text": "What is the definition of drug abuse? (variant 105?",
+      "text": "Which agency regulates food and drugs in Nigeria?",
       "options": [
-        "Misuse for non-medical purposes",
-        "Prescribed use",
-        "Avoiding drugs",
-        "Proper use"
+        "ICPC",
+        "EFCC",
+        "NAFDAC",
+        "NDLEA"
       ],
-      "correct_index": 0,
-      "explanation": "Drug abuse misuse.",
+      "correct_index": 2,
+      "explanation": "NAFDAC regulates and controls the manufacture, importation and sale of food and drugs.",
       "difficulty": 1
     },
     {
       "id": "cve_106",
-      "text": "What does the acronym FRSC stand for in Nigeria? (variant 106)",
+      "text": "Which of the following best describes The FRSC was established mainly to?",
       "options": [
-        "Only road",
-        "Only safety",
-        "Federal Road Safety Corps",
-        "No meaning"
+        "Collect revenue",
+        "Prevent road accidents and enforce traffic laws",
+        "Fight crime",
+        "Conduct elections"
       ],
-      "correct_index": 2,
-      "explanation": "FRSC Federal Road Safety Corps.",
+      "correct_index": 1,
+      "explanation": "FRSC was established to ensure road safety and enforce traffic regulations.",
       "difficulty": 1
     },
     {
       "id": "cve_107",
-      "text": "What does a red traffic light signal indicate? (variant 107)",
+      "text": "The NSCDC is primarily concerned with:",
       "options": [
-        "Park",
-        "Stop",
-        "Go",
-        "Get ready"
+        "Conducting elections",
+        "Protection of critical national infrastructure",
+        "Making laws",
+        "Foreign affairs"
       ],
       "correct_index": 1,
-      "explanation": "Red stop.",
-      "difficulty": 1
+      "explanation": "NSCDC protects critical national assets and infrastructure.",
+      "difficulty": 2
     },
     {
       "id": "cve_108",
-      "text": "Democracy is government of the people, by the people and: (variant 108)",
+      "text": "What does the term \"Constitutionalism\" mean?",
       "options": [
-        "For the people",
-        "For army",
-        "For rich",
-        "For foreigners"
+        "Rule without a constitution",
+        "Adherence to constitutional provisions in governance",
+        "Abandoning the constitution",
+        "Military rule"
       ],
-      "correct_index": 0,
-      "explanation": "For the people.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Constitutionalism means government operates within the framework of the constitution.",
+      "difficulty": 2
     },
     {
       "id": "cve_109",
-      "text": "What does political apathy mean? (variant 109)",
+      "text": "Political apathy among citizens is dangerous because it:",
       "options": [
-        "Active participation",
-        "Voting always",
-        "Joining parties",
-        "Lack of interest in politics"
+        "Strengthens democracy",
+        "Leads to bad governance and voter apathy",
+        "Improves elections",
+        "Encourages accountability"
       ],
-      "correct_index": 3,
-      "explanation": "Apathy lack interest.",
+      "correct_index": 1,
+      "explanation": "Political apathy allows bad leaders to remain in power.",
       "difficulty": 1
     },
     {
       "id": "cve_110",
-      "text": "What does the acronym INEC stand for in Nigeria? (variant 110)",
+      "text": "The Nigerian Constitution can be amended by:",
       "options": [
-        "International Network",
-        "No meaning",
-        "Independent National Electoral Commission",
-        "Internal Council"
+        "The President alone",
+        "The National Assembly through prescribed procedures",
+        "The Police",
+        "INEC"
       ],
-      "correct_index": 2,
-      "explanation": "INEC Independent National Electoral Commission.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Constitutional amendment requires the National Assembly to follow Section 9 procedures.",
+      "difficulty": 2
     },
     {
       "id": "cve_111",
-      "text": "Which quality should a good leader possess? (variant 111)",
+      "text": "The concept of true federalism means:",
       "options": [
-        "Dictatorial",
-        "Honest and accountable",
-        "Corrupt",
-        "Selfish"
+        "Central government controls everything",
+        "Each tier of government has defined powers",
+        "No state government",
+        "Rule by decree"
       ],
       "correct_index": 1,
-      "explanation": "Honest accountable.",
-      "difficulty": 1
+      "explanation": "True federalism shares power between federal and state governments.",
+      "difficulty": 2
     },
     {
       "id": "cve_112",
-      "text": "What was the primary purpose of establishing the NYSC? (variant 112)",
+      "text": "The Nigerian national anthem replaced the old anthem titled:",
       "options": [
-        "National unity",
-        "Tribalism",
-        "Disunity",
-        "War"
+        "Arise Compatriots",
+        "Nigeria, We Hail Thee",
+        "Federal Republic March",
+        "Forward Nigeria"
       ],
-      "correct_index": 0,
-      "explanation": "NYSC unity.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The old anthem was 'Nigeria, We Hail Thee' adopted in 1960.",
+      "difficulty": 2
     },
     {
       "id": "cve_113",
-      "text": "The Nigerian constitution guarantees: (variant 113)",
+      "text": "Which of these is an effect of cultism?",
       "options": [
-        "Right to steal",
-        "Right to kill",
-        "Right to cheat",
-        "Fundamental human rights"
+        "Academic excellence",
+        "Death and destruction of lives and property",
+        "Better discipline",
+        "National unity"
       ],
-      "correct_index": 3,
-      "explanation": "Guarantees human rights.",
+      "correct_index": 1,
+      "explanation": "Cultism leads to violence, death and destruction.",
       "difficulty": 1
     },
     {
       "id": "cve_114",
-      "text": "What does the EFCC fight against in Nigeria? (variant 114)",
+      "text": "Drug abuse among youths can be prevented by:",
       "options": [
-        "Drug",
-        "No corruption",
-        "Corruption",
-        "Road safety"
+        "Peer pressure",
+        "Education and awareness campaigns",
+        "Availability of drugs",
+        "Legalizing all drugs"
       ],
-      "correct_index": 2,
-      "explanation": "EFCC corruption.",
+      "correct_index": 1,
+      "explanation": "Education and awareness help prevent drug abuse among youths.",
       "difficulty": 1
     },
     {
       "id": "cve_115",
-      "text": "Who designed the Nigerian national flag? (variant 115)",
+      "text": "The three tiers of government in Nigeria are:",
       "options": [
-        "Bello",
-        "Taiwo Akinkunmi",
-        "Azikiwe",
-        "Awolowo"
+        "Federal, State, Local",
+        "Federal, State, Ward",
+        "Central, Regional, Local",
+        "National, State, Community"
       ],
-      "correct_index": 1,
-      "explanation": "Akinkunmi.",
+      "correct_index": 0,
+      "explanation": "Nigeria has federal, state and local government tiers.",
       "difficulty": 1
     },
     {
       "id": "cve_116",
-      "text": "In what year was the Nigerian national anthem adopted? (variant 116)",
+      "text": "Freedom of movement can be restricted only by:",
       "options": [
-        "1978",
-        "1960",
-        "1999",
-        "2005"
+        "Any police officer",
+        "Law in the interest of defence, public order or health",
+        "The governor alone",
+        "No restriction allowed"
       ],
-      "correct_index": 0,
-      "explanation": "Anthem 1978.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Section 41(3) allows restriction in the interest of defence, public order, etc.",
+      "difficulty": 3
     },
     {
       "id": "cve_117",
-      "text": "How many members does the Nigerian Senate have? (variant 117)",
+      "text": "The concept of social justice means:",
       "options": [
-        "360",
-        "100",
-        "50",
-        "109 members"
-      ],
-      "correct_index": 3,
-      "explanation": "Senate 109.",
-      "difficulty": 2
-    },
-    {
-      "id": "cve_118",
-      "text": "How many members does the Nigerian House of Representatives have? (variant 118)",
-      "options": [
-        "100",
-        "50",
-        "360 members",
-        "109"
-      ],
-      "correct_index": 2,
-      "explanation": "House 360.",
-      "difficulty": 2
-    },
-    {
-      "id": "cve_119",
-      "text": "The press is called fourth estate because it: (variant 119)",
-      "options": [
-        "Fights wars",
-        "Informs and checks government",
-        "Makes laws",
-        "Executes laws"
-      ],
-      "correct_index": 1,
-      "explanation": "Press informs checks.",
-      "difficulty": 2
-    },
-    {
-      "id": "cve_120",
-      "text": "What does patriotism mean? (variant 120)",
-      "options": [
-        "Love for country",
-        "Hatred",
-        "Betrayal",
-        "Indifference"
+        "Fair treatment of all members of society",
+        "Privileges for the rich",
+        "Discrimination of minorities",
+        "Unequal distribution of resources"
       ],
       "correct_index": 0,
-      "explanation": "Love for country.",
+      "explanation": "Social justice ensures fair and equitable treatment for all.",
       "difficulty": 1
     },
     {
-      "id": "cve_121",
-      "text": "Citizenship by birth is acquired through: (variant 121)",
+      "id": "cve_118",
+      "text": "What does the term \"The concept of human dignity\" mean?",
       "options": [
-        "Place of birth and parentage",
-        "Registration",
-        "Honorary award",
-        "Naturalization"
+        "Treating people as slaves",
+        "Respect for the worth and value of every person",
+        "Dehumanizing others",
+        "Exploiting workers"
       ],
-      "correct_index": 0,
-      "explanation": "Citizenship by birth is place and parentage.",
+      "correct_index": 1,
+      "explanation": "Human dignity recognizes the inherent worth of every person.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_119",
+      "text": "Which of these is an electoral offence?",
+      "options": [
+        "Casting your vote",
+        "Voter intimidation and ballot box snatching",
+        "Registering as a voter",
+        "Campaigning for a candidate"
+      ],
+      "correct_index": 1,
+      "explanation": "Voter intimidation and ballot snatching are electoral offences.",
+      "difficulty": 1
+    },
+    {
+      "id": "cve_120",
+      "text": "The main source of revenue for most Nigerian states is:",
+      "options": [
+        "Tourism",
+        "Federal allocation and internally generated revenue",
+        "Foreign aid",
+        "Mining only"
+      ],
+      "correct_index": 1,
+      "explanation": "States depend on federal allocation and internally generated revenue (IGR).",
+      "difficulty": 2
+    },
+    {
+      "id": "cve_121",
+      "text": "Which of these promotes national unity?",
+      "options": [
+        "Tribalism",
+        "NYSC and national symbols",
+        "Corruption",
+        "Political thuggery"
+      ],
+      "correct_index": 1,
+      "explanation": "NYSC and national symbols help to foster unity and integration.",
       "difficulty": 1
     },
     {
       "id": "cve_122",
-      "text": "What does the green colour in the Nigerian national flag represent? (variant 122)",
+      "text": "The Public Complaints Commission is also known as:",
       "options": [
-        "Blood",
-        "Sun",
-        "Peace",
-        "Agriculture"
+        "The Ombudsman",
+        "The Sheriff",
+        "The Comptroller",
+        "The Auditor"
       ],
-      "correct_index": 3,
-      "explanation": "Green agriculture.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "The Public Complaints Commission serves as Nigeria's Ombudsman.",
+      "difficulty": 2
     },
     {
       "id": "cve_123",
-      "text": "What are human rights? (variant 123)",
+      "text": "The Freedom of Information Act was signed into law in Nigeria in:",
       "options": [
-        "Temporary gifts",
-        "Privileges for leaders",
-        "Inherent entitlements of all humans",
-        "Given by employers"
+        "2003",
+        "2007",
+        "2011",
+        "2015"
       ],
       "correct_index": 2,
-      "explanation": "Human rights inherent.",
-      "difficulty": 1
+      "explanation": "The Freedom of Information Act was signed into law in 2011.",
+      "difficulty": 3
     },
     {
       "id": "cve_124",
-      "text": "What does the principle of rule of law mean? (variant 124)",
+      "text": "The main purpose of political parties is to:",
       "options": [
-        "Law applies equally to all",
-        "Leaders above law",
-        "Law favours rich",
-        "Law optional"
+        "Cause violence",
+        "Seek political power through elections",
+        "Oppose all development",
+        "Promote cultism"
       ],
-      "correct_index": 0,
-      "explanation": "Equality before law.",
+      "correct_index": 1,
+      "explanation": "Political parties contest elections to gain political power and implement policies.",
       "difficulty": 1
     },
     {
       "id": "cve_125",
-      "text": "What is the definition of drug abuse? (variant 125?",
+      "text": "The concept of popular sovereignty means:",
       "options": [
-        "Misuse for non-medical purposes",
-        "Prescribed use",
-        "Avoiding drugs",
-        "Proper use"
+        "The king has all power",
+        "Power belongs to the people",
+        "Military rules supreme",
+        "Leaders are born not elected"
       ],
-      "correct_index": 0,
-      "explanation": "Drug abuse misuse.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Popular sovereignty holds that authority comes from the people.",
+      "difficulty": 2
     },
     {
       "id": "cve_126",
-      "text": "What does the acronym FRSC stand for in Nigeria? (variant 126)",
+      "text": "In a democracy, the legislature is expected to:",
       "options": [
-        "Only road",
-        "Only safety",
-        "Federal Road Safety Corps",
-        "No meaning"
+        "Execute laws",
+        "Make laws and provide oversight",
+        "Interpret laws",
+        "Enforce laws"
       ],
-      "correct_index": 2,
-      "explanation": "FRSC Federal Road Safety Corps.",
+      "correct_index": 1,
+      "explanation": "The legislature makes laws and provides oversight over the executive.",
       "difficulty": 1
     },
     {
       "id": "cve_127",
-      "text": "What does a red traffic light signal indicate? (variant 127)",
+      "text": "Excessive consumption of alcohol can lead to:",
       "options": [
-        "Park",
-        "Stop",
-        "Go",
-        "Get ready"
+        "Improved social relationships",
+        "Addiction, disease and crime",
+        "Increased productivity",
+        "Better concentration"
       ],
       "correct_index": 1,
-      "explanation": "Red stop.",
+      "explanation": "Excessive alcohol consumption causes liver disease, addiction and social problems.",
       "difficulty": 1
     },
     {
       "id": "cve_128",
-      "text": "Democracy is government of the people, by the people and: (variant 128)",
+      "text": "The practice of promiscuity can lead to:",
       "options": [
-        "For the people",
-        "For army",
-        "For rich",
-        "For foreigners"
+        "Healthy living",
+        "Sexually transmitted infections",
+        "Better reputation",
+        "Improved finances"
       ],
-      "correct_index": 0,
-      "explanation": "For the people.",
+      "correct_index": 1,
+      "explanation": "Promiscuity increases the risk of contracting sexually transmitted infections.",
       "difficulty": 1
     },
     {
       "id": "cve_129",
-      "text": "What does political apathy mean? (variant 129)",
+      "text": "The Nigerian Constitution recognizes how many geopolitical zones?",
       "options": [
-        "Active participation",
-        "Voting always",
-        "Joining parties",
-        "Lack of interest in politics"
+        "Four",
+        "Five",
+        "Six",
+        "Seven"
       ],
-      "correct_index": 3,
-      "explanation": "Apathy lack interest.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Nigeria has six geopolitical zones for administrative convenience.",
+      "difficulty": 2
     },
     {
       "id": "cve_130",
-      "text": "What does the acronym INEC stand for in Nigeria? (variant 130)",
+      "text": "A bill passed by the National Assembly becomes law after:",
       "options": [
-        "International Network",
-        "No meaning",
-        "Independent National Electoral Commission",
-        "Internal Council"
+        "Police approval",
+        "Presidential assent",
+        "Court endorsement",
+        "INEC approval"
       ],
-      "correct_index": 2,
-      "explanation": "INEC Independent National Electoral Commission.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A bill becomes law after the President gives assent.",
+      "difficulty": 2
     },
     {
       "id": "cve_131",
-      "text": "Which quality should a good leader possess? (variant 131)",
+      "text": "Which of these is a symbol of national unity?",
       "options": [
-        "Dictatorial",
-        "Honest and accountable",
-        "Corrupt",
-        "Selfish"
+        "Tribal marks",
+        "The national flag",
+        "Ethnic badges",
+        "Village drums"
       ],
       "correct_index": 1,
-      "explanation": "Honest accountable.",
+      "explanation": "The national flag is a symbol of unity for all Nigerians.",
       "difficulty": 1
     },
     {
       "id": "cve_132",
-      "text": "What was the primary purpose of establishing the NYSC? (variant 132)",
+      "text": "The Nigerian national pledge is a commitment to:",
       "options": [
-        "National unity",
-        "Tribalism",
-        "Disunity",
-        "War"
+        "Individual interests",
+        "The nation and its people",
+        "Foreign countries",
+        "Only one ethnic group"
       ],
-      "correct_index": 0,
-      "explanation": "NYSC unity.",
+      "correct_index": 1,
+      "explanation": "The national pledge is a commitment to the service of Nigeria and its people.",
       "difficulty": 1
     },
     {
       "id": "cve_133",
-      "text": "The Nigerian constitution guarantees: (variant 133)",
+      "text": "The first stanza of the national anthem is titled:",
       "options": [
-        "Right to steal",
-        "Right to kill",
-        "Right to cheat",
-        "Fundamental human rights"
+        "Arise, O Compatriots",
+        "Nigeria, We Hail Thee",
+        "O God of Creation",
+        "Land of the Rising Sun"
       ],
-      "correct_index": 3,
-      "explanation": "Guarantees human rights.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "The first stanza is 'Arise, O Compatriots'.",
+      "difficulty": 2
     },
     {
       "id": "cve_134",
-      "text": "What does the EFCC fight against in Nigeria? (variant 134)",
+      "text": "The second stanza of the national anthem is titled:",
       "options": [
-        "Drug",
-        "No corruption",
-        "Corruption",
-        "Road safety"
+        "Nigeria, We Hail Thee",
+        "O God of Creation",
+        "Arise Compatriots",
+        "The Land of Hope"
       ],
-      "correct_index": 2,
-      "explanation": "EFCC corruption.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "The second stanza is 'Nigeria, We Hail Thee'.",
+      "difficulty": 2
     },
     {
       "id": "cve_135",
-      "text": "Who designed the Nigerian national flag? (variant 135)",
+      "text": "The lyrics of the Nigerian national anthem were written by:",
       "options": [
-        "Bello",
-        "Taiwo Akinkunmi",
-        "Azikiwe",
-        "Awolowo"
+        "John A. Ilechukwu",
+        "Multiple authors chosen by competition",
+        "Chinua Achebe",
+        "Wole Soyinka"
       ],
       "correct_index": 1,
-      "explanation": "Akinkunmi.",
-      "difficulty": 1
+      "explanation": "The lyrics were written by five people selected through a competition.",
+      "difficulty": 3
     },
     {
       "id": "cve_136",
-      "text": "In what year was the Nigerian national anthem adopted? (variant 136)",
+      "text": "The music of the Nigerian national anthem was composed by:",
       "options": [
-        "1978",
-        "1960",
-        "1999",
-        "2005"
+        "A Nigerian choir",
+        "Benjamin Odiase",
+        "Fela Kuti",
+        "Christy Essien Igbokwe"
       ],
-      "correct_index": 0,
-      "explanation": "Anthem 1978.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Benjamin Odiase composed the music for the national anthem.",
+      "difficulty": 3
     },
     {
       "id": "cve_137",
-      "text": "How many members does the Nigerian Senate have? (variant 137)",
+      "text": "HIV/AIDS can be transmitted through:",
       "options": [
-        "360",
-        "100",
-        "50",
-        "109 members"
+        "Shaking hands",
+        "Unprotected sexual contact",
+        "Using public toilets",
+        "Mosquito bites"
       ],
-      "correct_index": 3,
-      "explanation": "Senate 109.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "HIV/AIDS is primarily transmitted through unprotected sexual contact.",
+      "difficulty": 1
     },
     {
       "id": "cve_138",
-      "text": "How many members does the Nigerian House of Representatives have? (variant 138)",
+      "text": "Which of the following best describes Malaria is caused by?",
       "options": [
-        "100",
-        "50",
-        "360 members",
-        "109"
+        "Bacteria",
+        "Virus",
+        "Plasmodium parasite spread by mosquitoes",
+        "Fungi"
       ],
       "correct_index": 2,
-      "explanation": "House 360.",
-      "difficulty": 2
+      "explanation": "Malaria is caused by Plasmodium parasite transmitted through mosquito bites.",
+      "difficulty": 1
     },
     {
       "id": "cve_139",
-      "text": "The press is called fourth estate because it: (variant 139)",
+      "text": "Cholera is primarily spread through:",
       "options": [
-        "Fights wars",
-        "Informs and checks government",
-        "Makes laws",
-        "Executes laws"
+        "Airborne particles",
+        "Contaminated water and food",
+        "Direct contact only",
+        "Animal bites"
       ],
       "correct_index": 1,
-      "explanation": "Press informs checks.",
-      "difficulty": 2
+      "explanation": "Cholera is a waterborne disease caused by contaminated water and food.",
+      "difficulty": 1
     },
     {
       "id": "cve_140",
-      "text": "What does patriotism mean? (variant 140)",
+      "text": "Which of the following best describes The Red Cross Society is known for?",
       "options": [
-        "Love for country",
-        "Hatred",
-        "Betrayal",
-        "Indifference"
+        "Waging war",
+        "Providing humanitarian aid and relief",
+        "Conducting elections",
+        "Making laws"
       ],
-      "correct_index": 0,
-      "explanation": "Love for country.",
+      "correct_index": 1,
+      "explanation": "The Red Cross provides humanitarian assistance during emergencies.",
       "difficulty": 1
     },
     {
       "id": "cve_141",
-      "text": "Citizenship by birth is acquired through: (variant 141)",
+      "text": "What does the term \"First aid\" mean?",
       "options": [
-        "Place of birth and parentage",
-        "Registration",
-        "Honorary award",
-        "Naturalization"
+        "Treatment by a doctor",
+        "Immediate temporary care given to a victim before medical help",
+        "Surgery",
+        "Long-term treatment"
       ],
-      "correct_index": 0,
-      "explanation": "Citizenship by birth is place and parentage.",
+      "correct_index": 1,
+      "explanation": "First aid is the immediate care given to an injured or sick person.",
       "difficulty": 1
     },
     {
       "id": "cve_142",
-      "text": "What does the green colour in the Nigerian national flag represent? (variant 142)",
+      "text": "The primary colours on the Nigerian flag are:",
       "options": [
-        "Blood",
-        "Sun",
-        "Peace",
-        "Agriculture"
+        "Red and blue",
+        "Green and white",
+        "Black and gold",
+        "Blue and yellow"
       ],
-      "correct_index": 3,
-      "explanation": "Green agriculture.",
+      "correct_index": 1,
+      "explanation": "The Nigerian flag features green and white vertical stripes.",
       "difficulty": 1
     },
     {
       "id": "cve_143",
-      "text": "What are human rights? (variant 143)",
+      "text": "How many vertical stripes does the Nigerian flag have?",
       "options": [
-        "Temporary gifts",
-        "Privileges for leaders",
-        "Inherent entitlements of all humans",
-        "Given by employers"
+        "Two",
+        "Three",
+        "Four",
+        "Five"
       ],
-      "correct_index": 2,
-      "explanation": "Human rights inherent.",
+      "correct_index": 1,
+      "explanation": "The Nigerian flag has three equal vertical stripes: green-white-green.",
       "difficulty": 1
     },
     {
       "id": "cve_144",
-      "text": "What does the principle of rule of law mean? (variant 144)",
+      "text": "The Nigerian flag was first officially hoisted on:",
       "options": [
-        "Law applies equally to all",
-        "Leaders above law",
-        "Law favours rich",
-        "Law optional"
+        "October 1, 1960",
+        "January 1, 1960",
+        "June 12, 1993",
+        "May 29, 1999"
       ],
       "correct_index": 0,
-      "explanation": "Equality before law.",
-      "difficulty": 1
+      "explanation": "The Nigerian flag was first hoisted on independence day, October 1, 1960.",
+      "difficulty": 2
     },
     {
       "id": "cve_145",
-      "text": "What is the definition of drug abuse? (variant 145?",
+      "text": "Which of the following best describes Electoral malpractice includes?",
       "options": [
-        "Misuse for non-medical purposes",
-        "Prescribed use",
-        "Avoiding drugs",
-        "Proper use"
+        "Election monitoring",
+        "Ballot box stuffing and impersonation",
+        "Casting valid votes",
+        "Campaigning legally"
       ],
-      "correct_index": 0,
-      "explanation": "Drug abuse misuse.",
+      "correct_index": 1,
+      "explanation": "Ballot box stuffing and impersonation are electoral offences.",
       "difficulty": 1
     },
     {
       "id": "cve_146",
-      "text": "What does the acronym FRSC stand for in Nigeria? (variant 146)",
+      "text": "The role of election observers is to:",
       "options": [
-        "Only road",
-        "Only safety",
-        "Federal Road Safety Corps",
-        "No meaning"
+        "Vote for candidates",
+        "Monitor and ensure free and fair elections",
+        "Count ballot papers",
+        "Campaign for parties"
       ],
-      "correct_index": 2,
-      "explanation": "FRSC Federal Road Safety Corps.",
+      "correct_index": 1,
+      "explanation": "Election observers monitor elections for fairness and transparency.",
       "difficulty": 1
     },
     {
       "id": "cve_147",
-      "text": "What does a red traffic light signal indicate? (variant 147)",
+      "text": "Which of these is a feature of a federal system?",
       "options": [
-        "Park",
-        "Stop",
-        "Go",
-        "Get ready"
+        "Unitary command",
+        "Division of powers between central and regional governments",
+        "No constitution",
+        "Single government"
       ],
       "correct_index": 1,
-      "explanation": "Red stop.",
-      "difficulty": 1
+      "explanation": "Federalism involves division of powers between central and regional governments.",
+      "difficulty": 2
     },
     {
       "id": "cve_148",
-      "text": "Democracy is government of the people, by the people and: (variant 148)",
+      "text": "A unitary system of government means:",
       "options": [
-        "For the people",
-        "For army",
-        "For rich",
-        "For foreigners"
+        "Power shared between regions",
+        "All power concentrated at the centre",
+        "No central government",
+        "Power given to local governments"
       ],
-      "correct_index": 0,
-      "explanation": "For the people.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "In a unitary system, central government holds all political power.",
+      "difficulty": 2
     },
     {
       "id": "cve_149",
-      "text": "What does political apathy mean? (variant 149)",
+      "text": "The concept of constitutional democracy involves:",
       "options": [
-        "Active participation",
-        "Voting always",
-        "Joining parties",
-        "Lack of interest in politics"
+        "Rule by decree",
+        "Government based on constitution and popular consent",
+        "Military government",
+        "No elections"
       ],
-      "correct_index": 3,
-      "explanation": "Apathy lack interest.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Constitutional democracy combines constitutional governance with democratic principles.",
+      "difficulty": 2
     },
     {
       "id": "cve_150",
-      "text": "What does the acronym INEC stand for in Nigeria? (variant 150)",
+      "text": "Indiscipline among Nigerian youths can lead to:",
       "options": [
-        "International Network",
-        "No meaning",
-        "Independent National Electoral Commission",
-        "Internal Council"
+        "National progress",
+        "Social vices and underdevelopment",
+        "Improved governance",
+        "Better economy"
       ],
-      "correct_index": 2,
-      "explanation": "INEC Independent National Electoral Commission.",
+      "correct_index": 1,
+      "explanation": "Youth indiscipline promotes social vices and hinders development.",
       "difficulty": 1
     },
     {
       "id": "cve_151",
-      "text": "Which quality should a good leader possess? (variant 151)",
+      "text": "The appropriate authority to issue an arrest warrant is:",
       "options": [
-        "Dictatorial",
-        "Honest and accountable",
-        "Corrupt",
-        "Selfish"
+        "The Police",
+        "A Magistrate or Judge",
+        "INEC",
+        "The President"
       ],
       "correct_index": 1,
-      "explanation": "Honest accountable.",
-      "difficulty": 1
+      "explanation": "Only a court of law through a magistrate or judge can issue an arrest warrant.",
+      "difficulty": 2
     },
     {
       "id": "cve_152",
-      "text": "What was the primary purpose of establishing the NYSC? (variant 152)",
+      "text": "A suspect in Nigeria has the right to:",
       "options": [
-        "National unity",
-        "Tribalism",
-        "Disunity",
-        "War"
+        "Be tortured",
+        "Remain silent and consult a lawyer",
+        "Be detained indefinitely",
+        "Be denied food"
       ],
-      "correct_index": 0,
-      "explanation": "NYSC unity.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Section 35 of the Constitution guarantees the right to remain silent and consult a lawyer.",
+      "difficulty": 2
     },
     {
       "id": "cve_153",
-      "text": "The Nigerian constitution guarantees: (variant 153)",
+      "text": "Which of the following best describes Bail is granted to a suspect?",
       "options": [
-        "Right to steal",
-        "Right to kill",
-        "Right to cheat",
-        "Fundamental human rights"
+        "Only after conviction",
+        "Before trial to ensure attendance at court",
+        "Never",
+        "Only for murder cases"
       ],
-      "correct_index": 3,
-      "explanation": "Guarantees human rights.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Bail allows a suspect to remain free before and during trial.",
+      "difficulty": 2
     },
     {
       "id": "cve_154",
-      "text": "What does the EFCC fight against in Nigeria? (variant 154)",
+      "text": "Which of the following best describes Habeas corpus is a legal remedy to?",
       "options": [
-        "Drug",
-        "No corruption",
-        "Corruption",
-        "Road safety"
+        "Arrest anyone",
+        "Challenge unlawful detention",
+        "Impose fines",
+        "Collect taxes"
       ],
-      "correct_index": 2,
-      "explanation": "EFCC corruption.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Habeas corpus is a writ to bring a detained person before the court.",
+      "difficulty": 3
     },
     {
       "id": "cve_155",
-      "text": "Who designed the Nigerian national flag? (variant 155)",
+      "text": "Which of the following best describes The judiciary protects citizens by?",
       "options": [
-        "Bello",
-        "Taiwo Akinkunmi",
-        "Azikiwe",
-        "Awolowo"
+        "Making laws",
+        "Interpreting and enforcing rights through courts",
+        "Collecting taxes",
+        "Enforcing executive orders"
       ],
       "correct_index": 1,
-      "explanation": "Akinkunmi.",
+      "explanation": "The judiciary protects citizens' rights through judicial interpretation.",
       "difficulty": 1
     },
     {
       "id": "cve_156",
-      "text": "In what year was the Nigerian national anthem adopted? (variant 156)",
+      "text": "National security challenges in Nigeria include:",
       "options": [
-        "1978",
-        "1960",
-        "1999",
-        "2005"
+        "Peaceful protests",
+        "Insurgency, kidnapping and terrorism",
+        "Free elections",
+        "Democratic governance"
       ],
-      "correct_index": 0,
-      "explanation": "Anthem 1978.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Nigeria faces security challenges including insurgency and kidnapping.",
+      "difficulty": 1
     },
     {
       "id": "cve_157",
-      "text": "How many members does the Nigerian Senate have? (variant 157)",
+      "text": "The military in a democratic government should:",
       "options": [
-        "360",
-        "100",
-        "50",
-        "109 members"
+        "Rule the country",
+        "Remain in barracks and obey civilian authority",
+        "Make laws",
+        "Control elections"
       ],
-      "correct_index": 3,
-      "explanation": "Senate 109.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "In a democracy, the military should be under civilian control.",
+      "difficulty": 1
     },
     {
       "id": "cve_158",
-      "text": "How many members does the Nigerian House of Representatives have? (variant 158)",
+      "text": "Public opinion is important in a democracy because it:",
       "options": [
-        "100",
-        "50",
-        "360 members",
-        "109"
+        "Has no value",
+        "Reflects the views and needs of citizens",
+        "Opposes all development",
+        "Causes confusion"
       ],
-      "correct_index": 2,
-      "explanation": "House 360.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Public opinion guides government policy and decision-making.",
+      "difficulty": 1
     },
     {
       "id": "cve_159",
-      "text": "The press is called fourth estate because it: (variant 159)",
+      "text": "The concept of accountability in governance means:",
       "options": [
-        "Fights wars",
-        "Informs and checks government",
-        "Makes laws",
-        "Executes laws"
+        "Leaders keeping secrets",
+        "Leaders answering for their actions to the people",
+        "Ignoring public complaints",
+        "Spending without records"
       ],
       "correct_index": 1,
-      "explanation": "Press informs checks.",
-      "difficulty": 2
+      "explanation": "Accountability requires leaders to justify their actions and decisions.",
+      "difficulty": 1
     },
     {
       "id": "cve_160",
-      "text": "What does patriotism mean? (variant 160)",
+      "text": "The Nigerian Constitution provides for education under:",
       "options": [
-        "Love for country",
-        "Hatred",
-        "Betrayal",
-        "Indifference"
+        "Chapter IV",
+        "Chapter II as a directive principle",
+        "Chapter VII",
+        "Chapter IX"
       ],
-      "correct_index": 0,
-      "explanation": "Love for country.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Chapter II provides for the right to education as a directive principle of state policy.",
+      "difficulty": 2
     },
     {
       "id": "cve_161",
-      "text": "Citizenship by birth is acquired through: (variant 161)",
+      "text": "Which of these is a means of acquiring Nigerian citizenship?",
       "options": [
-        "Place of birth and parentage",
-        "Registration",
-        "Honorary award",
-        "Naturalization"
+        "Lottery",
+        "Birth, registration, naturalization and descent",
+        "Buying a passport",
+        "Military conquest"
       ],
-      "correct_index": 0,
-      "explanation": "Citizenship by birth is place and parentage.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Sections 25-32 provide for citizenship by birth, registration, naturalization and descent.",
+      "difficulty": 2
     },
     {
       "id": "cve_162",
-      "text": "What does the green colour in the Nigerian national flag represent? (variant 162)",
+      "text": "A citizen who marries a Nigerian can acquire citizenship through:",
       "options": [
-        "Blood",
-        "Sun",
-        "Peace",
-        "Agriculture"
+        "Naturalization",
+        "Registration",
+        "Birth",
+        "Descent"
       ],
-      "correct_index": 3,
-      "explanation": "Green agriculture.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Section 26 provides for citizenship by registration, including marriage to a Nigerian citizen.",
+      "difficulty": 2
     },
     {
       "id": "cve_163",
-      "text": "What are human rights? (variant 163)",
+      "text": "Citizenship by descent applies to persons:",
       "options": [
-        "Temporary gifts",
-        "Privileges for leaders",
-        "Inherent entitlements of all humans",
-        "Given by employers"
+        "Born in Nigeria",
+        "Born outside Nigeria with Nigerian parent(s)",
+        "Living in Nigeria for 15 years",
+        "Educated in Nigeria"
       ],
-      "correct_index": 2,
-      "explanation": "Human rights inherent.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Section 25(1)(a) and (b) provide for citizenship by descent for those born outside Nigeria.",
+      "difficulty": 3
     },
     {
       "id": "cve_164",
-      "text": "What does the principle of rule of law mean? (variant 164)",
+      "text": "The loss of Nigerian citizenship can occur through:",
       "options": [
-        "Law applies equally to all",
-        "Leaders above law",
-        "Law favours rich",
-        "Law optional"
+        "Voting",
+        "Voluntary renunciation or denunciation",
+        "Paying taxes",
+        "Obedience to law"
       ],
-      "correct_index": 0,
-      "explanation": "Equality before law.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Section 29 provides for renunciation and denunciation of citizenship.",
+      "difficulty": 3
     },
     {
       "id": "cve_165",
-      "text": "What is the definition of drug abuse? (variant 165?",
+      "text": "A person who renounces Nigerian citizenship:",
       "options": [
-        "Misuse for non-medical purposes",
-        "Prescribed use",
-        "Avoiding drugs",
-        "Proper use"
+        "Is arrested",
+        "Loses their citizenship status",
+        "Is promoted",
+        "Gets a new name"
       ],
-      "correct_index": 0,
-      "explanation": "Drug abuse misuse.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Renunciation results in the loss of Nigerian citizenship.",
+      "difficulty": 2
     },
     {
       "id": "cve_166",
-      "text": "What does the acronym FRSC stand for in Nigeria? (variant 166)",
+      "text": "The constituent assembly is important because it:",
       "options": [
-        "Only road",
-        "Only safety",
-        "Federal Road Safety Corps",
-        "No meaning"
+        "Conducts elections",
+        "Drafts or reviews the constitution",
+        "Makes daily laws",
+        "Enforces laws"
       ],
-      "correct_index": 2,
-      "explanation": "FRSC Federal Road Safety Corps.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A constituent assembly is convened to draft or review the constitution.",
+      "difficulty": 2
     },
     {
       "id": "cve_167",
-      "text": "What does a red traffic light signal indicate? (variant 167)",
+      "text": "Which of these is NOT a function of the National Assembly?",
       "options": [
-        "Park",
-        "Stop",
-        "Go",
-        "Get ready"
+        "Making laws",
+        "Approving budgets",
+        "Conducting elections",
+        "Impeaching the President"
       ],
-      "correct_index": 1,
-      "explanation": "Red stop.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Conducting elections is the function of INEC, not the National Assembly.",
+      "difficulty": 2
     },
     {
       "id": "cve_168",
-      "text": "Democracy is government of the people, by the people and: (variant 168)",
+      "text": "Which of the following best describes The Senate President is elected by?",
       "options": [
-        "For the people",
-        "For army",
-        "For rich",
-        "For foreigners"
+        "The President",
+        "The people directly",
+        "Senators from among themselves",
+        "INEC"
       ],
-      "correct_index": 0,
-      "explanation": "For the people.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "The Senate President is elected by the senators.",
+      "difficulty": 2
     },
     {
       "id": "cve_169",
-      "text": "What does political apathy mean? (variant 169)",
+      "text": "The Speaker of the House of Representatives is elected by:",
       "options": [
-        "Active participation",
-        "Voting always",
-        "Joining parties",
-        "Lack of interest in politics"
+        "The President",
+        "The voters",
+        "Members of the House",
+        "The Senate"
       ],
-      "correct_index": 3,
-      "explanation": "Apathy lack interest.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Members of the House of Representatives elect their Speaker.",
+      "difficulty": 2
     },
     {
       "id": "cve_170",
-      "text": "What does the acronym INEC stand for in Nigeria? (variant 170)",
+      "text": "The Federal Executive Council consists of:",
       "options": [
-        "International Network",
-        "No meaning",
-        "Independent National Electoral Commission",
-        "Internal Council"
+        "Only the President",
+        "The President and Ministers",
+        "Senators only",
+        "Judges"
       ],
-      "correct_index": 2,
-      "explanation": "INEC Independent National Electoral Commission.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Federal Executive Council comprises the President and Ministers.",
+      "difficulty": 2
     },
     {
       "id": "cve_171",
-      "text": "Which quality should a good leader possess? (variant 171)",
+      "text": "Which of these is a requirement for registering a political party?",
       "options": [
-        "Dictatorial",
-        "Honest and accountable",
-        "Corrupt",
-        "Selfish"
+        "Military endorsement",
+        "Compliance with INEC guidelines and constitution",
+        "Foreign funding",
+        "Court order"
       ],
       "correct_index": 1,
-      "explanation": "Honest accountable.",
-      "difficulty": 1
+      "explanation": "Political parties must comply with INEC guidelines and constitutional requirements.",
+      "difficulty": 2
     },
     {
       "id": "cve_172",
-      "text": "What was the primary purpose of establishing the NYSC? (variant 172)",
+      "text": "Which of the following best describes A referendum is used to?",
       "options": [
-        "National unity",
-        "Tribalism",
-        "Disunity",
-        "War"
+        "Elect the President",
+        "Decide on a specific constitutional or policy question",
+        "Choose senators",
+        "Appoint judges"
       ],
-      "correct_index": 0,
-      "explanation": "NYSC unity.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A referendum is a direct vote on a particular issue or proposal.",
+      "difficulty": 2
     },
     {
       "id": "cve_173",
-      "text": "The Nigerian constitution guarantees: (variant 173)",
+      "text": "The role of the press in a democracy is to:",
       "options": [
-        "Right to steal",
-        "Right to kill",
-        "Right to cheat",
-        "Fundamental human rights"
+        "Support only the government",
+        "Provide information and serve as watchdog",
+        "Suppress the truth",
+        "Ignore the people"
       ],
-      "correct_index": 3,
-      "explanation": "Guarantees human rights.",
+      "correct_index": 1,
+      "explanation": "The press informs citizens and monitors government activities.",
       "difficulty": 1
     },
     {
       "id": "cve_174",
-      "text": "What does the EFCC fight against in Nigeria? (variant 174)",
+      "text": "Which of the following best describes Censorship of the press violates?",
       "options": [
-        "Drug",
-        "No corruption",
-        "Corruption",
-        "Road safety"
+        "Property rights",
+        "Freedom of expression and press",
+        "Right to vote",
+        "Right to bear arms"
       ],
-      "correct_index": 2,
-      "explanation": "EFCC corruption.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Censorship violates the freedom of expression guaranteed in Section 39.",
+      "difficulty": 2
     },
     {
       "id": "cve_175",
-      "text": "Who designed the Nigerian national flag? (variant 175)",
+      "text": "A suspect has the right to be brought before a court:",
       "options": [
-        "Bello",
-        "Taiwo Akinkunmi",
-        "Azikiwe",
-        "Awolowo"
+        "After one year",
+        "Within a reasonable time",
+        "Only on Fridays",
+        "Never"
       ],
       "correct_index": 1,
-      "explanation": "Akinkunmi.",
-      "difficulty": 1
+      "explanation": "Section 35(4) requires that a suspect be brought before a court within a reasonable time.",
+      "difficulty": 2
     },
     {
       "id": "cve_176",
-      "text": "In what year was the Nigerian national anthem adopted? (variant 176)",
+      "text": "Community development requires the active participation of:",
       "options": [
-        "1978",
-        "1960",
-        "1999",
-        "2005"
+        "Only government",
+        "Citizens, government and organizations",
+        "Only the rich",
+        "Only NGOs"
       ],
-      "correct_index": 0,
-      "explanation": "Anthem 1978.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Community development requires collective efforts from all stakeholders.",
+      "difficulty": 1
     },
     {
       "id": "cve_177",
-      "text": "How many members does the Nigerian Senate have? (variant 177)",
+      "text": "Which of the following best describes Social welfare services include?",
       "options": [
-        "360",
-        "100",
-        "50",
-        "109 members"
+        "Tax collection",
+        "Health care, education and housing provision",
+        "Military training",
+        "Road construction only"
       ],
-      "correct_index": 3,
-      "explanation": "Senate 109.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Social welfare includes health, education and housing for citizens.",
+      "difficulty": 1
     },
     {
       "id": "cve_178",
-      "text": "How many members does the Nigerian House of Representatives have? (variant 178)",
+      "text": "Which of the following best describes A good citizen should?",
       "options": [
-        "100",
-        "50",
-        "360 members",
-        "109"
+        "Ignore the law",
+        "Respect the constitution and participate in governance",
+        "Encourage corruption",
+        "Avoid paying taxes"
       ],
-      "correct_index": 2,
-      "explanation": "House 360.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "A good citizen respects the law and participates actively in governance.",
+      "difficulty": 1
     },
     {
       "id": "cve_179",
-      "text": "The press is called fourth estate because it: (variant 179)",
+      "text": "Which of these promotes accountability in government?",
       "options": [
-        "Fights wars",
-        "Informs and checks government",
-        "Makes laws",
-        "Executes laws"
+        "Secrecy in governance",
+        "Transparency and freedom of information",
+        "Censorship",
+        "Corruption"
       ],
       "correct_index": 1,
-      "explanation": "Press informs checks.",
-      "difficulty": 2
+      "explanation": "Transparency and information freedom promote government accountability.",
+      "difficulty": 1
     },
     {
       "id": "cve_180",
-      "text": "What does patriotism mean? (variant 180)",
+      "text": "What does the term \"The concept of due process\" mean?",
       "options": [
-        "Love for country",
-        "Hatred",
-        "Betrayal",
-        "Indifference"
+        "Ignoring legal procedures",
+        "Following established legal procedures and rules",
+        "Arbitrary arrest",
+        "Rule by force"
       ],
-      "correct_index": 0,
-      "explanation": "Love for country.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Due process requires that legal procedures be followed in all actions.",
+      "difficulty": 2
     },
     {
       "id": "cve_181",
-      "text": "Citizenship by birth is acquired through: (variant 181)",
+      "text": "The black colour on the Nigerian coat of arms represents:",
       "options": [
-        "Place of birth and parentage",
-        "Registration",
-        "Honorary award",
-        "Naturalization"
+        "Death",
+        "The fertile soil of Nigeria",
+        "War",
+        "Mourning"
       ],
-      "correct_index": 0,
-      "explanation": "Citizenship by birth is place and parentage.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Black represents the fertile earth of Nigeria.",
+      "difficulty": 2
     },
     {
       "id": "cve_182",
-      "text": "What does the green colour in the Nigerian national flag represent? (variant 182)",
+      "text": "The white colour on the coat of arms represents:",
       "options": [
-        "Blood",
-        "Sun",
-        "Peace",
-        "Agriculture"
+        "Agriculture",
+        "Peace and unity",
+        "Oil wealth",
+        "Poverty"
       ],
-      "correct_index": 3,
-      "explanation": "Green agriculture.",
+      "correct_index": 1,
+      "explanation": "White symbolizes peace and unity among Nigerians.",
       "difficulty": 1
     },
     {
       "id": "cve_183",
-      "text": "What are human rights? (variant 183)",
+      "text": "Which of these is a core national value?",
       "options": [
-        "Temporary gifts",
-        "Privileges for leaders",
-        "Inherent entitlements of all humans",
-        "Given by employers"
+        "Tribalism",
+        "Discipline",
+        "Corruption",
+        "Nepotism"
       ],
-      "correct_index": 2,
-      "explanation": "Human rights inherent.",
+      "correct_index": 1,
+      "explanation": "Discipline is a core national value that promotes orderliness.",
       "difficulty": 1
     },
     {
       "id": "cve_184",
-      "text": "What does the principle of rule of law mean? (variant 184)",
+      "text": "The concept of tolerance in a multi-ethnic society means:",
       "options": [
-        "Law applies equally to all",
-        "Leaders above law",
-        "Law favours rich",
-        "Law optional"
+        "Fighting over beliefs",
+        "Respecting and accepting diverse views and cultures",
+        "Forcing one religion",
+        "Suppressing minorities"
       ],
-      "correct_index": 0,
-      "explanation": "Equality before law.",
+      "correct_index": 1,
+      "explanation": "Tolerance promotes peaceful coexistence among diverse groups.",
       "difficulty": 1
     },
     {
       "id": "cve_185",
-      "text": "What is the definition of drug abuse? (variant 185?",
+      "text": "The National Youth Service Corps (NYSC) is compulsory for:",
       "options": [
-        "Misuse for non-medical purposes",
-        "Prescribed use",
-        "Avoiding drugs",
-        "Proper use"
+        "All Nigerians",
+        "Graduates under 30 years of age",
+        "Only men",
+        "Only Southerners"
       ],
-      "correct_index": 0,
-      "explanation": "Drug abuse misuse.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "NYSC is compulsory for Nigerian graduates under 30 years of age.",
+      "difficulty": 2
     },
     {
       "id": "cve_186",
-      "text": "What does the acronym FRSC stand for in Nigeria? (variant 186)",
+      "text": "The Supreme Court has how many justices?",
       "options": [
-        "Only road",
-        "Only safety",
-        "Federal Road Safety Corps",
-        "No meaning"
+        "Seven",
+        "Eleven",
+        "Fifteen",
+        "Twenty-one"
       ],
-      "correct_index": 2,
-      "explanation": "FRSC Federal Road Safety Corps.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Supreme Court has a maximum of eleven justices.",
+      "difficulty": 3
     },
     {
       "id": "cve_187",
-      "text": "What does a red traffic light signal indicate? (variant 187)",
+      "text": "The Nigerian Bar Association (NBA) is an association of:",
       "options": [
-        "Park",
-        "Stop",
-        "Go",
-        "Get ready"
+        "Doctors",
+        "Lawyers and legal practitioners",
+        "Engineers",
+        "Teachers"
       ],
       "correct_index": 1,
-      "explanation": "Red stop.",
-      "difficulty": 1
+      "explanation": "The NBA is the professional body for lawyers in Nigeria.",
+      "difficulty": 2
     },
     {
       "id": "cve_188",
-      "text": "Democracy is government of the people, by the people and: (variant 188)",
+      "text": "The Nigeria Labour Congress (NLC) represents:",
       "options": [
-        "For the people",
-        "For army",
-        "For rich",
-        "For foreigners"
+        "Employers",
+        "Workers and trade unions",
+        "Farmers only",
+        "Students only"
       ],
-      "correct_index": 0,
-      "explanation": "For the people.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The NLC is the umbrella body for trade unions in Nigeria.",
+      "difficulty": 2
     },
     {
       "id": "cve_189",
-      "text": "What does political apathy mean? (variant 189)",
+      "text": "Which of these is an indicator of a good democracy?",
       "options": [
-        "Active participation",
-        "Voting always",
-        "Joining parties",
-        "Lack of interest in politics"
+        "One-party state",
+        "Free press, free elections and rule of law",
+        "No constitution",
+        "Military rule"
       ],
-      "correct_index": 3,
-      "explanation": "Apathy lack interest.",
+      "correct_index": 1,
+      "explanation": "A good democracy features free press, elections and adherence to rule of law.",
       "difficulty": 1
     },
     {
       "id": "cve_190",
-      "text": "What does the acronym INEC stand for in Nigeria? (variant 190)",
+      "text": "The concept of good governance includes:",
       "options": [
-        "International Network",
-        "No meaning",
-        "Independent National Electoral Commission",
-        "Internal Council"
+        "Corruption and nepotism",
+        "Transparency, accountability and participation",
+        "Authoritarianism",
+        "Secrecy"
       ],
-      "correct_index": 2,
-      "explanation": "INEC Independent National Electoral Commission.",
+      "correct_index": 1,
+      "explanation": "Good governance is transparent, accountable and participatory.",
       "difficulty": 1
     },
     {
       "id": "cve_191",
-      "text": "Which quality should a good leader possess? (variant 191)",
+      "text": "Environmental pollution can be reduced by:",
       "options": [
-        "Dictatorial",
-        "Honest and accountable",
-        "Corrupt",
-        "Selfish"
+        "Dumping waste in rivers",
+        "Proper waste disposal and recycling",
+        "Burning tyres",
+        "Using excessive chemicals"
       ],
       "correct_index": 1,
-      "explanation": "Honest accountable.",
+      "explanation": "Proper waste disposal and recycling reduce environmental pollution.",
       "difficulty": 1
     },
     {
       "id": "cve_192",
-      "text": "What was the primary purpose of establishing the NYSC? (variant 192)",
+      "text": "The right to life under the Nigerian Constitution can be taken away by:",
       "options": [
-        "National unity",
-        "Tribalism",
-        "Disunity",
-        "War"
+        "Any government official",
+        "Only through lawful execution of a court sentence",
+        "The police commander",
+        "No one at all"
       ],
-      "correct_index": 0,
-      "explanation": "NYSC unity.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Section 33(1) allows deprivation of life only in execution of a court sentence.",
+      "difficulty": 3
     },
     {
       "id": "cve_193",
-      "text": "The Nigerian constitution guarantees: (variant 193)",
+      "text": "The federal character principle promotes:",
       "options": [
-        "Right to steal",
-        "Right to kill",
-        "Right to cheat",
-        "Fundamental human rights"
+        "Tribalism",
+        "Equitable distribution of government positions",
+        "Corruption",
+        "One-party rule"
       ],
-      "correct_index": 3,
-      "explanation": "Guarantees human rights.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Federal character ensures fair representation from all states.",
+      "difficulty": 2
     },
     {
       "id": "cve_194",
-      "text": "What does the EFCC fight against in Nigeria? (variant 194)",
+      "text": "Political thuggery is a menace to democracy because it:",
       "options": [
-        "Drug",
-        "No corruption",
-        "Corruption",
-        "Road safety"
+        "Strengthens elections",
+        "Undermines free and fair elections",
+        "Promotes unity",
+        "Encourages voting"
       ],
-      "correct_index": 2,
-      "explanation": "EFCC corruption.",
+      "correct_index": 1,
+      "explanation": "Political thuggery disrupts elections and threatens democratic processes.",
       "difficulty": 1
     },
     {
       "id": "cve_195",
-      "text": "Who designed the Nigerian national flag? (variant 195)",
+      "text": "Which of the following best describes The rule of law ensures that?",
       "options": [
-        "Bello",
-        "Taiwo Akinkunmi",
-        "Azikiwe",
-        "Awolowo"
+        "No one is above the law",
+        "Leaders are exempt from prosecution",
+        "Law applies only to the poor",
+        "Arbitrary power is allowed"
       ],
-      "correct_index": 1,
-      "explanation": "Akinkunmi.",
+      "correct_index": 0,
+      "explanation": "Rule of law guarantees that nobody is above the law.",
       "difficulty": 1
     },
     {
       "id": "cve_196",
-      "text": "In what year was the Nigerian national anthem adopted? (variant 196)",
+      "text": "Communal conflict in Nigeria can be reduced by:",
       "options": [
-        "1978",
-        "1960",
-        "1999",
-        "2005"
+        "Arming citizens",
+        "Dialogue, tolerance and conflict resolution mechanisms",
+        "Encouraging hatred",
+        "Ignoring disputes"
       ],
-      "correct_index": 0,
-      "explanation": "Anthem 1978.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Dialogue and conflict resolution help reduce communal clashes.",
+      "difficulty": 1
     },
     {
       "id": "cve_197",
-      "text": "How many members does the Nigerian Senate have? (variant 197)",
+      "text": "Which of these is an effect of good governance?",
       "options": [
-        "360",
-        "100",
-        "50",
-        "109 members"
+        "Poverty",
+        "Economic development and improved living standards",
+        "Corruption",
+        "Unemployment"
       ],
-      "correct_index": 3,
-      "explanation": "Senate 109.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Good governance leads to development and improved welfare.",
+      "difficulty": 1
     },
     {
       "id": "cve_198",
-      "text": "How many members does the Nigerian House of Representatives have? (variant 198)",
+      "text": "The Independent National Electoral Commission (INEC) is funded by:",
       "options": [
-        "100",
-        "50",
-        "360 members",
-        "109"
+        "Political parties",
+        "The federal government",
+        "International donors only",
+        "Citizens' donations"
       ],
-      "correct_index": 2,
-      "explanation": "House 360.",
+      "correct_index": 1,
+      "explanation": "INEC is primarily funded by the federal government.",
       "difficulty": 2
     },
     {
       "id": "cve_199",
-      "text": "The press is called fourth estate because it: (variant 199)",
+      "text": "Inflation in Nigeria can be curbed through:",
       "options": [
-        "Fights wars",
-        "Informs and checks government",
-        "Makes laws",
-        "Executes laws"
+        "Printing more money",
+        "Prudent fiscal and monetary policies",
+        "Increasing imports",
+        "Reducing taxes only"
       ],
       "correct_index": 1,
-      "explanation": "Press informs checks.",
+      "explanation": "Prudent fiscal and monetary policies help control inflation.",
       "difficulty": 2
     },
     {
       "id": "cve_200",
-      "text": "What does patriotism mean? (variant 200)",
+      "text": "Mass poverty in Nigeria can be reduced by:",
       "options": [
-        "Love for country",
-        "Hatred",
-        "Betrayal",
-        "Indifference"
+        "Embezzlement",
+        "Youth empowerment, job creation and anti-corruption measures",
+        "Ignoring education",
+        "Increasing debt"
       ],
-      "correct_index": 0,
-      "explanation": "Love for country.",
+      "correct_index": 1,
+      "explanation": "Youth empowerment, job creation and anti-corruption reduce poverty.",
       "difficulty": 1
     }
   ]

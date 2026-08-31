@@ -13,2595 +13,2595 @@
         "Art and science of crop and animal production"
       ],
       "correct_index": 3,
-      "explanation": "Agriculture art science crop animal.",
+      "explanation": "Agriculture encompasses crop production, animal husbandry, and related activities.",
       "difficulty": 1
     },
     {
       "id": "agr_002",
-      "text": "What branch of agriculture does agronomy deal with?",
+      "text": "What branch of agriculture deals with crop production?",
       "options": [
         "Forestry",
+        "Agronomy",
         "Fishery",
-        "Crop production",
-        "Animal"
+        "Animal husbandry"
       ],
-      "correct_index": 2,
-      "explanation": "Agronomy crop.",
+      "correct_index": 1,
+      "explanation": "Agronomy is the science and technology of crop production.",
       "difficulty": 1
     },
     {
       "id": "agr_003",
-      "text": "What is the definition of soil texture?",
+      "text": "Soil texture refers to the proportion of which particles in the soil?",
       "options": [
-        "Taste only",
-        "Proportion of sand silt clay",
-        "Colour only",
-        "Smell only"
+        "Rocks and pebbles",
+        "Sand, silt, and clay",
+        "Organic matter only",
+        "Water and air"
       ],
       "correct_index": 1,
-      "explanation": "Texture proportion.",
+      "explanation": "Soil texture is determined by the relative proportions of sand, silt, and clay.",
       "difficulty": 1
     },
     {
       "id": "agr_004",
-      "text": "How is loamy soil classified for agricultural use?",
+      "text": "Which soil type is best suited for most agricultural activities?",
       "options": [
-        "Best for agriculture",
-        "Worst",
-        "No use",
-        "Only building"
+        "Sandy soil",
+        "Loamy soil",
+        "Clay soil",
+        "Gravelly soil"
       ],
-      "correct_index": 0,
-      "explanation": "Loamy best.",
+      "correct_index": 1,
+      "explanation": "Loamy soil has a balanced mixture of sand, silt, and clay, making it ideal for farming.",
       "difficulty": 1
     },
     {
       "id": "agr_005",
-      "text": "What does fertilizer provide to crops?",
+      "text": "What do fertilizers primarily provide to crops?",
       "options": [
         "Water only",
         "Air only",
-        "Nothing",
-        "Nutrients"
+        "Plant nutrients",
+        "Pesticides"
       ],
-      "correct_index": 3,
-      "explanation": "Fertilizer nutrients.",
+      "correct_index": 2,
+      "explanation": "Fertilizers supply essential nutrients like N, P, and K to the soil for crop growth.",
       "difficulty": 1
     },
     {
       "id": "agr_006",
-      "text": "What is the botanical name of maize?",
+      "text": "What is the botanical name for maize?",
       "options": [
         "Manihot esculenta",
-        "Dioscorea",
+        "Oryza sativa",
         "Zea mays",
-        "Oryza sativa"
+        "Triticum aestivum"
       ],
       "correct_index": 2,
-      "explanation": "Zea mays maize.",
-      "difficulty": 2
+      "explanation": "Zea mays is the scientific name for maize (corn).",
+      "difficulty": 3
     },
     {
       "id": "agr_007",
-      "text": "What part of the cassava plant is used as planting material?",
+      "text": "Cassava is primarily propagated through which method?",
       "options": [
-        "Leaf",
-        "Stem cutting",
         "Seed",
-        "Root"
+        "Stem cutting",
+        "Root division",
+        "Leaf budding"
       ],
       "correct_index": 1,
-      "explanation": "Cassava stem cutting.",
+      "explanation": "Cassava is vegetatively propagated using stem cuttings.",
       "difficulty": 1
     },
     {
       "id": "agr_008",
-      "text": "Which of the following is an example of a ruminant animal?",
+      "text": "Which of the following is a ruminant animal?",
       "options": [
-        "Cattle",
-        "Poultry",
         "Pig",
+        "Goat",
+        "Poultry",
         "Rabbit"
       ],
-      "correct_index": 0,
-      "explanation": "Cattle ruminant.",
+      "correct_index": 1,
+      "explanation": "Goats are ruminants with a four-chambered stomach for digesting cellulose.",
       "difficulty": 1
     },
     {
       "id": "agr_009",
       "text": "How many days does incubation last for chicken eggs?",
       "options": [
-        "10 days",
-        "30 days",
-        "40 days",
-        "21 days"
+        "14 days",
+        "21 days",
+        "28 days",
+        "35 days"
       ],
-      "correct_index": 3,
-      "explanation": "Chicken 21 days.",
+      "correct_index": 1,
+      "explanation": "Chicken eggs require approximately 21 days of incubation to hatch.",
       "difficulty": 1
     },
     {
       "id": "agr_010",
-      "text": "How many days does gestation last in cattle?",
+      "text": "What is the gestation period of cattle approximately?",
       "options": [
-        "30 days",
-        "21 days",
+        "90 days",
+        "150 days",
         "283 days",
-        "150 days"
+        "365 days"
       ],
       "correct_index": 2,
-      "explanation": "Cattle 283 days.",
-      "difficulty": 2
+      "explanation": "The gestation period of cattle is approximately 283 days (about 9 months).",
+      "difficulty": 3
     },
     {
       "id": "agr_011",
-      "text": "What does demand mean in agricultural economics?",
+      "text": "In agricultural economics, demand is defined as willingness backed by what?",
       "options": [
-        "No willingness",
-        "Willingness and ability to buy",
-        "Only willingness",
-        "Only ability"
+        "Supply",
+        "Ability to pay",
+        "Government approval",
+        "Land ownership"
       ],
       "correct_index": 1,
-      "explanation": "Demand willingness ability.",
+      "explanation": "Effective demand requires both the desire to buy and the ability to pay.",
       "difficulty": 1
     },
     {
       "id": "agr_012",
-      "text": "What substances are required for photosynthesis in plants?",
+      "text": "What are the three raw materials required for photosynthesis?",
       "options": [
-        "CO2 water sunlight",
-        "Only water",
-        "Only CO2",
-        "Only oxygen"
+        "Carbon dioxide, water, and sunlight",
+        "Oxygen, water, and nitrogen",
+        "Carbon dioxide, oxygen, and minerals",
+        "Sunlight, oxygen, and glucose"
       ],
       "correct_index": 0,
-      "explanation": "Photosynthesis CO2 water sunlight.",
+      "explanation": "Photosynthesis requires CO2, water, and light energy to produce glucose.",
       "difficulty": 1
     },
     {
       "id": "agr_013",
-      "text": "In which type of area is irrigation most necessary for farming?",
+      "text": "In which type of area is irrigation most essential for farming?",
       "options": [
-        "Rainy only",
-        "No areas",
-        "All always",
-        "Dry areas"
+        "Rainforest zones",
+        "Derived savanna",
+        "Arid and semi-arid regions",
+        "Highland areas"
       ],
-      "correct_index": 3,
-      "explanation": "Irrigation dry areas.",
+      "correct_index": 2,
+      "explanation": "Irrigation is crucial in areas with low and unreliable rainfall.",
       "difficulty": 1
     },
     {
       "id": "agr_014",
       "text": "Why is weeding important in crop production?",
       "options": [
-        "No importance",
-        "Kills crops",
-        "Reduces competition",
-        "Increases"
+        "It adds nutrients to the soil",
+        "It reduces competition for nutrients, water, and light",
+        "It attracts beneficial insects",
+        "It improves soil pH"
       ],
-      "correct_index": 2,
-      "explanation": "Weeding reduces competition.",
+      "correct_index": 1,
+      "explanation": "Weeds compete with crops for resources, so removing them improves crop yield.",
       "difficulty": 1
     },
     {
       "id": "agr_015",
-      "text": "What is the definition of a silo used for on a farm?",
+      "text": "A silo on a farm is primarily used for what purpose?",
       "options": [
-        "School",
-        "Grain storage",
-        "Car",
-        "House"
+        "Housing animals",
+        "Storing grains and silage",
+        "Processing crops",
+        "Irrigation control"
       ],
       "correct_index": 1,
-      "explanation": "Silo grain storage.",
+      "explanation": "Silos are structures used to store bulk materials like grain and fermented feed.",
       "difficulty": 1
     },
     {
       "id": "agr_016",
-      "text": "What type of activities does IITA conduct?",
+      "text": "What is the primary mandate of IITA in Nigeria?",
       "options": [
+        "Banking and finance",
         "Agricultural research",
-        "No research",
-        "Only oil",
-        "Only gas"
+        "Road construction",
+        "Oil exploration"
       ],
-      "correct_index": 0,
-      "explanation": "IITA research.",
+      "correct_index": 1,
+      "explanation": "IITA (International Institute of Tropical Agriculture) conducts agricultural research.",
       "difficulty": 2
     },
     {
       "id": "agr_017",
-      "text": "What does land tenure mean in agriculture?",
+      "text": "What does land tenure system refer to in agriculture?",
       "options": [
-        "No ownership",
-        "Only renting",
-        "Only buying",
-        "System of land ownership"
+        "Land preparation method",
+        "Mode of land ownership and control",
+        "Type of crops grown",
+        "Land irrigation technique"
       ],
-      "correct_index": 3,
-      "explanation": "Land tenure ownership.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Land tenure describes how land is owned, used, and transferred.",
+      "difficulty": 3
     },
     {
       "id": "agr_018",
-      "text": "Which environmental condition does millet tolerate well?",
+      "text": "Millet is well adapted to which environmental condition?",
       "options": [
-        "Only flood",
-        "Only high rain",
-        "Drought",
-        "No drought"
+        "Waterlogged areas",
+        "High rainfall zones",
+        "Dry, arid conditions",
+        "Cold temperate regions"
       ],
       "correct_index": 2,
-      "explanation": "Millet drought.",
-      "difficulty": 2
+      "explanation": "Millet is drought-tolerant and thrives in semi-arid and dry conditions.",
+      "difficulty": 3
     },
     {
       "id": "agr_019",
-      "text": "What is the definition of a young cattle called?",
+      "text": "What is the correct term used for a young cattle in animal husbandry?",
       "options": [
-        "Piglet",
+        "Lamb",
         "Calf",
         "Kid",
-        "Lamb"
+        "Foal"
       ],
       "correct_index": 1,
-      "explanation": "Calf.",
+      "explanation": "A young cattle (bovine) is called a calf.",
       "difficulty": 1
     },
     {
       "id": "agr_020",
-      "text": "What is the definition of pruning in crop production?",
+      "text": "Pruning in crop production involves what activity?",
       "options": [
-        "Cutting unwanted branches",
-        "Planting",
-        "Harvesting",
-        "Weeding"
+        "Uprooting plants",
+        "Cutting unwanted branches or shoots",
+        "Planting seeds",
+        "Applying fertilizer"
       ],
-      "correct_index": 0,
-      "explanation": "Pruning cutting branches.",
+      "correct_index": 1,
+      "explanation": "Pruning is the selective removal of branches to improve plant health and yield.",
       "difficulty": 1
     },
     {
       "id": "agr_021",
-      "text": "What is the definition of agriculture? (variant 21?",
+      "text": "Which of the following is a cereal crop?",
       "options": [
-        "Only trading",
-        "Only fishing",
-        "Only hunting",
-        "Art and science of crop and animal production"
+        "Cowpea",
+        "Sorghum",
+        "Cassava",
+        "Yam"
       ],
-      "correct_index": 3,
-      "explanation": "Agriculture art science crop animal.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Sorghum is a cereal grain crop widely grown in semi-arid Africa.",
+      "difficulty": 3
     },
     {
       "id": "agr_022",
-      "text": "What branch of agriculture does agronomy deal with? (variant 22)",
+      "text": "What is the main purpose of mulching in agriculture?",
       "options": [
-        "Forestry",
-        "Fishery",
-        "Crop production",
-        "Animal"
+        "To increase pest population",
+        "To conserve soil moisture and suppress weeds",
+        "To make the soil acidic",
+        "To attract birds"
       ],
-      "correct_index": 2,
-      "explanation": "Agronomy crop.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Mulching helps retain soil moisture, regulate temperature, and suppress weed growth.",
+      "difficulty": 2
     },
     {
       "id": "agr_023",
-      "text": "What is the definition of soil texture? (variant 23?",
+      "text": "Which nutrient is primarily responsible for vegetative growth in plants?",
       "options": [
-        "Taste only",
-        "Proportion of sand silt clay",
-        "Colour only",
-        "Smell only"
+        "Phosphorus",
+        "Potassium",
+        "Nitrogen",
+        "Calcium"
       ],
-      "correct_index": 1,
-      "explanation": "Texture proportion.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Nitrogen is essential for leaf and stem development (vegetative growth).",
+      "difficulty": 3
     },
     {
       "id": "agr_024",
-      "text": "How is loamy soil classified for agricultural use? (variant 24)",
+      "text": "What is the botanical name of cassava?",
       "options": [
-        "Best for agriculture",
-        "Worst",
-        "No use",
-        "Only building"
+        "Dioscorea rotundata",
+        "Manihot esculenta",
+        "Ipomoea batatas",
+        "Colocasia esculenta"
       ],
-      "correct_index": 0,
-      "explanation": "Loamy best.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Manihot esculenta is the scientific name for cassava.",
+      "difficulty": 3
     },
     {
       "id": "agr_025",
-      "text": "What does fertilizer provide to crops? (variant 25)",
+      "text": "Which of the following is a leguminous crop?",
       "options": [
-        "Water only",
-        "Air only",
-        "Nothing",
-        "Nutrients"
+        "Maize",
+        "Groundnut",
+        "Rice",
+        "Millet"
       ],
-      "correct_index": 3,
-      "explanation": "Fertilizer nutrients.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Groundnut is a legume that fixes atmospheric nitrogen in the soil.",
+      "difficulty": 3
     },
     {
       "id": "agr_026",
-      "text": "What is the botanical name of maize? (variant 26)",
+      "text": "Soil erosion can be best controlled by which method?",
       "options": [
-        "Manihot esculenta",
-        "Dioscorea",
-        "Zea mays",
-        "Oryza sativa"
+        "Overgrazing",
+        "Deforestation",
+        "Terracing and cover cropping",
+        "Monoculture"
       ],
       "correct_index": 2,
-      "explanation": "Zea mays maize.",
-      "difficulty": 2
+      "explanation": "Terracing and cover crops reduce the speed of water runoff and prevent soil loss.",
+      "difficulty": 3
     },
     {
       "id": "agr_027",
-      "text": "What part of the cassava plant is used as planting material? (variant 27)",
+      "text": "What is the pH range of a strongly acidic soil?",
       "options": [
-        "Leaf",
-        "Stem cutting",
-        "Seed",
-        "Root"
+        "6.5 to 7.5",
+        "4.5 to 5.5",
+        "7.0 to 8.0",
+        "8.0 to 9.0"
       ],
       "correct_index": 1,
-      "explanation": "Cassava stem cutting.",
-      "difficulty": 1
+      "explanation": "Strongly acidic soils have a pH below 5.5, often between 4.5 and 5.5.",
+      "difficulty": 3
     },
     {
       "id": "agr_028",
-      "text": "Which of the following is an example of a ruminant animal? (variant 28)",
+      "text": "Poultry birds are classified as which type of feeders?",
       "options": [
-        "Cattle",
-        "Poultry",
-        "Pig",
-        "Rabbit"
+        "Ruminants",
+        "Non-ruminants",
+        "Herbivores only",
+        "Aquatic feeders"
       ],
-      "correct_index": 0,
-      "explanation": "Cattle ruminant.",
-      "difficulty": 1
-    },
-    {
-      "id": "agr_029",
-      "text": "How many days does incubation last for chicken eggs? (variant 29)",
-      "options": [
-        "10 days",
-        "30 days",
-        "40 days",
-        "21 days"
-      ],
-      "correct_index": 3,
-      "explanation": "Chicken 21 days.",
-      "difficulty": 1
-    },
-    {
-      "id": "agr_030",
-      "text": "How many days does gestation last in cattle? (variant 30)",
-      "options": [
-        "30 days",
-        "21 days",
-        "283 days",
-        "150 days"
-      ],
-      "correct_index": 2,
-      "explanation": "Cattle 283 days.",
+      "correct_index": 1,
+      "explanation": "Poultry are monogastric non-ruminant animals with a simple stomach.",
       "difficulty": 2
     },
     {
-      "id": "agr_031",
-      "text": "What does demand mean in agricultural economics? (variant 31)",
+      "id": "agr_029",
+      "text": "What is the gestation period of a pig approximately?",
       "options": [
-        "No willingness",
-        "Willingness and ability to buy",
-        "Only willingness",
-        "Only ability"
+        "114 days",
+        "283 days",
+        "150 days",
+        "210 days"
+      ],
+      "correct_index": 0,
+      "explanation": "The gestation period of a pig is approximately 114 days (3 months, 3 weeks, 3 days).",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_030",
+      "text": "Which of the following is a method of artificial insemination in livestock?",
+      "options": [
+        "Natural mating",
+        "Use of collected semen deposited into the female reproductive tract",
+        "Embryo transfer only",
+        "Crossbreeding only"
       ],
       "correct_index": 1,
-      "explanation": "Demand willingness ability.",
+      "explanation": "Artificial insemination involves introducing semen into the female's reproductive tract.",
+      "difficulty": 3
+    },
+    {
+      "id": "agr_031",
+      "text": "What is the main product obtained from fish farming?",
+      "options": [
+        "Wool",
+        "Fish protein for human consumption",
+        "Leather",
+        "Milk"
+      ],
+      "correct_index": 1,
+      "explanation": "Fish farming (aquaculture) primarily produces fish for food.",
       "difficulty": 1
     },
     {
       "id": "agr_032",
-      "text": "What substances are required for photosynthesis in plants? (variant 32)",
+      "text": "Which agricultural agency is responsible for extension services in Nigeria?",
       "options": [
-        "CO2 water sunlight",
-        "Only water",
-        "Only CO2",
-        "Only oxygen"
+        "CBN",
+        "ADP (Agricultural Development Programme)",
+        "NEPC",
+        "NNPC"
       ],
-      "correct_index": 0,
-      "explanation": "Photosynthesis CO2 water sunlight.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "ADPs were established to provide agricultural extension services to farmers.",
+      "difficulty": 2
     },
     {
       "id": "agr_033",
-      "text": "In which type of area is irrigation most necessary for farming? (variant 33)",
+      "text": "What does the term 'crop rotation' mean?",
       "options": [
-        "Rainy only",
-        "No areas",
-        "All always",
-        "Dry areas"
+        "Planting the same crop repeatedly",
+        "Growing different crops in sequence on the same land",
+        "Planting crops in circles",
+        "Harvesting crops at the same time"
       ],
-      "correct_index": 3,
-      "explanation": "Irrigation dry areas.",
+      "correct_index": 1,
+      "explanation": "Crop rotation involves growing different crops in planned succession on the same plot.",
       "difficulty": 1
     },
     {
       "id": "agr_034",
-      "text": "Why is weeding important in crop production? (variant 34)",
+      "text": "Which of the following is a tuber crop?",
       "options": [
-        "No importance",
-        "Kills crops",
-        "Reduces competition",
-        "Increases"
+        "Rice",
+        "Cocoyam",
+        "Sorghum",
+        "Soybean"
       ],
-      "correct_index": 2,
-      "explanation": "Weeding reduces competition.",
+      "correct_index": 1,
+      "explanation": "Cocoyam is a tuber crop grown for its starchy underground corm.",
       "difficulty": 1
     },
     {
       "id": "agr_035",
-      "text": "What is a silo used for on a farm? (variant 35)",
+      "text": "What is the main function of phosphorus in plant nutrition?",
       "options": [
-        "School",
-        "Grain storage",
-        "Car",
-        "House"
+        "Promotes leaf growth",
+        "Promotes root development and fruiting",
+        "Increases water absorption",
+        "Prevents insect attack"
       ],
       "correct_index": 1,
-      "explanation": "Silo grain storage.",
-      "difficulty": 1
+      "explanation": "Phosphorus is vital for root growth, flowering, and fruit/seed development.",
+      "difficulty": 3
     },
     {
       "id": "agr_036",
-      "text": "What type of activities does IITA conduct? (variant 36)",
+      "text": "Which of the following is a common disease of poultry?",
       "options": [
-        "Agricultural research",
-        "No research",
-        "Only oil",
-        "Only gas"
+        "Foot-and-mouth disease",
+        "Newcastle disease",
+        "Anthrax",
+        "Rinderpest"
       ],
-      "correct_index": 0,
-      "explanation": "IITA research.",
+      "correct_index": 1,
+      "explanation": "Newcastle disease is a highly contagious viral disease affecting poultry.",
       "difficulty": 2
     },
     {
       "id": "agr_037",
-      "text": "What does land tenure mean in agriculture? (variant 37)",
+      "text": "What is the full meaning of NAFDAC in the context of agricultural inputs?",
       "options": [
-        "No ownership",
-        "Only renting",
-        "Only buying",
-        "System of land ownership"
+        "National Agency for Food and Drug Administration and Control",
+        "National Foundation for Agricultural Development",
+        "Nigerian Association of Farmers",
+        "National Agricultural Finance Corporation"
       ],
-      "correct_index": 3,
-      "explanation": "Land tenure ownership.",
-      "difficulty": 1
-    },
-    {
-      "id": "agr_038",
-      "text": "Which environmental condition does millet tolerate well? (variant 38)",
-      "options": [
-        "Only flood",
-        "Only high rain",
-        "Drought",
-        "No drought"
-      ],
-      "correct_index": 2,
-      "explanation": "Millet drought.",
+      "correct_index": 0,
+      "explanation": "NAFDAC regulates the quality of food, drugs, and agricultural chemicals.",
       "difficulty": 2
     },
     {
-      "id": "agr_039",
-      "text": "What is a young cattle called? (variant 39)",
+      "id": "agr_038",
+      "text": "Which tillage method involves minimal soil disturbance?",
       "options": [
-        "Piglet",
-        "Calf",
-        "Kid",
-        "Lamb"
+        "Conventional tillage",
+        "No-till or zero tillage",
+        "Ploughing only",
+        "Harrowing"
       ],
       "correct_index": 1,
-      "explanation": "Calf.",
-      "difficulty": 1
+      "explanation": "Zero tillage or no-till farming leaves the soil undisturbed between planting seasons.",
+      "difficulty": 3
+    },
+    {
+      "id": "agr_039",
+      "text": "What is the main advantage of using an organic fertilizer?",
+      "options": [
+        "It acts immediately",
+        "It improves soil structure and microbial activity",
+        "It is always cheaper",
+        "It has no side effects"
+      ],
+      "correct_index": 1,
+      "explanation": "Organic fertilizers improve soil structure, water retention, and biological activity.",
+      "difficulty": 2
     },
     {
       "id": "agr_040",
-      "text": "What is pruning in crop production? (variant 40)",
+      "text": "Which of the following is an example of a browse plant for livestock?",
       "options": [
-        "Cutting unwanted branches",
-        "Planting",
-        "Harvesting",
-        "Weeding"
+        "Maize",
+        "Leucaena leucocephala",
+        "Cassava",
+        "Rice"
       ],
-      "correct_index": 0,
-      "explanation": "Pruning cutting branches.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Leucaena is a leguminous browse plant used as animal fodder.",
+      "difficulty": 3
     },
     {
       "id": "agr_041",
-      "text": "What is the definition of agriculture? (variant 41?",
+      "text": "What is the value or meaning of 'agricultural extension' in mathematics?",
       "options": [
-        "Only trading",
-        "Only fishing",
-        "Only hunting",
-        "Art and science of crop and animal production"
+        "Expanding farmland size",
+        "Educating farmers on improved farming techniques",
+        "Building more farm roads",
+        "Increasing fertilizer imports"
       ],
-      "correct_index": 3,
-      "explanation": "Agriculture art science crop animal.",
+      "correct_index": 1,
+      "explanation": "Agricultural extension is the application of scientific research to educate farmers.",
       "difficulty": 1
     },
     {
       "id": "agr_042",
-      "text": "What branch of agriculture does agronomy deal with? (variant 42)",
+      "text": "Which tool is used for breaking up hard soil surface?",
       "options": [
-        "Forestry",
-        "Fishery",
-        "Crop production",
-        "Animal"
+        "Rake",
+        "Pickaxe",
+        "Shovel",
+        "Wheelbarrow"
       ],
-      "correct_index": 2,
-      "explanation": "Agronomy crop.",
+      "correct_index": 1,
+      "explanation": "A pickaxe is used to break hard or compacted soil surfaces.",
       "difficulty": 1
     },
     {
       "id": "agr_043",
-      "text": "What is the definition of soil texture? (variant 43?",
+      "text": "What is the process of converting farm produce into finished goods called?",
       "options": [
-        "Taste only",
-        "Proportion of sand silt clay",
-        "Colour only",
-        "Smell only"
+        "Marketing",
+        "Agro-processing",
+        "Storage",
+        "Transportation"
       ],
       "correct_index": 1,
-      "explanation": "Texture proportion.",
-      "difficulty": 1
+      "explanation": "Agro-processing involves converting raw agricultural products into marketable goods.",
+      "difficulty": 3
     },
     {
       "id": "agr_044",
-      "text": "How is loamy soil classified for agricultural use? (variant 44)",
+      "text": "Which of the following is a direct pest of stored grain?",
       "options": [
-        "Best for agriculture",
-        "Worst",
-        "No use",
-        "Only building"
+        "Earthworm",
+        "Weevil",
+        "Toad",
+        "Snake"
       ],
-      "correct_index": 0,
-      "explanation": "Loamy best.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Grain weevils are major pests that damage stored grains and legumes.",
+      "difficulty": 3
     },
     {
       "id": "agr_045",
-      "text": "What does fertilizer provide to crops? (variant 45)",
+      "text": "What is the meaning of 'yield' in crop production?",
       "options": [
-        "Water only",
-        "Air only",
-        "Nothing",
-        "Nutrients"
+        "Total area of farmland",
+        "Amount of produce harvested per unit area",
+        "Number of workers on the farm",
+        "Cost of production"
       ],
-      "correct_index": 3,
-      "explanation": "Fertilizer nutrients.",
+      "correct_index": 1,
+      "explanation": "Yield refers to the quantity of crop produced per unit area of land.",
       "difficulty": 1
     },
     {
       "id": "agr_046",
-      "text": "What is the botanical name of maize? (variant 46)",
+      "text": "Which of the following is a function of cooperatives in agriculture?",
       "options": [
-        "Manihot esculenta",
-        "Dioscorea",
-        "Zea mays",
-        "Oryza sativa"
+        "Increasing individual farm sizes",
+        "Marketing and processing farm produce collectively",
+        "Replacing government agricultural policy",
+        "Reducing the number of farmers"
       ],
-      "correct_index": 2,
-      "explanation": "Zea mays maize.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Agricultural cooperatives help farmers market, process, and sell produce collectively.",
+      "difficulty": 3
     },
     {
       "id": "agr_047",
-      "text": "What part of the cassava plant is used as planting material? (variant 47)",
+      "text": "What is the meaning of \"the botanical name of rice\"?",
       "options": [
-        "Leaf",
-        "Stem cutting",
-        "Seed",
-        "Root"
+        "Triticum aestivum",
+        "Oryza sativa",
+        "Hordeum vulgare",
+        "Avena sativa"
       ],
       "correct_index": 1,
-      "explanation": "Cassava stem cutting.",
-      "difficulty": 1
+      "explanation": "Oryza sativa is the scientific name for Asian rice.",
+      "difficulty": 3
     },
     {
       "id": "agr_048",
-      "text": "Which of the following is an example of a ruminant animal? (variant 48)",
+      "text": "Which of the following best describes 'arable farming'?",
       "options": [
-        "Cattle",
-        "Poultry",
-        "Pig",
-        "Rabbit"
+        "Farming on water bodies",
+        "Farming on cultivated land for crop production",
+        "Rearing of livestock only",
+        "Fishing activities"
       ],
-      "correct_index": 0,
-      "explanation": "Cattle ruminant.",
+      "correct_index": 1,
+      "explanation": "Arable farming involves cultivating land to grow crops.",
       "difficulty": 1
     },
     {
       "id": "agr_049",
-      "text": "How many days does incubation last for chicken eggs? (variant 49)",
+      "text": "What is the value or meaning of 'intercropping' in mathematics?",
       "options": [
-        "10 days",
-        "30 days",
-        "40 days",
-        "21 days"
+        "Planting one crop in a season",
+        "Growing two or more crops together in the same field",
+        "Harvesting crops at different times",
+        "Leaving land fallow"
       ],
-      "correct_index": 3,
-      "explanation": "Chicken 21 days.",
-      "difficulty": 1
-    },
-    {
-      "id": "agr_050",
-      "text": "How many days does gestation last in cattle? (variant 50)",
-      "options": [
-        "30 days",
-        "21 days",
-        "283 days",
-        "150 days"
-      ],
-      "correct_index": 2,
-      "explanation": "Cattle 283 days.",
+      "correct_index": 1,
+      "explanation": "Intercropping involves growing two or more crops simultaneously in the same field.",
       "difficulty": 2
     },
     {
-      "id": "agr_051",
-      "text": "What does demand mean in agricultural economics? (variant 51)",
+      "id": "agr_050",
+      "text": "Which of the following is a vegetable crop?",
       "options": [
-        "No willingness",
-        "Willingness and ability to buy",
-        "Only willingness",
-        "Only ability"
+        "Cocoa",
+        "Okra",
+        "Rubber",
+        "Palm oil"
       ],
       "correct_index": 1,
-      "explanation": "Demand willingness ability.",
+      "explanation": "Okra is a vegetable crop commonly grown in tropical and subtropical regions.",
+      "difficulty": 1
+    },
+    {
+      "id": "agr_051",
+      "text": "What is the term for the period when land is left uncultivated to regain fertility?",
+      "options": [
+        "Planting",
+        "Fallowing",
+        "Harvesting",
+        "Tilling"
+      ],
+      "correct_index": 1,
+      "explanation": "Fallowing is the practice of leaving land uncultivated to restore soil fertility.",
       "difficulty": 1
     },
     {
       "id": "agr_052",
-      "text": "What substances are required for photosynthesis in plants? (variant 52)",
+      "text": "Which of the following animals is classified as a monogastric herbivore?",
       "options": [
-        "CO2 water sunlight",
-        "Only water",
-        "Only CO2",
-        "Only oxygen"
+        "Cattle",
+        "Rabbit",
+        "Dog",
+        "Cat"
       ],
-      "correct_index": 0,
-      "explanation": "Photosynthesis CO2 water sunlight.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Rabbits are monogastric herbivores with a simple stomach but practice cecotrophy.",
+      "difficulty": 3
     },
     {
       "id": "agr_053",
-      "text": "In which type of area is irrigation most necessary for farming? (variant 53)",
+      "text": "What does 'pastoral farming' primarily involve?",
       "options": [
-        "Rainy only",
-        "No areas",
-        "All always",
-        "Dry areas"
+        "Growing cereals",
+        "Rearing livestock on grazing land",
+        "Fish farming",
+        "Poultry keeping"
       ],
-      "correct_index": 3,
-      "explanation": "Irrigation dry areas.",
+      "correct_index": 1,
+      "explanation": "Pastoral farming involves the rearing of livestock primarily on natural pasture.",
       "difficulty": 1
     },
     {
       "id": "agr_054",
-      "text": "Why is weeding important in crop production? (variant 54)",
+      "text": "Which of the following is a synthetic pesticide?",
       "options": [
-        "No importance",
-        "Kills crops",
-        "Reduces competition",
-        "Increases"
+        "Neem extract",
+        "DDT",
+        "Wood ash",
+        "Cow dung"
       ],
-      "correct_index": 2,
-      "explanation": "Weeding reduces competition.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "DDT is a synthetic chemical pesticide widely used before being banned in many countries.",
+      "difficulty": 2
     },
     {
       "id": "agr_055",
-      "text": "What is a silo used for on a farm? (variant 55)",
+      "text": "What is the primary reason for using a bullock plough?",
       "options": [
-        "School",
-        "Grain storage",
-        "Car",
-        "House"
+        "To water crops",
+        "To prepare land for planting",
+        "To harvest crops",
+        "To spray chemicals"
       ],
       "correct_index": 1,
-      "explanation": "Silo grain storage.",
+      "explanation": "A bullock plough is drawn by oxen to turn over the soil for planting.",
       "difficulty": 1
     },
     {
       "id": "agr_056",
-      "text": "What type of activities does IITA conduct? (variant 56)",
+      "text": "Which of the following is a characteristic of agricultural cooperatives?",
       "options": [
-        "Agricultural research",
-        "No research",
-        "Only oil",
-        "Only gas"
+        "Individual decision-making",
+        "Pool resources for collective benefit",
+        "Pay dividends to non-members",
+        "Operate without rules"
       ],
-      "correct_index": 0,
-      "explanation": "IITA research.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Cooperatives pool resources and make decisions for the collective benefit of members.",
+      "difficulty": 1
     },
     {
       "id": "agr_057",
-      "text": "What does land tenure mean in agriculture? (variant 57)",
+      "text": "What is the main cause of soil acidity in tropical regions?",
       "options": [
-        "No ownership",
-        "Only renting",
-        "Only buying",
-        "System of land ownership"
+        "Overgrazing",
+        "Heavy rainfall and leaching of basic cations",
+        "Deforestation",
+        "Application of organic matter"
       ],
-      "correct_index": 3,
-      "explanation": "Land tenure ownership.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Heavy tropical rainfall leaches basic cations, leaving the soil acidic.",
+      "difficulty": 3
     },
     {
       "id": "agr_058",
-      "text": "Which environmental condition does millet tolerate well? (variant 58)",
+      "text": "What is the meaning of 'germination' in crop production?",
       "options": [
-        "Only flood",
-        "Only high rain",
-        "Drought",
-        "No drought"
-      ],
-      "correct_index": 2,
-      "explanation": "Millet drought.",
-      "difficulty": 2
-    },
-    {
-      "id": "agr_059",
-      "text": "What is a young cattle called? (variant 59)",
-      "options": [
-        "Piglet",
-        "Calf",
-        "Kid",
-        "Lamb"
+        "Harvesting of crops",
+        "Development of a seed into a seedling",
+        "Application of fertilizer",
+        "Storage of produce"
       ],
       "correct_index": 1,
-      "explanation": "Calf.",
+      "explanation": "Germination is the process by which a seed develops into a new plant.",
       "difficulty": 1
     },
     {
-      "id": "agr_060",
-      "text": "What is pruning in crop production? (variant 60)",
+      "id": "agr_059",
+      "text": "Which of the following is a method of soil conservation?",
       "options": [
-        "Cutting unwanted branches",
-        "Planting",
-        "Harvesting",
-        "Weeding"
+        "Bush burning",
+        "Contour ploughing",
+        "Overgrazing",
+        "Deforestation"
       ],
-      "correct_index": 0,
-      "explanation": "Pruning cutting branches.",
+      "correct_index": 1,
+      "explanation": "Contour ploughing follows the natural curves of the land to reduce soil erosion.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_060",
+      "text": "What is the young of a sheep called?",
+      "options": [
+        "Calf",
+        "Kid",
+        "Lamb",
+        "Foal"
+      ],
+      "correct_index": 2,
+      "explanation": "A young sheep is called a lamb.",
       "difficulty": 1
     },
     {
       "id": "agr_061",
-      "text": "What is the definition of agriculture? (variant 61?",
+      "text": "Which of the following is a root crop?",
       "options": [
-        "Only trading",
-        "Only fishing",
-        "Only hunting",
-        "Art and science of crop and animal production"
+        "Bean",
+        "Carrot",
+        "Maize",
+        "Sorghum"
       ],
-      "correct_index": 3,
-      "explanation": "Agriculture art science crop animal.",
+      "correct_index": 1,
+      "explanation": "Carrot is a root crop grown for its edible taproot.",
       "difficulty": 1
     },
     {
       "id": "agr_062",
-      "text": "What branch of agriculture does agronomy deal with? (variant 62)",
+      "text": "What is the main function of potassium in plant nutrition?",
       "options": [
-        "Forestry",
-        "Fishery",
-        "Crop production",
-        "Animal"
+        "Root development",
+        "Regulates water balance and enzyme activation",
+        "Promotes flowering only",
+        "Provides structural support to stems"
       ],
-      "correct_index": 2,
-      "explanation": "Agronomy crop.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Potassium regulates water balance, enzyme activity, and disease resistance.",
+      "difficulty": 3
     },
     {
       "id": "agr_063",
-      "text": "What is the definition of soil texture? (variant 63?",
+      "text": "What is the primary purpose of thinning in crop production?",
       "options": [
-        "Taste only",
-        "Proportion of sand silt clay",
-        "Colour only",
-        "Smell only"
+        "To remove weeds",
+        "To space plants adequately for optimal growth",
+        "To add fertilizer",
+        "To irrigate the field"
       ],
       "correct_index": 1,
-      "explanation": "Texture proportion.",
-      "difficulty": 1
+      "explanation": "Thinning removes excess seedlings to give remaining plants adequate space.",
+      "difficulty": 2
     },
     {
       "id": "agr_064",
-      "text": "How is loamy soil classified for agricultural use? (variant 64)",
+      "text": "Which of the following is a method of preserving fish?",
       "options": [
-        "Best for agriculture",
-        "Worst",
-        "No use",
-        "Only building"
+        "Deep freezing",
+        "Feeding with chemicals",
+        "Keeping in sunlight",
+        "Placing in soil"
       ],
       "correct_index": 0,
-      "explanation": "Loamy best.",
+      "explanation": "Deep freezing is a common method of preserving fish to maintain freshness.",
       "difficulty": 1
     },
     {
       "id": "agr_065",
-      "text": "What does fertilizer provide to crops? (variant 65)",
+      "text": "What is 'pasture' in livestock production?",
       "options": [
-        "Water only",
-        "Air only",
-        "Nothing",
-        "Nutrients"
+        "An animal house",
+        "Land covered with grass for grazing animals",
+        "A feeding trough",
+        "A water source"
       ],
-      "correct_index": 3,
-      "explanation": "Fertilizer nutrients.",
+      "correct_index": 1,
+      "explanation": "Pasture is land covered with grass and herbs used for grazing livestock.",
       "difficulty": 1
     },
     {
       "id": "agr_066",
-      "text": "What is the botanical name of maize? (variant 66)",
+      "text": "Which of the following is a major insect pest of cassava?",
       "options": [
-        "Manihot esculenta",
-        "Dioscorea",
-        "Zea mays",
-        "Oryza sativa"
+        "Armyworm",
+        "Cassava mealybug",
+        "Fruit fly",
+        "Boll weevil"
       ],
-      "correct_index": 2,
-      "explanation": "Zea mays maize.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "The cassava mealybug is a serious pest that causes yield loss in cassava.",
+      "difficulty": 3
     },
     {
       "id": "agr_067",
-      "text": "What part of the cassava plant is used as planting material? (variant 67)",
+      "text": "What is the meaning of 'market gardening'?",
       "options": [
-        "Leaf",
-        "Stem cutting",
-        "Seed",
-        "Root"
+        "Growing crops for subsistence",
+        "Intensive cultivation of vegetables for sale",
+        "Large-scale grain farming",
+        "Livestock rearing on large farms"
       ],
       "correct_index": 1,
-      "explanation": "Cassava stem cutting.",
-      "difficulty": 1
+      "explanation": "Market gardening is the commercial growing of vegetables and fruits for local markets.",
+      "difficulty": 2
     },
     {
       "id": "agr_068",
-      "text": "Which of the following is an example of a ruminant animal? (variant 68)",
+      "text": "Which of the following is a characteristic of a good farm manager?",
       "options": [
-        "Cattle",
-        "Poultry",
-        "Pig",
-        "Rabbit"
+        "Ignoring market trends",
+        "Ability to plan and organize farm activities efficiently",
+        "Avoiding record keeping",
+        "Planting only one crop"
       ],
-      "correct_index": 0,
-      "explanation": "Cattle ruminant.",
+      "correct_index": 1,
+      "explanation": "Good farm management involves planning, organizing, and controlling farm resources.",
       "difficulty": 1
     },
     {
       "id": "agr_069",
-      "text": "How many days does incubation last for chicken eggs? (variant 69)",
+      "text": "What is the main product of piggery farming?",
       "options": [
-        "10 days",
-        "30 days",
-        "40 days",
-        "21 days"
+        "Wool",
+        "Pork and bacon",
+        "Milk",
+        "Eggs"
       ],
-      "correct_index": 3,
-      "explanation": "Chicken 21 days.",
+      "correct_index": 1,
+      "explanation": "Piggery farming primarily produces pork, bacon, and other pig meat products.",
       "difficulty": 1
     },
     {
       "id": "agr_070",
-      "text": "How many days does gestation last in cattle? (variant 70)",
+      "text": "What is the term for the application of lime to reduce soil acidity?",
       "options": [
-        "30 days",
-        "21 days",
-        "283 days",
-        "150 days"
+        "Manuring",
+        "Liming",
+        "Mulching",
+        "Ploughing"
       ],
-      "correct_index": 2,
-      "explanation": "Cattle 283 days.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Liming involves adding lime materials to raise soil pH and reduce acidity.",
+      "difficulty": 3
     },
     {
       "id": "agr_071",
-      "text": "What does demand mean in agricultural economics? (variant 71)",
+      "text": "Which of the following is a biotic constraint to crop production?",
       "options": [
-        "No willingness",
-        "Willingness and ability to buy",
-        "Only willingness",
-        "Only ability"
+        "Drought",
+        "Insect pest infestation",
+        "Poor soil drainage",
+        "Frost"
       ],
       "correct_index": 1,
-      "explanation": "Demand willingness ability.",
-      "difficulty": 1
+      "explanation": "Biotic constraints are caused by living organisms such as insects, diseases, and weeds.",
+      "difficulty": 2
     },
     {
       "id": "agr_072",
-      "text": "What substances are required for photosynthesis in plants? (variant 72)",
+      "text": "What is the primary use of a winnowing machine?",
       "options": [
-        "CO2 water sunlight",
-        "Only water",
-        "Only CO2",
-        "Only oxygen"
+        "Planting seeds",
+        "Separating grain from chaff",
+        "Irrigating farmland",
+        "Cutting grass"
       ],
-      "correct_index": 0,
-      "explanation": "Photosynthesis CO2 water sunlight.",
+      "correct_index": 1,
+      "explanation": "A winnowing machine uses air currents to separate grain from chaff and debris.",
       "difficulty": 1
     },
     {
       "id": "agr_073",
-      "text": "In which type of area is irrigation most necessary for farming? (variant 73)",
+      "text": "What is the meaning of 'input' in agricultural economics?",
       "options": [
-        "Rainy only",
-        "No areas",
-        "All always",
-        "Dry areas"
+        "Final crop product",
+        "Resources used in farming production",
+        "Farm profit",
+        "Market price"
       ],
-      "correct_index": 3,
-      "explanation": "Irrigation dry areas.",
+      "correct_index": 1,
+      "explanation": "Agricultural inputs include seeds, fertilizers, labor, and tools used in production.",
       "difficulty": 1
     },
     {
       "id": "agr_074",
-      "text": "Why is weeding important in crop production? (variant 74)",
+      "text": "Which of the following is a disease of cattle?",
       "options": [
-        "No importance",
-        "Kills crops",
-        "Reduces competition",
-        "Increases"
+        "Mycoplasmosis",
+        "Newcastle disease",
+        "Coccidiosis in chicken",
+        "Avian influenza"
       ],
-      "correct_index": 2,
-      "explanation": "Weeding reduces competition.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Mycoplasmosis (like contagious bovine pleuropneumonia) affects cattle.",
+      "difficulty": 3
     },
     {
       "id": "agr_075",
-      "text": "What is a silo used for on a farm? (variant 75)",
+      "text": "What is the value or meaning of 'agroforestry' in mathematics?",
       "options": [
-        "School",
-        "Grain storage",
-        "Car",
-        "House"
+        "Growing only timber trees",
+        "Integrating trees with crops and/or livestock",
+        "Clearing forests for farming",
+        "Planting trees along roads only"
       ],
       "correct_index": 1,
-      "explanation": "Silo grain storage.",
-      "difficulty": 1
+      "explanation": "Agroforestry combines trees and shrubs with crop and animal farming systems.",
+      "difficulty": 3
     },
     {
       "id": "agr_076",
-      "text": "What type of activities does IITA conduct? (variant 76)",
+      "text": "Which of the following is a method of water harvesting for irrigation?",
       "options": [
-        "Agricultural research",
-        "No research",
-        "Only oil",
-        "Only gas"
+        "Terracing",
+        "Construction of dams and reservoirs",
+        "Bush burning",
+        "Deforestation"
       ],
-      "correct_index": 0,
-      "explanation": "IITA research.",
+      "correct_index": 1,
+      "explanation": "Dams and reservoirs collect rainwater for irrigation during dry periods.",
       "difficulty": 2
     },
     {
       "id": "agr_077",
-      "text": "What does land tenure mean in agriculture? (variant 77)",
+      "text": "What is the primary role of agricultural cooperatives in marketing?",
       "options": [
-        "No ownership",
-        "Only renting",
-        "Only buying",
-        "System of land ownership"
+        "To reduce the number of farmers",
+        "To bargain for better prices collectively",
+        "To prevent crop production",
+        "To increase taxes on farmers"
       ],
-      "correct_index": 3,
-      "explanation": "Land tenure ownership.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Cooperatives negotiate better prices by aggregating produce from many farmers.",
+      "difficulty": 2
     },
     {
       "id": "agr_078",
-      "text": "Which environmental condition does millet tolerate well? (variant 78)",
+      "text": "Which of the following is a vegetable crop in the Solanaceae family?",
       "options": [
-        "Only flood",
-        "Only high rain",
-        "Drought",
-        "No drought"
+        "Okra",
+        "Tomato",
+        "Cabbage",
+        "Lettuce"
       ],
-      "correct_index": 2,
-      "explanation": "Millet drought.",
+      "correct_index": 1,
+      "explanation": "Tomato (Solanum lycopersicum) belongs to the Solanaceae family.",
       "difficulty": 2
     },
     {
       "id": "agr_079",
-      "text": "What is a young cattle called? (variant 79)",
+      "text": "What is the main advantage of drip irrigation?",
       "options": [
-        "Piglet",
-        "Calf",
-        "Kid",
-        "Lamb"
+        "High water wastage",
+        "Efficient water use directly to plant roots",
+        "Requires no equipment",
+        "Only suitable for large farms"
       ],
       "correct_index": 1,
-      "explanation": "Calf.",
-      "difficulty": 1
+      "explanation": "Drip irrigation delivers water directly to plant roots, minimizing waste.",
+      "difficulty": 2
     },
     {
       "id": "agr_080",
-      "text": "What is pruning in crop production? (variant 80)",
+      "text": "Which of the following is a post-harvest loss prevention method?",
       "options": [
-        "Cutting unwanted branches",
-        "Planting",
-        "Harvesting",
-        "Weeding"
+        "Leaving crops in the field",
+        "Proper drying and storage of produce",
+        "Delaying harvest indefinitely",
+        "Ignoring pest control in storage"
       ],
-      "correct_index": 0,
-      "explanation": "Pruning cutting branches.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Proper drying and storage reduce post-harvest losses from rot and pest damage.",
+      "difficulty": 2
     },
     {
       "id": "agr_081",
-      "text": "What is the definition of agriculture? (variant 81?",
+      "text": "What is the meaning of \"the botanical name of yam\"?",
       "options": [
-        "Only trading",
-        "Only fishing",
-        "Only hunting",
-        "Art and science of crop and animal production"
+        "Manihot esculenta",
+        "Dioscorea spp.",
+        "Ipomoea batatas",
+        "Colocasia esculenta"
       ],
-      "correct_index": 3,
-      "explanation": "Agriculture art science crop animal.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Yam belongs to the genus Dioscorea, with several edible species.",
+      "difficulty": 3
     },
     {
       "id": "agr_082",
-      "text": "What branch of agriculture does agronomy deal with? (variant 82)",
+      "text": "Which of the following is a function of the roots in plants?",
       "options": [
-        "Forestry",
-        "Fishery",
-        "Crop production",
-        "Animal"
+        "Photosynthesis",
+        "Anchorage and absorption of water and nutrients",
+        "Production of fruits",
+        "Release of oxygen"
       ],
-      "correct_index": 2,
-      "explanation": "Agronomy crop.",
+      "correct_index": 1,
+      "explanation": "Roots anchor the plant and absorb water and mineral nutrients from the soil.",
       "difficulty": 1
     },
     {
       "id": "agr_083",
-      "text": "What is the definition of soil texture? (variant 83?",
+      "text": "What is the value or meaning of 'silviculture' in mathematics?",
       "options": [
-        "Taste only",
-        "Proportion of sand silt clay",
-        "Colour only",
-        "Smell only"
+        "Crop farming technique",
+        "The growing and cultivation of trees and forests",
+        "Livestock management",
+        "Fish breeding"
       ],
       "correct_index": 1,
-      "explanation": "Texture proportion.",
-      "difficulty": 1
+      "explanation": "Silviculture is the practice of establishing and managing forests.",
+      "difficulty": 3
     },
     {
       "id": "agr_084",
-      "text": "How is loamy soil classified for agricultural use? (variant 84)",
+      "text": "What is the main vector of malaria that affects farm workers?",
       "options": [
-        "Best for agriculture",
-        "Worst",
-        "No use",
-        "Only building"
+        "Housefly",
+        "Female Anopheles mosquito",
+        "Tick",
+        "Tsetse fly"
       ],
-      "correct_index": 0,
-      "explanation": "Loamy best.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The female Anopheles mosquito transmits malaria parasites to humans.",
+      "difficulty": 2
     },
     {
       "id": "agr_085",
-      "text": "What does fertilizer provide to crops? (variant 85)",
+      "text": "Which of the following is a method of vegetative propagation?",
       "options": [
-        "Water only",
-        "Air only",
-        "Nothing",
-        "Nutrients"
+        "Seed planting",
+        "Stem cutting",
+        "Broadcasting",
+        "Dibbling"
       ],
-      "correct_index": 3,
-      "explanation": "Fertilizer nutrients.",
+      "correct_index": 1,
+      "explanation": "Stem cutting is a method where a portion of stem is planted to grow a new plant.",
       "difficulty": 1
     },
     {
       "id": "agr_086",
-      "text": "What is the botanical name of maize? (variant 86)",
+      "text": "What is the meaning of 'subsidy' in agricultural inputs?",
       "options": [
-        "Manihot esculenta",
-        "Dioscorea",
-        "Zea mays",
-        "Oryza sativa"
+        "Tax imposed on farmers",
+        "Government financial assistance to reduce cost of farm inputs",
+        "Profit from sales",
+        "Loan repayment"
       ],
-      "correct_index": 2,
-      "explanation": "Zea mays maize.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "A subsidy is government support to lower the price of inputs like fertilizer.",
+      "difficulty": 3
     },
     {
       "id": "agr_087",
-      "text": "What part of the cassava plant is used as planting material? (variant 87)",
+      "text": "What is the meaning of \"the young of a goat called\"?",
       "options": [
-        "Leaf",
-        "Stem cutting",
-        "Seed",
-        "Root"
+        "Foal",
+        "Lamb",
+        "Kid",
+        "Calf"
       ],
-      "correct_index": 1,
-      "explanation": "Cassava stem cutting.",
+      "correct_index": 2,
+      "explanation": "A young goat is called a kid.",
       "difficulty": 1
     },
     {
       "id": "agr_088",
-      "text": "Which of the following is an example of a ruminant animal? (variant 88)",
+      "text": "Which of the following is a leguminous cover crop?",
       "options": [
-        "Cattle",
-        "Poultry",
-        "Pig",
-        "Rabbit"
+        "Maize",
+        "Mucuna (velvet bean)",
+        "Cassava",
+        "Rice"
       ],
-      "correct_index": 0,
-      "explanation": "Cattle ruminant.",
-      "difficulty": 1
-    },
-    {
-      "id": "agr_089",
-      "text": "How many days does incubation last for chicken eggs? (variant 89)",
-      "options": [
-        "10 days",
-        "30 days",
-        "40 days",
-        "21 days"
-      ],
-      "correct_index": 3,
-      "explanation": "Chicken 21 days.",
-      "difficulty": 1
-    },
-    {
-      "id": "agr_090",
-      "text": "How many days does gestation last in cattle? (variant 90)",
-      "options": [
-        "30 days",
-        "21 days",
-        "283 days",
-        "150 days"
-      ],
-      "correct_index": 2,
-      "explanation": "Cattle 283 days.",
+      "correct_index": 1,
+      "explanation": "Mucuna is a leguminous cover crop that fixes nitrogen and improves soil fertility.",
       "difficulty": 2
     },
     {
-      "id": "agr_091",
-      "text": "What does demand mean in agricultural economics? (variant 91)",
+      "id": "agr_089",
+      "text": "What is the primary cause of lodging in cereal crops?",
       "options": [
-        "No willingness",
-        "Willingness and ability to buy",
-        "Only willingness",
-        "Only ability"
+        "Drought stress",
+        "Excessive nitrogen and wind/rainfall",
+        "Low temperature",
+        "Poor seed quality"
       ],
       "correct_index": 1,
-      "explanation": "Demand willingness ability.",
+      "explanation": "Lodging occurs when stems bend or break due to weak stems from excess nitrogen.",
+      "difficulty": 3
+    },
+    {
+      "id": "agr_090",
+      "text": "Which of the following is a method of controlling erosion on sloping land?",
+      "options": [
+        "Broadcasting seeds",
+        "Construction of gabions and check dams",
+        "Deep ploughing",
+        "Leaving soil bare"
+      ],
+      "correct_index": 1,
+      "explanation": "Gabions and check dams slow down water flow and trap eroded soil on slopes.",
+      "difficulty": 3
+    },
+    {
+      "id": "agr_091",
+      "text": "What is the function of leaves in a plant?",
+      "options": [
+        "Absorbing water from soil",
+        "Carrying out photosynthesis and transpiration",
+        "Anchoring the plant to the ground",
+        "Storing food in the roots"
+      ],
+      "correct_index": 1,
+      "explanation": "Leaves are the primary sites for photosynthesis and transpiration in plants.",
       "difficulty": 1
     },
     {
       "id": "agr_092",
-      "text": "What substances are required for photosynthesis in plants? (variant 92)",
+      "text": "Which of the following is an example of a livestock feed supplement?",
       "options": [
-        "CO2 water sunlight",
-        "Only water",
-        "Only CO2",
-        "Only oxygen"
+        "Grass",
+        "Fish meal",
+        "Water",
+        "Salt lick"
       ],
-      "correct_index": 0,
-      "explanation": "Photosynthesis CO2 water sunlight.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Fish meal is a protein-rich supplement added to livestock feed for better nutrition.",
+      "difficulty": 2
     },
     {
       "id": "agr_093",
-      "text": "In which type of area is irrigation most necessary for farming? (variant 93)",
+      "text": "What is the main objective of farm budgeting?",
       "options": [
-        "Rainy only",
-        "No areas",
-        "All always",
-        "Dry areas"
+        "To increase farm size",
+        "To plan and control farm income and expenditure",
+        "To hire more laborers",
+        "To reduce crop varieties"
       ],
-      "correct_index": 3,
-      "explanation": "Irrigation dry areas.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Farm budgeting helps farmers plan income, expenditure, and resource allocation.",
+      "difficulty": 2
     },
     {
       "id": "agr_094",
-      "text": "Why is weeding important in crop production? (variant 94)",
+      "text": "Which of the following is a characteristic of good farm records?",
       "options": [
-        "No importance",
-        "Kills crops",
-        "Reduces competition",
-        "Increases"
+        "Written on loose papers",
+        "Accurate, timely, and systematic",
+        "Kept in memory only",
+        "Updated once a year"
       ],
-      "correct_index": 2,
-      "explanation": "Weeding reduces competition.",
+      "correct_index": 1,
+      "explanation": "Good farm records should be accurate, timely, systematic, and well-organized.",
       "difficulty": 1
     },
     {
       "id": "agr_095",
-      "text": "What is a silo used for on a farm? (variant 95)",
+      "text": "What is the botanical name of soybean?",
       "options": [
-        "School",
-        "Grain storage",
-        "Car",
-        "House"
+        "Arachis hypogaea",
+        "Glycine max",
+        "Vigna unguiculata",
+        "Phaseolus vulgaris"
       ],
       "correct_index": 1,
-      "explanation": "Silo grain storage.",
-      "difficulty": 1
+      "explanation": "Glycine max is the scientific name for soybean.",
+      "difficulty": 3
     },
     {
       "id": "agr_096",
-      "text": "What type of activities does IITA conduct? (variant 96)",
+      "text": "Which of the following is a method of soil fertility improvement?",
       "options": [
-        "Agricultural research",
-        "No research",
-        "Only oil",
-        "Only gas"
+        "Overgrazing",
+        "Application of compost manure",
+        "Bush burning",
+        "Deforestation"
       ],
-      "correct_index": 0,
-      "explanation": "IITA research.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Compost manure adds organic matter and nutrients to the soil.",
+      "difficulty": 1
     },
     {
       "id": "agr_097",
-      "text": "What does land tenure mean in agriculture? (variant 97)",
+      "text": "What is the meaning of 'mixed farming'?",
       "options": [
-        "No ownership",
-        "Only renting",
-        "Only buying",
-        "System of land ownership"
+        "Growing only one type of crop",
+        "Combining crop production with livestock rearing",
+        "Farming in mixed soil types",
+        "Using mixed seeds"
       ],
-      "correct_index": 3,
-      "explanation": "Land tenure ownership.",
+      "correct_index": 1,
+      "explanation": "Mixed farming integrates both crop production and livestock rearing on the same farm.",
       "difficulty": 1
     },
     {
       "id": "agr_098",
-      "text": "Which environmental condition does millet tolerate well? (variant 98)",
+      "text": "Which of the following is a physical factor affecting crop production?",
       "options": [
-        "Only flood",
-        "Only high rain",
-        "Drought",
-        "No drought"
+        "Government policy",
+        "Temperature and rainfall",
+        "Labor availability",
+        "Market price"
       ],
-      "correct_index": 2,
-      "explanation": "Millet drought.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Temperature and rainfall are climatic (physical) factors that directly affect crops.",
+      "difficulty": 1
     },
     {
       "id": "agr_099",
-      "text": "What is a young cattle called? (variant 99)",
+      "text": "What is the main purpose of planting spacing in crops?",
       "options": [
-        "Piglet",
-        "Calf",
-        "Kid",
-        "Lamb"
+        "To waste seed materials",
+        "To allow adequate growth and resource utilization",
+        "To attract pests",
+        "To reduce farm labor"
       ],
       "correct_index": 1,
-      "explanation": "Calf.",
+      "explanation": "Proper spacing ensures each plant has adequate access to light, nutrients, and water.",
       "difficulty": 1
     },
     {
       "id": "agr_100",
-      "text": "What is pruning in crop production? (variant 100)",
+      "text": "Which of the following is a tropical fruit crop?",
       "options": [
-        "Cutting unwanted branches",
-        "Planting",
-        "Harvesting",
-        "Weeding"
+        "Apple",
+        "Mango",
+        "Pear",
+        "Grape"
       ],
-      "correct_index": 0,
-      "explanation": "Pruning cutting branches.",
+      "correct_index": 1,
+      "explanation": "Mango is a tropical fruit crop widely grown in West Africa.",
       "difficulty": 1
     },
     {
       "id": "agr_101",
-      "text": "What is the definition of agriculture? (variant 101?",
+      "text": "What is the main disease of cocoa in West Africa?",
       "options": [
-        "Only trading",
-        "Only fishing",
-        "Only hunting",
-        "Art and science of crop and animal production"
+        "Rust",
+        "Black pod disease",
+        "Blight",
+        "Mosaic virus"
       ],
-      "correct_index": 3,
-      "explanation": "Agriculture art science crop animal.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Black pod disease, caused by Phytophthora, is the most important disease of cocoa.",
+      "difficulty": 3
     },
     {
       "id": "agr_102",
-      "text": "What branch of agriculture does agronomy deal with? (variant 102)",
+      "text": "Which of the following is a method of artificial pollination?",
       "options": [
-        "Forestry",
-        "Fishery",
-        "Crop production",
-        "Animal"
+        "Wind dispersal",
+        "Hand pollination using a brush",
+        "Water irrigation",
+        "Soil tillage"
       ],
-      "correct_index": 2,
-      "explanation": "Agronomy crop.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Hand pollination uses a brush to transfer pollen from one flower to another.",
+      "difficulty": 2
     },
     {
       "id": "agr_103",
-      "text": "What is the definition of soil texture?",
+      "text": "What is the full form of EFCC in relation to agricultural fraud?",
       "options": [
-        "Taste only",
-        "Proportion of sand silt clay",
-        "Colour only",
-        "Smell only"
+        "Economic and Financial Crimes Commission",
+        "Emergency Farm Crops Commission",
+        "Environmental Farm Conservation Commission",
+        "Estate Farmers Cooperative Council"
       ],
-      "correct_index": 1,
-      "explanation": "Texture proportion.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "The EFCC investigates financial crimes including agricultural subsidy fraud.",
+      "difficulty": 2
     },
     {
       "id": "agr_104",
-      "text": "How is loamy soil classified for agricultural use? (variant 104)",
+      "text": "What is the meaning of 'break-even point' in farm management?",
       "options": [
-        "Best for agriculture",
-        "Worst",
-        "No use",
-        "Only building"
+        "Maximum profit",
+        "Point where total cost equals total revenue",
+        "Point of highest expenditure",
+        "Total loss of investment"
       ],
-      "correct_index": 0,
-      "explanation": "Loamy best.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The break-even point is where total income equals total cost, with no profit or loss.",
+      "difficulty": 3
     },
     {
       "id": "agr_105",
-      "text": "What does fertilizer provide to crops? (variant 105)",
+      "text": "Which of the following is a major pest of maize?",
       "options": [
-        "Water only",
-        "Air only",
-        "Nothing",
-        "Nutrients"
+        "Aphid",
+        "Maize stem borer",
+        "Scale insect",
+        "White fly"
       ],
-      "correct_index": 3,
-      "explanation": "Fertilizer nutrients.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The maize stem borer bores into stems and causes significant yield loss.",
+      "difficulty": 3
     },
     {
       "id": "agr_106",
-      "text": "What is the botanical name of maize? (variant 106)",
+      "text": "What is the main advantage of greenhouse farming?",
       "options": [
-        "Manihot esculenta",
-        "Dioscorea",
-        "Zea mays",
-        "Oryza sativa"
+        "Lower production cost",
+        "Controlled environment for year-round production",
+        "No need for irrigation",
+        "Natural pest control"
       ],
-      "correct_index": 2,
-      "explanation": "Zea mays maize.",
+      "correct_index": 1,
+      "explanation": "Greenhouses allow farmers to control temperature, humidity, and light for continuous production.",
       "difficulty": 2
     },
     {
       "id": "agr_107",
-      "text": "What part of the cassava plant is used as planting material? (variant 107)",
+      "text": "What is the meaning of 'allotment' in land tenure?",
       "options": [
-        "Leaf",
-        "Stem cutting",
-        "Seed",
-        "Root"
+        "Land tax",
+        "A portion of land allocated to an individual by the community",
+        "Land boundary",
+        "Land survey"
       ],
       "correct_index": 1,
-      "explanation": "Cassava stem cutting.",
-      "difficulty": 1
+      "explanation": "An allotment is a plot of land allocated by a community or government to an individual.",
+      "difficulty": 2
     },
     {
       "id": "agr_108",
-      "text": "Which of the following is an example of a ruminant animal? (variant 108)",
+      "text": "Which of the following is a characteristic of poultry birds?",
       "options": [
-        "Cattle",
-        "Poultry",
-        "Pig",
-        "Rabbit"
+        "They have four stomach chambers",
+        "They are oviparous (egg-laying)",
+        "They are ruminants",
+        "They chew cud"
       ],
-      "correct_index": 0,
-      "explanation": "Cattle ruminant.",
+      "correct_index": 1,
+      "explanation": "Poultry birds are oviparous, reproducing by laying eggs.",
       "difficulty": 1
     },
     {
       "id": "agr_109",
-      "text": "How many days does incubation last for chicken eggs? (variant 109)",
+      "text": "What is the main product obtained from oil palm?",
       "options": [
-        "10 days",
-        "30 days",
-        "40 days",
-        "21 days"
+        "Cotton",
+        "Palm oil and palm kernel",
+        "Rubber",
+        "Jute"
       ],
-      "correct_index": 3,
-      "explanation": "Chicken 21 days.",
+      "correct_index": 1,
+      "explanation": "Oil palm produces palm oil from the fruit mesocarp and palm kernel from the seed.",
       "difficulty": 1
     },
     {
       "id": "agr_110",
-      "text": "How many days does gestation last in cattle? (variant 110)",
+      "text": "Which of the following is a method of preserving yam?",
       "options": [
-        "30 days",
-        "21 days",
-        "283 days",
-        "150 days"
+        "Canning",
+        "Heaping in a barn (yam barn storage)",
+        "Freezing in large quantities",
+        "Drying in the sun for months"
       ],
-      "correct_index": 2,
-      "explanation": "Cattle 283 days.",
+      "correct_index": 1,
+      "explanation": "Yams are traditionally stored in barns with good ventilation to prevent rotting.",
       "difficulty": 2
     },
     {
       "id": "agr_111",
-      "text": "What does demand mean in agricultural economics? (variant 111)",
+      "text": "What is the term for the total weight of an animal without blood and internal organs?",
       "options": [
-        "No willingness",
-        "Willingness and ability to buy",
-        "Only willingness",
-        "Only ability"
+        "Live weight",
+        "Dressed weight",
+        "Carcass weight",
+        "Net weight"
       ],
-      "correct_index": 1,
-      "explanation": "Demand willingness ability.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Carcass weight is the weight of the animal after slaughter minus blood and offal.",
+      "difficulty": 3
     },
     {
       "id": "agr_112",
-      "text": "What substances are required for photosynthesis in plants? (variant 112)",
+      "text": "Which of the following is an abiotic factor affecting agricultural production?",
       "options": [
-        "CO2 water sunlight",
-        "Only water",
-        "Only CO2",
-        "Only oxygen"
+        "Insect pests",
+        "Soil pH",
+        "Weeds",
+        "Plant diseases"
       ],
-      "correct_index": 0,
-      "explanation": "Photosynthesis CO2 water sunlight.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Soil pH is a non-living (abiotic) factor that affects crop growth.",
+      "difficulty": 2
     },
     {
       "id": "agr_113",
-      "text": "In which type of area is irrigation most necessary for farming? (variant 113)",
+      "text": "What is the primary purpose of a compost heap?",
       "options": [
-        "Rainy only",
-        "No areas",
-        "All always",
-        "Dry areas"
+        "To breed insects",
+        "To convert organic waste into useful manure",
+        "To store water",
+        "To provide shade for animals"
       ],
-      "correct_index": 3,
-      "explanation": "Irrigation dry areas.",
+      "correct_index": 1,
+      "explanation": "Composting decomposes organic waste into nutrient-rich manure for the soil.",
       "difficulty": 1
     },
     {
       "id": "agr_114",
-      "text": "Why is weeding important in crop production? (variant 114)",
+      "text": "Which of the following is a characteristic of arable land?",
       "options": [
-        "No importance",
-        "Kills crops",
-        "Reduces competition",
-        "Increases"
+        "Land covered with permanent buildings",
+        "Land capable of being ploughed and used for crop production",
+        "Land permanently under water",
+        "Land with no soil cover"
       ],
-      "correct_index": 2,
-      "explanation": "Weeding reduces competition.",
+      "correct_index": 1,
+      "explanation": "Arable land is land that can be cultivated for growing crops.",
       "difficulty": 1
     },
     {
       "id": "agr_115",
-      "text": "What is a silo used for on a farm? (variant 115)",
+      "text": "What is the main pest of stored yam?",
       "options": [
-        "School",
-        "Grain storage",
-        "Car",
-        "House"
+        "Aphid",
+        "Yam beetle",
+        "Boll weevil",
+        "Fruit fly"
       ],
       "correct_index": 1,
-      "explanation": "Silo grain storage.",
-      "difficulty": 1
+      "explanation": "The yam beetle (Dinoderus spp.) bores into stored yam tubers causing damage.",
+      "difficulty": 2
     },
     {
       "id": "agr_116",
-      "text": "What type of activities does IITA conduct? (variant 116)",
+      "text": "What is 'monoculture' in agriculture?",
       "options": [
-        "Agricultural research",
-        "No research",
-        "Only oil",
-        "Only gas"
+        "Growing many crops together",
+        "Growing a single crop continuously on the same land",
+        "Mixed farming",
+        "Crop rotation"
       ],
-      "correct_index": 0,
-      "explanation": "IITA research.",
+      "correct_index": 1,
+      "explanation": "Monoculture is the practice of growing only one crop species on a farm.",
       "difficulty": 2
     },
     {
       "id": "agr_117",
-      "text": "What does land tenure mean in agriculture? (variant 117)",
+      "text": "Which of the following is a method of controlling flooding on farmland?",
       "options": [
-        "No ownership",
-        "Only renting",
-        "Only buying",
-        "System of land ownership"
+        "Leaving land bare",
+        "Construction of drainage channels",
+        "Overgrazing",
+        "Planting on slopes"
       ],
-      "correct_index": 3,
-      "explanation": "Land tenure ownership.",
-      "difficulty": 1
-    },
-    {
-      "id": "agr_118",
-      "text": "Which environmental condition does millet tolerate well? (variant 118)",
-      "options": [
-        "Only flood",
-        "Only high rain",
-        "Drought",
-        "No drought"
-      ],
-      "correct_index": 2,
-      "explanation": "Millet drought.",
+      "correct_index": 1,
+      "explanation": "Drainage channels redirect excess water away from farmland to prevent waterlogging.",
       "difficulty": 2
     },
     {
-      "id": "agr_119",
-      "text": "What is a young cattle called? (variant 119)",
+      "id": "agr_118",
+      "text": "What is the main function of the comb in a poultry bird?",
       "options": [
-        "Piglet",
-        "Calf",
-        "Kid",
-        "Lamb"
+        "Digestion",
+        "Thermoregulation and sexual maturity indicator",
+        "Egg production",
+        "Flight"
       ],
       "correct_index": 1,
-      "explanation": "Calf.",
-      "difficulty": 1
+      "explanation": "The comb helps regulate body temperature and indicates sexual maturity in poultry.",
+      "difficulty": 3
+    },
+    {
+      "id": "agr_119",
+      "text": "What is the term for the practice of grazing livestock on a series of paddocks?",
+      "options": [
+        "Nomadic grazing",
+        "Rotational grazing",
+        "Overgrazing",
+        "Zero grazing"
+      ],
+      "correct_index": 1,
+      "explanation": "Rotational grazing moves livestock between paddocks to allow pasture recovery.",
+      "difficulty": 2
     },
     {
       "id": "agr_120",
-      "text": "What is pruning in crop production? (variant 120)",
+      "text": "Which of the following is a major cash crop in Nigeria?",
       "options": [
-        "Cutting unwanted branches",
-        "Planting",
-        "Harvesting",
-        "Weeding"
+        "Rice",
+        "Cocoa",
+        "Yam",
+        "Cassava"
       ],
-      "correct_index": 0,
-      "explanation": "Pruning cutting branches.",
+      "correct_index": 1,
+      "explanation": "Cocoa is a major cash crop exported from Nigeria for chocolate production.",
       "difficulty": 1
     },
     {
       "id": "agr_121",
-      "text": "What is the definition of agriculture? (variant 121?",
+      "text": "What is the meaning of 'adjustment' in agricultural pricing?",
       "options": [
-        "Only trading",
-        "Only fishing",
-        "Only hunting",
-        "Art and science of crop and animal production"
+        "Fixing the price of farm inputs",
+        "Changing price based on market forces of demand and supply",
+        "Government setting price permanently",
+        "Ignoring market fluctuations"
       ],
-      "correct_index": 3,
-      "explanation": "Agriculture art science crop animal.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Price adjustment occurs as market demand and supply conditions change.",
+      "difficulty": 3
     },
     {
       "id": "agr_122",
-      "text": "What branch of agriculture does agronomy deal with? (variant 122)",
+      "text": "Which of the following is a common method of controlling weeds?",
       "options": [
-        "Forestry",
-        "Fishery",
-        "Crop production",
-        "Animal"
+        "Overirrigation",
+        "Chemical herbicide application",
+        "Planting more weeds",
+        "Ignoring them"
       ],
-      "correct_index": 2,
-      "explanation": "Agronomy crop.",
+      "correct_index": 1,
+      "explanation": "Herbicides are chemicals applied to kill or suppress unwanted weeds.",
       "difficulty": 1
     },
     {
       "id": "agr_123",
-      "text": "What is the definition of soil texture?",
+      "text": "What is the primary function of the gizzard in poultry?",
       "options": [
-        "Taste only",
-        "Proportion of sand silt clay",
-        "Colour only",
-        "Smell only"
+        "Egg formation",
+        "Grinding food mechanically",
+        "Breathing",
+        "Excreting waste"
       ],
       "correct_index": 1,
-      "explanation": "Texture proportion.",
-      "difficulty": 1
+      "explanation": "The gizzard is a muscular organ that grinds food in the absence of teeth.",
+      "difficulty": 2
     },
     {
       "id": "agr_124",
-      "text": "How is loamy soil classified for agricultural use? (variant 124)",
+      "text": "Which of the following is a biological method of pest control?",
       "options": [
-        "Best for agriculture",
-        "Worst",
-        "No use",
-        "Only building"
+        "Use of chemical sprays",
+        "Introduction of natural predators",
+        "Burning of crop residues",
+        "Application of herbicides"
       ],
-      "correct_index": 0,
-      "explanation": "Loamy best.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Biological control uses natural enemies like predators and parasites to control pests.",
+      "difficulty": 2
     },
     {
       "id": "agr_125",
-      "text": "What does fertilizer provide to crops? (variant 125)",
+      "text": "What is 'transplanting' in crop production?",
       "options": [
-        "Water only",
-        "Air only",
-        "Nothing",
-        "Nutrients"
+        "Direct seeding in the field",
+        "Moving seedlings from nursery to the main field",
+        "Harvesting mature crops",
+        "Drying crops in the sun"
       ],
-      "correct_index": 3,
-      "explanation": "Fertilizer nutrients.",
+      "correct_index": 1,
+      "explanation": "Transplanting is moving young seedlings from a nursery bed to the main field.",
       "difficulty": 1
     },
     {
       "id": "agr_126",
-      "text": "What is the botanical name of maize? (variant 126)",
+      "text": "What is the main reason for dehorning cattle?",
       "options": [
-        "Manihot esculenta",
-        "Dioscorea",
-        "Zea mays",
-        "Oryza sativa"
+        "To improve milk production",
+        "To prevent injury to other animals and handlers",
+        "To increase body weight",
+        "To improve fertility"
       ],
-      "correct_index": 2,
-      "explanation": "Zea mays maize.",
+      "correct_index": 1,
+      "explanation": "Dehorning prevents injuries to other cattle and farm workers.",
       "difficulty": 2
     },
     {
       "id": "agr_127",
-      "text": "What part of the cassava plant is used as planting material? (variant 127)",
+      "text": "Which of the following is an indirect benefit of legume crops in rotation?",
       "options": [
-        "Leaf",
-        "Stem cutting",
-        "Seed",
-        "Root"
+        "They increase soil acidity",
+        "They fix atmospheric nitrogen in the soil",
+        "They attract more pests",
+        "They reduce water in the soil"
       ],
       "correct_index": 1,
-      "explanation": "Cassava stem cutting.",
-      "difficulty": 1
+      "explanation": "Legumes have root nodules that fix atmospheric nitrogen, enriching the soil.",
+      "difficulty": 2
     },
     {
       "id": "agr_128",
-      "text": "Which of the following is an example of a ruminant animal? (variant 128)",
+      "text": "What is the meaning of 'break-even analysis' in farm management?",
       "options": [
-        "Cattle",
-        "Poultry",
-        "Pig",
-        "Rabbit"
+        "Calculating maximum profit",
+        "Determining the output level where revenue equals cost",
+        "Estimating total cost",
+        "Measuring farm size"
       ],
-      "correct_index": 0,
-      "explanation": "Cattle ruminant.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Break-even analysis determines the production level needed to cover all costs.",
+      "difficulty": 3
     },
     {
       "id": "agr_129",
-      "text": "How many days does incubation last for chicken eggs? (variant 129)",
+      "text": "What is the main feed for ruminant animals?",
       "options": [
-        "10 days",
-        "30 days",
-        "40 days",
-        "21 days"
+        "Fish meal",
+        "Roughage (grass and hay)",
+        "Maize only",
+        "Kitchen waste only"
       ],
-      "correct_index": 3,
-      "explanation": "Chicken 21 days.",
+      "correct_index": 1,
+      "explanation": "Ruminants primarily feed on roughage such as grasses, hay, and silage.",
       "difficulty": 1
     },
     {
       "id": "agr_130",
-      "text": "How many days does gestation last in cattle? (variant 130)",
+      "text": "Which of the following is a method of milking cattle?",
       "options": [
-        "30 days",
-        "21 days",
-        "283 days",
-        "150 days"
+        "Hand milking",
+        "Machine milking",
+        "Both hand and machine milking",
+        "None of the above"
       ],
       "correct_index": 2,
-      "explanation": "Cattle 283 days.",
-      "difficulty": 2
+      "explanation": "Cattle can be milked by hand or using mechanical milking machines.",
+      "difficulty": 1
     },
     {
       "id": "agr_131",
-      "text": "What does demand mean in agricultural economics? (variant 131)",
+      "text": "What is the main use of a harrow in farming?",
       "options": [
-        "No willingness",
-        "Willingness and ability to buy",
-        "Only willingness",
-        "Only ability"
+        "Planting seeds",
+        "Breaking up and smoothing soil after ploughing",
+        "Harvesting crops",
+        "Irrigating farmland"
       ],
       "correct_index": 1,
-      "explanation": "Demand willingness ability.",
+      "explanation": "A harrow breaks up clods and levels the soil surface after ploughing.",
       "difficulty": 1
     },
     {
       "id": "agr_132",
-      "text": "What substances are required for photosynthesis in plants? (variant 132)",
+      "text": "Which of the following is a symptom of nitrogen deficiency in crops?",
       "options": [
-        "CO2 water sunlight",
-        "Only water",
-        "Only CO2",
-        "Only oxygen"
+        "Yellowing of older leaves",
+        "Stunted root growth",
+        "Purple leaf coloration",
+        "Excessive branching"
       ],
       "correct_index": 0,
-      "explanation": "Photosynthesis CO2 water sunlight.",
-      "difficulty": 1
+      "explanation": "Nitrogen deficiency causes chlorosis (yellowing) starting from older leaves.",
+      "difficulty": 3
     },
     {
       "id": "agr_133",
-      "text": "In which type of area is irrigation most necessary for farming? (variant 133)",
+      "text": "What is 'zero grazing' in livestock production?",
       "options": [
-        "Rainy only",
-        "No areas",
-        "All always",
-        "Dry areas"
+        "Animals graze freely on open pasture",
+        "Animals are confined and fed in their housing",
+        "Animals are left without food",
+        "Grazing at night only"
       ],
-      "correct_index": 3,
-      "explanation": "Irrigation dry areas.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Zero grazing involves confining animals in housing and bringing feed to them.",
+      "difficulty": 2
     },
     {
       "id": "agr_134",
-      "text": "Why is weeding important in crop production? (variant 134)",
+      "text": "What is the main advantage of using a tractor on a farm?",
       "options": [
-        "No importance",
-        "Kills crops",
-        "Reduces competition",
-        "Increases"
+        "It increases weed growth",
+        "It saves time and energy in land preparation",
+        "It reduces crop yield",
+        "It is cheaper than manual labor"
       ],
-      "correct_index": 2,
-      "explanation": "Weeding reduces competition.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Tractors perform land preparation faster and more efficiently than manual labor.",
+      "difficulty": 2
     },
     {
       "id": "agr_135",
-      "text": "What is a silo used for on a farm? (variant 135)",
+      "text": "Which of the following is a method of controlling poultry parasites?",
       "options": [
-        "School",
-        "Grain storage",
-        "Car",
-        "House"
+        "Overcrowding the poultry house",
+        "Regular use of anthelmintic drugs",
+        "Feeding only once a day",
+        "Keeping the poultry house wet"
       ],
       "correct_index": 1,
-      "explanation": "Silo grain storage.",
-      "difficulty": 1
+      "explanation": "Anthelmintic drugs are administered to control internal parasites in poultry.",
+      "difficulty": 2
     },
     {
       "id": "agr_136",
-      "text": "What type of activities does IITA conduct? (variant 136)",
+      "text": "What is the value or meaning of 'agricultural insurance' in mathematics?",
       "options": [
-        "Agricultural research",
-        "No research",
-        "Only oil",
-        "Only gas"
+        "Insurance for farm buildings only",
+        "Protection of farmers against financial losses from crop or livestock failure",
+        "Government tax on farmers",
+        "Loan for buying seeds"
       ],
-      "correct_index": 0,
-      "explanation": "IITA research.",
+      "correct_index": 1,
+      "explanation": "Agricultural insurance compensates farmers for losses due to natural disasters or disease.",
       "difficulty": 2
     },
     {
       "id": "agr_137",
-      "text": "What does land tenure mean in agriculture? (variant 137)",
+      "text": "Which of the following is a method of preserving fruits?",
       "options": [
-        "No ownership",
-        "Only renting",
-        "Only buying",
-        "System of land ownership"
+        "Leaving in open sun",
+        "Canning and freezing",
+        "Burying in soil",
+        "Placing in water"
       ],
-      "correct_index": 3,
-      "explanation": "Land tenure ownership.",
+      "correct_index": 1,
+      "explanation": "Canning and freezing are effective methods of preserving fruits for extended use.",
       "difficulty": 1
     },
     {
       "id": "agr_138",
-      "text": "Which environmental condition does millet tolerate well? (variant 138)",
+      "text": "What is the main function of phosphorus in animal nutrition?",
       "options": [
-        "Only flood",
-        "Only high rain",
-        "Drought",
-        "No drought"
+        "Fur growth",
+        "Bone and teeth formation",
+        "Blood formation",
+        "Milk production only"
       ],
-      "correct_index": 2,
-      "explanation": "Millet drought.",
+      "correct_index": 1,
+      "explanation": "Phosphorus is essential for bone formation, energy transfer, and metabolism.",
       "difficulty": 2
     },
     {
       "id": "agr_139",
-      "text": "What is a young cattle called? (variant 139)",
+      "text": "Which of the following is an advantage of mixed cropping?",
       "options": [
-        "Piglet",
-        "Calf",
-        "Kid",
-        "Lamb"
+        "Increased pest infestation",
+        "Maximum utilization of soil nutrients",
+        "Higher cost of production",
+        "Reduced soil fertility"
       ],
       "correct_index": 1,
-      "explanation": "Calf.",
-      "difficulty": 1
+      "explanation": "Mixed cropping allows different crops to utilize soil nutrients at various depths.",
+      "difficulty": 2
     },
     {
       "id": "agr_140",
-      "text": "What is pruning in crop production? (variant 140)",
+      "text": "What is the meaning of 'price elasticity of demand' in agricultural marketing?",
       "options": [
-        "Cutting unwanted branches",
-        "Planting",
-        "Harvesting",
-        "Weeding"
+        "Fixed price of agricultural goods",
+        "Degree of responsiveness of demand to price change",
+        "Government control of prices",
+        "Cost of transporting goods"
       ],
-      "correct_index": 0,
-      "explanation": "Pruning cutting branches.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Price elasticity measures how much quantity demanded changes when price changes.",
+      "difficulty": 3
     },
     {
       "id": "agr_141",
-      "text": "What is the definition of agriculture? (variant 141?",
+      "text": "What is the main vector of African Swine Fever?",
       "options": [
-        "Only trading",
-        "Only fishing",
-        "Only hunting",
-        "Art and science of crop and animal production"
+        "Mosquito",
+        "Soft ticks (Ornithodoros spp.)",
+        "Housefly",
+        "Flea"
       ],
-      "correct_index": 3,
-      "explanation": "Agriculture art science crop animal.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Soft ticks of the genus Ornithodoros are vectors of African Swine Fever virus.",
+      "difficulty": 3
     },
     {
       "id": "agr_142",
-      "text": "What branch of agriculture does agronomy deal with? (variant 142)",
+      "text": "Which of the following is a major factor that limits fish farming in Nigeria?",
       "options": [
-        "Forestry",
-        "Fishery",
-        "Crop production",
-        "Animal"
+        "Excess rainfall",
+        "Lack of technical knowledge and start-up capital",
+        "Too many fish ponds",
+        "Overabundance of fingerlings"
       ],
-      "correct_index": 2,
-      "explanation": "Agronomy crop.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Limited technical knowledge and insufficient capital are major constraints.",
+      "difficulty": 2
     },
     {
       "id": "agr_143",
-      "text": "What is the definition of soil texture?",
+      "text": "What is the meaning of 'lactation period' in dairy cattle?",
       "options": [
-        "Taste only",
-        "Proportion of sand silt clay",
-        "Colour only",
-        "Smell only"
+        "Time between mating and calving",
+        "Period when a cow produces milk after calving",
+        "Time of weaning the calf",
+        "Period of heat in the cow"
       ],
       "correct_index": 1,
-      "explanation": "Texture proportion.",
-      "difficulty": 1
+      "explanation": "The lactation period is the duration a cow produces milk after giving birth.",
+      "difficulty": 2
     },
     {
       "id": "agr_144",
-      "text": "How is loamy soil classified for agricultural use? (variant 144)",
+      "text": "Which of the following is a major use of agricultural lime?",
       "options": [
-        "Best for agriculture",
-        "Worst",
-        "No use",
-        "Only building"
+        "Increasing soil acidity",
+        "Neutralizing soil acidity and improving nutrient availability",
+        "Killing beneficial soil organisms",
+        "Reducing soil water content"
       ],
-      "correct_index": 0,
-      "explanation": "Loamy best.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Lime raises soil pH, reduces acidity, and improves availability of nutrients.",
+      "difficulty": 2
     },
     {
       "id": "agr_145",
-      "text": "What does fertilizer provide to crops? (variant 145)",
+      "text": "What is the meaning of \"'husbandry' in agriculture\"?",
       "options": [
-        "Water only",
-        "Air only",
-        "Nothing",
-        "Nutrients"
+        "Trading of agricultural products",
+        "The care and management of crops and livestock",
+        "Land surveying",
+        "Construction of farm buildings"
       ],
-      "correct_index": 3,
-      "explanation": "Fertilizer nutrients.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Husbandry refers to the practice of breeding, raising, and caring for crops and animals.",
+      "difficulty": 2
     },
     {
       "id": "agr_146",
-      "text": "What is the botanical name of maize? (variant 146)",
+      "text": "Which of the following is a benefit of windbreaks on a farm?",
       "options": [
-        "Manihot esculenta",
-        "Dioscorea",
-        "Zea mays",
-        "Oryza sativa"
+        "Increased soil erosion",
+        "Reduction of wind speed and protection of crops",
+        "Reduced biodiversity",
+        "Lower soil moisture"
       ],
-      "correct_index": 2,
-      "explanation": "Zea mays maize.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Windbreaks are rows of trees that reduce wind speed and protect crops from wind damage.",
+      "difficulty": 3
     },
     {
       "id": "agr_147",
-      "text": "What part of the cassava plant is used as planting material? (variant 147)",
+      "text": "What is the main cause of post-harvest losses in developing countries?",
       "options": [
-        "Leaf",
-        "Stem cutting",
-        "Seed",
-        "Root"
+        "Excessive rainfall",
+        "Poor handling, storage, and transportation",
+        "Government policy",
+        "High cost of labor"
       ],
       "correct_index": 1,
-      "explanation": "Cassava stem cutting.",
-      "difficulty": 1
-    },
-    {
-      "id": "agr_148",
-      "text": "Which of the following is an example of a ruminant animal? (variant 148)",
-      "options": [
-        "Cattle",
-        "Poultry",
-        "Pig",
-        "Rabbit"
-      ],
-      "correct_index": 0,
-      "explanation": "Cattle ruminant.",
-      "difficulty": 1
-    },
-    {
-      "id": "agr_149",
-      "text": "How many days does incubation last for chicken eggs? (variant 149)",
-      "options": [
-        "10 days",
-        "30 days",
-        "40 days",
-        "21 days"
-      ],
-      "correct_index": 3,
-      "explanation": "Chicken 21 days.",
-      "difficulty": 1
-    },
-    {
-      "id": "agr_150",
-      "text": "How many days does gestation last in cattle? (variant 150)",
-      "options": [
-        "30 days",
-        "21 days",
-        "283 days",
-        "150 days"
-      ],
-      "correct_index": 2,
-      "explanation": "Cattle 283 days.",
+      "explanation": "Poor post-harvest handling, inadequate storage, and poor transport cause major losses.",
       "difficulty": 2
     },
     {
-      "id": "agr_151",
-      "text": "What does demand mean in agricultural economics? (variant 151)",
+      "id": "agr_148",
+      "text": "What is the purpose of debeaking in poultry farming?",
       "options": [
-        "No willingness",
-        "Willingness and ability to buy",
-        "Only willingness",
-        "Only ability"
+        "To improve egg taste",
+        "To prevent cannibalism among birds",
+        "To improve feather quality",
+        "To increase body weight"
       ],
       "correct_index": 1,
-      "explanation": "Demand willingness ability.",
-      "difficulty": 1
+      "explanation": "Debeaking prevents poultry from pecking and cannibalizing each other.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_149",
+      "text": "Which of the following is a major input in agricultural production?",
+      "options": [
+        "Market price",
+        "Improved seed varieties",
+        "Transport cost",
+        "Wholesale price"
+      ],
+      "correct_index": 1,
+      "explanation": "Improved seed varieties are a key input that increases crop yield.",
+      "difficulty": 2
+    },
+    {
+      "id": "agr_150",
+      "text": "What is the primary cause of tsetse fly infestation in farmland?",
+      "options": [
+        "Overgrazing",
+        "Presence of thick bush and uncleared vegetation",
+        "Excessive rainfall",
+        "Use of fertilizer"
+      ],
+      "correct_index": 1,
+      "explanation": "Tsetse flies breed in thick bushes and forested areas near farmland.",
+      "difficulty": 3
+    },
+    {
+      "id": "agr_151",
+      "text": "What is the meaning of 'gross margin' in farm management?",
+      "options": [
+        "Total revenue minus total cost",
+        "Total revenue minus variable costs",
+        "Net profit after tax",
+        "Cost of land per hectare"
+      ],
+      "correct_index": 1,
+      "explanation": "Gross margin is total revenue minus variable (direct) costs of production.",
+      "difficulty": 3
     },
     {
       "id": "agr_152",
-      "text": "What substances are required for photosynthesis in plants? (variant 152)",
+      "text": "Which of the following is a method of controlling poultry diseases?",
       "options": [
-        "CO2 water sunlight",
-        "Only water",
-        "Only CO2",
-        "Only oxygen"
+        "Feeding leftovers",
+        "Regular vaccination and proper sanitation",
+        "Overcrowding birds",
+        "Using dirty water"
       ],
-      "correct_index": 0,
-      "explanation": "Photosynthesis CO2 water sunlight.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Vaccination and sanitation are essential for preventing poultry disease outbreaks.",
+      "difficulty": 2
     },
     {
       "id": "agr_153",
-      "text": "In which type of area is irrigation most necessary for farming? (variant 153)",
+      "text": "What is the main product of sericulture?",
       "options": [
-        "Rainy only",
-        "No areas",
-        "All always",
-        "Dry areas"
+        "Wool",
+        "Silk",
+        "Leather",
+        "Honey"
       ],
-      "correct_index": 3,
-      "explanation": "Irrigation dry areas.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Sericulture is the farming of silkworms to produce silk fiber.",
+      "difficulty": 2
     },
     {
       "id": "agr_154",
-      "text": "Why is weeding important in crop production? (variant 154)",
+      "text": "Which of the following is a factor that affects the distribution of agricultural produce?",
       "options": [
-        "No importance",
-        "Kills crops",
-        "Reduces competition",
-        "Increases"
+        "Type of seed used",
+        "Transportation infrastructure and market accessibility",
+        "Number of crops planted",
+        "Time of planting"
       ],
-      "correct_index": 2,
-      "explanation": "Weeding reduces competition.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Good roads and market access are essential for distributing farm produce.",
+      "difficulty": 2
     },
     {
       "id": "agr_155",
-      "text": "What is a silo used for on a farm? (variant 155)",
+      "text": "What is the main reason for waterlogging on farmland?",
       "options": [
-        "School",
-        "Grain storage",
-        "Car",
-        "House"
+        "Excessive evaporation",
+        "Poor drainage and heavy rainfall",
+        "Low soil organic matter",
+        "Wind erosion"
       ],
       "correct_index": 1,
-      "explanation": "Silo grain storage.",
-      "difficulty": 1
+      "explanation": "Waterlogging occurs when poor drainage prevents excess water from draining away.",
+      "difficulty": 2
     },
     {
       "id": "agr_156",
-      "text": "What type of activities does IITA conduct? (variant 156)",
+      "text": "What is the primary purpose of ear tagging in livestock?",
       "options": [
-        "Agricultural research",
-        "No research",
-        "Only oil",
-        "Only gas"
+        "Decoration",
+        "Identification and record-keeping",
+        "Increasing milk production",
+        "Preventing theft only"
       ],
-      "correct_index": 0,
-      "explanation": "IITA research.",
+      "correct_index": 1,
+      "explanation": "Ear tags are used for individual animal identification and farm record keeping.",
       "difficulty": 2
     },
     {
       "id": "agr_157",
-      "text": "What does land tenure mean in agriculture? (variant 157)",
+      "text": "Which of the following is a tropical legume crop?",
       "options": [
-        "No ownership",
-        "Only renting",
-        "Only buying",
-        "System of land ownership"
+        "Wheat",
+        "Cowpea (Vigna unguiculata)",
+        "Barley",
+        "Oat"
       ],
-      "correct_index": 3,
-      "explanation": "Land tenure ownership.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Cowpea is a tropical legume widely grown in West Africa for its protein-rich seeds.",
+      "difficulty": 2
     },
     {
       "id": "agr_158",
-      "text": "Which environmental condition does millet tolerate well? (variant 158)",
+      "text": "What is the meaning of 'soil profile'?",
       "options": [
-        "Only flood",
-        "Only high rain",
-        "Drought",
-        "No drought"
+        "The color of the topsoil",
+        "A vertical cross-section showing different soil layers (horizons)",
+        "The texture of the surface soil only",
+        "The depth of water table"
       ],
-      "correct_index": 2,
-      "explanation": "Millet drought.",
+      "correct_index": 1,
+      "explanation": "A soil profile shows distinct horizontal layers (A, B, C horizons) from surface to bedrock.",
       "difficulty": 2
     },
     {
       "id": "agr_159",
-      "text": "What is a young cattle called? (variant 159)",
+      "text": "What is the main purpose of brooding in poultry management?",
       "options": [
-        "Piglet",
-        "Calf",
-        "Kid",
-        "Lamb"
+        "To feed adult birds",
+        "To provide warmth for day-old chicks",
+        "To collect eggs",
+        "To separate male from female"
       ],
       "correct_index": 1,
-      "explanation": "Calf.",
+      "explanation": "Brooding provides artificial heat to keep young chicks warm in their early weeks.",
       "difficulty": 1
     },
     {
       "id": "agr_160",
-      "text": "What is pruning in crop production? (variant 160)",
+      "text": "Which of the following is a method of pest control in stored grains?",
       "options": [
-        "Cutting unwanted branches",
-        "Planting",
-        "Harvesting",
-        "Weeding"
+        "Flooding with water",
+        "Use of fumigants and hermetic storage",
+        "Leaving bags open",
+        "Storing in damp conditions"
       ],
-      "correct_index": 0,
-      "explanation": "Pruning cutting branches.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Fumigation and airtight (hermetic) storage prevent insect infestation in stored grain.",
+      "difficulty": 3
     },
     {
       "id": "agr_161",
-      "text": "What is the definition of agriculture? (variant 161?",
+      "text": "What is the primary function of an incubator in poultry farming?",
       "options": [
-        "Only trading",
-        "Only fishing",
-        "Only hunting",
-        "Art and science of crop and animal production"
+        "Feeding adult birds",
+        "Providing controlled temperature and humidity for egg hatching",
+        "Housing layers",
+        "Storing eggs"
       ],
-      "correct_index": 3,
-      "explanation": "Agriculture art science crop animal.",
+      "correct_index": 1,
+      "explanation": "An incubator maintains optimal conditions for embryo development and egg hatching.",
       "difficulty": 1
     },
     {
       "id": "agr_162",
-      "text": "What branch of agriculture does agronomy deal with? (variant 162)",
+      "text": "Which of the following is a major cause of low agricultural productivity in Africa?",
       "options": [
-        "Forestry",
-        "Fishery",
-        "Crop production",
-        "Animal"
+        "Excess use of technology",
+        "Inadequate access to improved inputs and credit",
+        "Too much rainfall",
+        "Large farm sizes"
       ],
-      "correct_index": 2,
-      "explanation": "Agronomy crop.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Limited access to quality seeds, fertilizer, credit, and technology limits productivity.",
+      "difficulty": 2
     },
     {
       "id": "agr_163",
-      "text": "What is the definition of soil texture?",
+      "text": "What is the meaning of 'canopy' in forestry?",
       "options": [
-        "Taste only",
-        "Proportion of sand silt clay",
-        "Colour only",
-        "Smell only"
+        "The tree roots underground",
+        "The uppermost layer of branches and leaves in a forest",
+        "The forest floor",
+        "The tree bark"
       ],
       "correct_index": 1,
-      "explanation": "Texture proportion.",
-      "difficulty": 1
+      "explanation": "The canopy is the dense layer of leaves and branches formed by tree crowns.",
+      "difficulty": 3
     },
     {
       "id": "agr_164",
-      "text": "How is loamy soil classified for agricultural use? (variant 164)",
+      "text": "What is the main cause of feed inefficiency in livestock?",
       "options": [
-        "Best for agriculture",
-        "Worst",
-        "No use",
-        "Only building"
+        "Providing balanced ration",
+        "Feeding unbalanced or poor-quality feed",
+        "Regular vaccination",
+        "Clean water supply"
       ],
-      "correct_index": 0,
-      "explanation": "Loamy best.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Unbalanced feed lacking essential nutrients leads to poor growth and conversion.",
+      "difficulty": 2
     },
     {
       "id": "agr_165",
-      "text": "What does fertilizer provide to crops? (variant 165)",
+      "text": "Which of the following is a symptom of disease in farm animals?",
       "options": [
-        "Water only",
-        "Air only",
-        "Nothing",
-        "Nutrients"
+        "Increased appetite",
+        "Loss of appetite and dullness",
+        "Increased body weight",
+        "Active behavior"
       ],
-      "correct_index": 3,
-      "explanation": "Fertilizer nutrients.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Loss of appetite and dullness are common signs of illness in livestock.",
+      "difficulty": 2
     },
     {
       "id": "agr_166",
-      "text": "What is the botanical name of maize? (variant 166)",
+      "text": "What is 'free range' system of poultry production?",
       "options": [
-        "Manihot esculenta",
-        "Dioscorea",
-        "Zea mays",
-        "Oryza sativa"
+        "Birds are confined in cages",
+        "Birds are allowed to roam and forage freely outdoors",
+        "Birds are kept in deep litter only",
+        "Birds are fed only once daily"
       ],
-      "correct_index": 2,
-      "explanation": "Zea mays maize.",
+      "correct_index": 1,
+      "explanation": "Free range poultry have access to outdoor areas for natural foraging.",
       "difficulty": 2
     },
     {
       "id": "agr_167",
-      "text": "What part of the cassava plant is used as planting material? (variant 167)",
+      "text": "What is the primary reason for using organic manure instead of chemical fertilizer?",
       "options": [
-        "Leaf",
-        "Stem cutting",
-        "Seed",
-        "Root"
+        "Organic manure acts faster",
+        "It improves soil structure and provides slow-release nutrients",
+        "It is always available in large quantities",
+        "It does not need to be applied regularly"
       ],
       "correct_index": 1,
-      "explanation": "Cassava stem cutting.",
-      "difficulty": 1
+      "explanation": "Organic manure improves soil structure and releases nutrients gradually.",
+      "difficulty": 2
     },
     {
       "id": "agr_168",
-      "text": "Which of the following is an example of a ruminant animal? (variant 168)",
+      "text": "Which of the following is a common method of land clearing for farming in Nigeria?",
       "options": [
-        "Cattle",
-        "Poultry",
-        "Pig",
-        "Rabbit"
+        "Use of bulldozers and manual labor",
+        "Flooding the land",
+        "Planting trees to clear land",
+        "Leaving land untouched"
       ],
       "correct_index": 0,
-      "explanation": "Cattle ruminant.",
-      "difficulty": 1
+      "explanation": "Bulldozers and manual labor (cutlass and hoe) are common land clearing methods.",
+      "difficulty": 2
     },
     {
       "id": "agr_169",
-      "text": "How many days does incubation last for chicken eggs? (variant 169)",
+      "text": "What is the main advantage of a deep litter system in poultry?",
       "options": [
-        "10 days",
-        "30 days",
-        "40 days",
-        "21 days"
+        "Lower egg production",
+        "Allows natural behavior and reduces stress in birds",
+        "Increases disease spread",
+        "Requires no management"
       ],
-      "correct_index": 3,
-      "explanation": "Chicken 21 days.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Deep litter systems allow birds to move freely and exhibit natural behaviors.",
+      "difficulty": 2
     },
     {
       "id": "agr_170",
-      "text": "How many days does gestation last in cattle? (variant 170)",
+      "text": "What is the meaning of 'food security' in agriculture?",
       "options": [
-        "30 days",
-        "21 days",
-        "283 days",
-        "150 days"
+        "Keeping food under lock and key",
+        "Availability and access to sufficient food at all times",
+        "Storing food only for the wealthy",
+        "Growing food only for export"
       ],
-      "correct_index": 2,
-      "explanation": "Cattle 283 days.",
+      "correct_index": 1,
+      "explanation": "Food security means all people have physical and economic access to sufficient food.",
       "difficulty": 2
     },
     {
       "id": "agr_171",
-      "text": "What does demand mean in agricultural economics? (variant 171)",
+      "text": "Which of the following is a benefit of crossbreeding in livestock?",
       "options": [
-        "No willingness",
-        "Willingness and ability to buy",
-        "Only willingness",
-        "Only ability"
+        "Reduced productivity",
+        "Hybrid vigor (heterosis) leading to improved performance",
+        "Lower fertility",
+        "Increased susceptibility to disease"
       ],
       "correct_index": 1,
-      "explanation": "Demand willingness ability.",
-      "difficulty": 1
+      "explanation": "Crossbreeding combines favorable traits from different breeds, giving hybrid vigor.",
+      "difficulty": 3
     },
     {
       "id": "agr_172",
-      "text": "What substances are required for photosynthesis in plants? (variant 172)",
+      "text": "What is the main purpose of a farm layout plan?",
       "options": [
-        "CO2 water sunlight",
-        "Only water",
-        "Only CO2",
-        "Only oxygen"
+        "To increase labor costs",
+        "To organize farm buildings and fields for efficient operation",
+        "To reduce crop varieties",
+        "To prevent farming"
       ],
-      "correct_index": 0,
-      "explanation": "Photosynthesis CO2 water sunlight.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A farm layout plan arranges fields and structures for efficient farm operations.",
+      "difficulty": 2
     },
     {
       "id": "agr_173",
-      "text": "In which type of area is irrigation most necessary for farming? (variant 173)",
+      "text": "Which of the following is a tropical fibre crop?",
       "options": [
-        "Rainy only",
-        "No areas",
-        "All always",
-        "Dry areas"
+        "Cocoa",
+        "Cotton",
+        "Palm oil",
+        "Rubber"
       ],
-      "correct_index": 3,
-      "explanation": "Irrigation dry areas.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Cotton is a major tropical fibre crop used in the textile industry.",
+      "difficulty": 2
     },
     {
       "id": "agr_174",
-      "text": "Why is weeding important in crop production? (variant 174)",
+      "text": "What is the value or meaning of 'vermicomposting' in mathematics?",
       "options": [
-        "No importance",
-        "Kills crops",
-        "Reduces competition",
-        "Increases"
+        "Using chemicals to decompose waste",
+        "Using earthworms to convert organic waste into manure",
+        "Burning organic waste",
+        "Flooding waste materials"
       ],
-      "correct_index": 2,
-      "explanation": "Weeding reduces competition.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Vermicomposting uses earthworms to digest organic waste and produce nutrient-rich castings.",
+      "difficulty": 3
     },
     {
       "id": "agr_175",
-      "text": "What is a silo used for on a farm? (variant 175)",
+      "text": "Which of the following is a method of controlling tick infestation in cattle?",
       "options": [
-        "School",
-        "Grain storage",
-        "Car",
-        "House"
+        "Feeding more grain",
+        "Regular dipping or spraying with acaricides",
+        "Keeping animals in wet areas",
+        "Ignoring the problem"
       ],
       "correct_index": 1,
-      "explanation": "Silo grain storage.",
-      "difficulty": 1
+      "explanation": "Acaricides are chemicals used to kill ticks during dipping or spraying.",
+      "difficulty": 2
     },
     {
       "id": "agr_176",
-      "text": "What type of activities does IITA conduct? (variant 176)",
+      "text": "What is the main advantage of a farm record system?",
       "options": [
-        "Agricultural research",
-        "No research",
-        "Only oil",
-        "Only gas"
+        "It increases farming expenses",
+        "It aids decision-making and financial management",
+        "It is only useful for large farms",
+        "It replaces the need for extension officers"
       ],
-      "correct_index": 0,
-      "explanation": "IITA research.",
+      "correct_index": 1,
+      "explanation": "Farm records help in tracking income, expenses, and making informed decisions.",
       "difficulty": 2
     },
     {
       "id": "agr_177",
-      "text": "What does land tenure mean in agriculture? (variant 177)",
+      "text": "What is the botanical name of cowpea?",
       "options": [
-        "No ownership",
-        "Only renting",
-        "Only buying",
-        "System of land ownership"
+        "Glycine max",
+        "Vigna unguiculata",
+        "Phaseolus vulgaris",
+        "Arachis hypogaea"
       ],
-      "correct_index": 3,
-      "explanation": "Land tenure ownership.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Vigna unguiculata is the scientific name for cowpea.",
+      "difficulty": 3
     },
     {
       "id": "agr_178",
-      "text": "Which environmental condition does millet tolerate well? (variant 178)",
+      "text": "Which of the following is a major role of government in agricultural development?",
       "options": [
-        "Only flood",
-        "Only high rain",
-        "Drought",
-        "No drought"
+        "Discouraging private farming",
+        "Provision of agricultural subsidies and infrastructure",
+        "Preventing farmer cooperatives",
+        "Reducing extension services"
       ],
-      "correct_index": 2,
-      "explanation": "Millet drought.",
+      "correct_index": 1,
+      "explanation": "Government provides subsidies, research, extension, and infrastructure for agriculture.",
       "difficulty": 2
     },
     {
       "id": "agr_179",
-      "text": "What is a young cattle called? (variant 179)",
+      "text": "What is the purpose of dipping tanks in livestock management?",
       "options": [
-        "Piglet",
-        "Calf",
-        "Kid",
-        "Lamb"
+        "To provide drinking water",
+        "To immerse animals in acaricide solution to kill external parasites",
+        "To cool animals in hot weather",
+        "To wash animal feed"
       ],
       "correct_index": 1,
-      "explanation": "Calf.",
-      "difficulty": 1
+      "explanation": "Dipping tanks contain acaricide solutions that kill ticks and other external parasites.",
+      "difficulty": 3
     },
     {
       "id": "agr_180",
-      "text": "What is pruning in crop production? (variant 180)",
+      "text": "What is the main benefit of shade trees on pasture land?",
       "options": [
-        "Cutting unwanted branches",
-        "Planting",
-        "Harvesting",
-        "Weeding"
+        "They reduce grass growth",
+        "They provide shelter for livestock from heat stress",
+        "They increase soil erosion",
+        "They reduce water availability"
       ],
-      "correct_index": 0,
-      "explanation": "Pruning cutting branches.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Shade trees protect livestock from excessive heat and sun exposure.",
+      "difficulty": 2
     },
     {
       "id": "agr_181",
-      "text": "What is the definition of agriculture? (variant 181?",
+      "text": "Which of the following is a method of soil water conservation?",
       "options": [
-        "Only trading",
-        "Only fishing",
-        "Only hunting",
-        "Art and science of crop and animal production"
+        "Deforestation",
+        "Mulching and contour bunding",
+        "Overcultivation",
+        "Bush burning"
       ],
-      "correct_index": 3,
-      "explanation": "Agriculture art science crop animal.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Mulching and contour bunding help retain soil moisture and reduce runoff.",
+      "difficulty": 2
     },
     {
       "id": "agr_182",
-      "text": "What branch of agriculture does agronomy deal with? (variant 182)",
+      "text": "What is the primary product of bee-keeping (apiculture)?",
       "options": [
-        "Forestry",
-        "Fishery",
-        "Crop production",
-        "Animal"
+        "Silk",
+        "Honey and beeswax",
+        "Milk",
+        "Wool"
       ],
-      "correct_index": 2,
-      "explanation": "Agronomy crop.",
+      "correct_index": 1,
+      "explanation": "Apiculture produces honey, beeswax, propolis, and royal jelly from bee colonies.",
       "difficulty": 1
     },
     {
       "id": "agr_183",
-      "text": "What is the definition of soil texture?",
+      "text": "What is the main function of the caecum in a rabbit?",
       "options": [
-        "Taste only",
-        "Proportion of sand silt clay",
-        "Colour only",
-        "Smell only"
+        "Gas exchange",
+        "Fermentation of fibrous feed for digestion",
+        "Egg production",
+        "Water absorption only"
       ],
       "correct_index": 1,
-      "explanation": "Texture proportion.",
-      "difficulty": 1
+      "explanation": "The enlarged caecum of rabbits harbors microorganisms that ferment cellulose.",
+      "difficulty": 3
     },
     {
       "id": "agr_184",
-      "text": "How is loamy soil classified for agricultural use? (variant 184)",
+      "text": "Which of the following is a common method of preserving meat?",
       "options": [
-        "Best for agriculture",
-        "Worst",
-        "No use",
-        "Only building"
+        "Keeping in open air",
+        "Smoking and salting",
+        "Soaking in cold water",
+        "Exposure to sunlight"
       ],
-      "correct_index": 0,
-      "explanation": "Loamy best.",
-      "difficulty": 1
-    },
-    {
-      "id": "agr_185",
-      "text": "What does fertilizer provide to crops? (variant 185)",
-      "options": [
-        "Water only",
-        "Air only",
-        "Nothing",
-        "Nutrients"
-      ],
-      "correct_index": 3,
-      "explanation": "Fertilizer nutrients.",
-      "difficulty": 1
-    },
-    {
-      "id": "agr_186",
-      "text": "What is the botanical name of maize? (variant 186)",
-      "options": [
-        "Manihot esculenta",
-        "Dioscorea",
-        "Zea mays",
-        "Oryza sativa"
-      ],
-      "correct_index": 2,
-      "explanation": "Zea mays maize.",
+      "correct_index": 1,
+      "explanation": "Smoking and salting are traditional methods of preserving meat by reducing moisture.",
       "difficulty": 2
     },
     {
-      "id": "agr_187",
-      "text": "What part of the cassava plant is used as planting material? (variant 187)",
+      "id": "agr_185",
+      "text": "What is the meaning of 'economics of scale' in farming?",
       "options": [
-        "Leaf",
-        "Stem cutting",
-        "Seed",
-        "Root"
+        "Increasing costs with larger production",
+        "Reduced average cost per unit as production increases",
+        "Fixed cost regardless of output",
+        "Spending more on labor"
       ],
       "correct_index": 1,
-      "explanation": "Cassava stem cutting.",
-      "difficulty": 1
+      "explanation": "Economies of scale mean average cost decreases as the scale of production increases.",
+      "difficulty": 3
+    },
+    {
+      "id": "agr_186",
+      "text": "Which of the following is a method of feed preservation for livestock?",
+      "options": [
+        "Leaving feed in the sun",
+        "Ensiling (making silage) from green fodder",
+        "Storing feed in wet bags",
+        "Feeding immediately after harvesting only"
+      ],
+      "correct_index": 1,
+      "explanation": "Ensiling preserves green fodder through anaerobic fermentation for later use.",
+      "difficulty": 3
+    },
+    {
+      "id": "agr_187",
+      "text": "What is the primary aim of the National Agricultural Seeds Council (NASC)?",
+      "options": [
+        "To sell farm implements",
+        "To ensure production and distribution of quality seeds",
+        "To regulate banking",
+        "To manage forest reserves"
+      ],
+      "correct_index": 1,
+      "explanation": "NASC promotes production and distribution of certified quality seeds in Nigeria.",
+      "difficulty": 2
     },
     {
       "id": "agr_188",
-      "text": "Which of the following is an example of a ruminant animal? (variant 188)",
+      "text": "What is 'crop lodging' and what causes it?",
       "options": [
-        "Cattle",
-        "Poultry",
-        "Pig",
-        "Rabbit"
+        "Falling of fruits due to ripening",
+        "Stems bending or falling over due to wind, rain, or excess nitrogen",
+        "Leaf yellowing due to disease",
+        "Root damage from soil erosion"
       ],
-      "correct_index": 0,
-      "explanation": "Cattle ruminant.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Lodging is the bending or breaking of stems caused by wind, heavy rain, or excess nitrogen.",
+      "difficulty": 3
     },
     {
       "id": "agr_189",
-      "text": "How many days does incubation last for chicken eggs? (variant 189)",
+      "text": "Which of the following is a characteristic of an efficient agricultural marketing system?",
       "options": [
-        "10 days",
-        "30 days",
-        "40 days",
-        "21 days"
+        "Long chain of middlemen",
+        "Minimal post-harvest losses and fair prices to farmers",
+        "High transportation cost",
+        "Lack of storage facilities"
       ],
-      "correct_index": 3,
-      "explanation": "Chicken 21 days.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "An efficient marketing system minimizes losses and ensures fair returns to farmers.",
+      "difficulty": 2
     },
     {
       "id": "agr_190",
-      "text": "How many days does gestation last in cattle? (variant 190)",
+      "text": "What is the main benefit of using a farm diary?",
       "options": [
-        "30 days",
-        "21 days",
-        "283 days",
-        "150 days"
+        "It is a source of entertainment",
+        "It records daily farm activities for future reference",
+        "It replaces a bank account",
+        "It is used to entertain guests"
       ],
-      "correct_index": 2,
-      "explanation": "Cattle 283 days.",
+      "correct_index": 1,
+      "explanation": "A farm diary records daily activities, observations, and decisions for future planning.",
       "difficulty": 2
     },
     {
       "id": "agr_191",
-      "text": "What does demand mean in agricultural economics? (variant 191)",
+      "text": "Which of the following is a symptom of vitamin A deficiency in poultry?",
       "options": [
-        "No willingness",
-        "Willingness and ability to buy",
-        "Only willingness",
-        "Only ability"
+        "Improved vision",
+        "Night blindness and rough skin",
+        "Increased egg production",
+        "Bright feather color"
       ],
       "correct_index": 1,
-      "explanation": "Demand willingness ability.",
-      "difficulty": 1
+      "explanation": "Vitamin A deficiency causes night blindness, rough skin, and poor growth in poultry.",
+      "difficulty": 3
     },
     {
       "id": "agr_192",
-      "text": "What substances are required for photosynthesis in plants? (variant 192)",
+      "text": "What is the meaning of 'agricultural credit'?",
       "options": [
-        "CO2 water sunlight",
-        "Only water",
-        "Only CO2",
-        "Only oxygen"
+        "Free distribution of farm inputs",
+        "Loans and financial services provided to farmers",
+        "Tax imposed on farmers",
+        "Selling farm produce"
       ],
-      "correct_index": 0,
-      "explanation": "Photosynthesis CO2 water sunlight.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Agricultural credit refers to loans and financial services provided to support farming.",
+      "difficulty": 2
     },
     {
       "id": "agr_193",
-      "text": "In which type of area is irrigation most necessary for farming? (variant 193)",
+      "text": "What is the main advantage of hydroponics?",
       "options": [
-        "Rainy only",
-        "No areas",
-        "All always",
-        "Dry areas"
+        "Requires large land area",
+        "Growing plants in nutrient solution without soil",
+        "Needs no water",
+        "Only works in tropical regions"
       ],
-      "correct_index": 3,
-      "explanation": "Irrigation dry areas.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Hydroponics grows plants in nutrient-rich water solution, eliminating the need for soil.",
+      "difficulty": 3
     },
     {
       "id": "agr_194",
-      "text": "Why is weeding important in crop production? (variant 194)",
+      "text": "Which of the following is a common disease of cassava?",
       "options": [
-        "No importance",
-        "Kills crops",
-        "Reduces competition",
-        "Increases"
+        "Bacterial blight",
+        "Foot-and-mouth disease",
+        "Avian influenza",
+        "Anthrax"
       ],
-      "correct_index": 2,
-      "explanation": "Weeding reduces competition.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Cassava bacterial blight is caused by Xanthomonas axonopodis and causes major yield loss.",
+      "difficulty": 2
     },
     {
       "id": "agr_195",
-      "text": "What is a silo used for on a farm? (variant 195)",
+      "text": "What is the main function of a feed mixer on a livestock farm?",
       "options": [
-        "School",
-        "Grain storage",
-        "Car",
-        "House"
+        "To heat feed",
+        "To blend different feed ingredients into a uniform mixture",
+        "To water animals",
+        "To clean the poultry house"
       ],
       "correct_index": 1,
-      "explanation": "Silo grain storage.",
-      "difficulty": 1
+      "explanation": "A feed mixer blends various ingredients to produce a uniform and balanced livestock feed.",
+      "difficulty": 3
     },
     {
       "id": "agr_196",
-      "text": "What type of activities does IITA conduct? (variant 196)",
+      "text": "What is the main advantage of planting cover crops?",
       "options": [
-        "Agricultural research",
-        "No research",
-        "Only oil",
-        "Only gas"
+        "They attract more pests",
+        "They protect the soil from erosion and improve fertility",
+        "They reduce soil organic matter",
+        "They increase water runoff"
       ],
-      "correct_index": 0,
-      "explanation": "IITA research.",
+      "correct_index": 1,
+      "explanation": "Cover crops protect soil from erosion, suppress weeds, and improve soil fertility.",
       "difficulty": 2
     },
     {
       "id": "agr_197",
-      "text": "What does land tenure mean in agriculture? (variant 197)",
+      "text": "What is the gestation period of a goat approximately?",
       "options": [
-        "No ownership",
-        "Only renting",
-        "Only buying",
-        "System of land ownership"
+        "90 days",
+        "150 days",
+        "210 days",
+        "283 days"
       ],
-      "correct_index": 3,
-      "explanation": "Land tenure ownership.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The gestation period of a goat is approximately 150 days (about 5 months).",
+      "difficulty": 3
     },
     {
       "id": "agr_198",
-      "text": "Which environmental condition does millet tolerate well? (variant 198)",
+      "text": "Which of the following is a method of land reform?",
       "options": [
-        "Only flood",
-        "Only high rain",
-        "Drought",
-        "No drought"
+        "Encouraging land grabbing",
+        "Land redistribution to landless farmers",
+        "Reducing farm sizes",
+        "Preventing irrigation development"
       ],
-      "correct_index": 2,
-      "explanation": "Millet drought.",
+      "correct_index": 1,
+      "explanation": "Land reform includes redistributing land to ensure equitable access for farmers.",
       "difficulty": 2
     },
     {
       "id": "agr_199",
-      "text": "What is a young cattle called? (variant 199)",
+      "text": "What is the main purpose of a farm survey?",
       "options": [
-        "Piglet",
-        "Calf",
-        "Kid",
-        "Lamb"
+        "To count the number of trees",
+        "To measure and map farmland for proper planning",
+        "To hire workers",
+        "To apply fertilizer"
       ],
       "correct_index": 1,
-      "explanation": "Calf.",
-      "difficulty": 1
+      "explanation": "A farm survey measures and maps farmland boundaries and features for planning.",
+      "difficulty": 3
     },
     {
       "id": "agr_200",
-      "text": "What is pruning in crop production? (variant 200)",
+      "text": "What is the primary role of the Central Bank of Nigeria in agricultural financing?",
       "options": [
-        "Cutting unwanted branches",
-        "Planting",
-        "Harvesting",
-        "Weeding"
+        "Growing crops on its own farms",
+        "Providing policies and credit facilities to support agricultural development",
+        "Importing food for the country",
+        "Regulating only oil prices"
       ],
-      "correct_index": 0,
-      "explanation": "Pruning cutting branches.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The CBN provides agricultural credit policies and financing to boost farm productivity.",
+      "difficulty": 3
     }
   ]
 }

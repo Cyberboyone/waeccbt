@@ -13,2595 +13,2595 @@
         "Adam"
       ],
       "correct_index": 3,
-      "explanation": "Adam.",
+      "explanation": "Adam was the first man created by God (Genesis 2:7).",
       "difficulty": 1
     },
     {
       "id": "crs_002",
-      "text": "Who was the first woman created by God according to the Bible?",
+      "text": "In which garden were Adam and Eve placed by God?",
       "options": [
-        "Rebekah",
-        "Rachel",
-        "Eve",
-        "Sarah"
+        "Gethsemane",
+        "Eden",
+        "Jerusalem",
+        "Galilee"
       ],
-      "correct_index": 2,
-      "explanation": "Eve.",
+      "correct_index": 1,
+      "explanation": "God placed Adam and Eve in the Garden of Eden (Genesis 2:8).",
       "difficulty": 1
     },
     {
       "id": "crs_003",
-      "text": "In which garden were Adam and Eve placed by God?",
+      "text": "What did Adam and Eve eat that God had forbidden?",
       "options": [
-        "Jerusalem",
-        "Eden",
-        "Gethsemane",
-        "Galilee"
+        "Bread",
+        "Fruit from the tree of knowledge",
+        "Meat",
+        "Fish"
       ],
       "correct_index": 1,
-      "explanation": "Eden.",
+      "explanation": "They ate the forbidden fruit from the tree of knowledge of good and evil (Genesis 3:6).",
       "difficulty": 1
     },
     {
       "id": "crs_004",
-      "text": "Why was Noah saved from the great flood by God?",
+      "text": "Who tempted Eve in the Garden of Eden?",
       "options": [
-        "Righteous",
-        "Wicked",
-        "Rich",
-        "Strong"
+        "God",
+        "Adam",
+        "The serpent",
+        "An angel"
       ],
-      "correct_index": 0,
-      "explanation": "Righteous.",
+      "correct_index": 2,
+      "explanation": "The serpent tempted Eve to eat the forbidden fruit (Genesis 3:1).",
       "difficulty": 1
     },
     {
       "id": "crs_005",
-      "text": "Which son of Abraham was the son of promise?",
+      "text": "Why was Noah saved from the great flood?",
       "options": [
-        "Ishmael",
-        "Jacob",
-        "Esau",
-        "Isaac"
+        "He was rich",
+        "He was righteous",
+        "He was strong",
+        "He was wise"
       ],
-      "correct_index": 3,
-      "explanation": "Isaac.",
+      "correct_index": 1,
+      "explanation": "Noah found grace in the eyes of the Lord because he was a righteous man (Genesis 6:8-9).",
       "difficulty": 1
     },
     {
       "id": "crs_006",
-      "text": "What new name was given to Jacob after he wrestled with God?",
+      "text": "How many days and nights did the rain fall during the flood?",
       "options": [
-        "Joseph",
-        "Benjamin",
-        "Israel",
-        "Judah"
+        "Seven",
+        "Twenty",
+        "Forty",
+        "Fifty"
       ],
       "correct_index": 2,
-      "explanation": "Israel.",
+      "explanation": "It rained for forty days and forty nights (Genesis 7:12).",
       "difficulty": 1
     },
     {
       "id": "crs_007",
-      "text": "From what was Moses called by God to lead the Israelites?",
+      "text": "Which bird did Noah first send out from the ark?",
       "options": [
-        "Temple",
-        "Burning bush",
-        "Cloud",
-        "Dream"
+        "Eagle",
+        "Dove",
+        "Raven",
+        "Sparrow"
       ],
-      "correct_index": 1,
-      "explanation": "Burning bush.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Noah first sent out a raven from the ark (Genesis 8:7).",
+      "difficulty": 2
     },
     {
       "id": "crs_008",
-      "text": "How many plagues did God send upon Egypt?",
+      "text": "What sign did God give as a covenant with Noah after the flood?",
       "options": [
-        "10",
-        "5",
-        "7",
-        "12"
+        "A star",
+        "A rainbow",
+        "A sword",
+        "A crown"
       ],
-      "correct_index": 0,
-      "explanation": "10.",
+      "correct_index": 1,
+      "explanation": "God set a rainbow in the sky as a sign of His covenant with Noah (Genesis 9:13).",
       "difficulty": 1
     },
     {
       "id": "crs_009",
-      "text": "At which mountain did God give the law to Moses?",
+      "text": "Who was the son of Abraham offered as a sacrifice to God?",
       "options": [
-        "Zion",
-        "Ararat",
-        "Carmel",
-        "Sinai"
+        "Ishmael",
+        "Isaac",
+        "Jacob",
+        "Esau"
       ],
-      "correct_index": 3,
-      "explanation": "Sinai.",
+      "correct_index": 1,
+      "explanation": "God tested Abraham by asking him to sacrifice his son Isaac (Genesis 22:2).",
       "difficulty": 1
     },
     {
       "id": "crs_010",
-      "text": "How many commandments did God give to Moses on Mount Sinai?",
+      "text": "What new name was given to Jacob after he wrestled with God?",
       "options": [
-        "7",
-        "5",
-        "10",
-        "12"
+        "Joseph",
+        "Israel",
+        "Judah",
+        "Benjamin"
       ],
-      "correct_index": 2,
-      "explanation": "10.",
+      "correct_index": 1,
+      "explanation": "Jacob was renamed Israel after wrestling with God (Genesis 32:28).",
       "difficulty": 1
     },
     {
       "id": "crs_011",
-      "text": "What weapon did David use to kill the giant Goliath?",
+      "text": "How many plagues did God send upon Egypt?",
       "options": [
-        "Bow",
-        "Sling stone",
-        "Sword",
-        "Spear"
+        "Seven",
+        "Ten",
+        "Twelve",
+        "Five"
       ],
       "correct_index": 1,
-      "explanation": "Sling stone.",
+      "explanation": "God sent ten plagues upon Egypt (Exodus 7-12).",
       "difficulty": 1
     },
     {
       "id": "crs_012",
-      "text": "Which king built the first temple in Jerusalem?",
+      "text": "From what natural object did God call Moses to lead Israel?",
       "options": [
-        "Solomon",
-        "David",
-        "Saul",
-        "Moses"
+        "A cloud",
+        "A burning bush",
+        "A rock",
+        "A tree"
       ],
-      "correct_index": 0,
-      "explanation": "Solomon.",
+      "correct_index": 1,
+      "explanation": "God spoke to Moses from a burning bush (Exodus 3:2).",
       "difficulty": 1
     },
     {
       "id": "crs_013",
-      "text": "In which town was Jesus Christ born?",
+      "text": "Through which sea did God part for the Israelites to cross?",
       "options": [
-        "Nazareth",
-        "Jerusalem",
-        "Galilee",
-        "Bethlehem"
+        "Mediterranean Sea",
+        "Red Sea",
+        "Dead Sea",
+        "Sea of Galilee"
       ],
-      "correct_index": 3,
-      "explanation": "Bethlehem.",
+      "correct_index": 1,
+      "explanation": "God parted the Red Sea so the Israelites could cross on dry ground (Exodus 14:21-22).",
       "difficulty": 1
     },
     {
       "id": "crs_014",
-      "text": "Who baptized Jesus Christ in the River Jordan?",
+      "text": "What did God provide for the Israelites to eat in the wilderness?",
       "options": [
-        "James",
-        "Andrew",
-        "John Baptist",
-        "Peter"
+        "Bread and fish",
+        "Manna and quails",
+        "Rice and beans",
+        "Meat and wine"
       ],
-      "correct_index": 2,
-      "explanation": "John Baptist.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "God sent manna from heaven and quails as food in the wilderness (Exodus 16:4, 13).",
+      "difficulty": 3
     },
     {
       "id": "crs_015",
-      "text": "At which place did Jesus perform his first miracle?",
+      "text": "On which mountain did Moses receive the Ten Commandments?",
       "options": [
-        "Bethlehem",
-        "Cana",
-        "Jerusalem",
-        "Nazareth"
+        "Mount Carmel",
+        "Mount Sinai",
+        "Mount Zion",
+        "Mount Nebo"
       ],
       "correct_index": 1,
-      "explanation": "Cana.",
+      "explanation": "Moses received the Ten Commandments on Mount Sinai (Exodus 19:20).",
       "difficulty": 1
     },
     {
       "id": "crs_016",
-      "text": "What did Jesus use to feed the five thousand people?",
+      "text": "How many tablets of the covenant did Moses bring down from the mountain?",
       "options": [
-        "5 loaves 2 fish",
-        "10 loaves",
-        "Only fish",
-        "Only bread"
+        "One",
+        "Two",
+        "Ten",
+        "Seven"
       ],
-      "correct_index": 0,
-      "explanation": "5 loaves 2 fish.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "God wrote the commandments on two tablets of stone (Exodus 31:18).",
+      "difficulty": 2
     },
     {
       "id": "crs_017",
-      "text": "Which disciple betrayed Jesus Christ to the authorities?",
+      "text": "What golden object did the Israelites make while Moses was on the mountain?",
       "options": [
-        "Peter",
-        "John",
-        "James",
-        "Judas"
+        "A golden calf",
+        "A golden crown",
+        "A golden lamp",
+        "A golden sword"
       ],
-      "correct_index": 3,
-      "explanation": "Judas.",
+      "correct_index": 0,
+      "explanation": "The people made a golden calf idol while Moses was on Mount Sinai (Exodus 32:4).",
       "difficulty": 1
     },
     {
       "id": "crs_018",
-      "text": "At which place was Jesus Christ crucified?",
+      "text": "Who was the first judge of Israel after Joshua?",
       "options": [
-        "Nazareth",
-        "Galilee",
-        "Golgotha",
-        "Bethlehem"
+        "Samuel",
+        "Othniel",
+        "Gideon",
+        "Deborah"
       ],
-      "correct_index": 2,
-      "explanation": "Golgotha.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Othniel was the first judge of Israel (Judges 3:9).",
+      "difficulty": 2
     },
     {
       "id": "crs_019",
-      "text": "On which day after his death was Jesus Christ resurrected?",
+      "text": "Which judge of Israel had his strength from his long hair?",
       "options": [
-        "First",
-        "Third day",
-        "Second",
-        "Seventh"
+        "Gideon",
+        "Samson",
+        "Samuel",
+        "Jephthah"
       ],
       "correct_index": 1,
-      "explanation": "Third day.",
+      "explanation": "Samson's strength was connected to his Nazirite vow and his long hair (Judges 16:17).",
       "difficulty": 1
     },
     {
       "id": "crs_020",
-      "text": "Who was the first Christian martyr mentioned in the Bible?",
+      "text": "How did Samson meet his death according to the Bible?",
       "options": [
-        "Stephen",
-        "Peter",
-        "James",
-        "John"
+        "In battle",
+        "By drowning",
+        "By pulling down the temple pillars",
+        "Of old age"
       ],
-      "correct_index": 0,
-      "explanation": "Stephen.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Samson pulled down the pillars of the Philistine temple, killing himself and his enemies (Judges 16:30).",
+      "difficulty": 2
     },
     {
       "id": "crs_021",
-      "text": "Who was the first man created by God according to the Bible? (variant 21)",
+      "text": "Who betrayed Samson to the Philistines?",
       "options": [
-        "Abraham",
-        "Moses",
-        "David",
-        "Adam"
+        "Delilah",
+        "Ruth",
+        "Naomi",
+        "Michal"
       ],
-      "correct_index": 3,
-      "explanation": "Adam.",
+      "correct_index": 0,
+      "explanation": "Delilah betrayed Samson after discovering the secret of his strength (Judges 16:18).",
       "difficulty": 1
     },
     {
       "id": "crs_022",
-      "text": "Who was the first woman created by God according to the Bible? (variant 22)",
+      "text": "Which female judge led Israel to victory over the Canaanites?",
       "options": [
-        "Rebekah",
-        "Rachel",
-        "Eve",
-        "Sarah"
+        "Esther",
+        "Ruth",
+        "Deborah",
+        "Hannah"
       ],
       "correct_index": 2,
-      "explanation": "Eve.",
-      "difficulty": 1
+      "explanation": "Deborah was a prophetess and judge who led Israel to victory (Judges 4:4-9).",
+      "difficulty": 3
     },
     {
       "id": "crs_023",
-      "text": "What is the name of the garden where Adam and Eve lived? (variant 23)",
+      "text": "What did Gideon use to defeat the Midianites?",
       "options": [
-        "Jerusalem",
-        "Eden",
-        "Gethsemane",
-        "Galilee"
+        "Swords and shields",
+        "Trumpets, torches, and jars",
+        "Chariots",
+        "Catapults"
       ],
       "correct_index": 1,
-      "explanation": "Eden.",
-      "difficulty": 1
+      "explanation": "Gideon's 300 men used trumpets, torches, and empty jars to confuse and defeat the Midianites (Judges 7:16-20).",
+      "difficulty": 2
     },
     {
       "id": "crs_024",
-      "text": "Why was Noah saved from the great flood by God? (variant 24)",
+      "text": "How many men did Gideon select for his final battle force?",
       "options": [
-        "Righteous",
-        "Wicked",
-        "Rich",
-        "Strong"
+        "Three hundred",
+        "Three thousand",
+        "Three hundred thousand",
+        "Thirty"
       ],
       "correct_index": 0,
-      "explanation": "Righteous.",
-      "difficulty": 1
+      "explanation": "God reduced Gideon's army to 300 men so Israel would know the victory was from God (Judges 7:7).",
+      "difficulty": 2
     },
     {
       "id": "crs_025",
-      "text": "Abraham son of promise: (variant 25)",
+      "text": "Which book of the Bible tells the story of Ruth?",
       "options": [
-        "Ishmael",
-        "Jacob",
-        "Esau",
-        "Isaac"
+        "Judges",
+        "Esther",
+        "Ruth",
+        "1 Samuel"
       ],
-      "correct_index": 3,
-      "explanation": "Isaac.",
+      "correct_index": 2,
+      "explanation": "The Book of Ruth tells the story of Ruth's loyalty and her journey to Bethlehem.",
       "difficulty": 1
     },
     {
       "id": "crs_026",
-      "text": "What was Jacob's new name after he wrestled with God? (variant 26)",
+      "text": "Whose mother prayed for a child and received Samuel?",
       "options": [
-        "Joseph",
-        "Benjamin",
-        "Israel",
-        "Judah"
+        "Eli",
+        "Hannah",
+        "Sarah",
+        "Rachel"
       ],
-      "correct_index": 2,
-      "explanation": "Israel.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Hannah prayed earnestly for a son and God answered her prayer, giving her Samuel (1 Samuel 1:20).",
+      "difficulty": 2
     },
     {
       "id": "crs_027",
-      "text": "From which mountain did God call Moses through the burning bush? (variant 27)",
+      "text": "Who anointed Saul as the first king of Israel?",
       "options": [
-        "Temple",
-        "Burning bush",
-        "Cloud",
-        "Dream"
+        "Eli",
+        "Samuel",
+        "David",
+        "Nathan"
       ],
       "correct_index": 1,
-      "explanation": "Burning bush.",
-      "difficulty": 1
+      "explanation": "Samuel anointed Saul as the first king of Israel at God's command (1 Samuel 10:1).",
+      "difficulty": 2
     },
     {
       "id": "crs_028",
-      "text": "How many plagues did God bring upon Egypt? (variant 28)",
+      "text": "Why did God reject Saul as king of Israel?",
       "options": [
-        "10",
-        "5",
-        "7",
-        "12"
+        "He was too young",
+        "He disobeyed God's command",
+        "He was a coward",
+        "He worshipped idols"
       ],
-      "correct_index": 0,
-      "explanation": "10.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Saul disobeyed God by offering an unlawful sacrifice and not completely destroying the Amalekites (1 Samuel 15:22-23).",
+      "difficulty": 2
     },
     {
       "id": "crs_029",
-      "text": "On which mountain did Moses receive the Ten Commandments? (variant 29)",
+      "text": "Who killed Goliath the Philistine giant?",
       "options": [
-        "Zion",
-        "Ararat",
-        "Carmel",
-        "Sinai"
+        "Saul",
+        "Jonathan",
+        "David",
+        "Abner"
       ],
-      "correct_index": 3,
-      "explanation": "Sinai.",
+      "correct_index": 2,
+      "explanation": "David killed Goliath with a stone from his sling (1 Samuel 17:49).",
       "difficulty": 1
     },
     {
       "id": "crs_030",
-      "text": "What did God give to Moses on Mount Sinai? (variant 30)",
+      "text": "What weapon did David use to fight Goliath?",
       "options": [
-        "7",
-        "5",
-        "10",
-        "12"
+        "A sword",
+        "A spear",
+        "A sling and stone",
+        "A bow and arrow"
       ],
       "correct_index": 2,
-      "explanation": "10.",
-      "difficulty": 1
+      "explanation": "David used a sling and a stone to defeat Goliath (1 Samuel 17:40).",
+      "difficulty": 2
     },
     {
       "id": "crs_031",
-      "text": "David killed Goliath with: (variant 31)",
+      "text": "Which king of Israel was described as a man after God's own heart?",
       "options": [
-        "Bow",
-        "Sling stone",
-        "Sword",
-        "Spear"
+        "Saul",
+        "Solomon",
+        "David",
+        "Rehoboam"
       ],
-      "correct_index": 1,
-      "explanation": "Sling stone.",
+      "correct_index": 2,
+      "explanation": "David was described as a man after God's own heart (1 Samuel 13:14).",
       "difficulty": 1
     },
     {
       "id": "crs_032",
-      "text": "Who built the first temple in Jerusalem for God? (variant 32)",
+      "text": "What was the name of David's most notorious sin?",
       "options": [
-        "Solomon",
-        "David",
-        "Saul",
-        "Moses"
+        "Idolatry",
+        "Murder of Uriah and adultery with Bathsheba",
+        "Dishonesty in business",
+        "Refusing to pray"
       ],
-      "correct_index": 0,
-      "explanation": "Solomon.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "David committed adultery with Bathsheba and arranged the death of her husband Uriah (2 Samuel 11).",
+      "difficulty": 2
     },
     {
       "id": "crs_033",
-      "text": "Where was Jesus Christ born according to the Bible? (variant 33)",
+      "text": "Who was the prophet that confronted David about his sin with Bathsheba?",
       "options": [
-        "Nazareth",
-        "Jerusalem",
-        "Galilee",
-        "Bethlehem"
+        "Samuel",
+        "Nathan",
+        "Elijah",
+        "Gad"
       ],
-      "correct_index": 3,
-      "explanation": "Bethlehem.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Nathan the prophet confronted David with a parable about his sin (2 Samuel 12:1-14).",
+      "difficulty": 2
     },
     {
       "id": "crs_034",
-      "text": "Who baptized Jesus Christ in the River Jordan? (variant 34)",
+      "text": "What was Solomon famous for requesting from God?",
       "options": [
-        "James",
-        "Andrew",
-        "John Baptist",
-        "Peter"
+        "Wealth and power",
+        "Wisdom and understanding",
+        "Long life",
+        "Victory over enemies"
       ],
-      "correct_index": 2,
-      "explanation": "John Baptist.",
+      "correct_index": 1,
+      "explanation": "Solomon asked God for wisdom and understanding to govern Israel (1 Kings 3:9-12).",
       "difficulty": 1
     },
     {
       "id": "crs_035",
-      "text": "At which place did Jesus perform his first miracle? (variant 35)",
+      "text": "What great structure did Solomon build for God in Jerusalem?",
       "options": [
-        "Bethlehem",
-        "Cana",
-        "Jerusalem",
-        "Nazareth"
+        "A palace",
+        "The Temple",
+        "A fortress",
+        "An aqueduct"
       ],
       "correct_index": 1,
-      "explanation": "Cana.",
-      "difficulty": 1
+      "explanation": "Solomon built the Temple in Jerusalem as a house for the Ark of the Covenant (1 Kings 6).",
+      "difficulty": 2
     },
     {
       "id": "crs_036",
-      "text": "What did Jesus use to feed the five thousand people? (variant 36)",
+      "text": "How many years did it take Solomon to build the Temple?",
       "options": [
-        "5 loaves 2 fish",
-        "10 loaves",
-        "Only fish",
-        "Only bread"
+        "Five",
+        "Seven",
+        "Ten",
+        "Twelve"
       ],
-      "correct_index": 0,
-      "explanation": "5 loaves 2 fish.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "It took Solomon seven years to build the Temple (1 Kings 6:38).",
+      "difficulty": 2
     },
     {
       "id": "crs_037",
-      "text": "Who betrayed Jesus Christ to the Roman soldiers? (variant 37)",
+      "text": "What caused the kingdom of Israel to split after Solomon's death?",
       "options": [
-        "Peter",
-        "John",
-        "James",
-        "Judas"
+        "Foreign invasion",
+        "Rehoboam's foolish answer to the people",
+        "A natural disaster",
+        "A religious reformation"
       ],
-      "correct_index": 3,
-      "explanation": "Judas.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Rehoboam's harsh reply caused ten tribes to break away and form the northern kingdom (1 Kings 12:13-16).",
+      "difficulty": 2
     },
     {
       "id": "crs_038",
-      "text": "At which place was Jesus Christ crucified? (variant 38)",
+      "text": "Who was the first king of the northern kingdom of Israel?",
       "options": [
-        "Nazareth",
-        "Galilee",
-        "Golgotha",
-        "Bethlehem"
+        "Rehoboam",
+        "Jeroboam",
+        "Omri",
+        "Ahab"
       ],
-      "correct_index": 2,
-      "explanation": "Golgotha.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Jeroboam became the first king of the northern kingdom after the split (1 Kings 12:20).",
+      "difficulty": 3
     },
     {
       "id": "crs_039",
-      "text": "On which day of the week did Jesus Christ resurrect? (variant 39)",
+      "text": "On which mountain did Elijah contest with the prophets of Baal?",
       "options": [
-        "First",
-        "Third day",
-        "Second",
-        "Seventh"
+        "Mount Sinai",
+        "Mount Carmel",
+        "Mount Zion",
+        "Mount Horeb"
       ],
       "correct_index": 1,
-      "explanation": "Third day.",
+      "explanation": "Elijah challenged the prophets of Baal on Mount Carmel (1 Kings 18:20).",
       "difficulty": 1
     },
     {
       "id": "crs_040",
-      "text": "Who was the first Christian martyr in the Bible? (variant 40)",
+      "text": "What miracle did Elijah perform on Mount Carmel to prove God's power?",
       "options": [
-        "Stephen",
-        "Peter",
-        "James",
-        "John"
+        "Parted the sea",
+        "Called fire from heaven to consume the sacrifice",
+        "Raised the dead",
+        "Multiplied bread"
       ],
-      "correct_index": 0,
-      "explanation": "Stephen.",
+      "correct_index": 1,
+      "explanation": "Elijah called fire from heaven which consumed the soaked sacrifice on Mount Carmel (1 Kings 18:38).",
       "difficulty": 1
     },
     {
       "id": "crs_041",
-      "text": "Who was the first man created by God according to the Bible? (variant 41)",
+      "text": "According to the Bible, how did the prophet Elijah depart and go to heaven?",
       "options": [
-        "Abraham",
-        "Moses",
-        "David",
-        "Adam"
+        "He died of old age",
+        "In a chariot of fire",
+        "In a cloud",
+        "He was carried by angels"
       ],
-      "correct_index": 3,
-      "explanation": "Adam.",
+      "correct_index": 1,
+      "explanation": "Elijah was taken up to heaven in a chariot of fire (2 Kings 2:11).",
       "difficulty": 1
     },
     {
       "id": "crs_042",
-      "text": "Who was the first woman created by God according to the Bible? (variant 42)",
+      "text": "Who succeeded Elijah as a prophet in Israel?",
       "options": [
-        "Rebekah",
-        "Rachel",
-        "Eve",
-        "Sarah"
+        "Isaiah",
+        "Jeremiah",
+        "Elisha",
+        "Amos"
       ],
       "correct_index": 2,
-      "explanation": "Eve.",
-      "difficulty": 1
+      "explanation": "Elisha succeeded Elijah and received a double portion of his spirit (2 Kings 2:9).",
+      "difficulty": 2
     },
     {
       "id": "crs_043",
-      "text": "What is the name of the garden where Adam and Eve lived? (variant 43)",
+      "text": "What did Naaman the Syrian need to do to be healed of leprosy?",
       "options": [
-        "Jerusalem",
-        "Eden",
-        "Gethsemane",
-        "Galilee"
+        "Offer a sacrifice",
+        "Wash seven times in the Jordan River",
+        "Fast for forty days",
+        "Travel to Jerusalem"
       ],
       "correct_index": 1,
-      "explanation": "Eden.",
-      "difficulty": 1
+      "explanation": "Elisha told Naaman to wash seven times in the Jordan River to be healed (2 Kings 5:10).",
+      "difficulty": 2
     },
     {
       "id": "crs_044",
-      "text": "Why was Noah saved from the great flood by God? (variant 44)",
+      "text": "Which wicked queen of Israel promoted Baal worship?",
       "options": [
-        "Righteous",
-        "Wicked",
-        "Rich",
-        "Strong"
+        "Jezebel",
+        "Athaliah",
+        "Herodias",
+        "Delilah"
       ],
       "correct_index": 0,
-      "explanation": "Righteous.",
+      "explanation": "Queen Jezebel promoted Baal worship and persecuted the prophets of God (1 Kings 18:4).",
       "difficulty": 1
     },
     {
       "id": "crs_045",
-      "text": "Abraham son of promise: (variant 45)",
+      "text": "What happened to the sons of the prophet who lied about Elijah?",
       "options": [
-        "Ishmael",
-        "Jacob",
-        "Esau",
-        "Isaac"
+        "They were blessed",
+        "They were killed by lions",
+        "They were exiled",
+        "They became blind"
       ],
-      "correct_index": 3,
-      "explanation": "Isaac.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The sons of the prophet who lied were killed by a lion as God's judgment (1 Kings 20:35-36).",
+      "difficulty": 3
     },
     {
       "id": "crs_046",
-      "text": "What was Jacob's new name after he wrestled with God? (variant 46)",
+      "text": "Which prophet prophesied that a virgin would conceive and bear a son?",
       "options": [
-        "Joseph",
-        "Benjamin",
-        "Israel",
-        "Judah"
+        "Jeremiah",
+        "Isaiah",
+        "Amos",
+        "Hosea"
       ],
-      "correct_index": 2,
-      "explanation": "Israel.",
+      "correct_index": 1,
+      "explanation": "Isaiah prophesied: 'A virgin shall conceive and bear a son, and shall call his name Immanuel' (Isaiah 7:14).",
       "difficulty": 1
     },
     {
       "id": "crs_047",
-      "text": "From which mountain did God call Moses through the burning bush? (variant 47)",
+      "text": "What title did Isaiah give to the coming Messiah in Isaiah 9:6?",
       "options": [
-        "Temple",
-        "Burning bush",
-        "Cloud",
-        "Dream"
+        "Prince of Peace",
+        "Mighty God, Everlasting Father",
+        "Lion of Judah",
+        "Root of Jesse"
       ],
       "correct_index": 1,
-      "explanation": "Burning bush.",
-      "difficulty": 1
+      "explanation": "Isaiah called the Messiah 'Mighty God, Everlasting Father, Prince of Peace' (Isaiah 9:6).",
+      "difficulty": 3
     },
     {
       "id": "crs_048",
-      "text": "How many plagues did God bring upon Egypt? (variant 48)",
+      "text": "To which city was Jeremiah called to prophesy?",
       "options": [
-        "10",
-        "5",
-        "7",
-        "12"
+        "Babylon",
+        "Nineveh",
+        "Jerusalem",
+        "Samaria"
       ],
-      "correct_index": 0,
-      "explanation": "10.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Jeremiah was called to prophesy to Jerusalem and Judah before the Babylonian exile (Jeremiah 1:2).",
+      "difficulty": 3
     },
     {
       "id": "crs_049",
-      "text": "On which mountain did Moses receive the Ten Commandments? (variant 49)",
+      "text": "Why was Jeremiah called the 'weeping prophet'?",
       "options": [
-        "Zion",
-        "Ararat",
-        "Carmel",
-        "Sinai"
+        "He wept at his own suffering",
+        "He wept over Jerusalem's coming destruction",
+        "He wept during prayer always",
+        "He wept at the Temple's dedication"
       ],
-      "correct_index": 3,
-      "explanation": "Sinai.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Jeremiah wept over the sins of Judah and the coming destruction of Jerusalem (Jeremiah 9:1).",
+      "difficulty": 3
     },
     {
       "id": "crs_050",
-      "text": "What did God give to Moses on Mount Sinai? (variant 50)",
+      "text": "What did God command Jeremiah to do that symbolized Judah's bondage?",
       "options": [
-        "7",
-        "5",
-        "10",
-        "12"
+        "Wear sackcloth",
+        "Buy a clay jar and break it",
+        "Fast for forty days",
+        "Walk barefoot"
       ],
-      "correct_index": 2,
-      "explanation": "10.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "God told Jeremiah to buy a clay jar and break it to symbolize the coming destruction of Judah (Jeremiah 19:1-2).",
+      "difficulty": 2
     },
     {
       "id": "crs_051",
-      "text": "David killed Goliath with: (variant 51)",
+      "text": "What did the potter and clay symbolize in Jeremiah's vision?",
       "options": [
-        "Bow",
-        "Sling stone",
-        "Sword",
-        "Spear"
+        "God's judgment on sin",
+        "God's power over nations",
+        "God's sovereign right to shape Israel",
+        "The Temple's construction"
       ],
-      "correct_index": 1,
-      "explanation": "Sling stone.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "As the potter shapes clay, God has the sovereign right to shape or reshape the nation of Israel (Jeremiah 18:6).",
+      "difficulty": 3
     },
     {
       "id": "crs_052",
-      "text": "Who built the first temple in Jerusalem for God? (variant 52)",
+      "text": "Which prophet used the metaphor of a husband who would punish an unfaithful wife?",
       "options": [
-        "Solomon",
-        "David",
-        "Saul",
-        "Moses"
+        "Isaiah",
+        "Amos",
+        "Hosea",
+        "Micah"
       ],
-      "correct_index": 0,
-      "explanation": "Solomon.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Hosea's marriage to Gomer symbolized God's faithful love for unfaithful Israel (Hosea 1:2).",
+      "difficulty": 2
     },
     {
       "id": "crs_053",
-      "text": "Where was Jesus Christ born according to the Bible? (variant 53)",
+      "text": "Who was the wife of Hosea that represented unfaithful Israel?",
       "options": [
-        "Nazareth",
-        "Jerusalem",
-        "Galilee",
-        "Bethlehem"
+        "Jezebel",
+        "Gomer",
+        "Ruth",
+        "Hannah"
       ],
-      "correct_index": 3,
-      "explanation": "Bethlehem.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Gomer was Hosea's unfaithful wife who symbolized Israel's idolatry (Hosea 1:3).",
+      "difficulty": 2
     },
     {
       "id": "crs_054",
-      "text": "Who baptized Jesus Christ in the River Jordan? (variant 54)",
+      "text": "What did Hosea say about God's love for Israel?",
       "options": [
-        "James",
-        "Andrew",
-        "John Baptist",
-        "Peter"
+        "It was conditional",
+        "It was temporary",
+        "It was like the love of a faithful husband",
+        "It was replaced by anger"
       ],
       "correct_index": 2,
-      "explanation": "John Baptist.",
-      "difficulty": 1
+      "explanation": "Hosea portrayed God's love as that of a faithful husband pursuing his unfaithful wife (Hosea 2:14-20).",
+      "difficulty": 2
     },
     {
       "id": "crs_055",
-      "text": "At which place did Jesus perform his first miracle? (variant 55)",
+      "text": "Which prophet condemned social injustice and exploitation of the poor?",
       "options": [
-        "Bethlehem",
-        "Cana",
-        "Jerusalem",
-        "Nazareth"
+        "Isaiah",
+        "Amos",
+        "Daniel",
+        "Ezekiel"
       ],
       "correct_index": 1,
-      "explanation": "Cana.",
+      "explanation": "Amos strongly condemned social injustice, oppression of the poor, and corrupt worship (Amos 2:6-7).",
       "difficulty": 1
     },
     {
       "id": "crs_056",
-      "text": "What did Jesus use to feed the five thousand people? (variant 56)",
+      "text": "What was Amos's profession before becoming a prophet?",
       "options": [
-        "5 loaves 2 fish",
-        "10 loaves",
-        "Only fish",
-        "Only bread"
+        "Fisherman",
+        "Shepherd and dresser of sycamore trees",
+        "Soldier",
+        "Priest"
       ],
-      "correct_index": 0,
-      "explanation": "5 loaves 2 fish.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Amos was a shepherd and dresser of sycamore trees before God called him to prophesy (Amos 7:14).",
+      "difficulty": 2
     },
     {
       "id": "crs_057",
-      "text": "Who betrayed Jesus Christ to the Roman soldiers? (variant 57)",
+      "text": "What did Amos say about justice and righteousness?",
       "options": [
-        "Peter",
-        "John",
-        "James",
-        "Judas"
+        "Let justice roll down like waters and righteousness like an ever-flowing stream",
+        "Justice is only for the rich",
+        "Righteousness is not important",
+        "Justice will come only at the end of time"
       ],
-      "correct_index": 3,
-      "explanation": "Judas.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Amos called for justice and righteousness to flow abundantly (Amos 5:24).",
+      "difficulty": 3
     },
     {
       "id": "crs_058",
-      "text": "At which place was Jesus Christ crucified? (variant 58)",
+      "text": "Which prophet said, 'What does the Lord require of you but to do justice, love mercy, and walk humbly with your God?'",
       "options": [
-        "Nazareth",
-        "Galilee",
-        "Golgotha",
-        "Bethlehem"
+        "Isaiah",
+        "Jeremiah",
+        "Micah",
+        "Hosea"
       ],
       "correct_index": 2,
-      "explanation": "Golgotha.",
+      "explanation": "Micah summarized God's requirements: justice, mercy, and humility (Micah 6:8).",
       "difficulty": 1
     },
     {
       "id": "crs_059",
-      "text": "On which day of the week did Jesus Christ resurrect? (variant 59)",
+      "text": "According to the Bible, which town or region was the prophet Micah from?",
       "options": [
-        "First",
-        "Third day",
-        "Second",
-        "Seventh"
+        "Jerusalem",
+        "Moresheth in Judah",
+        "Samaria",
+        "Bethel"
       ],
       "correct_index": 1,
-      "explanation": "Third day.",
-      "difficulty": 1
+      "explanation": "Micah was from Moresheth in the land of Judah (Micah 1:1).",
+      "difficulty": 3
     },
     {
       "id": "crs_060",
-      "text": "Who was the first Christian martyr in the Bible? (variant 60)",
+      "text": "What vision did Ezekiel see by the river Chebar?",
       "options": [
-        "Stephen",
-        "Peter",
-        "James",
-        "John"
+        "A burning bush",
+        "A valley of dry bones",
+        "Four living creatures and a wheels-within-wheels chariot",
+        "A ladder reaching to heaven"
       ],
-      "correct_index": 0,
-      "explanation": "Stephen.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Ezekiel saw a glorious vision of God's throne chariot with four living creatures and interlocking wheels (Ezekiel 1).",
+      "difficulty": 2
     },
     {
       "id": "crs_061",
-      "text": "Who was the first man created by God according to the Bible? (variant 61)",
+      "text": "What did the valley of dry bones vision symbolize?",
       "options": [
-        "Abraham",
-        "Moses",
-        "David",
-        "Adam"
+        "The creation of the world",
+        "The resurrection of Israel from exile",
+        "The coming flood",
+        "The building of the Temple"
       ],
-      "correct_index": 3,
-      "explanation": "Adam.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The dry bones coming to life symbolized God's power to restore Israel from exile (Ezekiel 37:11).",
+      "difficulty": 2
     },
     {
       "id": "crs_062",
-      "text": "Who was the first woman created by God according to the Bible? (variant 62)",
+      "text": "Which prophet was thrown into a cistern for prophesying the fall of Jerusalem?",
       "options": [
-        "Rebekah",
-        "Rachel",
-        "Eve",
-        "Sarah"
+        "Isaiah",
+        "Jeremiah",
+        "Ezekiel",
+        "Daniel"
       ],
-      "correct_index": 2,
-      "explanation": "Eve.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Jeremiah was thrown into a muddy cistern because of his unpopular prophecies (Jeremiah 38:6).",
+      "difficulty": 3
     },
     {
       "id": "crs_063",
-      "text": "What is the name of the garden where Adam and Eve lived? (variant 63)",
+      "text": "Who was taken into exile in Babylon and interpreted Nebuchadnezzar's dream?",
       "options": [
-        "Jerusalem",
-        "Eden",
-        "Gethsemane",
-        "Galilee"
+        "Jeremiah",
+        "Ezekiel",
+        "Daniel",
+        "Shadrach"
       ],
-      "correct_index": 1,
-      "explanation": "Eden.",
+      "correct_index": 2,
+      "explanation": "Daniel interpreted King Nebuchadnezzar's dream while in exile in Babylon (Daniel 2).",
       "difficulty": 1
     },
     {
       "id": "crs_064",
-      "text": "Why was Noah saved from the great flood by God? (variant 64)",
+      "text": "Who were the three friends of Daniel thrown into the fiery furnace?",
       "options": [
-        "Righteous",
-        "Wicked",
-        "Rich",
-        "Strong"
+        "Shadrach, Meshach, and Abednego",
+        "Hananiah, Mishael, and Azariah",
+        "Both A and B",
+        "Neither A nor B"
       ],
-      "correct_index": 0,
-      "explanation": "Righteous.",
+      "correct_index": 2,
+      "explanation": "Shadrach, Meshach, and Abednego (also known as Hananiah, Mishael, and Azariah) were thrown into the furnace (Daniel 3).",
       "difficulty": 1
     },
     {
       "id": "crs_065",
-      "text": "Abraham son of promise: (variant 65)",
+      "text": "Why were Shadrach, Meshach, and Abednego thrown into the fiery furnace?",
       "options": [
-        "Ishmael",
-        "Jacob",
-        "Esau",
-        "Isaac"
+        "They committed theft",
+        "They refused to bow to Nebuchadnezzar's golden image",
+        "They prophesied against the king",
+        "They tried to escape from Babylon"
       ],
-      "correct_index": 3,
-      "explanation": "Isaac.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "They refused to worship Nebuchadnezzar's golden image, remaining faithful to God (Daniel 3:16-18).",
+      "difficulty": 2
     },
     {
       "id": "crs_066",
-      "text": "What was Jacob's new name after he wrestled with God? (variant 66)",
+      "text": "Who threw Daniel into the lions' den?",
       "options": [
-        "Joseph",
-        "Benjamin",
-        "Israel",
-        "Judah"
+        "Nebuchadnezzar",
+        "Darius the Mede",
+        "Belshazzar",
+        "Cyrus"
       ],
-      "correct_index": 2,
-      "explanation": "Israel.",
+      "correct_index": 1,
+      "explanation": "King Darius was tricked by jealous officials into throwing Daniel into the lions' den (Daniel 6).",
       "difficulty": 1
     },
     {
       "id": "crs_067",
-      "text": "From which mountain did God call Moses through the burning bush? (variant 67)",
+      "text": "Which book of the Bible contains the story of Jonah?",
       "options": [
-        "Temple",
-        "Burning bush",
-        "Cloud",
-        "Dream"
+        "2 Kings",
+        "Jonah",
+        "Amos",
+        "Micah"
       ],
       "correct_index": 1,
-      "explanation": "Burning bush.",
+      "explanation": "The Book of Jonah records Jonah's mission to Nineveh.",
       "difficulty": 1
     },
     {
       "id": "crs_068",
-      "text": "How many plagues did God bring upon Egypt? (variant 68)",
+      "text": "What did Jonah try to do when God called him to go to Nineveh?",
       "options": [
-        "10",
-        "5",
-        "7",
-        "12"
+        "He immediately obeyed",
+        "He tried to flee in the opposite direction",
+        "He asked for a sign",
+        "He prayed for guidance"
       ],
-      "correct_index": 0,
-      "explanation": "10.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Jonah tried to flee from God's presence by sailing to Tarshish (Jonah 1:3).",
+      "difficulty": 3
     },
     {
       "id": "crs_069",
-      "text": "On which mountain did Moses receive the Ten Commandments? (variant 69)",
+      "text": "What swallowed Jonah when he was thrown into the sea?",
       "options": [
-        "Zion",
-        "Ararat",
-        "Carmel",
-        "Sinai"
+        "A whale",
+        "A great fish",
+        "A shark",
+        "A dolphin"
       ],
-      "correct_index": 3,
-      "explanation": "Sinai.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "God prepared a great fish to swallow Jonah (Jonah 1:17).",
+      "difficulty": 2
     },
     {
       "id": "crs_070",
-      "text": "What did God give to Moses on Mount Sinai? (variant 70)",
+      "text": "What was the preaching theme of Jonah in Nineveh?",
       "options": [
-        "7",
-        "5",
-        "10",
-        "12"
+        "Repentance and forgiveness",
+        "Forty more days and Nineveh will be overthrown",
+        "Believe in the one true God",
+        "The coming of the Messiah"
       ],
-      "correct_index": 2,
-      "explanation": "10.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Jonah proclaimed that Nineveh would be overthrown in forty days (Jonah 3:4).",
+      "difficulty": 2
     },
     {
       "id": "crs_071",
-      "text": "David killed Goliath with: (variant 71)",
+      "text": "Why was Jonah angry when Nineveh repented?",
       "options": [
-        "Bow",
-        "Sling stone",
-        "Sword",
-        "Spear"
+        "He lost his reward",
+        "He knew God was gracious and would relent",
+        "The Ninevites insulted him",
+        "He wanted to return home"
       ],
       "correct_index": 1,
-      "explanation": "Sling stone.",
-      "difficulty": 1
+      "explanation": "Jonah was angry because he knew God's compassionate nature and would relent from destroying Nineveh (Jonah 4:2).",
+      "difficulty": 3
     },
     {
       "id": "crs_072",
-      "text": "Who built the first temple in Jerusalem for God? (variant 72)",
+      "text": "What did Jesus say about loving one's enemies?",
       "options": [
-        "Solomon",
-        "David",
-        "Saul",
-        "Moses"
+        "Avoid them",
+        "Pray for those who persecute you",
+        "Fight back with equal force",
+        "Ignore them"
       ],
-      "correct_index": 0,
-      "explanation": "Solomon.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Jesus commanded: 'Pray for those who persecute you' (Matthew 5:44).",
+      "difficulty": 3
     },
     {
       "id": "crs_073",
-      "text": "Where was Jesus Christ born according to the Bible? (variant 73)",
+      "text": "In which town was Jesus Christ born according to the Bible?",
       "options": [
         "Nazareth",
+        "Bethlehem",
         "Jerusalem",
-        "Galilee",
-        "Bethlehem"
+        "Capernaum"
       ],
-      "correct_index": 3,
-      "explanation": "Bethlehem.",
+      "correct_index": 1,
+      "explanation": "Jesus was born in Bethlehem (Luke 2:4-7).",
       "difficulty": 1
     },
     {
       "id": "crs_074",
-      "text": "Who baptized Jesus Christ in the River Jordan? (variant 74)",
+      "text": "Who was the mother of jesus and what was their role in history?",
       "options": [
-        "James",
-        "Andrew",
-        "John Baptist",
-        "Peter"
+        "Elizabeth",
+        "Mary",
+        "Martha",
+        "Mary Magdalene"
       ],
-      "correct_index": 2,
-      "explanation": "John Baptist.",
+      "correct_index": 1,
+      "explanation": "Mary was the mother of Jesus, conceived by the Holy Spirit (Luke 1:26-35).",
       "difficulty": 1
     },
     {
       "id": "crs_075",
-      "text": "At which place did Jesus perform his first miracle? (variant 75)",
+      "text": "What was the name of Jesus' earthly father?",
       "options": [
-        "Bethlehem",
-        "Cana",
-        "Jerusalem",
-        "Nazareth"
+        "Zechariah",
+        "Joseph",
+        "Simeon",
+        "Annas"
       ],
       "correct_index": 1,
-      "explanation": "Cana.",
+      "explanation": "Joseph was the earthly father of Jesus, a carpenter from Nazareth (Matthew 1:18-20).",
       "difficulty": 1
     },
     {
       "id": "crs_076",
-      "text": "What did Jesus use to feed the five thousand people? (variant 76)",
+      "text": "Which king ordered the killing of baby boys in Bethlehem?",
       "options": [
-        "5 loaves 2 fish",
-        "10 loaves",
-        "Only fish",
-        "Only bread"
+        "Pontius Pilate",
+        "Herod the Great",
+        "Caesar Augustus",
+        "Archelaus"
       ],
-      "correct_index": 0,
-      "explanation": "5 loaves 2 fish.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Herod the Great ordered the massacre of infants in Bethlehem (Matthew 2:16).",
+      "difficulty": 2
     },
     {
       "id": "crs_077",
-      "text": "Who betrayed Jesus Christ to the Roman soldiers? (variant 77)",
+      "text": "Who were the wise men that visited baby Jesus?",
       "options": [
-        "Peter",
-        "John",
-        "James",
-        "Judas"
+        "Shepherds",
+        "Magi from the East",
+        "Pharisees",
+        "Sadducees"
       ],
-      "correct_index": 3,
-      "explanation": "Judas.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Magi from the East followed a star to visit the newborn king (Matthew 2:1-2).",
+      "difficulty": 2
     },
     {
       "id": "crs_078",
-      "text": "At which place was Jesus Christ crucified? (variant 78)",
+      "text": "How many wise men visited Jesus according to tradition?",
       "options": [
-        "Nazareth",
-        "Galilee",
-        "Golgotha",
-        "Bethlehem"
+        "Two",
+        "Three",
+        "Four",
+        "Five"
       ],
-      "correct_index": 2,
-      "explanation": "Golgotha.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Tradition holds there were three wise men, corresponding to three gifts (Matthew 2:11).",
+      "difficulty": 2
     },
     {
       "id": "crs_079",
-      "text": "On which day of the week did Jesus Christ resurrect? (variant 79)",
+      "text": "At which place was Jesus Christ baptized?",
       "options": [
-        "First",
-        "Third day",
-        "Second",
-        "Seventh"
+        "Sea of Galilee",
+        "River Jordan",
+        "River Nile",
+        "River Euphrates"
       ],
       "correct_index": 1,
-      "explanation": "Third day.",
+      "explanation": "Jesus was baptized by John in the River Jordan (Matthew 3:13-16).",
       "difficulty": 1
     },
     {
       "id": "crs_080",
-      "text": "Who was the first Christian martyr in the Bible? (variant 80)",
+      "text": "Who baptized Jesus Christ in the River Jordan?",
       "options": [
-        "Stephen",
         "Peter",
-        "James",
-        "John"
+        "Andrew",
+        "John the Baptist",
+        "James"
       ],
-      "correct_index": 0,
-      "explanation": "Stephen.",
+      "correct_index": 2,
+      "explanation": "John the Baptist baptized Jesus in the River Jordan (Matthew 3:13-14).",
       "difficulty": 1
     },
     {
       "id": "crs_081",
-      "text": "Who was the first man created by God according to the Bible? (variant 81)",
+      "text": "What happened when Jesus was baptized?",
       "options": [
-        "Abraham",
-        "Moses",
-        "David",
-        "Adam"
+        "It thundered loudly",
+        "The heavens opened and the Spirit descended like a dove",
+        "An earthquake shook the land",
+        "Darkness covered the land"
       ],
-      "correct_index": 3,
-      "explanation": "Adam.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The heavens opened, the Spirit descended like a dove, and a voice from heaven spoke (Matthew 3:16-17).",
+      "difficulty": 3
     },
     {
       "id": "crs_082",
-      "text": "Who was the first woman created by God according to the Bible? (variant 82)",
+      "text": "Where was Jesus tempted by the devil after his baptism?",
       "options": [
-        "Rebekah",
-        "Rachel",
-        "Eve",
-        "Sarah"
+        "In the Garden of Gethsemane",
+        "In the wilderness for forty days",
+        "On Mount Sinai",
+        "In the Temple"
       ],
-      "correct_index": 2,
-      "explanation": "Eve.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Jesus was led by the Spirit into the wilderness to be tempted for forty days (Matthew 4:1-2).",
+      "difficulty": 2
     },
     {
       "id": "crs_083",
-      "text": "What is the name of the garden where Adam and Eve lived? (variant 83)",
+      "text": "How did Jesus respond to Satan's temptation to turn stones into bread?",
       "options": [
-        "Jerusalem",
-        "Eden",
-        "Gethsemane",
-        "Galilee"
+        "He refused, quoting Scripture",
+        "He turned the stones to bread",
+        "He ignored Satan",
+        "He prayed for help"
       ],
-      "correct_index": 1,
-      "explanation": "Eden.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Jesus quoted Deuteronomy 8:3: 'Man shall not live by bread alone' (Matthew 4:4).",
+      "difficulty": 3
     },
     {
       "id": "crs_084",
-      "text": "Why was Noah saved from the great flood by God? (variant 84)",
+      "text": "What was the first miracle Jesus performed?",
       "options": [
-        "Righteous",
-        "Wicked",
-        "Rich",
-        "Strong"
+        "Healing a leper",
+        "Turning water into wine at Cana",
+        "Feeding the five thousand",
+        "Walking on water"
       ],
-      "correct_index": 0,
-      "explanation": "Righteous.",
+      "correct_index": 1,
+      "explanation": "Jesus turned water into wine at a wedding in Cana of Galilee (John 2:1-11).",
       "difficulty": 1
     },
     {
       "id": "crs_085",
-      "text": "Abraham son of promise: (variant 85)",
+      "text": "In which town did Jesus perform his first miracle?",
       "options": [
-        "Ishmael",
-        "Jacob",
-        "Esau",
-        "Isaac"
+        "Bethlehem",
+        "Nazareth",
+        "Cana of Galilee",
+        "Capernaum"
       ],
-      "correct_index": 3,
-      "explanation": "Isaac.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "The first miracle was at a wedding feast in Cana of Galilee (John 2:1).",
+      "difficulty": 2
     },
     {
       "id": "crs_086",
-      "text": "What was Jacob's new name after he wrestled with God? (variant 86)",
+      "text": "What did Jesus say was the greatest commandment?",
       "options": [
-        "Joseph",
-        "Benjamin",
-        "Israel",
-        "Judah"
+        "Obey the Sabbath",
+        "Love the Lord your God with all your heart, soul, and mind",
+        "Honor your father and mother",
+        "Do not steal"
       ],
-      "correct_index": 2,
-      "explanation": "Israel.",
+      "correct_index": 1,
+      "explanation": "Jesus said the greatest commandment is to love God with all your heart, soul, and mind (Matthew 22:37-38).",
       "difficulty": 1
     },
     {
       "id": "crs_087",
-      "text": "From which mountain did God call Moses through the burning bush? (variant 87)",
+      "text": "What was the second greatest commandment according to Jesus?",
       "options": [
-        "Temple",
-        "Burning bush",
-        "Cloud",
-        "Dream"
+        "Keep the Sabbath holy",
+        "Love your neighbor as yourself",
+        "Do not bear false witness",
+        "You shall have no other gods"
       ],
       "correct_index": 1,
-      "explanation": "Burning bush.",
-      "difficulty": 1
+      "explanation": "The second greatest commandment is to love your neighbor as yourself (Matthew 22:39).",
+      "difficulty": 2
     },
     {
       "id": "crs_088",
-      "text": "How many plagues did God bring upon Egypt? (variant 88)",
+      "text": "On which mountain did Jesus deliver the Sermon on the Mount?",
       "options": [
-        "10",
-        "5",
-        "7",
-        "12"
+        "Mount Sinai",
+        "Mount Zion",
+        "Mount of Olives",
+        "The traditional site is the Mount of Beatitudes"
       ],
-      "correct_index": 0,
-      "explanation": "10.",
-      "difficulty": 1
+      "correct_index": 3,
+      "explanation": "The Sermon on the Mount was delivered on a mountainside in Galilee (Matthew 5:1-2).",
+      "difficulty": 3
     },
     {
       "id": "crs_089",
-      "text": "On which mountain did Moses receive the Ten Commandments? (variant 89)",
+      "text": "Which Beatitude mentions inheriting the earth?",
       "options": [
-        "Zion",
-        "Ararat",
-        "Carmel",
-        "Sinai"
+        "Blessed are the poor in spirit",
+        "Blessed are the meek",
+        "Blessed are those who mourn",
+        "Blessed are the merciful"
       ],
-      "correct_index": 3,
-      "explanation": "Sinai.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "'Blessed are the meek, for they shall inherit the earth' (Matthew 5:5).",
+      "difficulty": 2
     },
     {
       "id": "crs_090",
-      "text": "What did God give to Moses on Mount Sinai? (variant 90)",
+      "text": "Who did Jesus call the salt of the earth?",
       "options": [
-        "7",
-        "5",
-        "10",
-        "12"
+        "The Pharisees",
+        "His disciples",
+        "The rich",
+        "The scribes"
       ],
-      "correct_index": 2,
-      "explanation": "10.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Jesus called his disciples the salt of the earth (Matthew 5:13).",
+      "difficulty": 2
     },
     {
       "id": "crs_091",
-      "text": "David killed Goliath with: (variant 91)",
+      "text": "What did Jesus say about judging others?",
       "options": [
-        "Bow",
-        "Sling stone",
-        "Sword",
-        "Spear"
+        "Judge them by their fruits",
+        "Do not judge, or you will be judged",
+        "Judge with righteous judgment only",
+        "Only leaders should judge"
       ],
       "correct_index": 1,
-      "explanation": "Sling stone.",
-      "difficulty": 1
+      "explanation": "Jesus taught: 'Do not judge, or you too will be judged' (Matthew 7:1).",
+      "difficulty": 2
     },
     {
       "id": "crs_092",
-      "text": "Who built the first temple in Jerusalem for God? (variant 92)",
+      "text": "What did Jesus say about the narrow gate?",
       "options": [
-        "Solomon",
-        "David",
-        "Saul",
-        "Moses"
+        "Many will find it",
+        "Few will find it",
+        "It is only for the rich",
+        "It is the gate for animals"
       ],
-      "correct_index": 0,
-      "explanation": "Solomon.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Jesus said: 'Small is the gate and narrow the road that leads to life, and only a few find it' (Matthew 7:14).",
+      "difficulty": 3
     },
     {
       "id": "crs_093",
-      "text": "Where was Jesus Christ born according to the Bible? (variant 93)",
+      "text": "How did Jesus feed a crowd of five thousand people?",
       "options": [
-        "Nazareth",
-        "Jerusalem",
-        "Galilee",
-        "Bethlehem"
+        "They brought their own food",
+        "With five loaves and two fish",
+        "With bread bought from the market",
+        "With fish caught from the sea"
       ],
-      "correct_index": 3,
-      "explanation": "Bethlehem.",
+      "correct_index": 1,
+      "explanation": "Jesus multiplied five loaves and two fish to feed five thousand (John 6:9-13).",
       "difficulty": 1
     },
     {
       "id": "crs_094",
-      "text": "Who baptized Jesus Christ in the River Jordan? (variant 94)",
+      "text": "What did Jesus do when he saw the crowd was like sheep without a shepherd?",
       "options": [
-        "James",
-        "Andrew",
-        "John Baptist",
-        "Peter"
+        "He left them",
+        "He had compassion and taught them",
+        "He told them to go away",
+        "He sent them to the priests"
       ],
-      "correct_index": 2,
-      "explanation": "John Baptist.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Jesus had compassion on them because they were like sheep without a shepherd, and he taught them (Mark 6:34).",
+      "difficulty": 2
     },
     {
       "id": "crs_095",
-      "text": "At which place did Jesus perform his first miracle? (variant 95)",
+      "text": "What was the seed in Jesus' parable of the sower that fell on good soil?",
       "options": [
-        "Bethlehem",
-        "Cana",
-        "Jerusalem",
-        "Nazareth"
+        "Those who hear and produce a crop",
+        "Those who hear but fall away",
+        "Those who never hear the word",
+        "Those who hear and become anxious"
       ],
-      "correct_index": 1,
-      "explanation": "Cana.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "The seed on good soil represents those who hear the word, understand it, and produce a harvest (Matthew 13:23).",
+      "difficulty": 3
     },
     {
       "id": "crs_096",
-      "text": "What did Jesus use to feed the five thousand people? (variant 96)",
+      "text": "What does the mustard seed represent in Jesus' parable?",
       "options": [
-        "5 loaves 2 fish",
-        "10 loaves",
-        "Only fish",
-        "Only bread"
+        "Weak faith",
+        "Small beginnings leading to great growth",
+        "The smallest sin",
+        "The end of the world"
       ],
-      "correct_index": 0,
-      "explanation": "5 loaves 2 fish.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The mustard seed, though the smallest seed, grows into the largest garden plant, symbolizing the growth of God's kingdom (Matthew 13:31-32).",
+      "difficulty": 2
     },
     {
       "id": "crs_097",
-      "text": "Who betrayed Jesus Christ to the Roman soldiers? (variant 97)",
+      "text": "In the parable of the prodigal son, what did the younger son ask for?",
       "options": [
-        "Peter",
-        "John",
-        "James",
-        "Judas"
+        "A blessing",
+        "His share of the inheritance",
+        "A piece of land",
+        "A servant"
       ],
-      "correct_index": 3,
-      "explanation": "Judas.",
+      "correct_index": 1,
+      "explanation": "The younger son asked for his share of the father's estate (Luke 15:12).",
       "difficulty": 1
     },
     {
       "id": "crs_098",
-      "text": "At which place was Jesus Christ crucified? (variant 98)",
+      "text": "How did the father respond when the prodigal son returned home?",
       "options": [
-        "Nazareth",
-        "Galilee",
-        "Golgotha",
-        "Bethlehem"
+        "He refused to see him",
+        "He ran, embraced, and kissed him",
+        "He demanded repayment",
+        "He sent him away to work"
       ],
-      "correct_index": 2,
-      "explanation": "Golgotha.",
+      "correct_index": 1,
+      "explanation": "The father saw him, ran to him, embraced him, and kissed him (Luke 15:20).",
       "difficulty": 1
     },
     {
       "id": "crs_099",
-      "text": "On which day of the week did Jesus Christ resurrect? (variant 99)",
+      "text": "What is the main lesson of the parable of the Good Samaritan?",
       "options": [
-        "First",
-        "Third day",
-        "Second",
-        "Seventh"
+        "Travel safely",
+        "Show mercy and love to anyone in need",
+        "Avoid dangerous roads",
+        "Only priests can help people"
       ],
       "correct_index": 1,
-      "explanation": "Third day.",
-      "difficulty": 1
+      "explanation": "The Good Samaritan teaches us to love and show mercy to anyone in need, regardless of their background (Luke 10:30-37).",
+      "difficulty": 2
     },
     {
       "id": "crs_100",
-      "text": "Who was the first Christian martyr in the Bible? (variant 100)",
+      "text": "In the parable of the Good Samaritan, who passed by the wounded man first?",
       "options": [
-        "Stephen",
-        "Peter",
-        "James",
-        "John"
+        "A priest",
+        "A Levite",
+        "A Samaritan",
+        "A Pharisee"
       ],
       "correct_index": 0,
-      "explanation": "Stephen.",
-      "difficulty": 1
+      "explanation": "A priest passed by first without helping (Luke 10:31).",
+      "difficulty": 2
     },
     {
       "id": "crs_101",
-      "text": "Who was the first man created by God according to the Bible? (variant 101)",
+      "text": "In the parable of the Good Samaritan, who finally helped the wounded man?",
       "options": [
-        "Abraham",
-        "Moses",
-        "David",
-        "Adam"
+        "A priest",
+        "A Levite",
+        "A Samaritan",
+        "A tax collector"
       ],
-      "correct_index": 3,
-      "explanation": "Adam.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "A Samaritan stopped, bandaged the man's wounds, and took care of him (Luke 10:33-34).",
+      "difficulty": 2
     },
     {
       "id": "crs_102",
-      "text": "Who was the first woman created by God according to the Bible? (variant 102)",
+      "text": "What did Jesus teach about the lost sheep?",
       "options": [
-        "Rebekah",
-        "Rachel",
-        "Eve",
-        "Sarah"
+        "That a shepherd forgets lost sheep",
+        "That God rejoices more over one repentant sinner than ninety-nine who don't repent",
+        "That lost sheep are punished",
+        "That there are no lost sheep"
       ],
-      "correct_index": 2,
-      "explanation": "Eve.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Jesus taught that heaven rejoices over one sinner who repents (Luke 15:7).",
+      "difficulty": 2
     },
     {
       "id": "crs_103",
-      "text": "What is the name of the garden where Adam and Eve lived? (variant 103)",
+      "text": "To which place did Jesus Christ often go to pray according to the Gospels?",
       "options": [
-        "Jerusalem",
-        "Eden",
-        "Gethsemane",
-        "Galilee"
+        "The Temple",
+        "The synagogue",
+        "Deserted places and mountains",
+        "The palace"
       ],
-      "correct_index": 1,
-      "explanation": "Eden.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Jesus often withdrew to lonely places and mountains to pray (Luke 5:16).",
+      "difficulty": 2
     },
     {
       "id": "crs_104",
-      "text": "Why was Noah saved from the great flood by God? (variant 104)",
+      "text": "What did Jesus say about storing treasures on earth?",
       "options": [
-        "Righteous",
-        "Wicked",
-        "Rich",
-        "Strong"
+        "It is wise to store earthly treasures",
+        "Do not store up treasures on earth where moth and rust destroy",
+        "Earthly treasures are more important",
+        "Treasures on earth guarantee eternal life"
       ],
-      "correct_index": 0,
-      "explanation": "Righteous.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Jesus taught: 'Do not store up treasures on earth, where moth and rust destroy' (Matthew 6:19).",
+      "difficulty": 2
     },
     {
       "id": "crs_105",
-      "text": "Abraham son of promise: (variant 105)",
+      "text": "What did Jesus say about worrying about tomorrow?",
       "options": [
-        "Ishmael",
-        "Jacob",
-        "Esau",
-        "Isaac"
+        "Worry shows responsibility",
+        "Do not worry about tomorrow, for tomorrow will worry about itself",
+        "You should always plan for the worst",
+        "Worrying is a sign of faith"
       ],
-      "correct_index": 3,
-      "explanation": "Isaac.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Jesus said: 'Do not worry about tomorrow, for tomorrow will worry about itself' (Matthew 6:34).",
+      "difficulty": 2
     },
     {
       "id": "crs_106",
-      "text": "What was Jacob's new name after he wrestled with God? (variant 106)",
+      "text": "What did Jesus say about the beam and the speck in one's eye?",
       "options": [
-        "Joseph",
-        "Benjamin",
-        "Israel",
-        "Judah"
+        "Remove the speck first",
+        "Remove the beam from your own eye before removing the speck from another's",
+        "Ignore both",
+        "Leave the speck for God to remove"
       ],
-      "correct_index": 2,
-      "explanation": "Israel.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Jesus told his followers to remove the beam from their own eye before addressing the speck in another's (Matthew 7:5).",
+      "difficulty": 3
     },
     {
       "id": "crs_107",
-      "text": "From which mountain did God call Moses through the burning bush? (variant 107)",
+      "text": "Where did Jesus go when he was twelve years old?",
       "options": [
-        "Temple",
-        "Burning bush",
-        "Cloud",
-        "Dream"
+        "To the river Jordan",
+        "To the Temple in Jerusalem",
+        "To the wilderness",
+        "To Capernaum"
       ],
       "correct_index": 1,
-      "explanation": "Burning bush.",
-      "difficulty": 1
+      "explanation": "At twelve, Jesus was found in the Temple in Jerusalem, sitting among the teachers (Luke 2:46).",
+      "difficulty": 2
     },
     {
       "id": "crs_108",
-      "text": "How many plagues did God bring upon Egypt? (variant 108)",
+      "text": "Who did Jesus raise from the dead at Bethany?",
       "options": [
-        "10",
-        "5",
-        "7",
-        "12"
+        "Jairus's daughter",
+        "The widow's son at Nain",
+        "Lazarus",
+        "The synagogue ruler's daughter"
       ],
-      "correct_index": 0,
-      "explanation": "10.",
+      "correct_index": 2,
+      "explanation": "Jesus raised Lazarus from the dead after four days in the tomb (John 11:38-44).",
       "difficulty": 1
     },
     {
       "id": "crs_109",
-      "text": "On which mountain did Moses receive the Ten Commandments? (variant 109)",
+      "text": "How many days was Lazarus dead before Jesus raised him?",
       "options": [
-        "Zion",
-        "Ararat",
-        "Carmel",
-        "Sinai"
+        "One day",
+        "Two days",
+        "Three days",
+        "Four days"
       ],
       "correct_index": 3,
-      "explanation": "Sinai.",
-      "difficulty": 1
+      "explanation": "Lazarus had been in the tomb for four days before Jesus came (John 11:39).",
+      "difficulty": 2
     },
     {
       "id": "crs_110",
-      "text": "What did God give to Moses on Mount Sinai? (variant 110)",
+      "text": "What did Jesus say to raise Lazarus from the tomb?",
       "options": [
-        "7",
-        "5",
-        "10",
-        "12"
+        "Rise up!",
+        "Come out!",
+        "Lazarus, come forth!",
+        "Be alive!"
       ],
       "correct_index": 2,
-      "explanation": "10.",
-      "difficulty": 1
+      "explanation": "Jesus called out: 'Lazarus, come forth!' and the dead man came out (John 11:43-44).",
+      "difficulty": 3
     },
     {
       "id": "crs_111",
-      "text": "David killed Goliath with: (variant 111)",
+      "text": "What did Jesus do when he entered the Temple and saw the money changers?",
       "options": [
-        "Bow",
-        "Sling stone",
-        "Sword",
-        "Spear"
+        "He blessed them",
+        "He drove them out and overturned their tables",
+        "He ignored them",
+        "He bought from them"
       ],
       "correct_index": 1,
-      "explanation": "Sling stone.",
+      "explanation": "Jesus made a whip, drove out the money changers, and overturned their tables (John 2:15).",
       "difficulty": 1
     },
     {
       "id": "crs_112",
-      "text": "Who built the first temple in Jerusalem for God? (variant 112)",
+      "text": "What was Jesus' response when asked about paying taxes to Caesar?",
       "options": [
-        "Solomon",
-        "David",
-        "Saul",
-        "Moses"
+        "Refuse to pay",
+        "Render to Caesar what is Caesar's and to God what is God's",
+        "Pay double",
+        "Tax collectors are corrupt"
       ],
-      "correct_index": 0,
-      "explanation": "Solomon.",
+      "correct_index": 1,
+      "explanation": "Jesus said: 'Render to Caesar the things that are Caesar's, and to God the things that are God's' (Mark 12:17).",
       "difficulty": 1
     },
     {
       "id": "crs_113",
-      "text": "Where was Jesus Christ born according to the Bible? (variant 113)",
+      "text": "Who asked Jesus the question about paying taxes to Caesar?",
       "options": [
-        "Nazareth",
-        "Jerusalem",
-        "Galilee",
-        "Bethlehem"
+        "A Pharisee and a Herodian",
+        "A Sadducee",
+        "A Roman soldier",
+        "A tax collector"
       ],
-      "correct_index": 3,
-      "explanation": "Bethlehem.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "A Pharisee and a Herodian came together to test Jesus with this question (Mark 12:13).",
+      "difficulty": 3
     },
     {
       "id": "crs_114",
-      "text": "Who baptized Jesus Christ in the River Jordan? (variant 114)",
+      "text": "In the parable of the ten virgins, what were the five foolish virgins lacking?",
       "options": [
-        "James",
-        "Andrew",
-        "John Baptist",
-        "Peter"
+        "Wedding clothes",
+        "Oil for their lamps",
+        "Money",
+        "Flowers"
       ],
-      "correct_index": 2,
-      "explanation": "John Baptist.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The five foolish virgins did not bring extra oil for their lamps (Matthew 25:3).",
+      "difficulty": 2
     },
     {
       "id": "crs_115",
-      "text": "At which place did Jesus perform his first miracle? (variant 115)",
+      "text": "What does oil represent in the parable of the ten virgins?",
       "options": [
-        "Bethlehem",
-        "Cana",
-        "Jerusalem",
-        "Nazareth"
+        "Wealth",
+        "Preparedness and the Holy Spirit",
+        "Food",
+        "Clothing"
       ],
       "correct_index": 1,
-      "explanation": "Cana.",
-      "difficulty": 1
+      "explanation": "Oil represents spiritual preparedness and readiness for Christ's return.",
+      "difficulty": 3
     },
     {
       "id": "crs_116",
-      "text": "What did Jesus use to feed the five thousand people? (variant 116)",
+      "text": "What happened to the talents of the servant who buried his one talent?",
       "options": [
-        "5 loaves 2 fish",
-        "10 loaves",
-        "Only fish",
-        "Only bread"
+        "He was praised",
+        "His talent was taken away and given to another",
+        "He received more",
+        "Nothing happened"
       ],
-      "correct_index": 0,
-      "explanation": "5 loaves 2 fish.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "His talent was taken and given to the servant who had ten (Matthew 25:28).",
+      "difficulty": 2
     },
     {
       "id": "crs_117",
-      "text": "Who betrayed Jesus Christ to the Roman soldiers? (variant 117)",
+      "text": "What does the parable of the talents teach?",
       "options": [
-        "Peter",
-        "John",
-        "James",
-        "Judas"
+        "Riches are evil",
+        "We should use God's gifts wisely and productively",
+        "All talents are equal",
+        "Talents are only for the poor"
       ],
-      "correct_index": 3,
-      "explanation": "Judas.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The parable teaches that we should be faithful and productive with what God has given us (Matthew 25:14-30).",
+      "difficulty": 2
     },
     {
       "id": "crs_118",
-      "text": "At which place was Jesus Christ crucified? (variant 118)",
+      "text": "On which night did Jesus institute the Last Supper?",
       "options": [
-        "Nazareth",
-        "Galilee",
-        "Golgotha",
-        "Bethlehem"
+        "The night before the Sabbath",
+        "The night before his crucifixion, during Passover",
+        "The night of his resurrection",
+        "Christmas Eve"
       ],
-      "correct_index": 2,
-      "explanation": "Golgotha.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Jesus instituted the Last Supper on the night before his crucifixion, during the Passover meal (Luke 22:14-20).",
+      "difficulty": 2
     },
     {
       "id": "crs_119",
-      "text": "On which day of the week did Jesus Christ resurrect? (variant 119)",
+      "text": "What did Jesus take at the Last Supper and say represented his body?",
       "options": [
-        "First",
-        "Third day",
-        "Second",
-        "Seventh"
+        "Fish",
+        "Bread",
+        "Wine",
+        "Meat"
       ],
       "correct_index": 1,
-      "explanation": "Third day.",
-      "difficulty": 1
+      "explanation": "Jesus took bread, blessed it, broke it, and said: 'This is my body' (Luke 22:19).",
+      "difficulty": 2
     },
     {
       "id": "crs_120",
-      "text": "Who was the first Christian martyr in the Bible? (variant 120)",
+      "text": "Who betrayed Jesus to the chief priests?",
       "options": [
-        "Stephen",
         "Peter",
-        "James",
+        "Thomas",
+        "Judas Iscariot",
         "John"
       ],
-      "correct_index": 0,
-      "explanation": "Stephen.",
+      "correct_index": 2,
+      "explanation": "Judas Iscariot agreed to betray Jesus for thirty pieces of silver (Matthew 26:14-16).",
       "difficulty": 1
     },
     {
       "id": "crs_121",
-      "text": "Who was the first man created by God according to the Bible? (variant 121)",
+      "text": "How much did Judas receive for betraying Jesus?",
       "options": [
-        "Abraham",
-        "Moses",
-        "David",
-        "Adam"
+        "Ten pieces of silver",
+        "Thirty pieces of silver",
+        "Fifty gold coins",
+        "One hundred denarii"
       ],
-      "correct_index": 3,
-      "explanation": "Adam.",
+      "correct_index": 1,
+      "explanation": "Judas agreed to betray Jesus for thirty pieces of silver (Matthew 26:15).",
       "difficulty": 1
     },
     {
       "id": "crs_122",
-      "text": "Who was the first woman created by God according to the Bible? (variant 122)",
+      "text": "What was the sign by which Judas identified Jesus to the soldiers?",
       "options": [
-        "Rebekah",
-        "Rachel",
-        "Eve",
-        "Sarah"
+        "A wave",
+        "A kiss",
+        "Pointing at him",
+        "Calling his name"
       ],
-      "correct_index": 2,
-      "explanation": "Eve.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Judas identified Jesus by greeting him with a kiss (Matthew 26:48-49).",
+      "difficulty": 3
     },
     {
       "id": "crs_123",
-      "text": "What is the name of the garden where Adam and Eve lived? (variant 123)",
+      "text": "Where did Jesus pray before his arrest?",
       "options": [
-        "Jerusalem",
-        "Eden",
-        "Gethsemane",
-        "Galilee"
+        "The Temple",
+        "The Mount of Olives",
+        "The Garden of Gethsemane",
+        "Bethlehem"
       ],
-      "correct_index": 1,
-      "explanation": "Eden.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Jesus prayed in the Garden of Gethsemane before his arrest (Matthew 26:36).",
+      "difficulty": 2
     },
     {
       "id": "crs_124",
-      "text": "Why was Noah saved from the great flood by God? (variant 124)",
+      "text": "What did Jesus ask his Father three times in Gethsemane?",
       "options": [
-        "Righteous",
-        "Wicked",
-        "Rich",
-        "Strong"
+        "To destroy his enemies",
+        "To take the cup of suffering away from him",
+        "To give him power",
+        "To forgive the world"
       ],
-      "correct_index": 0,
-      "explanation": "Righteous.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Jesus prayed three times: 'Father, if it is possible, may this cup be taken from me' (Matthew 26:39).",
+      "difficulty": 3
     },
     {
       "id": "crs_125",
-      "text": "Abraham son of promise: (variant 125)",
+      "text": "What did Jesus say at the end of his prayer in Gethsemane?",
       "options": [
-        "Ishmael",
-        "Jacob",
-        "Esau",
-        "Isaac"
+        "Take me away",
+        "Not my will, but yours be done",
+        "I am ready",
+        "Let it begin"
       ],
-      "correct_index": 3,
-      "explanation": "Isaac.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Jesus submitted to God's will: 'Not my will, but yours be done' (Luke 22:42).",
+      "difficulty": 3
     },
     {
       "id": "crs_126",
-      "text": "What was Jacob's new name after he wrestled with God? (variant 126)",
+      "text": "Who denied knowing Jesus three times?",
       "options": [
-        "Joseph",
-        "Benjamin",
-        "Israel",
-        "Judah"
+        "Judas",
+        "Peter",
+        "Thomas",
+        "John"
       ],
-      "correct_index": 2,
-      "explanation": "Israel.",
+      "correct_index": 1,
+      "explanation": "Peter denied knowing Jesus three times before the rooster crowed (Matthew 26:69-75).",
       "difficulty": 1
     },
     {
       "id": "crs_127",
-      "text": "From which mountain did God call Moses through the burning bush? (variant 127)",
+      "text": "What bird crowed after Peter denied Jesus the third time?",
       "options": [
-        "Temple",
-        "Burning bush",
-        "Cloud",
-        "Dream"
+        "An eagle",
+        "A dove",
+        "A rooster",
+        "A crow"
       ],
-      "correct_index": 1,
-      "explanation": "Burning bush.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "A rooster crowed immediately after Peter denied Jesus the third time (Matthew 26:74).",
+      "difficulty": 3
     },
     {
       "id": "crs_128",
-      "text": "How many plagues did God bring upon Egypt? (variant 128)",
+      "text": "Who was the Roman governor who sentenced Jesus to crucifixion?",
       "options": [
-        "10",
-        "5",
-        "7",
-        "12"
+        "Herod",
+        "Pontius Pilate",
+        "Nero",
+        "Claudius"
       ],
-      "correct_index": 0,
-      "explanation": "10.",
+      "correct_index": 1,
+      "explanation": "Pontius Pilate, the Roman governor of Judea, sentenced Jesus to crucifixion (Matthew 27:24-26).",
       "difficulty": 1
     },
     {
       "id": "crs_129",
-      "text": "On which mountain did Moses receive the Ten Commandments? (variant 129)",
+      "text": "What did Pilate wash his hands to symbolize?",
       "options": [
-        "Zion",
-        "Ararat",
-        "Carmel",
-        "Sinai"
+        "Cleaning himself",
+        "He was innocent of Jesus' blood",
+        "Preparing for a meal",
+        "A Roman custom of purification"
       ],
-      "correct_index": 3,
-      "explanation": "Sinai.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Pilate washed his hands to show he was innocent of Jesus' blood (Matthew 27:24).",
+      "difficulty": 2
     },
     {
       "id": "crs_130",
-      "text": "What did God give to Moses on Mount Sinai? (variant 130)",
+      "text": "What was written on the cross above Jesus' head?",
       "options": [
-        "7",
-        "5",
-        "10",
-        "12"
+        "King of the Jews",
+        "Son of God",
+        "Jesus of Nazareth",
+        "Savior of the World"
       ],
-      "correct_index": 2,
-      "explanation": "10.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Pilate ordered the inscription: 'Jesus of Nazareth, the King of the Jews' (John 19:19).",
+      "difficulty": 2
     },
     {
       "id": "crs_131",
-      "text": "David killed Goliath with: (variant 131)",
+      "text": "What did Jesus say while hanging on the cross about forgiveness?",
       "options": [
-        "Bow",
-        "Sling stone",
-        "Sword",
-        "Spear"
+        "Punish them, Father",
+        "Father, forgive them, for they do not know what they are doing",
+        "I will forgive myself",
+        "There is no forgiveness for them"
       ],
       "correct_index": 1,
-      "explanation": "Sling stone.",
-      "difficulty": 1
+      "explanation": "Jesus prayed: 'Father, forgive them, for they do not know what they are doing' (Luke 23:34).",
+      "difficulty": 3
     },
     {
       "id": "crs_132",
-      "text": "Who built the first temple in Jerusalem for God? (variant 132)",
+      "text": "Which criminal crucified with Jesus asked to be remembered in his kingdom?",
       "options": [
-        "Solomon",
-        "David",
-        "Saul",
-        "Moses"
+        "Both criminals",
+        "The one on the left",
+        "The one on the right (the penitent thief)",
+        "Neither criminal"
       ],
-      "correct_index": 0,
-      "explanation": "Solomon.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "The penitent thief on Jesus' right asked to be remembered in his kingdom (Luke 23:42).",
+      "difficulty": 3
     },
     {
       "id": "crs_133",
-      "text": "Where was Jesus Christ born according to the Bible? (variant 133)",
+      "text": "What did Jesus say to the penitent thief on the cross?",
       "options": [
-        "Nazareth",
-        "Jerusalem",
-        "Galilee",
-        "Bethlehem"
+        "Go away",
+        "Today you will be with me in paradise",
+        "You must wait",
+        "Try harder next time"
       ],
-      "correct_index": 3,
-      "explanation": "Bethlehem.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Jesus promised: 'Today you will be with me in paradise' (Luke 23:43).",
+      "difficulty": 2
     },
     {
       "id": "crs_134",
-      "text": "Who baptized Jesus Christ in the River Jordan? (variant 134)",
+      "text": "What did Jesus cry out just before he died on the cross?",
       "options": [
-        "James",
-        "Andrew",
-        "John Baptist",
-        "Peter"
+        "My God, why have you forsaken me?",
+        "It is finished",
+        "Father, into your hands I commit my spirit",
+        "All of the above were spoken before his death"
       ],
-      "correct_index": 2,
-      "explanation": "John Baptist.",
-      "difficulty": 1
+      "correct_index": 3,
+      "explanation": "Jesus spoke several things including 'It is finished' and 'Father, into your hands I commit my spirit' (John 19:30, Luke 23:46).",
+      "difficulty": 3
     },
     {
       "id": "crs_135",
-      "text": "At which place did Jesus perform his first miracle? (variant 135)",
+      "text": "Where was Jesus buried after his death?",
       "options": [
-        "Bethlehem",
-        "Cana",
-        "Jerusalem",
-        "Nazareth"
+        "In a public graveyard",
+        "In a new tomb cut out of rock in a garden",
+        "At the bottom of the sea",
+        "In his mother's house"
       ],
       "correct_index": 1,
-      "explanation": "Cana.",
-      "difficulty": 1
+      "explanation": "Jesus was buried in a new tomb belonging to Joseph of Arimathea, cut out of rock (Matthew 27:59-60).",
+      "difficulty": 2
     },
     {
       "id": "crs_136",
-      "text": "What did Jesus use to feed the five thousand people? (variant 136)",
+      "text": "Who rolled away the stone from Jesus' tomb?",
       "options": [
-        "5 loaves 2 fish",
-        "10 loaves",
-        "Only fish",
-        "Only bread"
+        "The disciples",
+        "The Roman soldiers",
+        "An angel of the Lord",
+        "Joseph of Arimathea"
       ],
-      "correct_index": 0,
-      "explanation": "5 loaves 2 fish.",
+      "correct_index": 2,
+      "explanation": "An angel of the Lord came down from heaven and rolled away the stone (Matthew 28:2).",
       "difficulty": 1
     },
     {
       "id": "crs_137",
-      "text": "Who betrayed Jesus Christ to the Roman soldiers? (variant 137)",
+      "text": "Who were the first people to discover that Jesus had risen?",
       "options": [
-        "Peter",
-        "John",
-        "James",
-        "Judas"
+        "The apostles",
+        "The women who came to the tomb early in the morning",
+        "The Roman soldiers",
+        "The Pharisees"
       ],
-      "correct_index": 3,
-      "explanation": "Judas.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Women who came to anoint Jesus' body early on the first day of the week found the tomb empty (Mark 16:2-4).",
+      "difficulty": 3
     },
     {
       "id": "crs_138",
-      "text": "At which place was Jesus Christ crucified? (variant 138)",
+      "text": "What did the angel tell the women at Jesus' empty tomb?",
       "options": [
-        "Nazareth",
-        "Galilee",
-        "Golgotha",
-        "Bethlehem"
+        "He is still dead",
+        "He is not here; he has risen",
+        "Someone stole the body",
+        "Come back tomorrow"
       ],
-      "correct_index": 2,
-      "explanation": "Golgotha.",
+      "correct_index": 1,
+      "explanation": "The angel said: 'He is not here; he has risen, just as he said' (Matthew 28:6).",
       "difficulty": 1
     },
     {
       "id": "crs_139",
-      "text": "On which day of the week did Jesus Christ resurrect? (variant 139)",
+      "text": "How many days did Jesus remain on earth after his resurrection before ascending?",
       "options": [
-        "First",
-        "Third day",
-        "Second",
-        "Seventh"
+        "Three days",
+        "Ten days",
+        "Forty days",
+        "Fifty days"
       ],
-      "correct_index": 1,
-      "explanation": "Third day.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Jesus appeared to his disciples over forty days before ascending to heaven (Acts 1:3).",
+      "difficulty": 3
     },
     {
       "id": "crs_140",
-      "text": "Who was the first Christian martyr in the Bible? (variant 140)",
+      "text": "From where did Jesus ascend into heaven?",
       "options": [
-        "Stephen",
-        "Peter",
-        "James",
-        "John"
+        "The Temple Mount",
+        "The Mount of Olives",
+        "Bethlehem",
+        "Capernaum"
       ],
-      "correct_index": 0,
-      "explanation": "Stephen.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Jesus ascended from the Mount of Olives (Acts 1:12).",
+      "difficulty": 2
     },
     {
       "id": "crs_141",
-      "text": "Who was the first man created by God according to the Bible? (variant 141)",
+      "text": "What did Jesus promise to send to his disciples after his ascension?",
       "options": [
-        "Abraham",
-        "Moses",
-        "David",
-        "Adam"
+        "A prophet",
+        "Another king",
+        "The Holy Spirit",
+        "An army"
       ],
-      "correct_index": 3,
-      "explanation": "Adam.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Jesus promised to send the Holy Spirit to be with and guide his disciples (John 14:26).",
+      "difficulty": 3
     },
     {
       "id": "crs_142",
-      "text": "Who was the first woman created by God according to the Bible? (variant 142)",
+      "text": "On which day did the Holy Spirit descend on the disciples at Pentecost?",
       "options": [
-        "Rebekah",
-        "Rachel",
-        "Eve",
-        "Sarah"
+        "The Sabbath",
+        "The first day of the week",
+        "The Day of Pentecost",
+        "New Year's Day"
       ],
       "correct_index": 2,
-      "explanation": "Eve.",
-      "difficulty": 1
+      "explanation": "The Holy Spirit descended on the Day of Pentecost, fifty days after the Passover (Acts 2:1).",
+      "difficulty": 2
     },
     {
       "id": "crs_143",
-      "text": "What is the name of the garden where Adam and Eve lived? (variant 143)",
+      "text": "What appeared over each disciple's head at Pentecost?",
       "options": [
-        "Jerusalem",
-        "Eden",
-        "Gethsemane",
-        "Galilee"
+        "A halo",
+        "Tongues of fire",
+        "A rainbow",
+        "A cloud"
       ],
       "correct_index": 1,
-      "explanation": "Eden.",
-      "difficulty": 1
+      "explanation": "Tongues of fire appeared and rested on each of them (Acts 2:3).",
+      "difficulty": 2
     },
     {
       "id": "crs_144",
-      "text": "Why was Noah saved from the great flood by God? (variant 144)",
+      "text": "What gift did the disciples receive at Pentecost that enabled them to speak in other languages?",
       "options": [
-        "Righteous",
-        "Wicked",
-        "Rich",
-        "Strong"
+        "The gift of healing",
+        "The gift of tongues (speaking in other languages)",
+        "The gift of prophecy",
+        "The gift of interpretation"
       ],
-      "correct_index": 0,
-      "explanation": "Righteous.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "They were filled with the Holy Spirit and began speaking in other languages (Acts 2:4).",
+      "difficulty": 2
     },
     {
       "id": "crs_145",
-      "text": "Abraham son of promise: (variant 145)",
+      "text": "How many people were added to the church on the Day of Pentecost?",
       "options": [
-        "Ishmael",
-        "Jacob",
-        "Esau",
-        "Isaac"
+        "One hundred",
+        "Three thousand",
+        "Five thousand",
+        "Ten thousand"
       ],
-      "correct_index": 3,
-      "explanation": "Isaac.",
+      "correct_index": 1,
+      "explanation": "About three thousand were added to their number that day (Acts 2:41).",
       "difficulty": 1
     },
     {
       "id": "crs_146",
-      "text": "What was Jacob's new name after he wrestled with God? (variant 146)",
+      "text": "Who preached the first sermon at Pentecost?",
       "options": [
-        "Joseph",
-        "Benjamin",
-        "Israel",
-        "Judah"
+        "Paul",
+        "Peter",
+        "John",
+        "James"
       ],
-      "correct_index": 2,
-      "explanation": "Israel.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Peter stood up with the eleven and preached the first Christian sermon (Acts 2:14).",
+      "difficulty": 2
     },
     {
       "id": "crs_147",
-      "text": "From which mountain did God call Moses through the burning bush? (variant 147)",
+      "text": "What did Peter tell the crowd to do in response to his Pentecost sermon?",
       "options": [
-        "Temple",
-        "Burning bush",
-        "Cloud",
-        "Dream"
+        "Go home",
+        "Repent and be baptized in the name of Jesus Christ",
+        "Wait for another sign",
+        "Give money to the church"
       ],
       "correct_index": 1,
-      "explanation": "Burning bush.",
-      "difficulty": 1
+      "explanation": "Peter told them to repent and be baptized for the forgiveness of sins (Acts 2:38).",
+      "difficulty": 2
     },
     {
       "id": "crs_148",
-      "text": "How many plagues did God bring upon Egypt? (variant 148)",
+      "text": "What did the early Christians practice regarding their possessions?",
       "options": [
-        "10",
-        "5",
-        "7",
-        "12"
+        "They kept everything private",
+        "They shared everything in common",
+        "They gave to the rich",
+        "They burned what they had"
       ],
-      "correct_index": 0,
-      "explanation": "10.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The early believers shared everything they had and sold possessions to give to those in need (Acts 2:44-45).",
+      "difficulty": 2
     },
     {
       "id": "crs_149",
-      "text": "On which mountain did Moses receive the Ten Commandments? (variant 149)",
+      "text": "Who was the first Christian martyr mentioned in Acts?",
       "options": [
-        "Zion",
-        "Ararat",
-        "Carmel",
-        "Sinai"
+        "Peter",
+        "Paul",
+        "Stephen",
+        "Barnabas"
       ],
-      "correct_index": 3,
-      "explanation": "Sinai.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Stephen was stoned to death and is considered the first Christian martyr (Acts 7:54-60).",
+      "difficulty": 3
     },
     {
       "id": "crs_150",
-      "text": "What did God give to Moses on Mount Sinai? (variant 150)",
+      "text": "What did Stephen see as he was being stoned?",
       "options": [
-        "7",
-        "5",
-        "10",
-        "12"
+        "Angels with swords",
+        "The heavens opened and the Son of Man standing at God's right hand",
+        "Darkness and nothing",
+        "The Temple destroyed"
       ],
-      "correct_index": 2,
-      "explanation": "10.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Stephen, full of the Holy Spirit, saw heaven open and the Son of Man standing at God's right hand (Acts 7:55-56).",
+      "difficulty": 3
     },
     {
       "id": "crs_151",
-      "text": "David killed Goliath with: (variant 151)",
+      "text": "Who consented to Stephen's execution by holding the garments?",
       "options": [
-        "Bow",
-        "Sling stone",
-        "Sword",
-        "Spear"
+        "Pontius Pilate",
+        "Saul (Paul)",
+        "Caiaphas",
+        "Annas"
       ],
       "correct_index": 1,
-      "explanation": "Sling stone.",
-      "difficulty": 1
+      "explanation": "Saul (later Paul) approved of Stephen's execution and guarded the coats (Acts 7:58).",
+      "difficulty": 3
     },
     {
       "id": "crs_152",
-      "text": "Who built the first temple in Jerusalem for God? (variant 152)",
+      "text": "On which road was Saul traveling when he encountered the risen Christ?",
       "options": [
-        "Solomon",
-        "David",
-        "Saul",
-        "Moses"
+        "The Road to Bethlehem",
+        "The Road to Damascus",
+        "The Road to Jerusalem",
+        "The Road to Rome"
       ],
-      "correct_index": 0,
-      "explanation": "Solomon.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Saul was on the road to Damascus when a light from heaven blinded him and he heard Jesus' voice (Acts 9:3).",
+      "difficulty": 2
     },
     {
       "id": "crs_153",
-      "text": "Where was Jesus Christ born according to the Bible? (variant 153)",
+      "text": "What did Saul do for three days after his encounter with Christ on the Damascus road?",
       "options": [
-        "Nazareth",
-        "Jerusalem",
-        "Galilee",
-        "Bethlehem"
+        "He celebrated",
+        "He fasted and could not see",
+        "He preached immediately",
+        "He returned to Jerusalem"
       ],
-      "correct_index": 3,
-      "explanation": "Bethlehem.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Saul was blind and did not eat or drink for three days (Acts 9:9).",
+      "difficulty": 3
     },
     {
       "id": "crs_154",
-      "text": "Who baptized Jesus Christ in the River Jordan? (variant 154)",
-      "options": [
-        "James",
-        "Andrew",
-        "John Baptist",
-        "Peter"
-      ],
-      "correct_index": 2,
-      "explanation": "John Baptist.",
-      "difficulty": 1
-    },
-    {
-      "id": "crs_155",
-      "text": "At which place did Jesus perform his first miracle? (variant 155)",
-      "options": [
-        "Bethlehem",
-        "Cana",
-        "Jerusalem",
-        "Nazareth"
-      ],
-      "correct_index": 1,
-      "explanation": "Cana.",
-      "difficulty": 1
-    },
-    {
-      "id": "crs_156",
-      "text": "What did Jesus use to feed the five thousand people? (variant 156)",
-      "options": [
-        "5 loaves 2 fish",
-        "10 loaves",
-        "Only fish",
-        "Only bread"
-      ],
-      "correct_index": 0,
-      "explanation": "5 loaves 2 fish.",
-      "difficulty": 1
-    },
-    {
-      "id": "crs_157",
-      "text": "Who betrayed Jesus Christ to the Roman soldiers? (variant 157)",
+      "text": "Who was sent by God to restore Saul's sight?",
       "options": [
         "Peter",
         "John",
-        "James",
-        "Judas"
+        "Ananias",
+        "Barnabas"
       ],
-      "correct_index": 3,
-      "explanation": "Judas.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "God sent Ananias to lay hands on Saul and restore his sight (Acts 9:17-18).",
+      "difficulty": 3
+    },
+    {
+      "id": "crs_155",
+      "text": "What was Saul's name changed to after his conversion?",
+      "options": [
+        "Silas",
+        "Paul",
+        "Timothy",
+        "Luke"
+      ],
+      "correct_index": 1,
+      "explanation": "Saul became known as Paul, his Roman name, after his conversion (Acts 13:9).",
+      "difficulty": 2
+    },
+    {
+      "id": "crs_156",
+      "text": "Which disciple was known for doubting the resurrection until he saw Jesus' wounds?",
+      "options": [
+        "Peter",
+        "Thomas",
+        "Andrew",
+        "Philip"
+      ],
+      "correct_index": 1,
+      "explanation": "Thomas doubted until he saw and touched Jesus' wounds (John 20:24-29).",
+      "difficulty": 2
+    },
+    {
+      "id": "crs_157",
+      "text": "What did Jesus say to Thomas when he believed?",
+      "options": [
+        "Blessed are those who have not seen and yet have believed",
+        "You are the strongest of my disciples",
+        "Go and tell the others",
+        "Your doubt has been forgiven"
+      ],
+      "correct_index": 0,
+      "explanation": "Jesus said: 'Blessed are those who have not seen and yet have believed' (John 20:29).",
+      "difficulty": 3
     },
     {
       "id": "crs_158",
-      "text": "At which place was Jesus Christ crucified? (variant 158)",
+      "text": "How many fish did the disciples catch when Jesus told them to cast their net on the right side?",
       "options": [
-        "Nazareth",
-        "Galilee",
-        "Golgotha",
-        "Bethlehem"
+        "None",
+        "One hundred and fifty-three",
+        "Five hundred",
+        "Two hundred"
       ],
-      "correct_index": 2,
-      "explanation": "Golgotha.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "They caught one hundred and fifty-three large fish (John 21:11).",
+      "difficulty": 3
     },
     {
       "id": "crs_159",
-      "text": "On which day of the week did Jesus Christ resurrect? (variant 159)",
+      "text": "What three times did Jesus ask Peter, 'Do you love me?' and what did he commission Peter to do?",
       "options": [
-        "First",
-        "Third day",
-        "Second",
-        "Seventh"
+        "Feed my lambs, tend my sheep, feed my sheep",
+        "Preach the word, heal the sick, cast out demons",
+        "Build my church, lead my people, spread my gospel",
+        "Love God, love your neighbor, love yourself"
       ],
-      "correct_index": 1,
-      "explanation": "Third day.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Jesus asked Peter three times if he loved him and told him to feed his lambs, tend his sheep, and feed his sheep (John 21:15-17).",
+      "difficulty": 3
     },
     {
       "id": "crs_160",
-      "text": "Who was the first Christian martyr in the Bible? (variant 160)",
+      "text": "What was the Great Commission Jesus gave to his disciples?",
       "options": [
-        "Stephen",
-        "Peter",
-        "James",
-        "John"
+        "Stay in Jerusalem forever",
+        "Go and make disciples of all nations, baptizing them",
+        "Build a new temple",
+        "Rule over all countries"
       ],
-      "correct_index": 0,
-      "explanation": "Stephen.",
+      "correct_index": 1,
+      "explanation": "Jesus commanded: 'Go and make disciples of all nations, baptizing them in the name of the Father, Son, and Holy Spirit' (Matthew 28:19-20).",
       "difficulty": 1
     },
     {
       "id": "crs_161",
-      "text": "Who was the first man created by God according to the Bible? (variant 161)",
+      "text": "Who was the first person Paul converted on his missionary journeys?",
       "options": [
-        "Abraham",
-        "Moses",
-        "David",
-        "Adam"
+        "Silas",
+        "Lydia",
+        "Timothy",
+        "Barnabas"
       ],
-      "correct_index": 3,
-      "explanation": "Adam.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Lydia from Thyatira was the first European convert, baptized along with her household (Acts 16:14-15).",
+      "difficulty": 3
     },
     {
       "id": "crs_162",
-      "text": "Who was the first woman created by God according to the Bible? (variant 162)",
+      "text": "Where were Paul and Silas imprisoned and what happened at midnight?",
       "options": [
-        "Rebekah",
-        "Rachel",
-        "Eve",
-        "Sarah"
+        "They slept peacefully",
+        "They sang hymns and an earthquake shook the prison",
+        "They escaped through a window",
+        "They were released by the jailer"
       ],
-      "correct_index": 2,
-      "explanation": "Eve.",
+      "correct_index": 1,
+      "explanation": "Paul and Silas prayed and sang hymns, and God sent an earthquake that opened the prison doors (Acts 16:25-26).",
       "difficulty": 1
     },
     {
       "id": "crs_163",
-      "text": "What is the name of the garden where Adam and Eve lived? (variant 163)",
+      "text": "What happened to the Philippian jailer when the prison doors flew open?",
       "options": [
-        "Jerusalem",
-        "Eden",
-        "Gethsemane",
-        "Galilee"
+        "He escaped",
+        "He was about to kill himself but was stopped by Paul",
+        "He fell asleep",
+        "He ran away"
       ],
       "correct_index": 1,
-      "explanation": "Eden.",
-      "difficulty": 1
+      "explanation": "The jailer was about to kill himself thinking the prisoners had escaped, but Paul stopped him (Acts 16:27-28).",
+      "difficulty": 2
     },
     {
       "id": "crs_164",
-      "text": "Why was Noah saved from the great flood by God? (variant 164)",
+      "text": "What did Paul say was the greatest Christian virtue in 1 Corinthians 13?",
       "options": [
-        "Righteous",
-        "Wicked",
-        "Rich",
-        "Strong"
+        "Faith",
+        "Hope",
+        "Love",
+        "Wisdom"
       ],
-      "correct_index": 0,
-      "explanation": "Righteous.",
+      "correct_index": 2,
+      "explanation": "Paul wrote that love is the greatest virtue, greater than faith and hope (1 Corinthians 13:13).",
       "difficulty": 1
     },
     {
       "id": "crs_165",
-      "text": "Abraham son of promise: (variant 165)",
+      "text": "How does 1 Corinthians 13 describe love?",
       "options": [
-        "Ishmael",
-        "Jacob",
-        "Esau",
-        "Isaac"
+        "Love is impatient and kind",
+        "Love is patient and kind",
+        "Love is quick and powerful",
+        "Love is strong and mighty"
       ],
-      "correct_index": 3,
-      "explanation": "Isaac.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "'Love is patient, love is kind' (1 Corinthians 13:4).",
+      "difficulty": 2
     },
     {
       "id": "crs_166",
-      "text": "What was Jacob's new name after he wrestled with God? (variant 166)",
+      "text": "What does Paul say love does NOT do in 1 Corinthians 13?",
       "options": [
-        "Joseph",
-        "Benjamin",
-        "Israel",
-        "Judah"
+        "It does not rejoice in the truth",
+        "It does not envy or boast",
+        "It is not easily angered",
+        "Both B and C"
       ],
-      "correct_index": 2,
-      "explanation": "Israel.",
-      "difficulty": 1
+      "correct_index": 3,
+      "explanation": "Paul lists many things love does not do: envy, boast, are not proud, not self-seeking, not easily angered (1 Corinthians 13:4-5).",
+      "difficulty": 3
     },
     {
       "id": "crs_167",
-      "text": "From which mountain did God call Moses through the burning bush? (variant 167)",
+      "text": "In Paul's letter to the Romans, what does he say about faith without works?",
       "options": [
-        "Temple",
-        "Burning bush",
-        "Cloud",
-        "Dream"
+        "It is powerful",
+        "It is dead",
+        "It is the only thing needed",
+        "It saves completely"
       ],
       "correct_index": 1,
-      "explanation": "Burning bush.",
-      "difficulty": 1
+      "explanation": "James writes that faith without works is dead (James 2:26). Paul emphasizes that we are justified by faith.",
+      "difficulty": 3
     },
     {
       "id": "crs_168",
-      "text": "How many plagues did God bring upon Egypt? (variant 168)",
+      "text": "According to Paul, how are people saved?",
       "options": [
-        "10",
-        "5",
-        "7",
-        "12"
+        "By good works alone",
+        "By grace through faith, not by works",
+        "By obeying the law perfectly",
+        "By making sacrifices at the Temple"
       ],
-      "correct_index": 0,
-      "explanation": "10.",
+      "correct_index": 1,
+      "explanation": "Paul taught that we are saved by grace through faith, not by works of the law (Ephesians 2:8-9).",
       "difficulty": 1
     },
     {
       "id": "crs_169",
-      "text": "On which mountain did Moses receive the Ten Commandments? (variant 169)",
+      "text": "What did Paul describe as the 'armor of God'?",
       "options": [
-        "Zion",
-        "Ararat",
-        "Carmel",
-        "Sinai"
+        "Physical armor for battle",
+        "Spiritual armor including truth, righteousness, faith, and the word of God",
+        "Money and influence",
+        "Priestly garments"
       ],
-      "correct_index": 3,
-      "explanation": "Sinai.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Paul described spiritual armor: belt of truth, breastplate of righteousness, shield of faith, helmet of salvation, sword of the Spirit (Ephesians 6:10-18).",
+      "difficulty": 2
     },
     {
       "id": "crs_170",
-      "text": "What did God give to Moses on Mount Sinai? (variant 170)",
+      "text": "According to Paul’s letters, what was the nature of ‘the thorn in the flesh’?",
       "options": [
-        "7",
-        "5",
-        "10",
-        "12"
+        "A physical illness",
+        "The exact nature is not clearly stated in Scripture",
+        "A criminal record",
+        "A nagging wife"
       ],
-      "correct_index": 2,
-      "explanation": "10.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The exact nature of Paul's thorn in the flesh is not specified in Scripture (2 Corinthians 12:7).",
+      "difficulty": 3
     },
     {
       "id": "crs_171",
-      "text": "David killed Goliath with: (variant 171)",
+      "text": "What did God say to Paul about his thorn in the flesh?",
       "options": [
-        "Bow",
-        "Sling stone",
-        "Sword",
-        "Spear"
+        "I will remove it immediately",
+        "My grace is sufficient for you, for my power is made perfect in weakness",
+        "Pray harder",
+        "It will go away in time"
       ],
       "correct_index": 1,
-      "explanation": "Sling stone.",
-      "difficulty": 1
+      "explanation": "God replied: 'My grace is sufficient for you, for my power is made perfect in weakness' (2 Corinthians 12:9).",
+      "difficulty": 3
     },
     {
       "id": "crs_172",
-      "text": "Who built the first temple in Jerusalem for God? (variant 172)",
+      "text": "What fruit of the Spirit does Paul list in Galatians 5?",
       "options": [
-        "Solomon",
-        "David",
-        "Saul",
-        "Moses"
+        "Wealth, power, and fame",
+        "Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control",
+        "Wisdom, knowledge, and understanding",
+        "Strength, courage, and honor"
       ],
-      "correct_index": 0,
-      "explanation": "Solomon.",
+      "correct_index": 1,
+      "explanation": "Paul listed nine fruit of the Spirit in Galatians 5:22-23.",
       "difficulty": 1
     },
     {
       "id": "crs_173",
-      "text": "Where was Jesus Christ born according to the Bible? (variant 173)",
+      "text": "How many fruit of the Spirit does Paul list in Galatians 5:22-23?",
       "options": [
-        "Nazareth",
-        "Jerusalem",
-        "Galilee",
-        "Bethlehem"
+        "Seven",
+        "Eight",
+        "Nine",
+        "Twelve"
       ],
-      "correct_index": 3,
-      "explanation": "Bethlehem.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Paul lists nine fruit of the Spirit: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control.",
+      "difficulty": 2
     },
     {
       "id": "crs_174",
-      "text": "Who baptized Jesus Christ in the River Jordan? (variant 174)",
+      "text": "What did Paul say about the unity of the body of Christ in 1 Corinthians 12?",
       "options": [
-        "James",
-        "Andrew",
-        "John Baptist",
-        "Peter"
+        "Every part is unimportant",
+        "If one part suffers, all suffer together; if one part is honored, all rejoice",
+        "Only the head matters",
+        "Christians should work alone"
       ],
-      "correct_index": 2,
-      "explanation": "John Baptist.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Paul taught that all parts of Christ's body are interconnected and share in each other's sufferings and joys (1 Corinthians 12:26).",
+      "difficulty": 3
     },
     {
       "id": "crs_175",
-      "text": "At which place did Jesus perform his first miracle? (variant 175)",
+      "text": "What did Paul call himself before his conversion?",
       "options": [
-        "Bethlehem",
-        "Cana",
-        "Jerusalem",
-        "Nazareth"
+        "A servant of Christ",
+        "The chief of sinners",
+        "The least of the apostles",
+        "A Roman citizen"
       ],
       "correct_index": 1,
-      "explanation": "Cana.",
-      "difficulty": 1
+      "explanation": "Paul called himself the chief of sinners, having persecuted the church (1 Timothy 1:15).",
+      "difficulty": 3
     },
     {
       "id": "crs_176",
-      "text": "What did Jesus use to feed the five thousand people? (variant 176)",
+      "text": "What did Paul say in Philippians 4:13?",
       "options": [
-        "5 loaves 2 fish",
-        "10 loaves",
-        "Only fish",
-        "Only bread"
+        "I can do all things through Christ who strengthens me",
+        "I am the weakest of all",
+        "I have no needs",
+        "I am self-sufficient"
       ],
       "correct_index": 0,
-      "explanation": "5 loaves 2 fish.",
+      "explanation": "'I can do all things through Christ who strengthens me' (Philippians 4:13).",
       "difficulty": 1
     },
     {
       "id": "crs_177",
-      "text": "Who betrayed Jesus Christ to the Roman soldiers? (variant 177)",
+      "text": "Which letter did Paul write to a slave owner about the runaway slave Onesimus?",
       "options": [
-        "Peter",
-        "John",
-        "James",
-        "Judas"
+        "Romans",
+        "Galatians",
+        "Philemon",
+        "Ephesians"
       ],
-      "correct_index": 3,
-      "explanation": "Judas.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Paul wrote to Philemon urging him to receive the runaway slave Onesimus as a brother in Christ (Philemon 1:8-16).",
+      "difficulty": 3
     },
     {
       "id": "crs_178",
-      "text": "At which place was Jesus Christ crucified? (variant 178)",
+      "text": "What did Paul urge Philemon to do with Onesimus?",
       "options": [
-        "Nazareth",
-        "Galilee",
-        "Golgotha",
-        "Bethlehem"
+        "Punish him severely",
+        "Send him back as a slave",
+        "Receive him no longer as a slave but as a beloved brother",
+        "Banish him from the church"
       ],
       "correct_index": 2,
-      "explanation": "Golgotha.",
-      "difficulty": 1
+      "explanation": "Paul urged Philemon to receive Onesimus as a beloved brother in Christ (Philemon 1:16).",
+      "difficulty": 3
     },
     {
       "id": "crs_179",
-      "text": "On which day of the week did Jesus Christ resurrect? (variant 179)",
+      "text": "In which city was Paul shipwrecked on his way to Rome?",
       "options": [
-        "First",
-        "Third day",
-        "Second",
-        "Seventh"
+        "Cyprus",
+        "Malta",
+        "Crete",
+        "Syracuse"
       ],
       "correct_index": 1,
-      "explanation": "Third day.",
-      "difficulty": 1
+      "explanation": "Paul was shipwrecked on the island of Malta (Acts 28:1).",
+      "difficulty": 2
     },
     {
       "id": "crs_180",
-      "text": "Who was the first Christian martyr in the Bible? (variant 180)",
+      "text": "What happened to the viper that bit Paul on Malta?",
       "options": [
-        "Stephen",
-        "Peter",
-        "James",
-        "John"
+        "Paul died",
+        "He shook it off into the fire and suffered no harm",
+        "It killed him temporarily",
+        "He became ill for a week"
       ],
-      "correct_index": 0,
-      "explanation": "Stephen.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Paul shook the viper into the fire and was unharmed, stunning the islanders (Acts 28:3-6).",
+      "difficulty": 2
     },
     {
       "id": "crs_181",
-      "text": "Who was the first man created by God according to the Bible? (variant 181)",
+      "text": "What does Paul teach about Christian love in Romans 12?",
       "options": [
-        "Abraham",
-        "Moses",
-        "David",
-        "Adam"
+        "Love only those who love you",
+        "Bless those who persecute you; bless and do not curse",
+        "Hate your enemies",
+        "Avoid your enemies"
       ],
-      "correct_index": 3,
-      "explanation": "Adam.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Paul taught: 'Bless those who persecute you; bless and do not curse' (Romans 12:14).",
+      "difficulty": 2
     },
     {
       "id": "crs_182",
-      "text": "Who was the first woman created by God according to the Bible? (variant 182)",
+      "text": "What does Paul say about revenge in Romans 12?",
       "options": [
-        "Rebekah",
-        "Rachel",
-        "Eve",
-        "Sarah"
+        "Revenge is necessary",
+        "Do not repay anyone evil for evil; leave room for God's wrath",
+        "Revenge is God's gift to us",
+        "Take revenge quickly"
       ],
-      "correct_index": 2,
-      "explanation": "Eve.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Paul wrote: 'Do not repay anyone evil for evil... Do not take revenge, my dear friends, but leave room for God's wrath' (Romans 12:17-19).",
+      "difficulty": 2
     },
     {
       "id": "crs_183",
-      "text": "What is the name of the garden where Adam and Eve lived? (variant 183)",
+      "text": "What did Paul say about submission to governing authorities in Romans 13?",
       "options": [
-        "Jerusalem",
-        "Eden",
-        "Gethsemane",
-        "Galilee"
+        "Disobey all government",
+        "Everyone must submit to governing authorities",
+        "Only obey when convenient",
+        "Government is from Satan"
       ],
       "correct_index": 1,
-      "explanation": "Eden.",
-      "difficulty": 1
+      "explanation": "Paul taught that governing authorities are established by God and we should submit to them (Romans 13:1).",
+      "difficulty": 3
     },
     {
       "id": "crs_184",
-      "text": "Why was Noah saved from the great flood by God? (variant 184)",
+      "text": "In which city did Paul deliver the famous speech at the Areopagus?",
       "options": [
-        "Righteous",
-        "Wicked",
-        "Rich",
-        "Strong"
+        "Jerusalem",
+        "Athens",
+        "Corinth",
+        "Rome"
       ],
-      "correct_index": 0,
-      "explanation": "Righteous.",
+      "correct_index": 1,
+      "explanation": "Paul preached at the Areopagus in Athens, addressing the altar to an unknown god (Acts 17:22-31).",
       "difficulty": 1
     },
     {
       "id": "crs_185",
-      "text": "Abraham son of promise: (variant 185)",
+      "text": "What did Paul say about God at the Areopagus in Athens?",
       "options": [
-        "Ishmael",
-        "Jacob",
-        "Esau",
-        "Isaac"
+        "God lives only in temples",
+        "The God who made the world does not live in temples made by human hands",
+        "God is unknown and cannot be found",
+        "God only cares about the rich"
       ],
-      "correct_index": 3,
-      "explanation": "Isaac.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Paul declared that the God who made the world does not live in temples built by human hands (Acts 17:24).",
+      "difficulty": 2
     },
     {
       "id": "crs_186",
-      "text": "What was Jacob's new name after he wrestled with God? (variant 186)",
+      "text": "What did Paul preach at the Areopagus about all people?",
       "options": [
-        "Joseph",
-        "Benjamin",
-        "Israel",
-        "Judah"
+        "Only Greeks can be saved",
+        "From one man God made all nations to live on the earth",
+        "God only loves the Jews",
+        "People are born evil"
       ],
-      "correct_index": 2,
-      "explanation": "Israel.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Paul said: 'From one man he made all the nations' (Acts 17:26).",
+      "difficulty": 3
     },
     {
       "id": "crs_187",
-      "text": "From which mountain did God call Moses through the burning bush? (variant 187)",
+      "text": "What is Paul's teaching on forgiveness in Colossians 3?",
       "options": [
-        "Temple",
-        "Burning bush",
-        "Cloud",
-        "Dream"
+        "Forgive only when asked",
+        "Bear with each other and forgive one another",
+        "Never forgive serious sins",
+        "Forgiveness is only for God to give"
       ],
       "correct_index": 1,
-      "explanation": "Burning bush.",
-      "difficulty": 1
+      "explanation": "Paul wrote: 'Bear with each other and forgive one another if any of you has a grievance' (Colossians 3:13).",
+      "difficulty": 2
     },
     {
       "id": "crs_188",
-      "text": "How many plagues did God bring upon Egypt? (variant 188)",
+      "text": "What does Paul teach about the second coming of Christ in 1 Thessalonians 4?",
       "options": [
-        "10",
-        "5",
-        "7",
-        "12"
+        "Christ will never return",
+        "The dead in Christ will rise first, then those who are alive will be caught up together",
+        "Only the righteous will see him",
+        "He will return silently and secretly"
       ],
-      "correct_index": 0,
-      "explanation": "10.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Paul taught that the dead in Christ will rise first, then those who are alive will be caught up together with them (1 Thessalonians 4:16-17).",
+      "difficulty": 2
     },
     {
       "id": "crs_189",
-      "text": "On which mountain did Moses receive the Ten Commandments? (variant 189)",
+      "text": "What does Paul teach about prayer in 1 Thessalonians 5?",
       "options": [
-        "Zion",
-        "Ararat",
-        "Carmel",
-        "Sinai"
+        "Pray only in the morning",
+        "Pray without ceasing",
+        "Pray only when in trouble",
+        "Pray only on Sundays"
       ],
-      "correct_index": 3,
-      "explanation": "Sinai.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Paul commanded: 'Pray without ceasing' (1 Thessalonians 5:17).",
+      "difficulty": 2
     },
     {
       "id": "crs_190",
-      "text": "What did God give to Moses on Mount Sinai? (variant 190)",
+      "text": "What did Paul say about the resurrection of the dead in 1 Corinthians 15?",
       "options": [
-        "7",
-        "5",
-        "10",
-        "12"
+        "There is no resurrection",
+        "If Christ has not been raised, our faith is futile",
+        "Only Jesus will be resurrected",
+        "Resurrection already happened"
       ],
-      "correct_index": 2,
-      "explanation": "10.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Paul argued: 'If Christ has not been raised, your faith is futile' (1 Corinthians 15:17).",
+      "difficulty": 3
     },
     {
       "id": "crs_191",
-      "text": "David killed Goliath with: (variant 191)",
+      "text": "What does Paul compare Christ's return to in 1 Corinthians 15?",
       "options": [
-        "Bow",
-        "Sling stone",
-        "Sword",
-        "Spear"
+        "A gentle rain",
+        "A thief in the night",
+        "A flood",
+        "A quiet whisper"
       ],
       "correct_index": 1,
-      "explanation": "Sling stone.",
-      "difficulty": 1
+      "explanation": "Paul and other writers compare Christ's sudden return to a thief coming in the night (1 Thessalonians 5:2).",
+      "difficulty": 3
     },
     {
       "id": "crs_192",
-      "text": "Who built the first temple in Jerusalem for God? (variant 192)",
+      "text": "According to James, what is faith without works?",
       "options": [
-        "Solomon",
-        "David",
-        "Saul",
-        "Moses"
+        "Strong faith",
+        "Dead faith",
+        "True faith",
+        "Saving faith"
       ],
-      "correct_index": 0,
-      "explanation": "Solomon.",
+      "correct_index": 1,
+      "explanation": "James wrote: 'Faith without works is dead' (James 2:26).",
       "difficulty": 1
     },
     {
       "id": "crs_193",
-      "text": "Where was Jesus Christ born according to the Bible? (variant 193)",
+      "text": "What does James say about the tongue?",
       "options": [
-        "Nazareth",
-        "Jerusalem",
-        "Galilee",
-        "Bethlehem"
+        "It is harmless",
+        "It is a small member but boasts of great things and sets the whole course of life on fire",
+        "It has no power",
+        "It should always be silent"
       ],
-      "correct_index": 3,
-      "explanation": "Bethlehem.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "James compared the tongue to a small rudder that steers a large ship, saying it can corrupt the whole person (James 3:5-6).",
+      "difficulty": 3
     },
     {
       "id": "crs_194",
-      "text": "Who baptized Jesus Christ in the River Jordan? (variant 194)",
+      "text": "What does James say about the power of prayer?",
       "options": [
-        "James",
-        "Andrew",
-        "John Baptist",
-        "Peter"
+        "Prayer is useless",
+        "The prayer of a righteous person is powerful and effective",
+        "Only prophets should pray",
+        "Prayer works only in church"
       ],
-      "correct_index": 2,
-      "explanation": "John Baptist.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "James wrote: 'The prayer of a righteous person is powerful and effective' (James 5:16).",
+      "difficulty": 2
     },
     {
       "id": "crs_195",
-      "text": "At which place did Jesus perform his first miracle? (variant 195)",
+      "text": "According to Peter, what is our living hope through the resurrection of Jesus?",
       "options": [
-        "Bethlehem",
-        "Cana",
-        "Jerusalem",
-        "Nazareth"
+        "To become rich",
+        "An inheritance that can never perish, spoil, or fade",
+        "Earthly power",
+        "Freedom from all suffering"
       ],
       "correct_index": 1,
-      "explanation": "Cana.",
-      "difficulty": 1
+      "explanation": "Peter wrote that through Christ we have an inheritance kept in heaven that can never perish, spoil, or fade (1 Peter 1:4).",
+      "difficulty": 3
     },
     {
       "id": "crs_196",
-      "text": "What did Jesus use to feed the five thousand people? (variant 196)",
+      "text": "According to the first letter of John, what does Scripture reveal about the nature of God?",
       "options": [
-        "5 loaves 2 fish",
-        "10 loaves",
-        "Only fish",
-        "Only bread"
+        "God is only a spirit",
+        "God is love",
+        "God is distant and uncaring",
+        "God is only for the wealthy"
       ],
-      "correct_index": 0,
-      "explanation": "5 loaves 2 fish.",
+      "correct_index": 1,
+      "explanation": "John wrote: 'God is love' (1 John 4:8).",
       "difficulty": 1
     },
     {
       "id": "crs_197",
-      "text": "Who betrayed Jesus Christ to the Roman soldiers? (variant 197)",
+      "text": "According to 1 John 4, how can we know God abides in us?",
       "options": [
-        "Peter",
-        "John",
-        "James",
-        "Judas"
+        "By our wealth",
+        "By the Spirit he gave us",
+        "By our social status",
+        "By our physical strength"
       ],
-      "correct_index": 3,
-      "explanation": "Judas.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "John wrote: 'This is how we know that he lives in us: We know it by the Spirit he gave us' (1 John 4:13).",
+      "difficulty": 3
     },
     {
       "id": "crs_198",
-      "text": "At which place was Jesus Christ crucified? (variant 198)",
+      "text": "What does John say we must do if we claim to love God but hate our brother?",
       "options": [
-        "Nazareth",
-        "Galilee",
-        "Golgotha",
-        "Bethlehem"
+        "It is acceptable",
+        "We are liars and the truth is not in us",
+        "We should pray about it",
+        "Love of God is more important"
       ],
-      "correct_index": 2,
-      "explanation": "Golgotha.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "John wrote: 'Whoever claims to love God yet hates a brother or sister is a liar' (1 John 4:20).",
+      "difficulty": 3
     },
     {
       "id": "crs_199",
-      "text": "On which day of the week did Jesus Christ resurrect? (variant 199)",
+      "text": "In Revelation, what does Jesus promise to those who overcome?",
       "options": [
-        "First",
-        "Third day",
-        "Second",
-        "Seventh"
+        "Gold and silver",
+        "They will sit with him on his throne",
+        "They will rule the world politically",
+        "They will become angels"
       ],
       "correct_index": 1,
-      "explanation": "Third day.",
-      "difficulty": 1
+      "explanation": "Jesus promised: 'The one who conquers... will sit with me on my throne' (Revelation 3:21).",
+      "difficulty": 3
     },
     {
       "id": "crs_200",
-      "text": "Who was the first Christian martyr in the Bible? (variant 200)",
+      "text": "What does Revelation 21:1 describe as the new creation?",
       "options": [
-        "Stephen",
-        "Peter",
-        "James",
-        "John"
+        "A new universe and a new earth",
+        "A rebuilt Temple",
+        "A new Roman Empire",
+        "A new Garden of Eden on earth"
       ],
       "correct_index": 0,
-      "explanation": "Stephen.",
-      "difficulty": 1
+      "explanation": "John saw 'a new heaven and a new earth' (Revelation 21:1).",
+      "difficulty": 3
     }
   ]
 }

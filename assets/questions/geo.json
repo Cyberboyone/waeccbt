@@ -5,171 +5,171 @@
   "questions": [
     {
       "id": "geo_001",
-      "text": "What does the study of Geography involve?",
+      "text": "What does the study of Geography primarily involve?",
       "options": [
-        "Only rocks",
-        "Only animals",
-        "Only plants",
-        "Earth and features"
+        "Only rocks and minerals",
+        "Only animals and plants",
+        "The Earth and its features",
+        "Only human bodies"
       ],
-      "correct_index": 3,
-      "explanation": "Earth features.",
+      "correct_index": 2,
+      "explanation": "Geography studies the Earth and its physical and human features.",
       "difficulty": 1
     },
     {
       "id": "geo_002",
       "text": "What is the true shape of the Earth?",
       "options": [
-        "Square",
-        "Triangle",
-        "Geoid",
-        "Flat"
+        "Perfect sphere",
+        "Flat disc",
+        "Geoid (irregular sphere)",
+        "Cube"
       ],
       "correct_index": 2,
-      "explanation": "Geoid.",
+      "explanation": "The Earth is slightly flattened at the poles and bulging at the equator, making it a geoid.",
       "difficulty": 1
     },
     {
       "id": "geo_003",
       "text": "How long does the Earth take to complete one rotation on its axis?",
       "options": [
-        "1 hour",
-        "24 hours",
+        "12 hours",
         "365 days",
-        "12 hours"
+        "24 hours",
+        "1 month"
       ],
-      "correct_index": 1,
-      "explanation": "24 hours.",
+      "correct_index": 2,
+      "explanation": "The Earth rotates on its axis once every 24 hours, causing day and night.",
       "difficulty": 1
     },
     {
       "id": "geo_004",
       "text": "What does latitude measure on the Earth's surface?",
       "options": [
-        "North/south equator",
-        "East/west Greenwich",
-        "Upwards",
-        "Downwards"
+        "Distance east or west of Greenwich",
+        "Distance north or south of the Equator",
+        "Height above sea level",
+        "Depth below the ocean"
       ],
-      "correct_index": 0,
-      "explanation": "North/south.",
+      "correct_index": 1,
+      "explanation": "Latitude measures angular distance north or south of the Equator.",
       "difficulty": 1
     },
     {
       "id": "geo_005",
       "text": "The Greenwich Meridian represents which line of longitude?",
       "options": [
-        "0° latitude",
-        "90° long",
-        "180° lat",
-        "0° longitude"
+        "90° East",
+        "180°",
+        "0° longitude",
+        "90° West"
       ],
-      "correct_index": 3,
-      "explanation": "0° longitude.",
+      "correct_index": 2,
+      "explanation": "The Greenwich Meridian is the prime meridian at 0° longitude.",
       "difficulty": 1
     },
     {
       "id": "geo_006",
       "text": "What does the scale of a map represent?",
       "options": [
-        "Only ground",
-        "No ratio",
-        "Ratio map to ground",
-        "Only map"
+        "The colour of the map",
+        "The ratio of map distance to ground distance",
+        "The number of towns shown",
+        "The size of the paper"
       ],
-      "correct_index": 2,
-      "explanation": "Ratio.",
+      "correct_index": 1,
+      "explanation": "Map scale is the ratio between distance on the map and actual distance on the ground.",
       "difficulty": 1
     },
     {
       "id": "geo_007",
-      "text": "How are igneous rocks formed from molten material?",
+      "text": "How are igneous rocks formed from molten material or cooling magma?",
       "options": [
-        "Weathering",
-        "Cooling magma",
-        "Deposition",
-        "Metamorphism"
+        "By compaction of sediments",
+        "By cooling and solidification of molten material",
+        "By heat and pressure on existing rocks",
+        "By chemical precipitation"
       ],
       "correct_index": 1,
-      "explanation": "Cooling magma.",
+      "explanation": "Igneous rocks form when magma or lava cools and solidifies.",
       "difficulty": 1
     },
     {
       "id": "geo_008",
-      "text": "What does a standard rain gauge measure in meteorology?",
+      "text": "Which instrument is used to measure rainfall?",
       "options": [
-        "Rainfall",
-        "Temperature",
-        "Pressure",
-        "Wind"
+        "Thermometer",
+        "Barometer",
+        "Rain gauge",
+        "Anemometer"
       ],
-      "correct_index": 0,
-      "explanation": "Rainfall.",
+      "correct_index": 2,
+      "explanation": "A rain gauge (pluviometer) measures the amount of rainfall.",
       "difficulty": 1
     },
     {
       "id": "geo_009",
       "text": "Which is the largest ocean in the world?",
       "options": [
-        "Atlantic",
-        "Indian",
-        "Arctic",
-        "Pacific"
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
       ],
       "correct_index": 3,
-      "explanation": "Pacific.",
+      "explanation": "The Pacific Ocean covers about one-third of the Earth's surface.",
       "difficulty": 1
     },
     {
       "id": "geo_010",
-      "text": "The River Nile is the longest river in which continent?",
+      "text": "The River Nile flows through which continent?",
       "options": [
-        "No longest",
-        "Only Nigeria",
+        "Asia",
+        "South America",
         "Africa",
-        "World"
+        "Europe"
       ],
       "correct_index": 2,
-      "explanation": "Africa.",
+      "explanation": "The River Nile is the longest river in Africa.",
       "difficulty": 1
     },
     {
       "id": "geo_011",
-      "text": "How is population density defined? in this subject area?",
+      "text": "How is the concept of population density defined in geography?",
       "options": [
-        "No number",
-        "People per area",
-        "Only number",
-        "Only area"
+        "Total land area only",
+        "Number of people per unit area",
+        "Total number of births",
+        "Number of houses per village"
       ],
       "correct_index": 1,
-      "explanation": "People per area.",
+      "explanation": "Population density is the number of people living per unit area, usually per km².",
       "difficulty": 1
     },
     {
       "id": "geo_012",
       "text": "Lagos is the largest city in which country?",
       "options": [
-        "Nigeria",
         "Ghana",
-        "Kenya",
-        "Egypt"
+        "Nigeria",
+        "Senegal",
+        "Cameroon"
       ],
-      "correct_index": 0,
-      "explanation": "Nigeria.",
+      "correct_index": 1,
+      "explanation": "Lagos is the largest city in Nigeria and one of the largest in Africa.",
       "difficulty": 1
     },
     {
       "id": "geo_013",
-      "text": "Which of the following is an example of a primary economic activity?",
+      "text": "Which of the following is a primary economic activity?",
       "options": [
-        "Manufacturing",
-        "Trading",
+        "Banking",
         "Teaching",
-        "Farming"
+        "Farming",
+        "Trading"
       ],
-      "correct_index": 3,
-      "explanation": "Farming.",
+      "correct_index": 2,
+      "explanation": "Farming is a primary activity because it involves direct exploitation of natural resources.",
       "difficulty": 1
     },
     {
@@ -182,46 +182,46 @@
         "Sokoto"
       ],
       "correct_index": 2,
-      "explanation": "Niger Delta.",
+      "explanation": "Nigeria's petroleum reserves are concentrated in the Niger Delta region.",
       "difficulty": 1
     },
     {
       "id": "geo_015",
-      "text": "What do contour lines on a topographic map join together?",
+      "text": "What do contour lines on a topographic map represent?",
       "options": [
-        "Equal pressure",
-        "Equal height",
-        "Equal rain",
-        "Equal temp"
+        "Lines of equal rainfall",
+        "Lines of equal height above sea level",
+        "Lines of equal temperature",
+        "Lines of equal population"
       ],
       "correct_index": 1,
-      "explanation": "Equal height.",
+      "explanation": "Contour lines join points of equal height above sea level.",
       "difficulty": 1
     },
     {
       "id": "geo_016",
-      "text": "What does GIS stand for in geography?",
+      "text": "What does the acronym GIS stand for in full?",
       "options": [
         "Geographic Information System",
-        "General",
-        "Geological",
-        "No meaning"
+        "General Investigation Study",
+        "Geological Input Survey",
+        "Global Inspection Service"
       ],
       "correct_index": 0,
-      "explanation": "GIS.",
+      "explanation": "GIS stands for Geographic Information System, used for storing and analysing spatial data.",
       "difficulty": 1
     },
     {
       "id": "geo_017",
       "text": "Desertification is most common in which part of Nigeria?",
       "options": [
-        "South",
-        "No where",
-        "Only coast",
-        "North Nigeria"
+        "South-south",
+        "South-west",
+        "North-east",
+        "South-east"
       ],
-      "correct_index": 3,
-      "explanation": "North.",
+      "correct_index": 2,
+      "explanation": "Desertification mainly affects the northern part of Nigeria, especially the Sahel region.",
       "difficulty": 1
     },
     {
@@ -229,2379 +229,2379 @@
       "text": "Which of the following is a renewable resource?",
       "options": [
         "Coal",
-        "Gas",
-        "Solar",
+        "Natural gas",
+        "Solar energy",
         "Petroleum"
       ],
       "correct_index": 2,
-      "explanation": "Solar.",
+      "explanation": "Solar energy is renewable because it is continuously replenished by the sun.",
       "difficulty": 1
     },
     {
       "id": "geo_019",
       "text": "Nigeria is located in which region of Africa?",
       "options": [
-        "South Africa",
+        "North Africa",
         "West Africa",
         "East Africa",
-        "North Africa"
+        "Southern Africa"
       ],
       "correct_index": 1,
-      "explanation": "West Africa.",
+      "explanation": "Nigeria is the most populous country in West Africa.",
       "difficulty": 1
     },
     {
       "id": "geo_020",
       "text": "What is the time difference between two places separated by 15° of longitude?",
       "options": [
+        "30 minutes",
         "1 hour",
         "2 hours",
-        "30 mins",
-        "15 mins"
+        "15 minutes"
       ],
-      "correct_index": 0,
-      "explanation": "1 hour.",
+      "correct_index": 1,
+      "explanation": "The Earth rotates 15° per hour, so 15° equals 1 hour time difference.",
       "difficulty": 2
     },
     {
       "id": "geo_021",
-      "text": "What does the study of Geography involve? (variant 21)",
+      "text": "Which branch of geography deals with the study of landforms?",
       "options": [
-        "Only rocks",
-        "Only animals",
-        "Only plants",
-        "Earth and features"
+        "Climatology",
+        "Geomorphology",
+        "Biogeography",
+        "Cartography"
       ],
-      "correct_index": 3,
-      "explanation": "Earth features.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Geomorphology is the study of landforms and the processes that shape them.",
+      "difficulty": 3
     },
     {
       "id": "geo_022",
-      "text": "What is the true shape of the Earth? (variant 22)",
+      "text": "How long does the Earth take to complete one revolution around the Sun?",
       "options": [
-        "Square",
-        "Triangle",
-        "Geoid",
-        "Flat"
+        "24 hours",
+        "30 days",
+        "365¼ days",
+        "12 months exactly"
       ],
       "correct_index": 2,
-      "explanation": "Geoid.",
+      "explanation": "The Earth takes approximately 365¼ days to revolve around the Sun.",
       "difficulty": 1
     },
     {
       "id": "geo_023",
-      "text": "How long does the Earth take to complete one rotation on its axis? (variant 23)",
+      "text": "What is the main cause of the seasons on Earth?",
       "options": [
-        "1 hour",
-        "24 hours",
-        "365 days",
-        "12 hours"
+        "Distance from the Sun",
+        "The Earth's tilted axis",
+        "The speed of rotation",
+        "Ocean currents"
       ],
       "correct_index": 1,
-      "explanation": "24 hours.",
-      "difficulty": 1
+      "explanation": "The Earth's axis is tilted at 23½°, causing different parts to receive varying amounts of sunlight.",
+      "difficulty": 3
     },
     {
       "id": "geo_024",
-      "text": "What does latitude measure on the Earth's surface? (variant 24)",
+      "text": "What is the Prime Meridian also known as?",
       "options": [
-        "North/south equator",
-        "East/west Greenwich",
-        "Upwards",
-        "Downwards"
+        "Equator",
+        "Tropic of Cancer",
+        "Greenwich Meridian",
+        "International Date Line"
       ],
-      "correct_index": 0,
-      "explanation": "North/south.",
+      "correct_index": 2,
+      "explanation": "The Prime Meridian at 0° longitude passes through Greenwich, London.",
       "difficulty": 1
     },
     {
       "id": "geo_025",
-      "text": "The Greenwich Meridian represents which line of longitude? (variant 25)",
+      "text": "At what latitude is the Tropic of Cancer located?",
       "options": [
-        "0° latitude",
-        "90° long",
-        "180° lat",
-        "0° longitude"
+        "0°",
+        "23½° N",
+        "66½° S",
+        "23½° S"
       ],
-      "correct_index": 3,
-      "explanation": "0° longitude.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Tropic of Cancer is at 23½° north of the Equator.",
+      "difficulty": 3
     },
     {
       "id": "geo_026",
-      "text": "What does the scale of a map represent? (variant 26)",
+      "text": "What is the value or meaning of a large scale map in mathematics?",
       "options": [
-        "Only ground",
-        "No ratio",
-        "Ratio map to ground",
-        "Only map"
+        "A map covering a very large area with little detail",
+        "A map covering a small area with much detail",
+        "A map of the whole world",
+        "A map with no scale bar"
       ],
-      "correct_index": 2,
-      "explanation": "Ratio.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A large scale map shows a small area in great detail, e.g. 1:10,000.",
+      "difficulty": 3
     },
     {
       "id": "geo_027",
-      "text": "How are igneous rocks formed from molten material? (variant 27)",
+      "text": "Closely spaced contour lines on a map indicate:",
       "options": [
-        "Weathering",
-        "Cooling magma",
-        "Deposition",
-        "Metamorphism"
+        "Flat land",
+        "Gentle slope",
+        "Steep slope",
+        "A river valley"
       ],
-      "correct_index": 1,
-      "explanation": "Cooling magma.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Closely spaced contour lines show steep slopes because height changes over a short distance.",
+      "difficulty": 3
     },
     {
       "id": "geo_028",
-      "text": "What does a standard rain gauge measure in meteorology? (variant 28)",
+      "text": "Which of the following is a sedimentary rock?",
       "options": [
-        "Rainfall",
-        "Temperature",
-        "Pressure",
-        "Wind"
+        "Granite",
+        "Basalt",
+        "Limestone",
+        "Marble"
       ],
-      "correct_index": 0,
-      "explanation": "Rainfall.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Limestone is formed from the accumulation and compaction of sediments, usually shells and coral.",
+      "difficulty": 2
     },
     {
       "id": "geo_029",
-      "text": "Which is the largest ocean in the world? (variant 29)",
+      "text": "What is the value or meaning of measured by a barometer in mathematics?",
       "options": [
-        "Atlantic",
-        "Indian",
-        "Arctic",
-        "Pacific"
+        "Temperature",
+        "Atmospheric pressure",
+        "Wind speed",
+        "Humidity"
       ],
-      "correct_index": 3,
-      "explanation": "Pacific.",
+      "correct_index": 1,
+      "explanation": "A barometer measures atmospheric (air) pressure.",
       "difficulty": 1
     },
     {
       "id": "geo_030",
-      "text": "The River Nile is the longest river in which continent? (variant 30)",
+      "text": "Which of the following is NOT an element of weather?",
       "options": [
-        "No longest",
-        "Only Nigeria",
-        "Africa",
-        "World"
+        "Temperature",
+        "Rainfall",
+        "Population",
+        "Humidity"
       ],
       "correct_index": 2,
-      "explanation": "Africa.",
+      "explanation": "Population is not a weather element; weather elements include temperature, pressure, humidity, etc.",
       "difficulty": 1
     },
     {
       "id": "geo_031",
-      "text": "How is population density defined? (variant 31)",
+      "text": "The hottest latitude zone on Earth is the:",
       "options": [
-        "No number",
-        "People per area",
-        "Only number",
-        "Only area"
+        "Torrid zone",
+        "Temperate zone",
+        "Frigid zone",
+        "Transition zone"
       ],
-      "correct_index": 1,
-      "explanation": "People per area.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "The Torrid zone between the Tropics of Cancer and Capricorn receives the most direct sunlight.",
+      "difficulty": 3
     },
     {
       "id": "geo_032",
-      "text": "Lagos is the largest city in which country? (variant 32)",
+      "text": "Which of the following best describes a tropical rainforest climate?",
       "options": [
-        "Nigeria",
-        "Ghana",
-        "Kenya",
-        "Egypt"
+        "Hot and dry all year",
+        "High temperature and heavy rainfall throughout the year",
+        "Cold winters and warm summers",
+        "Very cold and icy"
       ],
-      "correct_index": 0,
-      "explanation": "Nigeria.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Tropical rainforest (Af) climate has high temperatures and rainfall throughout the year.",
+      "difficulty": 3
     },
     {
       "id": "geo_033",
-      "text": "Which of the following is an example of a primary economic activity? (variant 33)",
+      "text": "Which vegetation type is found in the Guinea Savanna of Nigeria?",
       "options": [
-        "Manufacturing",
-        "Trading",
-        "Teaching",
-        "Farming"
+        "Mangrove swamps",
+        "Tropical rainforest",
+        "Grassland with scattered trees",
+        "Desert shrubs"
       ],
-      "correct_index": 3,
-      "explanation": "Farming.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "The Guinea Savanna has tall grasses with scattered drought-resistant trees.",
+      "difficulty": 3
     },
     {
       "id": "geo_034",
-      "text": "Petroleum is mainly found in which region of Nigeria? (variant 34)",
+      "text": "Which of the following is a cloud type found at high altitude?",
       "options": [
-        "Kano",
-        "Borno",
-        "Niger Delta",
-        "Sokoto"
+        "Stratus",
+        "Cumulonimbus",
+        "Cirrus",
+        "Nimbostratus"
       ],
       "correct_index": 2,
-      "explanation": "Niger Delta.",
-      "difficulty": 1
-    },
-    {
-      "id": "geo_035",
-      "text": "What do contour lines on a topographic map join together? (variant 35)",
-      "options": [
-        "Equal pressure",
-        "Equal height",
-        "Equal rain",
-        "Equal temp"
-      ],
-      "correct_index": 1,
-      "explanation": "Equal height.",
-      "difficulty": 1
-    },
-    {
-      "id": "geo_036",
-      "text": "What does GIS stand for in geography? (variant 36)",
-      "options": [
-        "Geographic Information System",
-        "General",
-        "Geological",
-        "No meaning"
-      ],
-      "correct_index": 0,
-      "explanation": "GIS.",
-      "difficulty": 1
-    },
-    {
-      "id": "geo_037",
-      "text": "Desertification is most common in which part of Nigeria? (variant 37)",
-      "options": [
-        "South",
-        "No where",
-        "Only coast",
-        "North Nigeria"
-      ],
-      "correct_index": 3,
-      "explanation": "North.",
-      "difficulty": 1
-    },
-    {
-      "id": "geo_038",
-      "text": "Which of the following is a renewable resource? (variant 38)",
-      "options": [
-        "Coal",
-        "Gas",
-        "Solar",
-        "Petroleum"
-      ],
-      "correct_index": 2,
-      "explanation": "Solar.",
-      "difficulty": 1
-    },
-    {
-      "id": "geo_039",
-      "text": "Nigeria is located in which region of Africa? (variant 39)",
-      "options": [
-        "South Africa",
-        "West Africa",
-        "East Africa",
-        "North Africa"
-      ],
-      "correct_index": 1,
-      "explanation": "West Africa.",
-      "difficulty": 1
-    },
-    {
-      "id": "geo_040",
-      "text": "What is the time difference between two places separated by 15° of longitude? (variant 40)",
-      "options": [
-        "1 hour",
-        "2 hours",
-        "30 mins",
-        "15 mins"
-      ],
-      "correct_index": 0,
-      "explanation": "1 hour.",
+      "explanation": "Cirrus clouds are thin, wispy clouds found at high altitudes above 6,000m.",
       "difficulty": 2
     },
     {
-      "id": "geo_041",
-      "text": "What does the study of Geography involve? (variant 41)",
+      "id": "geo_035",
+      "text": "What is the main cause of convectional rainfall?",
       "options": [
-        "Only rocks",
-        "Only animals",
-        "Only plants",
-        "Earth and features"
+        "Mountain barriers",
+        "Rising warm moist air that cools and condenses",
+        "Cold fronts meeting warm fronts",
+        "Cool ocean currents"
       ],
-      "correct_index": 3,
-      "explanation": "Earth features.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Convectional rainfall occurs when the sun heats the ground, causing air to rise, cool, and condense.",
+      "difficulty": 3
+    },
+    {
+      "id": "geo_036",
+      "text": "Which type of rock is formed by heat and pressure applied to existing rocks?",
+      "options": [
+        "Igneous rock",
+        "Sedimentary rock",
+        "Metamorphic rock",
+        "Volcanic rock"
+      ],
+      "correct_index": 2,
+      "explanation": "Metamorphic rocks form when existing rocks are changed by intense heat and pressure.",
+      "difficulty": 3
+    },
+    {
+      "id": "geo_037",
+      "text": "Which of the following best describes Earthquakes are mainly caused by?",
+      "options": [
+        "Rainfall",
+        "Volcanic eruptions only",
+        "Movement along fault lines in the Earth's crust",
+        "Wind erosion"
+      ],
+      "correct_index": 2,
+      "explanation": "Most earthquakes result from sudden movement along geological faults in the Earth's crust.",
+      "difficulty": 3
+    },
+    {
+      "id": "geo_038",
+      "text": "Which of the following is a erosional river landform?",
+      "options": [
+        "Delta",
+        "Floodplain",
+        "V-shaped valley",
+        "Meander"
+      ],
+      "correct_index": 2,
+      "explanation": "A V-shaped valley is formed by vertical erosion by rivers in their upper course.",
+      "difficulty": 3
+    },
+    {
+      "id": "geo_039",
+      "text": "What is the value or meaning of a delta in mathematics?",
+      "options": [
+        "A deep ocean trench",
+        "Triangular deposit of sediment at a river mouth",
+        "A waterfall",
+        "A natural harbour"
+      ],
+      "correct_index": 1,
+      "explanation": "A delta is a triangular-shaped landform built by deposition of sediment where a river meets the sea.",
+      "difficulty": 3
+    },
+    {
+      "id": "geo_040",
+      "text": "The Gulf of Guinea current is mainly a:",
+      "options": [
+        "Cold current",
+        "Warm current",
+        "Tidal wave",
+        "Underground current"
+      ],
+      "correct_index": 1,
+      "explanation": "The Guinea Current is a warm ocean current flowing along the West African coast.",
+      "difficulty": 3
+    },
+    {
+      "id": "geo_041",
+      "text": "Tides in the ocean are mainly caused by:",
+      "options": [
+        "Wind",
+        "The gravitational pull of the Moon and Sun",
+        "Earthquakes",
+        "Ocean currents"
+      ],
+      "correct_index": 1,
+      "explanation": "Tides result from the gravitational attraction of the Moon and Sun on ocean water.",
+      "difficulty": 3
     },
     {
       "id": "geo_042",
-      "text": "What is the true shape of the Earth? (variant 42)",
+      "text": "Which of the following is an ocean resource?",
       "options": [
-        "Square",
-        "Triangle",
-        "Geoid",
-        "Flat"
+        "Coal",
+        "Natural gas",
+        "Fish and marine organisms",
+        "Gold"
       ],
       "correct_index": 2,
-      "explanation": "Geoid.",
+      "explanation": "Fish and other marine organisms are important biological resources from the ocean.",
       "difficulty": 1
     },
     {
       "id": "geo_043",
-      "text": "How long does the Earth take to complete one rotation on its axis? (variant 43)",
+      "text": "What is meant by population distribution?",
       "options": [
-        "1 hour",
-        "24 hours",
-        "365 days",
-        "12 hours"
+        "The total number of people",
+        "The way people are spread across an area",
+        "The birth rate of a country",
+        "The number of males vs females"
       ],
       "correct_index": 1,
-      "explanation": "24 hours.",
+      "explanation": "Population distribution refers to how people are spread across different parts of an area.",
       "difficulty": 1
     },
     {
       "id": "geo_044",
-      "text": "What does latitude measure on the Earth's surface? (variant 44)",
+      "text": "Which of the following best describes Rural-urban migration refers to?",
       "options": [
-        "North/south equator",
-        "East/west Greenwich",
-        "Upwards",
-        "Downwards"
+        "Movement from city to city",
+        "Movement from village to city",
+        "Movement from one country to another",
+        "Movement within rural areas"
       ],
-      "correct_index": 0,
-      "explanation": "North/south.",
+      "correct_index": 1,
+      "explanation": "Rural-urban migration is the movement of people from villages to towns and cities.",
       "difficulty": 1
     },
     {
       "id": "geo_045",
-      "text": "The Greenwich Meridian represents which line of longitude? (variant 45)",
+      "text": "Which of the following is a characteristic of a rural settlement?",
       "options": [
-        "0° latitude",
-        "90° long",
-        "180° lat",
-        "0° longitude"
+        "High population density",
+        "Many industries",
+        "Agriculture as main occupation",
+        "Tall buildings"
       ],
-      "correct_index": 3,
-      "explanation": "0° longitude.",
+      "correct_index": 2,
+      "explanation": "Rural settlements are characterised by farming and low population density.",
       "difficulty": 1
     },
     {
       "id": "geo_046",
-      "text": "What does the scale of a map represent? (variant 46)",
+      "text": "What is the value or meaning of subsistence agriculture in mathematics?",
       "options": [
-        "Only ground",
-        "No ratio",
-        "Ratio map to ground",
-        "Only map"
+        "Farming for export",
+        "Farming to feed one's family with little or no surplus",
+        "Large-scale commercial farming",
+        "Government farming projects"
       ],
-      "correct_index": 2,
-      "explanation": "Ratio.",
+      "correct_index": 1,
+      "explanation": "Subsistence agriculture involves growing food mainly for the farmer's own consumption.",
       "difficulty": 1
     },
     {
       "id": "geo_047",
-      "text": "How are igneous rocks formed from molten material? (variant 47)",
+      "text": "Which of the following is a cash crop grown in Nigeria?",
       "options": [
-        "Weathering",
-        "Cooling magma",
-        "Deposition",
-        "Metamorphism"
+        "Yam",
+        "Cassava",
+        "Cocoa",
+        "Rice"
       ],
-      "correct_index": 1,
-      "explanation": "Cooling magma.",
+      "correct_index": 2,
+      "explanation": "Cocoa is a major cash crop grown in Nigeria for export, especially in the south-west.",
       "difficulty": 1
     },
     {
       "id": "geo_048",
-      "text": "What does a standard rain gauge measure in meteorology? (variant 48)",
+      "text": "A plantation farm is characterised by:",
       "options": [
-        "Rainfall",
-        "Temperature",
-        "Pressure",
-        "Wind"
+        "Small plot size",
+        "Growing many different food crops",
+        "Large-scale production of a single cash crop",
+        "Farming without hired labour"
       ],
-      "correct_index": 0,
-      "explanation": "Rainfall.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Plantations are large estates that specialise in growing one cash crop for export.",
+      "difficulty": 3
     },
     {
       "id": "geo_049",
-      "text": "Which is the largest ocean in the world? (variant 49)",
+      "text": "Which mineral is mined in Jos, Nigeria?",
       "options": [
-        "Atlantic",
-        "Indian",
-        "Arctic",
-        "Pacific"
+        "Petroleum",
+        "Tin",
+        "Gold",
+        "Iron ore"
       ],
-      "correct_index": 3,
-      "explanation": "Pacific.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Jos and the surrounding Plateau area are known for tin mining.",
+      "difficulty": 2
     },
     {
       "id": "geo_050",
-      "text": "The River Nile is the longest river in which continent? (variant 50)",
+      "text": "Which of the following is a manufacturing industry?",
       "options": [
-        "No longest",
-        "Only Nigeria",
-        "Africa",
-        "World"
+        "Fishing",
+        "Lumbering",
+        "Textile production",
+        "Hunting"
       ],
       "correct_index": 2,
-      "explanation": "Africa.",
+      "explanation": "Textile production is a secondary (manufacturing) industry that processes raw materials.",
       "difficulty": 1
     },
     {
       "id": "geo_051",
-      "text": "How is population density defined? (variant 51)",
+      "text": "Which form of transportation is cheapest for moving heavy goods over long distances?",
       "options": [
-        "No number",
-        "People per area",
-        "Only number",
-        "Only area"
+        "Air transport",
+        "Road transport",
+        "Rail transport",
+        "Water transport"
       ],
-      "correct_index": 1,
-      "explanation": "People per area.",
-      "difficulty": 1
+      "correct_index": 3,
+      "explanation": "Water transport is the cheapest mode for carrying bulky goods over long distances.",
+      "difficulty": 2
     },
     {
       "id": "geo_052",
-      "text": "Lagos is the largest city in which country? (variant 52)",
+      "text": "Which of the following is a means of communication?",
       "options": [
-        "Nigeria",
-        "Ghana",
-        "Kenya",
-        "Egypt"
+        "Railway",
+        "Television",
+        "Motor vehicle",
+        "Aircraft"
       ],
-      "correct_index": 0,
-      "explanation": "Nigeria.",
+      "correct_index": 1,
+      "explanation": "Television is a mass medium used for the transmission of information.",
       "difficulty": 1
     },
     {
       "id": "geo_053",
-      "text": "Which of the following is an example of a primary economic activity? (variant 53)",
+      "text": "World trade is important because it allows countries to:",
       "options": [
-        "Manufacturing",
-        "Trading",
-        "Teaching",
-        "Farming"
+        "Avoid all imports",
+        "Specialise in goods they produce best",
+        "Stop all exports",
+        "Ban foreign products"
       ],
-      "correct_index": 3,
-      "explanation": "Farming.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "International trade allows countries to specialise in comparative advantage goods.",
+      "difficulty": 3
     },
     {
       "id": "geo_054",
-      "text": "Petroleum is mainly found in which region of Nigeria? (variant 54)",
+      "text": "Which of the following is an indicator of economic development?",
       "options": [
-        "Kano",
-        "Borno",
-        "Niger Delta",
-        "Sokoto"
+        "High infant mortality",
+        "Low life expectancy",
+        "High GDP per capita",
+        "High illiteracy rate"
       ],
       "correct_index": 2,
-      "explanation": "Niger Delta.",
-      "difficulty": 1
+      "explanation": "High GDP per capita indicates a higher standard of living and economic development.",
+      "difficulty": 3
     },
     {
       "id": "geo_055",
-      "text": "What do contour lines on a topographic map join together? (variant 55)",
+      "text": "What is the value or meaning of deforestation in mathematics?",
       "options": [
-        "Equal pressure",
-        "Equal height",
-        "Equal rain",
-        "Equal temp"
+        "Planting new trees",
+        "Clearing or destroying forests",
+        "Protecting wildlife",
+        "Building roads in forests"
       ],
       "correct_index": 1,
-      "explanation": "Equal height.",
+      "explanation": "Deforestation is the large-scale removal or destruction of forest cover.",
       "difficulty": 1
     },
     {
       "id": "geo_056",
-      "text": "What does GIS stand for in geography? (variant 56)",
+      "text": "Which of the following is a consequence of flooding?",
       "options": [
-        "Geographic Information System",
-        "General",
-        "Geological",
-        "No meaning"
+        "Improved road networks",
+        "Loss of life and property",
+        "Increased soil fertility everywhere",
+        "More sunlight"
       ],
-      "correct_index": 0,
-      "explanation": "GIS.",
+      "correct_index": 1,
+      "explanation": "Flooding causes loss of life, destruction of property, and displacement of people.",
       "difficulty": 1
     },
     {
       "id": "geo_057",
-      "text": "Desertification is most common in which part of Nigeria? (variant 57)",
+      "text": "Which natural disaster involves a sudden shaking of the Earth's surface?",
       "options": [
-        "South",
-        "No where",
-        "Only coast",
-        "North Nigeria"
+        "Hurricane",
+        "Earthquake",
+        "Drought",
+        "Flooding"
       ],
-      "correct_index": 3,
-      "explanation": "North.",
+      "correct_index": 1,
+      "explanation": "An earthquake is a sudden tremor or vibration caused by movement in the Earth's crust.",
       "difficulty": 1
     },
     {
       "id": "geo_058",
-      "text": "Which of the following is a renewable resource? (variant 58)",
+      "text": "What does the technique of remote sensing involve in geographic study?",
       "options": [
-        "Coal",
-        "Gas",
-        "Solar",
-        "Petroleum"
+        "Digging holes in the ground",
+        "Collecting information about the Earth from a distance",
+        "Walking through an area to map it",
+        "Drilling into rocks"
       ],
-      "correct_index": 2,
-      "explanation": "Solar.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Remote sensing is the collection of data about the Earth's surface from satellites or aircraft.",
+      "difficulty": 2
     },
     {
       "id": "geo_059",
-      "text": "Nigeria is located in which region of Africa? (variant 59)",
+      "text": "Which river is the longest in Africa?",
       "options": [
-        "South Africa",
-        "West Africa",
-        "East Africa",
-        "North Africa"
+        "River Niger",
+        "River Congo",
+        "River Nile",
+        "River Zambezi"
       ],
-      "correct_index": 1,
-      "explanation": "West Africa.",
+      "correct_index": 2,
+      "explanation": "The River Nile at approximately 6,650 km is the longest river in Africa.",
       "difficulty": 1
     },
     {
       "id": "geo_060",
-      "text": "What is the time difference between two places separated by 15° of longitude? (variant 60)",
+      "text": "Which of these Nigerian cities is the current capital?",
       "options": [
-        "1 hour",
-        "2 hours",
-        "30 mins",
-        "15 mins"
+        "Lagos",
+        "Kano",
+        "Abuja",
+        "Ibadan"
       ],
-      "correct_index": 0,
-      "explanation": "1 hour.",
-      "difficulty": 2
+      "correct_index": 2,
+      "explanation": "Abuja replaced Lagos as the capital of Nigeria in 1991.",
+      "difficulty": 1
     },
     {
       "id": "geo_061",
-      "text": "What does the study of Geography involve? (variant 61)",
+      "text": "Which branch of geography studies the relationship between humans and their environment?",
       "options": [
-        "Only rocks",
-        "Only animals",
-        "Only plants",
-        "Earth and features"
+        "Physical geography",
+        "Human geography",
+        "Cartography",
+        "Meteorology"
       ],
-      "correct_index": 3,
-      "explanation": "Earth features.",
+      "correct_index": 1,
+      "explanation": "Human geography examines how humans interact with and modify their environment.",
       "difficulty": 1
     },
     {
       "id": "geo_062",
-      "text": "What is the true shape of the Earth? (variant 62)",
+      "text": "What is the main purpose of a compass in map reading?",
       "options": [
-        "Square",
-        "Triangle",
-        "Geoid",
-        "Flat"
+        "To measure distance",
+        "To determine direction",
+        "To find altitude",
+        "To measure temperature"
       ],
-      "correct_index": 2,
-      "explanation": "Geoid.",
+      "correct_index": 1,
+      "explanation": "A compass is used to determine direction and orientation on a map.",
       "difficulty": 1
     },
     {
       "id": "geo_063",
-      "text": "How long does the Earth take to complete one rotation on its axis? (variant 63)",
+      "text": "The Earth revolves around the Sun in which direction?",
       "options": [
-        "1 hour",
-        "24 hours",
-        "365 days",
-        "12 hours"
+        "East to west",
+        "West to east",
+        "North to south",
+        "South to north"
       ],
       "correct_index": 1,
-      "explanation": "24 hours.",
+      "explanation": "The Earth revolves around the Sun from west to east.",
       "difficulty": 1
     },
     {
       "id": "geo_064",
-      "text": "What does latitude measure on the Earth's surface? (variant 64)",
+      "text": "What is the imaginary line that divides the Earth into Northern and Southern Hemispheres?",
       "options": [
-        "North/south equator",
-        "East/west Greenwich",
-        "Upwards",
-        "Downwards"
+        "Prime Meridian",
+        "Tropic of Cancer",
+        "Equator",
+        "Arctic Circle"
       ],
-      "correct_index": 0,
-      "explanation": "North/south.",
+      "correct_index": 2,
+      "explanation": "The Equator at 0° latitude divides the Earth into the Northern and Southern Hemispheres.",
       "difficulty": 1
     },
     {
       "id": "geo_065",
-      "text": "The Greenwich Meridian represents which line of longitude? (variant 65)",
+      "text": "Places on the same meridian have the same:",
       "options": [
-        "0° latitude",
-        "90° long",
-        "180° lat",
-        "0° longitude"
+        "Latitude",
+        "Longitude and local time",
+        "Altitude",
+        "Population"
       ],
-      "correct_index": 3,
-      "explanation": "0° longitude.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "All places on the same meridian have the same longitude and local time.",
+      "difficulty": 3
     },
     {
       "id": "geo_066",
-      "text": "What does the scale of a map represent? (variant 66)",
+      "text": "Which of the following best describes A statement scale is expressed as?",
       "options": [
-        "Only ground",
-        "No ratio",
-        "Ratio map to ground",
-        "Only map"
+        "1 cm to 1 km",
+        "A line divided into segments",
+        "1:50,000",
+        "As a ratio only"
       ],
-      "correct_index": 2,
-      "explanation": "Ratio.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "A statement scale uses words, e.g. '1 centimetre represents 1 kilometre'.",
+      "difficulty": 2
     },
     {
       "id": "geo_067",
-      "text": "How are igneous rocks formed from molten material? (variant 67)",
+      "text": "Which conventional sign is typically used to represent a river on a map?",
       "options": [
-        "Weathering",
-        "Cooling magma",
-        "Deposition",
-        "Metamorphism"
+        "A red line",
+        "A blue line",
+        "A green dot",
+        "A black square"
       ],
       "correct_index": 1,
-      "explanation": "Cooling magma.",
+      "explanation": "Rivers and water bodies are typically shown in blue on topographic maps.",
       "difficulty": 1
     },
     {
       "id": "geo_068",
-      "text": "What does a standard rain gauge measure in meteorology? (variant 68)",
+      "text": "A spur on a hillside is shown on a contour map by contours that:",
       "options": [
-        "Rainfall",
-        "Temperature",
-        "Pressure",
-        "Wind"
+        "Form concentric circles",
+        "Bend towards lower ground",
+        "Are equally spaced",
+        "Bend towards higher ground"
       ],
-      "correct_index": 0,
-      "explanation": "Rainfall.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "On a contour map, spurs are shown where contour lines bend towards lower ground (valley).",
+      "difficulty": 3
     },
     {
       "id": "geo_069",
-      "text": "Which is the largest ocean in the world? (variant 69)",
+      "text": "To find the bearing of place B from place A on a map, you measure the angle from:",
       "options": [
-        "Atlantic",
-        "Indian",
-        "Arctic",
-        "Pacific"
+        "South",
+        "East",
+        "True north",
+        "West"
       ],
-      "correct_index": 3,
-      "explanation": "Pacific.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Bearings are measured clockwise from true north.",
+      "difficulty": 2
     },
     {
       "id": "geo_070",
-      "text": "The River Nile is the longest river in which continent? (variant 70)",
+      "text": "Which of the following rocks is used as a building material in Nigeria?",
       "options": [
-        "No longest",
-        "Only Nigeria",
-        "Africa",
-        "World"
+        "Chalk",
+        "Granite",
+        "Sand",
+        "Clay only"
       ],
-      "correct_index": 2,
-      "explanation": "Africa.",
+      "correct_index": 1,
+      "explanation": "Granite, an igneous rock, is widely used as a building and construction material.",
       "difficulty": 1
     },
     {
       "id": "geo_071",
-      "text": "How is population density defined? (variant 71)",
+      "text": "The process by which rocks are broken down by natural agents is called:",
       "options": [
-        "No number",
-        "People per area",
-        "Only number",
-        "Only area"
+        "Deposition",
+        "Weathering",
+        "Compaction",
+        "Evaporation"
       ],
       "correct_index": 1,
-      "explanation": "People per area.",
+      "explanation": "Weathering is the breakdown of rocks in situ by physical, chemical, or biological agents.",
       "difficulty": 1
     },
     {
       "id": "geo_072",
-      "text": "Lagos is the largest city in which country? (variant 72)",
+      "text": "Which of the following is an example of mechanical weathering?",
       "options": [
-        "Nigeria",
-        "Ghana",
-        "Kenya",
-        "Egypt"
+        "Oxidation",
+        "Root growth breaking rocks",
+        "Carbonation",
+        "Hydrolysis"
       ],
-      "correct_index": 0,
-      "explanation": "Nigeria.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Root growth exerts pressure on rocks and physically breaks them apart.",
+      "difficulty": 2
     },
     {
       "id": "geo_073",
-      "text": "Which of the following is an example of a primary economic activity? (variant 73)",
+      "text": "A volcano is an opening in the Earth's crust through which:",
       "options": [
-        "Manufacturing",
-        "Trading",
-        "Teaching",
-        "Farming"
+        "Water flows out",
+        "Magma and gases escape",
+        "Wind blows in",
+        "Plants grow"
       ],
-      "correct_index": 3,
-      "explanation": "Farming.",
+      "correct_index": 1,
+      "explanation": "Volcanoes are vents through which molten rock (magma/lava) and gases are ejected.",
       "difficulty": 1
     },
     {
       "id": "geo_074",
-      "text": "Petroleum is mainly found in which region of Nigeria? (variant 74)",
+      "text": "Which of the following describes a flood plain?",
       "options": [
-        "Kano",
-        "Borno",
-        "Niger Delta",
-        "Sokoto"
-      ],
-      "correct_index": 2,
-      "explanation": "Niger Delta.",
-      "difficulty": 1
-    },
-    {
-      "id": "geo_075",
-      "text": "What do contour lines on a topographic map join together? (variant 75)",
-      "options": [
-        "Equal pressure",
-        "Equal height",
-        "Equal rain",
-        "Equal temp"
+        "A steep hillside",
+        "A flat area of land alongside a river",
+        "A dry desert",
+        "A mountain peak"
       ],
       "correct_index": 1,
-      "explanation": "Equal height.",
-      "difficulty": 1
-    },
-    {
-      "id": "geo_076",
-      "text": "What does GIS stand for in geography? (variant 76)",
-      "options": [
-        "Geographic Information System",
-        "General",
-        "Geological",
-        "No meaning"
-      ],
-      "correct_index": 0,
-      "explanation": "GIS.",
-      "difficulty": 1
-    },
-    {
-      "id": "geo_077",
-      "text": "Desertification is most common in which part of Nigeria? (variant 77)",
-      "options": [
-        "South",
-        "No where",
-        "Only coast",
-        "North Nigeria"
-      ],
-      "correct_index": 3,
-      "explanation": "North.",
-      "difficulty": 1
-    },
-    {
-      "id": "geo_078",
-      "text": "Which of the following is a renewable resource? (variant 78)",
-      "options": [
-        "Coal",
-        "Gas",
-        "Solar",
-        "Petroleum"
-      ],
-      "correct_index": 2,
-      "explanation": "Solar.",
-      "difficulty": 1
-    },
-    {
-      "id": "geo_079",
-      "text": "Nigeria is located in which region of Africa? (variant 79)",
-      "options": [
-        "South Africa",
-        "West Africa",
-        "East Africa",
-        "North Africa"
-      ],
-      "correct_index": 1,
-      "explanation": "West Africa.",
-      "difficulty": 1
-    },
-    {
-      "id": "geo_080",
-      "text": "What is the time difference between two places separated by 15° of longitude? (variant 80)",
-      "options": [
-        "1 hour",
-        "2 hours",
-        "30 mins",
-        "15 mins"
-      ],
-      "correct_index": 0,
-      "explanation": "1 hour.",
+      "explanation": "A flood plain is a flat area of land on either side of a river, formed by repeated flooding.",
       "difficulty": 2
     },
     {
-      "id": "geo_081",
-      "text": "What does the study of Geography involve? (variant 81)",
+      "id": "geo_075",
+      "text": "Which ocean current flows along the west coast of North Africa?",
       "options": [
-        "Only rocks",
-        "Only animals",
-        "Only plants",
-        "Earth and features"
+        "Gulf Stream",
+        "Canary Current",
+        "Brazil Current",
+        "Benguela Current"
       ],
-      "correct_index": 3,
-      "explanation": "Earth features.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Canary Current is a cold current that flows southward along the coast of northwest Africa.",
+      "difficulty": 3
+    },
+    {
+      "id": "geo_076",
+      "text": "What is the value or meaning of an atoll in mathematics?",
+      "options": [
+        "A mountain range",
+        "A ring-shaped coral reef surrounding a lagoon",
+        "A deep ocean trench",
+        "A volcanic island"
+      ],
+      "correct_index": 1,
+      "explanation": "An atoll is a ring-shaped coral reef that encircles a lagoon, often formed from a sinking volcanic island.",
+      "difficulty": 3
+    },
+    {
+      "id": "geo_077",
+      "text": "Which of the following factors affects population distribution?",
+      "options": [
+        "Longitude only",
+        "Climate and terrain",
+        "Time zone",
+        "Map scale"
+      ],
+      "correct_index": 1,
+      "explanation": "Climate, terrain, water availability, and economic opportunities affect where people settle.",
+      "difficulty": 2
+    },
+    {
+      "id": "geo_078",
+      "text": "The push factor in migration refers to:",
+      "options": [
+        "Good conditions attracting people",
+        "Unfavourable conditions driving people away",
+        "Aids given to migrants",
+        "Government policies encouraging movement"
+      ],
+      "correct_index": 1,
+      "explanation": "Push factors are negative conditions (e.g. poverty, conflict) that cause people to leave an area.",
+      "difficulty": 2
+    },
+    {
+      "id": "geo_079",
+      "text": "Which of the following best describes A conurbation is formed when?",
+      "options": [
+        "A single village grows larger",
+        "Several towns and cities merge into one large urban area",
+        "A capital city is built",
+        "People move to rural areas"
+      ],
+      "correct_index": 1,
+      "explanation": "A conurbation is a large metropolitan area formed when several cities merge together.",
+      "difficulty": 3
+    },
+    {
+      "id": "geo_080",
+      "text": "Which type of farming involves growing crops and rearing animals together?",
+      "options": [
+        "Pastoral farming only",
+        "Mixed farming",
+        "Shifting cultivation",
+        "Monoculture"
+      ],
+      "correct_index": 1,
+      "explanation": "Mixed farming combines crop production and animal rearing on the same farm.",
+      "difficulty": 3
+    },
+    {
+      "id": "geo_081",
+      "text": "Rubber is mainly grown in which part of Nigeria?",
+      "options": [
+        "The North",
+        "The South-south and South-east",
+        "The North-west",
+        "The North-east"
+      ],
+      "correct_index": 1,
+      "explanation": "Rubber plantations are mainly found in the rainforest belt of southern Nigeria.",
+      "difficulty": 2
     },
     {
       "id": "geo_082",
-      "text": "What is the true shape of the Earth? (variant 82)",
+      "text": "Which of the following is a problem of mining in Africa?",
       "options": [
-        "Square",
-        "Triangle",
-        "Geoid",
-        "Flat"
+        "Too much advanced technology",
+        "Environmental degradation and pollution",
+        "Lack of minerals",
+        "No workers available"
       ],
-      "correct_index": 2,
-      "explanation": "Geoid.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Mining causes environmental degradation, water pollution, and destruction of farmland.",
+      "difficulty": 3
     },
     {
       "id": "geo_083",
-      "text": "How long does the Earth take to complete one rotation on its axis? (variant 83)",
+      "text": "Which of the following is a factor affecting the location of industries?",
       "options": [
-        "1 hour",
-        "24 hours",
-        "365 days",
-        "12 hours"
+        "Colour of the soil",
+        "Proximity to raw materials and market",
+        "Time of day",
+        "Map projection used"
       ],
       "correct_index": 1,
-      "explanation": "24 hours.",
-      "difficulty": 1
+      "explanation": "Industries are located near raw materials, markets, labour, and transport routes.",
+      "difficulty": 2
     },
     {
       "id": "geo_084",
-      "text": "What does latitude measure on the Earth's surface? (variant 84)",
+      "text": "Pipeline transportation in Nigeria is mainly used to move:",
       "options": [
-        "North/south equator",
-        "East/west Greenwich",
-        "Upwards",
-        "Downwards"
+        "Passengers",
+        "Petroleum products",
+        "Foodstuffs",
+        "Solid minerals"
       ],
-      "correct_index": 0,
-      "explanation": "North/south.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Pipelines in Nigeria transport crude oil and refined petroleum products.",
+      "difficulty": 3
     },
     {
       "id": "geo_085",
-      "text": "The Greenwich Meridian represents which line of longitude? (variant 85)",
+      "text": "Which international organisation helps promote world trade?",
       "options": [
-        "0° latitude",
-        "90° long",
-        "180° lat",
-        "0° longitude"
+        "WHO",
+        "WTO",
+        "UNICEF",
+        "IMF only"
       ],
-      "correct_index": 3,
-      "explanation": "0° longitude.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The World Trade Organisation (WTO) deals with the rules of trade between nations.",
+      "difficulty": 2
     },
     {
       "id": "geo_086",
-      "text": "What does the scale of a map represent? (variant 86)",
+      "text": "What is the term for the total value of goods and services produced in a country per year?",
       "options": [
-        "Only ground",
-        "No ratio",
-        "Ratio map to ground",
-        "Only map"
+        "GNP",
+        "GDP",
+        "CPI",
+        "HDI"
       ],
-      "correct_index": 2,
-      "explanation": "Ratio.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "GDP (Gross Domestic Product) is the total monetary value of all finished goods and services produced within a country.",
+      "difficulty": 3
     },
     {
       "id": "geo_087",
-      "text": "How are igneous rocks formed from molten material? (variant 87)",
+      "text": "Which of the following is an effect of deforestation?",
       "options": [
-        "Weathering",
-        "Cooling magma",
-        "Deposition",
-        "Metamorphism"
+        "Increased rainfall",
+        "Soil erosion and flooding",
+        "Cooler temperatures",
+        "More wild animals"
       ],
       "correct_index": 1,
-      "explanation": "Cooling magma.",
+      "explanation": "Removing trees exposes soil to erosion and reduces the land's ability to absorb water, causing floods.",
       "difficulty": 1
     },
     {
       "id": "geo_088",
-      "text": "What does a standard rain gauge measure in meteorology? (variant 88)",
+      "text": "What is the value or meaning of desertification in mathematics?",
       "options": [
-        "Rainfall",
-        "Temperature",
-        "Pressure",
-        "Wind"
+        "Building deserts by hand",
+        "The spread of desert conditions into previously fertile land",
+        "Planting trees in a desert",
+        "Flooding of arid areas"
       ],
-      "correct_index": 0,
-      "explanation": "Rainfall.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Desertification is the degradation of land in arid and semi-arid areas due to climate and human activities.",
+      "difficulty": 3
     },
     {
       "id": "geo_089",
-      "text": "Which is the largest ocean in the world? (variant 89)",
+      "text": "Which of the following is an air pollutant?",
       "options": [
-        "Atlantic",
-        "Indian",
-        "Arctic",
-        "Pacific"
+        "Clean water",
+        "Carbon monoxide from vehicles",
+        "Rainwater",
+        "Ocean salt"
       ],
-      "correct_index": 3,
-      "explanation": "Pacific.",
+      "correct_index": 1,
+      "explanation": "Carbon monoxide from vehicle exhausts is a major air pollutant harmful to health.",
       "difficulty": 1
     },
     {
       "id": "geo_090",
-      "text": "The River Nile is the longest river in which continent? (variant 90)",
+      "text": "What is conservation of natural resources?",
       "options": [
-        "No longest",
-        "Only Nigeria",
-        "Africa",
-        "World"
+        "Using up all resources quickly",
+        "The careful management and protection of natural resources",
+        "Burning waste materials",
+        "Building more factories"
       ],
-      "correct_index": 2,
-      "explanation": "Africa.",
+      "correct_index": 1,
+      "explanation": "Conservation means using natural resources wisely to ensure they last for future generations.",
       "difficulty": 1
     },
     {
       "id": "geo_091",
-      "text": "How is population density defined? (variant 91)",
+      "text": "Which of the following best describes A tsunami is caused by?",
       "options": [
-        "No number",
-        "People per area",
-        "Only number",
-        "Only area"
+        "Strong winds",
+        "Underwater earthquake or volcanic eruption",
+        "Heavy rainfall",
+        "Deforestation"
       ],
       "correct_index": 1,
-      "explanation": "People per area.",
-      "difficulty": 1
+      "explanation": "Tsunamis are large ocean waves triggered by undersea earthquakes, volcanic eruptions, or landslides.",
+      "difficulty": 2
     },
     {
       "id": "geo_092",
-      "text": "Lagos is the largest city in which country? (variant 92)",
+      "text": "Which type of rainfall is common in equatorial regions?",
       "options": [
-        "Nigeria",
-        "Ghana",
-        "Kenya",
-        "Egypt"
+        "Orographic rainfall",
+        "Convectional rainfall",
+        "Frontal rainfall",
+        "Cyclonic rainfall"
       ],
-      "correct_index": 0,
-      "explanation": "Nigeria.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Convectional rainfall is common in equatorial regions due to intense solar heating.",
+      "difficulty": 2
     },
     {
       "id": "geo_093",
-      "text": "Which of the following is an example of a primary economic activity? (variant 93)",
+      "text": "Orographic rainfall occurs when moist air is forced to rise over:",
       "options": [
-        "Manufacturing",
-        "Trading",
-        "Teaching",
-        "Farming"
+        "A flat plain",
+        "A mountain or highland",
+        "An ocean",
+        "A desert"
       ],
-      "correct_index": 3,
-      "explanation": "Farming.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Orographic (relief) rainfall occurs when air is forced upward over mountains, cooling and condensing.",
+      "difficulty": 2
     },
     {
       "id": "geo_094",
-      "text": "Petroleum is mainly found in which region of Nigeria? (variant 94)",
+      "text": "Which of the following is a characteristic of the tropical grassland (Savanna) climate?",
       "options": [
-        "Kano",
-        "Borno",
-        "Niger Delta",
-        "Sokoto"
+        "Rain all year",
+        "Distinct wet and dry seasons",
+        "Very cold winters",
+        "No rainfall at all"
       ],
-      "correct_index": 2,
-      "explanation": "Niger Delta.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Savanna climate has a wet season and a dry season with scattered grassland vegetation.",
+      "difficulty": 3
     },
     {
       "id": "geo_095",
-      "text": "What do contour lines on a topographic map join together? (variant 95)",
+      "text": "The tropical rainforest in Nigeria is located mainly in the:",
       "options": [
-        "Equal pressure",
-        "Equal height",
-        "Equal rain",
-        "Equal temp"
+        "Northern states",
+        "Southern belt",
+        "North-east",
+        "Sahel region"
       ],
       "correct_index": 1,
-      "explanation": "Equal height.",
-      "difficulty": 1
+      "explanation": "The tropical rainforest belt lies across southern Nigeria, from Lagos to the Cross River area.",
+      "difficulty": 2
     },
     {
       "id": "geo_096",
-      "text": "What does GIS stand for in geography? (variant 96)",
+      "text": "Which of the following is an agent of transportation?",
       "options": [
-        "Geographic Information System",
-        "General",
-        "Geological",
-        "No meaning"
+        "Wind",
+        "River currents",
+        "Gravity",
+        "All of the above"
       ],
-      "correct_index": 0,
-      "explanation": "GIS.",
-      "difficulty": 1
+      "correct_index": 3,
+      "explanation": "Wind, water, ice, and gravity are all agents that transport weathered materials.",
+      "difficulty": 2
     },
     {
       "id": "geo_097",
-      "text": "Desertification is most common in which part of Nigeria? (variant 97)",
+      "text": "What is the value or meaning of a meander in mathematics?",
       "options": [
-        "South",
-        "No where",
-        "Only coast",
-        "North Nigeria"
+        "A straight river channel",
+        "A bend in the course of a river",
+        "A waterfall",
+        "A river delta"
       ],
-      "correct_index": 3,
-      "explanation": "North.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Meanders are bends in a river formed by lateral erosion on the outer bank and deposition on the inner bank.",
+      "difficulty": 3
     },
     {
       "id": "geo_098",
-      "text": "Which of the following is a renewable resource? (variant 98)",
+      "text": "The continental shelf is the gently sloping submerged part of a continent. It is important for:",
       "options": [
-        "Coal",
-        "Gas",
-        "Solar",
-        "Petroleum"
+        "Deep sea mining",
+        "Fishing and oil exploration",
+        "Building bridges",
+        "Desalination"
       ],
-      "correct_index": 2,
-      "explanation": "Solar.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Continental shelves are rich in fish stocks and often contain oil and gas deposits.",
+      "difficulty": 3
     },
     {
       "id": "geo_099",
-      "text": "Nigeria is located in which region of Africa? (variant 99)",
+      "text": "Which of the following describes a fjord?",
       "options": [
-        "South Africa",
-        "West Africa",
-        "East Africa",
-        "North Africa"
+        "A coral reef",
+        "A deep narrow sea inlet between cliffs, formed by glacial erosion",
+        "A sand dune",
+        "A volcanic crater lake"
       ],
       "correct_index": 1,
-      "explanation": "West Africa.",
-      "difficulty": 1
+      "explanation": "A fjord is a long, narrow sea inlet with steep sides, carved by glaciers.",
+      "difficulty": 3
     },
     {
       "id": "geo_100",
-      "text": "What is the time difference between two places separated by 15° of longitude? (variant 100)",
+      "text": "Which of the following is a factor that influences climate?",
       "options": [
-        "1 hour",
-        "2 hours",
-        "30 mins",
-        "15 mins"
+        "Map scale",
+        "Altitude",
+        "Population size",
+        "Latitude of the capital city"
       ],
-      "correct_index": 0,
-      "explanation": "1 hour.",
+      "correct_index": 1,
+      "explanation": "Altitude, latitude, ocean currents, and distance from the sea all influence climate.",
       "difficulty": 2
     },
     {
       "id": "geo_101",
-      "text": "What does the study of Geography involve? (variant 101)",
+      "text": "Which of the following best describes A hygrometer is used to measure?",
       "options": [
-        "Only rocks",
-        "Only animals",
-        "Only plants",
-        "Earth and features"
+        "Wind speed",
+        "Humidity",
+        "Air pressure",
+        "Rainfall amount"
       ],
-      "correct_index": 3,
-      "explanation": "Earth features.",
+      "correct_index": 1,
+      "explanation": "A hygrometer measures the amount of moisture (humidity) in the air.",
       "difficulty": 1
     },
     {
       "id": "geo_102",
-      "text": "What is the true shape of the Earth? (variant 102)",
+      "text": "Which of the following is NOT a type of rock?",
       "options": [
-        "Square",
-        "Triangle",
-        "Geoid",
-        "Flat"
+        "Igneous",
+        "Sedimentary",
+        "Metamorphic",
+        "Mineral"
       ],
-      "correct_index": 2,
-      "explanation": "Geoid.",
+      "correct_index": 3,
+      "explanation": "Mineral is not a rock type. The three main rock types are igneous, sedimentary, and metamorphic.",
       "difficulty": 1
     },
     {
       "id": "geo_103",
-      "text": "How long does the Earth take to complete one rotation on its axis? (variant 103)",
+      "text": "Which of the following best describes Lava is molten rock that?",
       "options": [
-        "1 hour",
-        "24 hours",
-        "365 days",
-        "12 hours"
+        "Exists deep underground",
+        "Flows out onto the Earth's surface",
+        "Is found in rivers",
+        "Cools under the ocean only"
       ],
       "correct_index": 1,
-      "explanation": "24 hours.",
+      "explanation": "Lava is magma that has reached the Earth's surface through volcanic eruptions.",
       "difficulty": 1
     },
     {
       "id": "geo_104",
-      "text": "What does latitude measure on the Earth's surface? (variant 104)",
+      "text": "Which of these is a fold mountain in Africa?",
       "options": [
-        "North/south equator",
-        "East/west Greenwich",
-        "Upwards",
-        "Downwards"
+        "Mount Kilimanjaro",
+        "Atlas Mountains",
+        "Mount Cameroon",
+        "Mount Kenya"
       ],
-      "correct_index": 0,
-      "explanation": "North/south.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Atlas Mountains in North Africa were formed by the folding of rock layers during tectonic movements.",
+      "difficulty": 3
     },
     {
       "id": "geo_105",
-      "text": "The Greenwich Meridian represents which line of longitude? (variant 105)",
+      "text": "Which of the following landforms is created by deposition at a river mouth?",
       "options": [
-        "0° latitude",
-        "90° long",
-        "180° lat",
-        "0° longitude"
+        "Gorge",
+        "Delta",
+        "V-shaped valley",
+        "Waterfall"
       ],
-      "correct_index": 3,
-      "explanation": "0° longitude.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Deltas form where a river deposits sediment at its mouth where it meets a body of water.",
+      "difficulty": 2
     },
     {
       "id": "geo_106",
-      "text": "What does the scale of a map represent? (variant 106)",
+      "text": "The International Date Line roughly follows which longitude?",
       "options": [
-        "Only ground",
-        "No ratio",
-        "Ratio map to ground",
-        "Only map"
+        "0°",
+        "90° E",
+        "180°",
+        "90° W"
       ],
       "correct_index": 2,
-      "explanation": "Ratio.",
-      "difficulty": 1
+      "explanation": "The International Date Line approximately follows the 180° meridian in the Pacific Ocean.",
+      "difficulty": 2
     },
     {
       "id": "geo_107",
-      "text": "How are igneous rocks formed from molten material? (variant 107)",
+      "text": "What is the value or meaning of standard time in mathematics?",
       "options": [
-        "Weathering",
-        "Cooling magma",
-        "Deposition",
-        "Metamorphism"
+        "The local time at every town",
+        "The time adopted by a country based on a standard meridian",
+        "The time at the North Pole",
+        "The time in space"
       ],
       "correct_index": 1,
-      "explanation": "Cooling magma.",
-      "difficulty": 1
+      "explanation": "Standard time is the uniform time adopted by a country based on its chosen standard meridian.",
+      "difficulty": 3
     },
     {
       "id": "geo_108",
-      "text": "What does a standard rain gauge measure in meteorology? (variant 108)",
+      "text": "Which of the following is a conventional sign for a railway on a map?",
       "options": [
-        "Rainfall",
-        "Temperature",
-        "Pressure",
-        "Wind"
+        "A dotted blue line",
+        "A black line with cross-ties",
+        "A red triangle",
+        "A green circle"
       ],
-      "correct_index": 0,
-      "explanation": "Rainfall.",
+      "correct_index": 1,
+      "explanation": "Railways are typically shown as a black line with small cross-ties resembling railway sleepers.",
       "difficulty": 1
     },
     {
       "id": "geo_109",
-      "text": "Which is the largest ocean in the world? (variant 109)",
+      "text": "Which of the following best describes Aerial photographs are taken from?",
       "options": [
-        "Atlantic",
-        "Indian",
-        "Arctic",
-        "Pacific"
+        "Ground level",
+        "Underwater",
+        "An aircraft or satellite",
+        "Inside a cave"
       ],
-      "correct_index": 3,
-      "explanation": "Pacific.",
+      "correct_index": 2,
+      "explanation": "Aerial photographs are taken from aircraft, drones, or satellites to show large areas from above.",
       "difficulty": 1
     },
     {
       "id": "geo_110",
-      "text": "The River Nile is the longest river in which continent? (variant 110)",
+      "text": "Which of the following best describes an oasis?",
       "options": [
-        "No longest",
-        "Only Nigeria",
-        "Africa",
-        "World"
+        "A river in a forest",
+        "A fertile area with water in a desert",
+        "A coastal beach",
+        "A mountain spring"
       ],
-      "correct_index": 2,
-      "explanation": "Africa.",
+      "correct_index": 1,
+      "explanation": "An oasis is a fertile spot in a desert where water is available, often from an underground spring.",
       "difficulty": 1
     },
     {
       "id": "geo_111",
-      "text": "How is population density defined? (variant 111)",
+      "text": "Which of the following is a benefit of irrigation in agriculture?",
       "options": [
-        "No number",
-        "People per area",
-        "Only number",
-        "Only area"
+        "It eliminates the need for soil",
+        "It allows farming in dry areas",
+        "It removes all pests",
+        "It replaces the need for seeds"
       ],
       "correct_index": 1,
-      "explanation": "People per area.",
+      "explanation": "Irrigation supplies water to crops in areas where rainfall is insufficient for farming.",
       "difficulty": 1
     },
     {
       "id": "geo_112",
-      "text": "Lagos is the largest city in which country? (variant 112)",
+      "text": "Which type of erosion is caused by running water?",
       "options": [
-        "Nigeria",
-        "Ghana",
-        "Kenya",
-        "Egypt"
+        "Coastal erosion",
+        "River erosion",
+        "Wind erosion",
+        "Glacial erosion"
       ],
-      "correct_index": 0,
-      "explanation": "Nigeria.",
+      "correct_index": 1,
+      "explanation": "River erosion occurs when flowing water wears away rock and soil along river channels.",
       "difficulty": 1
     },
     {
       "id": "geo_113",
-      "text": "Which of the following is an example of a primary economic activity? (variant 113)",
+      "text": "Which ocean separates Africa from the Americas?",
       "options": [
-        "Manufacturing",
-        "Trading",
-        "Teaching",
-        "Farming"
+        "Pacific Ocean",
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
       ],
-      "correct_index": 3,
-      "explanation": "Farming.",
+      "correct_index": 2,
+      "explanation": "The Atlantic Ocean lies between the Americas to the west and Europe/Africa to the east.",
       "difficulty": 1
     },
     {
       "id": "geo_114",
-      "text": "Petroleum is mainly found in which region of Nigeria? (variant 114)",
+      "text": "What is the value or meaning of a plateau in mathematics?",
       "options": [
-        "Kano",
-        "Borno",
-        "Niger Delta",
-        "Sokoto"
+        "A deep valley",
+        "An extensive flat area of high land",
+        "A narrow strip of land",
+        "A low-lying swamp"
       ],
-      "correct_index": 2,
-      "explanation": "Niger Delta.",
+      "correct_index": 1,
+      "explanation": "A plateau is a large area of relatively flat, elevated land.",
       "difficulty": 1
     },
     {
       "id": "geo_115",
-      "text": "What do contour lines on a topographic map join together? (variant 115)",
+      "text": "The Jos Plateau in Nigeria is known for mining which mineral?",
       "options": [
-        "Equal pressure",
-        "Equal height",
-        "Equal rain",
-        "Equal temp"
+        "Petroleum",
+        "Tin and columbite",
+        "Diamond",
+        "Gold"
       ],
       "correct_index": 1,
-      "explanation": "Equal height.",
-      "difficulty": 1
+      "explanation": "The Jos Plateau is famous for tin and columbite mining in Nigeria.",
+      "difficulty": 2
     },
     {
       "id": "geo_116",
-      "text": "What does GIS stand for in geography? (variant 116)",
+      "text": "Which of the following is an effect of ocean currents on climate?",
       "options": [
-        "Geographic Information System",
-        "General",
-        "Geological",
-        "No meaning"
+        "They have no effect",
+        "Warm currents increase temperature and humidity",
+        "They always cause droughts",
+        "They freeze the coastline"
       ],
-      "correct_index": 0,
-      "explanation": "GIS.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Warm ocean currents raise temperatures and increase humidity along adjacent coastlines.",
+      "difficulty": 3
     },
     {
       "id": "geo_117",
-      "text": "Desertification is most common in which part of Nigeria? (variant 117)",
+      "text": "What is the main cause of urbanisation in developing countries?",
       "options": [
-        "South",
-        "No where",
-        "Only coast",
-        "North Nigeria"
+        "Government building new villages",
+        "Rural-urban migration for jobs and services",
+        "People moving from cities to farms",
+        "Natural increase in rural areas only"
       ],
-      "correct_index": 3,
-      "explanation": "North.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "People move from rural areas to cities seeking better employment, education, and healthcare.",
+      "difficulty": 3
     },
     {
       "id": "geo_118",
-      "text": "Which of the following is a renewable resource? (variant 118)",
+      "text": "Which of the following is a social amenity found in urban areas?",
       "options": [
-        "Coal",
-        "Gas",
-        "Solar",
-        "Petroleum"
+        "Yam barn",
+        "Hospital and school",
+        "Fishing pond",
+        "Goat pen"
       ],
-      "correct_index": 2,
-      "explanation": "Solar.",
+      "correct_index": 1,
+      "explanation": "Hospitals and schools are social amenities (services) typically provided in urban centres.",
       "difficulty": 1
     },
     {
       "id": "geo_119",
-      "text": "Nigeria is located in which region of Africa? (variant 119)",
+      "text": "Which of the following is a major problem of urban areas in Nigeria?",
       "options": [
-        "South Africa",
-        "West Africa",
-        "East Africa",
-        "North Africa"
+        "Too many farms",
+        "Traffic congestion and housing shortage",
+        "Excess rainfall",
+        "Too much open space"
       ],
       "correct_index": 1,
-      "explanation": "West Africa.",
-      "difficulty": 1
+      "explanation": "Urban areas in Nigeria face traffic congestion, inadequate housing, and poor sanitation.",
+      "difficulty": 3
     },
     {
       "id": "geo_120",
-      "text": "What is the time difference between two places separated by 15° of longitude? (variant 120)",
+      "text": "The branch of geography that deals with maps and chart-making is called:",
       "options": [
-        "1 hour",
-        "2 hours",
-        "30 mins",
-        "15 mins"
+        "Geomorphology",
+        "Cartography",
+        "Climatology",
+        "Biogeography"
       ],
-      "correct_index": 0,
-      "explanation": "1 hour.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Cartography is the science and art of making maps.",
+      "difficulty": 1
     },
     {
       "id": "geo_121",
-      "text": "What does the study of Geography involve? (variant 121)",
+      "text": "What is the value or meaning of the lithosphere in mathematics?",
       "options": [
-        "Only rocks",
-        "Only animals",
-        "Only plants",
-        "Earth and features"
+        "The atmosphere",
+        "The solid outer layer of the Earth",
+        "The ocean layer",
+        "The Earth's core"
       ],
-      "correct_index": 3,
-      "explanation": "Earth features.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The lithosphere is the rigid outer layer of the Earth comprising the crust and upper mantle.",
+      "difficulty": 2
     },
     {
       "id": "geo_122",
-      "text": "What is the true shape of the Earth? (variant 122)",
+      "text": "The Tropic of Capricorn is located at:",
       "options": [
-        "Square",
-        "Triangle",
-        "Geoid",
-        "Flat"
+        "23½° N",
+        "0°",
+        "66½° S",
+        "23½° S"
       ],
-      "correct_index": 2,
-      "explanation": "Geoid.",
-      "difficulty": 1
+      "correct_index": 3,
+      "explanation": "The Tropic of Capricorn is at 23½° south of the Equator.",
+      "difficulty": 2
     },
     {
       "id": "geo_123",
-      "text": "How long does the Earth take to complete one rotation on its axis? (variant 123)",
+      "text": "Which zone of the atmosphere is closest to the Earth's surface?",
       "options": [
-        "1 hour",
-        "24 hours",
-        "365 days",
-        "12 hours"
+        "Mesosphere",
+        "Troposphere",
+        "Thermosphere",
+        "Stratosphere"
       ],
       "correct_index": 1,
-      "explanation": "24 hours.",
-      "difficulty": 1
+      "explanation": "The troposphere is the lowest layer of the atmosphere where all weather occurs.",
+      "difficulty": 2
     },
     {
       "id": "geo_124",
-      "text": "What does latitude measure on the Earth's surface? (variant 124)",
+      "text": "What is the best definition of a grid reference on a map?",
       "options": [
-        "North/south equator",
-        "East/west Greenwich",
-        "Upwards",
-        "Downwards"
+        "The colour of the map",
+        "A set of numbers locating a point using grid lines",
+        "The name of the map maker",
+        "The scale of the map"
       ],
-      "correct_index": 0,
-      "explanation": "North/south.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A grid reference uses eastings and northings to locate a point on a map.",
+      "difficulty": 2
     },
     {
       "id": "geo_125",
-      "text": "The Greenwich Meridian represents which line of longitude? (variant 125)",
+      "text": "Which of the following best describes a small-scale map?",
       "options": [
-        "0° latitude",
-        "90° long",
-        "180° lat",
-        "0° longitude"
+        "A map with much detail of a small area",
+        "A map covering a large area with less detail",
+        "A photograph of the ground",
+        "A sketch drawn from memory"
       ],
-      "correct_index": 3,
-      "explanation": "0° longitude.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A small-scale map shows a large area with less detail, e.g. 1:1,000,000.",
+      "difficulty": 2
     },
     {
       "id": "geo_126",
-      "text": "What does the scale of a map represent? (variant 126)",
+      "text": "Contour intervals on a map represent:",
       "options": [
-        "Only ground",
-        "No ratio",
-        "Ratio map to ground",
-        "Only map"
+        "Horizontal distance",
+        "The vertical difference in height between adjacent contour lines",
+        "Population density",
+        "Temperature zones"
       ],
-      "correct_index": 2,
-      "explanation": "Ratio.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Contour interval is the difference in height between two adjacent contour lines.",
+      "difficulty": 2
     },
     {
       "id": "geo_127",
-      "text": "How are igneous rocks formed from molten material? (variant 127)",
+      "text": "What is the value or meaning of the rock cycle in mathematics?",
       "options": [
-        "Weathering",
-        "Cooling magma",
-        "Deposition",
-        "Metamorphism"
+        "A machine for crushing rocks",
+        "The continuous process by which rocks are formed, broken down, and reformed",
+        "A type of road made of rocks",
+        "A wheel used to transport stones"
       ],
       "correct_index": 1,
-      "explanation": "Cooling magma.",
-      "difficulty": 1
+      "explanation": "The rock cycle describes how rocks change from one type to another over geological time.",
+      "difficulty": 2
     },
     {
       "id": "geo_128",
-      "text": "What does a standard rain gauge measure in meteorology? (variant 128)",
+      "text": "Which of the following best describes Obsidian is a type of?",
       "options": [
-        "Rainfall",
-        "Temperature",
-        "Pressure",
-        "Wind"
+        "Sedimentary rock",
+        "Volcanic (igneous) glass",
+        "Metamorphic rock",
+        "Mineral deposit"
       ],
-      "correct_index": 0,
-      "explanation": "Rainfall.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Obsidian is a dark volcanic glass formed from rapidly cooled lava.",
+      "difficulty": 3
     },
     {
       "id": "geo_129",
-      "text": "Which is the largest ocean in the world? (variant 129)",
+      "text": "Which of the following is a feature of a waterfall?",
       "options": [
-        "Atlantic",
-        "Indian",
-        "Arctic",
-        "Pacific"
+        "Gentle slope",
+        "Steep vertical drop of water along a river course",
+        "Flat land",
+        "Dry riverbed"
       ],
-      "correct_index": 3,
-      "explanation": "Pacific.",
+      "correct_index": 1,
+      "explanation": "A waterfall occurs where a river flows over a vertical or steep drop in its channel.",
       "difficulty": 1
     },
     {
       "id": "geo_130",
-      "text": "The River Nile is the longest river in which continent? (variant 130)",
+      "text": "Which of the following best describes A gorge is formed by?",
       "options": [
-        "No longest",
-        "Only Nigeria",
-        "Africa",
-        "World"
+        "Wind blowing sand",
+        "Deep vertical erosion by a river",
+        "Deposition at a river mouth",
+        "Glacial melting"
       ],
-      "correct_index": 2,
-      "explanation": "Africa.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A gorge is a deep, narrow valley with steep sides, formed by vertical river erosion.",
+      "difficulty": 2
     },
     {
       "id": "geo_131",
-      "text": "How is population density defined? (variant 131)",
+      "text": "The lagoon along the coast of Lagos was formed by:",
       "options": [
-        "No number",
-        "People per area",
-        "Only number",
-        "Only area"
+        "River erosion",
+        "Sand bar or barrier island cutting off part of the sea",
+        "Volcanic activity",
+        "Glacial movement"
       ],
       "correct_index": 1,
-      "explanation": "People per area.",
-      "difficulty": 1
+      "explanation": "Lagos Lagoon was formed when a sand bar separated a portion of the sea from the ocean.",
+      "difficulty": 2
     },
     {
       "id": "geo_132",
-      "text": "Lagos is the largest city in which country? (variant 132)",
+      "text": "What is the main cause of tidal bores in rivers?",
       "options": [
-        "Nigeria",
-        "Ghana",
-        "Kenya",
-        "Egypt"
+        "Heavy rainfall upstream",
+        "Strong tidal flow pushing upstream against the river current",
+        "Earthquakes under the riverbed",
+        "Melting glaciers"
       ],
-      "correct_index": 0,
-      "explanation": "Nigeria.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Tidal bores occur when a strong incoming tide pushes water upstream against the river's flow.",
+      "difficulty": 3
     },
     {
       "id": "geo_133",
-      "text": "Which of the following is an example of a primary economic activity? (variant 133)",
+      "text": "The Sahara Desert is located in which part of Africa?",
       "options": [
-        "Manufacturing",
-        "Trading",
-        "Teaching",
-        "Farming"
+        "West and Central Africa",
+        "Southern Africa",
+        "North Africa",
+        "East Africa"
       ],
-      "correct_index": 3,
-      "explanation": "Farming.",
+      "correct_index": 2,
+      "explanation": "The Sahara Desert covers most of North Africa, the world's largest hot desert.",
       "difficulty": 1
     },
     {
       "id": "geo_134",
-      "text": "Petroleum is mainly found in which region of Nigeria? (variant 134)",
+      "text": "Which of the following best describes the vegetation of the Sahel region?",
       "options": [
-        "Kano",
-        "Borno",
-        "Niger Delta",
-        "Sokoto"
+        "Dense rainforest",
+        "Sparse grassland with drought-resistant shrubs",
+        "Mangrove swamps",
+        "Alpine flowers"
       ],
-      "correct_index": 2,
-      "explanation": "Niger Delta.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Sahel has sparse grassland and scattered shrubs adapted to very dry conditions.",
+      "difficulty": 2
     },
     {
       "id": "geo_135",
-      "text": "What do contour lines on a topographic map join together? (variant 135)",
+      "text": "Which of the following is a consequence of overgrazing?",
       "options": [
-        "Equal pressure",
-        "Equal height",
-        "Equal rain",
-        "Equal temp"
+        "Increased soil fertility",
+        "Soil erosion and land degradation",
+        "More tree growth",
+        "Increased rainfall"
       ],
       "correct_index": 1,
-      "explanation": "Equal height.",
-      "difficulty": 1
+      "explanation": "Overgrazing removes vegetation cover, leading to soil erosion and desertification.",
+      "difficulty": 2
     },
     {
       "id": "geo_136",
-      "text": "What does GIS stand for in geography? (variant 136)",
+      "text": "What is the value or meaning of a crater lake in mathematics?",
       "options": [
-        "Geographic Information System",
-        "General",
-        "Geological",
-        "No meaning"
+        "A lake formed by river damming",
+        "A lake formed in the mouth of a dormant volcano",
+        "A lake in a cave",
+        "A lake formed by glaciers"
       ],
-      "correct_index": 0,
-      "explanation": "GIS.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A crater lake fills the depression (caldera) at the top of a volcano.",
+      "difficulty": 2
     },
     {
       "id": "geo_137",
-      "text": "Desertification is most common in which part of Nigeria? (variant 137)",
+      "text": "Which of the following factors determines the density of drainage in an area?",
       "options": [
-        "South",
-        "No where",
-        "Only coast",
-        "North Nigeria"
+        "Number of cars on the road",
+        "Rainfall amount, rock type and slope",
+        "Distance from the capital city",
+        "Number of airports nearby"
       ],
-      "correct_index": 3,
-      "explanation": "North.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Drainage density depends on rainfall, permeability of rock, and the gradient of the land.",
+      "difficulty": 3
     },
     {
       "id": "geo_138",
-      "text": "Which of the following is a renewable resource? (variant 138)",
+      "text": "What is the main product of the Benue River trough?",
       "options": [
-        "Coal",
-        "Gas",
-        "Solar",
-        "Petroleum"
+        "Fish",
+        "Natural gas",
+        "Alluvial deposits of tin",
+        "Coal"
       ],
       "correct_index": 2,
-      "explanation": "Solar.",
-      "difficulty": 1
+      "explanation": "The Benue River trough is associated with alluvial tin deposits in Nigeria.",
+      "difficulty": 3
     },
     {
       "id": "geo_139",
-      "text": "Nigeria is located in which region of Africa? (variant 139)",
+      "text": "Which of the following is a type of precipitation?",
       "options": [
-        "South Africa",
-        "West Africa",
-        "East Africa",
-        "North Africa"
+        "Evaporation",
+        "Snow",
+        "Condensation",
+        "Transpiration"
       ],
       "correct_index": 1,
-      "explanation": "West Africa.",
+      "explanation": "Snow is a form of precipitation where water vapour freezes into ice crystals and falls.",
       "difficulty": 1
     },
     {
       "id": "geo_140",
-      "text": "What is the time difference between two places separated by 15° of longitude? (variant 140)",
+      "text": "Which of the following best describes A cold front occurs when?",
       "options": [
-        "1 hour",
-        "2 hours",
-        "30 mins",
-        "15 mins"
+        "Warm air pushes cold air away",
+        "Cold air moves into an area occupied by warm air",
+        "Two warm air masses meet",
+        "No air masses are moving"
       ],
-      "correct_index": 0,
-      "explanation": "1 hour.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "A cold front forms when cold air advances and replaces warm air, often causing heavy rain.",
+      "difficulty": 3
     },
     {
       "id": "geo_141",
-      "text": "What does the study of Geography involve? (variant 141)",
+      "text": "Which of the following is a way of conserving soil?",
       "options": [
-        "Only rocks",
-        "Only animals",
-        "Only plants",
-        "Earth and features"
+        "Bush burning",
+        "Terrace farming",
+        "Overgrazing",
+        "Deforestation"
       ],
-      "correct_index": 3,
-      "explanation": "Earth features.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Terrace farming reduces the speed of water runoff on slopes, preventing soil erosion.",
+      "difficulty": 3
     },
     {
       "id": "geo_142",
-      "text": "What is the true shape of the Earth? (variant 142)",
+      "text": "The main occupation of people in the mangrove region of Nigeria is:",
       "options": [
-        "Square",
-        "Triangle",
-        "Geoid",
-        "Flat"
+        "Farming",
+        "Fishing",
+        "Mining",
+        "Trading"
       ],
-      "correct_index": 2,
-      "explanation": "Geoid.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The mangrove swamp region of southern Nigeria is mainly inhabited by fishermen.",
+      "difficulty": 2
     },
     {
       "id": "geo_143",
-      "text": "How long does the Earth take to complete one rotation on its axis? (variant 143)",
+      "text": "Which of the following is a major export crop of Nigeria?",
       "options": [
-        "1 hour",
-        "24 hours",
-        "365 days",
-        "12 hours"
+        "Wheat",
+        "Cotton",
+        "Palm oil",
+        "Barley"
       ],
-      "correct_index": 1,
-      "explanation": "24 hours.",
+      "correct_index": 2,
+      "explanation": "Palm oil is one of Nigeria's traditional and major export crops.",
       "difficulty": 1
     },
     {
       "id": "geo_144",
-      "text": "What does latitude measure on the Earth's surface? (variant 144)",
+      "text": "What is the value or meaning of shifting cultivation in mathematics?",
       "options": [
-        "North/south equator",
-        "East/west Greenwich",
-        "Upwards",
-        "Downwards"
+        "Using machines to plant crops",
+        "Clearing and farming a piece of land, then moving to another after a few years",
+        "Planting crops in water",
+        "Growing crops on terraces only"
       ],
-      "correct_index": 0,
-      "explanation": "North/south.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Shifting cultivation (slash-and-burn) involves farming a plot, then abandoning it when soil fertility drops.",
+      "difficulty": 3
     },
     {
       "id": "geo_145",
-      "text": "The Greenwich Meridian represents which line of longitude? (variant 145)",
+      "text": "The oil palm is mainly grown in which part of Nigeria?",
       "options": [
-        "0° latitude",
-        "90° long",
-        "180° lat",
-        "0° longitude"
+        "The North",
+        "The South",
+        "The Sahel",
+        "The Jos Plateau"
       ],
-      "correct_index": 3,
-      "explanation": "0° longitude.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Oil palm thrives in the humid rainforest belt of southern Nigeria.",
+      "difficulty": 2
     },
     {
       "id": "geo_146",
-      "text": "What does the scale of a map represent? (variant 146)",
+      "text": "Which of the following is a means of land transportation?",
       "options": [
-        "Only ground",
-        "No ratio",
-        "Ratio map to ground",
-        "Only map"
+        "Ship",
+        "Aeroplane",
+        "Motor vehicle",
+        "Submarine"
       ],
       "correct_index": 2,
-      "explanation": "Ratio.",
+      "explanation": "Motor vehicles (cars, trucks, buses) are the most common means of land transportation.",
       "difficulty": 1
     },
     {
       "id": "geo_147",
-      "text": "How are igneous rocks formed from molten material? (variant 147)",
+      "text": "Which of the following is a problem of transportation in Nigeria?",
       "options": [
-        "Weathering",
-        "Cooling magma",
-        "Deposition",
-        "Metamorphism"
+        "Too many airports",
+        "Poor road networks and insufficient rail lines",
+        "Excess shipping",
+        "Too many bridges"
       ],
       "correct_index": 1,
-      "explanation": "Cooling magma.",
-      "difficulty": 1
+      "explanation": "Nigeria faces challenges of poor road conditions, insufficient rail, and inadequate water transport.",
+      "difficulty": 3
     },
     {
       "id": "geo_148",
-      "text": "What does a standard rain gauge measure in meteorology? (variant 148)",
+      "text": "What is the main function of the Organisation of Petroleum Exporting Countries (OPEC)?",
       "options": [
-        "Rainfall",
-        "Temperature",
-        "Pressure",
-        "Wind"
+        "To give free oil to all countries",
+        "To coordinate and unify petroleum policies of member countries",
+        "To ban oil production",
+        "To sell cars"
       ],
-      "correct_index": 0,
-      "explanation": "Rainfall.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "OPEC coordinates petroleum policies and stabilises oil markets among member nations.",
+      "difficulty": 3
     },
     {
       "id": "geo_149",
-      "text": "Which is the largest ocean in the world? (variant 149)",
+      "text": "Which of the following is a reason for economic development planning?",
       "options": [
-        "Atlantic",
-        "Indian",
-        "Arctic",
-        "Pacific"
+        "To reduce imports only",
+        "To improve the standard of living of citizens",
+        "To build more roads only",
+        "To reduce rainfall"
       ],
-      "correct_index": 3,
-      "explanation": "Pacific.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Economic development planning aims to improve living standards, healthcare, and education.",
+      "difficulty": 3
     },
     {
       "id": "geo_150",
-      "text": "The River Nile is the longest river in which continent? (variant 150)",
+      "text": "What is the value or meaning of overgrazing in mathematics?",
       "options": [
-        "No longest",
-        "Only Nigeria",
-        "Africa",
-        "World"
+        "Allowing animals to eat small amounts",
+        "Keeping too many animals on a piece of land beyond its carrying capacity",
+        "Feeding animals indoors",
+        "Growing grass for animals"
       ],
-      "correct_index": 2,
-      "explanation": "Africa.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Overgrazing occurs when too many livestock graze on land, destroying vegetation and causing erosion.",
+      "difficulty": 3
     },
     {
       "id": "geo_151",
-      "text": "How is population density defined? (variant 151)",
+      "text": "Which of the following is a renewable source of energy?",
       "options": [
-        "No number",
-        "People per area",
-        "Only number",
-        "Only area"
+        "Coal",
+        "Petroleum",
+        "Wind energy",
+        "Natural gas"
       ],
-      "correct_index": 1,
-      "explanation": "People per area.",
+      "correct_index": 2,
+      "explanation": "Wind energy is renewable because wind is a naturally replenishing resource.",
       "difficulty": 1
     },
     {
       "id": "geo_152",
-      "text": "Lagos is the largest city in which country? (variant 152)",
+      "text": "The International Date Line is located at approximately:",
       "options": [
-        "Nigeria",
-        "Ghana",
-        "Kenya",
-        "Egypt"
+        "0° longitude",
+        "90° E longitude",
+        "180° longitude",
+        "90° W longitude"
       ],
-      "correct_index": 0,
-      "explanation": "Nigeria.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "The International Date Line follows approximately 180° longitude in the Pacific Ocean.",
+      "difficulty": 2
     },
     {
       "id": "geo_153",
-      "text": "Which of the following is an example of a primary economic activity? (variant 153)",
+      "text": "Which of the following is an example of a physical feature?",
       "options": [
-        "Manufacturing",
-        "Trading",
-        "Teaching",
-        "Farming"
+        "School",
+        "Hospital",
+        "River",
+        "Market"
       ],
-      "correct_index": 3,
-      "explanation": "Farming.",
+      "correct_index": 2,
+      "explanation": "A river is a natural (physical) feature of the landscape, unlike human-made structures.",
       "difficulty": 1
     },
     {
       "id": "geo_154",
-      "text": "Petroleum is mainly found in which region of Nigeria? (variant 154)",
+      "text": "What is the Equatorial climate characterised by?",
       "options": [
-        "Kano",
-        "Borno",
-        "Niger Delta",
-        "Sokoto"
+        "Cold winters",
+        "High temperatures and heavy rainfall all year",
+        "Dry conditions",
+        "Snowfall"
       ],
-      "correct_index": 2,
-      "explanation": "Niger Delta.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Equatorial climate has consistently high temperatures and heavy rainfall throughout the year.",
+      "difficulty": 2
     },
     {
       "id": "geo_155",
-      "text": "What do contour lines on a topographic map join together? (variant 155)",
+      "text": "The Harmattan wind in West Africa blows from:",
       "options": [
-        "Equal pressure",
-        "Equal height",
-        "Equal rain",
-        "Equal temp"
+        "The south over the ocean",
+        "The north from the Sahara Desert",
+        "The east from the Indian Ocean",
+        "The west from the Atlantic"
       ],
       "correct_index": 1,
-      "explanation": "Equal height.",
-      "difficulty": 1
+      "explanation": "The Harmattan is a dry, dusty trade wind that blows from the Sahara Desert over West Africa.",
+      "difficulty": 2
     },
     {
       "id": "geo_156",
-      "text": "What does GIS stand for in geography? (variant 156)",
+      "text": "Which of the following is caused by the rotation of the Earth?",
       "options": [
-        "Geographic Information System",
-        "General",
-        "Geological",
-        "No meaning"
+        "Seasons",
+        "Day and night",
+        "Tides",
+        "Earthquakes"
       ],
-      "correct_index": 0,
-      "explanation": "GIS.",
+      "correct_index": 1,
+      "explanation": "The Earth's rotation on its axis causes the cycle of day and night.",
       "difficulty": 1
     },
     {
       "id": "geo_157",
-      "text": "Desertification is most common in which part of Nigeria? (variant 157)",
+      "text": "A map showing only the physical features of an area is called a:",
       "options": [
-        "South",
-        "No where",
-        "Only coast",
-        "North Nigeria"
+        "Political map",
+        "Cadastral map",
+        "Relief/physical map",
+        "Road map"
       ],
-      "correct_index": 3,
-      "explanation": "North.",
+      "correct_index": 2,
+      "explanation": "A physical map shows natural features such as mountains, rivers, and vegetation.",
       "difficulty": 1
     },
     {
       "id": "geo_158",
-      "text": "Which of the following is a renewable resource? (variant 158)",
+      "text": "Which of the following is a type of erosion by wind?",
       "options": [
-        "Coal",
-        "Gas",
-        "Solar",
-        "Petroleum"
+        "Corrasion and deflation",
+        "Hydraulic action",
+        "Attrition by water",
+        "Solution by rain"
       ],
-      "correct_index": 2,
-      "explanation": "Solar.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Wind erosion involves corrasion (blasting with particles) and deflation (removal of loose particles).",
+      "difficulty": 3
     },
     {
       "id": "geo_159",
-      "text": "Nigeria is located in which region of Africa? (variant 159)",
+      "text": "The continental divide in Africa separates the drainage of the Atlantic and Indian Ocean basins along:",
       "options": [
-        "South Africa",
-        "West Africa",
-        "East Africa",
-        "North Africa"
+        "The Nile River",
+        "The Great Rift Valley",
+        "The Congo River",
+        "The Zambezi River"
       ],
       "correct_index": 1,
-      "explanation": "West Africa.",
-      "difficulty": 1
+      "explanation": "The Great Rift Valley forms a major drainage divide in East Africa.",
+      "difficulty": 3
     },
     {
       "id": "geo_160",
-      "text": "What is the time difference between two places separated by 15° of longitude? (variant 160)",
+      "text": "An esker is a ridge of sand and gravel formed by:",
       "options": [
-        "1 hour",
-        "2 hours",
-        "30 mins",
-        "15 mins"
+        "Wind deposition",
+        "Meltwater streams flowing under a glacier",
+        "River deposition on a floodplain",
+        "Ocean waves"
       ],
-      "correct_index": 0,
-      "explanation": "1 hour.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Eskers are winding ridges of sediment deposited by meltwater flowing in tunnels beneath glaciers.",
+      "difficulty": 3
     },
     {
       "id": "geo_161",
-      "text": "What does the study of Geography involve? (variant 161)",
+      "text": "What is the significance of the lines of longitude?",
       "options": [
-        "Only rocks",
-        "Only animals",
-        "Only plants",
-        "Earth and features"
+        "They measure temperature",
+        "They help determine time differences between places",
+        "They measure altitude",
+        "They show population density"
       ],
-      "correct_index": 3,
-      "explanation": "Earth features.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Lines of longitude (meridians) help calculate time differences, since the Earth rotates 15° per hour.",
+      "difficulty": 2
     },
     {
       "id": "geo_162",
-      "text": "What is the true shape of the Earth? (variant 162)",
+      "text": "An old man on the coast sees a ship approaching. He sees the mast first because:",
       "options": [
-        "Square",
-        "Triangle",
-        "Geoid",
-        "Flat"
+        "The ship is very fast",
+        "The Earth's surface is curved",
+        "The weather is foggy",
+        "The ship is very tall"
       ],
-      "correct_index": 2,
-      "explanation": "Geoid.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The mast appears first due to the curvature of the Earth's surface.",
+      "difficulty": 2
     },
     {
       "id": "geo_163",
-      "text": "How long does the Earth take to complete one rotation on its axis? (variant 163)",
+      "text": "Which of the following is a difference between weather and climate?",
       "options": [
-        "1 hour",
-        "24 hours",
-        "365 days",
-        "12 hours"
+        "Weather is long-term; climate is short-term",
+        "Weather is day-to-day conditions; climate is the average over many years",
+        "They mean the same thing",
+        "Climate changes every hour"
       ],
       "correct_index": 1,
-      "explanation": "24 hours.",
-      "difficulty": 1
+      "explanation": "Weather refers to short-term atmospheric conditions; climate is the average weather pattern over 30+ years.",
+      "difficulty": 2
     },
     {
       "id": "geo_164",
-      "text": "What does latitude measure on the Earth's surface? (variant 164)",
+      "text": "Which of the following instruments measures wind speed?",
       "options": [
-        "North/south equator",
-        "East/west Greenwich",
-        "Upwards",
-        "Downwards"
+        "Thermometer",
+        "Barometer",
+        "Anemometer",
+        "Hygrometer"
       ],
-      "correct_index": 0,
-      "explanation": "North/south.",
+      "correct_index": 2,
+      "explanation": "An anemometer is used to measure the speed of the wind.",
       "difficulty": 1
     },
     {
       "id": "geo_165",
-      "text": "The Greenwich Meridian represents which line of longitude? (variant 165)",
+      "text": "Stratus clouds are characterised by:",
       "options": [
-        "0° latitude",
-        "90° long",
-        "180° lat",
-        "0° longitude"
+        "White, fluffy heaps at high altitude",
+        "A uniform grey layer covering the sky like a blanket",
+        "Very tall tower-like formations",
+        "Thin wispy streaks"
       ],
-      "correct_index": 3,
-      "explanation": "0° longitude.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Stratus clouds form a flat, grey, uniform layer low in the sky, often producing drizzle.",
+      "difficulty": 2
     },
     {
       "id": "geo_166",
-      "text": "What does the scale of a map represent? (variant 166)",
+      "text": "A cumulonimbus cloud is associated with:",
       "options": [
-        "Only ground",
-        "No ratio",
-        "Ratio map to ground",
-        "Only map"
+        "Calm sunny weather",
+        "Thunderstorms and heavy rain",
+        "Light drizzle only",
+        "Clear skies"
       ],
-      "correct_index": 2,
-      "explanation": "Ratio.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Cumulonimbus clouds are tall, dense clouds associated with thunderstorms, heavy rain, and lightning.",
+      "difficulty": 2
     },
     {
       "id": "geo_167",
-      "text": "How are igneous rocks formed from molten material? (variant 167)",
+      "text": "What is condensation in the water cycle?",
       "options": [
-        "Weathering",
-        "Cooling magma",
-        "Deposition",
-        "Metamorphism"
+        "Water turning into vapour",
+        "Water vapour cooling and turning into liquid water droplets",
+        "Water freezing into ice",
+        "Rain falling to the ground"
       ],
       "correct_index": 1,
-      "explanation": "Cooling magma.",
-      "difficulty": 1
+      "explanation": "Condensation is the process where water vapour cools and changes back into tiny liquid droplets.",
+      "difficulty": 2
     },
     {
       "id": "geo_168",
-      "text": "What does a standard rain gauge measure in meteorology? (variant 168)",
+      "text": "The rock type formed from remains of marine organisms is:",
       "options": [
-        "Rainfall",
-        "Temperature",
-        "Pressure",
-        "Wind"
+        "Granite",
+        "Chalk",
+        "Quartzite",
+        "Basalt"
       ],
-      "correct_index": 0,
-      "explanation": "Rainfall.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Chalk is a sedimentary rock formed from the compressed shells and skeletons of marine organisms.",
+      "difficulty": 2
     },
     {
       "id": "geo_169",
-      "text": "Which is the largest ocean in the world? (variant 169)",
+      "text": "A volcano that has not erupted for a long time is called:",
       "options": [
-        "Atlantic",
-        "Indian",
-        "Arctic",
-        "Pacific"
+        "Active volcano",
+        "Dormant volcano",
+        "Extinct volcano",
+        "Flood volcano"
       ],
-      "correct_index": 3,
-      "explanation": "Pacific.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A dormant volcano is one that has not erupted recently but could erupt again in the future.",
+      "difficulty": 2
     },
     {
       "id": "geo_170",
-      "text": "The River Nile is the longest river in which continent? (variant 170)",
+      "text": "Which process transports sediment along a river bed by rolling and sliding?",
       "options": [
-        "No longest",
-        "Only Nigeria",
-        "Africa",
-        "World"
+        "Evaporation",
+        "Traction",
+        "Infiltration",
+        "Percolation"
       ],
-      "correct_index": 2,
-      "explanation": "Africa.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Traction is the process where large particles are rolled or pushed along the river bed by the current.",
+      "difficulty": 3
     },
     {
       "id": "geo_171",
-      "text": "How is population density defined? (variant 171)",
+      "text": "A levee is a natural embankment found along a river. It is formed by:",
       "options": [
-        "No number",
-        "People per area",
-        "Only number",
-        "Only area"
+        "Erosion of the river bank",
+        "Deposition of coarse sediment during floods",
+        "Wind blowing soil to the river",
+        "Human construction only"
       ],
       "correct_index": 1,
-      "explanation": "People per area.",
-      "difficulty": 1
+      "explanation": "Levees form when a river deposits coarser sediment on its banks during flood overflow.",
+      "difficulty": 3
     },
     {
       "id": "geo_172",
-      "text": "Lagos is the largest city in which country? (variant 172)",
+      "text": "The main reason the sea level rises near the equator is:",
       "options": [
-        "Nigeria",
-        "Ghana",
-        "Kenya",
-        "Egypt"
+        "Heavy fishing",
+        "The Earth's rotation causes water to bulge at the equator",
+        "Volcanic heat",
+        "Rainfall is heavier"
       ],
-      "correct_index": 0,
-      "explanation": "Nigeria.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Earth's rotation causes the ocean to bulge slightly at the equator due to centrifugal force.",
+      "difficulty": 3
     },
     {
       "id": "geo_173",
-      "text": "Which of the following is an example of a primary economic activity? (variant 173)",
+      "text": "Which of the following countries does the River Niger flow through?",
       "options": [
-        "Manufacturing",
-        "Trading",
-        "Teaching",
-        "Farming"
+        "Egypt only",
+        "Niger, Nigeria, and Mali",
+        "South Africa",
+        "Morocco"
       ],
-      "correct_index": 3,
-      "explanation": "Farming.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The River Niger flows through Guinea, Mali, Niger, Benin, and Nigeria before entering the Atlantic.",
+      "difficulty": 3
     },
     {
       "id": "geo_174",
-      "text": "Petroleum is mainly found in which region of Nigeria? (variant 174)",
+      "text": "Which of the following is a major oil-producing state in Nigeria?",
       "options": [
         "Kano",
-        "Borno",
-        "Niger Delta",
-        "Sokoto"
+        "Rivers State",
+        "Kaduna",
+        "Borno"
       ],
-      "correct_index": 2,
-      "explanation": "Niger Delta.",
+      "correct_index": 1,
+      "explanation": "Rivers State, with Port Harcourt as its capital, is a major oil-producing state in the Niger Delta.",
       "difficulty": 1
     },
     {
       "id": "geo_175",
-      "text": "What do contour lines on a topographic map join together? (variant 175)",
+      "text": "What is the main type of farming practised in the northern part of Nigeria?",
       "options": [
-        "Equal pressure",
-        "Equal height",
-        "Equal rain",
-        "Equal temp"
+        "Shifting cultivation",
+        "Pastoral nomadism and irrigated farming",
+        "Plantation farming only",
+        "Fishing"
       ],
       "correct_index": 1,
-      "explanation": "Equal height.",
-      "difficulty": 1
+      "explanation": "Northern Nigeria is characterised by pastoral nomadism (cattle rearing) and irrigated crop farming.",
+      "difficulty": 2
     },
     {
       "id": "geo_176",
-      "text": "What does GIS stand for in geography? (variant 176)",
+      "text": "What is an earthquake epicentre and how is it best described?",
       "options": [
-        "Geographic Information System",
-        "General",
-        "Geological",
-        "No meaning"
+        "The point deep inside the Earth where the quake starts",
+        "The point on the surface directly above the focus",
+        "The edge of a tectonic plate",
+        "The highest point of a mountain"
       ],
-      "correct_index": 0,
-      "explanation": "GIS.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The epicentre is the point on the Earth's surface directly above the focus (hypocentre) of an earthquake.",
+      "difficulty": 3
     },
     {
       "id": "geo_177",
-      "text": "Desertification is most common in which part of Nigeria? (variant 177)",
+      "text": "Which of the following is an effect of the Bermuda High on West African climate?",
       "options": [
-        "South",
-        "No where",
-        "Only coast",
-        "North Nigeria"
+        "It brings heavy snowfall",
+        "It is linked to the West African monsoon and rainfall patterns",
+        "It has no effect",
+        "It causes freezing temperatures"
       ],
-      "correct_index": 3,
-      "explanation": "North.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Bermuda High pressure system influences the monsoon winds that bring rainfall to West Africa.",
+      "difficulty": 3
     },
     {
       "id": "geo_178",
-      "text": "Which of the following is a renewable resource? (variant 178)",
+      "text": "What is the value or meaning of a peninsula in mathematics?",
       "options": [
-        "Coal",
-        "Gas",
-        "Solar",
-        "Petroleum"
+        "An island surrounded by water",
+        "A piece of land almost surrounded by water on three sides",
+        "A deep valley between mountains",
+        "A flat plain"
       ],
-      "correct_index": 2,
-      "explanation": "Solar.",
+      "correct_index": 1,
+      "explanation": "A peninsula is an area of land that projects into a body of water and is surrounded on three sides.",
       "difficulty": 1
     },
     {
       "id": "geo_179",
-      "text": "Nigeria is located in which region of Africa? (variant 179)",
+      "text": "The Great Green Wall initiative in Africa aims to:",
       "options": [
-        "South Africa",
-        "West Africa",
-        "East Africa",
-        "North Africa"
+        "Build a wall around Africa",
+        "Create a belt of trees across the Sahel to combat desertification",
+        "Construct a highway across the desert",
+        "Build the tallest building in the world"
       ],
       "correct_index": 1,
-      "explanation": "West Africa.",
-      "difficulty": 1
-    },
-    {
-      "id": "geo_180",
-      "text": "What is the time difference between two places separated by 15° of longitude? (variant 180)",
-      "options": [
-        "1 hour",
-        "2 hours",
-        "30 mins",
-        "15 mins"
-      ],
-      "correct_index": 0,
-      "explanation": "1 hour.",
+      "explanation": "The Great Green Wall is an African-led project to grow a belt of trees across the Sahel to stop desertification.",
       "difficulty": 2
     },
     {
-      "id": "geo_181",
-      "text": "What does the study of Geography involve? (variant 181)",
+      "id": "geo_180",
+      "text": "What is the main source of energy for the water cycle?",
       "options": [
-        "Only rocks",
-        "Only animals",
-        "Only plants",
-        "Earth and features"
+        "The Moon",
+        "The Sun",
+        "Wind energy",
+        "Ocean tides"
       ],
-      "correct_index": 3,
-      "explanation": "Earth features.",
+      "correct_index": 1,
+      "explanation": "The Sun provides the energy that drives evaporation, the first stage of the water cycle.",
+      "difficulty": 1
+    },
+    {
+      "id": "geo_181",
+      "text": "What is a tributary and how is it best described?",
+      "options": [
+        "A river that flows into the sea",
+        "A smaller river that joins a larger river",
+        "A dried-up river",
+        "An underground river"
+      ],
+      "correct_index": 1,
+      "explanation": "A tributary is a stream or river that flows into a larger main river.",
       "difficulty": 1
     },
     {
       "id": "geo_182",
-      "text": "What is the true shape of the Earth? (variant 182)",
+      "text": "The source of the River Niger is in:",
       "options": [
-        "Square",
-        "Triangle",
-        "Geoid",
-        "Flat"
+        "Nigeria",
+        "Guinea Highlands",
+        "Democratic Republic of Congo",
+        "Ethiopia"
       ],
-      "correct_index": 2,
-      "explanation": "Geoid.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The River Niger rises in the Guinea Highlands near the Fouta Djallon mountains.",
+      "difficulty": 2
     },
     {
       "id": "geo_183",
-      "text": "How long does the Earth take to complete one rotation on its axis? (variant 183)",
+      "text": "Which type of map projection preserves direction but distorts area?",
       "options": [
-        "1 hour",
-        "24 hours",
-        "365 days",
-        "12 hours"
+        "Cylindrical projection",
+        "Conic projection",
+        "Azimuthal (gnomonic) projection",
+        "Equal area projection"
       ],
-      "correct_index": 1,
-      "explanation": "24 hours.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "A gnomonic (azimuthal) projection preserves directions from the centre but distorts area.",
+      "difficulty": 3
     },
     {
       "id": "geo_184",
-      "text": "What does latitude measure on the Earth's surface? (variant 184)",
+      "text": "The process by which plants release water vapour into the atmosphere is called:",
       "options": [
-        "North/south equator",
-        "East/west Greenwich",
-        "Upwards",
-        "Downwards"
+        "Evaporation",
+        "Transpiration",
+        "Condensation",
+        "Precipitation"
       ],
-      "correct_index": 0,
-      "explanation": "North/south.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Transpiration is the release of water vapour from plant leaves into the atmosphere.",
+      "difficulty": 2
     },
     {
       "id": "geo_185",
-      "text": "The Greenwich Meridian represents which line of longitude? (variant 185)",
+      "text": "Which of the following best describes an archipelago?",
       "options": [
-        "0° latitude",
-        "90° long",
-        "180° lat",
-        "0° longitude"
+        "A single large island",
+        "A group or chain of islands",
+        "A peninsula",
+        "A mountain range"
       ],
-      "correct_index": 3,
-      "explanation": "0° longitude.",
+      "correct_index": 1,
+      "explanation": "An archipelago is a group or chain of islands, e.g. the Philippines or the Maldives.",
       "difficulty": 1
     },
     {
       "id": "geo_186",
-      "text": "What does the scale of a map represent? (variant 186)",
+      "text": "The Benue River in Nigeria joins the River Niger at:",
       "options": [
-        "Only ground",
-        "No ratio",
-        "Ratio map to ground",
-        "Only map"
+        "Lokoja",
+        "Onitsha",
+        "Niger Delta",
+        "Kainji"
       ],
-      "correct_index": 2,
-      "explanation": "Ratio.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "The Benue and Niger rivers meet at Lokoja, Kogi State, forming the main Niger River channel.",
+      "difficulty": 2
     },
     {
       "id": "geo_187",
-      "text": "How are igneous rocks formed from molten material? (variant 187)",
+      "text": "Which of the following is an effect of global warming?",
       "options": [
-        "Weathering",
-        "Cooling magma",
-        "Deposition",
-        "Metamorphism"
+        "Cooling of the Earth",
+        "Rising sea levels due to melting ice caps",
+        "Increased snow in deserts",
+        "Decreased rainfall everywhere"
       ],
       "correct_index": 1,
-      "explanation": "Cooling magma.",
-      "difficulty": 1
+      "explanation": "Global warming causes glaciers and ice caps to melt, leading to rising sea levels.",
+      "difficulty": 3
     },
     {
       "id": "geo_188",
-      "text": "What does a standard rain gauge measure in meteorology? (variant 188)",
+      "text": "Which scale would show the most detail on a map?",
       "options": [
-        "Rainfall",
-        "Temperature",
-        "Pressure",
-        "Wind"
+        "1:1,000,000",
+        "1:50,000",
+        "1:100,000,000",
+        "1:500,000"
       ],
-      "correct_index": 0,
-      "explanation": "Rainfall.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "1:50,000 is the largest scale listed and shows the most detail for a given area.",
+      "difficulty": 2
     },
     {
       "id": "geo_189",
-      "text": "Which is the largest ocean in the world? (variant 189)",
+      "text": "What is the value or meaning of a spit in mathematics?",
       "options": [
-        "Atlantic",
-        "Indian",
-        "Arctic",
-        "Pacific"
+        "A deep valley",
+        "A narrow ridge of sand or shingle projecting from the coast into the sea",
+        "A coral reef",
+        "A waterfall"
       ],
-      "correct_index": 3,
-      "explanation": "Pacific.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A spit is a narrow ridge of sand or shingle extending from the shore into the sea by longshore drift.",
+      "difficulty": 2
     },
     {
       "id": "geo_190",
-      "text": "The River Nile is the longest river in which continent? (variant 190)",
+      "text": "The Great Rift Valley in East Africa was formed by:",
       "options": [
-        "No longest",
-        "Only Nigeria",
-        "Africa",
-        "World"
+        "River erosion",
+        "Tectonic plate divergence and faulting",
+        "Volcanic deposition",
+        "Wind erosion"
       ],
-      "correct_index": 2,
-      "explanation": "Africa.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Great Rift Valley was formed by the divergence of tectonic plates causing faulting and subsidence.",
+      "difficulty": 3
     },
     {
       "id": "geo_191",
-      "text": "How is population density defined? (variant 191)",
+      "text": "What is the Tundra climate characterised by?",
       "options": [
-        "No number",
-        "People per area",
-        "Only number",
-        "Only area"
+        "Hot and humid conditions",
+        "Very low temperatures with permafrost and sparse vegetation",
+        "Warm summer all year",
+        "Heavy monsoon rains"
       ],
       "correct_index": 1,
-      "explanation": "People per area.",
-      "difficulty": 1
+      "explanation": "The Tundra has extremely cold temperatures, permafrost, and very limited plant growth.",
+      "difficulty": 2
     },
     {
       "id": "geo_192",
-      "text": "Lagos is the largest city in which country? (variant 192)",
+      "text": "The Berg Wind in southern Africa is:",
       "options": [
-        "Nigeria",
-        "Ghana",
-        "Kenya",
-        "Egypt"
+        "A cold ocean current",
+        "A hot dry wind blowing from interior highlands to the coast",
+        "A humid sea breeze",
+        "A monsoon wind"
       ],
-      "correct_index": 0,
-      "explanation": "Nigeria.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Berg Wind is a hot, dry wind that blows downslope from the interior plateau to the coast.",
+      "difficulty": 3
     },
     {
       "id": "geo_193",
-      "text": "Which of the following is an example of a primary economic activity? (variant 193)",
+      "text": "The population census is important because it:",
       "options": [
-        "Manufacturing",
-        "Trading",
-        "Teaching",
-        "Farming"
+        "Increases the population",
+        "Provides data for planning and allocation of resources",
+        "Reduces the birth rate",
+        "Counts only men"
       ],
-      "correct_index": 3,
-      "explanation": "Farming.",
+      "correct_index": 1,
+      "explanation": "A census provides accurate population data needed for government planning and resource distribution.",
       "difficulty": 1
     },
     {
       "id": "geo_194",
-      "text": "Petroleum is mainly found in which region of Nigeria? (variant 194)",
+      "text": "Which of the following is a push factor for rural-urban migration?",
       "options": [
-        "Kano",
-        "Borno",
-        "Niger Delta",
-        "Sokoto"
+        "Availability of good schools in cities",
+        "Lack of employment opportunities in rural areas",
+        "Better hospitals in cities",
+        "Entertainment facilities in urban areas"
       ],
-      "correct_index": 2,
-      "explanation": "Niger Delta.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Lack of jobs in rural areas pushes people to move to cities in search of employment.",
+      "difficulty": 2
     },
     {
       "id": "geo_195",
-      "text": "What do contour lines on a topographic map join together? (variant 195)",
+      "text": "Which of the following is a commercial farming activity in West Africa?",
       "options": [
-        "Equal pressure",
-        "Equal height",
-        "Equal rain",
-        "Equal temp"
+        "Subsistence yam farming",
+        "Large-scale rubber plantation",
+        "Keeping a few chickens at home",
+        "Growing vegetables for family use"
       ],
       "correct_index": 1,
-      "explanation": "Equal height.",
-      "difficulty": 1
+      "explanation": "Commercial farming involves large-scale production for sale and export, like rubber plantations.",
+      "difficulty": 3
     },
     {
       "id": "geo_196",
-      "text": "What does GIS stand for in geography? (variant 196)",
+      "text": "Which type of rock is most suitable for making cement?",
       "options": [
-        "Geographic Information System",
-        "General",
-        "Geological",
-        "No meaning"
+        "Granite",
+        "Limestone",
+        "Quartzite",
+        "Basalt"
       ],
-      "correct_index": 0,
-      "explanation": "GIS.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Limestone is the primary raw material used in the manufacture of cement.",
+      "difficulty": 2
     },
     {
       "id": "geo_197",
-      "text": "Desertification is most common in which part of Nigeria? (variant 197)",
+      "text": "The continental shelf is important for fishing because it:",
       "options": [
-        "South",
-        "No where",
-        "Only coast",
-        "North Nigeria"
+        "Is very deep",
+        "Has shallow, sunlit water that supports marine life",
+        "Has no waves",
+        "Is very cold"
       ],
-      "correct_index": 3,
-      "explanation": "North.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The shallow waters of the continental shelf allow sunlight to penetrate, supporting abundant marine life.",
+      "difficulty": 2
     },
     {
       "id": "geo_198",
-      "text": "Which of the following is a renewable resource? (variant 198)",
+      "text": "A lighthouse is built on a coast primarily to:",
       "options": [
-        "Coal",
-        "Gas",
-        "Solar",
-        "Petroleum"
+        "Cool the houses",
+        "Warn and guide ships away from dangerous shorelines",
+        "Attract tourists",
+        "Measure rainfall"
       ],
-      "correct_index": 2,
-      "explanation": "Solar.",
+      "correct_index": 1,
+      "explanation": "Lighthouses emit light to warn ships of dangerous coasts and guide safe navigation.",
       "difficulty": 1
     },
     {
       "id": "geo_199",
-      "text": "Nigeria is located in which region of Africa? (variant 199)",
+      "text": "Which of the following is a difference between a map and a photograph?",
       "options": [
-        "South Africa",
-        "West Africa",
-        "East Africa",
-        "North Africa"
+        "A map always shows more detail than a photo",
+        "A map uses symbols and a scale; a photo shows an image from above",
+        "A photograph is always smaller",
+        "There is no difference"
       ],
       "correct_index": 1,
-      "explanation": "West Africa.",
-      "difficulty": 1
+      "explanation": "Maps use symbols, scale, and projections to represent features; photographs are direct images.",
+      "difficulty": 2
     },
     {
       "id": "geo_200",
-      "text": "What is the time difference between two places separated by 15° of longitude? (variant 200)",
+      "text": "The main reason for studying geography is to:",
       "options": [
-        "1 hour",
-        "2 hours",
-        "30 mins",
-        "15 mins"
+        "Memorise capital cities only",
+        "Understand the Earth, its people, and the relationship between them",
+        "Learn only how to read maps",
+        "Study only weather patterns"
       ],
-      "correct_index": 0,
-      "explanation": "1 hour.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Geography helps us understand the physical world, human activities, and how they interact.",
+      "difficulty": 1
     }
   ]
 }

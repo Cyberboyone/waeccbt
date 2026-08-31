@@ -5,2602 +5,2602 @@
   "questions": [
     {
       "id": "fmat_001",
-      "text": "What is the complement of the set A={1,2,3} in the universal set U={1,2,3,4,5}?",
+      "text": "Find the complement of A={2,4,6} in U={1,2,3,4,5,6,7}.",
       "options": [
         "{1,2,3}",
-        "{1-5}",
-        "{}",
-        "{4,5}"
+        "{1,3,5,7}",
+        "{1,2,3,4}",
+        "{1,5,7}"
       ],
-      "correct_index": 3,
-      "explanation": "{4,5}.",
+      "correct_index": 1,
+      "explanation": "Complement of A in U is U\\A = {1,3,5,7}.",
       "difficulty": 1
     },
     {
       "id": "fmat_002",
-      "text": "How many subsets does the set {a,b,c} have?",
+      "text": "How many subsets does the set {a,b,c,d} have?",
       "options": [
-        "6",
-        "9",
         "8",
-        "3"
+        "16",
+        "4",
+        "12"
       ],
-      "correct_index": 2,
-      "explanation": "2^3=8.",
+      "correct_index": 1,
+      "explanation": "Number of subsets = 2^4 = 16.",
       "difficulty": 1
     },
     {
       "id": "fmat_003",
-      "text": "What is the decimal equivalent of the binary number 1011₂?",
+      "text": "If P={1,3,5,7} and Q={2,3,5,9}, find P intersect Q.",
       "options": [
-        "13",
-        "11",
-        "10",
-        "12"
+        "{1,2}",
+        "{3,5}",
+        "{2,7,9}",
+        "{1,3,5,7,9}"
       ],
       "correct_index": 1,
-      "explanation": "11.",
-      "difficulty": 1
+      "explanation": "P intersect Q = {3,5}.",
+      "difficulty": 2
     },
     {
       "id": "fmat_004",
-      "text": "Simplify the surd √12 to its simplest form.",
+      "text": "What is the decimal equivalent of the binary number 1101 base 2?",
       "options": [
-        "2√3",
-        "3√2",
-        "4√3",
-        "√6"
+        "11",
+        "13",
+        "15",
+        "12"
       ],
-      "correct_index": 0,
-      "explanation": "2√3.",
+      "correct_index": 1,
+      "explanation": "8 + 4 + 0 + 1 = 13.",
       "difficulty": 1
     },
     {
       "id": "fmat_005",
-      "text": "What is the modulus (absolute value) of the complex number 3+4i?",
+      "text": "Simplify the surd expression sqrt(50). to its simplest form.",
       "options": [
-        "7",
-        "1",
-        "12",
-        "5"
+        "5sqrt(2)",
+        "2sqrt(5)",
+        "sqrt(25)",
+        "10"
       ],
-      "correct_index": 3,
-      "explanation": "5.",
+      "correct_index": 0,
+      "explanation": "sqrt(50) = sqrt(25*2) = 5sqrt(2).",
       "difficulty": 1
     },
     {
       "id": "fmat_006",
-      "text": "What is the value of i² in complex number arithmetic?",
+      "text": "Rationalize the denominator of 1/(2 - sqrt(3)).",
       "options": [
-        "0",
-        "i",
-        "-1",
-        "1"
+        "2 + sqrt(3)",
+        "2 - sqrt(3)",
+        "4 + sqrt(3)",
+        "2 + 2sqrt(3)"
       ],
-      "correct_index": 2,
-      "explanation": "-1.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Multiply by (2+sqrt(3))/(2+sqrt(3)) = (2+sqrt(3))/(4-3) = 2+sqrt(3).",
+      "difficulty": 2
     },
     {
       "id": "fmat_007",
-      "text": "What are the roots of the quadratic equation x²-5x+6=0?",
+      "text": "Simplify the following mathematical expression: (27)^(2/3)..",
       "options": [
-        "2 -3",
-        "2 and 3",
-        "1 and 6",
-        "-2 -3"
+        "9",
+        "18",
+        "6",
+        "81"
       ],
-      "correct_index": 1,
-      "explanation": "2 and 3.",
+      "correct_index": 0,
+      "explanation": "27^(2/3) = (27^(1/3))^2 = 3^2 = 9.",
       "difficulty": 1
     },
     {
       "id": "fmat_008",
-      "text": "What is the formula for the discriminant of a quadratic equation?",
+      "text": "Given that the logarithm of x to base 2 equals 5, find the value of x.",
       "options": [
-        "b²-4ac",
-        "b²+4ac",
-        "b²-ac",
-        "4ac-b²"
+        "10",
+        "32",
+        "25",
+        "64"
       ],
-      "correct_index": 0,
-      "explanation": "b²-4ac.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "x = 2^5 = 32.",
+      "difficulty": 2
     },
     {
       "id": "fmat_009",
-      "text": "In an arithmetic progression, if the nth term is given by Tn=3n+2, what is the first term when n=1?",
+      "text": "Simplify the following mathematical expression: log(8) + log(2)..",
       "options": [
-        "2",
-        "3",
-        "8",
-        "5"
+        "log(10)",
+        "log(16)",
+        "log(6)",
+        "log(4)"
       ],
-      "correct_index": 3,
-      "explanation": "5.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "log(8) + log(2) = log(8*2) = log(10).",
+      "difficulty": 2
     },
     {
       "id": "fmat_010",
-      "text": "In a geometric progression, the first term is 2 and the common ratio is 3. What is the second term?",
+      "text": "What is the value of log base 3 of 81?",
       "options": [
         "3",
-        "9",
-        "6",
-        "2"
+        "4",
+        "27",
+        "9"
       ],
-      "correct_index": 2,
-      "explanation": "6.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "3^4 = 81, so log_3(81) = 4.",
+      "difficulty": 2
     },
     {
       "id": "fmat_011",
-      "text": "What is the determinant of the 2×2 matrix [[1,2],[3,4]]?",
+      "text": "Find the remainder when f(x) = x^3 - 4x + 1 is divided by (x - 2).",
       "options": [
-        "0",
-        "-2",
-        "2",
-        "10"
+        "1",
+        "3",
+        "-1",
+        "5"
       ],
-      "correct_index": 1,
-      "explanation": "-2.",
+      "correct_index": 0,
+      "explanation": "f(2) = 8 - 8 + 1 = 1.",
       "difficulty": 1
     },
     {
       "id": "fmat_012",
-      "text": "What is the distance between the points (0,0) and (3,4)?",
+      "text": "If (x + 1) is a factor of x^3 + ax^2 - 2x + 8, find a.",
       "options": [
-        "5",
-        "7",
-        "1",
-        "12"
+        "-9",
+        "-5",
+        "3",
+        "9"
       ],
       "correct_index": 0,
-      "explanation": "5.",
-      "difficulty": 1
+      "explanation": "f(-1) = -1 + a + 2 + 8 = a + 9 = 0, so a = -9.",
+      "difficulty": 2
     },
     {
       "id": "fmat_013",
-      "text": "What is the value of sin 30 degrees?",
+      "text": "Find the value of k if (x - 1) is a factor of 2x^3 + kx^2 - 3x + 1.",
       "options": [
-        "√3/2",
-        "1",
         "0",
-        "1/2"
+        "2",
+        "-2",
+        "1"
       ],
-      "correct_index": 3,
-      "explanation": "1/2.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "f(1) = 2 + k - 3 + 1 = k = 0.",
+      "difficulty": 2
     },
     {
       "id": "fmat_014",
-      "text": "What is the value of the trigonometric identity sin²θ + cos²θ?",
+      "text": "Find the remainder when 2x^3 - 4 is divided by (x + 1).",
       "options": [
-        "2",
-        "sin2θ",
-        "1",
-        "0"
+        "-6",
+        "0",
+        "6",
+        "-4"
       ],
-      "correct_index": 2,
-      "explanation": "1.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "f(-1) = 2(-1)^3 - 4 = -2 - 4 = -6.",
+      "difficulty": 2
     },
     {
       "id": "fmat_015",
-      "text": "If y = x³, what is the derivative dy/dx?",
+      "text": "Factorize the expression x^2 - 5x + 6. completely.",
       "options": [
-        "x³",
-        "3x²",
-        "x²",
-        "3x"
+        "(x-2)(x-3)",
+        "(x-1)(x-6)",
+        "(x+2)(x+3)",
+        "(x-2)(x+3)"
       ],
-      "correct_index": 1,
-      "explanation": "3x².",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "x^2 - 5x + 6 = (x-2)(x-3).",
+      "difficulty": 2
     },
     {
       "id": "fmat_016",
-      "text": "What is the integral of x² with respect to x?",
+      "text": "Find the sum of the roots of 2x^2 - 8x + 6 = 0.",
       "options": [
-        "x³/3+C",
-        "x³+C",
-        "2x+C",
-        "x²+C"
+        "4",
+        "3",
+        "-4",
+        "6"
       ],
       "correct_index": 0,
-      "explanation": "x³/3+C.",
-      "difficulty": 1
+      "explanation": "Sum of roots = -b/a = 8/2 = 4.",
+      "difficulty": 2
     },
     {
       "id": "fmat_017",
-      "text": "What is the arithmetic mean of the numbers 2, 4, and 6?",
+      "text": "Find the product of the roots of x^2 + 5x - 14 = 0.",
       "options": [
-        "6",
-        "3",
-        "12",
-        "4"
+        "-14",
+        "14",
+        "5",
+        "-5"
       ],
-      "correct_index": 3,
-      "explanation": "4.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Product of roots = c/a = -14/1 = -14.",
+      "difficulty": 2
     },
     {
       "id": "fmat_018",
-      "text": "What is the range of values that any probability can take?",
+      "text": "Solve the inequality 3x - 7 > 5. and state the solution set.",
       "options": [
-        "-1 and 1",
-        "0 and 10",
-        "0 and 1",
-        "0 and 2"
+        "x > 4",
+        "x < 4",
+        "x > 2",
+        "x > -4"
       ],
-      "correct_index": 2,
-      "explanation": "0 and 1.",
+      "correct_index": 0,
+      "explanation": "3x > 12, so x > 4.",
       "difficulty": 1
     },
     {
       "id": "fmat_019",
-      "text": "In how many different ways can 3 books be arranged on a shelf?",
+      "text": "Solve the equation 2x^2 - 3x - 2 = 0. and give the exact value.",
       "options": [
-        "2",
-        "6",
-        "3",
-        "9"
+        "x = 2 or x = -1/2",
+        "x = -2 or x = 1/2",
+        "x = 1 or x = -2",
+        "x = -1 or x = 2"
       ],
-      "correct_index": 1,
-      "explanation": "6.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "(2x + 1)(x - 2) = 0, so x = 2 or x = -1/2.",
+      "difficulty": 2
     },
     {
       "id": "fmat_020",
-      "text": "In Newton's second law F = ma, what does F represent?",
+      "text": "The roots of x^2 - 6x + k = 0 are equal. Find k.",
       "options": [
-        "Force",
-        "Energy",
-        "Power",
-        "No force"
+        "9",
+        "12",
+        "6",
+        "36"
       ],
       "correct_index": 0,
-      "explanation": "Force.",
-      "difficulty": 1
+      "explanation": "Discriminant = 0: 36 - 4k = 0, k = 9.",
+      "difficulty": 2
     },
     {
       "id": "fmat_021",
-      "text": "What is the complement of the set A={1,2,3} in the universal set U={1,2,3,4,5}? (variant 21)",
+      "text": "The 3rd term of an AP is 11 and the 7th term is 23. Find the common difference.",
       "options": [
-        "{1,2,3}",
-        "{1-5}",
-        "{}",
-        "{4,5}"
+        "3",
+        "4",
+        "2",
+        "5"
       ],
-      "correct_index": 3,
-      "explanation": "{4,5}.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "a+2d=11, a+6d=23. Subtracting: 4d=12, d=3.",
+      "difficulty": 2
     },
     {
       "id": "fmat_022",
-      "text": "How many subsets does the set {a,b,c} have? (variant 22)",
+      "text": "Find the sum of the first 10 terms of the AP: 3, 7, 11, ...",
       "options": [
-        "6",
-        "9",
-        "8",
-        "3"
+        "210",
+        "200",
+        "220",
+        "190"
       ],
-      "correct_index": 2,
-      "explanation": "2^3=8.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "S_10 = (10/2)(2*3 + 9*4) = 5*(6+36) = 5*42 = 210.",
+      "difficulty": 2
     },
     {
       "id": "fmat_023",
-      "text": "What is the decimal equivalent of the binary number 1011₂? (variant 23)",
+      "text": "Find the 5th term of a GP where a=2 and r=3.",
       "options": [
-        "13",
-        "11",
-        "10",
-        "12"
+        "162",
+        "54",
+        "486",
+        "81"
       ],
-      "correct_index": 1,
-      "explanation": "11.",
+      "correct_index": 0,
+      "explanation": "T_5 = ar^4 = 2*81 = 162.",
       "difficulty": 1
     },
     {
       "id": "fmat_024",
-      "text": "Simplify the surd √12 to its simplest form. (variant 24)",
+      "text": "The sum to infinity of a GP is 12 and the first term is 8. Find the common ratio.",
       "options": [
-        "2√3",
-        "3√2",
-        "4√3",
-        "√6"
+        "1/3",
+        "2/3",
+        "1/2",
+        "3/4"
       ],
       "correct_index": 0,
-      "explanation": "2√3.",
-      "difficulty": 1
+      "explanation": "S = a/(1-r): 12 = 8/(1-r), 1-r = 2/3, r = 1/3.",
+      "difficulty": 2
     },
     {
       "id": "fmat_025",
-      "text": "What is the modulus (absolute value) of the complex number 3+4i? (variant 25)",
+      "text": "Find the 4th term in the expansion of (x + 2)^5.",
       "options": [
-        "7",
-        "1",
-        "12",
-        "5"
+        "40x^2",
+        "10x^3",
+        "80x^2",
+        "20x^3"
       ],
-      "correct_index": 3,
-      "explanation": "5.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "T_4 = C(5,3)*x^2*2^3 = 10*x^2*8 = 80x^2.",
+      "difficulty": 3
     },
     {
       "id": "fmat_026",
-      "text": "What is the value of i² in complex number arithmetic? (variant 26)",
+      "text": "Find the determinant of the matrix [[3,2],[1,4]].",
       "options": [
-        "0",
-        "i",
-        "-1",
-        "1"
+        "10",
+        "14",
+        "11",
+        "5"
       ],
-      "correct_index": 2,
-      "explanation": "-1.",
+      "correct_index": 0,
+      "explanation": "det = 3*4 - 2*1 = 12 - 2 = 10.",
       "difficulty": 1
     },
     {
       "id": "fmat_027",
-      "text": "What are the roots of the quadratic equation x²-5x+6=0? (variant 27)",
+      "text": "Find the determinant of [[5,3],[2,7]].",
       "options": [
-        "2 -3",
-        "2 and 3",
-        "1 and 6",
-        "-2 -3"
+        "29",
+        "31",
+        "10",
+        "41"
       ],
-      "correct_index": 1,
-      "explanation": "2 and 3.",
+      "correct_index": 0,
+      "explanation": "det = 5*7 - 3*2 = 35 - 6 = 29.",
       "difficulty": 1
     },
     {
       "id": "fmat_028",
-      "text": "What is the formula for the discriminant of a quadratic equation? (variant 28)",
+      "text": "If the matrix A = [[2,1],[3,4]], determine the value of 2a.",
       "options": [
-        "b²-4ac",
-        "b²+4ac",
-        "b²-ac",
-        "4ac-b²"
+        "[[4,2],[6,8]]",
+        "[[2,1],[6,4]]",
+        "[[4,1],[3,8]]",
+        "[[2,2],[6,8]]"
       ],
       "correct_index": 0,
-      "explanation": "b²-4ac.",
-      "difficulty": 1
+      "explanation": "2A = [[4,2],[6,8]].",
+      "difficulty": 2
     },
     {
       "id": "fmat_029",
-      "text": "In an arithmetic progression, if the nth term is given by Tn=3n+2, what is the first term when n=1? (variant 29)",
+      "text": "Find the product of matrices [[1,2],[0,3]] and [[4],[5]].",
       "options": [
-        "2",
-        "3",
-        "8",
-        "5"
+        "[[14],[15]]",
+        "[[9],[15]]",
+        "[[14],[12]]",
+        "[[4],[15]]"
       ],
-      "correct_index": 3,
-      "explanation": "5.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "[[1*4+2*5],[0*4+3*5]] = [[14],[15]].",
+      "difficulty": 2
     },
     {
       "id": "fmat_030",
-      "text": "In a geometric progression, the first term is 2 and the common ratio is 3. What is the second term? (variant 30)",
+      "text": "Given that f(x) = 3x^2 - 2x + 1, determine the value of f(0).",
       "options": [
-        "3",
-        "9",
-        "6",
-        "2"
+        "1",
+        "0",
+        "-1",
+        "3"
       ],
-      "correct_index": 2,
-      "explanation": "6.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "f(0) = 0 - 0 + 1 = 1.",
+      "difficulty": 2
     },
     {
       "id": "fmat_031",
-      "text": "What is the determinant of the 2×2 matrix [[1,2],[3,4]]? (variant 31)",
+      "text": "If f(x) = x + 3 and g(x) = 2x - 1, find f(g(x)).",
       "options": [
-        "0",
-        "-2",
-        "2",
-        "10"
+        "2x + 2",
+        "2x + 4",
+        "2x - 4",
+        "x + 2"
       ],
-      "correct_index": 1,
-      "explanation": "-2.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "f(g(x)) = f(2x-1) = (2x-1) + 3 = 2x + 2.",
+      "difficulty": 2
     },
     {
       "id": "fmat_032",
-      "text": "What is the distance between the points (0,0) and (3,4)? (variant 32)",
+      "text": "If f(x) = 2x + 1, find f inverse of x.",
       "options": [
-        "5",
-        "7",
-        "1",
-        "12"
+        "(x-1)/2",
+        "(x+1)/2",
+        "2x-1",
+        "(x-1)/2"
       ],
       "correct_index": 0,
-      "explanation": "5.",
+      "explanation": "y = 2x+1, x = 2y+1, y = (x-1)/2.",
       "difficulty": 1
     },
     {
       "id": "fmat_033",
-      "text": "What is the value of sin 30 degrees? (variant 33)",
+      "text": "Find the domain of f(x) = 1/(x - 2).",
       "options": [
-        "√3/2",
-        "1",
-        "0",
-        "1/2"
+        "x != 2",
+        "x > 2",
+        "All real numbers",
+        "x < 2"
       ],
-      "correct_index": 3,
-      "explanation": "1/2.",
+      "correct_index": 0,
+      "explanation": "Denominator cannot be zero, so x != 2.",
       "difficulty": 1
     },
     {
       "id": "fmat_034",
-      "text": "What is the value of the trigonometric identity sin²θ + cos²θ? (variant 34)",
+      "text": "Find the range of f(x) = x^2 for x real.",
       "options": [
-        "2",
-        "sin2θ",
-        "1",
-        "0"
+        "y >= 0",
+        "All real numbers",
+        "y > 0",
+        "y >= 1"
       ],
-      "correct_index": 2,
-      "explanation": "1.",
+      "correct_index": 0,
+      "explanation": "x^2 is always non-negative, so range is y >= 0.",
       "difficulty": 1
     },
     {
       "id": "fmat_035",
-      "text": "If y = x³, what is the derivative dy/dx? (variant 35)",
+      "text": "Find the midpoint of the line joining (2, 3) and (8, 7).",
       "options": [
-        "x³",
-        "3x²",
-        "x²",
-        "3x"
+        "(5, 5)",
+        "(6, 5)",
+        "(5, 4)",
+        "(4, 5)"
       ],
-      "correct_index": 1,
-      "explanation": "3x².",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Midpoint = ((2+8)/2, (3+7)/2) = (5, 5).",
+      "difficulty": 2
     },
     {
       "id": "fmat_036",
-      "text": "What is the integral of x² with respect to x? (variant 36)",
+      "text": "Find the distance between (1, 2) and (4, 6).",
       "options": [
-        "x³/3+C",
-        "x³+C",
-        "2x+C",
-        "x²+C"
+        "5",
+        "7",
+        "4",
+        "25"
       ],
       "correct_index": 0,
-      "explanation": "x³/3+C.",
+      "explanation": "d = sqrt((4-1)^2 + (6-2)^2) = sqrt(9+16) = 5.",
       "difficulty": 1
     },
     {
       "id": "fmat_037",
-      "text": "What is the arithmetic mean of the numbers 2, 4, and 6? (variant 37)",
+      "text": "Find the gradient of the line through (1, 3) and (4, 9).",
       "options": [
-        "6",
+        "2",
         "3",
-        "12",
-        "4"
+        "1",
+        "6"
       ],
-      "correct_index": 3,
-      "explanation": "4.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Gradient = (9-3)/(4-1) = 6/3 = 2.",
+      "difficulty": 2
     },
     {
       "id": "fmat_038",
-      "text": "What is the range of values that any probability can take? (variant 38)",
+      "text": "Find the equation of a line with gradient 3 passing through (0, -2).",
       "options": [
-        "-1 and 1",
-        "0 and 10",
-        "0 and 1",
-        "0 and 2"
+        "y = 3x - 2",
+        "y = 3x + 2",
+        "y = -3x - 2",
+        "y = 2x - 3"
       ],
-      "correct_index": 2,
-      "explanation": "0 and 1.",
+      "correct_index": 0,
+      "explanation": "y - (-2) = 3(x - 0), y = 3x - 2.",
       "difficulty": 1
     },
     {
       "id": "fmat_039",
-      "text": "In how many different ways can 3 books be arranged on a shelf? (variant 39)",
+      "text": "Find the equation of a line perpendicular to y = 2x + 1 passing through (0, 5).",
       "options": [
-        "2",
-        "6",
-        "3",
-        "9"
+        "y = -x/2 + 5",
+        "y = -2x + 5",
+        "y = x/2 + 5",
+        "y = 2x + 5"
       ],
-      "correct_index": 1,
-      "explanation": "6.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Perpendicular gradient = -1/2. y = -x/2 + 5.",
+      "difficulty": 2
     },
     {
       "id": "fmat_040",
-      "text": "In Newton's second law F = ma, what does F represent? (variant 40)",
+      "text": "Find the angle of inclination of a line with gradient 1.",
       "options": [
-        "Force",
-        "Energy",
-        "Power",
-        "No force"
+        "45 degrees",
+        "30 degrees",
+        "60 degrees",
+        "90 degrees"
       ],
       "correct_index": 0,
-      "explanation": "Force.",
-      "difficulty": 1
+      "explanation": "tan(theta) = 1, theta = 45 degrees.",
+      "difficulty": 2
     },
     {
       "id": "fmat_041",
-      "text": "What is the complement of the set A={1,2,3} in the universal set U={1,2,3,4,5}? (variant 41)",
+      "text": "Find the equation of a circle with centre (2, -1) and radius 3.",
       "options": [
-        "{1,2,3}",
-        "{1-5}",
-        "{}",
-        "{4,5}"
+        "(x-2)^2 + (y+1)^2 = 9",
+        "(x+2)^2 + (y-1)^2 = 9",
+        "(x-2)^2 + (y-1)^2 = 9",
+        "(x-2)^2 + (y+1)^2 = 3"
       ],
-      "correct_index": 3,
-      "explanation": "{4,5}.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "(x-2)^2 + (y+1)^2 = 3^2 = 9.",
+      "difficulty": 2
     },
     {
       "id": "fmat_042",
-      "text": "How many subsets does the set {a,b,c} have? (variant 42)",
+      "text": "Find the centre and radius of x^2 + y^2 - 6x + 4y - 12 = 0.",
       "options": [
-        "6",
-        "9",
-        "8",
-        "3"
+        "(3, -2), 5",
+        "(-3, 2), 5",
+        "(3, 2), 5",
+        "(3, -2), 25"
       ],
-      "correct_index": 2,
-      "explanation": "2^3=8.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Complete squares: (x-3)^2 + (y+2)^2 = 25. Centre (3,-2), radius 5.",
+      "difficulty": 3
     },
     {
       "id": "fmat_043",
-      "text": "What is the decimal equivalent of the binary number 1011₂? (variant 43)",
+      "text": "Find the number of arrangements of 5 different books on a shelf.",
       "options": [
-        "13",
-        "11",
-        "10",
-        "12"
+        "120",
+        "24",
+        "60",
+        "25"
       ],
-      "correct_index": 1,
-      "explanation": "11.",
+      "correct_index": 0,
+      "explanation": "5! = 120.",
       "difficulty": 1
     },
     {
       "id": "fmat_044",
-      "text": "Simplify the surd √12 to its simplest form. (variant 44)",
+      "text": "How many ways can 3 students be chosen from 8?",
       "options": [
-        "2√3",
-        "3√2",
-        "4√3",
-        "√6"
+        "56",
+        "24",
+        "210",
+        "336"
       ],
       "correct_index": 0,
-      "explanation": "2√3.",
-      "difficulty": 1
+      "explanation": "C(8,3) = 8!/(3!*5!) = 56.",
+      "difficulty": 2
     },
     {
       "id": "fmat_045",
-      "text": "What is the modulus (absolute value) of the complex number 3+4i? (variant 45)",
+      "text": "Find the number of permutations of the letters in APPLE.",
       "options": [
-        "7",
-        "1",
-        "12",
-        "5"
+        "60",
+        "120",
+        "24",
+        "30"
       ],
-      "correct_index": 3,
-      "explanation": "5.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "5!/(2!) = 60 (A and P each repeated twice).",
+      "difficulty": 3
     },
     {
       "id": "fmat_046",
-      "text": "What is the value of i² in complex number arithmetic? (variant 46)",
-      "options": [
-        "0",
-        "i",
-        "-1",
-        "1"
-      ],
-      "correct_index": 2,
-      "explanation": "-1.",
-      "difficulty": 1
-    },
-    {
-      "id": "fmat_047",
-      "text": "What are the roots of the quadratic equation x²-5x+6=0? (variant 47)",
-      "options": [
-        "2 -3",
-        "2 and 3",
-        "1 and 6",
-        "-2 -3"
-      ],
-      "correct_index": 1,
-      "explanation": "2 and 3.",
-      "difficulty": 1
-    },
-    {
-      "id": "fmat_048",
-      "text": "What is the formula for the discriminant of a quadratic equation? (variant 48)",
-      "options": [
-        "b²-4ac",
-        "b²+4ac",
-        "b²-ac",
-        "4ac-b²"
-      ],
-      "correct_index": 0,
-      "explanation": "b²-4ac.",
-      "difficulty": 1
-    },
-    {
-      "id": "fmat_049",
-      "text": "In an arithmetic progression, if the nth term is given by Tn=3n+2, what is the first term when n=1? (variant 49)",
-      "options": [
-        "2",
-        "3",
-        "8",
-        "5"
-      ],
-      "correct_index": 3,
-      "explanation": "5.",
-      "difficulty": 1
-    },
-    {
-      "id": "fmat_050",
-      "text": "In a geometric progression, the first term is 2 and the common ratio is 3. What is the second term? (variant 50)",
-      "options": [
-        "3",
-        "9",
-        "6",
-        "2"
-      ],
-      "correct_index": 2,
-      "explanation": "6.",
-      "difficulty": 1
-    },
-    {
-      "id": "fmat_051",
-      "text": "What is the determinant of the 2×2 matrix [[1,2],[3,4]]? (variant 51)",
-      "options": [
-        "0",
-        "-2",
-        "2",
-        "10"
-      ],
-      "correct_index": 1,
-      "explanation": "-2.",
-      "difficulty": 1
-    },
-    {
-      "id": "fmat_052",
-      "text": "What is the distance between the points (0,0) and (3,4)? (variant 52)",
-      "options": [
-        "5",
-        "7",
-        "1",
-        "12"
-      ],
-      "correct_index": 0,
-      "explanation": "5.",
-      "difficulty": 1
-    },
-    {
-      "id": "fmat_053",
-      "text": "What is the value of sin 30 degrees? (variant 53)",
-      "options": [
-        "√3/2",
-        "1",
-        "0",
-        "1/2"
-      ],
-      "correct_index": 3,
-      "explanation": "1/2.",
-      "difficulty": 1
-    },
-    {
-      "id": "fmat_054",
-      "text": "What is the value of the trigonometric identity sin²θ + cos²θ? (variant 54)",
-      "options": [
-        "2",
-        "sin2θ",
-        "1",
-        "0"
-      ],
-      "correct_index": 2,
-      "explanation": "1.",
-      "difficulty": 1
-    },
-    {
-      "id": "fmat_055",
-      "text": "If y = x³, what is the derivative dy/dx? (variant 55)",
-      "options": [
-        "x³",
-        "3x²",
-        "x²",
-        "3x"
-      ],
-      "correct_index": 1,
-      "explanation": "3x².",
-      "difficulty": 1
-    },
-    {
-      "id": "fmat_056",
-      "text": "What is the integral of x² with respect to x? (variant 56)",
-      "options": [
-        "x³/3+C",
-        "x³+C",
-        "2x+C",
-        "x²+C"
-      ],
-      "correct_index": 0,
-      "explanation": "x³/3+C.",
-      "difficulty": 1
-    },
-    {
-      "id": "fmat_057",
-      "text": "What is the arithmetic mean of the numbers 2, 4, and 6? (variant 57)",
+      "text": "How many ways can 4 people sit around a circular table?",
       "options": [
         "6",
-        "3",
+        "24",
         "12",
         "4"
       ],
-      "correct_index": 3,
-      "explanation": "4.",
+      "correct_index": 0,
+      "explanation": "(4-1)! = 3! = 6.",
+      "difficulty": 2
+    },
+    {
+      "id": "fmat_047",
+      "text": "Find the number of permutations of 7 items taken 3 at a time.",
+      "options": [
+        "210",
+        "35",
+        "343",
+        "42"
+      ],
+      "correct_index": 0,
+      "explanation": "P(7,3) = 7!/(7-3)! = 7*6*5 = 210.",
+      "difficulty": 3
+    },
+    {
+      "id": "fmat_048",
+      "text": "A bag contains 4 red and 6 blue balls. One ball is drawn. Find P(red).",
+      "options": [
+        "2/5",
+        "3/5",
+        "4/6",
+        "1/2"
+      ],
+      "correct_index": 0,
+      "explanation": "P(red) = 4/10 = 2/5.",
+      "difficulty": 2
+    },
+    {
+      "id": "fmat_049",
+      "text": "Two dice are rolled. Find the probability that the sum is 7.",
+      "options": [
+        "1/6",
+        "1/12",
+        "7/36",
+        "5/36"
+      ],
+      "correct_index": 0,
+      "explanation": "Favourable outcomes: (1,6)(2,5)(3,4)(4,3)(5,2)(6,1) = 6. P = 6/36 = 1/6.",
+      "difficulty": 2
+    },
+    {
+      "id": "fmat_050",
+      "text": "If P(A) = 0.6 and P(B) = 0.3 and A and B are independent, find P(A intersect B).",
+      "options": [
+        "0.18",
+        "0.9",
+        "0.3",
+        "0.72"
+      ],
+      "correct_index": 0,
+      "explanation": "P(A intersect B) = P(A)*P(B) = 0.6*0.3 = 0.18.",
+      "difficulty": 2
+    },
+    {
+      "id": "fmat_051",
+      "text": "P(A) = 0.5, P(B) = 0.4, P(A intersect B) = 0.2. Find P(A union B).",
+      "options": [
+        "0.7",
+        "0.9",
+        "0.3",
+        "0.6"
+      ],
+      "correct_index": 0,
+      "explanation": "P(A union B) = P(A) + P(B) - P(A intersect B) = 0.5 + 0.4 - 0.2 = 0.7.",
+      "difficulty": 2
+    },
+    {
+      "id": "fmat_052",
+      "text": "P(A) = 0.3, P(B) = 0.5, P(B|A) = 0.6. Find P(A intersect B).",
+      "options": [
+        "0.18",
+        "0.15",
+        "0.3",
+        "0.30"
+      ],
+      "correct_index": 0,
+      "explanation": "P(A intersect B) = P(B|A)*P(A) = 0.6*0.3 = 0.18.",
+      "difficulty": 2
+    },
+    {
+      "id": "fmat_053",
+      "text": "P(A intersect B) = 0.12, P(A) = 0.4. Find P(B|A).",
+      "options": [
+        "0.3",
+        "0.48",
+        "0.12",
+        "0.4"
+      ],
+      "correct_index": 0,
+      "explanation": "P(B|A) = P(A intersect B)/P(A) = 0.12/0.4 = 0.3.",
+      "difficulty": 2
+    },
+    {
+      "id": "fmat_054",
+      "text": "A coin is tossed 3 times. Find the probability of getting exactly 2 heads.",
+      "options": [
+        "3/8",
+        "1/4",
+        "1/2",
+        "1/8"
+      ],
+      "correct_index": 0,
+      "explanation": "P(X=2) = C(3,2)*(1/2)^2*(1/2)^1 = 3/8.",
+      "difficulty": 2
+    },
+    {
+      "id": "fmat_055",
+      "text": "Find the value of the following expression: the mean of 4, 8, 6, 10, 12..",
+      "options": [
+        "8",
+        "10",
+        "6",
+        "9"
+      ],
+      "correct_index": 0,
+      "explanation": "Mean = (4+8+6+10+12)/5 = 40/5 = 8.",
+      "difficulty": 2
+    },
+    {
+      "id": "fmat_056",
+      "text": "Find the value of the following expression: the median of 3, 7, 1, 9, 5..",
+      "options": [
+        "5",
+        "7",
+        "3",
+        "4"
+      ],
+      "correct_index": 0,
+      "explanation": "Ordered: 1, 3, 5, 7, 9. Median = 5.",
+      "difficulty": 2
+    },
+    {
+      "id": "fmat_057",
+      "text": "Find the mode of 2, 5, 3, 5, 7, 5, 8.",
+      "options": [
+        "5",
+        "3",
+        "7",
+        "2"
+      ],
+      "correct_index": 0,
+      "explanation": "5 appears most frequently (3 times).",
       "difficulty": 1
     },
     {
       "id": "fmat_058",
-      "text": "What is the range of values that any probability can take? (variant 58)",
+      "text": "Find the variance of 2, 4, 6, 8, 10.",
       "options": [
-        "-1 and 1",
-        "0 and 10",
-        "0 and 1",
-        "0 and 2"
+        "8",
+        "6",
+        "10",
+        "4"
       ],
-      "correct_index": 2,
-      "explanation": "0 and 1.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Mean = 6. Variance = [(2-6)^2 + (4-6)^2 + (6-6)^2 + (8-6)^2 + (10-6)^2]/5 = (16+4+0+4+16)/5 = 40/5 = 8.",
+      "difficulty": 2
     },
     {
       "id": "fmat_059",
-      "text": "In how many different ways can 3 books be arranged on a shelf? (variant 59)",
+      "text": "The standard deviation of a set of data is 4. What is the variance?",
       "options": [
-        "2",
-        "6",
-        "3",
-        "9"
+        "16",
+        "8",
+        "4",
+        "2"
       ],
-      "correct_index": 1,
-      "explanation": "6.",
+      "correct_index": 0,
+      "explanation": "Variance = (standard deviation)^2 = 4^2 = 16.",
       "difficulty": 1
     },
     {
       "id": "fmat_060",
-      "text": "In Newton's second law F = ma, what does F represent? (variant 60)",
+      "text": "Find Q1 of the data set: 2, 4, 6, 8, 10, 12.",
       "options": [
-        "Force",
-        "Energy",
-        "Power",
-        "No force"
+        "4",
+        "3",
+        "6",
+        "5"
       ],
       "correct_index": 0,
-      "explanation": "Force.",
-      "difficulty": 1
+      "explanation": "Lower half: 2, 4, 6. Q1 = median of lower half = 4.",
+      "difficulty": 2
     },
     {
       "id": "fmat_061",
-      "text": "What is the complement of the set A={1,2,3} in the universal set U={1,2,3,4,5}? (variant 61)",
+      "text": "If the mean is 50 and the standard deviation is 10, what is the z-score of 70?",
       "options": [
-        "{1,2,3}",
-        "{1-5}",
-        "{}",
-        "{4,5}"
+        "2",
+        "7",
+        "0.5",
+        "-2"
       ],
-      "correct_index": 3,
-      "explanation": "{4,5}.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "z = (70-50)/10 = 2.",
+      "difficulty": 2
     },
     {
       "id": "fmat_062",
-      "text": "How many subsets does the set {a,b,c} have? (variant 62)",
+      "text": "Find the magnitude of vector (3, 4).",
       "options": [
-        "6",
-        "9",
-        "8",
-        "3"
+        "5",
+        "7",
+        "25",
+        "12"
       ],
-      "correct_index": 2,
-      "explanation": "2^3=8.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "|v| = sqrt(3^2 + 4^2) = sqrt(25) = 5.",
+      "difficulty": 2
     },
     {
       "id": "fmat_063",
-      "text": "What is the decimal equivalent of the binary number 1011₂? (variant 63)",
+      "text": "Find the dot product of vectors (2, 3) and (4, 1).",
       "options": [
-        "13",
         "11",
+        "8",
         "10",
-        "12"
+        "14"
       ],
-      "correct_index": 1,
-      "explanation": "11.",
+      "correct_index": 0,
+      "explanation": "a.b = 2*4 + 3*1 = 8 + 3 = 11.",
       "difficulty": 1
     },
     {
       "id": "fmat_064",
-      "text": "Simplify the surd √12 to its simplest form. (variant 64)",
+      "text": "If a = (1, 0) and b = (0, 1), find a + b.",
       "options": [
-        "2√3",
-        "3√2",
-        "4√3",
-        "√6"
+        "(1, 1)",
+        "(1, -1)",
+        "(0, 1)",
+        "(-1, 1)"
       ],
       "correct_index": 0,
-      "explanation": "2√3.",
-      "difficulty": 1
+      "explanation": "a + b = (1+0, 0+1) = (1, 1).",
+      "difficulty": 2
     },
     {
       "id": "fmat_065",
-      "text": "What is the modulus (absolute value) of the complex number 3+4i? (variant 65)",
+      "text": "Find the unit vector in the direction of (3, 4).",
       "options": [
-        "7",
-        "1",
-        "12",
-        "5"
+        "(3/5, 4/5)",
+        "(4/5, 3/5)",
+        "(3, 4)",
+        "(1/3, 1/4)"
       ],
-      "correct_index": 3,
-      "explanation": "5.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Unit vector = (3,4)/|(3,4)| = (3/5, 4/5).",
+      "difficulty": 2
     },
     {
       "id": "fmat_066",
-      "text": "What is the value of i² in complex number arithmetic? (variant 66)",
+      "text": "Two forces 3 N and 4 N act at right angles. Find the resultant.",
       "options": [
-        "0",
-        "i",
-        "-1",
-        "1"
+        "5 N",
+        "7 N",
+        "1 N",
+        "12 N"
       ],
-      "correct_index": 2,
-      "explanation": "-1.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Resultant = sqrt(3^2 + 4^2) = 5 N.",
+      "difficulty": 3
     },
     {
       "id": "fmat_067",
-      "text": "What are the roots of the quadratic equation x²-5x+6=0? (variant 67)",
+      "text": "What is the value of sin(30 degrees)?",
       "options": [
-        "2 -3",
-        "2 and 3",
-        "1 and 6",
-        "-2 -3"
+        "1/2",
+        "sqrt(3)/2",
+        "1",
+        "sqrt(2)/2"
       ],
-      "correct_index": 1,
-      "explanation": "2 and 3.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "sin(30) = 1/2.",
+      "difficulty": 2
     },
     {
       "id": "fmat_068",
-      "text": "What is the formula for the discriminant of a quadratic equation? (variant 68)",
+      "text": "What is the value of cos(60 degrees)?",
       "options": [
-        "b²-4ac",
-        "b²+4ac",
-        "b²-ac",
-        "4ac-b²"
+        "1/2",
+        "sqrt(3)/2",
+        "0",
+        "1"
       ],
       "correct_index": 0,
-      "explanation": "b²-4ac.",
-      "difficulty": 1
+      "explanation": "cos(60) = 1/2.",
+      "difficulty": 2
     },
     {
       "id": "fmat_069",
-      "text": "In an arithmetic progression, if the nth term is given by Tn=3n+2, what is the first term when n=1? (variant 69)",
+      "text": "What is the value of tan(45 degrees)?",
       "options": [
-        "2",
-        "3",
-        "8",
-        "5"
+        "1",
+        "sqrt(3)",
+        "0",
+        "1/2"
       ],
-      "correct_index": 3,
-      "explanation": "5.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "tan(45) = 1.",
+      "difficulty": 2
     },
     {
       "id": "fmat_070",
-      "text": "In a geometric progression, the first term is 2 and the common ratio is 3. What is the second term? (variant 70)",
+      "text": "Simplify the following mathematical expression: sin^2(x) + cos^2(x)..",
       "options": [
-        "3",
-        "9",
-        "6",
-        "2"
+        "1",
+        "0",
+        "2",
+        "sin(x)cos(x)"
       ],
-      "correct_index": 2,
-      "explanation": "6.",
+      "correct_index": 0,
+      "explanation": "By Pythagorean identity, sin^2(x) + cos^2(x) = 1.",
       "difficulty": 1
     },
     {
       "id": "fmat_071",
-      "text": "What is the determinant of the 2×2 matrix [[1,2],[3,4]]? (variant 71)",
+      "text": "Expand the following trigonometric expression: sin(2x)..",
       "options": [
-        "0",
-        "-2",
-        "2",
-        "10"
+        "2sin(x)cos(x)",
+        "cos^2(x) - sin^2(x)",
+        "2sin(x)",
+        "sin(x) + cos(x)"
       ],
-      "correct_index": 1,
-      "explanation": "-2.",
+      "correct_index": 0,
+      "explanation": "sin(2x) = 2sin(x)cos(x).",
       "difficulty": 1
     },
     {
       "id": "fmat_072",
-      "text": "What is the distance between the points (0,0) and (3,4)? (variant 72)",
+      "text": "Expand the trigonometric expression cos(A - B) using its identity.",
       "options": [
-        "5",
-        "7",
-        "1",
-        "12"
+        "cosAcosB + sinAsinB",
+        "cosAcosB - sinAsinB",
+        "sinAcosB + cosAsinB",
+        "cosAsinB - sinAcosB"
       ],
       "correct_index": 0,
-      "explanation": "5.",
+      "explanation": "cos(A-B) = cosAcosB + sinAsinB.",
       "difficulty": 1
     },
     {
       "id": "fmat_073",
-      "text": "What is the value of sin 30 degrees? (variant 73)",
+      "text": "What is the value of sin(150 degrees)?",
       "options": [
-        "√3/2",
-        "1",
-        "0",
-        "1/2"
+        "1/2",
+        "-1/2",
+        "sqrt(3)/2",
+        "-sqrt(3)/2"
       ],
-      "correct_index": 3,
-      "explanation": "1/2.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "sin(150) = sin(180-30) = sin(30) = 1/2.",
+      "difficulty": 2
     },
     {
       "id": "fmat_074",
-      "text": "What is the value of the trigonometric identity sin²θ + cos²θ? (variant 74)",
+      "text": "What is the value of cos(120 degrees)?",
       "options": [
-        "2",
-        "sin2θ",
-        "1",
-        "0"
+        "-1/2",
+        "1/2",
+        "sqrt(3)/2",
+        "-sqrt(3)/2"
       ],
-      "correct_index": 2,
-      "explanation": "1.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "cos(120) = cos(180-60) = -cos(60) = -1/2.",
+      "difficulty": 2
     },
     {
       "id": "fmat_075",
-      "text": "If y = x³, what is the derivative dy/dx? (variant 75)",
+      "text": "Find the value of the following expression: the period of sin(3x)..",
       "options": [
-        "x³",
-        "3x²",
-        "x²",
-        "3x"
+        "2pi/3",
+        "2pi",
+        "3pi",
+        "pi/3"
       ],
-      "correct_index": 1,
-      "explanation": "3x².",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Period = 2pi/3.",
+      "difficulty": 3
     },
     {
       "id": "fmat_076",
-      "text": "What is the integral of x² with respect to x? (variant 76)",
+      "text": "Convert the following angle 180 degrees to radians. and give the correct result.",
       "options": [
-        "x³/3+C",
-        "x³+C",
-        "2x+C",
-        "x²+C"
+        "pi",
+        "pi/2",
+        "2pi",
+        "180pi"
       ],
       "correct_index": 0,
-      "explanation": "x³/3+C.",
+      "explanation": "180 degrees = pi radians.",
       "difficulty": 1
     },
     {
       "id": "fmat_077",
-      "text": "What is the arithmetic mean of the numbers 2, 4, and 6? (variant 77)",
+      "text": "In triangle ABC, angle A = 30, angle B = 60, side a = 5. Find side b.",
       "options": [
-        "6",
-        "3",
-        "12",
-        "4"
+        "5sqrt(3)",
+        "10",
+        "5",
+        "25"
       ],
-      "correct_index": 3,
-      "explanation": "4.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "By sine rule: b/sinB = a/sinA, b = 5*sin60/sin30 = 5*(sqrt3/2)/(1/2) = 5sqrt(3).",
+      "difficulty": 3
     },
     {
       "id": "fmat_078",
-      "text": "What is the range of values that any probability can take? (variant 78)",
+      "text": "In a right triangle, the hypotenuse is 10 and one angle is 30 degrees. Find the side opposite the 30 degree angle.",
       "options": [
-        "-1 and 1",
-        "0 and 10",
-        "0 and 1",
-        "0 and 2"
+        "5",
+        "10sqrt(3)/2",
+        "10",
+        "5sqrt(3)"
       ],
-      "correct_index": 2,
-      "explanation": "0 and 1.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Opposite = 10*sin(30) = 10*(1/2) = 5.",
+      "difficulty": 3
     },
     {
       "id": "fmat_079",
-      "text": "In how many different ways can 3 books be arranged on a shelf? (variant 79)",
+      "text": "Write 3sin(x) + 4cos(x) in the form Rsin(x + alpha). Find R.",
       "options": [
-        "2",
-        "6",
-        "3",
-        "9"
+        "5",
+        "7",
+        "12",
+        "3"
       ],
-      "correct_index": 1,
-      "explanation": "6.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "R = sqrt(3^2 + 4^2) = 5.",
+      "difficulty": 3
     },
     {
       "id": "fmat_080",
-      "text": "In Newton's second law F = ma, what does F represent? (variant 80)",
+      "text": "Find the value of the following expression: the value of sin(pi/6)..",
       "options": [
-        "Force",
-        "Energy",
-        "Power",
-        "No force"
+        "1/2",
+        "sqrt(3)/2",
+        "1",
+        "0"
       ],
       "correct_index": 0,
-      "explanation": "Force.",
+      "explanation": "sin(pi/6) = 1/2.",
       "difficulty": 1
     },
     {
       "id": "fmat_081",
-      "text": "What is the complement of the set A={1,2,3} in the universal set U={1,2,3,4,5}? (variant 81)",
+      "text": "Find the value of the following expression: dy/dx if y = x^5..",
       "options": [
-        "{1,2,3}",
-        "{1-5}",
-        "{}",
-        "{4,5}"
+        "5x^4",
+        "4x^5",
+        "5x^5",
+        "x^4"
       ],
-      "correct_index": 3,
-      "explanation": "{4,5}.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "dy/dx = 5x^4.",
+      "difficulty": 2
     },
     {
       "id": "fmat_082",
-      "text": "How many subsets does the set {a,b,c} have? (variant 82)",
+      "text": "Find the derivative of the function f(x) = 3x^2 + 2x - 7..",
       "options": [
-        "6",
-        "9",
-        "8",
-        "3"
+        "6x + 2",
+        "6x - 7",
+        "3x + 2",
+        "6x^2 + 2"
       ],
-      "correct_index": 2,
-      "explanation": "2^3=8.",
+      "correct_index": 0,
+      "explanation": "f'(x) = 6x + 2.",
       "difficulty": 1
     },
     {
       "id": "fmat_083",
-      "text": "What is the decimal equivalent of the binary number 1011₂? (variant 83)",
+      "text": "Find the value of the following expression: the derivative of sin(x)..",
       "options": [
-        "13",
-        "11",
-        "10",
-        "12"
+        "cos(x)",
+        "-cos(x)",
+        "sin(x)",
+        "-sin(x)"
       ],
-      "correct_index": 1,
-      "explanation": "11.",
+      "correct_index": 0,
+      "explanation": "d/dx[sin(x)] = cos(x).",
       "difficulty": 1
     },
     {
       "id": "fmat_084",
-      "text": "Simplify the surd √12 to its simplest form. (variant 84)",
+      "text": "Find the value of the following expression: the derivative of e^(3x)..",
       "options": [
-        "2√3",
-        "3√2",
-        "4√3",
-        "√6"
+        "3e^(3x)",
+        "e^(3x)",
+        "3xe^(3x)",
+        "e^(3x)/3"
       ],
       "correct_index": 0,
-      "explanation": "2√3.",
-      "difficulty": 1
+      "explanation": "d/dx[e^(3x)] = 3e^(3x).",
+      "difficulty": 2
     },
     {
       "id": "fmat_085",
-      "text": "What is the modulus (absolute value) of the complex number 3+4i? (variant 85)",
+      "text": "Find the value of the following expression: the derivative of ln(2x)..",
       "options": [
-        "7",
-        "1",
-        "12",
-        "5"
+        "1/x",
+        "1/(2x)",
+        "2/x",
+        "ln(2)"
       ],
-      "correct_index": 3,
-      "explanation": "5.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "d/dx[ln(2x)] = 1/(2x)*2 = 1/x.",
+      "difficulty": 2
     },
     {
       "id": "fmat_086",
-      "text": "What is the value of i² in complex number arithmetic? (variant 86)",
+      "text": "Find the value of the following expression: dy/dx if y = x^2 * sin(x)..",
       "options": [
-        "0",
-        "i",
-        "-1",
-        "1"
+        "2x*sin(x) + x^2*cos(x)",
+        "2x*cos(x)",
+        "x^2*cos(x)",
+        "2x*sin(x)"
       ],
-      "correct_index": 2,
-      "explanation": "-1.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Product rule: dy/dx = 2x*sin(x) + x^2*cos(x).",
+      "difficulty": 2
     },
     {
       "id": "fmat_087",
-      "text": "What are the roots of the quadratic equation x²-5x+6=0? (variant 87)",
+      "text": "Find the value of the following expression: dy/dx if y = (x^2 + 1)/x..",
       "options": [
-        "2 -3",
-        "2 and 3",
-        "1 and 6",
-        "-2 -3"
+        "1 - 1/x^2",
+        "1 + 1/x^2",
+        "2x",
+        "2 - 1/x^2"
       ],
-      "correct_index": 1,
-      "explanation": "2 and 3.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "y = x + 1/x, dy/dx = 1 - 1/x^2.",
+      "difficulty": 2
     },
     {
       "id": "fmat_088",
-      "text": "What is the formula for the discriminant of a quadratic equation? (variant 88)",
+      "text": "Find the value of the following expression: dy/dx if y = (3x + 1)^4..",
       "options": [
-        "b²-4ac",
-        "b²+4ac",
-        "b²-ac",
-        "4ac-b²"
+        "12(3x+1)^3",
+        "4(3x+1)^3",
+        "12(3x+1)^4",
+        "3(3x+1)^3"
       ],
       "correct_index": 0,
-      "explanation": "b²-4ac.",
-      "difficulty": 1
+      "explanation": "Chain rule: dy/dx = 4(3x+1)^3 * 3 = 12(3x+1)^3.",
+      "difficulty": 2
     },
     {
       "id": "fmat_089",
-      "text": "In an arithmetic progression, if the nth term is given by Tn=3n+2, what is the first term when n=1? (variant 89)",
+      "text": "Find the second derivative of y = x^4.",
       "options": [
-        "2",
-        "3",
-        "8",
-        "5"
+        "12x^2",
+        "4x^3",
+        "12x^3",
+        "4x^2"
       ],
-      "correct_index": 3,
-      "explanation": "5.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "y' = 4x^3, y'' = 12x^2.",
+      "difficulty": 2
     },
     {
       "id": "fmat_090",
-      "text": "In a geometric progression, the first term is 2 and the common ratio is 3. What is the second term? (variant 90)",
+      "text": "Find the stationary point of y = -x^2 + 4x + 1.",
       "options": [
-        "3",
-        "9",
-        "6",
-        "2"
+        "(2, 5)",
+        "(4, 1)",
+        "(-2, 5)",
+        "(2, -3)"
       ],
-      "correct_index": 2,
-      "explanation": "6.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "y' = -2x + 4 = 0, x = 2. y(2) = -4 + 8 + 1 = 5.",
+      "difficulty": 2
     },
     {
       "id": "fmat_091",
-      "text": "What is the determinant of the 2×2 matrix [[1,2],[3,4]]? (variant 91)",
+      "text": "The radius of a circle increases at 2 cm/s. Find the rate of change of area when r = 5 cm.",
       "options": [
-        "0",
-        "-2",
-        "2",
-        "10"
+        "20pi cm^2/s",
+        "10pi cm^2/s",
+        "25pi cm^2/s",
+        "50pi cm^2/s"
       ],
-      "correct_index": 1,
-      "explanation": "-2.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "A = pi*r^2, dA/dt = 2pi*r*dr/dt = 2pi*5*2 = 20pi.",
+      "difficulty": 3
     },
     {
       "id": "fmat_092",
-      "text": "What is the distance between the points (0,0) and (3,4)? (variant 92)",
+      "text": "A particle has displacement s = t^3 - 6t^2 + 9t. Find the velocity at t = 2.",
       "options": [
-        "5",
-        "7",
-        "1",
-        "12"
+        "-3",
+        "3",
+        "0",
+        "9"
       ],
       "correct_index": 0,
-      "explanation": "5.",
-      "difficulty": 1
+      "explanation": "v = ds/dt = 3t^2 - 12t + 9. v(2) = 12 - 24 + 9 = -3.",
+      "difficulty": 3
     },
     {
       "id": "fmat_093",
-      "text": "What is the value of sin 30 degrees? (variant 93)",
+      "text": "A cube's side increases at 3 cm/s. Find the rate of change of volume when side = 4 cm.",
       "options": [
-        "√3/2",
-        "1",
-        "0",
-        "1/2"
+        "144 cm^3/s",
+        "48 cm^3/s",
+        "192 cm^3/s",
+        "216 cm^3/s"
       ],
-      "correct_index": 3,
-      "explanation": "1/2.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "V = s^3, dV/dt = 3s^2*ds/dt = 3*16*3 = 144.",
+      "difficulty": 3
     },
     {
       "id": "fmat_094",
-      "text": "What is the value of the trigonometric identity sin²θ + cos²θ? (variant 94)",
+      "text": "Find the indefinite integral of the following expression: 4x^3 dx..",
       "options": [
-        "2",
-        "sin2θ",
-        "1",
-        "0"
+        "x^4 + C",
+        "4x^4 + C",
+        "x^4/4 + C",
+        "12x^2 + C"
       ],
-      "correct_index": 2,
-      "explanation": "1.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Integral of 4x^3 = x^4 + C.",
+      "difficulty": 2
     },
     {
       "id": "fmat_095",
-      "text": "If y = x³, what is the derivative dy/dx? (variant 95)",
+      "text": "Find the value of the following expression: the integral of (2x + 3) dx..",
       "options": [
-        "x³",
-        "3x²",
-        "x²",
-        "3x"
+        "x^2 + 3x + C",
+        "2x^2 + 3x + C",
+        "x^2 + 3 + C",
+        "2x + 3x + C"
       ],
-      "correct_index": 1,
-      "explanation": "3x².",
+      "correct_index": 0,
+      "explanation": "Integral = x^2 + 3x + C.",
       "difficulty": 1
     },
     {
       "id": "fmat_096",
-      "text": "What is the integral of x² with respect to x? (variant 96)",
+      "text": "Evaluate the integral from 0 to 3 of 2x dx.",
       "options": [
-        "x³/3+C",
-        "x³+C",
-        "2x+C",
-        "x²+C"
+        "9",
+        "6",
+        "12",
+        "3"
       ],
       "correct_index": 0,
-      "explanation": "x³/3+C.",
-      "difficulty": 1
+      "explanation": "[x^2] from 0 to 3 = 9 - 0 = 9.",
+      "difficulty": 2
     },
     {
       "id": "fmat_097",
-      "text": "What is the arithmetic mean of the numbers 2, 4, and 6? (variant 97)",
+      "text": "Evaluate the integral from 1 to 2 of (x^2 + 1) dx.",
       "options": [
-        "6",
-        "3",
-        "12",
-        "4"
+        "10/3",
+        "4",
+        "8/3",
+        "5"
       ],
-      "correct_index": 3,
-      "explanation": "4.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "[x^3/3 + x] from 1 to 2 = (8/3 + 2) - (1/3 + 1) = 14/3 - 4/3 = 10/3.",
+      "difficulty": 2
     },
     {
       "id": "fmat_098",
-      "text": "What is the range of values that any probability can take? (variant 98)",
+      "text": "Find the value of the following expression: the integral of e^(2x) dx..",
       "options": [
-        "-1 and 1",
-        "0 and 10",
-        "0 and 1",
-        "0 and 2"
+        "e^(2x)/2 + C",
+        "2e^(2x) + C",
+        "e^(2x) + C",
+        "e^(x^2) + C"
       ],
-      "correct_index": 2,
-      "explanation": "0 and 1.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Integral of e^(2x) = e^(2x)/2 + C.",
+      "difficulty": 2
     },
     {
       "id": "fmat_099",
-      "text": "In how many different ways can 3 books be arranged on a shelf? (variant 99)",
+      "text": "Find the value of the following expression: the integral of cos(x) dx..",
       "options": [
-        "2",
-        "6",
-        "3",
-        "9"
+        "sin(x) + C",
+        "-sin(x) + C",
+        "cos(x) + C",
+        "-cos(x) + C"
       ],
-      "correct_index": 1,
-      "explanation": "6.",
+      "correct_index": 0,
+      "explanation": "Integral of cos(x) = sin(x) + C.",
       "difficulty": 1
     },
     {
       "id": "fmat_100",
-      "text": "In Newton's second law F = ma, what does F represent? (variant 100)",
+      "text": "Find the value of the following expression: the integral of 1/x dx..",
       "options": [
-        "Force",
-        "Energy",
-        "Power",
-        "No force"
+        "ln|x| + C",
+        "1/x^2 + C",
+        "x + C",
+        "ln(x^2) + C"
       ],
       "correct_index": 0,
-      "explanation": "Force.",
+      "explanation": "Integral of 1/x = ln|x| + C.",
       "difficulty": 1
     },
     {
       "id": "fmat_101",
-      "text": "What is the complement of the set A={1,2,3} in the universal set U={1,2,3,4,5}? (variant 101)",
+      "text": "Evaluate the integral from 0 to pi of sin(x) dx.",
       "options": [
-        "{1,2,3}",
-        "{1-5}",
-        "{}",
-        "{4,5}"
+        "2",
+        "0",
+        "1",
+        "-2"
       ],
-      "correct_index": 3,
-      "explanation": "{4,5}.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "[-cos(x)] from 0 to pi = -cos(pi) + cos(0) = 1 + 1 = 2.",
+      "difficulty": 2
     },
     {
       "id": "fmat_102",
-      "text": "How many subsets does the set {a,b,c} have? (variant 102)",
+      "text": "Find the area under y = x^2 from x = 0 to x = 3.",
       "options": [
-        "6",
         "9",
-        "8",
-        "3"
+        "27",
+        "3",
+        "6"
       ],
-      "correct_index": 2,
-      "explanation": "2^3=8.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Area = [x^3/3] from 0 to 3 = 27/3 = 9.",
+      "difficulty": 3
     },
     {
       "id": "fmat_103",
-      "text": "What is the decimal equivalent of the binary number 1011₂? (variant 103)",
+      "text": "Find the area bounded by y = x, y = 0, x = 0 and x = 4.",
       "options": [
-        "13",
-        "11",
-        "10",
+        "8",
+        "16",
+        "4",
         "12"
       ],
-      "correct_index": 1,
-      "explanation": "11.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Area = integral from 0 to 4 of x dx = [x^2/2] from 0 to 4 = 8.",
+      "difficulty": 3
     },
     {
       "id": "fmat_104",
-      "text": "Simplify the surd √12 to its simplest form. (variant 104)",
+      "text": "Find |3 + 4i| where i is the imaginary unit.",
       "options": [
-        "2√3",
-        "3√2",
-        "4√3",
-        "√6"
+        "5",
+        "7",
+        "25",
+        "12"
       ],
       "correct_index": 0,
-      "explanation": "2√3.",
+      "explanation": "|3+4i| = sqrt(3^2 + 4^2) = 5.",
       "difficulty": 1
     },
     {
       "id": "fmat_105",
-      "text": "What is the modulus (absolute value) of the complex number 3+4i? (variant 105)",
+      "text": "What is the value or meaning of i^3 in mathematics?",
       "options": [
-        "7",
-        "1",
-        "12",
-        "5"
-      ],
-      "correct_index": 3,
-      "explanation": "5.",
-      "difficulty": 1
-    },
-    {
-      "id": "fmat_106",
-      "text": "What is the value of i² in complex number arithmetic? (variant 106)",
-      "options": [
-        "0",
+        "-i",
         "i",
         "-1",
         "1"
       ],
-      "correct_index": 2,
-      "explanation": "-1.",
+      "correct_index": 0,
+      "explanation": "i^3 = i^2 * i = -1 * i = -i.",
+      "difficulty": 2
+    },
+    {
+      "id": "fmat_106",
+      "text": "Find the value of the following expression: the conjugate of 5 - 2i..",
+      "options": [
+        "5 + 2i",
+        "-5 + 2i",
+        "5 - 2i",
+        "-5 - 2i"
+      ],
+      "correct_index": 0,
+      "explanation": "The conjugate of a - bi is a + bi.",
       "difficulty": 1
     },
     {
       "id": "fmat_107",
-      "text": "What are the roots of the quadratic equation x²-5x+6=0? (variant 107)",
+      "text": "Compute the value of the expression (2 + 3i)(1 - i)..",
       "options": [
-        "2 -3",
-        "2 and 3",
-        "1 and 6",
-        "-2 -3"
+        "5 + i",
+        "2 - 3i",
+        "-1 + 5i",
+        "5 - i"
       ],
-      "correct_index": 1,
-      "explanation": "2 and 3.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "(2+3i)(1-i) = 2 - 2i + 3i - 3i^2 = 2 + i + 3 = 5 + i.",
+      "difficulty": 2
     },
     {
       "id": "fmat_108",
-      "text": "What is the formula for the discriminant of a quadratic equation? (variant 108)",
+      "text": "Find the value of the following expression: the modulus of 1 + i..",
       "options": [
-        "b²-4ac",
-        "b²+4ac",
-        "b²-ac",
-        "4ac-b²"
+        "sqrt(2)",
+        "2",
+        "1",
+        "4"
       ],
       "correct_index": 0,
-      "explanation": "b²-4ac.",
+      "explanation": "|1+i| = sqrt(1^2 + 1^2) = sqrt(2).",
       "difficulty": 1
     },
     {
       "id": "fmat_109",
-      "text": "In an arithmetic progression, if the nth term is given by Tn=3n+2, what is the first term when n=1? (variant 109)",
+      "text": "Find the argument of 1 + i in radians.",
       "options": [
-        "2",
-        "3",
-        "8",
-        "5"
+        "pi/4",
+        "pi/2",
+        "pi/6",
+        "pi/3"
       ],
-      "correct_index": 3,
-      "explanation": "5.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "arg(1+i) = arctan(1/1) = pi/4.",
+      "difficulty": 2
     },
     {
       "id": "fmat_110",
-      "text": "In a geometric progression, the first term is 2 and the common ratio is 3. What is the second term? (variant 110)",
+      "text": "What is the value or meaning of the value of i^4 in mathematics?",
       "options": [
-        "3",
-        "9",
-        "6",
-        "2"
+        "1",
+        "-1",
+        "i",
+        "-i"
       ],
-      "correct_index": 2,
-      "explanation": "6.",
+      "correct_index": 0,
+      "explanation": "i^4 = (i^2)^2 = (-1)^2 = 1.",
       "difficulty": 1
     },
     {
       "id": "fmat_111",
-      "text": "What is the determinant of the 2×2 matrix [[1,2],[3,4]]? (variant 111)",
+      "text": "Solve the quadratic inequality x^2 - 4x + 3 < 0.",
       "options": [
-        "0",
-        "-2",
-        "2",
-        "10"
+        "1 < x < 3",
+        "x < 1 or x > 3",
+        "x < 3",
+        "0 < x < 4"
       ],
-      "correct_index": 1,
-      "explanation": "-2.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "(x-1)(x-3) < 0, so 1 < x < 3.",
+      "difficulty": 3
     },
     {
       "id": "fmat_112",
-      "text": "What is the distance between the points (0,0) and (3,4)? (variant 112)",
+      "text": "Solve the equation 5x + 3 > 2x + 12. and give the exact value.",
       "options": [
-        "5",
-        "7",
-        "1",
-        "12"
+        "x > 3",
+        "x < 3",
+        "x > 5",
+        "x > -3"
       ],
       "correct_index": 0,
-      "explanation": "5.",
+      "explanation": "3x > 9, x > 3.",
       "difficulty": 1
     },
     {
       "id": "fmat_113",
-      "text": "What is the value of sin 30 degrees? (variant 113)",
+      "text": "Find the sum of the first 20 terms of the AP: 5, 8, 11, ...",
       "options": [
-        "√3/2",
-        "1",
-        "0",
-        "1/2"
+        "670",
+        "620",
+        "650",
+        "700"
       ],
-      "correct_index": 3,
-      "explanation": "1/2.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "S_20 = (20/2)(2*5 + 19*3) = 10*(10+57) = 10*67 = 670.",
+      "difficulty": 3
     },
     {
       "id": "fmat_114",
-      "text": "What is the value of the trigonometric identity sin²θ + cos²θ? (variant 114)",
+      "text": "In a GP, the first term is 3 and the common ratio is 2. Find the 6th term.",
       "options": [
-        "2",
-        "sin2θ",
-        "1",
-        "0"
+        "96",
+        "48",
+        "192",
+        "32"
       ],
-      "correct_index": 2,
-      "explanation": "1.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "T_6 = 3 * 2^5 = 3 * 32 = 96.",
+      "difficulty": 2
     },
     {
       "id": "fmat_115",
-      "text": "If y = x³, what is the derivative dy/dx? (variant 115)",
+      "text": "The 2nd term of a GP is 10 and the 4th term is 40. Find the common ratio.",
       "options": [
-        "x³",
-        "3x²",
-        "x²",
-        "3x"
+        "2",
+        "4",
+        "sqrt(2)",
+        "10"
       ],
-      "correct_index": 1,
-      "explanation": "3x².",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "T_4/T_2 = r^2 = 40/10 = 4, r = 2.",
+      "difficulty": 3
     },
     {
       "id": "fmat_116",
-      "text": "What is the integral of x² with respect to x? (variant 116)",
+      "text": "Find the sum to infinity of the GP: 16, 8, 4, ...",
       "options": [
-        "x³/3+C",
-        "x³+C",
-        "2x+C",
-        "x²+C"
+        "32",
+        "64",
+        "24",
+        "48"
       ],
       "correct_index": 0,
-      "explanation": "x³/3+C.",
-      "difficulty": 1
+      "explanation": "S = a/(1-r) = 16/(1-1/2) = 16/(1/2) = 32.",
+      "difficulty": 2
     },
     {
       "id": "fmat_117",
-      "text": "What is the arithmetic mean of the numbers 2, 4, and 6? (variant 117)",
+      "text": "Find the 3rd term in the expansion of (x + 1)^6.",
       "options": [
-        "6",
-        "3",
-        "12",
-        "4"
+        "15x^4",
+        "6x^5",
+        "20x^4",
+        "15x^2"
       ],
-      "correct_index": 3,
-      "explanation": "4.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "T_3 = C(6,2)*x^4*1^2 = 15x^4.",
+      "difficulty": 3
     },
     {
       "id": "fmat_118",
-      "text": "What is the range of values that any probability can take? (variant 118)",
+      "text": "Find the value of the following expression: C(6,2)..",
       "options": [
-        "-1 and 1",
-        "0 and 10",
-        "0 and 1",
-        "0 and 2"
+        "15",
+        "12",
+        "30",
+        "36"
       ],
-      "correct_index": 2,
-      "explanation": "0 and 1.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "C(6,2) = 6!/(2!*4!) = 15.",
+      "difficulty": 3
     },
     {
       "id": "fmat_119",
-      "text": "In how many different ways can 3 books be arranged on a shelf? (variant 119)",
+      "text": "Find the determinant of [[4, -1],[2, 3]].",
       "options": [
-        "2",
-        "6",
-        "3",
-        "9"
+        "14",
+        "10",
+        "-10",
+        "-14"
       ],
-      "correct_index": 1,
-      "explanation": "6.",
+      "correct_index": 0,
+      "explanation": "det = 4*3 - (-1)*2 = 12 + 2 = 14.",
       "difficulty": 1
     },
     {
       "id": "fmat_120",
-      "text": "In Newton's second law F = ma, what does F represent? (variant 120)",
+      "text": "If A = [[1, 2],[3, 4]], find the transpose of A.",
       "options": [
-        "Force",
-        "Energy",
-        "Power",
-        "No force"
+        "[[1, 3],[2, 4]]",
+        "[[2, 1],[4, 3]]",
+        "[[4, 3],[2, 1]]",
+        "[[1, 2],[3, 4]]"
       ],
       "correct_index": 0,
-      "explanation": "Force.",
+      "explanation": "Transpose swaps rows and columns: [[1,3],[2,4]].",
       "difficulty": 1
     },
     {
       "id": "fmat_121",
-      "text": "What is the complement of the set A={1,2,3} in the universal set U={1,2,3,4,5}? (variant 121)",
+      "text": "Solve the system: 2x + y = 5, x - y = 1.",
       "options": [
-        "{1,2,3}",
-        "{1-5}",
-        "{}",
-        "{4,5}"
+        "x = 2, y = 1",
+        "x = 1, y = 3",
+        "x = 3, y = -1",
+        "x = 2, y = -1"
       ],
-      "correct_index": 3,
-      "explanation": "{4,5}.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Adding: 3x = 6, x = 2. Then y = 1.",
+      "difficulty": 2
     },
     {
       "id": "fmat_122",
-      "text": "How many subsets does the set {a,b,c} have? (variant 122)",
+      "text": "If the matrix [[a, 2],[3, 6]] is singular, find a.",
       "options": [
-        "6",
-        "9",
-        "8",
-        "3"
+        "1",
+        "2",
+        "3",
+        "6"
       ],
-      "correct_index": 2,
-      "explanation": "2^3=8.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "det = 0: 6a - 6 = 0, a = 1.",
+      "difficulty": 3
     },
     {
       "id": "fmat_123",
-      "text": "What is the decimal equivalent of the binary number 1011₂? (variant 123)",
+      "text": "If f(x) = x^2 + 1 and g(x) = x - 3, find g(f(2)).",
       "options": [
-        "13",
-        "11",
-        "10",
-        "12"
+        "2",
+        "5",
+        "-2",
+        "0"
       ],
-      "correct_index": 1,
-      "explanation": "11.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "f(2) = 5, g(5) = 5 - 3 = 2.",
+      "difficulty": 2
     },
     {
       "id": "fmat_124",
-      "text": "Simplify the surd √12 to its simplest form. (variant 124)",
+      "text": "Find the value of the following expression: the inverse of f(x) = 3x - 6..",
       "options": [
-        "2√3",
-        "3√2",
-        "4√3",
-        "√6"
+        "(x+6)/3",
+        "(x-6)/3",
+        "3x+6",
+        "x/3 + 2"
       ],
       "correct_index": 0,
-      "explanation": "2√3.",
-      "difficulty": 1
+      "explanation": "y = 3x-6, x = 3y-6, y = (x+6)/3.",
+      "difficulty": 2
     },
     {
       "id": "fmat_125",
-      "text": "What is the modulus (absolute value) of the complex number 3+4i? (variant 125)",
+      "text": "Find the gradient of the line 3x + 2y = 12.",
       "options": [
-        "7",
-        "1",
-        "12",
-        "5"
+        "-3/2",
+        "3/2",
+        "2/3",
+        "-2/3"
       ],
-      "correct_index": 3,
-      "explanation": "5.",
+      "correct_index": 0,
+      "explanation": "y = (-3/2)x + 6. Gradient = -3/2.",
       "difficulty": 1
     },
     {
       "id": "fmat_126",
-      "text": "What is the value of i² in complex number arithmetic? (variant 126)",
+      "text": "Find the equation of the line through (1, 2) and (3, 8).",
       "options": [
-        "0",
-        "i",
-        "-1",
-        "1"
+        "y = 3x - 1",
+        "y = 3x + 1",
+        "y = 2x",
+        "y = 3x - 2"
       ],
-      "correct_index": 2,
-      "explanation": "-1.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Gradient = (8-2)/(3-1) = 3. y - 2 = 3(x-1), y = 3x - 1.",
+      "difficulty": 2
     },
     {
       "id": "fmat_127",
-      "text": "What are the roots of the quadratic equation x²-5x+6=0? (variant 127)",
+      "text": "Find the x-intercept of the line y = 2x - 6.",
       "options": [
-        "2 -3",
-        "2 and 3",
-        "1 and 6",
-        "-2 -3"
+        "3",
+        "6",
+        "-3",
+        "2"
       ],
-      "correct_index": 1,
-      "explanation": "2 and 3.",
+      "correct_index": 0,
+      "explanation": "Set y = 0: 0 = 2x - 6, x = 3.",
       "difficulty": 1
     },
     {
       "id": "fmat_128",
-      "text": "What is the formula for the discriminant of a quadratic equation? (variant 128)",
+      "text": "Find the perpendicular distance from (0, 0) to the line 3x + 4y = 25.",
       "options": [
-        "b²-4ac",
-        "b²+4ac",
-        "b²-ac",
-        "4ac-b²"
+        "5",
+        "25",
+        "7",
+        "3"
       ],
       "correct_index": 0,
-      "explanation": "b²-4ac.",
-      "difficulty": 1
+      "explanation": "d = |3(0)+4(0)-25|/sqrt(3^2+4^2) = 25/5 = 5.",
+      "difficulty": 3
     },
     {
       "id": "fmat_129",
-      "text": "In an arithmetic progression, if the nth term is given by Tn=3n+2, what is the first term when n=1? (variant 129)",
+      "text": "Find the equation of a circle with centre (1, -2) and radius 4.",
       "options": [
-        "2",
-        "3",
-        "8",
-        "5"
+        "(x-1)^2 + (y+2)^2 = 16",
+        "(x+1)^2 + (y-2)^2 = 16",
+        "(x-1)^2 + (y-2)^2 = 16",
+        "(x-1)^2 + (y+2)^2 = 4"
       ],
-      "correct_index": 3,
-      "explanation": "5.",
+      "correct_index": 0,
+      "explanation": "(x-1)^2 + (y+2)^2 = 16.",
       "difficulty": 1
     },
     {
       "id": "fmat_130",
-      "text": "In a geometric progression, the first term is 2 and the common ratio is 3. What is the second term? (variant 130)",
+      "text": "How many ways can 5 different flags be arranged on a pole?",
       "options": [
-        "3",
-        "9",
-        "6",
-        "2"
+        "120",
+        "25",
+        "60",
+        "24"
       ],
-      "correct_index": 2,
-      "explanation": "6.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "5! = 120.",
+      "difficulty": 3
     },
     {
       "id": "fmat_131",
-      "text": "What is the determinant of the 2×2 matrix [[1,2],[3,4]]? (variant 131)",
+      "text": "Find the number of ways to choose a committee of 4 from 6 people.",
       "options": [
-        "0",
-        "-2",
-        "2",
-        "10"
+        "15",
+        "30",
+        "360",
+        "24"
       ],
-      "correct_index": 1,
-      "explanation": "-2.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "C(6,4) = 6!/(4!*2!) = 15.",
+      "difficulty": 3
     },
     {
       "id": "fmat_132",
-      "text": "What is the distance between the points (0,0) and (3,4)? (variant 132)",
+      "text": "Find the number of arrangements of the letters in SUCCESS.",
       "options": [
-        "5",
-        "7",
-        "1",
-        "12"
+        "420",
+        "5040",
+        "840",
+        "2520"
       ],
       "correct_index": 0,
-      "explanation": "5.",
-      "difficulty": 1
+      "explanation": "7!/(3!*2!) = 5040/(6*2) = 420.",
+      "difficulty": 3
     },
     {
       "id": "fmat_133",
-      "text": "What is the value of sin 30 degrees? (variant 133)",
+      "text": "In how many ways can 4 boys and 3 girls be seated in a row so that the girls sit together?",
       "options": [
-        "√3/2",
-        "1",
-        "0",
-        "1/2"
+        "720",
+        "5040",
+        "144",
+        "120"
       ],
-      "correct_index": 3,
-      "explanation": "1/2.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Treat 3 girls as one unit: 5 units arranged in 5! = 120. Girls arrange in 3! = 6. Total = 120*6 = 720.",
+      "difficulty": 3
     },
     {
       "id": "fmat_134",
-      "text": "What is the value of the trigonometric identity sin²θ + cos²θ? (variant 134)",
+      "text": "Find the probability of drawing a king from a standard deck of 52 cards.",
       "options": [
-        "2",
-        "sin2θ",
-        "1",
-        "0"
+        "1/13",
+        "4/52",
+        "1/52",
+        "13/52"
       ],
-      "correct_index": 2,
-      "explanation": "1.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "4 kings out of 52 = 4/52 = 1/13.",
+      "difficulty": 3
     },
     {
       "id": "fmat_135",
-      "text": "If y = x³, what is the derivative dy/dx? (variant 135)",
+      "text": "Two cards are drawn from a deck without replacement. Find P(both spades).",
       "options": [
-        "x³",
-        "3x²",
-        "x²",
-        "3x"
+        "1/17",
+        "1/4",
+        "13/52",
+        "1/16"
       ],
-      "correct_index": 1,
-      "explanation": "3x².",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "P = (13/52)*(12/51) = 156/2652 = 1/17.",
+      "difficulty": 3
     },
     {
       "id": "fmat_136",
-      "text": "What is the integral of x² with respect to x? (variant 136)",
+      "text": "A biased coin has P(heads) = 0.6. Find P(2 heads in 3 tosses).",
       "options": [
-        "x³/3+C",
-        "x³+C",
-        "2x+C",
-        "x²+C"
+        "0.432",
+        "0.216",
+        "0.36",
+        "0.648"
       ],
       "correct_index": 0,
-      "explanation": "x³/3+C.",
-      "difficulty": 1
+      "explanation": "P(X=2) = C(3,2)*(0.6)^2*(0.4) = 3*0.36*0.4 = 0.432.",
+      "difficulty": 3
     },
     {
       "id": "fmat_137",
-      "text": "What is the arithmetic mean of the numbers 2, 4, and 6? (variant 137)",
+      "text": "The mean of 5 numbers is 12. If one number is removed, the mean becomes 10. Find the removed number.",
       "options": [
-        "6",
-        "3",
-        "12",
-        "4"
+        "20",
+        "10",
+        "15",
+        "12"
       ],
-      "correct_index": 3,
-      "explanation": "4.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Sum of 5 = 60. Sum of 4 = 40. Removed = 60 - 40 = 20.",
+      "difficulty": 3
     },
     {
       "id": "fmat_138",
-      "text": "What is the range of values that any probability can take? (variant 138)",
+      "text": "Find the median of 12, 3, 7, 15, 9, 1.",
       "options": [
-        "-1 and 1",
-        "0 and 10",
-        "0 and 1",
-        "0 and 2"
+        "8",
+        "7",
+        "9",
+        "6"
       ],
-      "correct_index": 2,
-      "explanation": "0 and 1.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Ordered: 1, 3, 7, 9, 12, 15. Median = (7+9)/2 = 8.",
+      "difficulty": 2
     },
     {
       "id": "fmat_139",
-      "text": "In how many different ways can 3 books be arranged on a shelf? (variant 139)",
+      "text": "Find the interquartile range of 2, 4, 6, 8, 10, 12, 14, 16.",
       "options": [
-        "2",
+        "8",
         "6",
-        "3",
-        "9"
+        "10",
+        "7"
       ],
-      "correct_index": 1,
-      "explanation": "6.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Q1 = 4, Q3 = 12. IQR = 12 - 4 = 8.",
+      "difficulty": 3
     },
     {
       "id": "fmat_140",
-      "text": "In Newton's second law F = ma, what does F represent? (variant 140)",
+      "text": "The mean of a set of numbers is 20 and the standard deviation is 5. What is the coefficient of variation?",
       "options": [
-        "Force",
-        "Energy",
-        "Power",
-        "No force"
+        "25%",
+        "20%",
+        "100%",
+        "5%"
       ],
       "correct_index": 0,
-      "explanation": "Force.",
-      "difficulty": 1
+      "explanation": "CV = (SD/mean)*100 = (5/20)*100 = 25%.",
+      "difficulty": 2
     },
     {
       "id": "fmat_141",
-      "text": "What is the complement of the set A={1,2,3} in the universal set U={1,2,3,4,5}? (variant 141)",
+      "text": "Find the angle between vectors (1, 0) and (0, 1).",
       "options": [
-        "{1,2,3}",
-        "{1-5}",
-        "{}",
-        "{4,5}"
+        "90 degrees",
+        "45 degrees",
+        "0 degrees",
+        "60 degrees"
       ],
-      "correct_index": 3,
-      "explanation": "{4,5}.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "cos(theta) = 0/1 = 0, theta = 90 degrees.",
+      "difficulty": 3
     },
     {
       "id": "fmat_142",
-      "text": "How many subsets does the set {a,b,c} have? (variant 142)",
+      "text": "Find the value of the following expression: 3a if a = (2, -1, 4)..",
       "options": [
-        "6",
-        "9",
-        "8",
-        "3"
+        "(6, -3, 12)",
+        "(2, -1, 4)",
+        "(5, -1, 7)",
+        "(6, 3, 12)"
       ],
-      "correct_index": 2,
-      "explanation": "2^3=8.",
+      "correct_index": 0,
+      "explanation": "3a = (6, -3, 12).",
       "difficulty": 1
     },
     {
       "id": "fmat_143",
-      "text": "What is the decimal equivalent of the binary number 1011₂? (variant 143)",
+      "text": "Find a . b where a = (1, 2, 3) and b = (4, 5, 6).",
       "options": [
-        "13",
-        "11",
-        "10",
-        "12"
+        "32",
+        "20",
+        "14",
+        "26"
       ],
-      "correct_index": 1,
-      "explanation": "11.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "a.b = 4 + 10 + 18 = 32.",
+      "difficulty": 3
     },
     {
       "id": "fmat_144",
-      "text": "Simplify the surd √12 to its simplest form. (variant 144)",
+      "text": "Find the angle between (1, 1) and (1, 0).",
       "options": [
-        "2√3",
-        "3√2",
-        "4√3",
-        "√6"
+        "45 degrees",
+        "30 degrees",
+        "60 degrees",
+        "90 degrees"
       ],
       "correct_index": 0,
-      "explanation": "2√3.",
-      "difficulty": 1
+      "explanation": "cos(theta) = 1/sqrt(2), theta = 45 degrees.",
+      "difficulty": 2
     },
     {
       "id": "fmat_145",
-      "text": "What is the modulus (absolute value) of the complex number 3+4i? (variant 145)",
+      "text": "A particle moves with velocity v = 3t^2 - 2t. Find the acceleration at t = 2.",
       "options": [
-        "7",
-        "1",
+        "10",
+        "8",
         "12",
-        "5"
+        "6"
       ],
-      "correct_index": 3,
-      "explanation": "5.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "a = dv/dt = 6t - 2. a(2) = 12 - 2 = 10.",
+      "difficulty": 2
     },
     {
       "id": "fmat_146",
-      "text": "What is the value of i² in complex number arithmetic? (variant 146)",
+      "text": "A car accelerates from rest at 2 m/s^2. Find its velocity after 5 seconds.",
       "options": [
-        "0",
-        "i",
-        "-1",
-        "1"
+        "10 m/s",
+        "25 m/s",
+        "5 m/s",
+        "7 m/s"
       ],
-      "correct_index": 2,
-      "explanation": "-1.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "v = u + at = 0 + 2*5 = 10 m/s.",
+      "difficulty": 3
     },
     {
       "id": "fmat_147",
-      "text": "What are the roots of the quadratic equation x²-5x+6=0? (variant 147)",
+      "text": "A body of mass 6 kg has a force of 18 N applied. Find the acceleration.",
       "options": [
-        "2 -3",
-        "2 and 3",
-        "1 and 6",
-        "-2 -3"
+        "3 m/s^2",
+        "108 m/s^2",
+        "6 m/s^2",
+        "12 m/s^2"
       ],
-      "correct_index": 1,
-      "explanation": "2 and 3.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "F = ma, a = F/m = 18/6 = 3 m/s^2.",
+      "difficulty": 3
     },
     {
       "id": "fmat_148",
-      "text": "What is the formula for the discriminant of a quadratic equation? (variant 148)",
+      "text": "Find the maximum point of y = 6x - x^2.",
       "options": [
-        "b²-4ac",
-        "b²+4ac",
-        "b²-ac",
-        "4ac-b²"
+        "(3, 9)",
+        "(6, 0)",
+        "(-3, -9)",
+        "(0, 6)"
       ],
       "correct_index": 0,
-      "explanation": "b²-4ac.",
-      "difficulty": 1
+      "explanation": "dy/dx = 6 - 2x = 0, x = 3. y(3) = 18 - 9 = 9.",
+      "difficulty": 2
     },
     {
       "id": "fmat_149",
-      "text": "In an arithmetic progression, if the nth term is given by Tn=3n+2, what is the first term when n=1? (variant 149)",
+      "text": "Find the minimum value of y = x^2 - 8x + 20.",
       "options": [
-        "2",
-        "3",
+        "4",
+        "20",
         "8",
-        "5"
+        "0"
       ],
-      "correct_index": 3,
-      "explanation": "5.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Complete square: y = (x-4)^2 + 4. Min = 4 at x = 4.",
+      "difficulty": 2
     },
     {
       "id": "fmat_150",
-      "text": "In a geometric progression, the first term is 2 and the common ratio is 3. What is the second term? (variant 150)",
+      "text": "A particle's displacement is s = 4t^2 - t^3. Find the velocity when t = 2.",
       "options": [
-        "3",
-        "9",
-        "6",
-        "2"
+        "8",
+        "16",
+        "4",
+        "12"
       ],
       "correct_index": 2,
-      "explanation": "6.",
-      "difficulty": 1
+      "explanation": "v = ds/dt = 8t - 3t^2. v(2) = 16 - 12 = 4.",
+      "difficulty": 3
     },
     {
       "id": "fmat_151",
-      "text": "What is the determinant of the 2×2 matrix [[1,2],[3,4]]? (variant 151)",
+      "text": "Find the derivative of the function y = 1/x..",
       "options": [
-        "0",
-        "-2",
-        "2",
-        "10"
+        "-1/x^2",
+        "1/x^2",
+        "-1/x",
+        "ln(x)"
       ],
-      "correct_index": 1,
-      "explanation": "-2.",
+      "correct_index": 0,
+      "explanation": "y = x^(-1), dy/dx = -x^(-2) = -1/x^2.",
       "difficulty": 1
     },
     {
       "id": "fmat_152",
-      "text": "What is the distance between the points (0,0) and (3,4)? (variant 152)",
+      "text": "Find the value of the following expression: dy/dx if y = tan(x)..",
       "options": [
-        "5",
-        "7",
-        "1",
-        "12"
+        "sec^2(x)",
+        "cos^2(x)",
+        "sin^2(x)",
+        "cosec^2(x)"
       ],
       "correct_index": 0,
-      "explanation": "5.",
+      "explanation": "d/dx[tan(x)] = sec^2(x).",
       "difficulty": 1
     },
     {
       "id": "fmat_153",
-      "text": "What is the value of sin 30 degrees? (variant 153)",
+      "text": "Find the value of the following expression: dy/dx if y = cos(3x)..",
       "options": [
-        "√3/2",
-        "1",
-        "0",
-        "1/2"
+        "-3sin(3x)",
+        "3sin(3x)",
+        "-3cos(3x)",
+        "sin(3x)"
       ],
-      "correct_index": 3,
-      "explanation": "1/2.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Chain rule: dy/dx = -sin(3x)*3 = -3sin(3x).",
+      "difficulty": 2
     },
     {
       "id": "fmat_154",
-      "text": "What is the value of the trigonometric identity sin²θ + cos²θ? (variant 154)",
+      "text": "Find the gradient of y = x^3 - 3x at x = 1.",
       "options": [
-        "2",
-        "sin2θ",
+        "0",
         "1",
-        "0"
+        "-1",
+        "3"
       ],
-      "correct_index": 2,
-      "explanation": "1.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "dy/dx = 3x^2 - 3. At x = 1: 3 - 3 = 0.",
+      "difficulty": 2
     },
     {
       "id": "fmat_155",
-      "text": "If y = x³, what is the derivative dy/dx? (variant 155)",
+      "text": "Find the equation of the tangent to y = x^2 at the point (2, 4).",
       "options": [
-        "x³",
-        "3x²",
-        "x²",
-        "3x"
+        "y = 4x - 4",
+        "y = 4x + 4",
+        "y = 2x",
+        "y = 4x"
       ],
-      "correct_index": 1,
-      "explanation": "3x².",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "dy/dx = 2x, at x=2 slope=4. y - 4 = 4(x-2), y = 4x - 4.",
+      "difficulty": 3
     },
     {
       "id": "fmat_156",
-      "text": "What is the integral of x² with respect to x? (variant 156)",
+      "text": "Find the value of the following expression: the integral of x^4 dx..",
       "options": [
-        "x³/3+C",
-        "x³+C",
-        "2x+C",
-        "x²+C"
+        "x^5/5 + C",
+        "5x^4 + C",
+        "x^4/4 + C",
+        "4x^3 + C"
       ],
       "correct_index": 0,
-      "explanation": "x³/3+C.",
-      "difficulty": 1
+      "explanation": "Integral of x^4 = x^5/5 + C.",
+      "difficulty": 3
     },
     {
       "id": "fmat_157",
-      "text": "What is the arithmetic mean of the numbers 2, 4, and 6? (variant 157)",
+      "text": "Evaluate the integral from 0 to 2 of 3x^2 dx.",
       "options": [
-        "6",
-        "3",
+        "8",
         "12",
+        "6",
         "4"
       ],
-      "correct_index": 3,
-      "explanation": "4.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "[x^3] from 0 to 2 = 8 - 0 = 8.",
+      "difficulty": 2
     },
     {
       "id": "fmat_158",
-      "text": "What is the range of values that any probability can take? (variant 158)",
+      "text": "Find the area under y = 2x + 1 from x = 0 to x = 3.",
       "options": [
-        "-1 and 1",
-        "0 and 10",
-        "0 and 1",
-        "0 and 2"
+        "12",
+        "15",
+        "9",
+        "6"
       ],
-      "correct_index": 2,
-      "explanation": "0 and 1.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "[x^2 + x] from 0 to 3 = 9 + 3 = 12.",
+      "difficulty": 3
     },
     {
       "id": "fmat_159",
-      "text": "In how many different ways can 3 books be arranged on a shelf? (variant 159)",
+      "text": "Find the value of the following expression: the integral of sec^2(x) dx..",
       "options": [
-        "2",
-        "6",
-        "3",
-        "9"
+        "tan(x) + C",
+        "sec(x) + C",
+        "-cot(x) + C",
+        "sin(x) + C"
       ],
-      "correct_index": 1,
-      "explanation": "6.",
+      "correct_index": 0,
+      "explanation": "Integral of sec^2(x) = tan(x) + C.",
       "difficulty": 1
     },
     {
       "id": "fmat_160",
-      "text": "In Newton's second law F = ma, what does F represent? (variant 160)",
+      "text": "Evaluate the integral from -1 to 1 of x^3 dx.",
       "options": [
-        "Force",
-        "Energy",
-        "Power",
-        "No force"
+        "0",
+        "1",
+        "2",
+        "-1"
       ],
       "correct_index": 0,
-      "explanation": "Force.",
-      "difficulty": 1
+      "explanation": "x^3 is an odd function, integral over symmetric interval = 0.",
+      "difficulty": 2
     },
     {
       "id": "fmat_161",
-      "text": "What is the complement of the set A={1,2,3} in the universal set U={1,2,3,4,5}? (variant 161)",
+      "text": "Find the area between y = x^2 and y = x from x = 0 to x = 1.",
       "options": [
-        "{1,2,3}",
-        "{1-5}",
-        "{}",
-        "{4,5}"
+        "1/6",
+        "1/3",
+        "1/2",
+        "1/4"
       ],
-      "correct_index": 3,
-      "explanation": "{4,5}.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Area = integral from 0 to 1 of (x - x^2) dx = [x^2/2 - x^3/3] from 0 to 1 = 1/2 - 1/3 = 1/6.",
+      "difficulty": 3
     },
     {
       "id": "fmat_162",
-      "text": "How many subsets does the set {a,b,c} have? (variant 162)",
+      "text": "Find the value of the following expression: the integral of sin(2x) dx..",
       "options": [
-        "6",
-        "9",
-        "8",
-        "3"
+        "-cos(2x)/2 + C",
+        "cos(2x)/2 + C",
+        "-2cos(2x) + C",
+        "sin(2x)/2 + C"
       ],
-      "correct_index": 2,
-      "explanation": "2^3=8.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Integral of sin(2x) = -cos(2x)/2 + C.",
+      "difficulty": 2
     },
     {
       "id": "fmat_163",
-      "text": "What is the decimal equivalent of the binary number 1011₂? (variant 163)",
+      "text": "What is the value or meaning of the value of (1 + i)^2 in mathematics?",
       "options": [
-        "13",
-        "11",
-        "10",
-        "12"
+        "2i",
+        "2",
+        "-2",
+        "1 + 2i"
       ],
-      "correct_index": 1,
-      "explanation": "11.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "(1+i)^2 = 1 + 2i + i^2 = 1 + 2i - 1 = 2i.",
+      "difficulty": 2
     },
     {
       "id": "fmat_164",
-      "text": "Simplify the surd √12 to its simplest form. (variant 164)",
+      "text": "Find the value of the following expression: z if z = (3 + 4i) + (2 - i)..",
       "options": [
-        "2√3",
-        "3√2",
-        "4√3",
-        "√6"
+        "5 + 3i",
+        "5 + 5i",
+        "1 + 3i",
+        "6 + 3i"
       ],
       "correct_index": 0,
-      "explanation": "2√3.",
+      "explanation": "z = 5 + 3i.",
       "difficulty": 1
     },
     {
       "id": "fmat_165",
-      "text": "What is the modulus (absolute value) of the complex number 3+4i? (variant 165)",
+      "text": "Find the value of the following expression: the modulus of 3 - 4i..",
       "options": [
+        "5",
         "7",
         "1",
-        "12",
-        "5"
+        "25"
       ],
-      "correct_index": 3,
-      "explanation": "5.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "|3-4i| = sqrt(9+16) = 5.",
+      "difficulty": 3
     },
     {
       "id": "fmat_166",
-      "text": "What is the value of i² in complex number arithmetic? (variant 166)",
+      "text": "What is the value or meaning of the value of i^5 in mathematics?",
       "options": [
-        "0",
         "i",
-        "-1",
-        "1"
+        "1",
+        "-i",
+        "-1"
       ],
-      "correct_index": 2,
-      "explanation": "-1.",
+      "correct_index": 0,
+      "explanation": "i^5 = i^4 * i = 1 * i = i.",
       "difficulty": 1
     },
     {
       "id": "fmat_167",
-      "text": "What are the roots of the quadratic equation x²-5x+6=0? (variant 167)",
+      "text": "Solve the equation z^2 + 1 = 0 to find the value of z.",
       "options": [
-        "2 -3",
-        "2 and 3",
-        "1 and 6",
-        "-2 -3"
+        "z = i or z = -i",
+        "z = 1 or z = -1",
+        "z = i",
+        "No solution"
       ],
-      "correct_index": 1,
-      "explanation": "2 and 3.",
+      "correct_index": 0,
+      "explanation": "z^2 = -1, z = +/- i.",
       "difficulty": 1
     },
     {
       "id": "fmat_168",
-      "text": "What is the formula for the discriminant of a quadratic equation? (variant 168)",
+      "text": "Find the value of the following expression: the argument of -1 + i..",
       "options": [
-        "b²-4ac",
-        "b²+4ac",
-        "b²-ac",
-        "4ac-b²"
+        "3pi/4",
+        "pi/4",
+        "pi/2",
+        "5pi/4"
       ],
       "correct_index": 0,
-      "explanation": "b²-4ac.",
-      "difficulty": 1
+      "explanation": "arg(-1+i) = pi - pi/4 = 3pi/4 (second quadrant).",
+      "difficulty": 3
     },
     {
       "id": "fmat_169",
-      "text": "In an arithmetic progression, if the nth term is given by Tn=3n+2, what is the first term when n=1? (variant 169)",
+      "text": "Maximize P = 2x + 3y subject to x + y <= 4, x >= 0, y >= 0.",
       "options": [
-        "2",
-        "3",
+        "12",
         "8",
-        "5"
+        "10",
+        "9"
       ],
-      "correct_index": 3,
-      "explanation": "5.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Vertices: (0,0):P=0; (4,0):P=8; (0,4):P=12. Max = 12 at (0,4).",
+      "difficulty": 3
     },
     {
       "id": "fmat_170",
-      "text": "In a geometric progression, the first term is 2 and the common ratio is 3. What is the second term? (variant 170)",
+      "text": "Minimize C = 5x + 3y subject to x + y >= 6, x >= 0, y >= 0.",
       "options": [
-        "3",
-        "9",
-        "6",
-        "2"
+        "18",
+        "30",
+        "15",
+        "21"
       ],
-      "correct_index": 2,
-      "explanation": "6.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Vertices: (6,0):C=30; (0,6):C=18. Min = 18 at (0,6).",
+      "difficulty": 3
     },
     {
       "id": "fmat_171",
-      "text": "What is the determinant of the 2×2 matrix [[1,2],[3,4]]? (variant 171)",
+      "text": "A body of mass 4 kg is accelerated at 5 m/s^2. Find the force.",
       "options": [
-        "0",
-        "-2",
-        "2",
-        "10"
+        "20 N",
+        "9 N",
+        "4 N",
+        "25 N"
       ],
-      "correct_index": 1,
-      "explanation": "-2.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "F = ma = 4*5 = 20 N.",
+      "difficulty": 3
     },
     {
       "id": "fmat_172",
-      "text": "What is the distance between the points (0,0) and (3,4)? (variant 172)",
+      "text": "A car travels 200 m in 10 s with uniform acceleration from rest. Find the acceleration.",
       "options": [
-        "5",
-        "7",
-        "1",
-        "12"
+        "4 m/s^2",
+        "20 m/s^2",
+        "2 m/s^2",
+        "10 m/s^2"
       ],
       "correct_index": 0,
-      "explanation": "5.",
-      "difficulty": 1
+      "explanation": "s = ut + (1/2)at^2: 200 = 0 + (1/2)a(100), a = 4 m/s^2.",
+      "difficulty": 3
     },
     {
       "id": "fmat_173",
-      "text": "What is the value of sin 30 degrees? (variant 173)",
+      "text": "Find the degree of the polynomial f(x) = 4x^5 - 3x^3 + 2x - 7.",
       "options": [
-        "√3/2",
-        "1",
-        "0",
-        "1/2"
+        "5",
+        "3",
+        "7",
+        "4"
       ],
-      "correct_index": 3,
-      "explanation": "1/2.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "The highest power of x is 5, so the degree is 5.",
+      "difficulty": 3
     },
     {
       "id": "fmat_174",
-      "text": "What is the value of the trigonometric identity sin²θ + cos²θ? (variant 174)",
+      "text": "Given that f(x) = x^3 - 2x + 1, determine the value of f(-1).",
       "options": [
         "2",
-        "sin2θ",
-        "1",
-        "0"
+        "0",
+        "-2",
+        "4"
       ],
-      "correct_index": 2,
-      "explanation": "1.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "f(-1) = -1 + 2 + 1 = 2.",
+      "difficulty": 3
     },
     {
       "id": "fmat_175",
-      "text": "If y = x³, what is the derivative dy/dx? (variant 175)",
+      "text": "If (x - 2) is a factor of 2x^3 - 3x^2 + kx - 4, find k.",
       "options": [
-        "x³",
-        "3x²",
-        "x²",
-        "3x"
+        "2",
+        "4",
+        "0",
+        "-2"
       ],
-      "correct_index": 1,
-      "explanation": "3x².",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "f(2) = 16 - 12 + 2k - 4 = 2k = 0, so k = 0.",
+      "difficulty": 2
     },
     {
       "id": "fmat_176",
-      "text": "What is the integral of x² with respect to x? (variant 176)",
+      "text": "Solve the inequality 4x - 1 <= 3x + 5.",
       "options": [
-        "x³/3+C",
-        "x³+C",
-        "2x+C",
-        "x²+C"
+        "x <= 6",
+        "x >= 6",
+        "x <= 2",
+        "x <= 4"
       ],
       "correct_index": 0,
-      "explanation": "x³/3+C.",
+      "explanation": "x <= 6.",
       "difficulty": 1
     },
     {
       "id": "fmat_177",
-      "text": "What is the arithmetic mean of the numbers 2, 4, and 6? (variant 177)",
+      "text": "Find the value of the following expression: the roots of x^2 - 9 = 0..",
       "options": [
-        "6",
-        "3",
-        "12",
-        "4"
+        "x = 3 and x = -3",
+        "x = 9",
+        "x = 3",
+        "x = -3"
       ],
-      "correct_index": 3,
-      "explanation": "4.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "(x-3)(x+3) = 0, x = 3 or x = -3.",
+      "difficulty": 3
     },
     {
       "id": "fmat_178",
-      "text": "What is the range of values that any probability can take? (variant 178)",
+      "text": "The discriminant of ax^2 + bx + c = 0 is 0. How many real roots?",
       "options": [
-        "-1 and 1",
-        "0 and 10",
-        "0 and 1",
-        "0 and 2"
+        "1",
+        "2",
+        "0",
+        "3"
       ],
-      "correct_index": 2,
-      "explanation": "0 and 1.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Discriminant = 0 means one repeated real root.",
+      "difficulty": 3
     },
     {
       "id": "fmat_179",
-      "text": "In how many different ways can 3 books be arranged on a shelf? (variant 179)",
+      "text": "Find the sum to infinity of the GP: 27, 9, 3, ...",
       "options": [
-        "2",
-        "6",
-        "3",
-        "9"
+        "81/2",
+        "40.5",
+        "27",
+        "54"
       ],
-      "correct_index": 1,
-      "explanation": "6.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "r = 1/3. S = 27/(1-1/3) = 27/(2/3) = 81/2.",
+      "difficulty": 2
     },
     {
       "id": "fmat_180",
-      "text": "In Newton's second law F = ma, what does F represent? (variant 180)",
+      "text": "The 1st term of an AP is 7 and the common difference is -3. Find the 10th term.",
       "options": [
-        "Force",
-        "Energy",
-        "Power",
-        "No force"
+        "-20",
+        "-23",
+        "-17",
+        "-14"
       ],
       "correct_index": 0,
-      "explanation": "Force.",
-      "difficulty": 1
+      "explanation": "T_10 = 7 + 9*(-3) = 7 - 27 = -20.",
+      "difficulty": 2
     },
     {
       "id": "fmat_181",
-      "text": "What is the complement of the set A={1,2,3} in the universal set U={1,2,3,4,5}? (variant 181)",
+      "text": "Find the sum of the first 5 terms of the GP: 2, 6, 18, ...",
       "options": [
-        "{1,2,3}",
-        "{1-5}",
-        "{}",
-        "{4,5}"
+        "242",
+        "240",
+        "120",
+        "80"
       ],
-      "correct_index": 3,
-      "explanation": "{4,5}.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "S_5 = 2(3^5 - 1)/(3-1) = 2(243-1)/2 = 242.",
+      "difficulty": 2
     },
     {
       "id": "fmat_182",
-      "text": "How many subsets does the set {a,b,c} have? (variant 182)",
+      "text": "Find the middle term in the expansion of (x + 1)^4.",
       "options": [
-        "6",
-        "9",
-        "8",
-        "3"
+        "6x^2",
+        "4x^3",
+        "4x",
+        "x^4"
       ],
-      "correct_index": 2,
-      "explanation": "2^3=8.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Middle term T_3 = C(4,2)*x^2*1^2 = 6x^2.",
+      "difficulty": 3
     },
     {
       "id": "fmat_183",
-      "text": "What is the decimal equivalent of the binary number 1011₂? (variant 183)",
+      "text": "If the matrix A = [[2, 0],[0, 3]], find a^2.",
       "options": [
-        "13",
-        "11",
-        "10",
-        "12"
+        "[[4, 0],[0, 9]]",
+        "[[2, 0],[0, 3]]",
+        "[[4, 0],[0, 6]]",
+        "[[8, 0],[0, 27]]"
       ],
-      "correct_index": 1,
-      "explanation": "11.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "A^2 = [[4, 0],[0, 9]].",
+      "difficulty": 2
     },
     {
       "id": "fmat_184",
-      "text": "Simplify the surd √12 to its simplest form. (variant 184)",
+      "text": "Find the inverse of the matrix [[2, 1],[5, 3]].",
       "options": [
-        "2√3",
-        "3√2",
-        "4√3",
-        "√6"
+        "[[3, -1],[-5, 2]]",
+        "[[3, 1],[5, 2]]",
+        "[[-3, 1],[5, -2]]",
+        "[[2, -1],[-5, 3]]"
       ],
       "correct_index": 0,
-      "explanation": "2√3.",
-      "difficulty": 1
+      "explanation": "det = 6-5 = 1. Inverse = [[3,-1],[-5,2]].",
+      "difficulty": 3
     },
     {
       "id": "fmat_185",
-      "text": "What is the modulus (absolute value) of the complex number 3+4i? (variant 185)",
+      "text": "If f(x) = 2x + 3, find f composed with itself, f(f(x)).",
       "options": [
-        "7",
-        "1",
-        "12",
-        "5"
+        "4x + 9",
+        "4x + 6",
+        "2x + 9",
+        "4x + 3"
       ],
-      "correct_index": 3,
-      "explanation": "5.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "f(f(x)) = 2(2x+3) + 3 = 4x + 6 + 3 = 4x + 9.",
+      "difficulty": 2
     },
     {
       "id": "fmat_186",
-      "text": "What is the value of i² in complex number arithmetic? (variant 186)",
+      "text": "Find the inverse of f(x) = (x + 5)/2.",
       "options": [
-        "0",
-        "i",
-        "-1",
-        "1"
+        "2x - 5",
+        "(x - 5)/2",
+        "2x + 5",
+        "x/2 - 5"
       ],
-      "correct_index": 2,
-      "explanation": "-1.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "y = (x+5)/2, x = (y+5)/2, y = 2x - 5.",
+      "difficulty": 2
     },
     {
       "id": "fmat_187",
-      "text": "What are the roots of the quadratic equation x²-5x+6=0? (variant 187)",
+      "text": "Find the equation of the line with x-intercept 4 and y-intercept -2.",
       "options": [
-        "2 -3",
-        "2 and 3",
-        "1 and 6",
-        "-2 -3"
+        "x/4 + y/(-2) = 1",
+        "x/2 + y/4 = 1",
+        "x/4 + y/2 = 1",
+        "x/(-2) + y/4 = 1"
       ],
-      "correct_index": 1,
-      "explanation": "2 and 3.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Using intercept form: x/4 + y/(-2) = 1.",
+      "difficulty": 2
     },
     {
       "id": "fmat_188",
-      "text": "What is the formula for the discriminant of a quadratic equation? (variant 188)",
+      "text": "Find the distance from the centre (2, 3) to the point (5, 7).",
       "options": [
-        "b²-4ac",
-        "b²+4ac",
-        "b²-ac",
-        "4ac-b²"
+        "5",
+        "7",
+        "25",
+        "4"
       ],
       "correct_index": 0,
-      "explanation": "b²-4ac.",
+      "explanation": "d = sqrt(9+16) = 5.",
       "difficulty": 1
     },
     {
       "id": "fmat_189",
-      "text": "In an arithmetic progression, if the nth term is given by Tn=3n+2, what is the first term when n=1? (variant 189)",
+      "text": "Does the point (1, 2) lie inside or outside the circle (x-3)^2 + (y-1)^2 = 9?",
       "options": [
-        "2",
-        "3",
-        "8",
-        "5"
+        "Outside",
+        "Inside",
+        "On the circle",
+        "Cannot determine"
       ],
-      "correct_index": 3,
-      "explanation": "5.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "(1-3)^2 + (2-1)^2 = 4 + 1 = 5. Since 5 < 9, the point is inside the circle.",
+      "difficulty": 2
     },
     {
       "id": "fmat_190",
-      "text": "In a geometric progression, the first term is 2 and the common ratio is 3. What is the second term? (variant 190)",
+      "text": "How many 4-digit numbers can be formed from digits 1, 2, 3, 5, 7 (no repetition)?",
       "options": [
-        "3",
-        "9",
-        "6",
-        "2"
+        "120",
+        "625",
+        "24",
+        "60"
       ],
-      "correct_index": 2,
-      "explanation": "6.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "P(5,4) = 5*4*3*2 = 120.",
+      "difficulty": 2
     },
     {
       "id": "fmat_191",
-      "text": "What is the determinant of the 2×2 matrix [[1,2],[3,4]]? (variant 191)",
+      "text": "Find the number of diagonals in a hexagon.",
       "options": [
-        "0",
-        "-2",
-        "2",
-        "10"
+        "9",
+        "6",
+        "12",
+        "15"
       ],
-      "correct_index": 1,
-      "explanation": "-2.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Diagonals = n(n-3)/2 = 6*3/2 = 9.",
+      "difficulty": 2
     },
     {
       "id": "fmat_192",
-      "text": "What is the distance between the points (0,0) and (3,4)? (variant 192)",
+      "text": "A bag has 5 white and 3 black balls. Two are drawn without replacement. Find P(both white).",
       "options": [
-        "5",
-        "7",
-        "1",
-        "12"
+        "5/14",
+        "25/64",
+        "5/8",
+        "15/56"
       ],
       "correct_index": 0,
-      "explanation": "5.",
-      "difficulty": 1
+      "explanation": "P = (5/8)*(4/7) = 20/56 = 5/14.",
+      "difficulty": 2
     },
     {
       "id": "fmat_193",
-      "text": "What is the value of sin 30 degrees? (variant 193)",
+      "text": "Find the mean of the first 6 natural numbers.",
       "options": [
-        "√3/2",
-        "1",
-        "0",
-        "1/2"
+        "3.5",
+        "3",
+        "4",
+        "6"
       ],
-      "correct_index": 3,
-      "explanation": "1/2.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Mean = (1+2+3+4+5+6)/6 = 21/6 = 3.5.",
+      "difficulty": 3
     },
     {
       "id": "fmat_194",
-      "text": "What is the value of the trigonometric identity sin²θ + cos²θ? (variant 194)",
+      "text": "Find the mode of 1, 2, 2, 3, 4, 4, 4, 5.",
       "options": [
+        "4",
         "2",
-        "sin2θ",
-        "1",
-        "0"
+        "3",
+        "5"
       ],
-      "correct_index": 2,
-      "explanation": "1.",
+      "correct_index": 0,
+      "explanation": "4 appears three times, most frequent.",
       "difficulty": 1
     },
     {
       "id": "fmat_195",
-      "text": "If y = x³, what is the derivative dy/dx? (variant 195)",
+      "text": "Find the standard deviation of 2, 2, 2, 2, 2.",
       "options": [
-        "x³",
-        "3x²",
-        "x²",
-        "3x"
+        "0",
+        "2",
+        "4",
+        "1"
       ],
-      "correct_index": 1,
-      "explanation": "3x².",
+      "correct_index": 0,
+      "explanation": "All values are the same, so SD = 0.",
       "difficulty": 1
     },
     {
       "id": "fmat_196",
-      "text": "What is the integral of x² with respect to x? (variant 196)",
+      "text": "A ball is thrown vertically upward with velocity 20 m/s. Find the maximum height (g = 10 m/s^2).",
       "options": [
-        "x³/3+C",
-        "x³+C",
-        "2x+C",
-        "x²+C"
+        "20 m",
+        "40 m",
+        "10 m",
+        "30 m"
       ],
       "correct_index": 0,
-      "explanation": "x³/3+C.",
-      "difficulty": 1
+      "explanation": "h = u^2/(2g) = 400/20 = 20 m.",
+      "difficulty": 2
     },
     {
       "id": "fmat_197",
-      "text": "What is the arithmetic mean of the numbers 2, 4, and 6? (variant 197)",
+      "text": "A body starts from rest and accelerates at 3 m/s^2 for 4 s. Find the distance covered.",
       "options": [
-        "6",
-        "3",
-        "12",
-        "4"
+        "24 m",
+        "12 m",
+        "48 m",
+        "36 m"
       ],
-      "correct_index": 3,
-      "explanation": "4.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "s = (1/2)at^2 = (1/2)(3)(16) = 24 m.",
+      "difficulty": 2
     },
     {
       "id": "fmat_198",
-      "text": "What is the range of values that any probability can take? (variant 198)",
+      "text": "Find the value of the following expression: dy/dx if y = ln(x^2)..",
       "options": [
-        "-1 and 1",
-        "0 and 10",
-        "0 and 1",
-        "0 and 2"
+        "2/x",
+        "1/x^2",
+        "2x",
+        "2ln(x)"
       ],
-      "correct_index": 2,
-      "explanation": "0 and 1.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "y = 2ln(x), dy/dx = 2/x.",
+      "difficulty": 2
     },
     {
       "id": "fmat_199",
-      "text": "In how many different ways can 3 books be arranged on a shelf? (variant 199)",
+      "text": "Find the integral from 1 to e of (1/x) dx.",
       "options": [
-        "2",
-        "6",
-        "3",
-        "9"
+        "1",
+        "e",
+        "0",
+        "ln(e)"
       ],
-      "correct_index": 1,
-      "explanation": "6.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "[ln(x)] from 1 to e = ln(e) - ln(1) = 1 - 0 = 1.",
+      "difficulty": 2
     },
     {
       "id": "fmat_200",
-      "text": "In Newton's second law F = ma, what does F represent? (variant 200)",
+      "text": "Convert the following angle 3pi/4 radians to degrees. and give the correct result.",
       "options": [
-        "Force",
-        "Energy",
-        "Power",
-        "No force"
+        "135 degrees",
+        "120 degrees",
+        "150 degrees",
+        "45 degrees"
       ],
       "correct_index": 0,
-      "explanation": "Force.",
+      "explanation": "3pi/4 * (180/pi) = 135 degrees.",
       "difficulty": 1
     }
   ]

@@ -1,6 +1,6 @@
 {
   "course_id": "ict",
-  "course_name": "Computer Studies",
+  "course_name": "Information and Communication Technology",
   "version": "1.0.0",
   "questions": [
     {
@@ -9,102 +9,102 @@
       "options": [
         "Only storage",
         "Only print",
-        "No processing",
-        "Data"
+        "Data",
+        "Electricity"
       ],
-      "correct_index": 3,
-      "explanation": "Processes data.",
+      "correct_index": 2,
+      "explanation": "A computer processes data to produce useful information.",
       "difficulty": 1
     },
     {
       "id": "ict_002",
       "text": "Who is widely regarded as the father of the computer?",
       "options": [
-        "Jobs",
-        "Zuckerberg",
-        "Babbage",
-        "Gates"
+        "Bill Gates",
+        "Charles Babbage",
+        "Alan Turing",
+        "Steve Jobs"
       ],
-      "correct_index": 2,
-      "explanation": "Babbage.",
+      "correct_index": 1,
+      "explanation": "Charles Babbage designed the Analytical Engine, the first general-purpose computer concept.",
       "difficulty": 1
     },
     {
       "id": "ict_003",
-      "text": "What does the acronym CPU stand for in computing?",
+      "text": "What does the acronym CPU stand for in full?",
       "options": [
-        "Only processing",
         "Central Processing Unit",
-        "No meaning",
-        "Only central"
+        "Computer Personal Unit",
+        "Central Program Utility",
+        "Core Processing Unit"
       ],
-      "correct_index": 1,
-      "explanation": "CPU.",
+      "correct_index": 0,
+      "explanation": "CPU stands for Central Processing Unit, the brain of the computer.",
       "difficulty": 1
     },
     {
       "id": "ict_004",
-      "text": "What does the acronym RAM stand for in computing?",
+      "text": "What does the acronym RAM stand for in full?",
       "options": [
+        "Read Access Memory",
         "Random Access Memory",
-        "No meaning",
-        "Only random",
-        "Only access"
+        "Rapid Action Memory",
+        "Run Access Module"
       ],
-      "correct_index": 0,
-      "explanation": "RAM.",
+      "correct_index": 1,
+      "explanation": "RAM stands for Random Access Memory, a volatile memory used for temporary data storage.",
       "difficulty": 1
     },
     {
       "id": "ict_005",
-      "text": "What does the acronym ROM stand for in computing?",
+      "text": "What does the acronym ROM stand for in full?",
       "options": [
-        "No meaning",
-        "Only read",
-        "Only memory",
-        "Read Only Memory"
+        "Random Only Memory",
+        "Read Only Memory",
+        "Run On Memory",
+        "Rapid Operation Memory"
       ],
-      "correct_index": 3,
-      "explanation": "ROM.",
+      "correct_index": 1,
+      "explanation": "ROM stands for Read Only Memory, which stores permanent data.",
       "difficulty": 1
     },
     {
       "id": "ict_006",
       "text": "Which of the following is an input device?",
       "options": [
+        "Monitor",
         "Printer",
-        "Speaker",
         "Keyboard",
-        "Monitor"
+        "Speaker"
       ],
       "correct_index": 2,
-      "explanation": "Keyboard input.",
+      "explanation": "A keyboard is an input device used to enter data into a computer.",
       "difficulty": 1
     },
     {
       "id": "ict_007",
       "text": "Which of the following is an output device?",
       "options": [
+        "Mouse",
         "Scanner",
-        "Monitor",
         "Keyboard",
-        "Mouse"
+        "Monitor"
       ],
-      "correct_index": 1,
-      "explanation": "Monitor output.",
+      "correct_index": 3,
+      "explanation": "A monitor is an output device that displays visual information.",
       "difficulty": 1
     },
     {
       "id": "ict_008",
-      "text": "How many bits are there in one Byte?",
+      "text": "How many bits are there in one byte?",
       "options": [
-        "8 bits",
         "4 bits",
-        "2 bits",
-        "16 bits"
+        "8 bits",
+        "16 bits",
+        "2 bits"
       ],
-      "correct_index": 0,
-      "explanation": "8 bits.",
+      "correct_index": 1,
+      "explanation": "One byte consists of 8 bits.",
       "difficulty": 1
     },
     {
@@ -113,2495 +113,2495 @@
       "options": [
         "10",
         "8",
-        "16",
-        "2"
+        "2",
+        "16"
       ],
-      "correct_index": 3,
-      "explanation": "Base 2.",
+      "correct_index": 2,
+      "explanation": "The binary number system has a base of 2, using only 0 and 1.",
       "difficulty": 1
     },
     {
       "id": "ict_010",
-      "text": "What is the output condition of an AND gate?",
+      "text": "Which of the following best describes An AND gate outputs 1 only when?",
       "options": [
-        "Inverts",
-        "No gate",
-        "Both inputs 1",
-        "At least one"
+        "All inputs are 0",
+        "At least one input is 1",
+        "All inputs are 1",
+        "Inputs are different"
       ],
       "correct_index": 2,
-      "explanation": "AND both 1.",
+      "explanation": "An AND gate outputs 1 only when all inputs are 1.",
       "difficulty": 2
     },
     {
       "id": "ict_011",
-      "text": "What is the Internet best described as?",
+      "text": "What is the value or meaning of the Internet in mathematics?",
       "options": [
-        "Only one",
-        "Interconnected networks",
-        "Single",
-        "No network"
+        "A single computer",
+        "A local area network only",
+        "A global network of networks",
+        "A type of software"
       ],
-      "correct_index": 1,
-      "explanation": "Interconnected.",
+      "correct_index": 2,
+      "explanation": "The Internet is a global system of interconnected computer networks.",
       "difficulty": 1
     },
     {
       "id": "ict_012",
-      "text": "Which of the following is an example of a web browser?",
+      "text": "What is the difference between data and information?",
       "options": [
-        "Chrome",
-        "Windows",
-        "Linux",
-        "No browser"
+        "They are the same thing",
+        "Data is raw facts; information is processed data",
+        "Information comes first",
+        "Data is output only"
       ],
-      "correct_index": 0,
-      "explanation": "Chrome.",
+      "correct_index": 1,
+      "explanation": "Data refers to raw, unprocessed facts; information is data that has been processed to be meaningful.",
       "difficulty": 1
     },
     {
       "id": "ict_013",
-      "text": "What does the term Email stand for? in full?",
+      "text": "Which generation of computers used transistors?",
       "options": [
-        "No mail",
-        "Only electronic",
-        "Only mail",
-        "Electronic mail"
+        "First generation",
+        "Second generation",
+        "Third generation",
+        "Fourth generation"
       ],
-      "correct_index": 3,
-      "explanation": "Electronic mail.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Second-generation computers (1959-1965) used transistors instead of vacuum tubes.",
+      "difficulty": 2
     },
     {
       "id": "ict_014",
-      "text": "What does the acronym LAN stand for in networking?",
+      "text": "What is the value or meaning of volatile memory in mathematics?",
       "options": [
-        "Only local",
-        "Only area",
-        "Local Area Network",
-        "No network"
+        "Memory that retains data when power is off",
+        "Memory that loses data when power is off",
+        "Permanent storage memory",
+        "Memory used only for printing"
       ],
-      "correct_index": 2,
-      "explanation": "LAN.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Volatile memory loses its data when the computer is powered off, e.g. RAM.",
+      "difficulty": 2
     },
     {
       "id": "ict_015",
-      "text": "What is Microsoft Word primarily used for?",
+      "text": "Which of the following is a secondary storage device?",
       "options": [
-        "No processing",
-        "Word processing",
-        "Spreadsheet",
-        "Database"
+        "RAM",
+        "ROM",
+        "Hard disk",
+        "Cache memory"
       ],
-      "correct_index": 1,
-      "explanation": "Word processing.",
+      "correct_index": 2,
+      "explanation": "A hard disk is a secondary storage device for permanent data storage.",
       "difficulty": 1
     },
     {
       "id": "ict_016",
-      "text": "What is Microsoft Excel primarily used for?",
+      "text": "What does the acronym HTML stand for in full?",
       "options": [
-        "Spreadsheet",
-        "Word",
-        "Database",
-        "No sheet"
+        "Hyper Text Markup Language",
+        "High Tech Machine Language",
+        "Hyper Transfer Mode Language",
+        "Home Tool Management Language"
       ],
       "correct_index": 0,
-      "explanation": "Spreadsheet.",
+      "explanation": "HTML stands for HyperText Markup Language, used to create web pages.",
       "difficulty": 1
     },
     {
       "id": "ict_017",
-      "text": "What is a computer virus and how does it affect a system?",
+      "text": "What is the value or meaning of an operating system in mathematics?",
       "options": [
-        "Useful",
-        "No program",
-        "Only hardware",
-        "Malicious program"
+        "Hardware component",
+        "A program that manages computer resources",
+        "An input device",
+        "A type of monitor"
       ],
-      "correct_index": 3,
-      "explanation": "Malicious.",
+      "correct_index": 1,
+      "explanation": "An operating system manages hardware and software resources of a computer.",
       "difficulty": 1
     },
     {
       "id": "ict_018",
-      "text": "What does the acronym ICT stand for?",
+      "text": "Which of the following is an example of an operating system?",
       "options": [
-        "Only info",
-        "Only tech",
-        "Information and Communication Technology",
-        "No meaning"
+        "Microsoft Word",
+        "Linux",
+        "Adobe Photoshop",
+        "Google Chrome"
       ],
-      "correct_index": 2,
-      "explanation": "ICT.",
+      "correct_index": 1,
+      "explanation": "Linux is an open-source operating system.",
       "difficulty": 1
     },
     {
       "id": "ict_019",
-      "text": "What does the acronym HTTP stand for?",
+      "text": "What is the binary equivalent of decimal 10?",
       "options": [
-        "Only transfer",
-        "HyperText Transfer Protocol",
-        "No meaning",
-        "Only hypertext"
+        "1010",
+        "1100",
+        "1000",
+        "1110"
       ],
-      "correct_index": 1,
-      "explanation": "HTTP.",
+      "correct_index": 0,
+      "explanation": "Decimal 10 = 8+2 = 1010 in binary.",
       "difficulty": 2
     },
     {
       "id": "ict_020",
-      "text": "What does the acronym HTML stand for?",
+      "text": "Which input device is used to scan printed text into a computer?",
       "options": [
-        "HyperText Markup Language",
-        "No language",
-        "Only hypertext",
-        "Only markup"
+        "Mouse",
+        "Keyboard",
+        "Scanner",
+        "Webcam"
       ],
-      "correct_index": 0,
-      "explanation": "HTML.",
-      "difficulty": 2
+      "correct_index": 2,
+      "explanation": "A scanner converts printed documents into digital images for the computer.",
+      "difficulty": 1
     },
     {
       "id": "ict_021",
-      "text": "What does a computer primarily process? (variant 21)",
+      "text": "What does the acronym LAN stand for in full?",
       "options": [
-        "Only storage",
-        "Only print",
-        "No processing",
-        "Data"
+        "Local Area Network",
+        "Long Area Network",
+        "Large Access Node",
+        "Linked Application Network"
       ],
-      "correct_index": 3,
-      "explanation": "Processes data.",
+      "correct_index": 0,
+      "explanation": "LAN stands for Local Area Network, connecting devices within a limited area.",
       "difficulty": 1
     },
     {
       "id": "ict_022",
-      "text": "Who is widely regarded as the father of the computer? (variant 22)",
+      "text": "What is the primary function of an OR gate?",
       "options": [
-        "Jobs",
-        "Zuckerberg",
-        "Babbage",
-        "Gates"
+        "Outputs 0 when all inputs are 0",
+        "Outputs 1 only when all inputs are 1",
+        "Outputs 1 when at least one input is 1",
+        "Inverts the input"
       ],
       "correct_index": 2,
-      "explanation": "Babbage.",
-      "difficulty": 1
+      "explanation": "An OR gate outputs 1 when at least one of its inputs is 1.",
+      "difficulty": 2
     },
     {
       "id": "ict_023",
-      "text": "What does the acronym CPU stand for in computing? (variant 23)",
+      "text": "Which of the following is application software?",
       "options": [
-        "Only processing",
-        "Central Processing Unit",
-        "No meaning",
-        "Only central"
+        "Windows OS",
+        "Device driver",
+        "Microsoft Excel",
+        "BIOS"
       ],
-      "correct_index": 1,
-      "explanation": "CPU.",
+      "correct_index": 2,
+      "explanation": "Microsoft Excel is application software used for spreadsheets.",
       "difficulty": 1
     },
     {
       "id": "ict_024",
-      "text": "What does the acronym RAM stand for in computing? (variant 24)",
+      "text": "What is the value or meaning of the purpose of a BIOS in mathematics?",
       "options": [
-        "Random Access Memory",
-        "No meaning",
-        "Only random",
-        "Only access"
+        "Run applications",
+        "Perform POST and initialise hardware during booting",
+        "Store user files",
+        "Connect to the Internet"
       ],
-      "correct_index": 0,
-      "explanation": "RAM.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "BIOS performs the Power-On Self-Test and initialises hardware during the boot process.",
+      "difficulty": 2
     },
     {
       "id": "ict_025",
-      "text": "What does the acronym ROM stand for in computing? (variant 25)",
+      "text": "How many kilobytes (KB) are in one megabyte (MB)?",
       "options": [
-        "No meaning",
-        "Only read",
-        "Only memory",
-        "Read Only Memory"
+        "512 KB",
+        "1000 KB",
+        "1024 KB",
+        "2048 KB"
       ],
-      "correct_index": 3,
-      "explanation": "ROM.",
+      "correct_index": 2,
+      "explanation": "1 MB = 1024 KB.",
       "difficulty": 1
     },
     {
       "id": "ict_026",
-      "text": "Which of the following is an input device? (variant 26)",
+      "text": "What does the acronym URL stand for in full?",
       "options": [
-        "Printer",
-        "Speaker",
-        "Keyboard",
-        "Monitor"
+        "Universal Resource Locator",
+        "Uniform Resource Locator",
+        "Unified Reference Link",
+        "Universal Run Link"
       ],
-      "correct_index": 2,
-      "explanation": "Keyboard input.",
+      "correct_index": 1,
+      "explanation": "URL stands for Uniform Resource Locator, the address of a web resource.",
       "difficulty": 1
     },
     {
       "id": "ict_027",
-      "text": "Which of the following is an output device? (variant 27)",
+      "text": "What is the value or meaning of the full meaning of ICT in mathematics?",
       "options": [
-        "Scanner",
-        "Monitor",
-        "Keyboard",
-        "Mouse"
+        "Internal Computer Technology",
+        "Information and Communication Technology",
+        "Integrated Circuit Technology",
+        "Input Control Terminal"
       ],
       "correct_index": 1,
-      "explanation": "Monitor output.",
-      "difficulty": 1
+      "explanation": "ICT stands for Information and Communication Technology.",
+      "difficulty": 3
     },
     {
       "id": "ict_028",
-      "text": "How many bits are there in one Byte? (variant 28)",
+      "text": "Which of the following is NOT a storage device?",
       "options": [
-        "8 bits",
-        "4 bits",
-        "2 bits",
-        "16 bits"
+        "Hard disk",
+        "USB flash drive",
+        "RAM",
+        "CD-ROM"
       ],
-      "correct_index": 0,
-      "explanation": "8 bits.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "RAM is primary memory, not a storage device; it is volatile.",
+      "difficulty": 2
     },
     {
       "id": "ict_029",
-      "text": "What is the base of the binary number system? (variant 29)",
+      "text": "What is the value or meaning of cache memory in mathematics?",
       "options": [
-        "10",
-        "8",
-        "16",
-        "2"
+        "A very slow memory",
+        "A high-speed memory between CPU and RAM",
+        "Permanent storage",
+        "A type of output device"
       ],
-      "correct_index": 3,
-      "explanation": "Base 2.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Cache memory is a small, very fast memory located between the CPU and RAM to speed up processing.",
+      "difficulty": 2
     },
     {
       "id": "ict_030",
-      "text": "What is the output condition of an AND gate? (variant 30)",
+      "text": "What is the base of the hexadecimal number system?",
       "options": [
-        "Inverts",
-        "No gate",
-        "Both inputs 1",
-        "At least one"
+        "2",
+        "8",
+        "10",
+        "16"
       ],
-      "correct_index": 2,
-      "explanation": "AND both 1.",
+      "correct_index": 3,
+      "explanation": "The hexadecimal number system uses base 16 (digits 0-9 and letters A-F).",
       "difficulty": 2
     },
     {
       "id": "ict_031",
-      "text": "What is the Internet best described as? (variant 31)",
+      "text": "Which of the following best describes A NOT gate is also known as?",
       "options": [
-        "Only one",
-        "Interconnected networks",
-        "Single",
-        "No network"
+        "Buffer",
+        "Inverter",
+        "Amplifier",
+        "AND gate"
       ],
       "correct_index": 1,
-      "explanation": "Interconnected.",
-      "difficulty": 1
+      "explanation": "A NOT gate inverts the input signal, so it is also called an inverter.",
+      "difficulty": 2
     },
     {
       "id": "ict_032",
-      "text": "Which of the following is an example of a web browser? (variant 32)",
+      "text": "Which protocol is used to send emails?",
       "options": [
-        "Chrome",
-        "Windows",
-        "Linux",
-        "No browser"
+        "HTTP",
+        "FTP",
+        "SMTP",
+        "TCP"
       ],
-      "correct_index": 0,
-      "explanation": "Chrome.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used to send emails.",
+      "difficulty": 2
     },
     {
       "id": "ict_033",
-      "text": "What does the term Email stand for? (variant 33)",
+      "text": "What is the value or meaning of an algorithm in mathematics?",
       "options": [
-        "No mail",
-        "Only electronic",
-        "Only mail",
-        "Electronic mail"
+        "A type of hardware",
+        "A step-by-step procedure to solve a problem",
+        "An output device",
+        "A network topology"
       ],
-      "correct_index": 3,
-      "explanation": "Electronic mail.",
+      "correct_index": 1,
+      "explanation": "An algorithm is a finite set of step-by-step instructions to solve a problem.",
       "difficulty": 1
     },
     {
       "id": "ict_034",
-      "text": "What does the acronym LAN stand for in networking? (variant 34)",
+      "text": "In a flowchart, a diamond shape represents:",
       "options": [
-        "Only local",
-        "Only area",
-        "Local Area Network",
-        "No network"
+        "Start/End",
+        "Input/Output",
+        "Decision",
+        "Process"
       ],
       "correct_index": 2,
-      "explanation": "LAN.",
-      "difficulty": 1
+      "explanation": "A diamond shape in a flowchart represents a decision point.",
+      "difficulty": 2
     },
     {
       "id": "ict_035",
-      "text": "What is Microsoft Word primarily used for? (variant 35)",
+      "text": "What does the acronym WAN stand for in full?",
       "options": [
-        "No processing",
-        "Word processing",
-        "Spreadsheet",
-        "Database"
+        "Wide Area Network",
+        "Wireless Access Node",
+        "Wide Application Network",
+        "Wired Area Network"
       ],
-      "correct_index": 1,
-      "explanation": "Word processing.",
+      "correct_index": 0,
+      "explanation": "WAN stands for Wide Area Network, covering a large geographical area.",
       "difficulty": 1
     },
     {
       "id": "ict_036",
-      "text": "What is Microsoft Excel primarily used for? (variant 36)",
+      "text": "What is the decimal equivalent of binary 1101?",
       "options": [
-        "Spreadsheet",
-        "Word",
-        "Database",
-        "No sheet"
+        "11",
+        "12",
+        "13",
+        "14"
       ],
-      "correct_index": 0,
-      "explanation": "Spreadsheet.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "1101 in binary = 8+4+0+1 = 13 in decimal.",
+      "difficulty": 2
     },
     {
       "id": "ict_037",
-      "text": "What is a computer virus and how does it affect a system? (variant 37)",
+      "text": "Which of the following is a network topology?",
       "options": [
-        "Useful",
-        "No program",
-        "Only hardware",
-        "Malicious program"
+        "Horizontal",
+        "Star",
+        "Vertical",
+        "Diagonal"
       ],
-      "correct_index": 3,
-      "explanation": "Malicious.",
+      "correct_index": 1,
+      "explanation": "Star topology is a common network layout where all nodes connect to a central hub.",
       "difficulty": 1
     },
     {
       "id": "ict_038",
-      "text": "What does the acronym ICT stand for? (variant 38)",
+      "text": "What is the value or meaning of the function of a mouse in mathematics?",
       "options": [
-        "Only info",
-        "Only tech",
-        "Information and Communication Technology",
-        "No meaning"
+        "Print documents",
+        "Input pointing and clicking commands",
+        "Display images",
+        "Store data permanently"
       ],
-      "correct_index": 2,
-      "explanation": "ICT.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A mouse is a pointing input device used to interact with a GUI.",
+      "difficulty": 3
     },
     {
       "id": "ict_039",
-      "text": "What does the acronym HTTP stand for? (variant 39)",
+      "text": "Which of the following best describes a computer virus?",
       "options": [
-        "Only transfer",
-        "HyperText Transfer Protocol",
-        "No meaning",
-        "Only hypertext"
+        "A hardware fault",
+        "A malicious program that replicates itself",
+        "A type of output device",
+        "A web browser"
       ],
       "correct_index": 1,
-      "explanation": "HTTP.",
-      "difficulty": 2
-    },
-    {
-      "id": "ict_040",
-      "text": "What does the acronym HTML stand for? (variant 40)",
-      "options": [
-        "HyperText Markup Language",
-        "No language",
-        "Only hypertext",
-        "Only markup"
-      ],
-      "correct_index": 0,
-      "explanation": "HTML.",
-      "difficulty": 2
-    },
-    {
-      "id": "ict_041",
-      "text": "What does a computer primarily process? (variant 41)",
-      "options": [
-        "Only storage",
-        "Only print",
-        "No processing",
-        "Data"
-      ],
-      "correct_index": 3,
-      "explanation": "Processes data.",
+      "explanation": "A computer virus is a malicious software designed to replicate and spread.",
       "difficulty": 1
     },
     {
-      "id": "ict_042",
-      "text": "Who is widely regarded as the father of the computer? (variant 42)",
+      "id": "ict_040",
+      "text": "What does the acronym ISP stand for in full?",
       "options": [
-        "Jobs",
-        "Zuckerberg",
-        "Babbage",
-        "Gates"
+        "Internet Service Provider",
+        "Internal System Protocol",
+        "Integrated Software Platform",
+        "Input Signal Processor"
+      ],
+      "correct_index": 0,
+      "explanation": "ISP stands for Internet Service Provider, a company that provides Internet access.",
+      "difficulty": 1
+    },
+    {
+      "id": "ict_041",
+      "text": "Which generation of computers used integrated circuits (ICs)?",
+      "options": [
+        "First generation",
+        "Second generation",
+        "Third generation",
+        "Fourth generation"
       ],
       "correct_index": 2,
-      "explanation": "Babbage.",
+      "explanation": "Third-generation computers (1965-1971) used integrated circuits.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_042",
+      "text": "What is the function of an operating system?",
+      "options": [
+        "Edit documents",
+        "Manage hardware and software resources",
+        "Design graphics",
+        "Send emails"
+      ],
+      "correct_index": 1,
+      "explanation": "An operating system acts as an interface between user and hardware, managing resources.",
       "difficulty": 1
     },
     {
       "id": "ict_043",
-      "text": "What does the acronym CPU stand for in computing? (variant 43)",
+      "text": "What is the value or meaning of the full form of USB in mathematics?",
       "options": [
-        "Only processing",
-        "Central Processing Unit",
-        "No meaning",
-        "Only central"
+        "Universal Serial Bus",
+        "United System Binary",
+        "Unified Service Bus",
+        "Universal System Bridge"
       ],
-      "correct_index": 1,
-      "explanation": "CPU.",
+      "correct_index": 0,
+      "explanation": "USB stands for Universal Serial Bus, used for connecting peripherals.",
       "difficulty": 1
     },
     {
       "id": "ict_044",
-      "text": "What does the acronym RAM stand for in computing? (variant 44)",
+      "text": "Which of the following is an example of system software?",
       "options": [
-        "Random Access Memory",
-        "No meaning",
-        "Only random",
-        "Only access"
+        "Microsoft Word",
+        "Windows 10",
+        "Adobe Reader",
+        "VLC Media Player"
       ],
-      "correct_index": 0,
-      "explanation": "RAM.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Windows 10 is an operating system, which is system software.",
+      "difficulty": 3
     },
     {
       "id": "ict_045",
-      "text": "What does the acronym ROM stand for in computing? (variant 45)",
+      "text": "What is the meaning of \"the purpose of a firewall\"?",
       "options": [
-        "No meaning",
-        "Only read",
-        "Only memory",
-        "Read Only Memory"
+        "Increase processing speed",
+        "Block unauthorised network access",
+        "Store files",
+        "Print documents"
       ],
-      "correct_index": 3,
-      "explanation": "ROM.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A firewall monitors and controls incoming and outgoing network traffic for security.",
+      "difficulty": 2
     },
     {
       "id": "ict_046",
-      "text": "Which of the following is an input device? (variant 46)",
+      "text": "Which device converts digital signals to analogue for transmission over phone lines?",
       "options": [
-        "Printer",
-        "Speaker",
-        "Keyboard",
-        "Monitor"
+        "Router",
+        "Modem",
+        "Switch",
+        "Hub"
       ],
-      "correct_index": 2,
-      "explanation": "Keyboard input.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A modulator-demodulator (modem) converts digital signals to analogue and vice versa.",
+      "difficulty": 2
     },
     {
       "id": "ict_047",
-      "text": "Which of the following is an output device? (variant 47)",
+      "text": "What is the value or meaning of a spreadsheet used for in mathematics?",
       "options": [
-        "Scanner",
-        "Monitor",
-        "Keyboard",
-        "Mouse"
+        "Word processing",
+        "Organising and calculating data in rows and columns",
+        "Drawing pictures",
+        "Browsing the web"
       ],
       "correct_index": 1,
-      "explanation": "Monitor output.",
+      "explanation": "A spreadsheet application is used to enter, manipulate, and calculate numerical data.",
       "difficulty": 1
     },
     {
       "id": "ict_048",
-      "text": "How many bits are there in one Byte? (variant 48)",
+      "text": "Which of the following produces hard copies of documents?",
       "options": [
-        "8 bits",
-        "4 bits",
-        "2 bits",
-        "16 bits"
+        "Monitor",
+        "Speaker",
+        "Printer",
+        "Headphones"
       ],
-      "correct_index": 0,
-      "explanation": "8 bits.",
+      "correct_index": 2,
+      "explanation": "A printer produces physical (hard) copies of digital documents.",
       "difficulty": 1
     },
     {
       "id": "ict_049",
-      "text": "What is the base of the binary number system? (variant 49)",
+      "text": "What is the hexadecimal equivalent of decimal 15?",
       "options": [
-        "10",
-        "8",
-        "16",
-        "2"
+        "D",
+        "E",
+        "F",
+        "15"
       ],
-      "correct_index": 3,
-      "explanation": "Base 2.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "In hexadecimal, decimal 15 is represented as F.",
+      "difficulty": 2
     },
     {
       "id": "ict_050",
-      "text": "What is the output condition of an AND gate? (variant 50)",
+      "text": "What does the acronym SQL stand for?",
       "options": [
-        "Inverts",
-        "No gate",
-        "Both inputs 1",
-        "At least one"
+        "Structured Query Language",
+        "System Query Logic",
+        "Standard Question Language",
+        "Simple Query List"
       ],
-      "correct_index": 2,
-      "explanation": "AND both 1.",
+      "correct_index": 0,
+      "explanation": "SQL stands for Structured Query Language, used for managing databases.",
       "difficulty": 2
     },
     {
       "id": "ict_051",
-      "text": "What is the Internet best described as? (variant 51)",
+      "text": "Which top-level domain is commonly used for educational institutions?",
       "options": [
-        "Only one",
-        "Interconnected networks",
-        "Single",
-        "No network"
+        ".com",
+        ".edu",
+        ".gov",
+        ".org"
       ],
       "correct_index": 1,
-      "explanation": "Interconnected.",
+      "explanation": "The .edu domain is reserved for educational institutions.",
       "difficulty": 1
     },
     {
       "id": "ict_052",
-      "text": "Which of the following is an example of a web browser? (variant 52)",
+      "text": "What is the purpose of an assembler?",
       "options": [
-        "Chrome",
-        "Windows",
-        "Linux",
-        "No browser"
+        "Compile high-level language",
+        "Translate assembly language to machine code",
+        "Execute programs",
+        "Design web pages"
       ],
-      "correct_index": 0,
-      "explanation": "Chrome.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "An assembler translates assembly language programs into machine code.",
+      "difficulty": 2
     },
     {
       "id": "ict_053",
-      "text": "What does the term Email stand for? (variant 53)",
+      "text": "Which of the following is a valid variable name in BASIC?",
       "options": [
-        "No mail",
-        "Only electronic",
-        "Only mail",
-        "Electronic mail"
+        "2name",
+        "NAME$",
+        "my-name",
+        "class name"
       ],
-      "correct_index": 3,
-      "explanation": "Electronic mail.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Variable names must start with a letter; NAME$ is valid for a string variable.",
+      "difficulty": 3
     },
     {
       "id": "ict_054",
-      "text": "What does the acronym LAN stand for in networking? (variant 54)",
+      "text": "What is the role of the ALU in a CPU?",
       "options": [
-        "Only local",
-        "Only area",
-        "Local Area Network",
-        "No network"
+        "Store data temporarily",
+        "Perform arithmetic and logical operations",
+        "Control peripherals",
+        "Manage memory"
       ],
-      "correct_index": 2,
-      "explanation": "LAN.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Arithmetic Logic Unit (ALU) performs all arithmetic and logical operations.",
+      "difficulty": 2
     },
     {
       "id": "ict_055",
-      "text": "What is Microsoft Word primarily used for? (variant 55)",
+      "text": "What does the control unit of a CPU do?",
       "options": [
-        "No processing",
-        "Word processing",
-        "Spreadsheet",
-        "Database"
+        "Performs calculations",
+        "Directs and coordinates all CPU operations",
+        "Stores results",
+        "Outputs data"
       ],
       "correct_index": 1,
-      "explanation": "Word processing.",
-      "difficulty": 1
+      "explanation": "The control unit fetches, decodes, and directs the execution of instructions.",
+      "difficulty": 2
     },
     {
       "id": "ict_056",
-      "text": "What is Microsoft Excel primarily used for? (variant 56)",
+      "text": "What is the value or meaning of virtual memory in mathematics?",
       "options": [
-        "Spreadsheet",
-        "Word",
-        "Database",
-        "No sheet"
+        "Physical RAM chip",
+        "An illusion of additional RAM using disk space",
+        "A type of cache",
+        "Permanent storage"
       ],
-      "correct_index": 0,
-      "explanation": "Spreadsheet.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Virtual memory uses a portion of the hard disk to simulate additional RAM.",
+      "difficulty": 3
     },
     {
       "id": "ict_057",
-      "text": "What is a computer virus and how does it affect a system? (variant 57)",
+      "text": "Which of the following is NOT a logic gate?",
       "options": [
-        "Useful",
-        "No program",
-        "Only hardware",
-        "Malicious program"
+        "AND",
+        "OR",
+        "XOR",
+        "ADD"
       ],
       "correct_index": 3,
-      "explanation": "Malicious.",
+      "explanation": "ADD is an arithmetic operation, not a logic gate.",
       "difficulty": 1
     },
     {
       "id": "ict_058",
-      "text": "What does the acronym ICT stand for? (variant 58)",
+      "text": "What is the output of a NOT gate when the input is 1?",
       "options": [
-        "Only info",
-        "Only tech",
-        "Information and Communication Technology",
-        "No meaning"
+        "1",
+        "0",
+        "Undefined",
+        "Both 0 and 1"
       ],
-      "correct_index": 2,
-      "explanation": "ICT.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A NOT gate inverts the input, so input 1 produces output 0.",
+      "difficulty": 2
     },
     {
       "id": "ict_059",
-      "text": "What does the acronym HTTP stand for? (variant 59)",
+      "text": "What does the booting process of a computer involve?",
       "options": [
-        "Only transfer",
-        "HyperText Transfer Protocol",
-        "No meaning",
-        "Only hypertext"
+        "Installing software",
+        "Loading the operating system into RAM",
+        "Formatting the hard disk",
+        "Connecting to the Internet"
       ],
       "correct_index": 1,
-      "explanation": "HTTP.",
-      "difficulty": 2
+      "explanation": "Booting loads the operating system from storage into RAM so the computer can operate.",
+      "difficulty": 1
     },
     {
       "id": "ict_060",
-      "text": "What does the acronym HTML stand for? (variant 60)",
+      "text": "What is a presentation software used for?",
       "options": [
-        "HyperText Markup Language",
-        "No language",
-        "Only hypertext",
-        "Only markup"
+        "Calculations",
+        "Creating slideshows for visual communication",
+        "Database management",
+        "Email sending"
       ],
-      "correct_index": 0,
-      "explanation": "HTML.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Presentation software like PowerPoint is used to create visual slide presentations.",
+      "difficulty": 1
     },
     {
       "id": "ict_061",
-      "text": "What does a computer primarily process? (variant 61)",
+      "text": "What does the acronym FTP stand for?",
       "options": [
-        "Only storage",
-        "Only print",
-        "No processing",
-        "Data"
+        "File Transfer Protocol",
+        "Fast Text Processing",
+        "File Transmission Program",
+        "Full Transfer Platform"
       ],
-      "correct_index": 3,
-      "explanation": "Processes data.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "FTP stands for File Transfer Protocol, used for transferring files between computers.",
+      "difficulty": 2
     },
     {
       "id": "ict_062",
-      "text": "Who is widely regarded as the father of the computer? (variant 62)",
+      "text": "What is the difference between ROM and RAM?",
       "options": [
-        "Jobs",
-        "Zuckerberg",
-        "Babbage",
-        "Gates"
+        "ROM is faster",
+        "ROM is non-volatile; RAM is volatile",
+        "RAM stores the OS",
+        "ROM is used for input"
       ],
-      "correct_index": 2,
-      "explanation": "Babbage.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "ROM retains data without power (non-volatile), while RAM loses data when power is off (volatile).",
+      "difficulty": 2
     },
     {
       "id": "ict_063",
-      "text": "What does the acronym CPU stand for in computing? (variant 63)",
+      "text": "Which device is used to connect multiple networks together?",
       "options": [
-        "Only processing",
-        "Central Processing Unit",
-        "No meaning",
-        "Only central"
+        "Printer",
+        "Router",
+        "Monitor",
+        "Keyboard"
       ],
       "correct_index": 1,
-      "explanation": "CPU.",
+      "explanation": "A router forwards data packets between different networks.",
       "difficulty": 1
     },
     {
       "id": "ict_064",
-      "text": "What does the acronym RAM stand for in computing? (variant 64)",
+      "text": "What is the purpose of a database management system (DBMS)?",
       "options": [
-        "Random Access Memory",
-        "No meaning",
-        "Only random",
-        "Only access"
+        "Draw pictures",
+        "Create and manage databases efficiently",
+        "Browse the web",
+        "Process audio"
       ],
-      "correct_index": 0,
-      "explanation": "RAM.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A DBMS is software that allows users to create, retrieve, update, and manage data in databases.",
+      "difficulty": 2
     },
     {
       "id": "ict_065",
-      "text": "What does the acronym ROM stand for in computing? (variant 65)",
+      "text": "What does the computing term GUI stand for?",
       "options": [
-        "No meaning",
-        "Only read",
-        "Only memory",
-        "Read Only Memory"
+        "General User Interface",
+        "Graphical User Interface",
+        "Global User Integration",
+        "Guided User Interaction"
       ],
-      "correct_index": 3,
-      "explanation": "ROM.",
+      "correct_index": 1,
+      "explanation": "GUI stands for Graphical User Interface, which allows users to interact with visual elements.",
       "difficulty": 1
     },
     {
       "id": "ict_066",
-      "text": "Which of the following is an input device? (variant 66)",
+      "text": "What is the binary equivalent of the hexadecimal digit A?",
       "options": [
-        "Printer",
-        "Speaker",
-        "Keyboard",
-        "Monitor"
+        "1100",
+        "1010",
+        "1001",
+        "1110"
       ],
-      "correct_index": 2,
-      "explanation": "Keyboard input.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Hexadecimal A equals 10 in decimal, which is 1010 in binary.",
+      "difficulty": 2
     },
     {
       "id": "ict_067",
-      "text": "Which of the following is an output device? (variant 67)",
+      "text": "What is the value or meaning of an IPO chart used for in mathematics?",
       "options": [
-        "Scanner",
-        "Monitor",
-        "Keyboard",
-        "Mouse"
+        "Internet browsing",
+        "Showing Input, Process, and Output of a system",
+        "Printing documents",
+        "Storing images"
       ],
       "correct_index": 1,
-      "explanation": "Monitor output.",
-      "difficulty": 1
+      "explanation": "An IPO (Input-Process-Output) chart describes the data flow of a system.",
+      "difficulty": 2
     },
     {
       "id": "ict_068",
-      "text": "How many bits are there in one Byte? (variant 68)",
+      "text": "Which of the following is an example of cloud computing?",
       "options": [
-        "8 bits",
-        "4 bits",
-        "2 bits",
-        "16 bits"
+        "Saving files to a local hard disk",
+        "Using Google Drive to store files online",
+        "Printing a document",
+        "Connecting a USB drive"
       ],
-      "correct_index": 0,
-      "explanation": "8 bits.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Google Drive provides cloud storage, allowing access to files over the Internet.",
+      "difficulty": 3
     },
     {
       "id": "ict_069",
-      "text": "What is the base of the binary number system? (variant 69)",
+      "text": "What is the value or meaning of the full meaning of AI in mathematics?",
       "options": [
-        "10",
-        "8",
-        "16",
-        "2"
+        "Automated Intelligence",
+        "Artificial Intelligence",
+        "Applied Information",
+        "Active Integration"
       ],
-      "correct_index": 3,
-      "explanation": "Base 2.",
+      "correct_index": 1,
+      "explanation": "AI stands for Artificial Intelligence, the simulation of human intelligence by machines.",
       "difficulty": 1
     },
     {
       "id": "ict_070",
-      "text": "What is the output condition of an AND gate? (variant 70)",
+      "text": "What is the value or meaning of e-waste in mathematics?",
       "options": [
-        "Inverts",
-        "No gate",
-        "Both inputs 1",
-        "At least one"
+        "Paper waste",
+        "Discarded electronic devices and equipment",
+        "Food waste",
+        "Plastic waste only"
       ],
-      "correct_index": 2,
-      "explanation": "AND both 1.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "E-waste refers to discarded electrical and electronic equipment.",
+      "difficulty": 1
     },
     {
       "id": "ict_071",
-      "text": "What is the Internet best described as? (variant 71)",
+      "text": "Which of the following is a blogging platform?",
       "options": [
-        "Only one",
-        "Interconnected networks",
-        "Single",
-        "No network"
+        "Facebook",
+        "WordPress",
+        "Instagram",
+        "Twitter"
       ],
       "correct_index": 1,
-      "explanation": "Interconnected.",
+      "explanation": "WordPress is a popular platform for creating and managing blogs and websites.",
       "difficulty": 1
     },
     {
       "id": "ict_072",
-      "text": "Which of the following is an example of a web browser? (variant 72)",
+      "text": "What is the value or meaning of phishing in mathematics?",
       "options": [
-        "Chrome",
-        "Windows",
-        "Linux",
-        "No browser"
+        "A fishing activity online",
+        "A fraudulent attempt to obtain sensitive information by pretending to be trustworthy",
+        "A type of firewall",
+        "A network device"
       ],
-      "correct_index": 0,
-      "explanation": "Chrome.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Phishing is a cyber attack where attackers impersonate legitimate entities to steal personal data.",
+      "difficulty": 2
     },
     {
       "id": "ict_073",
-      "text": "What does the term Email stand for? (variant 73)",
+      "text": "What does the term 'bandwidth' refer to?",
       "options": [
-        "No mail",
-        "Only electronic",
-        "Only mail",
-        "Electronic mail"
+        "The width of a monitor",
+        "The maximum rate of data transfer across a network",
+        "The size of a file",
+        "The number of users on a network"
       ],
-      "correct_index": 3,
-      "explanation": "Electronic mail.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Bandwidth measures the maximum amount of data that can be transmitted per unit time.",
+      "difficulty": 2
     },
     {
       "id": "ict_074",
-      "text": "What does the acronym LAN stand for in networking? (variant 74)",
+      "text": "What is the purpose of a search engine?",
       "options": [
-        "Only local",
-        "Only area",
-        "Local Area Network",
-        "No network"
+        "Send emails",
+        "Search and retrieve information from the web",
+        "Edit videos",
+        "Store local files"
       ],
-      "correct_index": 2,
-      "explanation": "LAN.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A search engine indexes web content and helps users find relevant information online.",
+      "difficulty": 3
     },
     {
       "id": "ict_075",
-      "text": "What is Microsoft Word primarily used for? (variant 75)",
+      "text": "Which programming language is commonly used for web page design?",
       "options": [
-        "No processing",
-        "Word processing",
-        "Spreadsheet",
-        "Database"
+        "Python",
+        "C++",
+        "HTML",
+        "Java"
       ],
-      "correct_index": 1,
-      "explanation": "Word processing.",
+      "correct_index": 2,
+      "explanation": "HTML (HyperText Markup Language) is used to structure and design web pages.",
       "difficulty": 1
     },
     {
       "id": "ict_076",
-      "text": "What is Microsoft Excel primarily used for? (variant 76)",
+      "text": "What is the function of a proxy server?",
       "options": [
-        "Spreadsheet",
-        "Word",
-        "Database",
-        "No sheet"
+        "Direct Internet connection",
+        "Act as an intermediary between client and the Internet",
+        "Store user files",
+        "Enhance monitor display"
       ],
-      "correct_index": 0,
-      "explanation": "Spreadsheet.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A proxy server acts as an intermediary, forwarding requests from clients to the Internet.",
+      "difficulty": 3
     },
     {
       "id": "ict_077",
-      "text": "What is a computer virus and how does it affect a system? (variant 77)",
+      "text": "What is the octal equivalent of decimal 8?",
       "options": [
-        "Useful",
-        "No program",
-        "Only hardware",
-        "Malicious program"
+        "8",
+        "10",
+        "11",
+        "12"
       ],
-      "correct_index": 3,
-      "explanation": "Malicious.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Decimal 8 equals 10 in octal (1Ã—8 + 0Ã—1).",
+      "difficulty": 3
     },
     {
       "id": "ict_078",
-      "text": "What does the acronym ICT stand for? (variant 78)",
+      "text": "What is the meaning of \"the purpose of a trackball\"?",
       "options": [
-        "Only info",
-        "Only tech",
-        "Information and Communication Technology",
-        "No meaning"
+        "Print documents",
+        "Pointing device that operates by rolling a ball",
+        "Store data",
+        "Scan images"
       ],
-      "correct_index": 2,
-      "explanation": "ICT.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A trackball is a pointing device where the user rolls a ball to control the cursor.",
+      "difficulty": 2
     },
     {
       "id": "ict_079",
-      "text": "What does the acronym HTTP stand for? (variant 79)",
+      "text": "What is the value or meaning of machine language in mathematics?",
       "options": [
-        "Only transfer",
-        "HyperText Transfer Protocol",
-        "No meaning",
-        "Only hypertext"
+        "A high-level programming language",
+        "Binary code (0s and 1s) directly understood by the computer",
+        "A language spoken by humans",
+        "A markup language"
       ],
       "correct_index": 1,
-      "explanation": "HTTP.",
+      "explanation": "Machine language is the lowest-level language consisting of binary digits (0s and 1s).",
       "difficulty": 2
     },
     {
       "id": "ict_080",
-      "text": "What does the acronym HTML stand for? (variant 80)",
+      "text": "Which of the following is a measure of computer speed?",
       "options": [
-        "HyperText Markup Language",
-        "No language",
-        "Only hypertext",
-        "Only markup"
+        "Byte",
+        "Hertz (clock speed)",
+        "Kilogram",
+        "Litre"
       ],
-      "correct_index": 0,
-      "explanation": "HTML.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "CPU speed is measured in Hertz (Hz), e.g., GHz (gigahertz).",
+      "difficulty": 3
     },
     {
       "id": "ict_081",
-      "text": "What does a computer primarily process? (variant 81)",
+      "text": "What does the acronym IoT stand for?",
       "options": [
-        "Only storage",
-        "Only print",
-        "No processing",
-        "Data"
+        "Internet of Things",
+        "Input Output Terminal",
+        "Integrated Online Technology",
+        "Internal Operating Tool"
       ],
-      "correct_index": 3,
-      "explanation": "Processes data.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "IoT stands for Internet of Things, a network of interconnected smart devices.",
+      "difficulty": 2
     },
     {
       "id": "ict_082",
-      "text": "Who is widely regarded as the father of the computer? (variant 82)",
+      "text": "What is an IPO in the context of computing?",
       "options": [
-        "Jobs",
-        "Zuckerberg",
-        "Babbage",
-        "Gates"
+        "Initial Program Opening",
+        "Input, Process, Output",
+        "Internet Protocol Operation",
+        "Internal Power On"
       ],
-      "correct_index": 2,
-      "explanation": "Babbage.",
+      "correct_index": 1,
+      "explanation": "IPO stands for Input, Process, Output, describing how data flows through a system.",
       "difficulty": 1
     },
     {
       "id": "ict_083",
-      "text": "What does the acronym CPU stand for in computing? (variant 83)",
+      "text": "Which type of memory has the fastest access time?",
       "options": [
-        "Only processing",
-        "Central Processing Unit",
-        "No meaning",
-        "Only central"
+        "RAM",
+        "Hard disk",
+        "Cache memory",
+        "CD-ROM"
       ],
-      "correct_index": 1,
-      "explanation": "CPU.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Cache memory is the fastest memory, located closest to the CPU.",
+      "difficulty": 2
     },
     {
       "id": "ict_084",
-      "text": "What does the acronym RAM stand for in computing? (variant 84)",
+      "text": "What is an Ethernet cable primarily used for?",
       "options": [
-        "Random Access Memory",
-        "No meaning",
-        "Only random",
-        "Only access"
+        "Wireless connection",
+        "Wired network connection",
+        "Power supply",
+        "Audio output"
       ],
-      "correct_index": 0,
-      "explanation": "RAM.",
+      "correct_index": 1,
+      "explanation": "An Ethernet cable provides a wired connection to a local area network (LAN).",
       "difficulty": 1
     },
     {
       "id": "ict_085",
-      "text": "What does the acronym ROM stand for in computing? (variant 85)",
+      "text": "What is the main advantage of optical fibre over copper cable?",
       "options": [
-        "No meaning",
-        "Only read",
-        "Only memory",
-        "Read Only Memory"
+        "Lower cost",
+        "Higher data transmission speed and less signal loss",
+        "Easier to install",
+        "Lighter weight only"
       ],
-      "correct_index": 3,
-      "explanation": "ROM.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Optical fibre transmits data as light, offering higher speeds and less signal attenuation.",
+      "difficulty": 3
     },
     {
       "id": "ict_086",
-      "text": "Which of the following is an input device? (variant 86)",
+      "text": "What is the decimal equivalent of hexadecimal 1A?",
       "options": [
-        "Printer",
-        "Speaker",
-        "Keyboard",
-        "Monitor"
+        "25",
+        "26",
+        "27",
+        "28"
       ],
-      "correct_index": 2,
-      "explanation": "Keyboard input.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Hex 1A = 1Ã—16 + 10 = 26 in decimal.",
+      "difficulty": 3
     },
     {
       "id": "ict_087",
-      "text": "Which of the following is an output device? (variant 87)",
+      "text": "What does the PRINT statement do in BASIC?",
       "options": [
-        "Scanner",
-        "Monitor",
-        "Keyboard",
-        "Mouse"
+        "Accepts input",
+        "Displays output on the screen",
+        "Performs a calculation",
+        "Terminates the program"
       ],
       "correct_index": 1,
-      "explanation": "Monitor output.",
-      "difficulty": 1
-    },
-    {
-      "id": "ict_088",
-      "text": "How many bits are there in one Byte? (variant 88)",
-      "options": [
-        "8 bits",
-        "4 bits",
-        "2 bits",
-        "16 bits"
-      ],
-      "correct_index": 0,
-      "explanation": "8 bits.",
-      "difficulty": 1
-    },
-    {
-      "id": "ict_089",
-      "text": "What is the base of the binary number system? (variant 89)",
-      "options": [
-        "10",
-        "8",
-        "16",
-        "2"
-      ],
-      "correct_index": 3,
-      "explanation": "Base 2.",
-      "difficulty": 1
-    },
-    {
-      "id": "ict_090",
-      "text": "What is the output condition of an AND gate? (variant 90)",
-      "options": [
-        "Inverts",
-        "No gate",
-        "Both inputs 1",
-        "At least one"
-      ],
-      "correct_index": 2,
-      "explanation": "AND both 1.",
+      "explanation": "The PRINT statement outputs text or values to the screen.",
       "difficulty": 2
     },
     {
-      "id": "ict_091",
-      "text": "What is the Internet best described as? (variant 91)",
+      "id": "ict_088",
+      "text": "What is the value or meaning of a character set in mathematics?",
       "options": [
-        "Only one",
-        "Interconnected networks",
-        "Single",
-        "No network"
+        "A set of instructions",
+        "A collection of letters, digits, and symbols the computer recognises",
+        "A type of memory",
+        "A programming language"
       ],
       "correct_index": 1,
-      "explanation": "Interconnected.",
-      "difficulty": 1
+      "explanation": "A character set is the complete set of characters that a computer can represent.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_089",
+      "text": "What does the acronym ASCII stand for in full?",
+      "options": [
+        "American Standard Code for Information Interchange",
+        "Advanced System Code for Integrated Intelligence",
+        "Automatic Standard Computing Interface",
+        "Applied Science Code for Internal Exchange"
+      ],
+      "correct_index": 0,
+      "explanation": "ASCII stands for American Standard Code for Information Interchange, a character encoding standard.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_090",
+      "text": "What is the output of an XOR gate when both inputs are the same?",
+      "options": [
+        "1",
+        "0",
+        "Undefined",
+        "Alternating"
+      ],
+      "correct_index": 1,
+      "explanation": "An XOR gate outputs 0 when both inputs are the same (both 0 or both 1).",
+      "difficulty": 3
+    },
+    {
+      "id": "ict_091",
+      "text": "What is the purpose of a trackpad on a laptop?",
+      "options": [
+        "Type text",
+        "Move the cursor and interact with the screen",
+        "Play music",
+        "Display images"
+      ],
+      "correct_index": 1,
+      "explanation": "A trackpad is a pointing device built into laptops, replacing a mouse.",
+      "difficulty": 3
     },
     {
       "id": "ict_092",
-      "text": "Which of the following is an example of a web browser? (variant 92)",
+      "text": "What is the value or meaning of the full form of PDF in mathematics?",
       "options": [
-        "Chrome",
-        "Windows",
-        "Linux",
-        "No browser"
+        "Portable Document Format",
+        "Printed Document File",
+        "Personal Data File",
+        "Public Display Format"
       ],
       "correct_index": 0,
-      "explanation": "Chrome.",
+      "explanation": "PDF stands for Portable Document Format, developed by Adobe for document sharing.",
       "difficulty": 1
     },
     {
       "id": "ict_093",
-      "text": "What does the term Email stand for? (variant 93)",
+      "text": "What is the difference between a switch and a hub?",
       "options": [
-        "No mail",
-        "Only electronic",
-        "Only mail",
-        "Electronic mail"
+        "They are the same",
+        "A switch sends data only to the intended port; a hub broadcasts to all",
+        "A hub is faster",
+        "A switch is older technology"
       ],
-      "correct_index": 3,
-      "explanation": "Electronic mail.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A switch intelligently directs data to the target device, while a hub broadcasts to all ports.",
+      "difficulty": 3
     },
     {
       "id": "ict_094",
-      "text": "What does the acronym LAN stand for in networking? (variant 94)",
+      "text": "What is the IP address 127.0.0.1 commonly called?",
       "options": [
-        "Only local",
-        "Only area",
-        "Local Area Network",
-        "No network"
+        "Public address",
+        "Broadcast address",
+        "Loopback address (localhost)",
+        "Default gateway"
       ],
       "correct_index": 2,
-      "explanation": "LAN.",
-      "difficulty": 1
+      "explanation": "127.0.0.1 is the loopback address, used to test network software on the local machine.",
+      "difficulty": 3
     },
     {
       "id": "ict_095",
-      "text": "What is Microsoft Word primarily used for? (variant 95)",
+      "text": "Which of the following is a benefit of using ICT in education?",
       "options": [
-        "No processing",
-        "Word processing",
-        "Spreadsheet",
-        "Database"
+        "Increases paper usage",
+        "Provides access to vast online learning resources",
+        "Eliminates all need for teachers",
+        "Slows down learning"
       ],
       "correct_index": 1,
-      "explanation": "Word processing.",
+      "explanation": "ICT provides learners with access to e-learning materials, simulations, and global resources.",
       "difficulty": 1
     },
     {
       "id": "ict_096",
-      "text": "What is Microsoft Excel primarily used for? (variant 96)",
+      "text": "What is the value or meaning of a peripheral device in mathematics?",
       "options": [
-        "Spreadsheet",
-        "Word",
-        "Database",
-        "No sheet"
+        "The CPU",
+        "A device that connects to the computer to extend its capabilities",
+        "The motherboard",
+        "The operating system"
       ],
-      "correct_index": 0,
-      "explanation": "Spreadsheet.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A peripheral is an auxiliary device like a printer, mouse, or keyboard connected to the computer.",
+      "difficulty": 3
     },
     {
       "id": "ict_097",
-      "text": "What is a computer virus and how does it affect a system? (variant 97)",
+      "text": "What does the command FOR...NEXT do in BASIC?",
       "options": [
-        "Useful",
-        "No program",
-        "Only hardware",
-        "Malicious program"
+        "Accepts user input",
+        "Creates a loop that repeats a block of code",
+        "Stops the program",
+        "Prints a line"
       ],
-      "correct_index": 3,
-      "explanation": "Malicious.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "FOR...NEXT creates a counted loop, executing code a specified number of times.",
+      "difficulty": 2
     },
     {
       "id": "ict_098",
-      "text": "What does the acronym ICT stand for? (variant 98)",
+      "text": "What is the binary equivalent of the octal number 7?",
       "options": [
-        "Only info",
-        "Only tech",
-        "Information and Communication Technology",
-        "No meaning"
+        "101",
+        "110",
+        "111",
+        "100"
       ],
       "correct_index": 2,
-      "explanation": "ICT.",
-      "difficulty": 1
+      "explanation": "Octal 7 equals 7 in decimal, which is 111 in binary.",
+      "difficulty": 2
     },
     {
       "id": "ict_099",
-      "text": "What does the acronym HTTP stand for? (variant 99)",
+      "text": "What is a star topology's main disadvantage?",
       "options": [
-        "Only transfer",
-        "HyperText Transfer Protocol",
-        "No meaning",
-        "Only hypertext"
+        "Difficult to set up",
+        "If the central hub fails, the whole network fails",
+        "Expensive cabling",
+        "Slow data transfer"
       ],
       "correct_index": 1,
-      "explanation": "HTTP.",
+      "explanation": "Star topology depends on the central hub; its failure brings down the entire network.",
       "difficulty": 2
     },
     {
       "id": "ict_100",
-      "text": "What does the acronym HTML stand for? (variant 100)",
+      "text": "What is the primary role of an antivirus program?",
       "options": [
-        "HyperText Markup Language",
-        "No language",
-        "Only hypertext",
-        "Only markup"
+        "Speed up the computer",
+        "Detect and remove malicious software",
+        "Manage files",
+        "Browse the Internet"
       ],
-      "correct_index": 0,
-      "explanation": "HTML.",
-      "difficulty": 2
-    },
-    {
-      "id": "ict_101",
-      "text": "What does a computer primarily process? (variant 101)",
-      "options": [
-        "Only storage",
-        "Only print",
-        "No processing",
-        "Data"
-      ],
-      "correct_index": 3,
-      "explanation": "Processes data.",
+      "correct_index": 1,
+      "explanation": "An antivirus program scans for, detects, and removes malware and viruses.",
       "difficulty": 1
     },
     {
-      "id": "ict_102",
-      "text": "Who is widely regarded as the father of the computer? (variant 102)",
+      "id": "ict_101",
+      "text": "What is the function of the recycle bin on a computer desktop?",
       "options": [
-        "Jobs",
-        "Zuckerberg",
-        "Babbage",
-        "Gates"
+        "Permanently deletes files",
+        "Temporarily stores deleted files for possible recovery",
+        "Stores system files",
+        "Backs up data automatically"
       ],
-      "correct_index": 2,
-      "explanation": "Babbage.",
+      "correct_index": 1,
+      "explanation": "The recycle bin holds deleted files temporarily, allowing restoration before permanent deletion.",
+      "difficulty": 3
+    },
+    {
+      "id": "ict_102",
+      "text": "What does MAN stand for in networking?",
+      "options": [
+        "Metropolitan Area Network",
+        "Main Access Node",
+        "Managed Application Network",
+        "Multi-Access Network"
+      ],
+      "correct_index": 0,
+      "explanation": "MAN stands for Metropolitan Area Network, connecting users across a city or campus.",
       "difficulty": 1
     },
     {
       "id": "ict_103",
-      "text": "What does the acronym CPU stand for in computing? (variant 103)",
+      "text": "What is the decimal equivalent of binary 10000?",
       "options": [
-        "Only processing",
-        "Central Processing Unit",
-        "No meaning",
-        "Only central"
+        "15",
+        "16",
+        "17",
+        "32"
       ],
       "correct_index": 1,
-      "explanation": "CPU.",
-      "difficulty": 1
+      "explanation": "Binary 10000 = 1Ã—2^4 = 16 in decimal.",
+      "difficulty": 2
     },
     {
       "id": "ict_104",
-      "text": "What does the acronym RAM stand for in computing? (variant 104)",
+      "text": "What is the value or meaning of a compiler in mathematics?",
       "options": [
-        "Random Access Memory",
-        "No meaning",
-        "Only random",
-        "Only access"
+        "An interpreter that reads code line by line",
+        "A program that translates the entire source code into machine code at once",
+        "A hardware device",
+        "A web browser"
       ],
-      "correct_index": 0,
-      "explanation": "RAM.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A compiler translates the whole high-level source program into machine code before execution.",
+      "difficulty": 2
     },
     {
       "id": "ict_105",
-      "text": "What does the acronym ROM stand for in computing? (variant 105)",
+      "text": "What is a key difference between a compiler and an interpreter?",
       "options": [
-        "No meaning",
-        "Only read",
-        "Only memory",
-        "Read Only Memory"
+        "There is no difference",
+        "A compiler translates all at once; an interpreter translates line by line during execution",
+        "An interpreter is faster",
+        "A compiler cannot execute programs"
       ],
-      "correct_index": 3,
-      "explanation": "ROM.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A compiler translates the entire program upfront, while an interpreter translates and executes one line at a time.",
+      "difficulty": 3
     },
     {
       "id": "ict_106",
-      "text": "Which of the following is an input device? (variant 106)",
+      "text": "What is the main purpose of a word processor?",
       "options": [
-        "Printer",
-        "Speaker",
-        "Keyboard",
-        "Monitor"
+        "Spreadsheet calculations",
+        "Creating, editing, and formatting text documents",
+        "Database queries",
+        "Internet browsing"
       ],
-      "correct_index": 2,
-      "explanation": "Keyboard input.",
+      "correct_index": 1,
+      "explanation": "A word processor is application software for writing, editing, and formatting text.",
       "difficulty": 1
     },
     {
       "id": "ict_107",
-      "text": "Which of the following is an output device? (variant 107)",
+      "text": "Which protocol is used to view web pages?",
       "options": [
-        "Scanner",
-        "Monitor",
-        "Keyboard",
-        "Mouse"
+        "SMTP",
+        "FTP",
+        "HTTP/HTTPS",
+        "SNMP"
       ],
-      "correct_index": 1,
-      "explanation": "Monitor output.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "HTTP (HyperText Transfer Protocol) and its secure version HTTPS are used to access web pages.",
+      "difficulty": 3
     },
     {
       "id": "ict_108",
-      "text": "How many bits are there in one Byte? (variant 108)",
+      "text": "What is the value or meaning of the full meaning of VPN in mathematics?",
       "options": [
-        "8 bits",
-        "4 bits",
-        "2 bits",
-        "16 bits"
+        "Virtual Private Network",
+        "Very Personal Network",
+        "Verified Public Network",
+        "Virtual Public Node"
       ],
       "correct_index": 0,
-      "explanation": "8 bits.",
-      "difficulty": 1
+      "explanation": "VPN stands for Virtual Private Network, which creates a secure encrypted connection over the Internet.",
+      "difficulty": 2
     },
     {
       "id": "ict_109",
-      "text": "What is the base of the binary number system? (variant 109)",
+      "text": "What is the main feature of blockchain technology?",
       "options": [
-        "10",
-        "8",
-        "16",
-        "2"
+        "Centralised control",
+        "Decentralised, immutable ledger of transactions",
+        "Requires a single server",
+        "Only used for emails"
       ],
-      "correct_index": 3,
-      "explanation": "Base 2.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Blockchain is a decentralised, distributed ledger where transactions are recorded immutably.",
+      "difficulty": 3
     },
     {
       "id": "ict_110",
-      "text": "What is the output condition of an AND gate? (variant 110)",
+      "text": "Which generation of computers used microprocessors?",
       "options": [
-        "Inverts",
-        "No gate",
-        "Both inputs 1",
-        "At least one"
+        "Second generation",
+        "Third generation",
+        "Fourth generation",
+        "Fifth generation"
       ],
       "correct_index": 2,
-      "explanation": "AND both 1.",
+      "explanation": "Fourth-generation computers (1971-present) use microprocessors.",
       "difficulty": 2
     },
     {
       "id": "ict_111",
-      "text": "What is the Internet best described as? (variant 111)",
+      "text": "What is the function of a light pen?",
       "options": [
-        "Only one",
-        "Interconnected networks",
-        "Single",
-        "No network"
+        "Scan barcodes",
+        "Select items directly on a CRT screen by pointing",
+        "Print documents",
+        "Measure light intensity"
       ],
       "correct_index": 1,
-      "explanation": "Interconnected.",
-      "difficulty": 1
+      "explanation": "A light pen is a pointing device that detects light from a CRT monitor to select screen positions.",
+      "difficulty": 3
     },
     {
       "id": "ict_112",
-      "text": "Which of the following is an example of a web browser? (variant 112)",
+      "text": "What is the value or meaning of the purpose of the DNS in mathematics?",
       "options": [
-        "Chrome",
-        "Windows",
-        "Linux",
-        "No browser"
+        "Send files",
+        "Translate domain names to IP addresses",
+        "Manage databases",
+        "Control traffic lights"
       ],
-      "correct_index": 0,
-      "explanation": "Chrome.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "DNS (Domain Name System) translates human-readable domain names into IP addresses.",
+      "difficulty": 2
     },
     {
       "id": "ict_113",
-      "text": "What does the term Email stand for? (variant 113)",
+      "text": "What is the function of OCR technology?",
       "options": [
-        "No mail",
-        "Only electronic",
-        "Only mail",
-        "Electronic mail"
+        "Recognise spoken words",
+        "Convert printed or handwritten text into machine-readable data",
+        "Enhance images",
+        "Play audio files"
       ],
-      "correct_index": 3,
-      "explanation": "Electronic mail.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "OCR (Optical Character Recognition) scans text images and converts them into editable digital text.",
+      "difficulty": 2
     },
     {
       "id": "ict_114",
-      "text": "What does the acronym LAN stand for in networking? (variant 114)",
+      "text": "What is the value or meaning of an SSD in mathematics?",
       "options": [
-        "Only local",
-        "Only area",
-        "Local Area Network",
-        "No network"
+        "A type of monitor",
+        "A solid-state drive with no moving parts for data storage",
+        "A sound system device",
+        "A network switch"
       ],
-      "correct_index": 2,
-      "explanation": "LAN.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "An SSD (Solid State Drive) uses flash memory for faster, more reliable data storage than HDDs.",
+      "difficulty": 2
     },
     {
       "id": "ict_115",
-      "text": "What is Microsoft Word primarily used for? (variant 115)",
+      "text": "What is the difference between the Internet and the World Wide Web?",
       "options": [
-        "No processing",
-        "Word processing",
-        "Spreadsheet",
-        "Database"
+        "They are identical",
+        "The Internet is the infrastructure; the Web is a service running on it",
+        "The Web came before the Internet",
+        "The Internet is for emails only"
       ],
       "correct_index": 1,
-      "explanation": "Word processing.",
-      "difficulty": 1
+      "explanation": "The Internet is the global network infrastructure, while the WWW is an information system using it.",
+      "difficulty": 3
     },
     {
       "id": "ict_116",
-      "text": "What is Microsoft Excel primarily used for? (variant 116)",
+      "text": "What does the IF...THEN statement do in programming?",
       "options": [
-        "Spreadsheet",
-        "Word",
-        "Database",
-        "No sheet"
+        "Loops code indefinitely",
+        "Executes a block of code only if a condition is true",
+        "Prints output",
+        "Reads input"
       ],
-      "correct_index": 0,
-      "explanation": "Spreadsheet.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "IF...THEN is a conditional structure that executes code only when the specified condition is true.",
+      "difficulty": 2
     },
     {
       "id": "ict_117",
-      "text": "What is a computer virus and how does it affect a system? (variant 117)",
+      "text": "What is the value or meaning of the purpose of a UPS in mathematics?",
       "options": [
-        "Useful",
-        "No program",
-        "Only hardware",
-        "Malicious program"
+        "Speed up Internet",
+        "Provide temporary power during an outage to protect the computer",
+        "Charge batteries",
+        "Amplify audio"
       ],
-      "correct_index": 3,
-      "explanation": "Malicious.",
+      "correct_index": 1,
+      "explanation": "A UPS (Uninterruptible Power Supply) provides backup power to keep a computer running during power cuts.",
       "difficulty": 1
     },
     {
       "id": "ict_118",
-      "text": "What does the acronym ICT stand for? (variant 118)",
+      "text": "What is the purpose of a barcode reader?",
       "options": [
-        "Only info",
-        "Only tech",
-        "Information and Communication Technology",
-        "No meaning"
+        "Print labels",
+        "Scan and decode barcodes into data for the computer",
+        "Display barcodes",
+        "Create barcodes"
       ],
-      "correct_index": 2,
-      "explanation": "ICT.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A barcode reader scans barcodes and converts them into digital data for processing.",
+      "difficulty": 3
     },
     {
       "id": "ict_119",
-      "text": "What does the acronym HTTP stand for? (variant 119)",
+      "text": "What is the value or meaning of a macro in a spreadsheet in mathematics?",
       "options": [
-        "Only transfer",
-        "HyperText Transfer Protocol",
-        "No meaning",
-        "Only hypertext"
+        "A large cell",
+        "A recorded sequence of actions that can be replayed automatically",
+        "A type of chart",
+        "A cell format"
       ],
       "correct_index": 1,
-      "explanation": "HTTP.",
+      "explanation": "A macro automates repetitive tasks by recording a sequence of user actions.",
       "difficulty": 2
     },
     {
       "id": "ict_120",
-      "text": "What does the acronym HTML stand for? (variant 120)",
+      "text": "What is the function of a decompiler?",
       "options": [
-        "HyperText Markup Language",
-        "No language",
-        "Only hypertext",
-        "Only markup"
+        "Translate assembly to machine code",
+        "Convert machine code back into a higher-level language",
+        "Compress files",
+        "Encrypt data"
       ],
-      "correct_index": 0,
-      "explanation": "HTML.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "A decompiler attempts to reverse machine code into a more readable high-level language.",
+      "difficulty": 3
     },
     {
       "id": "ict_121",
-      "text": "What does a computer primarily process? (variant 121)",
+      "text": "What is the purpose of a crash in computing?",
       "options": [
-        "Only storage",
-        "Only print",
-        "No processing",
-        "Data"
+        "Normal shutdown",
+        "A sudden failure where a program or the OS stops functioning properly",
+        "A virus scan",
+        "File backup"
       ],
-      "correct_index": 3,
-      "explanation": "Processes data.",
+      "correct_index": 1,
+      "explanation": "A crash is an unexpected stop of a program or operating system due to errors.",
       "difficulty": 1
     },
     {
       "id": "ict_122",
-      "text": "Who is widely regarded as the father of the computer? (variant 122)",
+      "text": "Which of the following is an example of wearable technology?",
       "options": [
-        "Jobs",
-        "Zuckerberg",
-        "Babbage",
-        "Gates"
+        "Desktop computer",
+        "Smartwatch",
+        "Printer",
+        "Scanner"
       ],
-      "correct_index": 2,
-      "explanation": "Babbage.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A smartwatch is wearable technology worn on the body that performs computing functions.",
+      "difficulty": 3
     },
     {
       "id": "ict_123",
-      "text": "What does the acronym CPU stand for in computing? (variant 123)",
+      "text": "What is the main advantage of open-source software?",
       "options": [
-        "Only processing",
-        "Central Processing Unit",
-        "No meaning",
-        "Only central"
+        "Always free and can be modified by users",
+        "Only runs on one operating system",
+        "Cannot be customised",
+        "Requires expensive licences"
       ],
-      "correct_index": 1,
-      "explanation": "CPU.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Open-source software allows users to view, modify, and distribute the source code freely.",
+      "difficulty": 2
     },
     {
       "id": "ict_124",
-      "text": "What does the acronym RAM stand for in computing? (variant 124)",
+      "text": "What does the acronym ERP stand for?",
       "options": [
-        "Random Access Memory",
-        "No meaning",
-        "Only random",
-        "Only access"
+        "Enterprise Resource Planning",
+        "Electronic Run Program",
+        "Extended Range Processor",
+        "Embedded Resource Protocol"
       ],
       "correct_index": 0,
-      "explanation": "RAM.",
-      "difficulty": 1
+      "explanation": "ERP stands for Enterprise Resource Planning, software for managing core business processes.",
+      "difficulty": 3
     },
     {
       "id": "ict_125",
-      "text": "What does the acronym ROM stand for in computing? (variant 125)",
+      "text": "What is meant by the term 'malware'?",
       "options": [
-        "No meaning",
-        "Only read",
-        "Only memory",
-        "Read Only Memory"
+        "Hardware defects",
+        "Malicious software designed to harm a computer system",
+        "A type of memory",
+        "A network protocol"
       ],
-      "correct_index": 3,
-      "explanation": "ROM.",
+      "correct_index": 1,
+      "explanation": "Malware is any software intentionally designed to cause damage to computers or networks.",
       "difficulty": 1
     },
     {
       "id": "ict_126",
-      "text": "Which of the following is an input device? (variant 126)",
+      "text": "What is the value or meaning of the full form of Wi-Fi in mathematics?",
       "options": [
-        "Printer",
-        "Speaker",
-        "Keyboard",
-        "Monitor"
+        "Wireless Fidelity",
+        "Wide Frequency",
+        "Wired Filter",
+        "Wireless Fibre"
       ],
-      "correct_index": 2,
-      "explanation": "Keyboard input.",
+      "correct_index": 0,
+      "explanation": "Wi-Fi is commonly understood as Wireless Fidelity, a technology for wireless networking.",
       "difficulty": 1
     },
     {
       "id": "ict_127",
-      "text": "Which of the following is an output device? (variant 127)",
+      "text": "What is the function of the operating system file manager?",
       "options": [
-        "Scanner",
-        "Monitor",
-        "Keyboard",
-        "Mouse"
+        "Run programs",
+        "Organise, store, retrieve, and manage files and folders",
+        "Send emails",
+        "Browse the web"
       ],
       "correct_index": 1,
-      "explanation": "Monitor output.",
+      "explanation": "The file manager allows users to create, rename, move, delete, and organise files and directories.",
       "difficulty": 1
     },
     {
       "id": "ict_128",
-      "text": "How many bits are there in one Byte? (variant 128)",
+      "text": "What is the meaning of \"the purpose of data backup\"?",
       "options": [
-        "8 bits",
-        "4 bits",
-        "2 bits",
-        "16 bits"
+        "Delete files",
+        "Create copies of data to restore in case of loss or damage",
+        "Speed up processing",
+        "Connect to the Internet"
       ],
-      "correct_index": 0,
-      "explanation": "8 bits.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Backing up data ensures copies exist to recover from hardware failure, theft, or accidental deletion.",
+      "difficulty": 3
     },
     {
       "id": "ict_129",
-      "text": "What is the base of the binary number system? (variant 129)",
+      "text": "What is the purpose of a primary key in a database?",
       "options": [
-        "10",
-        "8",
-        "16",
-        "2"
+        "Encrypt data",
+        "Uniquely identify each record in a table",
+        "Delete records",
+        "Sort data alphabetically"
       ],
-      "correct_index": 3,
-      "explanation": "Base 2.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A primary key uniquely identifies each record in a database table, ensuring no duplicates.",
+      "difficulty": 2
     },
     {
       "id": "ict_130",
-      "text": "What is the output condition of an AND gate? (variant 130)",
+      "text": "Which of the following is a type of computer network cable?",
       "options": [
-        "Inverts",
-        "No gate",
-        "Both inputs 1",
-        "At least one"
+        "HDMI",
+        "Cat5/Cat6 (twisted pair)",
+        "SATA",
+        "VGA"
       ],
-      "correct_index": 2,
-      "explanation": "AND both 1.",
+      "correct_index": 1,
+      "explanation": "Cat5 and Cat6 are twisted-pair Ethernet cables commonly used for LAN connections.",
       "difficulty": 2
     },
     {
       "id": "ict_131",
-      "text": "What is the Internet best described as? (variant 131)",
+      "text": "What is the value or meaning of a cookie on a website in mathematics?",
       "options": [
-        "Only one",
-        "Interconnected networks",
-        "Single",
-        "No network"
+        "A small file stored on a user's browser by a website to remember data",
+        "A computer virus",
+        "A web browser",
+        "A hardware component"
       ],
-      "correct_index": 1,
-      "explanation": "Interconnected.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "A cookie is a small text file placed on a user's device by a website to store preferences and session data.",
+      "difficulty": 2
     },
     {
       "id": "ict_132",
-      "text": "Which of the following is an example of a web browser? (variant 132)",
+      "text": "What is the main purpose of e-commerce?",
       "options": [
-        "Chrome",
-        "Windows",
-        "Linux",
-        "No browser"
+        "Play games online",
+        "Buy and sell goods and services over the Internet",
+        "Send physical mail",
+        "Print newspapers"
       ],
-      "correct_index": 0,
-      "explanation": "Chrome.",
+      "correct_index": 1,
+      "explanation": "E-commerce enables buying and selling of products and services through online platforms.",
       "difficulty": 1
     },
     {
       "id": "ict_133",
-      "text": "What does the term Email stand for? (variant 133)",
+      "text": "What is the main purpose of 5G technology?",
       "options": [
-        "No mail",
-        "Only electronic",
-        "Only mail",
-        "Electronic mail"
+        "Replace all cables",
+        "Provide faster and more reliable wireless communication",
+        "Replace computers",
+        "Store more data"
       ],
-      "correct_index": 3,
-      "explanation": "Electronic mail.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "5G is the fifth generation of mobile network technology offering higher speeds and lower latency.",
+      "difficulty": 2
     },
     {
       "id": "ict_134",
-      "text": "What does the acronym LAN stand for in networking? (variant 134)",
+      "text": "What is the function of a light-emitting diode (LED) indicator on a device?",
       "options": [
-        "Only local",
-        "Only area",
-        "Local Area Network",
-        "No network"
+        "Process data",
+        "Provide a visual status signal (power, activity, etc.)",
+        "Store files",
+        "Connect to Wi-Fi"
       ],
-      "correct_index": 2,
-      "explanation": "LAN.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "LED indicators give visual feedback about the status of a device, such as power on or data transfer.",
+      "difficulty": 3
     },
     {
       "id": "ict_135",
-      "text": "What is Microsoft Word primarily used for? (variant 135)",
+      "text": "What is the value or meaning of a domain name in mathematics?",
       "options": [
-        "No processing",
-        "Word processing",
-        "Spreadsheet",
-        "Database"
+        "An IP address in numbers",
+        "A human-readable address that identifies a website on the Internet",
+        "A type of hardware",
+        "A programming language"
       ],
       "correct_index": 1,
-      "explanation": "Word processing.",
+      "explanation": "A domain name (e.g., www.example.com) is a human-friendly address for a website, mapped to an IP via DNS.",
       "difficulty": 1
     },
     {
       "id": "ict_136",
-      "text": "What is Microsoft Excel primarily used for? (variant 136)",
+      "text": "Which of the following is a property of RAM?",
       "options": [
-        "Spreadsheet",
-        "Word",
-        "Database",
-        "No sheet"
+        "Non-volatile",
+        "Volatile and used for temporary data storage",
+        "Very slow access",
+        "Permanent storage device"
       ],
-      "correct_index": 0,
-      "explanation": "Spreadsheet.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "RAM is volatile memory that temporarily stores data and instructions currently in use by the CPU.",
+      "difficulty": 2
     },
     {
       "id": "ict_137",
-      "text": "What is a computer virus and how does it affect a system? (variant 137)",
+      "text": "What does the term 'network topology' describe?",
       "options": [
-        "Useful",
-        "No program",
-        "Only hardware",
-        "Malicious program"
+        "The speed of a network",
+        "The physical or logical arrangement of devices in a network",
+        "The type of cable used",
+        "The number of users"
       ],
-      "correct_index": 3,
-      "explanation": "Malicious.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Network topology refers to the layout and arrangement of various elements (nodes, links) in a network.",
+      "difficulty": 2
     },
     {
       "id": "ict_138",
-      "text": "What does the acronym ICT stand for? (variant 138)",
+      "text": "What is the difference between RAM and ROM?",
       "options": [
-        "Only info",
-        "Only tech",
-        "Information and Communication Technology",
-        "No meaning"
+        "RAM is permanent, ROM is temporary",
+        "RAM is volatile, ROM is non-volatile",
+        "They are identical",
+        "ROM is faster than RAM"
       ],
-      "correct_index": 2,
-      "explanation": "ICT.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "RAM is volatile (loses data without power), while ROM is non-volatile (retains data without power).",
+      "difficulty": 2
     },
     {
       "id": "ict_139",
-      "text": "What does the acronym HTTP stand for? (variant 139)",
+      "text": "What is the meaning of \"the function of a plotter\"?",
       "options": [
-        "Only transfer",
-        "HyperText Transfer Protocol",
-        "No meaning",
-        "Only hypertext"
+        "Type documents",
+        "Produce large-format high-quality prints and engineering drawings",
+        "Browse the Internet",
+        "Scan documents"
       ],
       "correct_index": 1,
-      "explanation": "HTTP.",
-      "difficulty": 2
+      "explanation": "A plotter is an output device that produces vector graphics on large sheets of paper.",
+      "difficulty": 3
     },
     {
       "id": "ict_140",
-      "text": "What does the acronym HTML stand for? (variant 140)",
+      "text": "What does the term 'cloud computing' mean?",
       "options": [
-        "HyperText Markup Language",
-        "No language",
-        "Only hypertext",
-        "Only markup"
+        "Computing in cloudy weather",
+        "Delivery of computing services (storage, processing) over the Internet",
+        "A type of weather software",
+        "A cloud-shaped icon"
       ],
-      "correct_index": 0,
-      "explanation": "HTML.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Cloud computing provides on-demand computing resources like storage and processing over the Internet.",
+      "difficulty": 1
     },
     {
       "id": "ict_141",
-      "text": "What does a computer primarily process? (variant 141)",
+      "text": "What is the decimal equivalent of binary 111?",
       "options": [
-        "Only storage",
-        "Only print",
-        "No processing",
-        "Data"
+        "5",
+        "6",
+        "7",
+        "8"
       ],
-      "correct_index": 3,
-      "explanation": "Processes data.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Binary 111 = 4+2+1 = 7 in decimal.",
+      "difficulty": 2
     },
     {
       "id": "ict_142",
-      "text": "Who is widely regarded as the father of the computer? (variant 142)",
+      "text": "What is the function of an operating system scheduler?",
       "options": [
-        "Jobs",
-        "Zuckerberg",
-        "Babbage",
-        "Gates"
+        "Manage files",
+        "Allocate CPU time to different processes",
+        "Display the desktop",
+        "Manage printer queues only"
       ],
-      "correct_index": 2,
-      "explanation": "Babbage.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The OS scheduler determines which process gets CPU time and for how long.",
+      "difficulty": 3
     },
     {
       "id": "ict_143",
-      "text": "What does the acronym CPU stand for in computing? (variant 143)",
+      "text": "What is the value or meaning of an Ethernet frame in mathematics?",
       "options": [
-        "Only processing",
-        "Central Processing Unit",
-        "No meaning",
-        "Only central"
+        "A picture frame for monitors",
+        "A structured unit of data transmitted over an Ethernet network",
+        "A type of virus",
+        "A programming construct"
       ],
       "correct_index": 1,
-      "explanation": "CPU.",
-      "difficulty": 1
+      "explanation": "An Ethernet frame is the data unit (packet format) used to transmit data over Ethernet networks.",
+      "difficulty": 3
     },
     {
       "id": "ict_144",
-      "text": "What does the acronym RAM stand for in computing? (variant 144)",
+      "text": "What is the meaning of \"the purpose of encryption\"?",
       "options": [
-        "Random Access Memory",
-        "No meaning",
-        "Only random",
-        "Only access"
+        "Speed up data transfer",
+        "Convert data into a coded form to prevent unauthorised access",
+        "Compress files",
+        "Delete unwanted data"
       ],
-      "correct_index": 0,
-      "explanation": "RAM.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Encryption converts readable data into an unreadable format to protect it from unauthorised access.",
+      "difficulty": 2
     },
     {
       "id": "ict_145",
-      "text": "What does the acronym ROM stand for in computing? (variant 145)",
+      "text": "Which generation of computers used vacuum tubes?",
       "options": [
-        "No meaning",
-        "Only read",
-        "Only memory",
-        "Read Only Memory"
+        "First generation",
+        "Second generation",
+        "Third generation",
+        "Fourth generation"
       ],
-      "correct_index": 3,
-      "explanation": "ROM.",
+      "correct_index": 0,
+      "explanation": "First-generation computers (1940-1956) used vacuum tubes as their main electronic component.",
       "difficulty": 1
     },
     {
       "id": "ict_146",
-      "text": "Which of the following is an input device? (variant 146)",
+      "text": "What does a programmer use a flowchart for?",
       "options": [
-        "Printer",
-        "Speaker",
-        "Keyboard",
-        "Monitor"
+        "Write the final code",
+        "Visually represent the logic and steps of a program",
+        "Design hardware",
+        "Store data"
       ],
-      "correct_index": 2,
-      "explanation": "Keyboard input.",
+      "correct_index": 1,
+      "explanation": "A flowchart uses standard symbols to visually represent the sequence of steps in a program.",
       "difficulty": 1
     },
     {
       "id": "ict_147",
-      "text": "Which of the following is an output device? (variant 147)",
+      "text": "What is the primary advantage of using a tablet computer?",
       "options": [
-        "Scanner",
-        "Monitor",
-        "Keyboard",
-        "Mouse"
+        "Heavy and bulky",
+        "Portable and touchscreen-based interaction",
+        "Requires a desktop setup",
+        "Cannot connect to the Internet"
       ],
       "correct_index": 1,
-      "explanation": "Monitor output.",
-      "difficulty": 1
+      "explanation": "Tablets are lightweight, portable devices with touchscreens for easy mobile computing.",
+      "difficulty": 3
     },
     {
       "id": "ict_148",
-      "text": "How many bits are there in one Byte? (variant 148)",
+      "text": "What is a satellite connection used for in ICT?",
       "options": [
-        "8 bits",
-        "4 bits",
-        "2 bits",
-        "16 bits"
+        "Only printing",
+        "Communication and data transmission via orbiting satellites",
+        "Storing local files",
+        "Only watching TV"
       ],
-      "correct_index": 0,
-      "explanation": "8 bits.",
-      "difficulty": 1
-    },
-    {
-      "id": "ict_149",
-      "text": "What is the base of the binary number system? (variant 149)",
-      "options": [
-        "10",
-        "8",
-        "16",
-        "2"
-      ],
-      "correct_index": 3,
-      "explanation": "Base 2.",
-      "difficulty": 1
-    },
-    {
-      "id": "ict_150",
-      "text": "What is the output condition of an AND gate? (variant 150)",
-      "options": [
-        "Inverts",
-        "No gate",
-        "Both inputs 1",
-        "At least one"
-      ],
-      "correct_index": 2,
-      "explanation": "AND both 1.",
+      "correct_index": 1,
+      "explanation": "Satellite connections transmit and receive data through satellites orbiting the Earth.",
       "difficulty": 2
     },
     {
-      "id": "ict_151",
-      "text": "What is the Internet best described as? (variant 151)",
+      "id": "ict_149",
+      "text": "What does the term 'node' mean in networking?",
       "options": [
-        "Only one",
-        "Interconnected networks",
-        "Single",
-        "No network"
+        "A type of cable",
+        "Any device connected to a network that can send, receive, or forward data",
+        "A network password",
+        "A printer only"
       ],
       "correct_index": 1,
-      "explanation": "Interconnected.",
-      "difficulty": 1
+      "explanation": "A node is any device (computer, printer, router) connected to a network that can communicate.",
+      "difficulty": 2
+    },
+    {
+      "id": "ict_150",
+      "text": "What is the octal equivalent of decimal 9?",
+      "options": [
+        "8",
+        "9",
+        "11",
+        "10"
+      ],
+      "correct_index": 2,
+      "explanation": "Decimal 9 = 1Ã—8 + 1 = 11 in octal.",
+      "difficulty": 3
+    },
+    {
+      "id": "ict_151",
+      "text": "What is the function of a sound card?",
+      "options": [
+        "Display images",
+        "Process and output audio signals to speakers or headphones",
+        "Store audio files",
+        "Input video only"
+      ],
+      "correct_index": 1,
+      "explanation": "A sound card processes audio data for input (microphone) and output (speakers/headphones).",
+      "difficulty": 2
     },
     {
       "id": "ict_152",
-      "text": "Which of the following is an example of a web browser? (variant 152)",
+      "text": "What does the term 'cybersecurity' refer to?",
       "options": [
-        "Chrome",
-        "Windows",
-        "Linux",
-        "No browser"
+        "Using social media",
+        "The practice of protecting computer systems and networks from digital attacks",
+        "Web browsing speed",
+        "Installing new software"
       ],
-      "correct_index": 0,
-      "explanation": "Chrome.",
+      "correct_index": 1,
+      "explanation": "Cybersecurity involves protecting systems, networks, and data from digital attacks and unauthorised access.",
       "difficulty": 1
     },
     {
       "id": "ict_153",
-      "text": "What does the term Email stand for? (variant 153)",
+      "text": "What is the main function of the motherboard?",
       "options": [
-        "No mail",
-        "Only electronic",
-        "Only mail",
-        "Electronic mail"
+        "Display output",
+        "Connect and allow communication between all hardware components",
+        "Store user files",
+        "Provide Internet access"
       ],
-      "correct_index": 3,
-      "explanation": "Electronic mail.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The motherboard is the main circuit board that connects the CPU, RAM, storage, and peripherals.",
+      "difficulty": 2
     },
     {
       "id": "ict_154",
-      "text": "What does the acronym LAN stand for in networking? (variant 154)",
+      "text": "What is the function of the BIOS during startup?",
       "options": [
-        "Only local",
-        "Only area",
-        "Local Area Network",
-        "No network"
+        "Load the operating system",
+        "Run the Power-On Self-Test (POST) and initialise hardware",
+        "Browse the web",
+        "Manage user accounts"
       ],
-      "correct_index": 2,
-      "explanation": "LAN.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The BIOS performs POST to check hardware and then hands control to the OS bootloader.",
+      "difficulty": 2
     },
     {
       "id": "ict_155",
-      "text": "What is Microsoft Word primarily used for? (variant 155)",
+      "text": "Which of the following is a characteristic of the third generation of computers?",
       "options": [
-        "No processing",
-        "Word processing",
-        "Spreadsheet",
-        "Database"
+        "Vacuum tubes",
+        "Transistors",
+        "Integrated circuits (ICs)",
+        "Artificial intelligence"
       ],
-      "correct_index": 1,
-      "explanation": "Word processing.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Third-generation computers (1965-1971) used integrated circuits, making them smaller and faster.",
+      "difficulty": 2
     },
     {
       "id": "ict_156",
-      "text": "What is Microsoft Excel primarily used for? (variant 156)",
+      "text": "What is the value or meaning of a web browser in mathematics?",
       "options": [
-        "Spreadsheet",
-        "Word",
-        "Database",
-        "No sheet"
+        "A search engine",
+        "Software used to access and view websites on the Internet",
+        "A type of hardware",
+        "An email client"
       ],
-      "correct_index": 0,
-      "explanation": "Spreadsheet.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A web browser (e.g., Chrome, Firefox) retrieves and displays web pages from the Internet.",
+      "difficulty": 3
     },
     {
       "id": "ict_157",
-      "text": "What is a computer virus and how does it affect a system? (variant 157)",
+      "text": "What is the purpose of a computer port?",
       "options": [
-        "Useful",
-        "No program",
-        "Only hardware",
-        "Malicious program"
+        "Display images",
+        "A connection point for external devices to communicate with the computer",
+        "Store files",
+        "Process data"
       ],
-      "correct_index": 3,
-      "explanation": "Malicious.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Ports (USB, HDMI, serial, etc.) are interfaces for connecting peripheral devices to a computer.",
+      "difficulty": 2
     },
     {
       "id": "ict_158",
-      "text": "What does the acronym ICT stand for? (variant 158)",
+      "text": "What is the value or meaning of the full meaning of LAN in mathematics?",
       "options": [
-        "Only info",
-        "Only tech",
-        "Information and Communication Technology",
-        "No meaning"
+        "Large Access Node",
+        "Local Area Network",
+        "Long-range Application Network",
+        "Lightweight Application Node"
       ],
-      "correct_index": 2,
-      "explanation": "ICT.",
+      "correct_index": 1,
+      "explanation": "LAN stands for Local Area Network, a network covering a small geographical area like a building.",
       "difficulty": 1
     },
     {
       "id": "ict_159",
-      "text": "What does the acronym HTTP stand for? (variant 159)",
+      "text": "What does the DIM command do in BASIC?",
       "options": [
-        "Only transfer",
-        "HyperText Transfer Protocol",
-        "No meaning",
-        "Only hypertext"
+        "Deletes variables",
+        "Declares and allocates memory for an array of variables",
+        "Displays a message",
+        "Divides numbers"
       ],
       "correct_index": 1,
-      "explanation": "HTTP.",
-      "difficulty": 2
+      "explanation": "The DIM statement in BASIC is used to declare arrays and allocate storage for them.",
+      "difficulty": 3
     },
     {
       "id": "ict_160",
-      "text": "What does the acronym HTML stand for? (variant 160)",
+      "text": "What is the full meaning of the acronym ISP?",
       "options": [
-        "HyperText Markup Language",
-        "No language",
-        "Only hypertext",
-        "Only markup"
+        "Internet Service Provider",
+        "Internal System Protocol",
+        "Integrated Signal Processor",
+        "Input Signal Panel"
       ],
       "correct_index": 0,
-      "explanation": "HTML.",
-      "difficulty": 2
+      "explanation": "ISP stands for Internet Service Provider, the company that gives you access to the Internet.",
+      "difficulty": 3
     },
     {
       "id": "ict_161",
-      "text": "What does a computer primarily process? (variant 161)",
+      "text": "What is the difference between application software and system software?",
       "options": [
-        "Only storage",
-        "Only print",
-        "No processing",
-        "Data"
+        "System software is for users; application software manages hardware",
+        "Application software performs specific tasks; system software manages hardware and runs the computer",
+        "They are the same",
+        "System software is always free"
       ],
-      "correct_index": 3,
-      "explanation": "Processes data.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "System software (OS, drivers) manages hardware; application software (Word, Excel) performs user tasks.",
+      "difficulty": 2
     },
     {
       "id": "ict_162",
-      "text": "Who is widely regarded as the father of the computer? (variant 162)",
+      "text": "What is the purpose of a disk defragmenter?",
       "options": [
-        "Jobs",
-        "Zuckerberg",
-        "Babbage",
-        "Gates"
+        "Delete all files",
+        "Reorganise fragmented data on a hard disk to improve access speed",
+        "Format the disk",
+        "Install new software"
       ],
-      "correct_index": 2,
-      "explanation": "Babbage.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Defragmentation rearranges data on an HDD so files are stored contiguously, improving read speed.",
+      "difficulty": 3
     },
     {
       "id": "ict_163",
-      "text": "What does the acronym CPU stand for in computing? (variant 163)",
+      "text": "What is the hexadecimal equivalent of decimal 31?",
       "options": [
-        "Only processing",
-        "Central Processing Unit",
-        "No meaning",
-        "Only central"
+        "1E",
+        "1F",
+        "20",
+        "21"
       ],
       "correct_index": 1,
-      "explanation": "CPU.",
-      "difficulty": 1
+      "explanation": "Decimal 31 = 1Ã—16 + 15 = 1F in hexadecimal.",
+      "difficulty": 3
     },
     {
       "id": "ict_164",
-      "text": "What does the acronym RAM stand for in computing? (variant 164)",
+      "text": "What is the value or meaning of a client-server network in mathematics?",
       "options": [
-        "Random Access Memory",
-        "No meaning",
-        "Only random",
-        "Only access"
+        "All computers are equal",
+        "A central server provides resources to client computers",
+        "A single computer with no network",
+        "A peer-to-peer setup"
       ],
-      "correct_index": 0,
-      "explanation": "RAM.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "In a client-server model, a central server manages resources and services requested by client machines.",
+      "difficulty": 2
     },
     {
       "id": "ict_165",
-      "text": "What does the acronym ROM stand for in computing? (variant 165)",
+      "text": "What is the purpose of OCR software?",
       "options": [
-        "No meaning",
-        "Only read",
-        "Only memory",
-        "Read Only Memory"
+        "Recognise speech",
+        "Convert images of printed or handwritten text into editable text",
+        "Create graphics",
+        "Manage databases"
       ],
-      "correct_index": 3,
-      "explanation": "ROM.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "OCR (Optical Character Recognition) reads text from scanned images and converts it into editable data.",
+      "difficulty": 2
     },
     {
       "id": "ict_166",
-      "text": "Which of the following is an input device? (variant 166)",
+      "text": "What is the role of a motherboard chipset?",
       "options": [
-        "Printer",
-        "Speaker",
-        "Keyboard",
-        "Monitor"
+        "Display graphics",
+        "Manage data flow between the CPU, memory, and peripherals",
+        "Store data permanently",
+        "Provide wireless connectivity"
       ],
-      "correct_index": 2,
-      "explanation": "Keyboard input.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The chipset controls communication between the processor, memory, and other hardware components.",
+      "difficulty": 3
     },
     {
       "id": "ict_167",
-      "text": "Which of the following is an output device? (variant 167)",
+      "text": "What does the term 'interface' mean in computing?",
       "options": [
-        "Scanner",
-        "Monitor",
-        "Keyboard",
-        "Mouse"
+        "A type of processor",
+        "A point of interaction between two systems or a user and a computer",
+        "A storage device",
+        "A type of cable"
       ],
       "correct_index": 1,
-      "explanation": "Monitor output.",
-      "difficulty": 1
+      "explanation": "An interface is the shared boundary where two components, systems, or users interact.",
+      "difficulty": 2
     },
     {
       "id": "ict_168",
-      "text": "How many bits are there in one Byte? (variant 168)",
+      "text": "What is the binary equivalent of decimal 5?",
       "options": [
-        "8 bits",
-        "4 bits",
-        "2 bits",
-        "16 bits"
+        "101",
+        "110",
+        "111",
+        "100"
       ],
       "correct_index": 0,
-      "explanation": "8 bits.",
-      "difficulty": 1
+      "explanation": "Decimal 5 = 4+1 = 101 in binary.",
+      "difficulty": 2
     },
     {
       "id": "ict_169",
-      "text": "What is the base of the binary number system? (variant 169)",
+      "text": "What is the best definition of a variable in programming?",
       "options": [
-        "10",
-        "8",
-        "16",
-        "2"
+        "A fixed value",
+        "A named storage location that holds data which can change during execution",
+        "A type of hardware",
+        "An output device"
       ],
-      "correct_index": 3,
-      "explanation": "Base 2.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A variable is a named memory location whose value can be assigned and modified during program execution.",
+      "difficulty": 2
     },
     {
       "id": "ict_170",
-      "text": "What is the output condition of an AND gate? (variant 170)",
+      "text": "What is the purpose of a dummy value in a loop?",
       "options": [
-        "Inverts",
-        "No gate",
-        "Both inputs 1",
-        "At least one"
+        "It has no purpose",
+        "A counter variable that controls the number of loop iterations",
+        "A type of data",
+        "Used to stop the program"
       ],
-      "correct_index": 2,
-      "explanation": "AND both 1.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "A dummy or counter variable controls how many times a loop executes.",
+      "difficulty": 3
     },
     {
       "id": "ict_171",
-      "text": "What is the Internet best described as? (variant 171)",
+      "text": "What is a peephole optimization in compilers?",
       "options": [
-        "Only one",
-        "Interconnected networks",
-        "Single",
-        "No network"
+        "Looking through a hole in the monitor",
+        "A technique to improve code by optimising small sequences of instructions",
+        "A security feature",
+        "A debugging method"
       ],
       "correct_index": 1,
-      "explanation": "Interconnected.",
-      "difficulty": 1
+      "explanation": "Peephole optimization examines and improves a short sequence of generated instructions.",
+      "difficulty": 3
     },
     {
       "id": "ict_172",
-      "text": "Which of the following is an example of a web browser? (variant 172)",
+      "text": "What is the value or meaning of an IP address in mathematics?",
       "options": [
-        "Chrome",
-        "Windows",
-        "Linux",
-        "No browser"
+        "A physical address of a building",
+        "A unique numerical label assigned to each device on a network",
+        "A web browser name",
+        "A type of printer"
       ],
-      "correct_index": 0,
-      "explanation": "Chrome.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "An IP address uniquely identifies a device on a network, enabling communication (e.g., 192.168.1.1).",
+      "difficulty": 2
     },
     {
       "id": "ict_173",
-      "text": "What does the term Email stand for? (variant 173)",
+      "text": "What is the main function of a CPU register?",
       "options": [
-        "No mail",
-        "Only electronic",
-        "Only mail",
-        "Electronic mail"
+        "Store large files",
+        "Hold data temporarily for immediate processing by the ALU",
+        "Connect to the Internet",
+        "Display output"
       ],
-      "correct_index": 3,
-      "explanation": "Electronic mail.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Registers are small, ultra-fast storage locations inside the CPU used for immediate data operations.",
+      "difficulty": 3
     },
     {
       "id": "ict_174",
-      "text": "What does the acronym LAN stand for in networking? (variant 174)",
+      "text": "In networking, what does a topology diagram show about a network?",
       "options": [
-        "Only local",
-        "Only area",
-        "Local Area Network",
-        "No network"
+        "Weather patterns",
+        "The physical or logical layout of a computer network",
+        "A circuit diagram",
+        "A geographical map"
       ],
-      "correct_index": 2,
-      "explanation": "LAN.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A network topology diagram illustrates how devices and cables are arranged in a network.",
+      "difficulty": 2
     },
     {
       "id": "ict_175",
-      "text": "What is Microsoft Word primarily used for? (variant 175)",
+      "text": "What is the meaning of \"meant by 'data redundancy'\"?",
       "options": [
-        "No processing",
-        "Word processing",
-        "Spreadsheet",
-        "Database"
+        "Backing up data for safety",
+        "Unnecessary duplication of the same data in multiple places",
+        "Encrypting data",
+        "Deleting old data"
       ],
       "correct_index": 1,
-      "explanation": "Word processing.",
-      "difficulty": 1
+      "explanation": "Data redundancy occurs when the same data is unnecessarily duplicated across multiple locations.",
+      "difficulty": 3
     },
     {
       "id": "ict_176",
-      "text": "What is Microsoft Excel primarily used for? (variant 176)",
+      "text": "What is the purpose of a data dictionary in a DBMS?",
       "options": [
-        "Spreadsheet",
-        "Word",
-        "Database",
-        "No sheet"
+        "Store actual data records",
+        "Store metadata describing the structure, types, and constraints of data",
+        "Draw diagrams",
+        "Browse the Internet"
       ],
-      "correct_index": 0,
-      "explanation": "Spreadsheet.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A data dictionary stores metadata (definitions, types, constraints) about the database structure.",
+      "difficulty": 3
     },
     {
       "id": "ict_177",
-      "text": "What is a computer virus and how does it affect a system? (variant 177)",
+      "text": "What is peer-to-peer (P2P) networking?",
       "options": [
-        "Useful",
-        "No program",
-        "Only hardware",
-        "Malicious program"
+        "Client-server model",
+        "All computers share resources equally with no central server",
+        "Using satellites",
+        "A single computer with no network"
       ],
-      "correct_index": 3,
-      "explanation": "Malicious.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "In P2P networking, all computers are equal and can share files and resources without a central server.",
+      "difficulty": 2
     },
     {
       "id": "ict_178",
-      "text": "What does the acronym ICT stand for? (variant 178)",
+      "text": "What is the main purpose of the WHILE...WEND loop in BASIC?",
       "options": [
-        "Only info",
-        "Only tech",
-        "Information and Communication Technology",
-        "No meaning"
+        "Execute code once",
+        "Repeat a block of code as long as a condition remains true",
+        "Accept user input",
+        "Print output"
       ],
-      "correct_index": 2,
-      "explanation": "ICT.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "WHILE...WEND repeatedly executes a block of code as long as the specified condition is true.",
+      "difficulty": 2
     },
     {
       "id": "ict_179",
-      "text": "What does the acronym HTTP stand for? (variant 179)",
+      "text": "What does an operating system do during multitasking?",
       "options": [
-        "Only transfer",
-        "HyperText Transfer Protocol",
-        "No meaning",
-        "Only hypertext"
+        "Runs only one program at a time",
+        "Rapidly switches between multiple programs to give the illusion of simultaneous execution",
+        "Shuts down all programs",
+        "Only manages files"
       ],
       "correct_index": 1,
-      "explanation": "HTTP.",
-      "difficulty": 2
+      "explanation": "Multitasking allows the OS to rapidly switch CPU time among multiple programs, appearing to run them simultaneously.",
+      "difficulty": 3
     },
     {
       "id": "ict_180",
-      "text": "What does the acronym HTML stand for? (variant 180)",
+      "text": "What is the value or meaning of a supercomputer in mathematics?",
       "options": [
-        "HyperText Markup Language",
-        "No language",
-        "Only hypertext",
-        "Only markup"
+        "A personal desktop computer",
+        "The fastest type of computer used for complex calculations and large-scale processing",
+        "A small handheld device",
+        "An older computer model"
       ],
-      "correct_index": 0,
-      "explanation": "HTML.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Supercomputers are the most powerful computers, used for weather forecasting, nuclear simulations, etc.",
+      "difficulty": 1
     },
     {
       "id": "ict_181",
-      "text": "What does a computer primarily process? (variant 181)",
+      "text": "What is the value or meaning of a smart card in mathematics?",
       "options": [
-        "Only storage",
-        "Only print",
-        "No processing",
-        "Data"
+        "A greeting card",
+        "A plastic card with an embedded microchip for identification or payment",
+        "A type of memory card",
+        "A monitor screen"
       ],
-      "correct_index": 3,
-      "explanation": "Processes data.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A smart card has an embedded chip used for secure identification, authentication, and data storage.",
+      "difficulty": 2
     },
     {
       "id": "ict_182",
-      "text": "Who is widely regarded as the father of the computer? (variant 182)",
+      "text": "What is the main disadvantage of using public Wi-Fi?",
       "options": [
-        "Jobs",
-        "Zuckerberg",
-        "Babbage",
-        "Gates"
+        "It is too fast",
+        "It is less secure and more vulnerable to data interception",
+        "It is free",
+        "It has no range"
       ],
-      "correct_index": 2,
-      "explanation": "Babbage.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Public Wi-Fi networks are less secure, making it easier for attackers to intercept data.",
+      "difficulty": 2
     },
     {
       "id": "ict_183",
-      "text": "What does the acronym CPU stand for in computing? (variant 183)",
+      "text": "What does a cursor represent on a computer screen?",
       "options": [
-        "Only processing",
-        "Central Processing Unit",
-        "No meaning",
-        "Only central"
+        "The CPU",
+        "A visual indicator showing the current position for text input or pointing",
+        "A file",
+        "A printer"
       ],
       "correct_index": 1,
-      "explanation": "CPU.",
-      "difficulty": 1
+      "explanation": "A cursor is a movable indicator on screen showing where input will appear or where a click will occur.",
+      "difficulty": 3
     },
     {
       "id": "ict_184",
-      "text": "What does the acronym RAM stand for in computing? (variant 184)",
+      "text": "What is the decimal equivalent of hexadecimal FF?",
       "options": [
-        "Random Access Memory",
-        "No meaning",
-        "Only random",
-        "Only access"
+        "15",
+        "128",
+        "255",
+        "256"
       ],
-      "correct_index": 0,
-      "explanation": "RAM.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Hex FF = 15Ã—16 + 15 = 240+15 = 255 in decimal.",
+      "difficulty": 3
     },
     {
       "id": "ict_185",
-      "text": "What does the acronym ROM stand for in computing? (variant 185)",
+      "text": "What is the purpose of a capacitor on a motherboard?",
       "options": [
-        "No meaning",
-        "Only read",
-        "Only memory",
-        "Read Only Memory"
+        "Display images",
+        "Store and release small amounts of electrical charge to stabilise voltage",
+        "Process data",
+        "Connect to the Internet"
       ],
-      "correct_index": 3,
-      "explanation": "ROM.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Capacitors smooth out voltage fluctuations and provide stable power to components on the motherboard.",
+      "difficulty": 3
     },
     {
       "id": "ict_186",
-      "text": "Which of the following is an input device? (variant 186)",
+      "text": "What is the purpose of a taskbar in an operating system?",
       "options": [
-        "Printer",
-        "Speaker",
-        "Keyboard",
-        "Monitor"
+        "Display time only",
+        "Show running applications and allow quick switching between windows",
+        "Store files",
+        "Process data"
       ],
-      "correct_index": 2,
-      "explanation": "Keyboard input.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The taskbar displays open programs and system icons, allowing users to switch between applications.",
+      "difficulty": 3
     },
     {
       "id": "ict_187",
-      "text": "Which of the following is an output device? (variant 187)",
+      "text": "What does the term 'latency' mean in networking?",
       "options": [
-        "Scanner",
-        "Monitor",
-        "Keyboard",
-        "Mouse"
+        "The amount of data transferred",
+        "The delay before data begins to transfer after a request",
+        "The number of users",
+        "The size of the network"
       ],
       "correct_index": 1,
-      "explanation": "Monitor output.",
-      "difficulty": 1
+      "explanation": "Latency is the time delay between sending a request and receiving a response over a network.",
+      "difficulty": 3
     },
     {
       "id": "ict_188",
-      "text": "How many bits are there in one Byte? (variant 188)",
+      "text": "What is the value or meaning of an epoch in computing in mathematics?",
       "options": [
-        "8 bits",
-        "4 bits",
-        "2 bits",
-        "16 bits"
+        "A geological time period",
+        "A fixed point in time used as a reference for timekeeping in computers",
+        "A type of processor",
+        "A network protocol"
       ],
-      "correct_index": 0,
-      "explanation": "8 bits.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "An epoch is a reference point (e.g., Jan 1, 1970 in Unix time) from which system time is calculated.",
+      "difficulty": 3
     },
     {
       "id": "ict_189",
-      "text": "What is the base of the binary number system? (variant 189)",
+      "text": "What is the primary function of an Operating System Kernel?",
       "options": [
-        "10",
-        "8",
-        "16",
-        "2"
+        "Display the desktop",
+        "Manage core system resources including memory, CPU scheduling, and I/O",
+        "Run applications only",
+        "Connect to printers"
       ],
-      "correct_index": 3,
-      "explanation": "Base 2.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The kernel is the core of an OS that manages hardware resources, process scheduling, and memory.",
+      "difficulty": 3
     },
     {
       "id": "ict_190",
-      "text": "What is the output condition of an AND gate? (variant 190)",
+      "text": "What is a Boolean value in programming?",
       "options": [
-        "Inverts",
-        "No gate",
-        "Both inputs 1",
-        "At least one"
+        "A number",
+        "A data type that can only be TRUE or FALSE",
+        "A string of text",
+        "An array"
       ],
-      "correct_index": 2,
-      "explanation": "AND both 1.",
+      "correct_index": 1,
+      "explanation": "A Boolean data type represents one of two values: TRUE or FALSE.",
       "difficulty": 2
     },
     {
       "id": "ict_191",
-      "text": "What is the Internet best described as? (variant 191)",
+      "text": "What does the ternary operator allow in a programming language?",
       "options": [
-        "Only one",
-        "Interconnected networks",
-        "Single",
-        "No network"
+        "Three inputs",
+        "A shorthand way to write an if-else statement in a single line",
+        "Three loops",
+        "Three variables"
       ],
       "correct_index": 1,
-      "explanation": "Interconnected.",
-      "difficulty": 1
+      "explanation": "The ternary operator is a compact conditional expression: condition ? value_if_true : value_if_false.",
+      "difficulty": 3
     },
     {
       "id": "ict_192",
-      "text": "Which of the following is an example of a web browser? (variant 192)",
+      "text": "What is the meaning of \"the full meaning of EEPROM\"?",
       "options": [
-        "Chrome",
-        "Windows",
-        "Linux",
-        "No browser"
+        "Electrically Erasable Programmable Read-Only Memory",
+        "Electronic Erasable Permanent Read Memory",
+        "Extended EEPROM Memory",
+        "Erased Electric Operation Memory"
       ],
       "correct_index": 0,
-      "explanation": "Chrome.",
-      "difficulty": 1
+      "explanation": "EEPROM is non-volatile memory that can be erased and reprogrammed electrically.",
+      "difficulty": 3
     },
     {
       "id": "ict_193",
-      "text": "What does the term Email stand for? (variant 193)",
+      "text": "What is the purpose of a barcode system in a library?",
       "options": [
-        "No mail",
-        "Only electronic",
-        "Only mail",
-        "Electronic mail"
+        "Decorate books",
+        "Track and manage the borrowing and returning of books",
+        "Write new books",
+        "Print book covers"
       ],
-      "correct_index": 3,
-      "explanation": "Electronic mail.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Barcode systems in libraries track which books are borrowed, returned, and their locations.",
+      "difficulty": 3
     },
     {
       "id": "ict_194",
-      "text": "What does the acronym LAN stand for in networking? (variant 194)",
+      "text": "What is the main role of the World Wide Web Consortium (W3C)?",
       "options": [
-        "Only local",
-        "Only area",
-        "Local Area Network",
-        "No network"
+        "Provide Internet access",
+        "Develop web standards to ensure long-term growth of the web",
+        "Manufacture computers",
+        "Sell domain names"
       ],
-      "correct_index": 2,
-      "explanation": "LAN.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "W3C develops standards and guidelines to ensure the long-term growth and interoperability of the web.",
+      "difficulty": 2
     },
     {
       "id": "ict_195",
-      "text": "What is Microsoft Word primarily used for? (variant 195)",
+      "text": "What is a hexadecimal colour code in web design?",
       "options": [
-        "No processing",
-        "Word processing",
-        "Spreadsheet",
-        "Database"
+        "A password system",
+        "A 6-digit code preceded by # representing RGB colour values",
+        "A font style",
+        "A type of image format"
       ],
       "correct_index": 1,
-      "explanation": "Word processing.",
-      "difficulty": 1
+      "explanation": "A hex colour code (e.g., #FF5733) represents RGB values using hexadecimal digits.",
+      "difficulty": 3
     },
     {
       "id": "ict_196",
-      "text": "What is Microsoft Excel primarily used for? (variant 196)",
+      "text": "What is a mainframe computer typically used for?",
       "options": [
-        "Spreadsheet",
-        "Word",
-        "Database",
-        "No sheet"
+        "Playing games only",
+        "Large-scale enterprise computing such as banking and government transactions",
+        "Personal computing",
+        "Small office tasks only"
       ],
-      "correct_index": 0,
-      "explanation": "Spreadsheet.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Mainframes handle massive data processing for banks, airlines, and government systems.",
+      "difficulty": 2
     },
     {
       "id": "ict_197",
-      "text": "What is a computer virus and how does it affect a system? (variant 197)",
+      "text": "What is the value or meaning of a protocol in networking in mathematics?",
       "options": [
-        "Useful",
-        "No program",
-        "Only hardware",
-        "Malicious program"
+        "A type of hardware",
+        "A set of rules that govern data communication between devices",
+        "A programming language",
+        "A type of cable"
       ],
-      "correct_index": 3,
-      "explanation": "Malicious.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Protocols define the rules and standards for how data is transmitted and received over a network.",
+      "difficulty": 3
     },
     {
       "id": "ict_198",
-      "text": "What does the acronym ICT stand for? (variant 198)",
+      "text": "What does the term 'hacktivism' mean?",
       "options": [
-        "Only info",
-        "Only tech",
-        "Information and Communication Technology",
-        "No meaning"
+        "Building computers",
+        "Using hacking skills to promote a political or social cause",
+        "Cooking with technology",
+        "A type of programming language"
       ],
-      "correct_index": 2,
-      "explanation": "ICT.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Hacktivism is the use of hacking techniques to advance a political or social agenda.",
+      "difficulty": 2
     },
     {
       "id": "ict_199",
-      "text": "What does the acronym HTTP stand for? (variant 199)",
+      "text": "What is the purpose of RAM in a computer?",
       "options": [
-        "Only transfer",
-        "HyperText Transfer Protocol",
-        "No meaning",
-        "Only hypertext"
+        "Permanent data storage",
+        "Provide temporary, fast-access storage for data and instructions currently in use",
+        "Display graphics",
+        "Connect to the Internet"
       ],
       "correct_index": 1,
-      "explanation": "HTTP.",
-      "difficulty": 2
+      "explanation": "RAM temporarily holds data and instructions that the CPU needs quick access to during processing.",
+      "difficulty": 3
     },
     {
       "id": "ict_200",
-      "text": "What does the acronym HTML stand for? (variant 200)",
+      "text": "What is the meaning of \"the main function of a CPU\"?",
       "options": [
-        "HyperText Markup Language",
-        "No language",
-        "Only hypertext",
-        "Only markup"
+        "Store files permanently",
+        "Fetch, decode, and execute instructions to process data",
+        "Display images",
+        "Connect devices to the Internet"
       ],
-      "correct_index": 0,
-      "explanation": "HTML.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "The CPU fetches instructions from memory, decodes them, and executes them to process data.",
+      "difficulty": 3
     }
   ]
 }

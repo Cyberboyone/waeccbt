@@ -5,7 +5,7 @@
   "questions": [
     {
       "id": "irs_001",
-      "text": "Over what period of time was the Holy Quran revealed?",
+      "text": "Over what period was the Holy Quran revealed?",
       "options": [
         "10 years",
         "40 years",
@@ -13,12 +13,12 @@
         "23 years"
       ],
       "correct_index": 3,
-      "explanation": "23 years.",
+      "explanation": "The Quran was revealed over approximately 23 years.",
       "difficulty": 1
     },
     {
       "id": "irs_002",
-      "text": "In which cave did the first revelation of the Quran take place?",
+      "text": "In which cave did the first revelation take place?",
       "options": [
         "Uhud",
         "Badr",
@@ -26,7 +26,7 @@
         "Thawr"
       ],
       "correct_index": 2,
-      "explanation": "Hira.",
+      "explanation": "The first revelation came in Cave Hira.",
       "difficulty": 1
     },
     {
@@ -34,17 +34,17 @@
       "text": "How many Surahs does the Holy Quran contain?",
       "options": [
         "30",
-        "114 Surahs",
+        "114",
         "100",
         "120"
       ],
       "correct_index": 1,
-      "explanation": "114 Surahs.",
+      "explanation": "The Quran has 114 Surahs.",
       "difficulty": 1
     },
     {
       "id": "irs_004",
-      "text": "What does the concept of Tawhid mean in Islam?",
+      "text": "What is the meaning of the term tawhid?",
       "options": [
         "Oneness of Allah",
         "Prophethood",
@@ -52,12 +52,12 @@
         "Angels"
       ],
       "correct_index": 0,
-      "explanation": "Oneness.",
+      "explanation": "Tawhid means the oneness of Allah.",
       "difficulty": 1
     },
     {
       "id": "irs_005",
-      "text": "How many times a day are Muslims required to perform Salat?",
+      "text": "How many times daily must Muslims perform Salat?",
       "options": [
         "3",
         "1",
@@ -65,12 +65,12 @@
         "5"
       ],
       "correct_index": 3,
-      "explanation": "5 times.",
+      "explanation": "Muslims must pray 5 times a day.",
       "difficulty": 1
     },
     {
       "id": "irs_006",
-      "text": "How many Rakats are performed in the Fajr prayer?",
+      "text": "How many Rakats are in the Fajr prayer?",
       "options": [
         "3",
         "1",
@@ -78,25 +78,25 @@
         "4"
       ],
       "correct_index": 2,
-      "explanation": "Fajr 2.",
+      "explanation": "Fajr has 2 Rakats.",
       "difficulty": 1
     },
     {
       "id": "irs_007",
-      "text": "What is Zakat and what is its significance in Islam?",
+      "text": "What is the value or meaning of Zakat in mathematics?",
       "options": [
-        "Hajj",
-        "Alms",
+        "Pilgrimage",
+        "Alms-giving",
         "Prayer",
         "Fasting"
       ],
       "correct_index": 1,
-      "explanation": "Alms.",
+      "explanation": "Zakat is obligatory alms-giving.",
       "difficulty": 1
     },
     {
       "id": "irs_008",
-      "text": "What does the term Sawm mean in Islam?",
+      "text": "What is the meaning of the term sawm?",
       "options": [
         "Fasting",
         "Prayer",
@@ -104,12 +104,12 @@
         "Hajj"
       ],
       "correct_index": 0,
-      "explanation": "Fasting.",
+      "explanation": "Sawm means fasting.",
       "difficulty": 1
     },
     {
       "id": "irs_009",
-      "text": "In which city is the Hajj pilgrimage performed?",
+      "text": "In which city is the Islamic pilgrimage of Hajj primarily performed?",
       "options": [
         "Madinah",
         "Jerusalem",
@@ -117,7 +117,7 @@
         "Makkah"
       ],
       "correct_index": 3,
-      "explanation": "Makkah.",
+      "explanation": "Hajj is performed in Makkah.",
       "difficulty": 1
     },
     {
@@ -130,12 +130,12 @@
         "622 AD"
       ],
       "correct_index": 2,
-      "explanation": "570 AD.",
+      "explanation": "The Prophet was born in 570 AD.",
       "difficulty": 2
     },
     {
       "id": "irs_011",
-      "text": "In what year did the Hijra (migration to Madinah) take place?",
+      "text": "In which year did the hijra take place?",
       "options": [
         "632 AD",
         "622 AD",
@@ -143,12 +143,12 @@
         "610 AD"
       ],
       "correct_index": 1,
-      "explanation": "622 AD.",
+      "explanation": "The Hijra occurred in 622 AD.",
       "difficulty": 2
     },
     {
       "id": "irs_012",
-      "text": "In what year did the Battle of Badr take place?",
+      "text": "In which year did the battle of badr take place?",
       "options": [
         "624 AD",
         "622 AD",
@@ -156,12 +156,12 @@
         "627 AD"
       ],
       "correct_index": 0,
-      "explanation": "624 AD.",
+      "explanation": "Badr took place in 624 AD.",
       "difficulty": 2
     },
     {
       "id": "irs_013",
-      "text": "Who was the first Caliph of Islam after the Prophet?",
+      "text": "Who was the first caliph of islam and what was their role in history?",
       "options": [
         "Umar",
         "Uthman",
@@ -169,12 +169,12 @@
         "Abu Bakr"
       ],
       "correct_index": 3,
-      "explanation": "Abu Bakr.",
-      "difficulty": 1
+      "explanation": "Abu Bakr was the first Caliph.",
+      "difficulty": 2
     },
     {
       "id": "irs_014",
-      "text": "What does the term Nikah mean in Islam?",
+      "text": "What is the meaning of the term nikah?",
       "options": [
         "Prayer",
         "Fasting",
@@ -182,12 +182,12 @@
         "Divorce"
       ],
       "correct_index": 2,
-      "explanation": "Marriage.",
-      "difficulty": 1
+      "explanation": "Nikah means marriage.",
+      "difficulty": 2
     },
     {
       "id": "irs_015",
-      "text": "What is the Islamic ruling on Riba (interest)?",
+      "text": "What is the ruling on Riba (interest)?",
       "options": [
         "No ruling",
         "Forbidden",
@@ -195,12 +195,12 @@
         "Optional"
       ],
       "correct_index": 1,
-      "explanation": "Forbidden.",
-      "difficulty": 1
+      "explanation": "Riba is forbidden (Haram).",
+      "difficulty": 2
     },
     {
       "id": "irs_016",
-      "text": "What does the term Halal mean in Islam?",
+      "text": "What is the meaning of the term halal?",
       "options": [
         "Permissible",
         "Forbidden",
@@ -208,12 +208,12 @@
         "No meaning"
       ],
       "correct_index": 0,
-      "explanation": "Permissible.",
-      "difficulty": 1
+      "explanation": "Halal means permissible.",
+      "difficulty": 2
     },
     {
       "id": "irs_017",
-      "text": "What is the first month of the Islamic Hijri calendar?",
+      "text": "What is the first month of the Hijri calendar?",
       "options": [
         "Ramadan",
         "Shawwal",
@@ -221,2386 +221,2386 @@
         "Muharram"
       ],
       "correct_index": 3,
-      "explanation": "Muharram.",
-      "difficulty": 1
+      "explanation": "Muharram is the first Hijri month.",
+      "difficulty": 2
     },
     {
       "id": "irs_018",
       "text": "Which Eid is celebrated at the end of Ramadan?",
       "options": [
-        "No Eid",
-        "Only Adha",
+        "None",
+        "Eid al-Adha",
         "Eid al-Fitr",
-        "Eid al-Adha"
+        "Both Eids"
       ],
       "correct_index": 2,
-      "explanation": "Eid Fitr.",
-      "difficulty": 1
+      "explanation": "Eid al-Fitr marks the end of Ramadan.",
+      "difficulty": 2
     },
     {
       "id": "irs_019",
-      "text": "What is Wudu and why is it performed in Islam?",
+      "text": "What is the value or meaning of Wudu in mathematics?",
       "options": [
-        "Only face",
+        "Only face washing",
         "Ablution",
-        "Bathing",
+        "Full bath",
         "No ablution"
       ],
       "correct_index": 1,
-      "explanation": "Ablution.",
-      "difficulty": 1
+      "explanation": "Wudu is partial ablution before prayer.",
+      "difficulty": 2
     },
     {
       "id": "irs_020",
-      "text": "In which direction do Muslims face during prayer (Qibla)?",
+      "text": "What is the value or meaning of the Qibla in mathematics?",
       "options": [
-        "Kaaba",
+        "The Kaaba direction",
         "East only",
         "West only",
         "No direction"
       ],
       "correct_index": 0,
-      "explanation": "Kaaba.",
-      "difficulty": 1
+      "explanation": "The Qibla is the direction of the Kaaba.",
+      "difficulty": 2
     },
     {
       "id": "irs_021",
-      "text": "Over what period of time was the Holy Quran revealed? (variant 21)",
+      "text": "How many Juz does the Quran contain?",
       "options": [
-        "10 years",
-        "40 years",
-        "13 years",
-        "23 years"
+        "20",
+        "30",
+        "40",
+        "50"
       ],
-      "correct_index": 3,
-      "explanation": "23 years.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Quran is divided into 30 Juz.",
+      "difficulty": 3
     },
     {
       "id": "irs_022",
-      "text": "In which cave did the first revelation of the Quran take place? (variant 22)",
+      "text": "Which Surah is known as the Heart of the Quran?",
       "options": [
-        "Uhud",
-        "Badr",
-        "Hira",
-        "Thawr"
+        "Al-Fatiha",
+        "Ya-Sin",
+        "Ar-Rahman",
+        "Al-Baqarah"
       ],
-      "correct_index": 2,
-      "explanation": "Hira.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Ya-Sin is called the heart of the Quran.",
+      "difficulty": 3
     },
     {
       "id": "irs_023",
-      "text": "How many Surahs does the Holy Quran contain? (variant 23)",
+      "text": "How many Rakats are in Dhuhr prayer?",
       "options": [
-        "30",
-        "114 Surahs",
-        "100",
-        "120"
+        "2",
+        "3",
+        "4",
+        "5"
       ],
-      "correct_index": 1,
-      "explanation": "114 Surahs.",
+      "correct_index": 2,
+      "explanation": "Dhuhr has 4 Rakats.",
       "difficulty": 1
     },
     {
       "id": "irs_024",
-      "text": "What does the concept of Tawhid mean in Islam? (variant 24)",
+      "text": "How many Rakats are in Maghrib prayer?",
       "options": [
-        "Oneness of Allah",
-        "Prophethood",
-        "Judgement",
-        "Angels"
+        "2",
+        "3",
+        "4",
+        "5"
       ],
-      "correct_index": 0,
-      "explanation": "Oneness.",
+      "correct_index": 1,
+      "explanation": "Maghrib has 3 Rakats.",
       "difficulty": 1
     },
     {
       "id": "irs_025",
-      "text": "How many times a day are Muslims required to perform Salat? (variant 25)",
+      "text": "How many Rakats are there in the obligatory Isha (night) prayer?",
       "options": [
-        "3",
-        "1",
         "2",
+        "3",
+        "4",
         "5"
       ],
-      "correct_index": 3,
-      "explanation": "5 times.",
+      "correct_index": 2,
+      "explanation": "Isha has 4 Rakats.",
       "difficulty": 1
     },
     {
       "id": "irs_026",
-      "text": "How many Rakats are performed in the Fajr prayer? (variant 26)",
+      "text": "How many Rakats are there in the obligatory Asr (afternoon) prayer?",
       "options": [
-        "3",
-        "1",
         "2",
-        "4"
+        "3",
+        "4",
+        "5"
       ],
       "correct_index": 2,
-      "explanation": "Fajr 2.",
+      "explanation": "Asr has 4 Rakats.",
       "difficulty": 1
     },
     {
       "id": "irs_027",
-      "text": "What is Zakat and what is its significance in Islam? (variant 27)",
+      "text": "Which Surah is recited in every unit of Salat?",
       "options": [
-        "Hajj",
-        "Alms",
-        "Prayer",
-        "Fasting"
+        "Al-Ikhlas",
+        "Al-Fatiha",
+        "An-Nas",
+        "Al-Falaq"
       ],
       "correct_index": 1,
-      "explanation": "Alms.",
+      "explanation": "Al-Fatiha is recited in every Rakat.",
       "difficulty": 1
     },
     {
       "id": "irs_028",
-      "text": "What does the term Sawm mean in Islam? (variant 28)",
+      "text": "What is the meaning of \"the first pillar of Islam\"?",
       "options": [
-        "Fasting",
-        "Prayer",
-        "Charity",
-        "Hajj"
+        "Salat",
+        "Shahada",
+        "Zakat",
+        "Sawm"
       ],
-      "correct_index": 0,
-      "explanation": "Fasting.",
+      "correct_index": 1,
+      "explanation": "The Shahada (declaration of faith) is the first pillar.",
       "difficulty": 1
     },
     {
       "id": "irs_029",
-      "text": "In which city is the Hajj pilgrimage performed? (variant 29)",
+      "text": "What does the Shahada, the declaration of faith in Islam, declare?",
       "options": [
-        "Madinah",
-        "Jerusalem",
-        "Baghdad",
-        "Makkah"
+        "Only five prayers",
+        "Oneness of Allah and prophethood of Muhammad",
+        "Fasting in Ramadan",
+        "Hajj to Makkah"
       ],
-      "correct_index": 3,
-      "explanation": "Makkah.",
+      "correct_index": 1,
+      "explanation": "It declares there is no god but Allah and Muhammad is His messenger.",
       "difficulty": 1
     },
     {
       "id": "irs_030",
-      "text": "In what year was Prophet Muhammad (SAW) born? (variant 30)",
+      "text": "Which of the five Pillars of Islam is the last or final pillar?",
       "options": [
-        "610 AD",
-        "632 AD",
-        "570 AD",
-        "622 AD"
+        "Zakat",
+        "Sawm",
+        "Hajj",
+        "Shahada"
       ],
       "correct_index": 2,
-      "explanation": "570 AD.",
-      "difficulty": 2
+      "explanation": "Hajj is the fifth and last pillar.",
+      "difficulty": 1
     },
     {
       "id": "irs_031",
-      "text": "In what year did the Hijra (migration to Madinah) take place? (variant 31)",
+      "text": "What is the Hijri calendar based on?",
       "options": [
-        "632 AD",
-        "622 AD",
-        "570 AD",
-        "610 AD"
+        "Prophet's birth",
+        "The Hijra",
+        "The first revelation",
+        "Conquest of Makkah"
       ],
       "correct_index": 1,
-      "explanation": "622 AD.",
-      "difficulty": 2
+      "explanation": "The Hijri calendar starts from the Hijra in 622 AD.",
+      "difficulty": 3
     },
     {
       "id": "irs_032",
-      "text": "In what year did the Battle of Badr take place? (variant 32)",
+      "text": "Who compiled the Quran during Abu Bakr's caliphate?",
       "options": [
-        "624 AD",
-        "622 AD",
-        "625 AD",
-        "627 AD"
+        "Ali ibn Abi Talib",
+        "Zaid ibn Thabit",
+        "Uthman ibn Affan",
+        "Abdullah ibn Masud"
       ],
-      "correct_index": 0,
-      "explanation": "624 AD.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Zaid ibn Thabit compiled the first mushaf.",
+      "difficulty": 3
     },
     {
       "id": "irs_033",
-      "text": "Who was the first Caliph of Islam after the Prophet? (variant 33)",
+      "text": "Which Caliph standardized the Quran text?",
       "options": [
+        "Abu Bakr",
         "Umar",
         "Uthman",
-        "Ali",
-        "Abu Bakr"
+        "Ali"
       ],
-      "correct_index": 3,
-      "explanation": "Abu Bakr.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Uthman standardized the Quran copies.",
+      "difficulty": 3
     },
     {
       "id": "irs_034",
-      "text": "What does the term Nikah mean in Islam? (variant 34)",
+      "text": "Which Surah is called the essence of the Quran?",
       "options": [
-        "Prayer",
-        "Fasting",
-        "Marriage",
-        "Divorce"
+        "Ya-Sin",
+        "Ar-Rahman",
+        "Al-Fatiha",
+        "Al-Ikhlas"
       ],
       "correct_index": 2,
-      "explanation": "Marriage.",
-      "difficulty": 1
+      "explanation": "Al-Fatiha is called Umm al-Quran (essence of the Quran).",
+      "difficulty": 3
     },
     {
       "id": "irs_035",
-      "text": "What is the Islamic ruling on Riba (interest)? (variant 35)",
+      "text": "What is the value or meaning of the meaning of Al-Fatiha in mathematics?",
       "options": [
-        "No ruling",
-        "Forbidden",
-        "Allowed",
-        "Optional"
+        "The Clear",
+        "The Opening",
+        "The Compassionate",
+        "The Unity"
       ],
       "correct_index": 1,
-      "explanation": "Forbidden.",
-      "difficulty": 1
+      "explanation": "Al-Fatiha means The Opening.",
+      "difficulty": 2
     },
     {
       "id": "irs_036",
-      "text": "What does the term Halal mean in Islam? (variant 36)",
+      "text": "What is the message of Surah Al-Ikhlas?",
       "options": [
-        "Permissible",
-        "Forbidden",
-        "Doubtful",
-        "No meaning"
+        "Patience",
+        "Absolute oneness of Allah",
+        "Judgement day",
+        "Manners"
       ],
-      "correct_index": 0,
-      "explanation": "Permissible.",
+      "correct_index": 1,
+      "explanation": "Al-Ikhlas emphasizes pure monotheism.",
       "difficulty": 1
     },
     {
       "id": "irs_037",
-      "text": "What is the first month of the Islamic Hijri calendar? (variant 37)",
+      "text": "What is the message of Surah An-Nas?",
       "options": [
-        "Ramadan",
-        "Shawwal",
-        "Dhul Hijja",
-        "Muharram"
+        "Seeking protection from evil",
+        "Unity of Allah",
+        "Judgement",
+        "Creation of heavens"
       ],
-      "correct_index": 3,
-      "explanation": "Muharram.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "An-Nas teaches seeking refuge in Allah from evil.",
+      "difficulty": 2
     },
     {
       "id": "irs_038",
-      "text": "Which Eid is celebrated at the end of Ramadan? (variant 38)",
+      "text": "What is the message of Surah Al-Falaq?",
       "options": [
-        "No Eid",
-        "Only Adha",
-        "Eid al-Fitr",
-        "Eid al-Adha"
+        "Charity",
+        "Protection from harm",
+        "Prayer times",
+        "Fasting rules"
       ],
-      "correct_index": 2,
-      "explanation": "Eid Fitr.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Al-Falaq teaches seeking protection from harm.",
+      "difficulty": 2
     },
     {
       "id": "irs_039",
-      "text": "What is Wudu and why is it performed in Islam? (variant 39)",
+      "text": "Who was the second caliph of islam and what was their role in history?",
       "options": [
-        "Only face",
-        "Ablution",
-        "Bathing",
-        "No ablution"
+        "Abu Bakr",
+        "Ali",
+        "Umar",
+        "Uthman"
       ],
-      "correct_index": 1,
-      "explanation": "Ablution.",
+      "correct_index": 2,
+      "explanation": "Umar ibn al-Khattab was the second Caliph.",
       "difficulty": 1
     },
     {
       "id": "irs_040",
-      "text": "In which direction do Muslims face during prayer (Qibla)? (variant 40)",
+      "text": "Who was the third caliph of islam and what was their role in history?",
       "options": [
-        "Kaaba",
-        "East only",
-        "West only",
-        "No direction"
+        "Ali",
+        "Umar",
+        "Abu Bakr",
+        "Uthman"
       ],
-      "correct_index": 0,
-      "explanation": "Kaaba.",
+      "correct_index": 3,
+      "explanation": "Uthman ibn Affan was the third Caliph.",
       "difficulty": 1
     },
     {
       "id": "irs_041",
-      "text": "Over what period of time was the Holy Quran revealed? (variant 41)",
+      "text": "Who was the fourth caliph of islam and what was their role in history?",
       "options": [
-        "10 years",
-        "40 years",
-        "13 years",
-        "23 years"
+        "Abu Bakr",
+        "Umar",
+        "Ali",
+        "Uthman"
       ],
-      "correct_index": 3,
-      "explanation": "23 years.",
+      "correct_index": 2,
+      "explanation": "Ali ibn Abi Talib was the fourth Caliph.",
       "difficulty": 1
     },
     {
       "id": "irs_042",
-      "text": "In which cave did the first revelation of the Quran take place? (variant 42)",
+      "text": "What year did the Prophet (SAW) pass away?",
       "options": [
-        "Uhud",
-        "Badr",
-        "Hira",
-        "Thawr"
+        "610 AD",
+        "622 AD",
+        "630 AD",
+        "632 AD"
       ],
-      "correct_index": 2,
-      "explanation": "Hira.",
-      "difficulty": 1
+      "correct_index": 3,
+      "explanation": "The Prophet passed away in 632 AD.",
+      "difficulty": 3
     },
     {
       "id": "irs_043",
-      "text": "How many Surahs does the Holy Quran contain? (variant 43)",
+      "text": "What is the Farewell Sermon delivered at?",
       "options": [
-        "30",
-        "114 Surahs",
-        "100",
-        "120"
+        "Conquest of Makkah",
+        "Battle of Uhud",
+        "Mount Arafat",
+        "Cave Hira"
       ],
-      "correct_index": 1,
-      "explanation": "114 Surahs.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "The Farewell Sermon was at Mount Arafat.",
+      "difficulty": 3
     },
     {
       "id": "irs_044",
-      "text": "What does the concept of Tawhid mean in Islam? (variant 44)",
+      "text": "What is the value or meaning of Haram food in Islam in mathematics?",
       "options": [
-        "Oneness of Allah",
-        "Prophethood",
-        "Judgement",
-        "Angels"
+        "Chicken",
+        "Beef",
+        "Pork",
+        "Lamb"
       ],
-      "correct_index": 0,
-      "explanation": "Oneness.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Pork is Haram (forbidden) in Islam.",
+      "difficulty": 2
     },
     {
       "id": "irs_045",
-      "text": "How many times a day are Muslims required to perform Salat? (variant 45)",
+      "text": "What is the Islamic month of fasting?",
       "options": [
-        "3",
-        "1",
-        "2",
-        "5"
+        "Muharram",
+        "Shawwal",
+        "Dhul Hijja",
+        "Ramadan"
       ],
       "correct_index": 3,
-      "explanation": "5 times.",
+      "explanation": "Fasting is obligatory in Ramadan.",
       "difficulty": 1
     },
     {
       "id": "irs_046",
-      "text": "How many Rakats are performed in the Fajr prayer? (variant 46)",
+      "text": "Which Eid involves animal sacrifice?",
       "options": [
-        "3",
-        "1",
-        "2",
-        "4"
+        "Eid al-Fitr",
+        "Eid al-Adha",
+        "Both",
+        "Neither"
       ],
-      "correct_index": 2,
-      "explanation": "Fajr 2.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Eid al-Adha involves animal sacrifice.",
+      "difficulty": 2
     },
     {
       "id": "irs_047",
-      "text": "What is Zakat and what is its significance in Islam? (variant 47)",
+      "text": "What is the last month of the Hijri calendar?",
       "options": [
-        "Hajj",
-        "Alms",
-        "Prayer",
-        "Fasting"
+        "Muharram",
+        "Shawwal",
+        "Rajab",
+        "Dhul Hijja"
       ],
-      "correct_index": 1,
-      "explanation": "Alms.",
-      "difficulty": 1
+      "correct_index": 3,
+      "explanation": "Dhul Hijja is the twelfth and last Hijri month.",
+      "difficulty": 3
     },
     {
       "id": "irs_048",
-      "text": "What does the term Sawm mean in Islam? (variant 48)",
+      "text": "How many pillars of Iman (faith) are there?",
       "options": [
-        "Fasting",
-        "Prayer",
-        "Charity",
-        "Hajj"
+        "4",
+        "5",
+        "6",
+        "7"
       ],
-      "correct_index": 0,
-      "explanation": "Fasting.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "There are 6 pillars of Iman.",
+      "difficulty": 3
     },
     {
       "id": "irs_049",
-      "text": "In which city is the Hajj pilgrimage performed? (variant 49)",
+      "text": "Which of these is NOT a pillar of Iman?",
       "options": [
-        "Madinah",
-        "Jerusalem",
-        "Baghdad",
-        "Makkah"
+        "Belief in Allah",
+        "Belief in Angels",
+        "Belief in Books",
+        "Hajj"
       ],
       "correct_index": 3,
-      "explanation": "Makkah.",
-      "difficulty": 1
+      "explanation": "Hajj is a pillar of Islam, not Iman.",
+      "difficulty": 3
     },
     {
       "id": "irs_050",
-      "text": "In what year was Prophet Muhammad (SAW) born? (variant 50)",
+      "text": "What is the meaning of the term iman?",
       "options": [
-        "610 AD",
-        "632 AD",
-        "570 AD",
-        "622 AD"
+        "Fasting",
+        "Faith",
+        "Charity",
+        "Prayer"
       ],
-      "correct_index": 2,
-      "explanation": "570 AD.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Iman means faith or belief.",
+      "difficulty": 1
     },
     {
       "id": "irs_051",
-      "text": "In what year did the Hijra (migration to Madinah) take place? (variant 51)",
+      "text": "What is the value or meaning of the first pillar of Iman in mathematics?",
       "options": [
-        "632 AD",
-        "622 AD",
-        "570 AD",
-        "610 AD"
+        "Belief in Prophets",
+        "Belief in Allah",
+        "Belief in Day of Judgement",
+        "Belief in Angels"
       ],
       "correct_index": 1,
-      "explanation": "622 AD.",
-      "difficulty": 2
+      "explanation": "Belief in Allah is the first pillar of Iman.",
+      "difficulty": 3
     },
     {
       "id": "irs_052",
-      "text": "In what year did the Battle of Badr take place? (variant 52)",
+      "text": "Which Surah is the longest in the Quran?",
       "options": [
-        "624 AD",
-        "622 AD",
-        "625 AD",
-        "627 AD"
+        "Al-Imran",
+        "Aal-e-Imran",
+        "Al-Baqarah",
+        "An-Nisa"
       ],
-      "correct_index": 0,
-      "explanation": "624 AD.",
-      "difficulty": 2
+      "correct_index": 2,
+      "explanation": "Al-Baqarah is the longest Surah.",
+      "difficulty": 3
     },
     {
       "id": "irs_053",
-      "text": "Who was the first Caliph of Islam after the Prophet? (variant 53)",
+      "text": "Which Surah is the shortest in the Quran?",
       "options": [
-        "Umar",
-        "Uthman",
-        "Ali",
-        "Abu Bakr"
+        "Al-Ikhlas",
+        "Al-Falaq",
+        "An-Nas",
+        "Al-Kawthar"
       ],
       "correct_index": 3,
-      "explanation": "Abu Bakr.",
-      "difficulty": 1
+      "explanation": "Al-Kawthar is the shortest Surah.",
+      "difficulty": 3
     },
     {
       "id": "irs_054",
-      "text": "What does the term Nikah mean in Islam? (variant 54)",
+      "text": "What is the name of the Prophet's wife Khadijah?",
       "options": [
-        "Prayer",
-        "Fasting",
-        "Marriage",
-        "Divorce"
+        "Aisha",
+        "Hafsa",
+        "Khadijah bint Khuwaylid",
+        "Sawda"
       ],
       "correct_index": 2,
-      "explanation": "Marriage.",
-      "difficulty": 1
+      "explanation": "Khadijah bint Khuwaylid was the Prophet's first wife.",
+      "difficulty": 3
     },
     {
       "id": "irs_055",
-      "text": "What is the Islamic ruling on Riba (interest)? (variant 55)",
+      "text": "Who was the Prophet's first daughter?",
       "options": [
-        "No ruling",
-        "Forbidden",
-        "Allowed",
-        "Optional"
+        "Zainab",
+        "Ruqayyah",
+        "Umm Kulthum",
+        "Fatimah"
       ],
-      "correct_index": 1,
-      "explanation": "Forbidden.",
-      "difficulty": 1
+      "correct_index": 3,
+      "explanation": "Fatimah was the Prophet's beloved daughter.",
+      "difficulty": 3
     },
     {
       "id": "irs_056",
-      "text": "What does the term Halal mean in Islam? (variant 56)",
+      "text": "What is the value or meaning of Ghusl in mathematics?",
       "options": [
-        "Permissible",
-        "Forbidden",
-        "Doubtful",
-        "No meaning"
+        "Partial ablution",
+        "Full body purification",
+        "Hand washing only",
+        "Face wiping"
       ],
-      "correct_index": 0,
-      "explanation": "Permissible.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Ghusl is full body ritual purification.",
+      "difficulty": 3
     },
     {
       "id": "irs_057",
-      "text": "What is the first month of the Islamic Hijri calendar? (variant 57)",
+      "text": "What is the value or meaning of Tayammum in mathematics?",
       "options": [
-        "Ramadan",
-        "Shawwal",
-        "Dhul Hijja",
-        "Muharram"
+        "Water ablution",
+        "Dry ablution with earth",
+        "Full bath",
+        "Face washing"
       ],
-      "correct_index": 3,
-      "explanation": "Muharram.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Tayammum is dry purification using clean earth.",
+      "difficulty": 3
     },
     {
       "id": "irs_058",
-      "text": "Which Eid is celebrated at the end of Ramadan? (variant 58)",
+      "text": "What is the meaning of the term haram?",
       "options": [
-        "No Eid",
-        "Only Adha",
-        "Eid al-Fitr",
-        "Eid al-Adha"
+        "Permissible",
+        "Forbidden",
+        "Recommended",
+        "Obligatory"
       ],
-      "correct_index": 2,
-      "explanation": "Eid Fitr.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Haram means strictly forbidden.",
+      "difficulty": 2
     },
     {
       "id": "irs_059",
-      "text": "What is Wudu and why is it performed in Islam? (variant 59)",
+      "text": "What is the value or meaning of the meaning of Jihad in mathematics?",
       "options": [
-        "Only face",
-        "Ablution",
-        "Bathing",
-        "No ablution"
+        "Warfare only",
+        "Struggle/striving",
+        "Peace",
+        "Charity"
       ],
       "correct_index": 1,
-      "explanation": "Ablution.",
-      "difficulty": 1
+      "explanation": "Jihad means struggle or striving in Allah's cause.",
+      "difficulty": 3
     },
     {
       "id": "irs_060",
-      "text": "In which direction do Muslims face during prayer (Qibla)? (variant 60)",
+      "text": "What is the Book believed in by Muslims?",
       "options": [
-        "Kaaba",
-        "East only",
-        "West only",
-        "No direction"
+        "Torah",
+        "Bible",
+        "Quran",
+        "Psalms"
       ],
-      "correct_index": 0,
-      "explanation": "Kaaba.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "The Quran is the holy book of Islam.",
+      "difficulty": 2
     },
     {
       "id": "irs_061",
-      "text": "Over what period of time was the Holy Quran revealed? (variant 61)",
+      "text": "Which angel delivered revelation to the Prophet?",
       "options": [
-        "10 years",
-        "40 years",
-        "13 years",
-        "23 years"
+        "Israfil",
+        "Mikail",
+        "Jibril (Gabriel)",
+        "Israfil"
       ],
-      "correct_index": 3,
-      "explanation": "23 years.",
+      "correct_index": 2,
+      "explanation": "Angel Jibril (Gabriel) brought the revelation.",
       "difficulty": 1
     },
     {
       "id": "irs_062",
-      "text": "In which cave did the first revelation of the Quran take place? (variant 62)",
+      "text": "What is the Day of Judgement called in Arabic?",
       "options": [
-        "Uhud",
-        "Badr",
-        "Hira",
-        "Thawr"
+        "Jumu'ah",
+        "Qiyamah",
+        "Lailatul Qadr",
+        "Isra"
       ],
-      "correct_index": 2,
-      "explanation": "Hira.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Day of Judgement is called Yawm al-Qiyamah.",
+      "difficulty": 3
     },
     {
       "id": "irs_063",
-      "text": "How many Surahs does the Holy Quran contain? (variant 63)",
+      "text": "What is the value or meaning of Lailatul Qadr in mathematics?",
       "options": [
-        "30",
-        "114 Surahs",
-        "100",
-        "120"
+        "Night of power in Ramadan",
+        "Night of Hijra",
+        "Night of Eid",
+        "Night of Ascension"
       ],
-      "correct_index": 1,
-      "explanation": "114 Surahs.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Lailatul Qadr is the Night of Power, better than a thousand months.",
+      "difficulty": 3
     },
     {
       "id": "irs_064",
-      "text": "What does the concept of Tawhid mean in Islam? (variant 64)",
+      "text": "How many Surahs of the Quran are classified as Makkiyyah (revealed in Makkah)?",
       "options": [
-        "Oneness of Allah",
-        "Prophethood",
-        "Judgement",
-        "Angels"
+        "42",
+        "86",
+        "114",
+        "30"
       ],
-      "correct_index": 0,
-      "explanation": "Oneness.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Approximately 86 Surahs are revealed in Makkah.",
+      "difficulty": 3
     },
     {
       "id": "irs_065",
-      "text": "How many times a day are Muslims required to perform Salat? (variant 65)",
+      "text": "What is the meaning of Surah Ar-Rahman?",
       "options": [
-        "3",
-        "1",
-        "2",
-        "5"
+        "The Mercy of Allah",
+        "The Judgement",
+        "The Universe",
+        "The Day"
       ],
-      "correct_index": 3,
-      "explanation": "5 times.",
+      "correct_index": 0,
+      "explanation": "Ar-Rahman means The Most Merciful.",
       "difficulty": 1
     },
     {
       "id": "irs_066",
-      "text": "How many Rakats are performed in the Fajr prayer? (variant 66)",
+      "text": "What is the value or meaning of the meaning of Zakat in mathematics?",
       "options": [
-        "3",
-        "1",
-        "2",
-        "4"
-      ],
-      "correct_index": 2,
-      "explanation": "Fajr 2.",
-      "difficulty": 1
-    },
-    {
-      "id": "irs_067",
-      "text": "What is Zakat and what is its significance in Islam? (variant 67)",
-      "options": [
-        "Hajj",
-        "Alms",
+        "Charity",
+        "Purification and growth",
         "Prayer",
         "Fasting"
       ],
       "correct_index": 1,
-      "explanation": "Alms.",
-      "difficulty": 1
+      "explanation": "Zakat means purification and growth through giving.",
+      "difficulty": 3
+    },
+    {
+      "id": "irs_067",
+      "text": "What is the minimum Nisab for Zakat?",
+      "options": [
+        "Gold or silver equivalent",
+        "Any amount",
+        "Only gold",
+        "Only silver"
+      ],
+      "correct_index": 0,
+      "explanation": "Nisab is the minimum wealth threshold, based on gold or silver value.",
+      "difficulty": 3
     },
     {
       "id": "irs_068",
-      "text": "What does the term Sawm mean in Islam? (variant 68)",
+      "text": "Which month is Dhul Hijja associated with?",
       "options": [
+        "Hajj",
         "Fasting",
-        "Prayer",
-        "Charity",
-        "Hajj"
+        "Night Journey",
+        "First revelation"
       ],
       "correct_index": 0,
-      "explanation": "Fasting.",
-      "difficulty": 1
+      "explanation": "Hajj is performed in Dhul Hijja.",
+      "difficulty": 3
     },
     {
       "id": "irs_069",
-      "text": "In which city is the Hajj pilgrimage performed? (variant 69)",
+      "text": "What happened during Isra and Mi'raj?",
       "options": [
-        "Madinah",
-        "Jerusalem",
-        "Baghdad",
-        "Makkah"
+        "First battle",
+        "Night journey to Jerusalem and ascension",
+        "Birth of Prophet",
+        "Conquest of Makkah"
       ],
-      "correct_index": 3,
-      "explanation": "Makkah.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Isra and Mi'raj was the night journey to Jerusalem and ascension to heaven.",
+      "difficulty": 3
     },
     {
       "id": "irs_070",
-      "text": "In what year was Prophet Muhammad (SAW) born? (variant 70)",
+      "text": "In which year did the Battle of Uhud occur?",
       "options": [
-        "610 AD",
-        "632 AD",
-        "570 AD",
-        "622 AD"
+        "624 AD",
+        "625 AD",
+        "627 AD",
+        "630 AD"
       ],
-      "correct_index": 2,
-      "explanation": "570 AD.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "The Battle of Uhud occurred in 625 AD.",
+      "difficulty": 3
     },
     {
       "id": "irs_071",
-      "text": "In what year did the Hijra (migration to Madinah) take place? (variant 71)",
+      "text": "Who was hamza ibn abdul muttalib and what was their role in history?",
       "options": [
-        "632 AD",
-        "622 AD",
-        "570 AD",
-        "610 AD"
+        "Prophet's uncle and martyr",
+        "First Caliph",
+        "Companion",
+        "Angel"
       ],
-      "correct_index": 1,
-      "explanation": "622 AD.",
-      "difficulty": 2
+      "correct_index": 0,
+      "explanation": "Hamza was the Prophet's uncle, martyred at Uhud.",
+      "difficulty": 3
     },
     {
       "id": "irs_072",
-      "text": "In what year did the Battle of Badr take place? (variant 72)",
+      "text": "What is the significance of Mount Uhud?",
       "options": [
-        "624 AD",
-        "622 AD",
-        "625 AD",
-        "627 AD"
+        "First revelation",
+        "Site of Battle of Uhud",
+        "Hajj gathering",
+        "Hijra route"
       ],
-      "correct_index": 0,
-      "explanation": "624 AD.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Mount Uhud was the site of the Battle of Uhud.",
+      "difficulty": 3
     },
     {
       "id": "irs_073",
-      "text": "Who was the first Caliph of Islam after the Prophet? (variant 73)",
+      "text": "Which year was the Conquest of Makkah?",
       "options": [
-        "Umar",
-        "Uthman",
-        "Ali",
-        "Abu Bakr"
+        "624 AD",
+        "627 AD",
+        "630 AD",
+        "632 AD"
       ],
-      "correct_index": 3,
-      "explanation": "Abu Bakr.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Makkah was conquered in 630 AD.",
+      "difficulty": 3
     },
     {
       "id": "irs_074",
-      "text": "What does the term Nikah mean in Islam? (variant 74)",
+      "text": "What is the mosque of the Prophet in Madinah called?",
       "options": [
-        "Prayer",
-        "Fasting",
-        "Marriage",
-        "Divorce"
+        "Al-Aqsa",
+        "Masjid al-Nabawi",
+        "Masjid al-Haram",
+        "Quba"
       ],
-      "correct_index": 2,
-      "explanation": "Marriage.",
+      "correct_index": 1,
+      "explanation": "The Prophet's mosque is Masjid al-Nabawi.",
       "difficulty": 1
     },
     {
       "id": "irs_075",
-      "text": "What is the Islamic ruling on Riba (interest)? (variant 75)",
+      "text": "What is the first mosque built by the Muslims?",
       "options": [
-        "No ruling",
-        "Forbidden",
-        "Allowed",
-        "Optional"
+        "Al-Aqsa",
+        "Al-Haram",
+        "Quba",
+        "Nabawi"
       ],
-      "correct_index": 1,
-      "explanation": "Forbidden.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Masjid Quba was the first mosque built by the Muslims.",
+      "difficulty": 2
     },
     {
       "id": "irs_076",
-      "text": "What does the term Halal mean in Islam? (variant 76)",
+      "text": "Which Surah mentions the Night Journey?",
       "options": [
-        "Permissible",
-        "Forbidden",
-        "Doubtful",
-        "No meaning"
+        "Al-Fatiha",
+        "Al-Isra",
+        "Al-Baqarah",
+        "Ali Imran"
       ],
-      "correct_index": 0,
-      "explanation": "Permissible.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Surah Al-Isra mentions the Night Journey.",
+      "difficulty": 3
     },
     {
       "id": "irs_077",
-      "text": "What is the first month of the Islamic Hijri calendar? (variant 77)",
+      "text": "What is the value or meaning of Tawaf in mathematics?",
       "options": [
-        "Ramadan",
-        "Shawwal",
-        "Dhul Hijja",
-        "Muharram"
+        "Circling the Kaaba seven times",
+        "Drinking Zamzam",
+        "Running between Safa and Marwa",
+        "Standing at Arafat"
       ],
-      "correct_index": 3,
-      "explanation": "Muharram.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Tawaf is walking around the Kaaba seven times.",
+      "difficulty": 2
     },
     {
       "id": "irs_078",
-      "text": "Which Eid is celebrated at the end of Ramadan? (variant 78)",
+      "text": "What is the value or meaning of Sa'i in mathematics?",
       "options": [
-        "No Eid",
-        "Only Adha",
-        "Eid al-Fitr",
-        "Eid al-Adha"
+        "Circling Kaaba",
+        "Walking between Safa and Marwa",
+        "Standing at Arafat",
+        "Stoning pillars"
       ],
-      "correct_index": 2,
-      "explanation": "Eid Fitr.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Sa'i is walking seven times between Safa and Marwa.",
+      "difficulty": 2
     },
     {
       "id": "irs_079",
-      "text": "What is Wudu and why is it performed in Islam? (variant 79)",
+      "text": "What is the Black Stone (Hajar Aswad)?",
       "options": [
-        "Only face",
-        "Ablution",
-        "Bathing",
-        "No ablution"
+        "An angel",
+        "A stone in the Kaaba corner",
+        "A book",
+        "A prayer site"
       ],
       "correct_index": 1,
-      "explanation": "Ablution.",
-      "difficulty": 1
+      "explanation": "The Hajar Aswad is a stone set in the corner of the Kaaba.",
+      "difficulty": 2
     },
     {
       "id": "irs_080",
-      "text": "In which direction do Muslims face during prayer (Qibla)? (variant 80)",
+      "text": "Over how many days is the Hajj pilgrimage performed?",
       "options": [
-        "Kaaba",
-        "East only",
-        "West only",
-        "No direction"
+        "3 days",
+        "5 days",
+        "7 days",
+        "10 days"
       ],
-      "correct_index": 0,
-      "explanation": "Kaaba.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Hajj rituals span approximately 5 days.",
+      "difficulty": 2
     },
     {
       "id": "irs_081",
-      "text": "Over what period of time was the Holy Quran revealed? (variant 81)",
+      "text": "What is the value or meaning of Ihram in mathematics?",
       "options": [
-        "10 years",
-        "40 years",
-        "13 years",
-        "23 years"
+        "A type of prayer",
+        "State of purity for Hajj",
+        "A festival",
+        "A type of food"
       ],
-      "correct_index": 3,
-      "explanation": "23 years.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Ihram is the sacred state worn during Hajj.",
+      "difficulty": 2
     },
     {
       "id": "irs_082",
-      "text": "In which cave did the first revelation of the Quran take place? (variant 82)",
+      "text": "What is the meaning of \"Mina known for during Hajj\"?",
       "options": [
-        "Uhud",
-        "Badr",
-        "Hira",
-        "Thawr"
+        "Circling Kaaba",
+        "Stoning of Jamarat",
+        "Drinking Zamzam",
+        "Praying only"
       ],
-      "correct_index": 2,
-      "explanation": "Hira.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Mina is where the stoning of Jamarat takes place.",
+      "difficulty": 3
     },
     {
       "id": "irs_083",
-      "text": "How many Surahs does the Holy Quran contain? (variant 83)",
+      "text": "What happens on the Day of Arafat during Hajj?",
       "options": [
-        "30",
-        "114 Surahs",
-        "100",
-        "120"
+        "Stoning",
+        "Standing and supplication",
+        "Circling Kaaba",
+        "Animal sacrifice"
       ],
       "correct_index": 1,
-      "explanation": "114 Surahs.",
-      "difficulty": 1
+      "explanation": "Pilgrims stand at Arafat for prayer and supplication.",
+      "difficulty": 2
     },
     {
       "id": "irs_084",
-      "text": "What does the concept of Tawhid mean in Islam? (variant 84)",
+      "text": "Which hadith collection is considered most authentic?",
       "options": [
-        "Oneness of Allah",
-        "Prophethood",
-        "Judgement",
-        "Angels"
+        "Sunan Abu Dawud",
+        "Sahih Muslim",
+        "Sahih al-Bukhari",
+        "Sunan al-Tirmidhi"
       ],
-      "correct_index": 0,
-      "explanation": "Oneness.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Sahih al-Bukhari is the most authentic hadith collection.",
+      "difficulty": 2
     },
     {
       "id": "irs_085",
-      "text": "How many times a day are Muslims required to perform Salat? (variant 85)",
+      "text": "Who was the scholar that compiled the Hadith collection Sahih al-Bukhari?",
       "options": [
-        "3",
-        "1",
-        "2",
-        "5"
+        "Muslim ibn al-Hajjaj",
+        "Muhammad ibn Ismail al-Bukhari",
+        "Abu Dawud",
+        "Al-Tirmidhi"
       ],
-      "correct_index": 3,
-      "explanation": "5 times.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Imam al-Bukhari compiled this collection.",
+      "difficulty": 2
     },
     {
       "id": "irs_086",
-      "text": "How many Rakats are performed in the Fajr prayer? (variant 86)",
+      "text": "What is the value or meaning of a Hadith in mathematics?",
       "options": [
-        "3",
-        "1",
-        "2",
-        "4"
+        "Quran verse",
+        "Saying/action of the Prophet",
+        "Angel",
+        "Prayer"
       ],
-      "correct_index": 2,
-      "explanation": "Fajr 2.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Hadith is the recorded saying or action of the Prophet (SAW).",
+      "difficulty": 2
     },
     {
       "id": "irs_087",
-      "text": "What is Zakat and what is its significance in Islam? (variant 87)",
+      "text": "What is the meaning of the term sunnah?",
       "options": [
-        "Hajj",
-        "Alms",
         "Prayer",
-        "Fasting"
+        "Way/practice of the Prophet",
+        "Pilgrimage",
+        "Charity"
       ],
       "correct_index": 1,
-      "explanation": "Alms.",
+      "explanation": "Sunnah refers to the practice and way of the Prophet.",
       "difficulty": 1
     },
     {
       "id": "irs_088",
-      "text": "What does the term Sawm mean in Islam? (variant 88)",
+      "text": "Which battle is called the Battle of the Trench?",
       "options": [
-        "Fasting",
-        "Prayer",
-        "Charity",
-        "Hajj"
+        "Badr",
+        "Uhud",
+        "Khandaq",
+        "Hunayn"
       ],
-      "correct_index": 0,
-      "explanation": "Fasting.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "The Battle of Khandaq (627 AD) involved a trench.",
+      "difficulty": 3
     },
     {
       "id": "irs_089",
-      "text": "In which city is the Hajj pilgrimage performed? (variant 89)",
+      "text": "What was the Treaty of Hudaybiyyah about?",
       "options": [
-        "Madinah",
-        "Jerusalem",
-        "Baghdad",
-        "Makkah"
+        "War declaration",
+        "Peace treaty",
+        "Trade agreement",
+        "Marriage"
       ],
-      "correct_index": 3,
-      "explanation": "Makkah.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "It was a peace treaty between Muslims and Quraysh.",
+      "difficulty": 3
     },
     {
       "id": "irs_090",
-      "text": "In what year was Prophet Muhammad (SAW) born? (variant 90)",
+      "text": "What is the value or meaning of Sadaqah in mathematics?",
       "options": [
-        "610 AD",
-        "632 AD",
-        "570 AD",
-        "622 AD"
+        "Obligatory charity",
+        "Voluntary charity",
+        "Prayer",
+        "Fasting"
       ],
-      "correct_index": 2,
-      "explanation": "570 AD.",
+      "correct_index": 1,
+      "explanation": "Sadaqah is voluntary charity.",
       "difficulty": 2
     },
     {
       "id": "irs_091",
-      "text": "In what year did the Hijra (migration to Madinah) take place? (variant 91)",
+      "text": "What is the value or meaning of Sawm a pillar of in mathematics?",
       "options": [
-        "632 AD",
-        "622 AD",
-        "570 AD",
-        "610 AD"
+        "Iman",
+        "Islam",
+        "Neither",
+        "Both"
       ],
       "correct_index": 1,
-      "explanation": "622 AD.",
-      "difficulty": 2
+      "explanation": "Sawm is one of the five pillars of Islam.",
+      "difficulty": 1
     },
     {
       "id": "irs_092",
-      "text": "In what year did the Battle of Badr take place? (variant 92)",
+      "text": "Who was abu bakr's wife and what was their role in history?",
       "options": [
-        "624 AD",
-        "622 AD",
-        "625 AD",
-        "627 AD"
+        "Aisha",
+        "Hafsa",
+        "Asma bint Abu Bakr",
+        "Umm Salamah"
       ],
       "correct_index": 0,
-      "explanation": "624 AD.",
-      "difficulty": 2
+      "explanation": "Aisha (RA) was the wife of Abu Bakr and the Prophet.",
+      "difficulty": 3
     },
     {
       "id": "irs_093",
-      "text": "Who was the first Caliph of Islam after the Prophet? (variant 93)",
+      "text": "Who said 'La ilaha illallah' at the well of Zamzam?",
       "options": [
-        "Umar",
-        "Uthman",
-        "Ali",
-        "Abu Bakr"
+        "Prophet Ibrahim",
+        "Isma'il",
+        "Hajar (Hagar)",
+        "Prophet Muhammad"
       ],
-      "correct_index": 3,
-      "explanation": "Abu Bakr.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Hajar searched for water and found Zamzam.",
+      "difficulty": 3
     },
     {
       "id": "irs_094",
-      "text": "What does the term Nikah mean in Islam? (variant 94)",
+      "text": "What is the value or meaning of the Kaaba in mathematics?",
       "options": [
-        "Prayer",
-        "Fasting",
-        "Marriage",
-        "Divorce"
+        "A mountain",
+        "A cube-shaped structure in Makkah",
+        "A mosque",
+        "A city"
       ],
-      "correct_index": 2,
-      "explanation": "Marriage.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Kaaba is the cube-shaped structure at the centre of Masjid al-Haram.",
+      "difficulty": 2
     },
     {
       "id": "irs_095",
-      "text": "What is the Islamic ruling on Riba (interest)? (variant 95)",
+      "text": "How many times a year is Zakat generally paid?",
       "options": [
-        "No ruling",
-        "Forbidden",
-        "Allowed",
-        "Optional"
+        "Monthly",
+        "Once a year",
+        "Twice a year",
+        "Weekly"
       ],
       "correct_index": 1,
-      "explanation": "Forbidden.",
+      "explanation": "Zakat is paid once annually on accumulated wealth.",
       "difficulty": 1
     },
     {
       "id": "irs_096",
-      "text": "What does the term Halal mean in Islam? (variant 96)",
+      "text": "Which pillar of Islam is related to fasting?",
       "options": [
-        "Permissible",
-        "Forbidden",
-        "Doubtful",
-        "No meaning"
+        "Shahada",
+        "Zakat",
+        "Sawm",
+        "Salat"
       ],
-      "correct_index": 0,
-      "explanation": "Permissible.",
+      "correct_index": 2,
+      "explanation": "Sawm (fasting) is the third pillar of Islam.",
       "difficulty": 1
     },
     {
       "id": "irs_097",
-      "text": "What is the first month of the Islamic Hijri calendar? (variant 97)",
+      "text": "What is the value or meaning of Istinja in mathematics?",
       "options": [
-        "Ramadan",
-        "Shawwal",
-        "Dhul Hijja",
-        "Muharram"
+        "Prayer",
+        "Cleaning private parts with water after toilet",
+        "Ablution",
+        "Fasting"
       ],
-      "correct_index": 3,
-      "explanation": "Muharram.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Istinja is cleaning oneself after using the toilet.",
+      "difficulty": 3
     },
     {
       "id": "irs_098",
-      "text": "Which Eid is celebrated at the end of Ramadan? (variant 98)",
+      "text": "What is the value or meaning of Najasah in mathematics?",
       "options": [
-        "No Eid",
-        "Only Adha",
-        "Eid al-Fitr",
-        "Eid al-Adha"
-      ],
-      "correct_index": 2,
-      "explanation": "Eid Fitr.",
-      "difficulty": 1
-    },
-    {
-      "id": "irs_099",
-      "text": "What is Wudu and why is it performed in Islam? (variant 99)",
-      "options": [
-        "Only face",
-        "Ablution",
-        "Bathing",
-        "No ablution"
-      ],
-      "correct_index": 1,
-      "explanation": "Ablution.",
-      "difficulty": 1
-    },
-    {
-      "id": "irs_100",
-      "text": "In which direction do Muslims face during prayer (Qibla)? (variant 100)",
-      "options": [
-        "Kaaba",
-        "East only",
-        "West only",
-        "No direction"
-      ],
-      "correct_index": 0,
-      "explanation": "Kaaba.",
-      "difficulty": 1
-    },
-    {
-      "id": "irs_101",
-      "text": "Over what period of time was the Holy Quran revealed? (variant 101)",
-      "options": [
-        "10 years",
-        "40 years",
-        "13 years",
-        "23 years"
-      ],
-      "correct_index": 3,
-      "explanation": "23 years.",
-      "difficulty": 1
-    },
-    {
-      "id": "irs_102",
-      "text": "In which cave did the first revelation of the Quran take place? (variant 102)",
-      "options": [
-        "Uhud",
-        "Badr",
-        "Hira",
-        "Thawr"
-      ],
-      "correct_index": 2,
-      "explanation": "Hira.",
-      "difficulty": 1
-    },
-    {
-      "id": "irs_103",
-      "text": "How many Surahs does the Holy Quran contain? (variant 103)",
-      "options": [
-        "30",
-        "114 Surahs",
-        "100",
-        "120"
-      ],
-      "correct_index": 1,
-      "explanation": "114 Surahs.",
-      "difficulty": 1
-    },
-    {
-      "id": "irs_104",
-      "text": "What does the concept of Tawhid mean in Islam? (variant 104)",
-      "options": [
-        "Oneness of Allah",
-        "Prophethood",
-        "Judgement",
-        "Angels"
-      ],
-      "correct_index": 0,
-      "explanation": "Oneness.",
-      "difficulty": 1
-    },
-    {
-      "id": "irs_105",
-      "text": "How many times a day are Muslims required to perform Salat? (variant 105)",
-      "options": [
-        "3",
-        "1",
-        "2",
-        "5"
-      ],
-      "correct_index": 3,
-      "explanation": "5 times.",
-      "difficulty": 1
-    },
-    {
-      "id": "irs_106",
-      "text": "How many Rakats are performed in the Fajr prayer? (variant 106)",
-      "options": [
-        "3",
-        "1",
-        "2",
-        "4"
-      ],
-      "correct_index": 2,
-      "explanation": "Fajr 2.",
-      "difficulty": 1
-    },
-    {
-      "id": "irs_107",
-      "text": "What is Zakat and what is its significance in Islam? (variant 107)",
-      "options": [
-        "Hajj",
-        "Alms",
+        "Purity",
+        "Impurity",
         "Prayer",
         "Fasting"
       ],
       "correct_index": 1,
-      "explanation": "Alms.",
+      "explanation": "Najasah refers to ritual impurity or uncleanliness.",
+      "difficulty": 3
+    },
+    {
+      "id": "irs_099",
+      "text": "Who was the mother of the prophet and what was their role in history?",
+      "options": [
+        "Khadijah",
+        "Amina bint Wahb",
+        "Halimah",
+        "Fatimah"
+      ],
+      "correct_index": 1,
+      "explanation": "Amina bint Wahb was the Prophet's mother.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_100",
+      "text": "What was the Prophet's foster mother's name?",
+      "options": [
+        "Amina",
+        "Halimah al-Sa'diyah",
+        "Khadijah",
+        "Fatimah"
+      ],
+      "correct_index": 1,
+      "explanation": "Halimah al-Sa'diyah was his wet nurse/foster mother.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_101",
+      "text": "What is the clan of the Prophet called?",
+      "options": [
+        "Umayyah",
+        "Banu Hashim",
+        "Banu Umayyah",
+        "Banu Quraysh"
+      ],
+      "correct_index": 1,
+      "explanation": "The Prophet belonged to the Banu Hashim clan.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_102",
+      "text": "What year did the Prophet migrate to Madinah?",
+      "options": [
+        "610 AD",
+        "622 AD",
+        "624 AD",
+        "630 AD"
+      ],
+      "correct_index": 1,
+      "explanation": "The Hijra occurred in 622 AD.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_103",
+      "text": "What is the battle in which Muslims were defeated?",
+      "options": [
+        "Badr",
+        "Uhud",
+        "Makkah conquest",
+        "Tabuk"
+      ],
+      "correct_index": 1,
+      "explanation": "Muslims suffered setbacks in the Battle of Uhud.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_104",
+      "text": "Which companion was known as the 'Lion of Allah'?",
+      "options": [
+        "Umar",
+        "Abu Bakr",
+        "Ali ibn Abi Talib",
+        "Uthman"
+      ],
+      "correct_index": 2,
+      "explanation": "Ali ibn Abi Talib was known as Asadullah (Lion of Allah).",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_105",
+      "text": "Which companion was the first to accept Islam?",
+      "options": [
+        "Umar",
+        "Ali ibn Abi Talib",
+        "Abu Bakr",
+        "Hamza"
+      ],
+      "correct_index": 2,
+      "explanation": "Abu Bakr was the first adult male to accept Islam.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_106",
+      "text": "Who was the first child to accept Islam?",
+      "options": [
+        "Hasan",
+        "Husayn",
+        "Ali ibn Abi Talib",
+        "Zaid ibn Harithah"
+      ],
+      "correct_index": 2,
+      "explanation": "Ali was the first child to accept Islam.",
+      "difficulty": 2
+    },
+    {
+      "id": "irs_107",
+      "text": "What is the meaning of Surah Al-Falaq?",
+      "options": [
+        "The Daybreak",
+        "The People",
+        "The Merciful",
+        "The Opening"
+      ],
+      "correct_index": 0,
+      "explanation": "Al-Falaq means The Daybreak or The Dawn.",
       "difficulty": 1
     },
     {
       "id": "irs_108",
-      "text": "What does the term Sawm mean in Islam? (variant 108)",
+      "text": "What is the value or meaning of the meaning of An-Nas in mathematics?",
       "options": [
-        "Fasting",
-        "Prayer",
-        "Charity",
-        "Hajj"
+        "The Light",
+        "The Mankind",
+        "The Dawn",
+        "The Victory"
       ],
-      "correct_index": 0,
-      "explanation": "Fasting.",
+      "correct_index": 1,
+      "explanation": "An-Nas means The Mankind.",
       "difficulty": 1
     },
     {
       "id": "irs_109",
-      "text": "In which city is the Hajj pilgrimage performed? (variant 109)",
+      "text": "What is the value or meaning of the month after Ramadan in mathematics?",
       "options": [
-        "Madinah",
-        "Jerusalem",
-        "Baghdad",
-        "Makkah"
+        "Sha'ban",
+        "Shawwal",
+        "Dhul Qi'dah",
+        "Muharram"
       ],
-      "correct_index": 3,
-      "explanation": "Makkah.",
+      "correct_index": 1,
+      "explanation": "Shawwal follows Ramadan in the Hijri calendar.",
       "difficulty": 1
     },
     {
       "id": "irs_110",
-      "text": "In what year was Prophet Muhammad (SAW) born? (variant 110)",
+      "text": "How many times is Tawaf performed around the Kaaba?",
       "options": [
-        "610 AD",
-        "632 AD",
-        "570 AD",
-        "622 AD"
+        "5 times",
+        "7 times",
+        "10 times",
+        "4 times"
       ],
-      "correct_index": 2,
-      "explanation": "570 AD.",
+      "correct_index": 1,
+      "explanation": "Tawaf involves circling the Kaaba 7 times.",
       "difficulty": 2
     },
     {
       "id": "irs_111",
-      "text": "In what year did the Hijra (migration to Madinah) take place? (variant 111)",
+      "text": "What is the value or meaning of Rukun in prayer in mathematics?",
       "options": [
-        "632 AD",
-        "622 AD",
-        "570 AD",
-        "610 AD"
+        "Optional act",
+        "Obligatory act in Salat",
+        "Forbidden act",
+        "Recommended act"
       ],
       "correct_index": 1,
-      "explanation": "622 AD.",
+      "explanation": "Rukun are the essential pillars within Salat.",
       "difficulty": 2
     },
     {
       "id": "irs_112",
-      "text": "In what year did the Battle of Badr take place? (variant 112)",
+      "text": "What is the value or meaning of Sunnah in prayer in mathematics?",
       "options": [
-        "624 AD",
-        "622 AD",
-        "625 AD",
-        "627 AD"
+        "Obligatory",
+        "Recommended practice",
+        "Forbidden",
+        "Invalid"
       ],
-      "correct_index": 0,
-      "explanation": "624 AD.",
+      "correct_index": 1,
+      "explanation": "Sunnah acts in prayer are recommended but not obligatory.",
       "difficulty": 2
     },
     {
       "id": "irs_113",
-      "text": "Who was the first Caliph of Islam after the Prophet? (variant 113)",
+      "text": "Which Surah is known as Suratul Kafirun?",
       "options": [
-        "Umar",
-        "Uthman",
-        "Ali",
-        "Abu Bakr"
+        "Al-Ikhlas",
+        "Al-Kafirun",
+        "Al-Falaq",
+        "An-Nasr"
       ],
-      "correct_index": 3,
-      "explanation": "Abu Bakr.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Suratul Kafirun deals with disbelievers.",
+      "difficulty": 2
     },
     {
       "id": "irs_114",
-      "text": "What does the term Nikah mean in Islam? (variant 114)",
+      "text": "What is the meaning of \"the meaning of Al-Kafirun\"?",
       "options": [
-        "Prayer",
-        "Fasting",
-        "Marriage",
-        "Divorce"
+        "The Believers",
+        "The Disbelievers",
+        "The Merciful",
+        "The Compassionate"
       ],
-      "correct_index": 2,
-      "explanation": "Marriage.",
+      "correct_index": 1,
+      "explanation": "Al-Kafirun means The Disbelievers.",
       "difficulty": 1
     },
     {
       "id": "irs_115",
-      "text": "What is the Islamic ruling on Riba (interest)? (variant 115)",
+      "text": "What is the value or meaning of Surah Al-Nasr about in mathematics?",
       "options": [
-        "No ruling",
-        "Forbidden",
-        "Allowed",
-        "Optional"
+        "Defeat",
+        "Victory/Divine help",
+        "Fasting",
+        "Pilgrimage"
       ],
       "correct_index": 1,
-      "explanation": "Forbidden.",
-      "difficulty": 1
+      "explanation": "Al-Nasr speaks of victory and Allah's help.",
+      "difficulty": 2
     },
     {
       "id": "irs_116",
-      "text": "What does the term Halal mean in Islam? (variant 116)",
+      "text": "What is the meaning of the word 'Quran'?",
       "options": [
-        "Permissible",
-        "Forbidden",
-        "Doubtful",
-        "No meaning"
+        "Prayer",
+        "Recitation",
+        "Book",
+        "Law"
       ],
-      "correct_index": 0,
-      "explanation": "Permissible.",
+      "correct_index": 1,
+      "explanation": "Quran means 'The Recitation'.",
       "difficulty": 1
     },
     {
       "id": "irs_117",
-      "text": "What is the first month of the Islamic Hijri calendar? (variant 117)",
+      "text": "How many parts (Manzil) is the Quran divided into?",
       "options": [
-        "Ramadan",
-        "Shawwal",
-        "Dhul Hijja",
-        "Muharram"
+        "5",
+        "7",
+        "10",
+        "30"
       ],
-      "correct_index": 3,
-      "explanation": "Muharram.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Quran is divided into 7 Manzil for daily reading.",
+      "difficulty": 3
     },
     {
       "id": "irs_118",
-      "text": "Which Eid is celebrated at the end of Ramadan? (variant 118)",
+      "text": "What is Mu'adh Ad-Din Ajuri known for?",
       "options": [
-        "No Eid",
-        "Only Adha",
-        "Eid al-Fitr",
-        "Eid al-Adha"
+        "Fiqh",
+        "Hadith scholarship",
+        "Arabic grammar",
+        "Quran exegesis"
       ],
-      "correct_index": 2,
-      "explanation": "Eid Fitr.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Ajuri was known for hadith and Islamic knowledge.",
+      "difficulty": 3
     },
     {
       "id": "irs_119",
-      "text": "What is Wudu and why is it performed in Islam? (variant 119)",
+      "text": "What is the value or meaning of Tafsir in mathematics?",
       "options": [
-        "Only face",
-        "Ablution",
-        "Bathing",
-        "No ablution"
+        "Prayer",
+        "Interpretation of the Quran",
+        "Fasting",
+        "Charity"
       ],
       "correct_index": 1,
-      "explanation": "Ablution.",
+      "explanation": "Tafsir is the interpretation and explanation of the Quran.",
       "difficulty": 1
     },
     {
       "id": "irs_120",
-      "text": "In which direction do Muslims face during prayer (Qibla)? (variant 120)",
+      "text": "Which Sahaba was known as the 'Interpreter of the Quran'?",
       "options": [
-        "Kaaba",
-        "East only",
-        "West only",
-        "No direction"
+        "Umar",
+        "Abdullah ibn Abbas",
+        "Ali",
+        "Abu Bakr"
       ],
-      "correct_index": 0,
-      "explanation": "Kaaba.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Ibn Abbas was known as the greatest commentator of the Quran.",
+      "difficulty": 3
     },
     {
       "id": "irs_121",
-      "text": "Over what period of time was the Holy Quran revealed? (variant 121)",
+      "text": "What is the Prophetic mosque in Makkah called?",
       "options": [
-        "10 years",
-        "40 years",
-        "13 years",
-        "23 years"
+        "Masjid al-Nabawi",
+        "Masjid al-Haram",
+        "Al-Aqsa",
+        "Quba"
       ],
-      "correct_index": 3,
-      "explanation": "23 years.",
+      "correct_index": 1,
+      "explanation": "Masjid al-Haram is the holy mosque in Makkah.",
       "difficulty": 1
     },
     {
       "id": "irs_122",
-      "text": "In which cave did the first revelation of the Quran take place? (variant 122)",
+      "text": "What is the significance of Al-Aqsa Mosque?",
       "options": [
-        "Uhud",
-        "Badr",
-        "Hira",
-        "Thawr"
+        "First Qibla",
+        "First mosque in Makkah",
+        "Hajj site",
+        "Birthplace of Prophet"
       ],
-      "correct_index": 2,
-      "explanation": "Hira.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Al-Aqsa was the first Qibla before Makkah.",
+      "difficulty": 2
     },
     {
       "id": "irs_123",
-      "text": "How many Surahs does the Holy Quran contain? (variant 123)",
+      "text": "What is the value or meaning of Mihrab in a mosque in mathematics?",
       "options": [
-        "30",
-        "114 Surahs",
-        "100",
-        "120"
+        "Pulpit",
+        "Prayer niche showing Qibla",
+        "Entrance",
+        "Lamp"
       ],
       "correct_index": 1,
-      "explanation": "114 Surahs.",
-      "difficulty": 1
+      "explanation": "The Mihrab indicates the Qibla direction.",
+      "difficulty": 2
     },
     {
       "id": "irs_124",
-      "text": "What does the concept of Tawhid mean in Islam? (variant 124)",
+      "text": "What is the value or meaning of Minbar in mathematics?",
       "options": [
-        "Oneness of Allah",
-        "Prophethood",
-        "Judgement",
-        "Angels"
+        "Prayer niche",
+        "Pulpit for sermon",
+        "Mosque entrance",
+        "Fountain"
       ],
-      "correct_index": 0,
-      "explanation": "Oneness.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Minbar is the pulpit from which the Imam delivers sermons.",
+      "difficulty": 2
     },
     {
       "id": "irs_125",
-      "text": "How many times a day are Muslims required to perform Salat? (variant 125)",
+      "text": "What does Halal certification ensure?",
       "options": [
-        "3",
-        "1",
-        "2",
-        "5"
+        "Food is cheap",
+        "Food is permissible by Islamic law",
+        "Food is vegetarian",
+        "Food is organic"
       ],
-      "correct_index": 3,
-      "explanation": "5 times.",
+      "correct_index": 1,
+      "explanation": "Halal certification confirms food meets Islamic dietary law.",
       "difficulty": 1
     },
     {
       "id": "irs_126",
-      "text": "How many Rakats are performed in the Fajr prayer? (variant 126)",
+      "text": "What is the value or meaning of Islamic finance based on in mathematics?",
       "options": [
-        "3",
-        "1",
-        "2",
-        "4"
+        "Interest",
+        "Risk-sharing and profit-loss sharing",
+        "Gambling",
+        "Speculation"
       ],
-      "correct_index": 2,
-      "explanation": "Fajr 2.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Islamic finance is based on risk-sharing and ethical principles.",
+      "difficulty": 2
     },
     {
       "id": "irs_127",
-      "text": "What is Zakat and what is its significance in Islam? (variant 127)",
+      "text": "What is the value or meaning of Murabaha in mathematics?",
       "options": [
-        "Hajj",
-        "Alms",
-        "Prayer",
-        "Fasting"
+        "Loan with interest",
+        "Cost-plus sale",
+        "Gambling",
+        "Gift"
       ],
       "correct_index": 1,
-      "explanation": "Alms.",
-      "difficulty": 1
+      "explanation": "Murabaha is a cost-plus profit sale in Islamic finance.",
+      "difficulty": 3
     },
     {
       "id": "irs_128",
-      "text": "What does the term Sawm mean in Islam? (variant 128)",
+      "text": "What is the value or meaning of the concept of Waqf in mathematics?",
       "options": [
-        "Fasting",
         "Prayer",
-        "Charity",
+        "Endowment for charity",
+        "Fasting",
         "Hajj"
       ],
-      "correct_index": 0,
-      "explanation": "Fasting.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Waqf is an inalienable religious endowment.",
+      "difficulty": 3
     },
     {
       "id": "irs_129",
-      "text": "In which city is the Hajj pilgrimage performed? (variant 129)",
+      "text": "What is the Islamic month of Muharram known for?",
       "options": [
-        "Madinah",
-        "Jerusalem",
-        "Baghdad",
-        "Makkah"
+        "Hajj",
+        "Beginning of the Hijri year",
+        "Fasting only",
+        "Night Journey"
       ],
-      "correct_index": 3,
-      "explanation": "Makkah.",
+      "correct_index": 1,
+      "explanation": "Muharram marks the beginning of the Islamic new year.",
       "difficulty": 1
     },
     {
       "id": "irs_130",
-      "text": "In what year was Prophet Muhammad (SAW) born? (variant 130)",
+      "text": "What is the value or meaning of Ashura in mathematics?",
       "options": [
-        "610 AD",
-        "632 AD",
-        "570 AD",
-        "622 AD"
+        "Eid celebration",
+        "Day of fasting on 10th Muharram",
+        "Night of power",
+        "Hajj day"
       ],
-      "correct_index": 2,
-      "explanation": "570 AD.",
+      "correct_index": 1,
+      "explanation": "Ashura is the 10th of Muharram, a day of fasting.",
       "difficulty": 2
     },
     {
       "id": "irs_131",
-      "text": "In what year did the Hijra (migration to Madinah) take place? (variant 131)",
+      "text": "What is Laylat al-Miraj associated with?",
       "options": [
-        "632 AD",
-        "622 AD",
-        "570 AD",
-        "610 AD"
+        "Night of Power",
+        "Night Journey and Ascension",
+        "Birth of Prophet",
+        "Hijra"
       ],
       "correct_index": 1,
-      "explanation": "622 AD.",
+      "explanation": "Laylat al-Miraj marks the Night Journey and Ascension.",
       "difficulty": 2
     },
     {
       "id": "irs_132",
-      "text": "In what year did the Battle of Badr take place? (variant 132)",
+      "text": "How many angels are named in the Quran?",
       "options": [
-        "624 AD",
-        "622 AD",
-        "625 AD",
-        "627 AD"
+        "2",
+        "4",
+        "10",
+        "20"
       ],
-      "correct_index": 0,
-      "explanation": "624 AD.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Four angels are named: Jibril, Mikail, Israfil, and Azrael.",
+      "difficulty": 3
     },
     {
       "id": "irs_133",
-      "text": "Who was the first Caliph of Islam after the Prophet? (variant 133)",
+      "text": "Which angel is responsible for taking souls (death)?",
       "options": [
-        "Umar",
-        "Uthman",
-        "Ali",
-        "Abu Bakr"
+        "Jibril",
+        "Mikail",
+        "Israfil",
+        "Azrael (Malakul Maut)"
       ],
       "correct_index": 3,
-      "explanation": "Abu Bakr.",
-      "difficulty": 1
+      "explanation": "Angel Azrael (Malakul Maut) takes the soul at death.",
+      "difficulty": 2
     },
     {
       "id": "irs_134",
-      "text": "What does the term Nikah mean in Islam? (variant 134)",
+      "text": "Which angel will blow the trumpet on Judgement Day?",
       "options": [
-        "Prayer",
-        "Fasting",
-        "Marriage",
-        "Divorce"
+        "Jibril",
+        "Mikail",
+        "Israfil",
+        "Azrael"
       ],
       "correct_index": 2,
-      "explanation": "Marriage.",
-      "difficulty": 1
+      "explanation": "Angel Israfil will blow the trumpet.",
+      "difficulty": 2
     },
     {
       "id": "irs_135",
-      "text": "What is the Islamic ruling on Riba (interest)? (variant 135)",
+      "text": "What is the value or meaning of Munkar and Nakir in mathematics?",
       "options": [
-        "No ruling",
-        "Forbidden",
-        "Allowed",
-        "Optional"
+        "Names of prophets",
+        "Angels questioning in the grave",
+        "Names of companions",
+        "Devils"
       ],
       "correct_index": 1,
-      "explanation": "Forbidden.",
-      "difficulty": 1
+      "explanation": "Munkar and Nakir question the dead in their graves.",
+      "difficulty": 3
     },
     {
       "id": "irs_136",
-      "text": "What does the term Halal mean in Islam? (variant 136)",
+      "text": "What is the punishment for adultery in Islam?",
       "options": [
-        "Permissible",
-        "Forbidden",
-        "Doubtful",
-        "No meaning"
+        "Forgiveness only",
+        "Lashing/flogging",
+        "Imprisonment",
+        "No punishment"
       ],
-      "correct_index": 0,
-      "explanation": "Permissible.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Islamic law prescribes lashing for unmarried adultery.",
+      "difficulty": 3
     },
     {
       "id": "irs_137",
-      "text": "What is the first month of the Islamic Hijri calendar? (variant 137)",
+      "text": "What is the Islamic ruling on alcohol?",
       "options": [
-        "Ramadan",
-        "Shawwal",
-        "Dhul Hijja",
-        "Muharram"
+        "Permissible",
+        "Recommended",
+        "Forbidden (Haram)",
+        "Doubtful"
       ],
-      "correct_index": 3,
-      "explanation": "Muharram.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Alcohol consumption is strictly forbidden in Islam.",
+      "difficulty": 2
     },
     {
       "id": "irs_138",
-      "text": "Which Eid is celebrated at the end of Ramadan? (variant 138)",
+      "text": "What is the value or meaning of Adhan in mathematics?",
       "options": [
-        "No Eid",
-        "Only Adha",
-        "Eid al-Fitr",
-        "Eid al-Adha"
+        "Prayer",
+        "Call to prayer",
+        "Sermon",
+        "Charity"
       ],
-      "correct_index": 2,
-      "explanation": "Eid Fitr.",
+      "correct_index": 1,
+      "explanation": "The Adhan is the Islamic call to prayer.",
       "difficulty": 1
     },
     {
       "id": "irs_139",
-      "text": "What is Wudu and why is it performed in Islam? (variant 139)",
+      "text": "What is the value or meaning of Iqamah in mathematics?",
       "options": [
-        "Only face",
-        "Ablution",
-        "Bathing",
-        "No ablution"
+        "Call to prayer",
+        "Prayer signal before Salat begins",
+        "End of prayer",
+        "Sermon"
       ],
       "correct_index": 1,
-      "explanation": "Ablution.",
-      "difficulty": 1
+      "explanation": "Iqamah is the second call, announcing that Salat is about to begin.",
+      "difficulty": 2
     },
     {
       "id": "irs_140",
-      "text": "In which direction do Muslims face during prayer (Qibla)? (variant 140)",
+      "text": "What is the meaning of the term jumu'ah?",
       "options": [
-        "Kaaba",
-        "East only",
-        "West only",
-        "No direction"
+        "Friday prayer",
+        "Daily prayer",
+        "Night prayer",
+        "Eid prayer"
       ],
       "correct_index": 0,
-      "explanation": "Kaaba.",
+      "explanation": "Jumu'ah means Friday congregational prayer.",
       "difficulty": 1
     },
     {
       "id": "irs_141",
-      "text": "Over what period of time was the Holy Quran revealed? (variant 141)",
+      "text": "Which day is the weekly congregational prayer?",
       "options": [
-        "10 years",
-        "40 years",
-        "13 years",
-        "23 years"
+        "Monday",
+        "Wednesday",
+        "Friday",
+        "Sunday"
       ],
-      "correct_index": 3,
-      "explanation": "23 years.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Friday is the day of Jumu'ah prayer.",
+      "difficulty": 2
     },
     {
       "id": "irs_142",
-      "text": "In which cave did the first revelation of the Quran take place? (variant 142)",
+      "text": "What is the value or meaning of Khutbah in mathematics?",
       "options": [
-        "Uhud",
-        "Badr",
-        "Hira",
-        "Thawr"
+        "Prayer",
+        "Sermon",
+        "Pilgrimage",
+        "Charity"
       ],
-      "correct_index": 2,
-      "explanation": "Hira.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Khutbah is the sermon delivered during Jumu'ah and Eid.",
+      "difficulty": 2
     },
     {
       "id": "irs_143",
-      "text": "How many Surahs does the Holy Quran contain? (variant 143)",
+      "text": "What is the value or meaning of Qurbani/Udhiyah in mathematics?",
       "options": [
-        "30",
-        "114 Surahs",
-        "100",
-        "120"
+        "Prayer",
+        "Animal sacrifice during Eid al-Adha",
+        "Fasting",
+        "Charity"
       ],
       "correct_index": 1,
-      "explanation": "114 Surahs.",
+      "explanation": "Qurbani is the animal sacrifice performed during Eid al-Adha.",
       "difficulty": 1
     },
     {
       "id": "irs_144",
-      "text": "What does the concept of Tawhid mean in Islam? (variant 144)",
+      "text": "How many Rakats are in the Eid prayer?",
       "options": [
-        "Oneness of Allah",
-        "Prophethood",
-        "Judgement",
-        "Angels"
+        "2",
+        "3",
+        "4",
+        "5"
       ],
       "correct_index": 0,
-      "explanation": "Oneness.",
-      "difficulty": 1
+      "explanation": "Eid prayer consists of 2 Rakats with extra Takbirs.",
+      "difficulty": 2
     },
     {
       "id": "irs_145",
-      "text": "How many times a day are Muslims required to perform Salat? (variant 145)",
+      "text": "What is the value or meaning of Sunnah in Wudu in mathematics?",
       "options": [
-        "3",
-        "1",
-        "2",
-        "5"
+        "Obligatory steps",
+        "Recommended steps",
+        "Forbidden steps",
+        "No distinction"
       ],
-      "correct_index": 3,
-      "explanation": "5 times.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Sunnah acts in Wudu are recommended but not obligatory.",
+      "difficulty": 2
     },
     {
       "id": "irs_146",
-      "text": "How many Rakats are performed in the Fajr prayer? (variant 146)",
+      "text": "Which of the following actions invalidates the state of Wudu in Islam?",
       "options": [
-        "3",
-        "1",
-        "2",
-        "4"
+        "Eating food",
+        "Using the toilet",
+        "Sleeping standing",
+        "Drinking water"
       ],
-      "correct_index": 2,
-      "explanation": "Fajr 2.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Using the toilet invalidates Wudu.",
+      "difficulty": 2
     },
     {
       "id": "irs_147",
-      "text": "What is Zakat and what is its significance in Islam? (variant 147)",
+      "text": "In Islamic scholarship, what does the term Fuqaha refer to?",
       "options": [
-        "Hajj",
-        "Alms",
-        "Prayer",
-        "Fasting"
+        "Soldiers",
+        "Scholars of Islamic jurisprudence",
+        "Merchants",
+        "Poets"
       ],
       "correct_index": 1,
-      "explanation": "Alms.",
-      "difficulty": 1
+      "explanation": "Fuqaha are scholars of Islamic law (Fiqh).",
+      "difficulty": 3
     },
     {
       "id": "irs_148",
-      "text": "What does the term Sawm mean in Islam? (variant 148)",
+      "text": "What is the value or meaning of Fiqh in mathematics?",
       "options": [
-        "Fasting",
-        "Prayer",
-        "Charity",
-        "Hajj"
+        "Theology",
+        "Islamic jurisprudence",
+        "Quran recitation",
+        "Prayer"
       ],
-      "correct_index": 0,
-      "explanation": "Fasting.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Fiqh is Islamic jurisprudence derived from Quran and Sunnah.",
+      "difficulty": 2
     },
     {
       "id": "irs_149",
-      "text": "In which city is the Hajj pilgrimage performed? (variant 149)",
+      "text": "How many major schools of Fiqh exist in Sunni Islam?",
       "options": [
-        "Madinah",
-        "Jerusalem",
-        "Baghdad",
-        "Makkah"
+        "2",
+        "3",
+        "4",
+        "5"
       ],
-      "correct_index": 3,
-      "explanation": "Makkah.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "There are four major Sunni schools: Hanafi, Maliki, Shafi'i, and Hanbali.",
+      "difficulty": 2
     },
     {
       "id": "irs_150",
-      "text": "In what year was Prophet Muhammad (SAW) born? (variant 150)",
+      "text": "Which Fiqh school is founded by Imam Abu Hanifa?",
       "options": [
-        "610 AD",
-        "632 AD",
-        "570 AD",
-        "622 AD"
+        "Maliki",
+        "Hanafi",
+        "Shafi'i",
+        "Hanbali"
       ],
-      "correct_index": 2,
-      "explanation": "570 AD.",
+      "correct_index": 1,
+      "explanation": "Imam Abu Hanifa founded the Hanafi school.",
       "difficulty": 2
     },
     {
       "id": "irs_151",
-      "text": "In what year did the Hijra (migration to Madinah) take place? (variant 151)",
+      "text": "Which Fiqh school is founded by Imam Malik?",
       "options": [
-        "632 AD",
-        "622 AD",
-        "570 AD",
-        "610 AD"
+        "Hanafi",
+        "Maliki",
+        "Shafi'i",
+        "Hanbali"
       ],
       "correct_index": 1,
-      "explanation": "622 AD.",
+      "explanation": "Imam Malik founded the Maliki school.",
       "difficulty": 2
     },
     {
       "id": "irs_152",
-      "text": "In what year did the Battle of Badr take place? (variant 152)",
+      "text": "Which Fiqh school is founded by Imam Shafi'i?",
       "options": [
-        "624 AD",
-        "622 AD",
-        "625 AD",
-        "627 AD"
+        "Hanafi",
+        "Maliki",
+        "Shafi'i",
+        "Hanbali"
       ],
-      "correct_index": 0,
-      "explanation": "624 AD.",
+      "correct_index": 2,
+      "explanation": "Imam Shafi'i founded the Shafi'i school.",
       "difficulty": 2
     },
     {
       "id": "irs_153",
-      "text": "Who was the first Caliph of Islam after the Prophet? (variant 153)",
+      "text": "Which Fiqh school is founded by Imam Ahmad ibn Hanbal?",
       "options": [
-        "Umar",
-        "Uthman",
-        "Ali",
-        "Abu Bakr"
+        "Hanafi",
+        "Maliki",
+        "Shafi'i",
+        "Hanbali"
       ],
       "correct_index": 3,
-      "explanation": "Abu Bakr.",
-      "difficulty": 1
+      "explanation": "Imam Ahmad ibn Hanbal founded the Hanbali school.",
+      "difficulty": 2
     },
     {
       "id": "irs_154",
-      "text": "What does the term Nikah mean in Islam? (variant 154)",
+      "text": "What is Qiyas in Islamic jurisprudence?",
       "options": [
         "Prayer",
-        "Fasting",
-        "Marriage",
-        "Divorce"
+        "Analogical reasoning",
+        "Charity",
+        "Fasting"
       ],
-      "correct_index": 2,
-      "explanation": "Marriage.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Qiyas is the use of analogy in deriving Islamic rulings.",
+      "difficulty": 3
     },
     {
       "id": "irs_155",
-      "text": "What is the Islamic ruling on Riba (interest)? (variant 155)",
+      "text": "What is the value or meaning of Ijma in mathematics?",
       "options": [
-        "No ruling",
-        "Forbidden",
-        "Allowed",
-        "Optional"
+        "Individual opinion",
+        "Consensus of scholars",
+        "Analogical reasoning",
+        "Quran recitation"
       ],
       "correct_index": 1,
-      "explanation": "Forbidden.",
-      "difficulty": 1
+      "explanation": "Ijma is the consensus of Islamic scholars on a ruling.",
+      "difficulty": 3
     },
     {
       "id": "irs_156",
-      "text": "What does the term Halal mean in Islam? (variant 156)",
+      "text": "What are the conditions for a valid Islamic marriage (Nikah)?",
       "options": [
-        "Permissible",
-        "Forbidden",
-        "Doubtful",
-        "No meaning"
+        "Only witnesses",
+        "Consent of both parties, Mahr, witnesses",
+        "Only Mahr",
+        "Only Imam"
       ],
-      "correct_index": 0,
-      "explanation": "Permissible.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Valid Nikah requires consent, Mahr (dower), and witnesses.",
+      "difficulty": 2
     },
     {
       "id": "irs_157",
-      "text": "What is the first month of the Islamic Hijri calendar? (variant 157)",
+      "text": "What is the value or meaning of Mahr in mathematics?",
       "options": [
-        "Ramadan",
-        "Shawwal",
-        "Dhul Hijja",
-        "Muharram"
+        "Dowry from bride's family",
+        "Gift from groom to bride",
+        "Gift from Imam",
+        "Tax"
       ],
-      "correct_index": 3,
-      "explanation": "Muharram.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Mahr is a mandatory gift from the groom to the bride.",
+      "difficulty": 2
     },
     {
       "id": "irs_158",
-      "text": "Which Eid is celebrated at the end of Ramadan? (variant 158)",
+      "text": "Who is Wali in marriage? Choose the correct person from the options.",
       "options": [
-        "No Eid",
-        "Only Adha",
-        "Eid al-Fitr",
-        "Eid al-Adha"
+        "The Imam",
+        "Guardian of the bride",
+        "Witness",
+        "Groom's father only"
       ],
-      "correct_index": 2,
-      "explanation": "Eid Fitr.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Wali is the bride's male guardian who helps facilitate the marriage.",
+      "difficulty": 3
     },
     {
       "id": "irs_159",
-      "text": "What is Wudu and why is it performed in Islam? (variant 159)",
+      "text": "What is the value or meaning of Talaq in mathematics?",
       "options": [
-        "Only face",
-        "Ablution",
-        "Bathing",
-        "No ablution"
+        "Marriage",
+        "Divorce",
+        "Fasting",
+        "Prayer"
       ],
       "correct_index": 1,
-      "explanation": "Ablution.",
-      "difficulty": 1
+      "explanation": "Talaq is the Islamic procedure of divorce.",
+      "difficulty": 2
     },
     {
       "id": "irs_160",
-      "text": "In which direction do Muslims face during prayer (Qibla)? (variant 160)",
+      "text": "What is the value or meaning of Iddah in mathematics?",
       "options": [
-        "Kaaba",
-        "East only",
-        "West only",
-        "No direction"
+        "Waiting period after divorce",
+        "Marriage ceremony",
+        "Fasting month",
+        "Prayer"
       ],
       "correct_index": 0,
-      "explanation": "Kaaba.",
-      "difficulty": 1
+      "explanation": "Iddah is the waiting period a woman observes after divorce or death of husband.",
+      "difficulty": 3
     },
     {
       "id": "irs_161",
-      "text": "Over what period of time was the Holy Quran revealed? (variant 161)",
+      "text": "What is the concept of Mirath in Islam?",
       "options": [
-        "10 years",
-        "40 years",
-        "13 years",
-        "23 years"
+        "Marriage",
+        "Inheritance",
+        "Prayer",
+        "Fasting"
       ],
-      "correct_index": 3,
-      "explanation": "23 years.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Mirath refers to Islamic inheritance law.",
+      "difficulty": 2
     },
     {
       "id": "irs_162",
-      "text": "In which cave did the first revelation of the Quran take place? (variant 162)",
+      "text": "Who receives a larger share in Islamic inheritance: a son or a daughter?",
       "options": [
-        "Uhud",
-        "Badr",
-        "Hira",
-        "Thawr"
+        "Daughter",
+        "Son",
+        "Both equal",
+        "Neither"
       ],
-      "correct_index": 2,
-      "explanation": "Hira.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A son typically receives twice the share of a daughter.",
+      "difficulty": 2
     },
     {
       "id": "irs_163",
-      "text": "How many Surahs does the Holy Quran contain? (variant 163)",
+      "text": "How many chapters (Ayat) does Surah Al-Fatiha contain?",
       "options": [
-        "30",
-        "114 Surahs",
-        "100",
-        "120"
+        "5",
+        "6",
+        "7",
+        "8"
       ],
-      "correct_index": 1,
-      "explanation": "114 Surahs.",
+      "correct_index": 2,
+      "explanation": "Al-Fatiha contains 7 Ayat (verses).",
       "difficulty": 1
     },
     {
       "id": "irs_164",
-      "text": "What does the concept of Tawhid mean in Islam? (variant 164)",
+      "text": "Which Sahaba was known as 'Al-Farooq' (one who distinguishes truth from falsehood)?",
       "options": [
-        "Oneness of Allah",
-        "Prophethood",
-        "Judgement",
-        "Angels"
+        "Abu Bakr",
+        "Umar ibn al-Khattab",
+        "Ali",
+        "Uthman"
       ],
-      "correct_index": 0,
-      "explanation": "Oneness.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Umar was given the title Al-Farooq.",
+      "difficulty": 2
     },
     {
       "id": "irs_165",
-      "text": "How many times a day are Muslims required to perform Salat? (variant 165)",
+      "text": "Which Sahaba was known as 'Dhun-Nurayn' (possessor of two lights)?",
       "options": [
-        "3",
-        "1",
-        "2",
-        "5"
+        "Ali",
+        "Abu Bakr",
+        "Uthman ibn Affan",
+        "Umar"
       ],
-      "correct_index": 3,
-      "explanation": "5 times.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Uthman was called Dhun-Nurayn for marrying two of the Prophet's daughters.",
+      "difficulty": 2
     },
     {
       "id": "irs_166",
-      "text": "How many Rakats are performed in the Fajr prayer? (variant 166)",
+      "text": "What is the meaning of \"the meaning of Al-Baqarah\"?",
       "options": [
-        "3",
-        "1",
-        "2",
-        "4"
+        "The Cow",
+        "The Cattle",
+        "The Sheep",
+        "The Goat"
       ],
-      "correct_index": 2,
-      "explanation": "Fajr 2.",
+      "correct_index": 0,
+      "explanation": "Al-Baqarah means The Cow.",
       "difficulty": 1
     },
     {
       "id": "irs_167",
-      "text": "What is Zakat and what is its significance in Islam? (variant 167)",
+      "text": "How many times is Allah mentioned in Surah Al-Fatiha?",
       "options": [
-        "Hajj",
-        "Alms",
-        "Prayer",
-        "Fasting"
+        "3 times",
+        "5 times",
+        "7 times",
+        "11 times"
       ],
-      "correct_index": 1,
-      "explanation": "Alms.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Allah is mentioned 7 times in Al-Fatiha.",
+      "difficulty": 3
     },
     {
       "id": "irs_168",
-      "text": "What does the term Sawm mean in Islam? (variant 168)",
+      "text": "What is the value or meaning of Amanu Rasulu in mathematics?",
       "options": [
-        "Fasting",
-        "Prayer",
-        "Charity",
-        "Hajj"
+        "The first verse of Al-Baqarah",
+        "A name of the Prophet",
+        "A prayer",
+        "A festival"
       ],
       "correct_index": 0,
-      "explanation": "Fasting.",
-      "difficulty": 1
+      "explanation": "Amanu Rasulu is the first verse of Surah Al-Baqarah.",
+      "difficulty": 3
     },
     {
       "id": "irs_169",
-      "text": "In which city is the Hajj pilgrimage performed? (variant 169)",
+      "text": "What is the value or meaning of Sujud in mathematics?",
       "options": [
-        "Madinah",
-        "Jerusalem",
-        "Baghdad",
-        "Makkah"
+        "Standing in prayer",
+        "Prostration",
+        "Sitting",
+        "Bowing"
       ],
-      "correct_index": 3,
-      "explanation": "Makkah.",
+      "correct_index": 1,
+      "explanation": "Sujud is the act of prostration in Salat.",
       "difficulty": 1
     },
     {
       "id": "irs_170",
-      "text": "In what year was Prophet Muhammad (SAW) born? (variant 170)",
+      "text": "What is the value or meaning of Ruku in mathematics?",
       "options": [
-        "610 AD",
-        "632 AD",
-        "570 AD",
-        "622 AD"
+        "Prostration",
+        "Bowing in prayer",
+        "Standing",
+        "Sitting"
       ],
-      "correct_index": 2,
-      "explanation": "570 AD.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Ruku is bowing during prayer.",
+      "difficulty": 1
     },
     {
       "id": "irs_171",
-      "text": "In what year did the Hijra (migration to Madinah) take place? (variant 171)",
+      "text": "What is the value or meaning of Tashahhud in mathematics?",
       "options": [
-        "632 AD",
-        "622 AD",
-        "570 AD",
-        "610 AD"
+        "Standing",
+        "Sitting and testifying of faith",
+        "Prostration",
+        "Bowing"
       ],
       "correct_index": 1,
-      "explanation": "622 AD.",
+      "explanation": "Tashahhud is the sitting position where you testify to faith.",
       "difficulty": 2
     },
     {
       "id": "irs_172",
-      "text": "In what year did the Battle of Badr take place? (variant 172)",
+      "text": "What is the meaning of the term 'takbir'?",
       "options": [
-        "624 AD",
-        "622 AD",
-        "625 AD",
-        "627 AD"
+        "Prayer",
+        "Saying 'Allahu Akbar'",
+        "Fasting",
+        "Charity"
       ],
-      "correct_index": 0,
-      "explanation": "624 AD.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Takbir means saying 'Allahu Akbar' (Allah is the Greatest).",
+      "difficulty": 1
     },
     {
       "id": "irs_173",
-      "text": "Who was the first Caliph of Islam after the Prophet? (variant 173)",
+      "text": "How many verses are in the first Juz of the Quran?",
       "options": [
-        "Umar",
-        "Uthman",
-        "Ali",
-        "Abu Bakr"
+        "100",
+        "200",
+        "300",
+        "286"
       ],
       "correct_index": 3,
-      "explanation": "Abu Bakr.",
-      "difficulty": 1
+      "explanation": "Juz 1 contains 286 verses (Surah Al-Baqarah).",
+      "difficulty": 3
     },
     {
       "id": "irs_174",
-      "text": "What does the term Nikah mean in Islam? (variant 174)",
+      "text": "What was the first Surah (chapter) of the Quran revealed to the Prophet?",
       "options": [
-        "Prayer",
-        "Fasting",
-        "Marriage",
-        "Divorce"
+        "Al-Fatiha",
+        "Al-Alaq",
+        "Al-Baqarah",
+        "Al-Ikhlas"
       ],
-      "correct_index": 2,
-      "explanation": "Marriage.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Surah Al-Alaq was the first Surah revealed.",
+      "difficulty": 3
     },
     {
       "id": "irs_175",
-      "text": "What is the Islamic ruling on Riba (interest)? (variant 175)",
+      "text": "What was the last complete Surah revealed?",
       "options": [
-        "No ruling",
-        "Forbidden",
-        "Allowed",
-        "Optional"
+        "Al-Baqarah",
+        "An-Nasr",
+        "Al-Kawthar",
+        "Al-Ma'idah"
       ],
       "correct_index": 1,
-      "explanation": "Forbidden.",
-      "difficulty": 1
+      "explanation": "Surah An-Nasr was the last complete Surah revealed.",
+      "difficulty": 3
     },
     {
       "id": "irs_176",
-      "text": "What does the term Halal mean in Islam? (variant 176)",
+      "text": "What is the meaning of Surah Al-Kawthar?",
       "options": [
-        "Permissible",
-        "Forbidden",
-        "Doubtful",
-        "No meaning"
+        "The Plentiful Good",
+        "The Daybreak",
+        "The Compassionate",
+        "The People"
       ],
       "correct_index": 0,
-      "explanation": "Permissible.",
-      "difficulty": 1
+      "explanation": "Al-Kawthar means The Plentiful Good or Abundance.",
+      "difficulty": 2
     },
     {
       "id": "irs_177",
-      "text": "What is the first month of the Islamic Hijri calendar? (variant 177)",
+      "text": "What is the value or meaning of Tawbah in mathematics?",
       "options": [
-        "Ramadan",
-        "Shawwal",
-        "Dhul Hijja",
-        "Muharram"
+        "Prayer",
+        "Repentance",
+        "Fasting",
+        "Charity"
       ],
-      "correct_index": 3,
-      "explanation": "Muharram.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Tawbah means sincere repentance to Allah.",
+      "difficulty": 2
     },
     {
       "id": "irs_178",
-      "text": "Which Eid is celebrated at the end of Ramadan? (variant 178)",
+      "text": "What is the Islamic concept of Sabr?",
       "options": [
-        "No Eid",
-        "Only Adha",
-        "Eid al-Fitr",
-        "Eid al-Adha"
+        "Haste",
+        "Patience and perseverance",
+        "Anger",
+        "Fear"
       ],
-      "correct_index": 2,
-      "explanation": "Eid Fitr.",
+      "correct_index": 1,
+      "explanation": "Sabr means patience and perseverance.",
       "difficulty": 1
     },
     {
       "id": "irs_179",
-      "text": "What is Wudu and why is it performed in Islam? (variant 179)",
+      "text": "What is the value or meaning of Ihsan in mathematics?",
       "options": [
-        "Only face",
-        "Ablution",
-        "Bathing",
-        "No ablution"
+        "Evil",
+        "Excellence/doing good",
+        "Ignorance",
+        "Poverty"
       ],
       "correct_index": 1,
-      "explanation": "Ablution.",
-      "difficulty": 1
+      "explanation": "Ihsan means doing what is beautiful and excellent.",
+      "difficulty": 2
     },
     {
       "id": "irs_180",
-      "text": "In which direction do Muslims face during prayer (Qibla)? (variant 180)",
+      "text": "What is the value or meaning of Taqwa in mathematics?",
       "options": [
-        "Kaaba",
-        "East only",
-        "West only",
-        "No direction"
+        "Wealth",
+        "God-consciousness",
+        "Fear of people",
+        "Knowledge"
       ],
-      "correct_index": 0,
-      "explanation": "Kaaba.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Taqwa is the consciousness of Allah in all actions.",
+      "difficulty": 2
     },
     {
       "id": "irs_181",
-      "text": "Over what period of time was the Holy Quran revealed? (variant 181)",
+      "text": "What is the value or meaning of the meaning of Deen in mathematics?",
       "options": [
-        "10 years",
-        "40 years",
-        "13 years",
-        "23 years"
+        "Money",
+        "Religion/way of life",
+        "Food",
+        "Clothing"
       ],
-      "correct_index": 3,
-      "explanation": "23 years.",
+      "correct_index": 1,
+      "explanation": "Deen means religion and a comprehensive way of life.",
       "difficulty": 1
     },
     {
       "id": "irs_182",
-      "text": "In which cave did the first revelation of the Quran take place? (variant 182)",
+      "text": "What is the value or meaning of Dua in mathematics?",
       "options": [
-        "Uhud",
-        "Badr",
-        "Hira",
-        "Thawr"
+        "Prayer in Salat",
+        "Supplication to Allah",
+        "Fasting",
+        "Pilgrimage"
       ],
-      "correct_index": 2,
-      "explanation": "Hira.",
+      "correct_index": 1,
+      "explanation": "Dua is direct supplication or calling upon Allah.",
       "difficulty": 1
     },
     {
       "id": "irs_183",
-      "text": "How many Surahs does the Holy Quran contain? (variant 183)",
+      "text": "What is the value or meaning of Dhikr in mathematics?",
       "options": [
-        "30",
-        "114 Surahs",
-        "100",
-        "120"
+        "Prayer",
+        "Remembrance of Allah",
+        "Fasting",
+        "Charity"
       ],
       "correct_index": 1,
-      "explanation": "114 Surahs.",
+      "explanation": "Dhikr is the remembrance of Allah through recitation.",
       "difficulty": 1
     },
     {
       "id": "irs_184",
-      "text": "What does the concept of Tawhid mean in Islam? (variant 184)",
+      "text": "What is the meaning of 'Insha Allah'?",
       "options": [
-        "Oneness of Allah",
-        "Prophethood",
-        "Judgement",
-        "Angels"
+        "Praise be to Allah",
+        "If Allah wills",
+        "Allah is Great",
+        "There is no god but Allah"
       ],
-      "correct_index": 0,
-      "explanation": "Oneness.",
+      "correct_index": 1,
+      "explanation": "Insha Allah means 'If Allah wills'.",
       "difficulty": 1
     },
     {
       "id": "irs_185",
-      "text": "How many times a day are Muslims required to perform Salat? (variant 185)",
+      "text": "What is the value or meaning of 'Masha Allah' used for in mathematics?",
       "options": [
-        "3",
-        "1",
-        "2",
-        "5"
+        "Seeking forgiveness",
+        "Expressing joy and attributing to Allah's will",
+        "Praying",
+        "Fasting"
       ],
-      "correct_index": 3,
-      "explanation": "5 times.",
+      "correct_index": 1,
+      "explanation": "Masha Allah is said when expressing appreciation, attributing blessings to Allah.",
       "difficulty": 1
     },
     {
       "id": "irs_186",
-      "text": "How many Rakats are performed in the Fajr prayer? (variant 186)",
+      "text": "What is the meaning of the term 'bismillah'?",
       "options": [
-        "3",
-        "1",
-        "2",
-        "4"
+        "Allah is great",
+        "In the name of Allah",
+        "There is no god but Allah",
+        "Praise Allah"
       ],
-      "correct_index": 2,
-      "explanation": "Fajr 2.",
+      "correct_index": 1,
+      "explanation": "Bismillah means 'In the name of Allah'.",
       "difficulty": 1
     },
     {
       "id": "irs_187",
-      "text": "What is Zakat and what is its significance in Islam? (variant 187)",
+      "text": "How many times is Bismillah repeated in the Quran (excluding Al-Fatiha)?",
       "options": [
-        "Hajj",
-        "Alms",
-        "Prayer",
-        "Fasting"
+        "113 times",
+        "114 times",
+        "112 times",
+        "115 times"
       ],
-      "correct_index": 1,
-      "explanation": "Alms.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Bismillah appears 113 times in the Quran outside Al-Fatiha.",
+      "difficulty": 3
     },
     {
       "id": "irs_188",
-      "text": "What does the term Sawm mean in Islam? (variant 188)",
+      "text": "What is the first Surah of the Quran?",
       "options": [
-        "Fasting",
-        "Prayer",
-        "Charity",
-        "Hajj"
+        "Al-Baqarah",
+        "Al-Fatiha",
+        "Ali Imran",
+        "An-Nisa"
       ],
-      "correct_index": 0,
-      "explanation": "Fasting.",
+      "correct_index": 1,
+      "explanation": "Al-Fatiha is the first Surah of the Quran.",
       "difficulty": 1
     },
     {
       "id": "irs_189",
-      "text": "In which city is the Hajj pilgrimage performed? (variant 189)",
+      "text": "What is the last Surah of the Quran?",
       "options": [
-        "Madinah",
-        "Jerusalem",
-        "Baghdad",
-        "Makkah"
+        "Al-Kawthar",
+        "An-Nas",
+        "Al-Falaq",
+        "Al-Ikhlas"
       ],
-      "correct_index": 3,
-      "explanation": "Makkah.",
+      "correct_index": 1,
+      "explanation": "An-Nas is the last Surah of the Quran.",
       "difficulty": 1
     },
     {
       "id": "irs_190",
-      "text": "In what year was Prophet Muhammad (SAW) born? (variant 190)",
+      "text": "What is the value or meaning of the Prophet's full name in mathematics?",
       "options": [
-        "610 AD",
-        "632 AD",
-        "570 AD",
-        "622 AD"
+        "Muhammad",
+        "Muhammad ibn Abdullah",
+        "Muhammad ibn Ali",
+        "Muhammad ibn Abu Bakr"
       ],
-      "correct_index": 2,
-      "explanation": "570 AD.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "His full name is Muhammad ibn Abdullah.",
+      "difficulty": 1
     },
     {
       "id": "irs_191",
-      "text": "In what year did the Hijra (migration to Madinah) take place? (variant 191)",
+      "text": "What is the name of the Prophet's grandfather who was caretaker of the Kaaba?",
       "options": [
-        "632 AD",
-        "622 AD",
-        "570 AD",
-        "610 AD"
+        "Abdullah",
+        "Abdul Muttalib",
+        "Abu Talib",
+        "Hashim"
       ],
       "correct_index": 1,
-      "explanation": "622 AD.",
-      "difficulty": 2
+      "explanation": "Abdul Muttalib was the Prophet's grandfather and caretaker of the Kaaba.",
+      "difficulty": 3
     },
     {
       "id": "irs_192",
-      "text": "In what year did the Battle of Badr take place? (variant 192)",
+      "text": "Who was the foster father of the Prophet?",
       "options": [
-        "624 AD",
-        "622 AD",
-        "625 AD",
-        "627 AD"
+        "Abdul Muttalib",
+        "Abu Talib",
+        "Abdullah",
+        "Abu Lahab"
       ],
-      "correct_index": 0,
-      "explanation": "624 AD.",
+      "correct_index": 1,
+      "explanation": "Abu Talib was the Prophet's uncle and foster father.",
       "difficulty": 2
     },
     {
       "id": "irs_193",
-      "text": "Who was the first Caliph of Islam after the Prophet? (variant 193)",
+      "text": "What is the battle also known as 'Confederates'?",
       "options": [
-        "Umar",
-        "Uthman",
-        "Ali",
-        "Abu Bakr"
+        "Badr",
+        "Uhud",
+        "Ahzab (Khandaq)",
+        "Tabuk"
       ],
-      "correct_index": 3,
-      "explanation": "Abu Bakr.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "The Battle of Ahzab (Confederates) is also called Khandaq.",
+      "difficulty": 3
     },
     {
       "id": "irs_194",
-      "text": "What does the term Nikah mean in Islam? (variant 194)",
+      "text": "Which event occurred on the Night of Power (Lailatul Qadr)?",
       "options": [
-        "Prayer",
-        "Fasting",
-        "Marriage",
-        "Divorce"
+        "First revelation",
+        "Hijra",
+        "Conquest of Makkah",
+        "Birth of Prophet"
       ],
-      "correct_index": 2,
-      "explanation": "Marriage.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "The first revelation occurred on Lailatul Qadr.",
+      "difficulty": 2
     },
     {
       "id": "irs_195",
-      "text": "What is the Islamic ruling on Riba (interest)? (variant 195)",
+      "text": "Which Surah is known as 'Ayatul Kursi'?",
       "options": [
-        "No ruling",
-        "Forbidden",
-        "Allowed",
-        "Optional"
+        "Al-Fatiha",
+        "Al-Baqarah verse 255",
+        "Ali Imran 3",
+        "An-Nisa 1"
       ],
       "correct_index": 1,
-      "explanation": "Forbidden.",
-      "difficulty": 1
+      "explanation": "Ayatul Kursi is verse 255 of Surah Al-Baqarah.",
+      "difficulty": 3
     },
     {
       "id": "irs_196",
-      "text": "What does the term Halal mean in Islam? (variant 196)",
+      "text": "What is the meaning of 'Ayatul Kursi'?",
       "options": [
-        "Permissible",
-        "Forbidden",
-        "Doubtful",
-        "No meaning"
+        "Verse of the Lamp",
+        "Verse of the Throne",
+        "Verse of Light",
+        "Verse of Guidance"
       ],
-      "correct_index": 0,
-      "explanation": "Permissible.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Ayatul Kursi means the Verse of the Throne.",
+      "difficulty": 3
     },
     {
       "id": "irs_197",
-      "text": "What is the first month of the Islamic Hijri calendar? (variant 197)",
+      "text": "How many verses are in Surah Al-Fatiha?",
       "options": [
-        "Ramadan",
-        "Shawwal",
-        "Dhul Hijja",
-        "Muharram"
+        "5",
+        "6",
+        "7",
+        "8"
       ],
-      "correct_index": 3,
-      "explanation": "Muharram.",
+      "correct_index": 2,
+      "explanation": "Al-Fatiha has 7 verses (Ayat).",
       "difficulty": 1
     },
     {
       "id": "irs_198",
-      "text": "Which Eid is celebrated at the end of Ramadan? (variant 198)",
+      "text": "Which Surah was revealed entirely in Madinah?",
       "options": [
-        "No Eid",
-        "Only Adha",
-        "Eid al-Fitr",
-        "Eid al-Adha"
+        "Al-Baqarah",
+        "Al-Ikhlas",
+        "Al-Falaq",
+        "An-Nas"
       ],
-      "correct_index": 2,
-      "explanation": "Eid Fitr.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Surah Al-Baqarah was revealed in Madinah.",
+      "difficulty": 3
     },
     {
       "id": "irs_199",
-      "text": "What is Wudu and why is it performed in Islam? (variant 199)",
+      "text": "What is the meaning of the word 'Islam'?",
       "options": [
-        "Only face",
-        "Ablution",
-        "Bathing",
-        "No ablution"
+        "Peace",
+        "Submission to Allah",
+        "Charity",
+        "Knowledge"
       ],
       "correct_index": 1,
-      "explanation": "Ablution.",
+      "explanation": "Islam means submission and surrender to the will of Allah.",
       "difficulty": 1
     },
     {
       "id": "irs_200",
-      "text": "In which direction do Muslims face during prayer (Qibla)? (variant 200)",
+      "text": "What is the ultimate goal of a Muslim's life?",
       "options": [
-        "Kaaba",
-        "East only",
-        "West only",
-        "No direction"
+        "Wealth",
+        "Pleasure",
+        "To please Allah and attain Jannah",
+        "Fame"
       ],
-      "correct_index": 0,
-      "explanation": "Kaaba.",
+      "correct_index": 2,
+      "explanation": "The ultimate goal is to please Allah and attain Paradise (Jannah).",
       "difficulty": 1
     }
   ]

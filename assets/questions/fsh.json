@@ -5,2602 +5,2602 @@
   "questions": [
     {
       "id": "fsh_001",
-      "text": "What is the definition of fisheries?",
+      "text": "Complete the statement: \"Fisheries can be defined as\" by choosing the correct option.",
       "options": [
-        "Only crop",
-        "Only animal",
-        "No study",
-        "Fish production"
+        "The science of cultivating crops",
+        "The catching, processing and marketing of fish",
+        "The rearing of cattle only",
+        "The study of birds exclusively"
       ],
-      "correct_index": 3,
-      "explanation": "Fish production.",
+      "correct_index": 1,
+      "explanation": "Fisheries encompass all activities related to catching, processing and marketing of fish.",
       "difficulty": 1
     },
     {
       "id": "fsh_002",
-      "text": "What is the full meaning of aquaculture in fisheries?",
+      "text": "Which branch of fisheries involves raising fish in controlled environments?",
       "options": [
-        "No farming",
-        "Only hunting",
-        "Fish farming",
-        "Crop farming"
+        "Capture fisheries",
+        "Aquaculture",
+        "Deep-sea fishing",
+        "Artisanal fishing"
       ],
-      "correct_index": 2,
-      "explanation": "Fish farming.",
+      "correct_index": 1,
+      "explanation": "Aquaculture is the branch of fisheries dealing with raising fish in controlled environments.",
       "difficulty": 1
     },
     {
       "id": "fsh_003",
-      "text": "Which of the following is a commonly cultured fish?",
+      "text": "Which of the following is a freshwater fish?",
       "options": [
-        "Only carp",
-        "Catfish",
-        "No fish",
-        "Only tilapia"
+        "Shark",
+        "Tilapia",
+        "Whale",
+        "Seahorse"
       ],
       "correct_index": 1,
-      "explanation": "Catfish.",
+      "explanation": "Tilapia is a commonly cultured freshwater fish species.",
       "difficulty": 1
     },
     {
       "id": "fsh_004",
-      "text": "What organ do fish use to breathe? underwater?",
+      "text": "Complete the statement: \"The bony fish belong to the class\" by choosing the correct option.",
       "options": [
-        "Gills",
-        "Lungs",
-        "Skin only",
-        "No gills"
+        "Chondrichthyes",
+        "Osteichthyes",
+        "Agatha",
+        "Mammalia"
       ],
-      "correct_index": 0,
-      "explanation": "Gills.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Osteichthyes is the class of bony fishes.",
+      "difficulty": 2
     },
     {
       "id": "fsh_005",
-      "text": "What organ do fish use for movement in water?",
+      "text": "Which of the following is a cartilaginous fish?",
       "options": [
-        "Legs",
-        "Wings",
-        "No fins",
-        "Fins"
+        "Tilapia",
+        "Catfish",
+        "Shark",
+        "Mudfish"
       ],
-      "correct_index": 3,
-      "explanation": "Fins.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Sharks are cartilaginous fish (class Chondrichthyes).",
+      "difficulty": 2
     },
     {
       "id": "fsh_006",
-      "text": "What is a newly hatched young fish called?",
+      "text": "The lateral line system in fish is used for",
       "options": [
-        "Juvenile",
-        "Adult",
-        "Fry",
-        "Fingerling"
+        "Breathing",
+        "Detecting vibrations and pressure changes in water",
+        "Excreting waste",
+        "Absorbing nutrients"
       ],
-      "correct_index": 2,
-      "explanation": "Fry.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The lateral line detects vibrations and pressure changes in the surrounding water.",
+      "difficulty": 2
     },
     {
       "id": "fsh_007",
-      "text": "Which type of soil is best for constructing a fish pond?",
+      "text": "Complete the statement: \"Gills in fish function primarily to\" by choosing the correct option.",
       "options": [
-        "Gravel",
-        "Clay",
-        "Sand",
-        "Loam"
+        "Digest food",
+        "Extract dissolved oxygen from water",
+        "Store fat",
+        "Produce sound"
       ],
       "correct_index": 1,
-      "explanation": "Clay.",
+      "explanation": "Gills are respiratory organs that extract dissolved oxygen from water.",
       "difficulty": 1
     },
     {
       "id": "fsh_008",
-      "text": "What is the ideal pH range for fish culture?",
+      "text": "Complete the statement: \"The swim bladder helps fish to\" by choosing the correct option.",
       "options": [
-        "6.5-9.0",
-        "1-2",
-        "12-14",
-        "No pH"
+        "Breathe air directly",
+        "Regulate buoyancy",
+        "Capture prey",
+        "Produce slime"
       ],
-      "correct_index": 0,
-      "explanation": "6.5-9.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The swim bladder is a gas-filled organ that helps fish regulate buoyancy.",
+      "difficulty": 2
     },
     {
       "id": "fsh_009",
-      "text": "What should the dissolved oxygen level be for fish survival?",
+      "text": "Which type of scales is found on a typical bony fish?",
       "options": [
-        "Below 1",
-        "No oxygen",
-        "Only 0",
-        "Above 5 mg/L"
+        "Scutes",
+        "Placoid scales",
+        "Cycloid and ctenoid scales",
+        "Ganoid scales only"
       ],
-      "correct_index": 3,
-      "explanation": "Above 5.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Most bony fish have cycloid or ctenoid scales.",
+      "difficulty": 2
     },
     {
       "id": "fsh_010",
-      "text": "What percentage of protein is required in fingerling feed?",
+      "text": "Which fin is responsible for propulsion in most fish?",
       "options": [
-        "5%",
-        "No protein",
-        "40%",
-        "10%"
+        "Dorsal fin",
+        "Caudal fin",
+        "Pectoral fin",
+        "Anal fin"
       ],
-      "correct_index": 2,
-      "explanation": "40%.",
+      "correct_index": 1,
+      "explanation": "The caudal (tail) fin provides the main thrust for forward movement.",
       "difficulty": 1
     },
     {
       "id": "fsh_011",
-      "text": "What is the main natural food for fish in a pond?",
+      "text": "A brackish water environment is one where",
       "options": [
-        "Only pellets",
-        "Plankton",
-        "No plankton",
-        "Only artificial"
+        "Only fresh water is found",
+        "Fresh water mixes with salt water",
+        "Only salt water is found",
+        "No water is present"
       ],
       "correct_index": 1,
-      "explanation": "Plankton.",
+      "explanation": "Brackish water occurs where rivers meet the sea, mixing fresh and salt water.",
       "difficulty": 1
     },
     {
       "id": "fsh_012",
-      "text": "Which of the following is an example of an active fishing gear?",
+      "text": "Which of the following is an estuarine fish species?",
       "options": [
-        "Trawl net",
-        "Set net",
-        "No gear",
-        "Only passive"
+        "Salmon",
+        "Mudskipper",
+        "Goldfish",
+        "Koi"
       ],
-      "correct_index": 0,
-      "explanation": "Trawl.",
+      "correct_index": 1,
+      "explanation": "Mudskippers thrive in estuarine and brackish water environments.",
       "difficulty": 2
     },
     {
       "id": "fsh_013",
-      "text": "Which of the following is a method of fish preservation?",
+      "text": "Marine fish live in water with salinity above",
       "options": [
-        "No preservation",
-        "Only fresh",
-        "Only raw",
-        "Smoking"
+        "0.5 ppt",
+        "5 ppt",
+        "15 ppt",
+        "30 ppt"
       ],
       "correct_index": 3,
-      "explanation": "Smoking.",
-      "difficulty": 1
+      "explanation": "Marine waters typically have salinity above 30 parts per thousand.",
+      "difficulty": 3
     },
     {
       "id": "fsh_014",
-      "text": "What is the main consequence of overfishing?",
+      "text": "Complete the statement: \"Anadromous fish are those that\" by choosing the correct option.",
       "options": [
-        "No depletion",
-        "Only increase",
-        "Depletion",
-        "Increase"
+        "Live only in freshwater",
+        "Migrate from freshwater to sea to spawn",
+        "Live only in the sea",
+        "Never migrate"
       ],
-      "correct_index": 2,
-      "explanation": "Depletion.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Anadromous fish like salmon migrate from freshwater to the ocean and back to freshwater to spawn.",
+      "difficulty": 3
     },
     {
       "id": "fsh_015",
-      "text": "What does closed season mean in fisheries management?",
+      "text": "Complete the statement: \"Catadromous fish migrate to\" by choosing the correct option.",
       "options": [
-        "Only fishing",
-        "No fishing breeding",
-        "Fishing always",
-        "No breeding"
+        "Rivers to feed",
+        "The sea to spawn",
+        "Deep ocean trenches only",
+        "Mountain lakes"
       ],
       "correct_index": 1,
-      "explanation": "No fishing breeding.",
-      "difficulty": 2
+      "explanation": "Catadromous fish like eels live in freshwater but migrate to the sea to spawn.",
+      "difficulty": 3
     },
     {
       "id": "fsh_016",
-      "text": "Which nutrient is fish most rich in?",
+      "text": "The most common fish pond shape in tropical aquaculture is",
       "options": [
-        "Protein",
-        "Carb",
-        "No protein",
-        "Only fat"
+        "Circular",
+        "Rectangular",
+        "Triangular",
+        "Hexagonal"
       ],
-      "correct_index": 0,
-      "explanation": "Protein.",
+      "correct_index": 1,
+      "explanation": "Rectangular ponds are the most common due to ease of construction and management.",
       "difficulty": 1
     },
     {
       "id": "fsh_017",
-      "text": "What is the lateral line organ in fish used for?",
+      "text": "The inlet of a fish pond should be located",
       "options": [
-        "No sensing",
-        "Only swimming",
-        "Only breathing",
-        "Sensing vibrations"
+        "At the deepest point",
+        "At the shallowest end, opposite the drain",
+        "At the centre of the pond",
+        "Directly beside the outlet"
       ],
-      "correct_index": 3,
-      "explanation": "Sensing.",
+      "correct_index": 1,
+      "explanation": "The inlet should be at the shallow end and the outlet at the deep end for good water circulation.",
       "difficulty": 2
     },
     {
       "id": "fsh_018",
-      "text": "What is the swim bladder in fish used for?",
+      "text": "Complete the statement: \"Pond liming is done primarily to\" by choosing the correct option.",
       "options": [
-        "Only swimming",
-        "Only breathing",
-        "Buoyancy",
-        "No buoyancy"
+        "Kill all organisms",
+        "Raise the pH and reduce acidity",
+        "Increase turbidity",
+        "Feed the fish"
       ],
-      "correct_index": 2,
-      "explanation": "Buoyancy.",
+      "correct_index": 1,
+      "explanation": "Liming raises pond pH, reduces acidity and helps control parasites.",
       "difficulty": 2
     },
     {
       "id": "fsh_019",
-      "text": "How does feed cost rank among fish production expenses?",
+      "text": "The standard depth of a fish production pond is between",
       "options": [
-        "Only labour",
-        "Most important",
-        "No cost",
-        "Only construction"
+        "0.3 and 0.5 m",
+        "1.0 and 1.5 m",
+        "3.0 and 4.0 m",
+        "5.0 and 6.0 m"
       ],
       "correct_index": 1,
-      "explanation": "Most important.",
-      "difficulty": 1
+      "explanation": "Production ponds are typically 1.0 to 1.5 metres deep for effective management.",
+      "difficulty": 2
     },
     {
       "id": "fsh_020",
-      "text": "What type of water is brackish water?",
+      "text": "Which of the following is NOT a type of aquaculture system?",
       "options": [
-        "Fresh+salt mixture",
-        "Fresh only",
-        "Salt only",
-        "No mixture"
+        "Pond culture",
+        "Cage culture",
+        "Trawl culture",
+        "Tank culture"
       ],
-      "correct_index": 0,
-      "explanation": "Fresh+salt.",
+      "correct_index": 2,
+      "explanation": "Trawling is a capture method, not an aquaculture system.",
       "difficulty": 1
     },
     {
       "id": "fsh_021",
-      "text": "What is the definition of fisheries? (variant 21?",
+      "text": "Complete the statement: \"Cage culture is best suited for\" by choosing the correct option.",
       "options": [
-        "Only crop",
-        "Only animal",
-        "No study",
-        "Fish production"
+        "Small shallow ponds",
+        "Large water bodies like lakes and rivers",
+        "Dry land areas",
+        "Indoor facilities only"
       ],
-      "correct_index": 3,
-      "explanation": "Fish production.",
+      "correct_index": 1,
+      "explanation": "Cage culture uses net enclosures in existing large water bodies.",
       "difficulty": 1
     },
     {
       "id": "fsh_022",
-      "text": "What does aquaculture mean? (variant 22)",
+      "text": "Pen culture differs from cage culture in that pens",
       "options": [
-        "No farming",
-        "Only hunting",
-        "Fish farming",
-        "Crop farming"
+        "Use mesh bags",
+        "Are enclosed by barriers fixed to the bottom",
+        "Float freely in the ocean",
+        "Use only tanks"
       ],
-      "correct_index": 2,
-      "explanation": "Fish farming.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Pens are enclosures where the bottom is sealed by the natural pond or lake bed.",
+      "difficulty": 3
     },
     {
       "id": "fsh_023",
-      "text": "Which of the following is a commonly cultured fish? (variant 23)",
+      "text": "Recirculating aquaculture systems (RAS) are used to",
       "options": [
-        "Only carp",
-        "Catfish",
-        "No fish",
-        "Only tilapia"
+        "Drain ponds completely",
+        "Treat and reuse water continuously",
+        "Increase pond size",
+        "Transport fish"
       ],
       "correct_index": 1,
-      "explanation": "Catfish.",
-      "difficulty": 1
+      "explanation": "RAS filters and recycles water, allowing intensive fish culture in limited water.",
+      "difficulty": 3
     },
     {
       "id": "fsh_024",
-      "text": "What organ do fish use to breathe? (variant 24)",
+      "text": "The ideal pH range for most freshwater fish ponds is",
       "options": [
-        "Gills",
-        "Lungs",
-        "Skin only",
-        "No gills"
+        "4.0 to 5.0",
+        "6.5 to 8.5",
+        "9.5 to 11.0",
+        "1.0 to 3.0"
       ],
-      "correct_index": 0,
-      "explanation": "Gills.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Most freshwater fish thrive in a pH range of 6.5 to 8.5.",
+      "difficulty": 2
     },
     {
       "id": "fsh_025",
-      "text": "What organ do fish use for movement in water? (variant 25)",
+      "text": "Dissolved oxygen in water is essential for fish because it",
       "options": [
-        "Legs",
-        "Wings",
-        "No fins",
-        "Fins"
+        "Aids digestion",
+        "Is needed for respiration",
+        "Provides food",
+        "Improves taste"
       ],
-      "correct_index": 3,
-      "explanation": "Fins.",
+      "correct_index": 1,
+      "explanation": "Fish extract dissolved oxygen through their gills for cellular respiration.",
       "difficulty": 1
     },
     {
       "id": "fsh_026",
-      "text": "What is a newly hatched young fish called? (variant 26)",
+      "text": "High turbidity in a fish pond is caused by",
       "options": [
-        "Juvenile",
-        "Adult",
-        "Fry",
-        "Fingerling"
+        "Clear spring water",
+        "Excessive suspended particles such as soil and algae",
+        "Low temperature",
+        "High salinity"
       ],
-      "correct_index": 2,
-      "explanation": "Fry.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Turbidity results from suspended sediments, soil erosion or algal blooms.",
+      "difficulty": 2
     },
     {
       "id": "fsh_027",
-      "text": "Which type of soil is best for constructing a fish pond? (variant 27)",
+      "text": "The ideal water temperature range for tilapia culture is",
       "options": [
-        "Gravel",
-        "Clay",
-        "Sand",
-        "Loam"
+        "5 to 10 degrees Celsius",
+        "25 to 30 degrees Celsius",
+        "40 to 45 degrees Celsius",
+        "0 to 5 degrees Celsius"
       ],
       "correct_index": 1,
-      "explanation": "Clay.",
-      "difficulty": 1
+      "explanation": "Tilapia perform optimally between 25 and 30 degrees Celsius.",
+      "difficulty": 2
     },
     {
       "id": "fsh_028",
-      "text": "What is the ideal pH range for fish culture? (variant 28)",
+      "text": "Which of the following is a measure of water salinity?",
       "options": [
-        "6.5-9.0",
-        "1-2",
-        "12-14",
-        "No pH"
+        "Dissolved oxygen meter",
+        "Conductivity or salinometer",
+        "Turbidity tube",
+        "pH meter"
       ],
-      "correct_index": 0,
-      "explanation": "6.5-9.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Salinity is measured using a salinometer or by electrical conductivity.",
+      "difficulty": 3
     },
     {
       "id": "fsh_029",
-      "text": "What should the dissolved oxygen level be for fish survival? (variant 29)",
+      "text": "Ammonia build-up in fish ponds is dangerous because it",
       "options": [
-        "Below 1",
-        "No oxygen",
-        "Only 0",
-        "Above 5 mg/L"
+        "Reduces water temperature",
+        "Is toxic to fish and can cause gill damage",
+        "Increases dissolved oxygen",
+        "Promotes fish growth"
       ],
-      "correct_index": 3,
-      "explanation": "Above 5.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Ammonia from fish waste is highly toxic and can damage gill tissues.",
+      "difficulty": 2
     },
     {
       "id": "fsh_030",
-      "text": "What percentage of protein is required in fingerling feed? (variant 30)",
+      "text": "Water hardness is primarily a measure of",
       "options": [
-        "5%",
-        "No protein",
-        "40%",
-        "10%"
+        "Iron content",
+        "Calcium and magnesium ion concentration",
+        "Dissolved gases",
+        "Water colour"
       ],
-      "correct_index": 2,
-      "explanation": "40%.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Water hardness is determined by dissolved calcium and magnesium ions.",
+      "difficulty": 3
     },
     {
       "id": "fsh_031",
-      "text": "What is the main natural food for fish in a pond? (variant 31)",
+      "text": "Which of the following is an omnivorous fish?",
       "options": [
-        "Only pellets",
-        "Plankton",
-        "No plankton",
-        "Only artificial"
+        "Shark",
+        "Tilapia",
+        "Piranha",
+        "Catfish"
       ],
       "correct_index": 1,
-      "explanation": "Plankton.",
+      "explanation": "Tilapia feeds on both plant and animal matter, making it omnivorous.",
       "difficulty": 1
     },
     {
       "id": "fsh_032",
-      "text": "Which of the following is an example of an active fishing gear? (variant 32)",
+      "text": "Complete the statement: \"Carnivorous fish primarily feed on\" by choosing the correct option.",
       "options": [
-        "Trawl net",
-        "Set net",
-        "No gear",
-        "Only passive"
+        "Algae and plants",
+        "Other animals",
+        "Mud and sand",
+        "Dissolved minerals"
       ],
-      "correct_index": 0,
-      "explanation": "Trawl.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Carnivorous fish feed mainly on other fish, insects and aquatic animals.",
+      "difficulty": 1
     },
     {
       "id": "fsh_033",
-      "text": "Which of the following is a method of fish preservation? (variant 33)",
+      "text": "Complete the statement: \"Herbivorous fish feed mainly on\" by choosing the correct option.",
       "options": [
-        "No preservation",
-        "Only fresh",
-        "Only raw",
-        "Smoking"
+        "Insects and larvae",
+        "Algae and aquatic plants",
+        "Other fish",
+        "Detritus only"
       ],
-      "correct_index": 3,
-      "explanation": "Smoking.",
+      "correct_index": 1,
+      "explanation": "Herbivorous fish feed primarily on algae and plant material.",
       "difficulty": 1
     },
     {
       "id": "fsh_034",
-      "text": "What is the main consequence of overfishing? (variant 34)",
+      "text": "Floating feed is preferred in cage culture because it",
       "options": [
-        "No depletion",
-        "Only increase",
-        "Depletion",
-        "Increase"
+        "Sinks quickly",
+        "Allows monitoring of feed intake",
+        "Is cheaper to produce",
+        "Decomposes faster"
       ],
-      "correct_index": 2,
-      "explanation": "Depletion.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Floating feed stays on the surface, allowing farmers to observe feeding behaviour.",
+      "difficulty": 2
     },
     {
       "id": "fsh_035",
-      "text": "What does closed season mean in fisheries management? (variant 35)",
+      "text": "The protein requirement of fish fry is generally",
       "options": [
-        "Only fishing",
-        "No fishing breeding",
-        "Fishing always",
-        "No breeding"
+        "Lower than that of adults",
+        "Higher than that of adults",
+        "The same as that of adults",
+        "Zero"
       ],
       "correct_index": 1,
-      "explanation": "No fishing breeding.",
+      "explanation": "Young fish have higher protein requirements for rapid growth and development.",
       "difficulty": 2
     },
     {
       "id": "fsh_036",
-      "text": "Which nutrient is fish most rich in? (variant 36)",
+      "text": "Feed conversion ratio (FCR) measures the",
       "options": [
-        "Protein",
-        "Carb",
-        "No protein",
-        "Only fat"
+        "Speed of feeding",
+        "Amount of feed needed to produce a unit weight of fish",
+        "Number of feeding times per day",
+        "Cost of feed per bag"
       ],
-      "correct_index": 0,
-      "explanation": "Protein.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "FCR is the ratio of feed given to the weight gain of the fish.",
+      "difficulty": 2
     },
     {
       "id": "fsh_037",
-      "text": "What is the lateral line organ in fish used for? (variant 37)",
+      "text": "A lower feed conversion ratio indicates",
       "options": [
-        "No sensing",
-        "Only swimming",
-        "Only breathing",
-        "Sensing vibrations"
+        "Poor feed quality",
+        "Better feed efficiency",
+        "More waste production",
+        "Higher feed cost"
       ],
-      "correct_index": 3,
-      "explanation": "Sensing.",
+      "correct_index": 1,
+      "explanation": "A lower FCR means less feed is required to produce a unit of fish weight.",
       "difficulty": 2
     },
     {
       "id": "fsh_038",
-      "text": "What is the swim bladder in fish used for? (variant 38)",
+      "text": "Which of the following is a plant-based protein source in fish feeds?",
       "options": [
-        "Only swimming",
-        "Only breathing",
-        "Buoyancy",
-        "No buoyancy"
+        "Blood meal",
+        "Soybean meal",
+        "Fish meal",
+        "Bone meal"
       ],
-      "correct_index": 2,
-      "explanation": "Buoyancy.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Soybean meal is a common plant-based protein ingredient in fish feeds.",
+      "difficulty": 1
     },
     {
       "id": "fsh_039",
-      "text": "How does feed cost rank among fish production expenses? (variant 39)",
+      "text": "Complete the statement: \"Feeding fish too much leads to\" by choosing the correct option.",
       "options": [
-        "Only labour",
-        "Most important",
-        "No cost",
-        "Only construction"
+        "Faster growth only",
+        "Water pollution and poor water quality",
+        "No effect on the pond",
+        "Increased dissolved oxygen"
       ],
       "correct_index": 1,
-      "explanation": "Most important.",
+      "explanation": "Overfeeding causes excess waste, decomposition and deteriorating water quality.",
       "difficulty": 1
     },
     {
       "id": "fsh_040",
-      "text": "What type of water is brackish water? (variant 40)",
+      "text": "The feeding frequency for fingerlings is generally",
       "options": [
-        "Fresh+salt mixture",
-        "Fresh only",
-        "Salt only",
-        "No mixture"
+        "Once a day",
+        "Two to three times a day",
+        "Once a week",
+        "Once a month"
       ],
-      "correct_index": 0,
-      "explanation": "Fresh+salt.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Young fish have smaller stomachs and benefit from frequent small feedings.",
+      "difficulty": 2
     },
     {
       "id": "fsh_041",
-      "text": "What is the definition of fisheries? (variant 41?",
+      "text": "Complete the statement: \"Most fish reproduce by\" by choosing the correct option.",
       "options": [
-        "Only crop",
-        "Only animal",
-        "No study",
-        "Fish production"
+        "Live birth only",
+        "Laying eggs",
+        "Budding",
+        "Binary fission"
       ],
-      "correct_index": 3,
-      "explanation": "Fish production.",
+      "correct_index": 1,
+      "explanation": "Most fish species are oviparous, reproducing by laying eggs.",
       "difficulty": 1
     },
     {
       "id": "fsh_042",
-      "text": "What does aquaculture mean? (variant 42)",
+      "text": "A fish hatchery is a facility used to",
       "options": [
-        "No farming",
-        "Only hunting",
-        "Fish farming",
-        "Crop farming"
+        "Store harvested fish",
+        "Incubate eggs and rear young fish",
+        "Process fish for market",
+        "Keep adult breeding fish only"
       ],
-      "correct_index": 2,
-      "explanation": "Fish farming.",
+      "correct_index": 1,
+      "explanation": "Hatcheries are specialised facilities for incubating eggs and rearing fry and fingerlings.",
       "difficulty": 1
     },
     {
       "id": "fsh_043",
-      "text": "Which of the following is a commonly cultured fish? (variant 43)",
+      "text": "In catfish culture, induced breeding is often necessary because",
       "options": [
-        "Only carp",
-        "Catfish",
-        "No fish",
-        "Only tilapia"
+        "Catfish cannot breed naturally",
+        "Natural spawning conditions may not occur in captivity",
+        "Catfish lay live young",
+        "Male catfish are not fertile"
       ],
       "correct_index": 1,
-      "explanation": "Catfish.",
-      "difficulty": 1
+      "explanation": "Captive catfish may not receive the natural environmental cues needed for spawning.",
+      "difficulty": 2
     },
     {
       "id": "fsh_044",
-      "text": "What organ do fish use to breathe? (variant 44)",
+      "text": "Which hormone is commonly used for induced breeding of fish?",
       "options": [
-        "Gills",
-        "Lungs",
-        "Skin only",
-        "No gills"
+        "Insulin",
+        "Human chorionic gonadotropin (HCG)",
+        "Adrenaline",
+        "Cortisol"
       ],
-      "correct_index": 0,
-      "explanation": "Gills.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "HCG is widely used to induce ovulation in captive fish species.",
+      "difficulty": 3
     },
     {
       "id": "fsh_045",
-      "text": "What organ do fish use for movement in water? (variant 45)",
+      "text": "The process of stripping fish involves",
       "options": [
-        "Legs",
-        "Wings",
-        "No fins",
-        "Fins"
+        "Removing scales",
+        "Manually expressing eggs or milt from the gonads",
+        "Cutting the fins",
+        "Weighing the fish"
       ],
-      "correct_index": 3,
-      "explanation": "Fins.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Stripping is the manual collection of eggs or sperm from brood fish.",
+      "difficulty": 3
     },
     {
       "id": "fsh_046",
-      "text": "What is a newly hatched young fish called? (variant 46)",
+      "text": "Complete the statement: \"Fry are best described as\" by choosing the correct option.",
       "options": [
-        "Juvenile",
-        "Adult",
-        "Fry",
-        "Fingerling"
+        "Recently hatched fish that still carry yolk sac",
+        "Fully grown adult fish",
+        "Fish ready for market",
+        "Broodstock"
       ],
-      "correct_index": 2,
-      "explanation": "Fry.",
+      "correct_index": 0,
+      "explanation": "Fry are newly hatched fish, often still absorbing their yolk sac.",
       "difficulty": 1
     },
     {
       "id": "fsh_047",
-      "text": "Which type of soil is best for constructing a fish pond? (variant 47)",
+      "text": "Fingerlings are young fish that have",
       "options": [
-        "Gravel",
-        "Clay",
-        "Sand",
-        "Loam"
+        "Not yet hatched from eggs",
+        "Absorbed their yolk sac and are feeding externally",
+        "Reached full adult size",
+        "Been in the ocean for years"
       ],
       "correct_index": 1,
-      "explanation": "Clay.",
+      "explanation": "Fingerlings are post-larval fish that feed on external food sources.",
       "difficulty": 1
     },
     {
       "id": "fsh_048",
-      "text": "What is the ideal pH range for fish culture? (variant 48)",
+      "text": "External fertilisation in fish means",
       "options": [
-        "6.5-9.0",
-        "1-2",
-        "12-14",
-        "No pH"
+        "Eggs are fertilised inside the female",
+        "Eggs and sperm meet outside the body in water",
+        "No fertilisation occurs",
+        "Fertilisation happens in the air"
       ],
-      "correct_index": 0,
-      "explanation": "6.5-9.",
+      "correct_index": 1,
+      "explanation": "In external fertilisation, eggs and sperm are released into the water where fertilisation occurs.",
       "difficulty": 1
     },
     {
       "id": "fsh_049",
-      "text": "What should the dissolved oxygen level be for fish survival? (variant 49)",
+      "text": "What does the term Broodstock in aquaculture refer to in animal husbandry?",
       "options": [
-        "Below 1",
-        "No oxygen",
-        "Only 0",
-        "Above 5 mg/L"
+        "Young fingerlings",
+        "Mature fish kept for breeding purposes",
+        "Fish ready for slaughter",
+        "Wild fish caught for food"
       ],
-      "correct_index": 3,
-      "explanation": "Above 5.",
+      "correct_index": 1,
+      "explanation": "Broodstock are selected mature fish used as breeding parents in hatcheries.",
       "difficulty": 1
     },
     {
       "id": "fsh_050",
-      "text": "What percentage of protein is required in fingerling feed? (variant 50)",
+      "text": "What does the term \"In tilapia, mouth brooding\" mean?",
       "options": [
-        "5%",
-        "No protein",
-        "40%",
-        "10%"
+        "The female builds a nest for eggs",
+        "The female incubates eggs in her mouth",
+        "The male swallows the eggs",
+        "Eggs are left unprotected on rocks"
       ],
-      "correct_index": 2,
-      "explanation": "40%.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Female tilapia hold fertilised eggs in their mouths for incubation and protection.",
+      "difficulty": 2
     },
     {
       "id": "fsh_051",
-      "text": "What is the main natural food for fish in a pond? (variant 51)",
+      "text": "The most important fish disease in tropical aquaculture is caused by",
       "options": [
-        "Only pellets",
-        "Plankton",
-        "No plankton",
-        "Only artificial"
+        "Viral infections only",
+        "Bacteria such as Aeromonas",
+        "Insect bites",
+        "Drought"
       ],
       "correct_index": 1,
-      "explanation": "Plankton.",
-      "difficulty": 1
+      "explanation": "Bacterial infections, especially Aeromonas species, are major disease threats in warm-water fish culture.",
+      "difficulty": 2
     },
     {
       "id": "fsh_052",
-      "text": "Which of the following is an example of an active fishing gear? (variant 52)",
+      "text": "White spot disease in fish is caused by",
       "options": [
-        "Trawl net",
-        "Set net",
-        "No gear",
-        "Only passive"
+        "Bacteria",
+        "A protozoan parasite (Ichthyophthirius)",
+        "Fungi",
+        "Virus"
       ],
-      "correct_index": 0,
-      "explanation": "Trawl.",
+      "correct_index": 1,
+      "explanation": "White spot or ich is caused by the protozoan parasite Ichthyophthirius multifiliis.",
       "difficulty": 2
     },
     {
       "id": "fsh_053",
-      "text": "Which of the following is a method of fish preservation? (variant 53)",
+      "text": "Fungal infections in fish ponds are common when",
       "options": [
-        "No preservation",
-        "Only fresh",
-        "Only raw",
-        "Smoking"
+        "Water is very clean",
+        "Fish are injured and water quality is poor",
+        "Temperature is extremely low",
+        "Salinity is very high"
       ],
-      "correct_index": 3,
-      "explanation": "Smoking.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Fungi like Saprolegnia infect wounds on fish, especially when conditions are stressful.",
+      "difficulty": 3
     },
     {
       "id": "fsh_054",
-      "text": "What is the main consequence of overfishing? (variant 54)",
+      "text": "Complete the statement: \"Fish lice (Argulus) are\" by choosing the correct option.",
       "options": [
-        "No depletion",
-        "Only increase",
-        "Depletion",
-        "Increase"
+        "Internal bacteria",
+        "Ectoparasites that attach to the body surface",
+        "Types of fish feed",
+        "Beneficial organisms"
       ],
-      "correct_index": 2,
-      "explanation": "Depletion.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Argulus is an external parasite that attaches to fish skin and feeds on blood.",
+      "difficulty": 3
     },
     {
       "id": "fsh_055",
-      "text": "What does closed season mean in fisheries management? (variant 55)",
+      "text": "The swim bladder disease (furunculosis) primarily affects",
       "options": [
-        "Only fishing",
-        "No fishing breeding",
-        "Fishing always",
-        "No breeding"
+        "Fish scales",
+        "The swim bladder and kidneys",
+        "Fish fins",
+        "The lateral line only"
       ],
       "correct_index": 1,
-      "explanation": "No fishing breeding.",
-      "difficulty": 2
+      "explanation": "Furunculosis is a bacterial disease that causes abscesses in the swim bladder and kidneys.",
+      "difficulty": 3
     },
     {
       "id": "fsh_056",
-      "text": "Which nutrient is fish most rich in? (variant 56)",
+      "text": "The main route of disease transmission in fish ponds is through",
       "options": [
-        "Protein",
-        "Carb",
-        "No protein",
-        "Only fat"
+        "Contaminated water",
+        "Soil erosion",
+        "Wind only",
+        "Bird droppings exclusively"
       ],
       "correct_index": 0,
-      "explanation": "Protein.",
-      "difficulty": 1
+      "explanation": "Waterborne pathogens spread rapidly through shared water in ponds.",
+      "difficulty": 3
     },
     {
       "id": "fsh_057",
-      "text": "What is the lateral line organ in fish used for? (variant 57)",
+      "text": "Routine disinfection of fish ponds between culture cycles is important to",
       "options": [
-        "No sensing",
-        "Only swimming",
-        "Only breathing",
-        "Sensing vibrations"
+        "Increase water turbidity",
+        "Break disease cycles and reduce pathogen load",
+        "Make the pond deeper",
+        "Increase salinity"
       ],
-      "correct_index": 3,
-      "explanation": "Sensing.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Disinfection between cycles removes pathogens and reduces the risk of disease outbreaks.",
+      "difficulty": 3
     },
     {
       "id": "fsh_058",
-      "text": "What is the swim bladder in fish used for? (variant 58)",
+      "text": "A common sign of bacterial infection in fish is",
       "options": [
-        "Only swimming",
-        "Only breathing",
-        "Buoyancy",
-        "No buoyancy"
+        "Bright colouration",
+        "Haemorrhages, ulcers and fin rot",
+        "Excessive swimming",
+        "Increased feeding"
       ],
-      "correct_index": 2,
-      "explanation": "Buoyancy.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Bacterial infections often present as skin lesions, haemorrhages and fin erosion.",
+      "difficulty": 3
     },
     {
       "id": "fsh_059",
-      "text": "How does feed cost rank among fish production expenses? (variant 59)",
+      "text": "Complete the statement: \"Diplopstomum is a type of\" by choosing the correct option.",
       "options": [
-        "Only labour",
-        "Most important",
-        "No cost",
-        "Only construction"
+        "Bacteria",
+        "Fluke (trematode parasite)",
+        "Fish food",
+        "Algae"
       ],
       "correct_index": 1,
-      "explanation": "Most important.",
-      "difficulty": 1
+      "explanation": "Diplopstomum is a trematode (fluke) that commonly infects fish eyes and skin.",
+      "difficulty": 3
     },
     {
       "id": "fsh_060",
-      "text": "What type of water is brackish water? (variant 60)",
+      "text": "The best preventive measure against fish disease is",
       "options": [
-        "Fresh+salt mixture",
-        "Fresh only",
-        "Salt only",
-        "No mixture"
+        "Using large quantities of antibiotics",
+        "Maintaining good water quality and proper nutrition",
+        "Keeping fish in crowded ponds",
+        "Feeding fish once a week"
       ],
-      "correct_index": 0,
-      "explanation": "Fresh+salt.",
+      "correct_index": 1,
+      "explanation": "Good water quality and nutrition strengthen fish immunity and prevent disease.",
       "difficulty": 1
     },
     {
       "id": "fsh_061",
-      "text": "What is the definition of fisheries? (variant 61?",
+      "text": "Which of the following is a predator of juvenile fish in ponds?",
       "options": [
-        "Only crop",
-        "Only animal",
-        "No study",
-        "Fish production"
+        "Algae",
+        "Birds such as kingfishers and herons",
+        "Aquatic plants",
+        "Sand"
       ],
-      "correct_index": 3,
-      "explanation": "Fish production.",
+      "correct_index": 1,
+      "explanation": "Wading birds are major predators of fish in open ponds.",
       "difficulty": 1
     },
     {
       "id": "fsh_062",
-      "text": "What does aquaculture mean? (variant 62)",
+      "text": "Cormorants and kingfishers are a major threat to",
       "options": [
-        "No farming",
-        "Only hunting",
-        "Fish farming",
-        "Crop farming"
+        "Adult broodstock only",
+        "Fingerlings and juvenile fish in ponds",
+        "Aquatic plants",
+        "Water quality only"
       ],
-      "correct_index": 2,
-      "explanation": "Fish farming.",
+      "correct_index": 1,
+      "explanation": "These birds prey heavily on small fish in ponds and cages.",
       "difficulty": 1
     },
     {
       "id": "fsh_063",
-      "text": "Which of the following is a commonly cultured fish? (variant 63)",
+      "text": "Catfish fingerlings can be protected from bird predation by",
       "options": [
-        "Only carp",
-        "Catfish",
-        "No fish",
-        "Only tilapia"
+        "Lowering water level",
+        "Using netting or covers over ponds",
+        "Increasing feeding rate",
+        "Draining the pond"
       ],
       "correct_index": 1,
-      "explanation": "Catfish.",
-      "difficulty": 1
+      "explanation": "Overhead netting prevents predatory birds from reaching the fish.",
+      "difficulty": 2
     },
     {
       "id": "fsh_064",
-      "text": "What organ do fish use to breathe? (variant 64)",
+      "text": "Complete the statement: \"Snakes may prey on fish in ponds by\" by choosing the correct option.",
       "options": [
-        "Gills",
-        "Lungs",
-        "Skin only",
-        "No gills"
+        "Swimming underwater",
+        "Entering ponds from the banks to catch fish",
+        "Flying over the pond",
+        "Burrowing under the pond"
       ],
-      "correct_index": 0,
-      "explanation": "Gills.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Snakes access ponds from the banks and feed on fish near the surface.",
+      "difficulty": 2
     },
     {
       "id": "fsh_065",
-      "text": "What organ do fish use for movement in water? (variant 65)",
+      "text": "Cannibalism is a significant problem in catfish culture when",
       "options": [
-        "Legs",
-        "Wings",
-        "No fins",
-        "Fins"
+        "Fish are well fed",
+        "There is a large size difference among fish in the same tank",
+        "Water is clean",
+        "Fish are in separate tanks"
       ],
-      "correct_index": 3,
-      "explanation": "Fins.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Size-grading is essential because larger catfish will eat smaller ones.",
+      "difficulty": 2
     },
     {
       "id": "fsh_066",
-      "text": "What is a newly hatched young fish called? (variant 66)",
+      "text": "Smoking fish is a preservation method that",
       "options": [
-        "Juvenile",
-        "Adult",
-        "Fry",
-        "Fingerling"
+        "Uses cold temperatures only",
+        "Dries and flavours fish using smoke heat",
+        "Uses salt water exclusively",
+        "Freezes fish at sub-zero temperatures"
       ],
-      "correct_index": 2,
-      "explanation": "Fry.",
+      "correct_index": 1,
+      "explanation": "Smoking combines heat and smoke compounds to preserve and flavour fish.",
       "difficulty": 1
     },
     {
       "id": "fsh_067",
-      "text": "Which type of soil is best for constructing a fish pond? (variant 67)",
+      "text": "Sun-drying fish is most effective in areas with",
       "options": [
-        "Gravel",
-        "Clay",
-        "Sand",
-        "Loam"
+        "Heavy rainfall",
+        "Hot, dry and sunny weather",
+        "High humidity only",
+        "Cold temperatures"
       ],
       "correct_index": 1,
-      "explanation": "Clay.",
+      "explanation": "Sun-drying requires hot, dry conditions with good air circulation.",
       "difficulty": 1
     },
     {
       "id": "fsh_068",
-      "text": "What is the ideal pH range for fish culture? (variant 68)",
+      "text": "Complete the statement: \"Salting fish preserves them by\" by choosing the correct option.",
       "options": [
-        "6.5-9.0",
-        "1-2",
-        "12-14",
-        "No pH"
+        "Increasing the moisture content",
+        "Drawing out moisture and creating an unfavourable environment for bacteria",
+        "Adding colour to the fish",
+        "Softening the bones"
       ],
-      "correct_index": 0,
-      "explanation": "6.5-9.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Salt draws out moisture through osmosis, inhibiting bacterial growth.",
+      "difficulty": 2
     },
     {
       "id": "fsh_069",
-      "text": "What should the dissolved oxygen level be for fish survival? (variant 69)",
+      "text": "Freezing is one of the best methods of fish preservation because it",
       "options": [
-        "Below 1",
-        "No oxygen",
-        "Only 0",
-        "Above 5 mg/L"
+        "Destroys all nutrients",
+        "Slows down microbial and enzymatic activity",
+        "Changes the taste of fish",
+        "Requires no equipment"
       ],
-      "correct_index": 3,
-      "explanation": "Above 5.",
+      "correct_index": 1,
+      "explanation": "Low temperatures slow microbial growth and enzyme activity, keeping fish fresh longer.",
       "difficulty": 1
     },
     {
       "id": "fsh_070",
-      "text": "What percentage of protein is required in fingerling feed? (variant 70)",
+      "text": "What does Canning fish involve in the context of fishing?",
       "options": [
-        "5%",
-        "No protein",
-        "40%",
-        "10%"
+        "Drying in the sun",
+        "Sealing fish in airtight containers and heat-processing them",
+        "Soaking in cold water",
+        "Smoking for several hours"
       ],
-      "correct_index": 2,
-      "explanation": "40%.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Canning seals fish in containers and uses heat to kill bacteria and create a vacuum.",
+      "difficulty": 2
     },
     {
       "id": "fsh_071",
-      "text": "What is the main natural food for fish in a pond? (variant 71)",
+      "text": "Icing fish immediately after catch is important to",
       "options": [
-        "Only pellets",
-        "Plankton",
-        "No plankton",
-        "Only artificial"
+        "Increase the weight of the fish",
+        "Slow down spoilage by reducing temperature",
+        "Make the fish taste better",
+        "Change the colour of the fish"
       ],
       "correct_index": 1,
-      "explanation": "Plankton.",
+      "explanation": "Rapid chilling slows bacterial growth and enzymatic degradation.",
       "difficulty": 1
     },
     {
       "id": "fsh_072",
-      "text": "Which of the following is an example of an active fishing gear? (variant 72)",
+      "text": "Fermentation in fish processing is used to produce",
       "options": [
-        "Trawl net",
-        "Set net",
-        "No gear",
-        "Only passive"
+        "Fresh fish fillets",
+        "Condiments such as fish sauce and fermented fish paste",
+        "Frozen fish sticks",
+        "Smoked fish"
       ],
-      "correct_index": 0,
-      "explanation": "Trawl.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Controlled fermentation produces traditional products like fish sauce and bagoong.",
+      "difficulty": 3
     },
     {
       "id": "fsh_073",
-      "text": "Which of the following is a method of fish preservation? (variant 73)",
+      "text": "A gill net is designed to catch fish by",
       "options": [
-        "No preservation",
-        "Only fresh",
-        "Only raw",
-        "Smoking"
+        "Entangling their tails",
+        "Filtering fish through mesh that holds them by the gills",
+        "Stunning them with sound",
+        "Trapping them in a barrel"
       ],
-      "correct_index": 3,
-      "explanation": "Smoking.",
+      "correct_index": 1,
+      "explanation": "In a gill net, fish swim in through the mesh but are held by their gill covers.",
       "difficulty": 1
     },
     {
       "id": "fsh_074",
-      "text": "What is the main consequence of overfishing? (variant 74)",
+      "text": "Complete the statement: \"A cast net is mainly used to catch\" by choosing the correct option.",
       "options": [
-        "No depletion",
-        "Only increase",
-        "Depletion",
-        "Increase"
+        "Deep-sea tuna",
+        "Small schooling fish in shallow water",
+        "Whales",
+        "River turtles"
       ],
-      "correct_index": 2,
-      "explanation": "Depletion.",
+      "correct_index": 1,
+      "explanation": "Cast nets are hand-thrown circular nets used to catch small fish in shallow waters.",
       "difficulty": 1
     },
     {
       "id": "fsh_075",
-      "text": "What does closed season mean in fisheries management? (variant 75)",
+      "text": "What does Trawling involve in the context of fishing?",
       "options": [
-        "Only fishing",
-        "No fishing breeding",
-        "Fishing always",
-        "No breeding"
+        "Setting stationary traps",
+        "Dragging a large net through water behind a boat",
+        "Using a single fishing line",
+        "Catching fish by hand"
       ],
       "correct_index": 1,
-      "explanation": "No fishing breeding.",
-      "difficulty": 2
-    },
-    {
-      "id": "fsh_076",
-      "text": "Which nutrient is fish most rich in? (variant 76)",
-      "options": [
-        "Protein",
-        "Carb",
-        "No protein",
-        "Only fat"
-      ],
-      "correct_index": 0,
-      "explanation": "Protein.",
+      "explanation": "Trawling pulls a cone-shaped net along the bottom or through the water column.",
       "difficulty": 1
     },
     {
-      "id": "fsh_077",
-      "text": "What is the lateral line organ in fish used for? (variant 77)",
+      "id": "fsh_076",
+      "text": "Complete the statement: \"Long-line fishing uses\" by choosing the correct option.",
       "options": [
-        "No sensing",
-        "Only swimming",
-        "Only breathing",
-        "Sensing vibrations"
+        "A large mesh net",
+        "A main line with many baited hooks attached at intervals",
+        "Underwater traps",
+        "Seine nets only"
       ],
-      "correct_index": 3,
-      "explanation": "Sensing.",
+      "correct_index": 1,
+      "explanation": "Long lines have hundreds or thousands of baited hooks along a main line.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_077",
+      "text": "Complete the statement: \"Seine nets are used to\" by choosing the correct option.",
+      "options": [
+        "Catch single large fish",
+        "Encircle and enclose schools of fish in shallow water",
+        "Line the bottom of ponds",
+        "Transport fish safely"
+      ],
+      "correct_index": 1,
+      "explanation": "Seine nets are drawn around a school of fish to enclose and capture them.",
       "difficulty": 2
     },
     {
       "id": "fsh_078",
-      "text": "What is the swim bladder in fish used for? (variant 78)",
+      "text": "Complete the statement: \"Fish pots or traps are\" by choosing the correct option.",
       "options": [
-        "Only swimming",
-        "Only breathing",
-        "Buoyancy",
-        "No buoyancy"
+        "Hooks on a line",
+        "Enclosed structures that allow fish to enter but make exit difficult",
+        "Nets dragged by boats",
+        "Dynamite charges"
       ],
-      "correct_index": 2,
-      "explanation": "Buoyancy.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Fish traps use funnel-like entrances that let fish in but prevent easy escape.",
+      "difficulty": 1
     },
     {
       "id": "fsh_079",
-      "text": "How does feed cost rank among fish production expenses? (variant 79)",
+      "text": "Complete the statement: \"Using dynamite to catch fish is\" by choosing the correct option.",
       "options": [
-        "Only labour",
-        "Most important",
-        "No cost",
-        "Only construction"
+        "A recommended method",
+        "Illegal and destructive to the aquatic environment",
+        "Only used in deep sea",
+        "Safe for fish populations"
       ],
       "correct_index": 1,
-      "explanation": "Most important.",
+      "explanation": "Blast fishing destroys habitats, kills non-target species and is banned in most countries.",
       "difficulty": 1
     },
     {
       "id": "fsh_080",
-      "text": "What type of water is brackish water? (variant 80)",
+      "text": "What does the term By-catch in fishing refer to in animal husbandry?",
       "options": [
-        "Fresh+salt mixture",
-        "Fresh only",
-        "Salt only",
-        "No mixture"
+        "The target species",
+        "Unwanted species caught alongside the target fish",
+        "Fish released back into the sea alive",
+        "Fish kept for breeding"
       ],
-      "correct_index": 0,
-      "explanation": "Fresh+salt.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "By-catch includes non-target species accidentally captured during fishing operations.",
+      "difficulty": 2
     },
     {
       "id": "fsh_081",
-      "text": "What is the definition of fisheries? (variant 81?",
+      "text": "Complete the statement: \"Overfishing occurs when\" by choosing the correct option.",
       "options": [
-        "Only crop",
-        "Only animal",
-        "No study",
-        "Fish production"
+        "Fish are caught at a rate slower than they reproduce",
+        "Fish are caught faster than they can reproduce and replenish",
+        "Fish ponds are overstocked",
+        "Fish feed is overused"
       ],
-      "correct_index": 3,
-      "explanation": "Fish production.",
+      "correct_index": 1,
+      "explanation": "Overfishing depletes fish stocks beyond their ability to recover naturally.",
       "difficulty": 1
     },
     {
       "id": "fsh_082",
-      "text": "What does aquaculture mean? (variant 82)",
+      "text": "Complete the statement: \"Maximum sustainable yield (MSY) is\" by choosing the correct option.",
       "options": [
-        "No farming",
-        "Only hunting",
-        "Fish farming",
-        "Crop farming"
+        "The maximum amount of fish that can be caught forever",
+        "The largest catch that can be taken indefinitely without depleting the stock",
+        "The maximum number of ponds a farm can have",
+        "The highest price fish can be sold for"
       ],
-      "correct_index": 2,
-      "explanation": "Fish farming.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "MSY is the optimal harvest level that maintains the fish population over time.",
+      "difficulty": 3
     },
     {
       "id": "fsh_083",
-      "text": "Which of the following is a commonly cultured fish? (variant 83)",
+      "text": "Complete the statement: \"A fishing licence is required to\" by choosing the correct option.",
       "options": [
-        "Only carp",
-        "Catfish",
-        "No fish",
-        "Only tilapia"
+        "Swim in the ocean",
+        "Legally engage in commercial or recreational fishing",
+        "Build a fish pond",
+        "Transport fish feed"
       ],
       "correct_index": 1,
-      "explanation": "Catfish.",
+      "explanation": "Licensing helps regulate fishing effort and protect fish stocks.",
       "difficulty": 1
     },
     {
       "id": "fsh_084",
-      "text": "What organ do fish use to breathe? (variant 84)",
+      "text": "Complete the statement: \"Fish sanctuaries are areas where\" by choosing the correct option.",
       "options": [
-        "Gills",
-        "Lungs",
-        "Skin only",
-        "No gills"
+        "All fishing activities are banned",
+        "Fish are processed",
+        "Fish feeds are manufactured",
+        "Fish are transported"
       ],
       "correct_index": 0,
-      "explanation": "Gills.",
-      "difficulty": 1
+      "explanation": "Sanctuaries are no-fishing zones established to allow fish stocks to recover.",
+      "difficulty": 2
     },
     {
       "id": "fsh_085",
-      "text": "What organ do fish use for movement in water? (variant 85)",
+      "text": "Closed season in fisheries refers to",
       "options": [
-        "Legs",
-        "Wings",
-        "No fins",
-        "Fins"
+        "A period when fish markets are closed",
+        "A period when fishing is prohibited to allow breeding and spawning",
+        "When fish ponds are drained",
+        "When hatcheries are not producing"
       ],
-      "correct_index": 3,
-      "explanation": "Fins.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Closed seasons protect fish during critical breeding periods.",
+      "difficulty": 2
     },
     {
       "id": "fsh_086",
-      "text": "What is a newly hatched young fish called? (variant 86)",
+      "text": "The most commonly cultured catfish species in West Africa is",
       "options": [
-        "Juvenile",
-        "Adult",
-        "Fry",
-        "Fingerling"
+        "Clarias gariepinus",
+        "Oncorhynchus mykiss",
+        "Salmo salar",
+        "Scomber scombrus"
       ],
-      "correct_index": 2,
-      "explanation": "Fry.",
+      "correct_index": 0,
+      "explanation": "Clarias gariepinus (African catfish) is the dominant aquaculture catfish species in West Africa.",
       "difficulty": 1
     },
     {
       "id": "fsh_087",
-      "text": "Which type of soil is best for constructing a fish pond? (variant 87)",
+      "text": "Oreochromis niloticus is commonly known as",
       "options": [
-        "Gravel",
-        "Clay",
-        "Sand",
-        "Loam"
+        "African catfish",
+        "Nile tilapia",
+        "Common carp",
+        "Giant perch"
       ],
       "correct_index": 1,
-      "explanation": "Clay.",
+      "explanation": "Oreochromis niloticus is the Nile tilapia, widely cultured in tropical regions.",
       "difficulty": 1
     },
     {
       "id": "fsh_088",
-      "text": "What is the ideal pH range for fish culture? (variant 88)",
+      "text": "Which of the following is an advantage of tilapia culture?",
       "options": [
-        "6.5-9.0",
-        "1-2",
-        "12-14",
-        "No pH"
+        "It requires salt water only",
+        "It is hardy, fast-growing and omnivorous",
+        "It only eats insects",
+        "It cannot tolerate poor water quality"
       ],
-      "correct_index": 0,
-      "explanation": "6.5-9.",
+      "correct_index": 1,
+      "explanation": "Tilapia are adaptable, fast-growing and can feed on a wide range of foods.",
       "difficulty": 1
     },
     {
       "id": "fsh_089",
-      "text": "What should the dissolved oxygen level be for fish survival? (variant 89)",
+      "text": "The common carp (Cyprinus carpio) belongs to the family",
       "options": [
-        "Below 1",
-        "No oxygen",
-        "Only 0",
-        "Above 5 mg/L"
-      ],
-      "correct_index": 3,
-      "explanation": "Above 5.",
-      "difficulty": 1
-    },
-    {
-      "id": "fsh_090",
-      "text": "What percentage of protein is required in fingerling feed? (variant 90)",
-      "options": [
-        "5%",
-        "No protein",
-        "40%",
-        "10%"
+        "Clariidae",
+        "Cichlidae",
+        "Cyprinidae",
+        "Esocidae"
       ],
       "correct_index": 2,
-      "explanation": "40%.",
-      "difficulty": 1
-    },
-    {
-      "id": "fsh_091",
-      "text": "What is the main natural food for fish in a pond? (variant 91)",
-      "options": [
-        "Only pellets",
-        "Plankton",
-        "No plankton",
-        "Only artificial"
-      ],
-      "correct_index": 1,
-      "explanation": "Plankton.",
-      "difficulty": 1
-    },
-    {
-      "id": "fsh_092",
-      "text": "Which of the following is an example of an active fishing gear? (variant 92)",
-      "options": [
-        "Trawl net",
-        "Set net",
-        "No gear",
-        "Only passive"
-      ],
-      "correct_index": 0,
-      "explanation": "Trawl.",
+      "explanation": "The common carp belongs to the family Cyprinidae.",
       "difficulty": 2
     },
     {
-      "id": "fsh_093",
-      "text": "Which of the following is a method of fish preservation? (variant 93)",
+      "id": "fsh_090",
+      "text": "Heterobranchus bidorsalis is a species of",
       "options": [
-        "No preservation",
-        "Only fresh",
-        "Only raw",
-        "Smoking"
+        "Tilapia",
+        "Air-breathing catfish",
+        "Marine shrimp",
+        "Freshwater prawn"
       ],
-      "correct_index": 3,
-      "explanation": "Smoking.",
+      "correct_index": 1,
+      "explanation": "Heterobranchus bidorsalis is an air-breathing catfish cultured in West Africa.",
+      "difficulty": 3
+    },
+    {
+      "id": "fsh_091",
+      "text": "Clarias gariepinus can survive in low-oxygen water because it",
+      "options": [
+        "Has large gill surface area",
+        "Possesses a labyrinth organ for air breathing",
+        "Stores oxygen in its swim bladder",
+        "Does not need oxygen"
+      ],
+      "correct_index": 1,
+      "explanation": "Catfish have accessory air-breathing organs that allow them to gulp atmospheric air.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_092",
+      "text": "Pacu (Colossoma macropomum) is mainly cultured for",
+      "options": [
+        "Ornamental purposes",
+        "Its high-quality flesh for human consumption",
+        "Its colour",
+        "Scientific research only"
+      ],
+      "correct_index": 1,
+      "explanation": "Pacu is a large freshwater fish valued for its meat in aquaculture.",
+      "difficulty": 3
+    },
+    {
+      "id": "fsh_093",
+      "text": "Which of the following is an ornamental fish species?",
+      "options": [
+        "Catfish",
+        "Siamese fighting fish (Betta splendens)",
+        "Mudskipper",
+        "Herring"
+      ],
+      "correct_index": 1,
+      "explanation": "Betta splendens is widely kept as an ornamental fish for its vivid colours.",
       "difficulty": 1
     },
     {
       "id": "fsh_094",
-      "text": "What is the main consequence of overfishing? (variant 94)",
+      "text": "AQUAPONICS combines aquaculture with",
       "options": [
-        "No depletion",
-        "Only increase",
-        "Depletion",
-        "Increase"
+        "Duck farming",
+        "Hydroponics (soilless plant cultivation)",
+        "Poultry keeping",
+        "Bee keeping"
       ],
-      "correct_index": 2,
-      "explanation": "Depletion.",
+      "correct_index": 1,
+      "explanation": "Aquaponics integrates fish culture with soilless plant growing in a symbiotic system.",
       "difficulty": 1
     },
     {
       "id": "fsh_095",
-      "text": "What does closed season mean in fisheries management? (variant 95)",
+      "text": "In aquaponics, the nutrient-rich water for plants comes from",
       "options": [
-        "Only fishing",
-        "No fishing breeding",
-        "Fishing always",
-        "No breeding"
+        "Chemical fertilizers",
+        "Fish waste products",
+        "Rain water only",
+        "Underground springs"
       ],
       "correct_index": 1,
-      "explanation": "No fishing breeding.",
+      "explanation": "Fish excrete ammonia and nutrients that are converted by bacteria into plant-available forms.",
       "difficulty": 2
     },
     {
       "id": "fsh_096",
-      "text": "Which nutrient is fish most rich in? (variant 96)",
+      "text": "Complete the statement: \"A major advantage of aquaponics is\" by choosing the correct option.",
       "options": [
-        "Protein",
-        "Carb",
-        "No protein",
-        "Only fat"
+        "It requires no water",
+        "It reduces water waste and produces both fish and vegetables",
+        "It eliminates the need for fish feed",
+        "It works only in cold climates"
       ],
-      "correct_index": 0,
-      "explanation": "Protein.",
-      "difficulty": 1
-    },
-    {
-      "id": "fsh_097",
-      "text": "What is the lateral line organ in fish used for? (variant 97)",
-      "options": [
-        "No sensing",
-        "Only swimming",
-        "Only breathing",
-        "Sensing vibrations"
-      ],
-      "correct_index": 3,
-      "explanation": "Sensing.",
+      "correct_index": 1,
+      "explanation": "Aquaponics reuses water between fish and plants, reducing overall water consumption.",
       "difficulty": 2
     },
     {
-      "id": "fsh_098",
-      "text": "What is the swim bladder in fish used for? (variant 98)",
+      "id": "fsh_097",
+      "text": "The role of nitrifying bacteria in aquaponics is to",
       "options": [
-        "Only swimming",
-        "Only breathing",
-        "Buoyancy",
-        "No buoyancy"
+        "Feed the fish",
+        "Convert ammonia to nitrite and then to nitrate for plant uptake",
+        "Clean the fish tank",
+        "Produce oxygen"
       ],
-      "correct_index": 2,
-      "explanation": "Buoyancy.",
+      "correct_index": 1,
+      "explanation": "Nitrosomonas converts ammonia to nitrite, and Nitrobacter converts nitrite to nitrate.",
+      "difficulty": 3
+    },
+    {
+      "id": "fsh_098",
+      "text": "Tilapia is the most preferred fish species in aquaponics because it",
+      "options": [
+        "Requires salt water",
+        "Tolerates a wide range of conditions and feeds on plant-based diets",
+        "Cannot survive in tanks",
+        "Only eats insects"
+      ],
+      "correct_index": 1,
+      "explanation": "Tilapia are hardy, adaptable and can thrive on the high-protein feeds used in aquaponics.",
       "difficulty": 2
     },
     {
       "id": "fsh_099",
-      "text": "How does feed cost rank among fish production expenses? (variant 99)",
+      "text": "Complete the statement: \"Pond fertilisation is done to\" by choosing the correct option.",
       "options": [
-        "Only labour",
-        "Most important",
-        "No cost",
-        "Only construction"
+        "Kill the fish",
+        "Stimulate natural food organisms such as plankton growth",
+        "Increase water salinity",
+        "Make the pond deeper"
       ],
       "correct_index": 1,
-      "explanation": "Most important.",
+      "explanation": "Fertilisers promote plankton growth, which serves as natural food for fish.",
       "difficulty": 1
     },
     {
       "id": "fsh_100",
-      "text": "What type of water is brackish water? (variant 100)",
+      "text": "Organic fertilisers used in fish ponds include",
       "options": [
-        "Fresh+salt mixture",
-        "Fresh only",
-        "Salt only",
-        "No mixture"
+        "Urea only",
+        "Animal manure and compost",
+        "Industrial chemicals",
+        "Plastic waste"
       ],
-      "correct_index": 0,
-      "explanation": "Fresh+salt.",
+      "correct_index": 1,
+      "explanation": "Animal manure and compost are common organic fertilisers that promote plankton growth.",
       "difficulty": 1
     },
     {
       "id": "fsh_101",
-      "text": "What is the definition of fisheries? (variant 101?",
+      "text": "Complete the statement: \"Stocking density refers to the\" by choosing the correct option.",
       "options": [
-        "Only crop",
-        "Only animal",
-        "No study",
-        "Fish production"
+        "Number of fish per unit area or volume of water",
+        "Total weight of feed given per day",
+        "Amount of fertiliser applied",
+        "Number of ponds on a farm"
       ],
-      "correct_index": 3,
-      "explanation": "Fish production.",
+      "correct_index": 0,
+      "explanation": "Stocking density is the number of fish stocked per unit area or volume.",
       "difficulty": 1
     },
     {
       "id": "fsh_102",
-      "text": "What does aquaculture mean? (variant 102)",
+      "text": "High stocking density in fish ponds can lead to",
       "options": [
-        "No farming",
-        "Only hunting",
-        "Fish farming",
-        "Crop farming"
+        "Faster growth always",
+        "Stress, disease, poor water quality and cannibalism",
+        "Lower feed consumption",
+        "Improved water clarity"
       ],
-      "correct_index": 2,
-      "explanation": "Fish farming.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Overcrowding causes stress, degrades water quality and increases disease risk.",
+      "difficulty": 2
     },
     {
       "id": "fsh_103",
-      "text": "Which of the following is a commonly cultured fish? (variant 103)",
+      "text": "Culled or graded fish are separated to",
       "options": [
-        "Only carp",
-        "Catfish",
-        "No fish",
-        "Only tilapia"
+        "Increase competition",
+        "Reduce cannibalism and ensure uniform growth",
+        "Increase pond depth",
+        "Reduce water temperature"
       ],
       "correct_index": 1,
-      "explanation": "Catfish.",
-      "difficulty": 1
+      "explanation": "Grading separates fish by size to prevent cannibalism and promote even growth.",
+      "difficulty": 2
     },
     {
       "id": "fsh_104",
-      "text": "What organ do fish use to breathe? (variant 104)",
+      "text": "The water exchange rate in a fish pond should be",
       "options": [
-        "Gills",
-        "Lungs",
-        "Skin only",
-        "No gills"
+        "Never changed",
+        "Sufficient to maintain good water quality",
+        "Very high at all times",
+        "Zero for catfish ponds"
       ],
-      "correct_index": 0,
-      "explanation": "Gills.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Regular water exchange removes waste products and replenishes dissolved oxygen.",
+      "difficulty": 2
     },
     {
       "id": "fsh_105",
-      "text": "What organ do fish use for movement in water? (variant 105)",
+      "text": "Earthen ponds are preferred in aquaculture because they",
       "options": [
-        "Legs",
-        "Wings",
-        "No fins",
-        "Fins"
+        "Are the cheapest to build",
+        "Allow natural food production and are cost-effective",
+        "Can never be drained",
+        "Require no water management"
       ],
-      "correct_index": 3,
-      "explanation": "Fins.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Earthen ponds support natural food webs and are cheaper than concrete tanks.",
+      "difficulty": 2
     },
     {
       "id": "fsh_106",
-      "text": "What is a newly hatched young fish called? (variant 106)",
+      "text": "Concrete tanks are used in aquaculture mainly because they",
       "options": [
-        "Juvenile",
-        "Adult",
-        "Fry",
-        "Fingerling"
+        "Are cheaper than earthen ponds",
+        "Allow better control of water and hygiene",
+        "Are always deeper",
+        "Require no maintenance"
       ],
-      "correct_index": 2,
-      "explanation": "Fry.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Concrete tanks are easy to clean, disinfect and manage compared to earthen ponds.",
+      "difficulty": 2
     },
     {
       "id": "fsh_107",
-      "text": "Which type of soil is best for constructing a fish pond? (variant 107)",
+      "text": "A water inlet pipe in a fish pond should be",
       "options": [
-        "Gravel",
-        "Clay",
-        "Sand",
-        "Loam"
+        "Placed at the bottom of the drain",
+        "Positioned above water level to allow splashing and aeration",
+        "Connected directly to the drain",
+        "Made of wood"
       ],
       "correct_index": 1,
-      "explanation": "Clay.",
-      "difficulty": 1
+      "explanation": "Positioning the inlet above the water surface helps aerate incoming water.",
+      "difficulty": 3
     },
     {
       "id": "fsh_108",
-      "text": "What is the ideal pH range for fish culture? (variant 108)",
+      "text": "The monsoon season in West Africa often causes",
       "options": [
-        "6.5-9.0",
-        "1-2",
-        "12-14",
-        "No pH"
+        "Drought in fish ponds",
+        "Flooding, pond overflow and mixing of wild and cultured fish",
+        "Increased salinity in freshwater ponds",
+        "Lower water temperatures in marine farms"
       ],
-      "correct_index": 0,
-      "explanation": "6.5-9.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Heavy rains cause flooding that can breach ponds and introduce wild fish and diseases.",
+      "difficulty": 2
     },
     {
       "id": "fsh_109",
-      "text": "What should the dissolved oxygen level be for fish survival? (variant 109)",
+      "text": "Complete the statement: \"Pond dykes serve the purpose of\" by choosing the correct option.",
       "options": [
-        "Below 1",
-        "No oxygen",
-        "Only 0",
-        "Above 5 mg/L"
+        "Providing fish food",
+        "Containing the water and providing access around the pond",
+        "Filtering water",
+        "Absorbing excess nutrients"
       ],
-      "correct_index": 3,
-      "explanation": "Above 5.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Dykes are embankments that hold water and provide walkways for management activities.",
+      "difficulty": 2
     },
     {
       "id": "fsh_110",
-      "text": "What percentage of protein is required in fingerling feed? (variant 110)",
+      "text": "Siltation in fish ponds reduces their",
       "options": [
-        "5%",
-        "No protein",
-        "40%",
-        "10%"
+        "Water salinity",
+        "Effective water-holding capacity and depth",
+        "Fish populations",
+        "Nutrient levels"
       ],
-      "correct_index": 2,
-      "explanation": "40%.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Silt accumulates on the pond bottom, reducing depth and available water volume.",
+      "difficulty": 2
     },
     {
       "id": "fsh_111",
-      "text": "What is the main natural food for fish in a pond? (variant 111)",
+      "text": "The walkway around a fish pond is called a",
       "options": [
-        "Only pellets",
-        "Plankton",
-        "No plankton",
-        "Only artificial"
+        "Spillway",
+        "Bund or dyke",
+        "Aerator",
+        "Settling basin"
       ],
       "correct_index": 1,
-      "explanation": "Plankton.",
+      "explanation": "The bund or dyke is the raised embankment surrounding the pond.",
       "difficulty": 1
     },
     {
       "id": "fsh_112",
-      "text": "Which of the following is an example of an active fishing gear? (variant 112)",
+      "text": "A settling basin at the inlet of a fish pond is used to",
       "options": [
-        "Trawl net",
-        "Set net",
-        "No gear",
-        "Only passive"
+        "Increase water flow",
+        "Remove sediment and debris before water enters the pond",
+        "Store fish feed",
+        "Measure water pH"
       ],
-      "correct_index": 0,
-      "explanation": "Trawl.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Settling basins allow suspended particles to settle before water enters the culture pond.",
+      "difficulty": 3
     },
     {
       "id": "fsh_113",
-      "text": "Which of the following is a method of fish preservation? (variant 113)",
+      "text": "Dissolved oxygen levels in fish ponds are lowest at",
       "options": [
-        "No preservation",
-        "Only fresh",
-        "Only raw",
-        "Smoking"
-      ],
-      "correct_index": 3,
-      "explanation": "Smoking.",
-      "difficulty": 1
-    },
-    {
-      "id": "fsh_114",
-      "text": "What is the main consequence of overfishing? (variant 114)",
-      "options": [
-        "No depletion",
-        "Only increase",
-        "Depletion",
-        "Increase"
-      ],
-      "correct_index": 2,
-      "explanation": "Depletion.",
-      "difficulty": 1
-    },
-    {
-      "id": "fsh_115",
-      "text": "What does closed season mean in fisheries management? (variant 115)",
-      "options": [
-        "Only fishing",
-        "No fishing breeding",
-        "Fishing always",
-        "No breeding"
+        "Midday when the sun is strongest",
+        "Early morning before sunrise",
+        "Mid-afternoon",
+        "Late evening"
       ],
       "correct_index": 1,
-      "explanation": "No fishing breeding.",
+      "explanation": "Oxygen levels drop overnight as respiration continues without photosynthesis.",
       "difficulty": 2
     },
     {
-      "id": "fsh_116",
-      "text": "Which nutrient is fish most rich in? (variant 116)",
+      "id": "fsh_114",
+      "text": "Algal blooms in fish ponds can be dangerous because they",
       "options": [
-        "Protein",
-        "Carb",
-        "No protein",
-        "Only fat"
+        "Produce excessive oxygen at night",
+        "Cause oxygen depletion when the bloom crashes",
+        "Increase water clarity",
+        "Feed the fish directly"
       ],
-      "correct_index": 0,
-      "explanation": "Protein.",
+      "correct_index": 1,
+      "explanation": "When algal blooms die and decompose, they consume large amounts of dissolved oxygen.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_115",
+      "text": "An aerator in a fish pond is used to",
+      "options": [
+        "Cool the water",
+        "Increase dissolved oxygen levels",
+        "Remove fish",
+        "Apply fertiliser"
+      ],
+      "correct_index": 1,
+      "explanation": "Aerators mechanically increase oxygen levels in pond water.",
+      "difficulty": 1
+    },
+    {
+      "id": "fsh_116",
+      "text": "The term fry refers to fish that are",
+      "options": [
+        "Larger than fingerlings",
+        "Newly hatched and very small",
+        "Ready for market",
+        "Used for breeding"
+      ],
+      "correct_index": 1,
+      "explanation": "Fry are the earliest free-swimming stage of fish after hatching.",
       "difficulty": 1
     },
     {
       "id": "fsh_117",
-      "text": "What is the lateral line organ in fish used for? (variant 117)",
+      "text": "What does the term Spawn in fish culture refer to in animal husbandry?",
       "options": [
-        "No sensing",
-        "Only swimming",
-        "Only breathing",
-        "Sensing vibrations"
+        "Adult fish",
+        "Eggs and newly hatched larvae",
+        "Processed fish products",
+        "Fish feed pellets"
       ],
-      "correct_index": 3,
-      "explanation": "Sensing.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Spawn are the eggs and newly hatched larvae of fish.",
+      "difficulty": 1
     },
     {
       "id": "fsh_118",
-      "text": "What is the swim bladder in fish used for? (variant 118)",
+      "text": "Sex reversal in tilapia fingerlings is done using",
       "options": [
-        "Only swimming",
-        "Only breathing",
-        "Buoyancy",
-        "No buoyancy"
+        "Salt water",
+        "Methyltestosterone (MT) hormone",
+        "Antibiotics",
+        "Vitamin supplements"
       ],
-      "correct_index": 2,
-      "explanation": "Buoyancy.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "MT is fed to tilapia fry during the early growth stage to produce all-male populations.",
+      "difficulty": 3
     },
     {
       "id": "fsh_119",
-      "text": "How does feed cost rank among fish production expenses? (variant 119)",
+      "text": "All-male tilapia populations are preferred because male tilapia",
       "options": [
-        "Only labour",
-        "Most important",
-        "No cost",
-        "Only construction"
+        "Grow slower than females",
+        "Grow faster and avoid uncontrolled reproduction",
+        "Are smaller than females",
+        "Eat more feed"
       ],
       "correct_index": 1,
-      "explanation": "Most important.",
-      "difficulty": 1
+      "explanation": "Male tilapia grow approximately 40-60% faster than females and prevent overcrowding from spawning.",
+      "difficulty": 2
     },
     {
       "id": "fsh_120",
-      "text": "What type of water is brackish water? (variant 120)",
+      "text": "Artificial fertilisation in fish involves",
       "options": [
-        "Fresh+salt mixture",
-        "Fresh only",
-        "Salt only",
-        "No mixture"
+        "Adding fertiliser to the pond",
+        "Manually mixing eggs and sperm outside the body",
+        "Feeding fish more often",
+        "Raising water temperature rapidly"
       ],
-      "correct_index": 0,
-      "explanation": "Fresh+salt.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Artificial fertilisation is the controlled mixing of stripped eggs and milt.",
+      "difficulty": 2
     },
     {
       "id": "fsh_121",
-      "text": "What is the definition of fisheries? (variant 121?",
+      "text": "What does the term Spermiation in male fish refer to in animal husbandry?",
       "options": [
-        "Only crop",
-        "Only animal",
-        "No study",
-        "Fish production"
+        "Egg laying",
+        "Release of sperm or milt",
+        "Growth of fins",
+        "Colour change"
       ],
-      "correct_index": 3,
-      "explanation": "Fish production.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Spermiation is the release of milt (sperm) from the male gonads.",
+      "difficulty": 3
     },
     {
       "id": "fsh_122",
-      "text": "What does aquaculture mean? (variant 122)",
+      "text": "Egg incubation in hatcheries requires",
       "options": [
-        "No farming",
-        "Only hunting",
-        "Fish farming",
-        "Crop farming"
+        "Complete darkness",
+        "Clean, well-aerated water at the correct temperature",
+        "High salinity",
+        "No water flow"
       ],
-      "correct_index": 2,
-      "explanation": "Fish farming.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Incubating eggs need dissolved oxygen, clean water and optimal temperatures.",
+      "difficulty": 2
     },
     {
       "id": "fsh_123",
-      "text": "Which of the following is a commonly cultured fish? (variant 123)",
+      "text": "Complete the statement: \"Egg sac fry are at risk of\" by choosing the correct option.",
       "options": [
-        "Only carp",
-        "Catfish",
-        "No fish",
-        "Only tilapia"
+        "Overfeeding",
+        "Suffocation if water flow is inadequate",
+        "Predation by birds only",
+        "Freezing"
       ],
       "correct_index": 1,
-      "explanation": "Catfish.",
-      "difficulty": 1
+      "explanation": "Egg sac fry are immobile and need well-aerated water flowing over them.",
+      "difficulty": 3
     },
     {
       "id": "fsh_124",
-      "text": "What organ do fish use to breathe? (variant 124)",
+      "text": "Complete the statement: \"Nursery ponds are used to\" by choosing the correct option.",
       "options": [
-        "Gills",
-        "Lungs",
-        "Skin only",
-        "No gills"
+        "Grow fish to market size",
+        "Rear fry and fingerlings to a suitable size for grow-out",
+        "Hold broodstock only",
+        "Store fish feed"
       ],
-      "correct_index": 0,
-      "explanation": "Gills.",
+      "correct_index": 1,
+      "explanation": "Nursery ponds provide a protected environment for the early growth stages.",
       "difficulty": 1
     },
     {
       "id": "fsh_125",
-      "text": "What organ do fish use for movement in water? (variant 125)",
+      "text": "Complete the statement: \"Fish transport is best done with\" by choosing the correct option.",
       "options": [
-        "Legs",
-        "Wings",
-        "No fins",
-        "Fins"
+        "Empty tanks",
+        "Well-aerated water at appropriate temperatures",
+        "No water at all",
+        "Heated water only"
       ],
-      "correct_index": 3,
-      "explanation": "Fins.",
+      "correct_index": 1,
+      "explanation": "Fish need sufficient dissolved oxygen and cool temperatures during transport to reduce stress.",
       "difficulty": 1
     },
     {
       "id": "fsh_126",
-      "text": "What is a newly hatched young fish called? (variant 126)",
+      "text": "Transporting fish in plastic bags with oxygen is a method called",
       "options": [
-        "Juvenile",
-        "Adult",
-        "Fry",
-        "Fingerling"
+        "Open transport",
+        "Live fish transport in sealed polythene bags",
+        "Dry transport",
+        "Frozen transport"
       ],
-      "correct_index": 2,
-      "explanation": "Fry.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Fish are sealed in polythene bags with water and pure oxygen for short-distance transport.",
+      "difficulty": 2
     },
     {
       "id": "fsh_127",
-      "text": "Which type of soil is best for constructing a fish pond? (variant 127)",
+      "text": "A sedative like MS-222 is sometimes used during fish transport to",
       "options": [
-        "Gravel",
-        "Clay",
-        "Sand",
-        "Loam"
+        "Increase the growth rate",
+        "Reduce stress and metabolic rate",
+        "Increase feed intake",
+        "Change fish colour"
       ],
       "correct_index": 1,
-      "explanation": "Clay.",
-      "difficulty": 1
+      "explanation": "Sedatives calm fish, lower oxygen consumption and reduce transport stress.",
+      "difficulty": 3
     },
     {
       "id": "fsh_128",
-      "text": "What is the ideal pH range for fish culture? (variant 128)",
+      "text": "The culture period for catfish from stocking to harvest in West Africa is approximately",
       "options": [
-        "6.5-9.0",
-        "1-2",
-        "12-14",
-        "No pH"
+        "1 to 2 weeks",
+        "5 to 8 months",
+        "3 to 4 years",
+        "10 years"
       ],
-      "correct_index": 0,
-      "explanation": "6.5-9.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "African catfish typically reach market size in 5 to 8 months under good conditions.",
+      "difficulty": 2
     },
     {
       "id": "fsh_129",
-      "text": "What should the dissolved oxygen level be for fish survival? (variant 129)",
+      "text": "Harvesting fish from a pond is usually done by",
       "options": [
-        "Below 1",
-        "No oxygen",
-        "Only 0",
-        "Above 5 mg/L"
+        "Catching them by hand",
+        "Seining or draining the pond",
+        "Using poison",
+        "Waiting for them to jump out"
       ],
-      "correct_index": 3,
-      "explanation": "Above 5.",
+      "correct_index": 1,
+      "explanation": "Seine nets or complete draining are the most practical harvesting methods.",
       "difficulty": 1
     },
     {
       "id": "fsh_130",
-      "text": "What percentage of protein is required in fingerling feed? (variant 130)",
+      "text": "What does Partial harvesting involve in the context of fishing?",
       "options": [
-        "5%",
-        "No protein",
-        "40%",
-        "10%"
+        "Removing all fish at once",
+        "Selectively removing the largest fish while leaving others to grow",
+        "Draining the pond completely",
+        "Removing only dead fish"
       ],
-      "correct_index": 2,
-      "explanation": "40%.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Partial harvesting allows smaller fish to continue growing for later sale.",
+      "difficulty": 2
     },
     {
       "id": "fsh_131",
-      "text": "What is the main natural food for fish in a pond? (variant 131)",
+      "text": "Complete the statement: \"Fish is a good source of\" by choosing the correct option.",
       "options": [
-        "Only pellets",
-        "Plankton",
-        "No plankton",
-        "Only artificial"
+        "Carbohydrates only",
+        "High-quality protein and essential fatty acids",
+        "Fibre and roughage",
+        "Simple sugars"
       ],
       "correct_index": 1,
-      "explanation": "Plankton.",
+      "explanation": "Fish provides high biological value protein and omega-3 fatty acids.",
       "difficulty": 1
     },
     {
       "id": "fsh_132",
-      "text": "Which of the following is an example of an active fishing gear? (variant 132)",
+      "text": "Omega-3 fatty acids found in fish are beneficial for",
       "options": [
-        "Trawl net",
-        "Set net",
-        "No gear",
-        "Only passive"
+        "Bone strength only",
+        "Heart and brain health",
+        "Muscle building exclusively",
+        "Skin colour"
       ],
-      "correct_index": 0,
-      "explanation": "Trawl.",
+      "correct_index": 1,
+      "explanation": "Omega-3 fatty acids reduce the risk of cardiovascular disease and support brain function.",
       "difficulty": 2
     },
     {
       "id": "fsh_133",
-      "text": "Which of the following is a method of fish preservation? (variant 133)",
-      "options": [
-        "No preservation",
-        "Only fresh",
-        "Only raw",
-        "Smoking"
-      ],
-      "correct_index": 3,
-      "explanation": "Smoking.",
-      "difficulty": 1
-    },
-    {
-      "id": "fsh_134",
-      "text": "What is the main consequence of overfishing? (variant 134)",
-      "options": [
-        "No depletion",
-        "Only increase",
-        "Depletion",
-        "Increase"
-      ],
-      "correct_index": 2,
-      "explanation": "Depletion.",
-      "difficulty": 1
-    },
-    {
-      "id": "fsh_135",
-      "text": "What does closed season mean in fisheries management? (variant 135)",
+      "text": "The food value chain in fisheries includes",
       "options": [
         "Only fishing",
-        "No fishing breeding",
-        "Fishing always",
-        "No breeding"
+        "Production, processing, distribution and marketing",
+        "Only fish farming",
+        "Only fish consumption"
       ],
       "correct_index": 1,
-      "explanation": "No fishing breeding.",
+      "explanation": "The value chain covers all stages from production through to the final consumer.",
       "difficulty": 2
     },
     {
-      "id": "fsh_136",
-      "text": "Which nutrient is fish most rich in? (variant 136)",
+      "id": "fsh_134",
+      "text": "Post-harvest losses in fisheries are mainly caused by",
       "options": [
-        "Protein",
-        "Carb",
-        "No protein",
-        "Only fat"
+        "Good handling practices",
+        "Poor handling, inadequate ice supply and lack of processing facilities",
+        "Too much sunlight",
+        "Overstocking in ponds"
       ],
-      "correct_index": 0,
-      "explanation": "Protein.",
+      "correct_index": 1,
+      "explanation": "Lack of ice, poor transport and minimal processing lead to high post-harvest losses.",
+      "difficulty": 2
+    },
+    {
+      "id": "fsh_135",
+      "text": "Complete the statement: \"Iridovirus disease in fish affects\" by choosing the correct option.",
+      "options": [
+        "Only human consumers",
+        "The immune system and organs of fish, especially fingerlings",
+        "Only plant crops",
+        "Water quality only"
+      ],
+      "correct_index": 1,
+      "explanation": "Iridovirus causes high mortality in young fish, affecting immune function and organs.",
+      "difficulty": 3
+    },
+    {
+      "id": "fsh_136",
+      "text": "Aquatic plants in a fish pond benefit the culture by",
+      "options": [
+        "Competing with fish for food",
+        "Providing shelter, oxygen and supplementary food",
+        "Blocking water flow permanently",
+        "Increasing turbidity"
+      ],
+      "correct_index": 1,
+      "explanation": "Aquatic plants produce oxygen, shelter juvenile fish and may serve as supplemental food.",
       "difficulty": 1
     },
     {
       "id": "fsh_137",
-      "text": "What is the lateral line organ in fish used for? (variant 137)",
+      "text": "The swim bladder of a physoclistous fish is closed, meaning",
       "options": [
-        "No sensing",
-        "Only swimming",
-        "Only breathing",
-        "Sensing vibrations"
+        "It is always empty",
+        "Gas is secreted and absorbed through the blood, not the gut",
+        "It has a connection to the oesophagus",
+        "It is made of cartilage"
       ],
-      "correct_index": 3,
-      "explanation": "Sensing.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Physoclistous fish have a closed swim bladder; gas exchange occurs via the gas gland.",
+      "difficulty": 3
     },
     {
       "id": "fsh_138",
-      "text": "What is the swim bladder in fish used for? (variant 138)",
+      "text": "A physostomous fish has a swim bladder that",
       "options": [
-        "Only swimming",
-        "Only breathing",
-        "Buoyancy",
-        "No buoyancy"
+        "Has no connection to the digestive tract",
+        "Is connected to the oesophagus by a pneumatic duct",
+        "Is absent entirely",
+        "Is filled with oil only"
       ],
-      "correct_index": 2,
-      "explanation": "Buoyancy.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Physostomous fish can gulp or release air through a duct connecting the swim bladder to the gut.",
+      "difficulty": 3
     },
     {
       "id": "fsh_139",
-      "text": "How does feed cost rank among fish production expenses? (variant 139)",
+      "text": "Complete the statement: \"The operculum in fish is the\" by choosing the correct option.",
       "options": [
-        "Only labour",
-        "Most important",
-        "No cost",
-        "Only construction"
+        "Tail fin",
+        "Bony flap covering and protecting the gills",
+        "Scale layer",
+        "Lateral line opening"
       ],
       "correct_index": 1,
-      "explanation": "Most important.",
-      "difficulty": 1
+      "explanation": "The operculum is a hard bony cover that protects the delicate gill structures.",
+      "difficulty": 2
     },
     {
       "id": "fsh_140",
-      "text": "What type of water is brackish water? (variant 140)",
+      "text": "Mucus on fish skin serves the function of",
       "options": [
-        "Fresh+salt mixture",
-        "Fresh only",
-        "Salt only",
-        "No mixture"
+        "Making the fish heavier",
+        "Protecting against parasites, bacteria and reducing friction",
+        "Changing the fish colour",
+        "Attracting mates only"
       ],
-      "correct_index": 0,
-      "explanation": "Fresh+salt.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The slime coat is a primary defence against pathogens and aids hydrodynamics.",
+      "difficulty": 2
     },
     {
       "id": "fsh_141",
-      "text": "What is the definition of fisheries? (variant 141?",
+      "text": "The pyloric caeca in fish are finger-like projections that",
       "options": [
-        "Only crop",
-        "Only animal",
-        "No study",
-        "Fish production"
+        "Help the fish swim",
+        "Increase the surface area for digestion and absorption",
+        "Help the fish breathe",
+        "Produce scales"
       ],
-      "correct_index": 3,
-      "explanation": "Fish production.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Pyloric caeca are digestive organs that increase the absorptive area of the intestine.",
+      "difficulty": 3
     },
     {
       "id": "fsh_142",
-      "text": "What does aquaculture mean? (variant 142)",
+      "text": "Complete the statement: \"Fish kidneys mainly function to\" by choosing the correct option.",
       "options": [
-        "No farming",
-        "Only hunting",
-        "Fish farming",
-        "Crop farming"
+        "Digest food",
+        "Regulate water balance and excrete nitrogenous waste",
+        "Store energy",
+        "Produce mucus"
       ],
-      "correct_index": 2,
-      "explanation": "Fish farming.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The kidney maintains osmoregulation and removes metabolic waste from the blood.",
+      "difficulty": 2
     },
     {
       "id": "fsh_143",
-      "text": "Which of the following is a commonly cultured fish? (variant 143)",
+      "text": "Osmoregulation in freshwater fish involves",
       "options": [
-        "Only carp",
-        "Catfish",
-        "No fish",
-        "Only tilapia"
+        "Absorbing salt from the water",
+        "Producing large volumes of dilute urine to counteract water gain",
+        "Drinking large amounts of water",
+        "Stopping all water exchange"
       ],
       "correct_index": 1,
-      "explanation": "Catfish.",
-      "difficulty": 1
+      "explanation": "Freshwater fish gain water by osmosis and must excrete excess water as dilute urine.",
+      "difficulty": 3
     },
     {
       "id": "fsh_144",
-      "text": "What organ do fish use to breathe? (variant 144)",
+      "text": "Complete the statement: \"Marine fish drink seawater to\" by choosing the correct option.",
       "options": [
-        "Gills",
-        "Lungs",
-        "Skin only",
-        "No gills"
+        "Cool down",
+        "Replace water lost by osmosis and absorb salts",
+        "Feed themselves",
+        "Increase buoyancy"
       ],
-      "correct_index": 0,
-      "explanation": "Gills.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Marine fish lose water to their hypertonic environment and drink to compensate.",
+      "difficulty": 3
     },
     {
       "id": "fsh_145",
-      "text": "What organ do fish use for movement in water? (variant 145)",
+      "text": "Complete the statement: \"The heart of a typical fish has\" by choosing the correct option.",
       "options": [
-        "Legs",
-        "Wings",
-        "No fins",
-        "Fins"
+        "Four chambers",
+        "Two main chambers: one atrium and one ventricle",
+        "Three chambers",
+        "No chambers"
       ],
-      "correct_index": 3,
-      "explanation": "Fins.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The fish heart is a two-chambered pump (one atrium and one ventricle) in a single circuit.",
+      "difficulty": 2
     },
     {
       "id": "fsh_146",
-      "text": "What is a newly hatched young fish called? (variant 146)",
+      "text": "In a fish circulatory system, blood flows in a",
       "options": [
-        "Juvenile",
-        "Adult",
-        "Fry",
-        "Fingerling"
+        "Double circuit with separate pulmonary flow",
+        "Single circuit from heart to gills to body and back",
+        "Triple circuit",
+        "Random pattern"
       ],
-      "correct_index": 2,
-      "explanation": "Fry.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Fish have a single-loop circulatory system: heart to gills to body to heart.",
+      "difficulty": 3
     },
     {
       "id": "fsh_147",
-      "text": "Which type of soil is best for constructing a fish pond? (variant 147)",
+      "text": "The Weberian apparatus found in some fish connects the",
       "options": [
-        "Gravel",
-        "Clay",
-        "Sand",
-        "Loam"
+        "Mouth to the stomach",
+        "Swim bladder to the inner ear to enhance hearing",
+        "Gills to the kidney",
+        "Brain to the spinal cord"
       ],
       "correct_index": 1,
-      "explanation": "Clay.",
-      "difficulty": 1
+      "explanation": "The Weberian apparatus amplifies sound vibrations from the swim bladder to the inner ear.",
+      "difficulty": 3
     },
     {
       "id": "fsh_148",
-      "text": "What is the ideal pH range for fish culture? (variant 148)",
+      "text": "Ctenoid scales have comb-like edges and are found on",
       "options": [
-        "6.5-9.0",
-        "1-2",
-        "12-14",
-        "No pH"
+        "Sharks and rays",
+        "Most advanced bony fish",
+        "Cartilaginous fish only",
+        "Lungfish"
       ],
-      "correct_index": 0,
-      "explanation": "6.5-9.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Ctenoid scales with their tooth-like posterior margin are common in teleost fish.",
+      "difficulty": 2
     },
     {
       "id": "fsh_149",
-      "text": "What should the dissolved oxygen level be for fish survival? (variant 149)",
+      "text": "Placoid scales, also known as dermal denticles, are characteristic of",
       "options": [
-        "Below 1",
-        "No oxygen",
-        "Only 0",
-        "Above 5 mg/L"
+        "Bony fish",
+        "Sharks and rays",
+        "Jellyfish",
+        "Starfish"
       ],
-      "correct_index": 3,
-      "explanation": "Above 5.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Placoid scales give sharkskin its sandpaper-like texture and are homologous to teeth.",
+      "difficulty": 2
     },
     {
       "id": "fsh_150",
-      "text": "What percentage of protein is required in fingerling feed? (variant 150)",
+      "text": "The adipose fin is a small fleshy fin found between the dorsal and caudal fins in",
       "options": [
-        "5%",
-        "No protein",
-        "40%",
-        "10%"
+        "All freshwater fish",
+        "Catfish, salmon and some other species",
+        "Sharks only",
+        "No fish species"
       ],
-      "correct_index": 2,
-      "explanation": "40%.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The adipose fin is a characteristic feature of catfish, salmon and trout.",
+      "difficulty": 3
     },
     {
       "id": "fsh_151",
-      "text": "What is the main natural food for fish in a pond? (variant 151)",
+      "text": "Barbels on catfish are used primarily for",
       "options": [
-        "Only pellets",
-        "Plankton",
-        "No plankton",
-        "Only artificial"
+        "Swimming",
+        "Sensing food and navigating in murky water",
+        "Breathing",
+        "Defence against predators"
       ],
       "correct_index": 1,
-      "explanation": "Plankton.",
+      "explanation": "Barbels are sensory organs rich in taste buds that help catfish find food in turbid water.",
       "difficulty": 1
     },
     {
       "id": "fsh_152",
-      "text": "Which of the following is an example of an active fishing gear? (variant 152)",
+      "text": "The caudal fin shape that provides the most sustained swimming speed is",
       "options": [
-        "Trawl net",
-        "Set net",
-        "No gear",
-        "Only passive"
+        "Rounded",
+        "Lunate or forked",
+        "Square",
+        "Trapezoidal"
       ],
-      "correct_index": 0,
-      "explanation": "Trawl.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Lunate (crescent-shaped) tails are hydrodynamically efficient for sustained fast swimming.",
+      "difficulty": 3
     },
     {
       "id": "fsh_153",
-      "text": "Which of the following is a method of fish preservation? (variant 153)",
+      "text": "The pectoral fins in fish are mainly used for",
       "options": [
-        "No preservation",
-        "Only fresh",
-        "Only raw",
-        "Smoking"
+        "Rapid forward propulsion",
+        "Steering, braking and maintaining balance",
+        "Breathing",
+        "Reproduction"
       ],
-      "correct_index": 3,
-      "explanation": "Smoking.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Pectoral fins allow precise manoeuvring, stopping and hovering.",
+      "difficulty": 2
     },
     {
       "id": "fsh_154",
-      "text": "What is the main consequence of overfishing? (variant 154)",
+      "text": "Complete the statement: \"The dorsal fin helps fish to\" by choosing the correct option.",
       "options": [
-        "No depletion",
-        "Only increase",
-        "Depletion",
-        "Increase"
+        "Breathe underwater",
+        "Maintain stability and prevent rolling",
+        "Digest food",
+        "Detect predators"
       ],
-      "correct_index": 2,
-      "explanation": "Depletion.",
+      "correct_index": 1,
+      "explanation": "The dorsal fin acts as a keel to keep the fish upright and stable.",
       "difficulty": 1
     },
     {
       "id": "fsh_155",
-      "text": "What does closed season mean in fisheries management? (variant 155)",
+      "text": "The lateral line consists of a series of",
       "options": [
-        "Only fishing",
-        "No fishing breeding",
-        "Fishing always",
-        "No breeding"
+        "Gill arches",
+        "Neuromasts or sensory cells along a canal system",
+        "Scale pockets",
+        "Spines"
       ],
       "correct_index": 1,
-      "explanation": "No fishing breeding.",
-      "difficulty": 2
+      "explanation": "Neuromasts within the lateral line canal detect water displacement and vibrations.",
+      "difficulty": 3
     },
     {
       "id": "fsh_156",
-      "text": "Which nutrient is fish most rich in? (variant 156)",
+      "text": "Complete the statement: \"Ichthyology is the study of\" by choosing the correct option.",
       "options": [
-        "Protein",
-        "Carb",
-        "No protein",
-        "Only fat"
+        "Insects",
+        "Fish",
+        "Birds",
+        "Mammals"
       ],
-      "correct_index": 0,
-      "explanation": "Protein.",
+      "correct_index": 1,
+      "explanation": "Ichthyology is the branch of zoology devoted to the study of fish.",
       "difficulty": 1
     },
     {
       "id": "fsh_157",
-      "text": "What is the lateral line organ in fish used for? (variant 157)",
+      "text": "Complete the statement: \"Limnology is the study of\" by choosing the correct option.",
       "options": [
-        "No sensing",
-        "Only swimming",
-        "Only breathing",
-        "Sensing vibrations"
+        "Marine life only",
+        "Inland fresh water ecosystems",
+        "Desert ecosystems",
+        "Forest ecosystems"
       ],
-      "correct_index": 3,
-      "explanation": "Sensing.",
+      "correct_index": 1,
+      "explanation": "Limnology focuses on the physical, chemical and biological features of freshwater systems.",
       "difficulty": 2
     },
     {
       "id": "fsh_158",
-      "text": "What is the swim bladder in fish used for? (variant 158)",
+      "text": "The pelagic zone of the ocean refers to",
       "options": [
-        "Only swimming",
-        "Only breathing",
-        "Buoyancy",
-        "No buoyancy"
+        "The ocean floor",
+        "The open water column away from the shore and bottom",
+        "Rocky shorelines",
+        "Mangrove areas"
       ],
-      "correct_index": 2,
-      "explanation": "Buoyancy.",
+      "correct_index": 1,
+      "explanation": "The pelagic zone is the open water area of the ocean, not the seabed.",
       "difficulty": 2
     },
     {
       "id": "fsh_159",
-      "text": "How does feed cost rank among fish production expenses? (variant 159)",
+      "text": "Complete the statement: \"Benthic fish are those that\" by choosing the correct option.",
       "options": [
-        "Only labour",
-        "Most important",
-        "No cost",
-        "Only construction"
+        "Swim near the surface",
+        "Live on or near the bottom of a water body",
+        "Live in mid-water only",
+        "Never touch the bottom"
       ],
       "correct_index": 1,
-      "explanation": "Most important.",
-      "difficulty": 1
+      "explanation": "Benthic fish such as flatfish live on or close to the substrate.",
+      "difficulty": 2
     },
     {
       "id": "fsh_160",
-      "text": "What type of water is brackish water? (variant 160)",
+      "text": "The photic zone in a water body is where",
       "options": [
-        "Fresh+salt mixture",
-        "Fresh only",
-        "Salt only",
-        "No mixture"
+        "No light penetrates",
+        "Light penetrates sufficiently for photosynthesis",
+        "Only nocturnal animals live",
+        "Temperature is always cold"
       ],
-      "correct_index": 0,
-      "explanation": "Fresh+salt.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The photic zone receives enough sunlight for photosynthesis by algae and plants.",
+      "difficulty": 2
     },
     {
       "id": "fsh_161",
-      "text": "What is the definition of fisheries? (variant 161?",
+      "text": "Complete the statement: \"Anoxic conditions in a pond mean\" by choosing the correct option.",
       "options": [
-        "Only crop",
-        "Only animal",
-        "No study",
-        "Fish production"
+        "High dissolved oxygen",
+        "Complete absence of dissolved oxygen",
+        "High pH",
+        "Low turbidity"
       ],
-      "correct_index": 3,
-      "explanation": "Fish production.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Anoxic water has no dissolved oxygen and is lethal to most fish.",
+      "difficulty": 2
     },
     {
       "id": "fsh_162",
-      "text": "What does aquaculture mean? (variant 162)",
+      "text": "Biological oxygen demand (BOD) in water indicates",
       "options": [
-        "No farming",
-        "Only hunting",
-        "Fish farming",
-        "Crop farming"
+        "The amount of salt in the water",
+        "The amount of oxygen needed by organisms to decompose organic matter",
+        "The pH of the water",
+        "The temperature of the water"
       ],
-      "correct_index": 2,
-      "explanation": "Fish farming.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "High BOD indicates high organic pollution and potential oxygen depletion.",
+      "difficulty": 3
     },
     {
       "id": "fsh_163",
-      "text": "Which of the following is a commonly cultured fish? (variant 163)",
+      "text": "Eutrophication of a water body results from",
       "options": [
-        "Only carp",
-        "Catfish",
-        "No fish",
-        "Only tilapia"
+        "Low nutrient levels",
+        "Excessive nutrient enrichment leading to algal blooms",
+        "High salinity",
+        "Low water temperature"
       ],
       "correct_index": 1,
-      "explanation": "Catfish.",
-      "difficulty": 1
+      "explanation": "Excess nutrients from fertilisers or sewage cause rapid algal growth and oxygen depletion.",
+      "difficulty": 2
     },
     {
       "id": "fsh_164",
-      "text": "What organ do fish use to breathe? (variant 164)",
+      "text": "The thermocline in a lake is the layer where",
       "options": [
-        "Gills",
-        "Lungs",
-        "Skin only",
-        "No gills"
+        "Temperature is uniform",
+        "Temperature changes rapidly with depth",
+        "Salinity changes rapidly",
+        "No life exists"
       ],
-      "correct_index": 0,
-      "explanation": "Gills.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The thermocline is the transitional layer between warm surface water and cold deep water.",
+      "difficulty": 3
     },
     {
       "id": "fsh_165",
-      "text": "What organ do fish use for movement in water? (variant 165)",
+      "text": "A seine net differs from a gill net because it",
       "options": [
-        "Legs",
-        "Wings",
-        "No fins",
-        "Fins"
+        "Has no mesh",
+        "Encloses fish by surrounding them rather than entangling by gills",
+        "Is only used in the deep sea",
+        "Requires bait to catch fish"
       ],
-      "correct_index": 3,
-      "explanation": "Fins.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Seine nets are drawn around fish to enclose them; gill nets entangle fish in the mesh.",
+      "difficulty": 2
     },
     {
       "id": "fsh_166",
-      "text": "What is a newly hatched young fish called? (variant 166)",
+      "text": "Complete the statement: \"A lift net is operated by\" by choosing the correct option.",
       "options": [
-        "Juvenile",
-        "Adult",
-        "Fry",
-        "Fingerling"
+        "Dragging it behind a boat",
+        "Lowering it into water, baiting fish, then lifting it up",
+        "Setting it on the shore",
+        "Throwing it by hand"
       ],
-      "correct_index": 2,
-      "explanation": "Fry.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Lift nets are submerged, left for fish to congregate, then raised to capture them.",
+      "difficulty": 2
     },
     {
       "id": "fsh_167",
-      "text": "Which type of soil is best for constructing a fish pond? (variant 167)",
+      "text": "Complete the statement: \"A fyke net is a type of\" by choosing the correct option.",
       "options": [
-        "Gravel",
-        "Clay",
-        "Sand",
-        "Loam"
+        "Surface net",
+        "Hoop net or trap used to catch fish in rivers and estuaries",
+        "Deep-sea trawl",
+        "Ornamental net"
       ],
       "correct_index": 1,
-      "explanation": "Clay.",
-      "difficulty": 1
+      "explanation": "Fyke nets are cylindrical trap nets with funnel-shaped openings used in rivers.",
+      "difficulty": 3
     },
     {
       "id": "fsh_168",
-      "text": "What is the ideal pH range for fish culture? (variant 168)",
+      "text": "The escape gap in a fish trap allows",
       "options": [
-        "6.5-9.0",
-        "1-2",
-        "12-14",
-        "No pH"
+        "All fish to escape",
+        "Undersized fish to exit while retaining marketable sizes",
+        "Predators to enter",
+        "Water to flow through freely"
       ],
-      "correct_index": 0,
-      "explanation": "6.5-9.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Escape gaps help reduce by-catch of juvenile fish and promote sustainable harvesting.",
+      "difficulty": 2
     },
     {
       "id": "fsh_169",
-      "text": "What should the dissolved oxygen level be for fish survival? (variant 169)",
+      "text": "Complete the statement: \"Purse seine nets are used to catch\" by choosing the correct option.",
       "options": [
-        "Below 1",
-        "No oxygen",
-        "Only 0",
-        "Above 5 mg/L"
+        "Bottom-dwelling flatfish",
+        "Large schools of pelagic fish like sardines and tuna",
+        "Individual large fish",
+        "Fish in shallow rivers only"
       ],
-      "correct_index": 3,
-      "explanation": "Above 5.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Purse seines encircle schools of fish and then cinch closed at the bottom like a drawstring.",
+      "difficulty": 2
     },
     {
       "id": "fsh_170",
-      "text": "What percentage of protein is required in fingerling feed? (variant 170)",
+      "text": "What does Electrofishing involve in the context of fishing?",
       "options": [
-        "5%",
-        "No protein",
-        "40%",
-        "10%"
+        "Heating the water",
+        "Using electric current to stun fish for capture",
+        "Freezing the water",
+        "Adding chemicals to the water"
       ],
-      "correct_index": 2,
-      "explanation": "40%.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Electrofishing uses controlled electric fields to temporarily stun fish for sampling or harvest.",
+      "difficulty": 2
     },
     {
       "id": "fsh_171",
-      "text": "What is the main natural food for fish in a pond? (variant 171)",
+      "text": "Dynamite fishing causes damage to the marine environment by",
       "options": [
-        "Only pellets",
-        "Plankton",
-        "No plankton",
-        "Only artificial"
+        "Increasing fish population",
+        "Destroying coral reefs, killing non-target species and disrupting habitats",
+        "Improving water quality",
+        "Enhancing fish growth"
       ],
       "correct_index": 1,
-      "explanation": "Plankton.",
+      "explanation": "Blast fishing obliterates reef structures and causes widespread ecosystem damage.",
       "difficulty": 1
     },
     {
       "id": "fsh_172",
-      "text": "Which of the following is an example of an active fishing gear? (variant 172)",
+      "text": "Cyanide fishing is harmful because it",
       "options": [
-        "Trawl net",
-        "Set net",
-        "No gear",
-        "Only passive"
+        "Improves fish health",
+        "Stuns and kills fish and damages coral ecosystems",
+        "Increases dissolved oxygen",
+        "Promotes plankton growth"
       ],
-      "correct_index": 0,
-      "explanation": "Trawl.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Cyanide poisons fish and destroys the reef organisms they depend on.",
+      "difficulty": 1
     },
     {
       "id": "fsh_173",
-      "text": "Which of the following is a method of fish preservation? (variant 173)",
+      "text": "Discards in commercial fishing refers to",
       "options": [
-        "No preservation",
-        "Only fresh",
-        "Only raw",
-        "Smoking"
+        "The best quality fish",
+        "Fish and other marine organisms thrown back into the sea, often dead or dying",
+        "Fish kept for breeding",
+        "Processed fish products"
       ],
-      "correct_index": 3,
-      "explanation": "Smoking.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Discards are the unwanted portion of the catch that is returned to the sea, usually with high mortality.",
+      "difficulty": 2
     },
     {
       "id": "fsh_174",
-      "text": "What is the main consequence of overfishing? (variant 174)",
+      "text": "The exclusive economic zone (EEZ) extends",
       "options": [
-        "No depletion",
-        "Only increase",
-        "Depletion",
-        "Increase"
+        "12 nautical miles from shore",
+        "Up to 200 nautical miles from the coastal baseline",
+        "500 nautical miles from shore",
+        "Unlimited distance"
       ],
-      "correct_index": 2,
-      "explanation": "Depletion.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The EEZ grants coastal states sovereign rights over marine resources up to 200 nautical miles.",
+      "difficulty": 3
     },
     {
       "id": "fsh_175",
-      "text": "What does closed season mean in fisheries management? (variant 175)",
+      "text": "Fish aggregation devices (FADs) work by",
       "options": [
-        "Only fishing",
-        "No fishing breeding",
-        "Fishing always",
-        "No breeding"
+        "Repelling fish away from an area",
+        "Attracting pelagic fish to congregate around a floating structure",
+        "Killing fish instantly",
+        "Filtering seawater"
       ],
       "correct_index": 1,
-      "explanation": "No fishing breeding.",
+      "explanation": "FADs provide shade and shelter that attract schools of pelagic fish.",
       "difficulty": 2
     },
     {
       "id": "fsh_176",
-      "text": "Which nutrient is fish most rich in? (variant 176)",
+      "text": "Artisanal fishing is characterised by",
       "options": [
-        "Protein",
-        "Carb",
-        "No protein",
-        "Only fat"
+        "Large factory vessels and advanced technology",
+        "Small-scale, low-technology, often subsistence-level fishing",
+        "Deep-sea trawling operations",
+        "Industrial fish canning"
       ],
-      "correct_index": 0,
-      "explanation": "Protein.",
+      "correct_index": 1,
+      "explanation": "Artisanal fisheries use traditional methods and small boats, often for local consumption.",
       "difficulty": 1
     },
     {
       "id": "fsh_177",
-      "text": "What is the lateral line organ in fish used for? (variant 177)",
+      "text": "A fish market is important in the fisheries sector because it",
       "options": [
-        "No sensing",
-        "Only swimming",
-        "Only breathing",
-        "Sensing vibrations"
+        "Is where fish are caught",
+        "Provides a venue for price determination, distribution and sale of fish",
+        "Is where fish are farmed",
+        "Processes fish into oil"
       ],
-      "correct_index": 3,
-      "explanation": "Sensing.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Fish markets are crucial nodes in the value chain for price setting and product distribution.",
+      "difficulty": 1
     },
     {
       "id": "fsh_178",
-      "text": "What is the swim bladder in fish used for? (variant 178)",
+      "text": "Value addition in fisheries includes",
       "options": [
-        "Only swimming",
-        "Only breathing",
-        "Buoyancy",
-        "No buoyancy"
+        "Simply catching more fish",
+        "Processing raw fish into smoked, dried or canned products for higher value",
+        "Releasing fish back into the sea",
+        "Building more boats"
       ],
-      "correct_index": 2,
-      "explanation": "Buoyancy.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Processing increases the shelf life and market value of fish products.",
+      "difficulty": 1
     },
     {
       "id": "fsh_179",
-      "text": "How does feed cost rank among fish production expenses? (variant 179)",
+      "text": "A major challenge facing fisheries in West Africa is",
       "options": [
-        "Only labour",
-        "Most important",
-        "No cost",
-        "Only construction"
+        "Too many fish farmers",
+        "Illegal, unreported and unregulated (IUU) fishing",
+        "Excessive aquaculture production",
+        "Too many fish processing plants"
       ],
       "correct_index": 1,
-      "explanation": "Most important.",
-      "difficulty": 1
+      "explanation": "IUU fishing by both local and foreign vessels depletes West African fish stocks.",
+      "difficulty": 2
     },
     {
       "id": "fsh_180",
-      "text": "What type of water is brackish water? (variant 180)",
+      "text": "Climate change affects fisheries primarily by",
       "options": [
-        "Fresh+salt mixture",
-        "Fresh only",
-        "Salt only",
-        "No mixture"
+        "Increasing fish growth rates uniformly",
+        "Altering water temperatures, sea levels and fish distribution patterns",
+        "Eliminating all marine life",
+        "Increasing freshwater availability everywhere"
       ],
-      "correct_index": 0,
-      "explanation": "Fresh+salt.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Changing temperatures shift fish habitats, affect breeding cycles and alter ecosystem productivity.",
+      "difficulty": 2
     },
     {
       "id": "fsh_181",
-      "text": "What is the definition of fisheries? (variant 181?",
+      "text": "The monofilament gill net is preferred over multifilament because it",
       "options": [
-        "Only crop",
-        "Only animal",
-        "No study",
-        "Fish production"
+        "Is stronger",
+        "Is less visible underwater, increasing catch efficiency",
+        "Catches more non-target species",
+        "Is cheaper to manufacture"
       ],
-      "correct_index": 3,
-      "explanation": "Fish production.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Monofilament lines are nearly invisible in water, making fish less likely to detect them.",
+      "difficulty": 3
     },
     {
       "id": "fsh_182",
-      "text": "What does aquaculture mean? (variant 182)",
+      "text": "A drag net or shrimp trawl typically has a",
       "options": [
-        "No farming",
-        "Only hunting",
-        "Fish farming",
-        "Crop farming"
+        "Flat bottom",
+        "Cod end where the catch accumulates",
+        "Large float at the top",
+        "No mesh at all"
       ],
-      "correct_index": 2,
-      "explanation": "Fish farming.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The cod end is the tapered rear section where captured shrimp and fish collect.",
+      "difficulty": 2
     },
     {
       "id": "fsh_183",
-      "text": "Which of the following is a commonly cultured fish? (variant 183)",
+      "text": "Complete the statement: \"The mesh size of a net determines\" by choosing the correct option.",
       "options": [
-        "Only carp",
-        "Catfish",
-        "No fish",
-        "Only tilapia"
+        "The colour of the net",
+        "The minimum size of fish that can be retained",
+        "The weight of the net",
+        "The speed of the boat"
       ],
       "correct_index": 1,
-      "explanation": "Catfish.",
-      "difficulty": 1
+      "explanation": "Larger mesh allows smaller fish to escape, protecting juvenile stocks.",
+      "difficulty": 2
     },
     {
       "id": "fsh_184",
-      "text": "What organ do fish use to breathe? (variant 184)",
+      "text": "A fish dryer or solar dryer improves upon sun drying by",
       "options": [
-        "Gills",
-        "Lungs",
-        "Skin only",
-        "No gills"
+        "Using chemicals",
+        "Providing controlled airflow and protection from insects and dust",
+        "Freezing the fish",
+        "Increasing humidity inside"
       ],
-      "correct_index": 0,
-      "explanation": "Gills.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Solar dryers use transparent covers to trap heat while keeping insects and debris out.",
+      "difficulty": 2
     },
     {
       "id": "fsh_185",
-      "text": "What organ do fish use for movement in water? (variant 185)",
+      "text": "Hot smoking cooks fish while cold smoking mainly",
       "options": [
-        "Legs",
-        "Wings",
-        "No fins",
-        "Fins"
+        "Boils the fish",
+        "Preserves the fish without fully cooking it",
+        "Freezes the fish",
+        "Dissolves the bones"
       ],
-      "correct_index": 3,
-      "explanation": "Fins.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Cold smoking flavours and preserves fish at temperatures below 30 degrees Celsius.",
+      "difficulty": 2
     },
     {
       "id": "fsh_186",
-      "text": "What is a newly hatched young fish called? (variant 186)",
+      "text": "What does Filleting fish involve in the context of fishing?",
       "options": [
-        "Juvenile",
-        "Adult",
-        "Fry",
-        "Fingerling"
+        "Removing the head only",
+        "Cutting the flesh away from the bones in clean portions",
+        "Grilling the whole fish",
+        "Soaking in salt water"
       ],
-      "correct_index": 2,
-      "explanation": "Fry.",
+      "correct_index": 1,
+      "explanation": "Filleting removes the edible flesh from the bone structure for convenient cooking and sale.",
       "difficulty": 1
     },
     {
       "id": "fsh_187",
-      "text": "Which type of soil is best for constructing a fish pond? (variant 187)",
+      "text": "Vacuum packaging of fish products helps to",
       "options": [
-        "Gravel",
-        "Clay",
-        "Sand",
-        "Loam"
+        "Add more water to the product",
+        "Exclude air and reduce oxidative spoilage",
+        "Increase the pH",
+        "Make the fish transparent"
       ],
       "correct_index": 1,
-      "explanation": "Clay.",
-      "difficulty": 1
+      "explanation": "Removing air slows aerobic bacterial growth and oxidative rancidity in fatty fish.",
+      "difficulty": 2
     },
     {
       "id": "fsh_188",
-      "text": "What is the ideal pH range for fish culture? (variant 188)",
+      "text": "Freeze-drying of fish is a preservation method that",
       "options": [
-        "6.5-9.0",
-        "1-2",
-        "12-14",
-        "No pH"
+        "Uses high heat",
+        "Removes moisture under vacuum at low temperatures",
+        "Adds salt to the fish",
+        "Uses chemical preservatives"
       ],
-      "correct_index": 0,
-      "explanation": "6.5-9.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Freeze-drying sublimates ice directly into vapour under vacuum, producing a lightweight product.",
+      "difficulty": 3
     },
     {
       "id": "fsh_189",
-      "text": "What should the dissolved oxygen level be for fish survival? (variant 189)",
+      "text": "A dehydrator used in fish processing works by",
       "options": [
-        "Below 1",
-        "No oxygen",
-        "Only 0",
-        "Above 5 mg/L"
+        "Adding water to fish",
+        "Circulating warm dry air to remove moisture from fish",
+        "Cooling the fish rapidly",
+        "Electrifying the fish"
       ],
-      "correct_index": 3,
-      "explanation": "Above 5.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Dehydrators remove moisture by blowing warm air over fish, inhibiting microbial growth.",
+      "difficulty": 2
     },
     {
       "id": "fsh_190",
-      "text": "What percentage of protein is required in fingerling feed? (variant 190)",
+      "text": "The cold chain in fisheries refers to",
       "options": [
-        "5%",
-        "No protein",
-        "40%",
-        "10%"
+        "A chain used to tie fish together",
+        "Maintaining low temperatures from harvest through processing to the consumer",
+        "The temperature of deep ocean water",
+        "A type of fishing gear"
       ],
-      "correct_index": 2,
-      "explanation": "40%.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The cold chain ensures fish stays chilled throughout the entire post-harvest handling process.",
+      "difficulty": 2
     },
     {
       "id": "fsh_191",
-      "text": "What is the main natural food for fish in a pond? (variant 191)",
+      "text": "Feed pellets used in aquaculture are produced by",
       "options": [
-        "Only pellets",
-        "Plankton",
-        "No plankton",
-        "Only artificial"
+        "Harvesting wild plankton",
+        "A feed mill using extrusion or pressing techniques",
+        "Collecting insects",
+        "Growing algae on nets"
       ],
       "correct_index": 1,
-      "explanation": "Plankton.",
+      "explanation": "Commercial fish feeds are manufactured in mills using precise ingredient formulations.",
       "difficulty": 1
     },
     {
       "id": "fsh_192",
-      "text": "Which of the following is an example of an active fishing gear? (variant 192)",
+      "text": "Complete the statement: \"Sinking feed is used in\" by choosing the correct option.",
       "options": [
-        "Trawl net",
-        "Set net",
-        "No gear",
-        "Only passive"
+        "Surface-feeding fish only",
+        "Bottom-feeding species like catfish and carp",
+        "Air-breathing fish",
+        "Bird enclosures"
       ],
-      "correct_index": 0,
-      "explanation": "Trawl.",
+      "correct_index": 1,
+      "explanation": "Sinking pellets are formulated for species that feed at or near the pond bottom.",
       "difficulty": 2
     },
     {
       "id": "fsh_193",
-      "text": "Which of the following is a method of fish preservation? (variant 193)",
+      "text": "Vitamin C is essential in fish feeds because it",
       "options": [
-        "No preservation",
-        "Only fresh",
-        "Only raw",
-        "Smoking"
+        "Improves colour only",
+        "Supports immune function, wound healing and collagen formation",
+        "Increases water temperature",
+        "Kills parasites in the feed"
       ],
-      "correct_index": 3,
-      "explanation": "Smoking.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Vitamin C is critical for immune health, tissue repair and stress resistance in fish.",
+      "difficulty": 2
     },
     {
       "id": "fsh_194",
-      "text": "What is the main consequence of overfishing? (variant 194)",
+      "text": "Lipids in fish feeds are important because they",
       "options": [
-        "No depletion",
-        "Only increase",
-        "Depletion",
-        "Increase"
+        "Have no nutritional value",
+        "Provide concentrated energy and essential fatty acids",
+        "Make the feed sink faster",
+        "Reduce protein content"
       ],
-      "correct_index": 2,
-      "explanation": "Depletion.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Lipids are energy-dense and supply essential omega-3 and omega-6 fatty acids.",
+      "difficulty": 2
     },
     {
       "id": "fsh_195",
-      "text": "What does closed season mean in fisheries management? (variant 195)",
+      "text": "Moist feed in aquaculture is made by mixing dry ingredients with",
       "options": [
-        "Only fishing",
-        "No fishing breeding",
-        "Fishing always",
-        "No breeding"
+        "Dry sand",
+        "Water or fresh fish to form a soft, wet mixture",
+        "Ice",
+        "Salt crystals"
       ],
       "correct_index": 1,
-      "explanation": "No fishing breeding.",
+      "explanation": "Moist feeds combine dry meal with water or fresh fish to improve palatability.",
       "difficulty": 2
     },
     {
       "id": "fsh_196",
-      "text": "Which nutrient is fish most rich in? (variant 196)",
+      "text": "Natural food organisms in fish ponds include",
       "options": [
-        "Protein",
-        "Carb",
-        "No protein",
-        "Only fat"
+        "Plastic particles",
+        "Phytoplankton, zooplankton and benthic organisms",
+        "Sand and gravel",
+        "Inorganic chemicals"
       ],
-      "correct_index": 0,
-      "explanation": "Protein.",
+      "correct_index": 1,
+      "explanation": "Phytoplankton, zooplankton, insect larvae and worms are natural food sources in ponds.",
       "difficulty": 1
     },
     {
       "id": "fsh_197",
-      "text": "What is the lateral line organ in fish used for? (variant 197)",
+      "text": "Complete the statement: \"Plankton in a fish pond consists of\" by choosing the correct option.",
       "options": [
-        "No sensing",
-        "Only swimming",
-        "Only breathing",
-        "Sensing vibrations"
+        "Large fish only",
+        "Microscopic organisms that drift with water currents",
+        "Bottom-dwelling worms",
+        "Floating logs"
       ],
-      "correct_index": 3,
-      "explanation": "Sensing.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Plankton are small organisms that drift in water, including phytoplankton and zooplankton.",
+      "difficulty": 1
     },
     {
       "id": "fsh_198",
-      "text": "What is the swim bladder in fish used for? (variant 198)",
+      "text": "Supplementary feeding in fish ponds is necessary when",
       "options": [
-        "Only swimming",
-        "Only breathing",
-        "Buoyancy",
-        "No buoyancy"
+        "The pond is brand new",
+        "Natural food supply is insufficient for the stocking density",
+        "The pond is being drained",
+        "The water is too clean"
       ],
-      "correct_index": 2,
-      "explanation": "Buoyancy.",
+      "correct_index": 1,
+      "explanation": "When stocking density exceeds what natural food can support, supplementary feeds are needed.",
       "difficulty": 2
     },
     {
       "id": "fsh_199",
-      "text": "How does feed cost rank among fish production expenses? (variant 199)",
+      "text": "Aeration in aquaculture ponds is most critical during",
       "options": [
-        "Only labour",
-        "Most important",
-        "No cost",
-        "Only construction"
+        "Winter months",
+        "Periods of high stocking density, hot weather and algal bloom crashes",
+        "When ponds are empty",
+        "During rainfall only"
       ],
       "correct_index": 1,
-      "explanation": "Most important.",
-      "difficulty": 1
+      "explanation": "Oxygen demand peaks in hot weather, dense stocks and when decomposing algae deplete oxygen.",
+      "difficulty": 2
     },
     {
       "id": "fsh_200",
-      "text": "What type of water is brackish water? (variant 200)",
+      "text": "Integrated fish farming may combine fish culture with",
       "options": [
-        "Fresh+salt mixture",
-        "Fresh only",
-        "Salt only",
-        "No mixture"
+        "Mining operations",
+        "Poultry, livestock or crop production for mutual benefit",
+        "Oil drilling",
+        "Road construction"
       ],
-      "correct_index": 0,
-      "explanation": "Fresh+salt.",
+      "correct_index": 1,
+      "explanation": "Integrated systems use waste from one enterprise as input for another, improving sustainability.",
       "difficulty": 1
     }
   ]

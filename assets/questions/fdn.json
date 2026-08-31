@@ -1,2606 +1,2606 @@
 {
   "course_id": "fdn",
-  "course_name": "Food & Nutrition",
+  "course_name": "Food and Nutrition",
   "version": "1.0.0",
   "questions": [
     {
       "id": "fdn_001",
-      "text": "How many classes of food are there? in total?",
+      "text": "How many classes of food are there in total?",
       "options": [
         "3",
-        "2",
         "4",
-        "6"
+        "6",
+        "8"
       ],
-      "correct_index": 3,
-      "explanation": "6 classes.",
+      "correct_index": 2,
+      "explanation": "There are 6 classes of food: carbohydrates, proteins, fats, vitamins, minerals, and water.",
       "difficulty": 1
     },
     {
       "id": "fdn_002",
-      "text": "What does carbohydrate primarily provide to the body?",
+      "text": "Which class of food is the body's main source of energy?",
       "options": [
-        "No energy",
-        "Only protection",
-        "Energy",
-        "Building"
+        "Proteins",
+        "Fats",
+        "Carbohydrates",
+        "Vitamins"
       ],
       "correct_index": 2,
-      "explanation": "Energy.",
+      "explanation": "Carbohydrates are the body's main source of energy.",
       "difficulty": 1
     },
     {
       "id": "fdn_003",
-      "text": "What is the primary function of protein in the body?",
+      "text": "Protein is mainly needed in the body for",
       "options": [
-        "Only protection",
-        "Body building",
-        "Energy only",
-        "No building"
+        "Providing energy",
+        "Body building and repair",
+        "Regulating body temperature",
+        "Providing roughage"
       ],
       "correct_index": 1,
-      "explanation": "Body building.",
+      "explanation": "Proteins are essential for body building and tissue repair.",
       "difficulty": 1
     },
     {
       "id": "fdn_004",
-      "text": "Scurvy is caused by the deficiency of which vitamin?",
+      "text": "Which vitamin deficiency causes scurvy?",
       "options": [
+        "Vitamin A",
+        "Vitamin B",
         "Vitamin C",
-        "A",
-        "D",
-        "K"
+        "Vitamin D"
       ],
-      "correct_index": 0,
-      "explanation": "Vit C.",
+      "correct_index": 2,
+      "explanation": "Scurvy is caused by a deficiency of vitamin C.",
       "difficulty": 1
     },
     {
       "id": "fdn_005",
-      "text": "Rickets is caused by the deficiency of which vitamin?",
+      "text": "Night blindness is caused by the deficiency of",
       "options": [
-        "C",
-        "A",
-        "K",
-        "Vitamin D"
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin K"
       ],
-      "correct_index": 3,
-      "explanation": "Vit D.",
+      "correct_index": 0,
+      "explanation": "Night blindness is caused by a deficiency of vitamin A.",
       "difficulty": 1
     },
     {
       "id": "fdn_006",
-      "text": "Night blindness is caused by the deficiency of which vitamin?",
+      "text": "Which of these is a source of roughage?",
       "options": [
-        "D",
-        "K",
-        "Vitamin A",
-        "C"
+        "Meat",
+        "Fish",
+        "Vegetables",
+        "Milk"
       ],
       "correct_index": 2,
-      "explanation": "Vit A.",
+      "explanation": "Vegetables are a good source of roughage (dietary fibre).",
       "difficulty": 1
     },
     {
       "id": "fdn_007",
-      "text": "What does a balanced diet contain? in terms of nutrients?",
+      "text": "Water is classified as a nutrient because it",
       "options": [
-        "Only two",
-        "All nutrients right proportion",
-        "Only one",
-        "No balance"
+        "Provides energy",
+        "Has calories",
+        "Is needed for body functions",
+        "Builds body tissue"
       ],
-      "correct_index": 1,
-      "explanation": "All right proportion.",
+      "correct_index": 2,
+      "explanation": "Water is essential for various body functions even though it provides no energy.",
       "difficulty": 1
     },
     {
       "id": "fdn_008",
-      "text": "What is used as the cooking medium in boiling?",
+      "text": "Fats and oils belong to the class of food known as",
       "options": [
-        "Water",
-        "Oil",
-        "No water",
-        "Only oil"
+        "Carbohydrates",
+        "Proteins",
+        "Lipids",
+        "Minerals"
       ],
-      "correct_index": 0,
-      "explanation": "Water.",
+      "correct_index": 2,
+      "explanation": "Fats and oils belong to the lipids class of food.",
       "difficulty": 1
     },
     {
       "id": "fdn_009",
-      "text": "What is used as the cooking medium in frying?",
+      "text": "Which of these is a simple carbohydrate?",
       "options": [
-        "Water",
-        "No oil",
-        "Only water",
-        "Oil"
+        "Rice",
+        "Yam",
+        "Glucose",
+        "Maize"
       ],
-      "correct_index": 3,
-      "explanation": "Oil.",
+      "correct_index": 2,
+      "explanation": "Glucose is a simple sugar (monosaccharide), a simple carbohydrate.",
       "difficulty": 1
     },
     {
       "id": "fdn_010",
-      "text": "What type of heat is used in baking?",
+      "text": "Complete the statement: \"Starch is an example of\" by choosing the correct option.",
       "options": [
-        "Frying",
-        "No dry heat",
-        "Dry heat oven",
-        "Boiling"
+        "Simple sugar",
+        "Complex carbohydrate",
+        "Protein",
+        "Fat"
       ],
-      "correct_index": 2,
-      "explanation": "Dry heat oven.",
+      "correct_index": 1,
+      "explanation": "Starch is a polysaccharide, which is a complex carbohydrate.",
       "difficulty": 1
     },
     {
       "id": "fdn_011",
-      "text": "What is colostrum in the context of infant nutrition?",
+      "text": "Which mineral is essential for strong bones and teeth?",
       "options": [
-        "Only water",
-        "First milk",
-        "Normal milk",
-        "No milk"
+        "Iron",
+        "Calcium",
+        "Sodium",
+        "Iodine"
       ],
       "correct_index": 1,
-      "explanation": "First milk.",
+      "explanation": "Calcium is essential for building and maintaining strong bones and teeth.",
       "difficulty": 1
     },
     {
       "id": "fdn_012",
-      "text": "How many calories does one gram of carbohydrate provide?",
+      "text": "Iron deficiency in the body leads to",
       "options": [
-        "4 calories",
-        "9 calories",
-        "0",
-        "2"
+        "Goitre",
+        "Rickets",
+        "Anaemia",
+        "Scurvy"
       ],
-      "correct_index": 0,
-      "explanation": "4 cal.",
-      "difficulty": 2
+      "correct_index": 2,
+      "explanation": "Iron deficiency leads to anaemia, a condition of low haemoglobin.",
+      "difficulty": 1
     },
     {
       "id": "fdn_013",
-      "text": "How many calories does one gram of fat provide?",
+      "text": "Which of these is a function of fat in the body?",
       "options": [
-        "4",
-        "0",
-        "2",
-        "9 calories"
+        "Body building only",
+        "Source of energy and insulation",
+        "Regulating body pH",
+        "Transporting oxygen"
       ],
-      "correct_index": 3,
-      "explanation": "9 cal.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Fats serve as a concentrated source of energy and provide body insulation.",
+      "difficulty": 1
     },
     {
       "id": "fdn_014",
-      "text": "What is the primary function of roughage in the diet?",
+      "text": "Complete the statement: \"A balanced diet contains\" by choosing the correct option.",
       "options": [
-        "Fat",
-        "No nutrient",
-        "Bowel movement",
-        "Protein"
+        "Only carbohydrates and proteins",
+        "All classes of food in correct proportions",
+        "Only fruits and vegetables",
+        "Excess fat and sugar"
       ],
-      "correct_index": 2,
-      "explanation": "Bowel.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "A balanced diet provides all classes of food in the right proportions.",
+      "difficulty": 1
     },
     {
       "id": "fdn_015",
-      "text": "In which part of the body does digestion begin?",
+      "text": "Goitre is caused by the deficiency of",
       "options": [
-        "Large",
-        "Mouth",
-        "Stomach",
-        "Small intestine"
+        "Iron",
+        "Calcium",
+        "Iodine",
+        "Zinc"
       ],
-      "correct_index": 1,
-      "explanation": "Mouth.",
+      "correct_index": 2,
+      "explanation": "Goitre is caused by iodine deficiency, leading to enlargement of the thyroid gland.",
       "difficulty": 1
     },
     {
       "id": "fdn_016",
-      "text": "What does NAFDAC regulate in Nigeria?",
+      "text": "Which of these is NOT a method of food preservation?",
       "options": [
-        "Food and drug",
-        "No control",
-        "Only oil",
-        "Only gas"
+        "Refrigeration",
+        "Boiling",
+        "Salting",
+        "Smoking"
       ],
-      "correct_index": 0,
-      "explanation": "Food drug.",
+      "correct_index": 1,
+      "explanation": "Boiling is a cooking method, not a preservation method.",
       "difficulty": 1
     },
     {
       "id": "fdn_017",
-      "text": "What does the acronym BMI stand for?",
+      "text": "Rickets is caused by the deficiency of",
       "options": [
-        "No index",
-        "Only body",
-        "Only mass",
-        "Body Mass Index"
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
       ],
       "correct_index": 3,
-      "explanation": "BMI.",
-      "difficulty": 2
+      "explanation": "Rickets is caused by a deficiency of vitamin D, leading to weak bones in children.",
+      "difficulty": 1
     },
     {
       "id": "fdn_018",
-      "text": "What is the normal range for Body Mass Index?",
+      "text": "Which food group does beans belong to?",
       "options": [
-        "10-15",
-        "No range",
-        "18.5-24.9",
-        "30-40"
+        "Carbohydrate group",
+        "Protein group",
+        "Vitamin group",
+        "Fat group"
       ],
-      "correct_index": 2,
-      "explanation": "18.5-24.9.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Beans belong to the protein food group as they are rich in plant protein.",
+      "difficulty": 1
     },
     {
       "id": "fdn_019",
-      "text": "What does the term food security mean?",
+      "text": "Vitamins are needed in the body mainly for",
       "options": [
-        "Only safe",
-        "Access sufficient safe nutritious",
-        "No access",
-        "Only sufficient"
+        "Providing energy",
+        "Body building",
+        "Regulating body processes",
+        "Insulation"
       ],
-      "correct_index": 1,
-      "explanation": "Access sufficient.",
-      "difficulty": 2
+      "correct_index": 2,
+      "explanation": "Vitamins mainly regulate body processes and protect against diseases.",
+      "difficulty": 1
     },
     {
       "id": "fdn_020",
-      "text": "What is the primary purpose of a kitchen?",
+      "text": "Which of these is a source of vitamin C?",
       "options": [
-        "Cooking",
-        "No cooking",
-        "Only eating",
-        "Only sleeping"
+        "Rice",
+        "Orange",
+        "Egg",
+        "Groundnut oil"
       ],
-      "correct_index": 0,
-      "explanation": "Cooking.",
+      "correct_index": 1,
+      "explanation": "Oranges are a rich source of vitamin C.",
       "difficulty": 1
     },
     {
       "id": "fdn_021",
-      "text": "How many classes of food are there? (variant 21)",
+      "text": "The unit of measuring energy in food is",
       "options": [
-        "3",
-        "2",
-        "4",
-        "6"
+        "Kilogram",
+        "Litre",
+        "Calorie",
+        "Metre"
       ],
-      "correct_index": 3,
-      "explanation": "6 classes.",
+      "correct_index": 2,
+      "explanation": "Calorie (or kilocalorie) is the unit used to measure energy in food.",
       "difficulty": 1
     },
     {
       "id": "fdn_022",
-      "text": "What does carbohydrate primarily provide to the body? (variant 22)",
+      "text": "Which of these is a Nigerian staple food?",
       "options": [
-        "No energy",
-        "Only protection",
-        "Energy",
-        "Building"
+        "Pasta",
+        "Yam",
+        "Bread",
+        "Rice cake"
       ],
-      "correct_index": 2,
-      "explanation": "Energy.",
+      "correct_index": 1,
+      "explanation": "Yam is a major staple food in Nigeria.",
       "difficulty": 1
     },
     {
       "id": "fdn_023",
-      "text": "What is the primary function of protein in the body? (variant 23)",
+      "text": "Boiling uses which medium to cook food?",
       "options": [
-        "Only protection",
-        "Body building",
-        "Energy only",
-        "No building"
+        "Dry heat only",
+        "Hot oil",
+        "Hot water",
+        "Hot air"
       ],
-      "correct_index": 1,
-      "explanation": "Body building.",
+      "correct_index": 2,
+      "explanation": "Boiling uses hot water as the cooking medium.",
       "difficulty": 1
     },
     {
       "id": "fdn_024",
-      "text": "Scurvy is caused by the deficiency of which vitamin? (variant 24)",
+      "text": "Which of these kitchen utensils is used for mixing ingredients?",
       "options": [
-        "Vitamin C",
-        "A",
-        "D",
-        "K"
+        "Colander",
+        "Spatula",
+        "Whisk",
+        "Ladle"
       ],
-      "correct_index": 0,
-      "explanation": "Vit C.",
+      "correct_index": 2,
+      "explanation": "A whisk is used for mixing, beating, and whipping ingredients.",
       "difficulty": 1
     },
     {
       "id": "fdn_025",
-      "text": "Rickets is caused by the deficiency of which vitamin? (variant 25)",
+      "text": "The food safety regulatory agency in Nigeria is",
       "options": [
-        "C",
-        "A",
-        "K",
-        "Vitamin D"
+        "EFCC",
+        "NAFDAC",
+        "CBN",
+        "NCC"
       ],
-      "correct_index": 3,
-      "explanation": "Vit D.",
+      "correct_index": 1,
+      "explanation": "NAFDAC (National Agency for Food and Drug Administration and Control) regulates food safety in Nigeria.",
       "difficulty": 1
     },
     {
       "id": "fdn_026",
-      "text": "Night blindness is caused by the deficiency of which vitamin? (variant 26)",
+      "text": "Roughage in food is important because it",
       "options": [
-        "D",
-        "K",
-        "Vitamin A",
-        "C"
+        "Provides energy",
+        "Aids digestion and prevents constipation",
+        "Builds muscles",
+        "Regulates body temperature"
       ],
-      "correct_index": 2,
-      "explanation": "Vit A.",
+      "correct_index": 1,
+      "explanation": "Roughage (dietary fibre) aids digestion and helps prevent constipation.",
       "difficulty": 1
     },
     {
       "id": "fdn_027",
-      "text": "What does a balanced diet contain? (variant 27)",
+      "text": "Which of these is a source of protein?",
       "options": [
-        "Only two",
-        "All nutrients right proportion",
-        "Only one",
-        "No balance"
+        "Cassava",
+        "Fish",
+        "Palm oil",
+        "Salt"
       ],
       "correct_index": 1,
-      "explanation": "All right proportion.",
+      "explanation": "Fish is an excellent source of animal protein.",
       "difficulty": 1
     },
     {
       "id": "fdn_028",
-      "text": "What is used as the cooking medium in boiling? (variant 28)",
+      "text": "Vitamin A is important for the maintenance of",
       "options": [
-        "Water",
-        "Oil",
-        "No water",
-        "Only oil"
+        "Strong bones",
+        "Good eyesight",
+        "Healthy teeth",
+        "Muscle growth"
       ],
-      "correct_index": 0,
-      "explanation": "Water.",
+      "correct_index": 1,
+      "explanation": "Vitamin A is essential for good vision and healthy eyes.",
       "difficulty": 1
     },
     {
       "id": "fdn_029",
-      "text": "What is used as the cooking medium in frying? (variant 29)",
+      "text": "Which of these is a function of water in the body?",
       "options": [
-        "Water",
-        "No oil",
-        "Only water",
-        "Oil"
+        "Provides energy",
+        "Insulates the body",
+        "Regulates body temperature",
+        "Builds bones"
       ],
-      "correct_index": 3,
-      "explanation": "Oil.",
+      "correct_index": 2,
+      "explanation": "Water helps regulate body temperature through sweating and evaporation.",
       "difficulty": 1
     },
     {
       "id": "fdn_030",
-      "text": "What type of heat is used in baking? (variant 30)",
+      "text": "Which cooking method uses hot oil to cook food?",
       "options": [
+        "Boiling",
+        "Steaming",
         "Frying",
-        "No dry heat",
-        "Dry heat oven",
-        "Boiling"
+        "Grilling"
       ],
       "correct_index": 2,
-      "explanation": "Dry heat oven.",
+      "explanation": "Frying uses hot oil as the cooking medium.",
       "difficulty": 1
     },
     {
       "id": "fdn_031",
-      "text": "What is colostrum in the context of infant nutrition? (variant 31)",
+      "text": "Carbohydrates are broken down in the body to form",
       "options": [
-        "Only water",
-        "First milk",
-        "Normal milk",
-        "No milk"
+        "Amino acids",
+        "Glucose",
+        "Fatty acids",
+        "Vitamins"
       ],
       "correct_index": 1,
-      "explanation": "First milk.",
-      "difficulty": 1
+      "explanation": "Carbohydrates are broken down into glucose, which provides energy.",
+      "difficulty": 2
     },
     {
       "id": "fdn_032",
-      "text": "How many calories does one gram of carbohydrate provide? (variant 32)",
+      "text": "Which of the following is a complete protein source?",
       "options": [
-        "4 calories",
-        "9 calories",
-        "0",
-        "2"
+        "Beans",
+        "Rice",
+        "Egg",
+        "Maize"
       ],
-      "correct_index": 0,
-      "explanation": "4 cal.",
+      "correct_index": 2,
+      "explanation": "Eggs contain all essential amino acids, making them a complete protein source.",
       "difficulty": 2
     },
     {
       "id": "fdn_033",
-      "text": "How many calories does one gram of fat provide? (variant 33)",
+      "text": "Beriberi is caused by the deficiency of",
       "options": [
-        "4",
-        "0",
-        "2",
-        "9 calories"
+        "Vitamin A",
+        "Vitamin B1 (Thiamine)",
+        "Vitamin C",
+        "Vitamin D"
       ],
-      "correct_index": 3,
-      "explanation": "9 cal.",
+      "correct_index": 1,
+      "explanation": "Beriberi is caused by a deficiency of thiamine (vitamin B1).",
       "difficulty": 2
     },
     {
       "id": "fdn_034",
-      "text": "What is the primary function of roughage in the diet? (variant 34)",
+      "text": "Which of these foods is rich in vitamin D?",
       "options": [
-        "Fat",
-        "No nutrient",
-        "Bowel movement",
-        "Protein"
+        "Milk",
+        "Carrot",
+        "Citrus fruits",
+        "Liver"
       ],
-      "correct_index": 2,
-      "explanation": "Bowel.",
+      "correct_index": 0,
+      "explanation": "Milk and cod liver oil are rich sources of vitamin D.",
       "difficulty": 2
     },
     {
       "id": "fdn_035",
-      "text": "In which part of the body does digestion begin? (variant 35)",
+      "text": "The process of cooking food in steam from boiling water is called",
       "options": [
-        "Large",
-        "Mouth",
-        "Stomach",
-        "Small intestine"
+        "Frying",
+        "Steaming",
+        "Roasting",
+        "Baking"
       ],
       "correct_index": 1,
-      "explanation": "Mouth.",
-      "difficulty": 1
+      "explanation": "Steaming involves cooking food using steam from boiling water.",
+      "difficulty": 2
     },
     {
       "id": "fdn_036",
-      "text": "What does NAFDAC regulate in Nigeria? (variant 36)",
+      "text": "Pellagra is caused by the deficiency of",
       "options": [
-        "Food and drug",
-        "No control",
-        "Only oil",
-        "Only gas"
+        "Vitamin A",
+        "Vitamin B3 (Niacin)",
+        "Vitamin C",
+        "Vitamin E"
       ],
-      "correct_index": 0,
-      "explanation": "Food drug.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Pellagra is caused by a deficiency of niacin (vitamin B3).",
+      "difficulty": 2
     },
     {
       "id": "fdn_037",
-      "text": "What does the acronym BMI stand for? (variant 37)",
+      "text": "Which of these is a function of calcium in the body?",
       "options": [
-        "No index",
-        "Only body",
-        "Only mass",
-        "Body Mass Index"
+        "Carries oxygen in blood",
+        "Builds strong bones and teeth",
+        "Prevents scurvy",
+        "Provides energy"
       ],
-      "correct_index": 3,
-      "explanation": "BMI.",
+      "correct_index": 1,
+      "explanation": "Calcium is needed for building and maintaining strong bones and teeth.",
       "difficulty": 2
     },
     {
       "id": "fdn_038",
-      "text": "What is the normal range for Body Mass Index? (variant 38)",
+      "text": "Complete the statement: \"Food preservation aims to\" by choosing the correct option.",
       "options": [
-        "10-15",
-        "No range",
-        "18.5-24.9",
-        "30-40"
+        "Increase the food's calorie content",
+        "Prevent food spoilage and extend shelf life",
+        "Make food taste better",
+        "Change the colour of food"
       ],
-      "correct_index": 2,
-      "explanation": "18.5-24.9.",
+      "correct_index": 1,
+      "explanation": "Food preservation prevents spoilage and extends the shelf life of food.",
       "difficulty": 2
     },
     {
       "id": "fdn_039",
-      "text": "What does the term food security mean? (variant 39)",
+      "text": "Which of these is a method of dry heat cooking?",
       "options": [
-        "Only safe",
-        "Access sufficient safe nutritious",
-        "No access",
-        "Only sufficient"
+        "Boiling",
+        "Steaming",
+        "Roasting",
+        "Stewing"
       ],
-      "correct_index": 1,
-      "explanation": "Access sufficient.",
+      "correct_index": 2,
+      "explanation": "Roasting is a dry heat cooking method that uses hot air in an oven.",
       "difficulty": 2
     },
     {
       "id": "fdn_040",
-      "text": "What is the primary purpose of a kitchen? (variant 40)",
+      "text": "Complete the statement: \"Kwashiorkor is a disease caused by\" by choosing the correct option.",
       "options": [
-        "Cooking",
-        "No cooking",
-        "Only eating",
-        "Only sleeping"
+        "Vitamin deficiency",
+        "Protein deficiency",
+        "Carbohydrate deficiency",
+        "Mineral excess"
       ],
-      "correct_index": 0,
-      "explanation": "Cooking.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Kwashiorkor is caused by severe protein deficiency, common in children.",
+      "difficulty": 2
     },
     {
       "id": "fdn_041",
-      "text": "How many classes of food are there? (variant 41)",
+      "text": "Which of these is NOT a Nigerian staple?",
       "options": [
-        "3",
-        "2",
-        "4",
-        "6"
+        "Garri",
+        "Fufu",
+        "Couscous",
+        "Amala"
       ],
-      "correct_index": 3,
-      "explanation": "6 classes.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Couscous is a West African North African dish, not a Nigerian staple.",
+      "difficulty": 2
     },
     {
       "id": "fdn_042",
-      "text": "What does carbohydrate primarily provide to the body? (variant 42)",
+      "text": "The recommended number of meals per day for a healthy adult is",
       "options": [
-        "No energy",
-        "Only protection",
-        "Energy",
-        "Building"
+        "1 to 2",
+        "3 main meals and snacks",
+        "5 to 6 heavy meals",
+        "Only 1 meal"
       ],
-      "correct_index": 2,
-      "explanation": "Energy.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A healthy adult should eat 3 main meals and healthy snacks in between.",
+      "difficulty": 2
     },
     {
       "id": "fdn_043",
-      "text": "What is the primary function of protein in the body? (variant 43)",
+      "text": "Which of these minerals helps in blood clotting?",
       "options": [
-        "Only protection",
-        "Body building",
-        "Energy only",
-        "No building"
+        "Sodium",
+        "Potassium",
+        "Calcium",
+        "Chlorine"
       ],
-      "correct_index": 1,
-      "explanation": "Body building.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Calcium plays an important role in blood clotting.",
+      "difficulty": 2
     },
     {
       "id": "fdn_044",
-      "text": "Scurvy is caused by the deficiency of which vitamin? (variant 44)",
+      "text": "Complete the statement: \"Marasmus is caused by\" by choosing the correct option.",
       "options": [
-        "Vitamin C",
-        "A",
-        "D",
-        "K"
+        "Excess protein intake",
+        "General food and calorie deficiency",
+        "Excess carbohydrate intake",
+        "Vitamin A excess"
       ],
-      "correct_index": 0,
-      "explanation": "Vit C.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Marasmus results from a general deficiency of calories and nutrients.",
+      "difficulty": 2
     },
     {
       "id": "fdn_045",
-      "text": "Rickets is caused by the deficiency of which vitamin? (variant 45)",
+      "text": "Which food group does palm oil belong to?",
       "options": [
-        "C",
-        "A",
-        "K",
-        "Vitamin D"
+        "Protein group",
+        "Carbohydrate group",
+        "Fats and oils group",
+        "Vitamin group"
       ],
-      "correct_index": 3,
-      "explanation": "Vit D.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Palm oil belongs to the fats and oils food group.",
+      "difficulty": 2
     },
     {
       "id": "fdn_046",
-      "text": "Night blindness is caused by the deficiency of which vitamin? (variant 46)",
+      "text": "Which of these is an advantage of steaming over boiling?",
       "options": [
-        "D",
-        "K",
-        "Vitamin A",
-        "C"
+        "It uses more water",
+        "It retains more nutrients",
+        "It takes longer",
+        "It uses oil"
       ],
-      "correct_index": 2,
-      "explanation": "Vit A.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Steaming retains more nutrients than boiling since food is not submerged in water.",
+      "difficulty": 2
     },
     {
       "id": "fdn_047",
-      "text": "What does a balanced diet contain? (variant 47)",
+      "text": "Complete the statement: \"A menu is defined as\" by choosing the correct option.",
       "options": [
-        "Only two",
-        "All nutrients right proportion",
-        "Only one",
-        "No balance"
+        "A list of ingredients",
+        "A list of food items available for a meal",
+        "A recipe book",
+        "A shopping list"
       ],
       "correct_index": 1,
-      "explanation": "All right proportion.",
-      "difficulty": 1
+      "explanation": "A menu is a list of food items available for selection in a meal.",
+      "difficulty": 2
     },
     {
       "id": "fdn_048",
-      "text": "What is used as the cooking medium in boiling? (variant 48)",
+      "text": "Complete the statement: \"Sodium is mainly obtained from\" by choosing the correct option.",
       "options": [
-        "Water",
-        "Oil",
-        "No water",
-        "Only oil"
+        "Sugar",
+        "Salt (sodium chloride)",
+        "Vitamin tablets",
+        "Fruits"
       ],
-      "correct_index": 0,
-      "explanation": "Water.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Sodium is mainly obtained from table salt (sodium chloride).",
+      "difficulty": 2
     },
     {
       "id": "fdn_049",
-      "text": "What is used as the cooking medium in frying? (variant 49)",
+      "text": "Which of these is a source of omega-3 fatty acids?",
       "options": [
-        "Water",
-        "No oil",
-        "Only water",
-        "Oil"
+        "Palm oil",
+        "Oily fish",
+        "Butter",
+        "Lard"
       ],
-      "correct_index": 3,
-      "explanation": "Oil.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Oily fish such as salmon and sardines are rich sources of omega-3 fatty acids.",
+      "difficulty": 2
     },
     {
       "id": "fdn_050",
-      "text": "What type of heat is used in baking? (variant 50)",
+      "text": "What does the abbreviation The BMR stand for in full?",
       "options": [
-        "Frying",
-        "No dry heat",
-        "Dry heat oven",
-        "Boiling"
+        "Basic Meal Rate",
+        "Basal Metabolic Rate",
+        "Body Mass Ratio",
+        "Basic Metabolism Reserve"
       ],
-      "correct_index": 2,
-      "explanation": "Dry heat oven.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "BMR stands for Basal Metabolic Rate, the minimum energy needed at rest.",
+      "difficulty": 2
     },
     {
       "id": "fdn_051",
-      "text": "What is colostrum in the context of infant nutrition? (variant 51)",
+      "text": "Which of these is a role of zinc in the body?",
       "options": [
-        "Only water",
-        "First milk",
-        "Normal milk",
-        "No milk"
+        "Carries oxygen",
+        "Wound healing and growth",
+        "Blood clotting",
+        "Nerve transmission"
       ],
       "correct_index": 1,
-      "explanation": "First milk.",
-      "difficulty": 1
+      "explanation": "Zinc plays a role in wound healing, growth, and immune function.",
+      "difficulty": 2
     },
     {
       "id": "fdn_052",
-      "text": "How many calories does one gram of carbohydrate provide? (variant 52)",
+      "text": "Smoking is a food preservation method that works by",
       "options": [
-        "4 calories",
-        "9 calories",
-        "0",
-        "2"
+        "Adding sugar to food",
+        "Exposing food to smoke which has antibacterial properties",
+        "Removing all moisture",
+        "Freezing the food"
       ],
-      "correct_index": 0,
-      "explanation": "4 cal.",
+      "correct_index": 1,
+      "explanation": "Smoking preserves food by exposing it to wood smoke, which has antimicrobial compounds.",
       "difficulty": 2
     },
     {
       "id": "fdn_053",
-      "text": "How many calories does one gram of fat provide? (variant 53)",
+      "text": "Which of these is a function of dietary fibre?",
       "options": [
-        "4",
-        "0",
-        "2",
-        "9 calories"
+        "Provides quick energy",
+        "Prevents constipation and promotes gut health",
+        "Builds muscle tissue",
+        "Regulates hormone production"
       ],
-      "correct_index": 3,
-      "explanation": "9 cal.",
+      "correct_index": 1,
+      "explanation": "Dietary fibre prevents constipation and promotes healthy digestion.",
       "difficulty": 2
     },
     {
       "id": "fdn_054",
-      "text": "What is the primary function of roughage in the diet? (variant 54)",
+      "text": "What does Pasteurization of milk involve in the context of fishing?",
       "options": [
-        "Fat",
-        "No nutrient",
-        "Bowel movement",
-        "Protein"
+        "Freezing milk at very low temperatures",
+        "Heating milk to kill harmful bacteria",
+        "Adding preservatives to milk",
+        "Drying milk completely"
       ],
-      "correct_index": 2,
-      "explanation": "Bowel.",
+      "correct_index": 1,
+      "explanation": "Pasteurization involves heating milk to a specific temperature to kill harmful bacteria.",
       "difficulty": 2
     },
     {
       "id": "fdn_055",
-      "text": "In which part of the body does digestion begin? (variant 55)",
+      "text": "Which kitchen safety rule involves handling sharp objects?",
       "options": [
-        "Large",
-        "Mouth",
-        "Stomach",
-        "Small intestine"
+        "Always taste food while cooking",
+        "Cut away from the body and keep knives sharp",
+        "Leave the gas on after cooking",
+        "Use wet hands near electrical appliances"
       ],
       "correct_index": 1,
-      "explanation": "Mouth.",
-      "difficulty": 1
+      "explanation": "When using sharp objects, always cut away from the body and keep knives sharp to prevent slipping.",
+      "difficulty": 2
     },
     {
       "id": "fdn_056",
-      "text": "What does NAFDAC regulate in Nigeria? (variant 56)",
+      "text": "Complete the statement: \"A recipe is best described as\" by choosing the correct option.",
       "options": [
-        "Food and drug",
-        "No control",
-        "Only oil",
-        "Only gas"
+        "A type of kitchen equipment",
+        "A set of instructions for preparing a dish",
+        "A menu for a restaurant",
+        "A type of food group"
       ],
-      "correct_index": 0,
-      "explanation": "Food drug.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A recipe is a set of step-by-step instructions for preparing a specific dish.",
+      "difficulty": 2
     },
     {
       "id": "fdn_057",
-      "text": "What does the acronym BMI stand for? (variant 57)",
+      "text": "Which of these foods is the richest source of vitamin C?",
       "options": [
-        "No index",
-        "Only body",
-        "Only mass",
-        "Body Mass Index"
+        "Apple",
+        "Guava",
+        "Banana",
+        "Pawpaw"
       ],
-      "correct_index": 3,
-      "explanation": "BMI.",
+      "correct_index": 1,
+      "explanation": "Guava is one of the richest sources of vitamin C among common fruits.",
       "difficulty": 2
     },
     {
       "id": "fdn_058",
-      "text": "What is the normal range for Body Mass Index? (variant 58)",
+      "text": "Which of these is a consequence of excessive salt intake?",
       "options": [
-        "10-15",
-        "No range",
-        "18.5-24.9",
-        "30-40"
+        "Vitamin deficiency",
+        "High blood pressure",
+        "Weight loss",
+        "Improved vision"
       ],
-      "correct_index": 2,
-      "explanation": "18.5-24.9.",
+      "correct_index": 1,
+      "explanation": "Excessive salt intake can lead to high blood pressure (hypertension).",
       "difficulty": 2
     },
     {
       "id": "fdn_059",
-      "text": "What does the term food security mean? (variant 59)",
+      "text": "The process of preserving food by removing moisture is known as",
       "options": [
-        "Only safe",
-        "Access sufficient safe nutritious",
-        "No access",
-        "Only sufficient"
+        "Irradiation",
+        "Dehydration",
+        "Fermentation",
+        "Pickling"
       ],
       "correct_index": 1,
-      "explanation": "Access sufficient.",
+      "explanation": "Dehydration preserves food by removing most of its moisture content.",
       "difficulty": 2
     },
     {
       "id": "fdn_060",
-      "text": "What is the primary purpose of a kitchen? (variant 60)",
+      "text": "Carbohydrate foods are classified into simple and",
       "options": [
-        "Cooking",
-        "No cooking",
-        "Only eating",
-        "Only sleeping"
+        "Complex carbohydrates",
+        "Proteins",
+        "Fats",
+        "Fibre"
       ],
       "correct_index": 0,
-      "explanation": "Cooking.",
-      "difficulty": 1
+      "explanation": "Carbohydrates are classified into simple (sugars) and complex (starches).",
+      "difficulty": 2
     },
     {
       "id": "fdn_061",
-      "text": "How many classes of food are there? (variant 61)",
+      "text": "Which of these is NOT a function of fat in the body?",
       "options": [
-        "3",
-        "2",
-        "4",
-        "6"
+        "Provides concentrated energy",
+        "Protects internal organs",
+        "Transports oxygen in blood",
+        "Insulates the body"
       ],
-      "correct_index": 3,
-      "explanation": "6 classes.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Transporting oxygen is the function of haemoglobin in red blood cells, not fat.",
+      "difficulty": 2
     },
     {
       "id": "fdn_062",
-      "text": "What does carbohydrate primarily provide to the body? (variant 62)",
+      "text": "Osteoporosis in adults is associated with the deficiency of",
       "options": [
-        "No energy",
-        "Only protection",
-        "Energy",
-        "Building"
+        "Iron",
+        "Calcium",
+        "Sodium",
+        "Iodine"
       ],
-      "correct_index": 2,
-      "explanation": "Energy.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Osteoporosis (brittle bones) is associated with calcium deficiency, especially in older adults.",
+      "difficulty": 2
     },
     {
       "id": "fdn_063",
-      "text": "What is the primary function of protein in the body? (variant 63)",
+      "text": "Which of these is a principle of food hygiene?",
       "options": [
-        "Only protection",
-        "Body building",
-        "Energy only",
-        "No building"
+        "Cook with dirty hands",
+        "Wash hands before and after handling food",
+        "Store raw and cooked food together",
+        "Use expired ingredients"
       ],
       "correct_index": 1,
-      "explanation": "Body building.",
-      "difficulty": 1
+      "explanation": "Washing hands before and after handling food is a key principle of food hygiene.",
+      "difficulty": 2
     },
     {
       "id": "fdn_064",
-      "text": "Scurvy is caused by the deficiency of which vitamin? (variant 64)",
+      "text": "Complete the statement: \"Sprouting of grains increases their\" by choosing the correct option.",
       "options": [
-        "Vitamin C",
-        "A",
-        "D",
-        "K"
+        "Calorie content",
+        "Vitamin content, especially B vitamins",
+        "Fat content",
+        "Sodium content"
       ],
-      "correct_index": 0,
-      "explanation": "Vit C.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Sprouting grains increases their vitamin content, particularly B vitamins.",
+      "difficulty": 2
     },
     {
       "id": "fdn_065",
-      "text": "Rickets is caused by the deficiency of which vitamin? (variant 65)",
+      "text": "Which of these is a function of iodine in the body?",
       "options": [
-        "C",
-        "A",
-        "K",
-        "Vitamin D"
+        "Builds bones",
+        "Prevents goitre by supporting thyroid function",
+        "Prevents scurvy",
+        "Carries oxygen"
       ],
-      "correct_index": 3,
-      "explanation": "Vit D.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Iodine is essential for thyroid gland function and prevents goitre.",
+      "difficulty": 2
     },
     {
       "id": "fdn_066",
-      "text": "Night blindness is caused by the deficiency of which vitamin? (variant 66)",
+      "text": "Which kitchen equipment is used for deep frying?",
       "options": [
-        "D",
-        "K",
-        "Vitamin A",
-        "C"
+        "Saucepan",
+        "Deep fryer or deep pot",
+        "Oven",
+        "Grill pan"
       ],
-      "correct_index": 2,
-      "explanation": "Vit A.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A deep fryer or deep pot is used for deep frying food in hot oil.",
+      "difficulty": 2
     },
     {
       "id": "fdn_067",
-      "text": "What does a balanced diet contain? (variant 67)",
+      "text": "The temperature danger zone for food is between",
       "options": [
-        "Only two",
-        "All nutrients right proportion",
-        "Only one",
-        "No balance"
+        "0C to 5C",
+        "5C to 63C",
+        "63C to 100C",
+        "-18C to 0C"
       ],
       "correct_index": 1,
-      "explanation": "All right proportion.",
-      "difficulty": 1
+      "explanation": "The temperature danger zone is between 5C and 63C where bacteria multiply rapidly.",
+      "difficulty": 2
     },
     {
       "id": "fdn_068",
-      "text": "What is used as the cooking medium in boiling? (variant 68)",
+      "text": "An immune-boosting nutrient found abundantly in citrus fruits is",
       "options": [
-        "Water",
-        "Oil",
-        "No water",
-        "Only oil"
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin K",
+        "Vitamin B12"
       ],
-      "correct_index": 0,
-      "explanation": "Water.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Vitamin C, found abundantly in citrus fruits, boosts the immune system.",
+      "difficulty": 2
     },
     {
       "id": "fdn_069",
-      "text": "What is used as the cooking medium in frying? (variant 69)",
+      "text": "Which of these is a factor affecting food choices?",
       "options": [
-        "Water",
-        "No oil",
-        "Only water",
-        "Oil"
+        "The colour of the kitchen",
+        "Culture and religion",
+        "The type of flooring",
+        "The weather in another country"
       ],
-      "correct_index": 3,
-      "explanation": "Oil.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Culture, religion, economics, and personal preferences are key factors affecting food choices.",
+      "difficulty": 2
     },
     {
       "id": "fdn_070",
-      "text": "What type of heat is used in baking? (variant 70)",
+      "text": "Complete the statement: \"A table napkin is placed\" by choosing the correct option.",
       "options": [
-        "Frying",
-        "No dry heat",
-        "Dry heat oven",
-        "Boiling"
+        "On top of the plate",
+        "On the lap of the diner",
+        "Under the table",
+        "In the centre of the table only"
       ],
-      "correct_index": 2,
-      "explanation": "Dry heat oven.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A table napkin is placed on the lap of the diner during a meal.",
+      "difficulty": 2
     },
     {
       "id": "fdn_071",
-      "text": "What is colostrum in the context of infant nutrition? (variant 71)",
+      "text": "Which of the following correctly describes an amino acid?",
       "options": [
-        "Only water",
-        "First milk",
-        "Normal milk",
-        "No milk"
+        "A building block of carbohydrate",
+        "A building block of protein",
+        "A type of mineral",
+        "A form of dietary fibre"
       ],
       "correct_index": 1,
-      "explanation": "First milk.",
-      "difficulty": 1
+      "explanation": "Amino acids are the building blocks of proteins.",
+      "difficulty": 3
     },
     {
       "id": "fdn_072",
-      "text": "How many calories does one gram of carbohydrate provide? (variant 72)",
+      "text": "Essential amino acids are called so because",
       "options": [
-        "4 calories",
-        "9 calories",
-        "0",
-        "2"
+        "They are found only in eggs",
+        "The body cannot make them and must get them from food",
+        "They are the most important nutrients",
+        "They dissolve in water"
       ],
-      "correct_index": 0,
-      "explanation": "4 cal.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Essential amino acids cannot be synthesised by the body and must come from the diet.",
+      "difficulty": 3
     },
     {
       "id": "fdn_073",
-      "text": "How many calories does one gram of fat provide? (variant 73)",
+      "text": "Which of these is a water-soluble vitamin?",
       "options": [
-        "4",
-        "0",
-        "2",
-        "9 calories"
+        "Vitamin A",
+        "Vitamin D",
+        "Vitamin C",
+        "Vitamin K"
       ],
-      "correct_index": 3,
-      "explanation": "9 cal.",
-      "difficulty": 2
+      "correct_index": 2,
+      "explanation": "Vitamin C is a water-soluble vitamin, unlike vitamins A, D, and K which are fat-soluble.",
+      "difficulty": 3
     },
     {
       "id": "fdn_074",
-      "text": "What is the primary function of roughage in the diet? (variant 74)",
+      "text": "Fat-soluble vitamins are stored mainly in the",
       "options": [
-        "Fat",
-        "No nutrient",
-        "Bowel movement",
-        "Protein"
+        "Kidneys",
+        "Liver",
+        "Lungs",
+        "Stomach"
       ],
-      "correct_index": 2,
-      "explanation": "Bowel.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Fat-soluble vitamins (A, D, E, K) are stored mainly in the liver.",
+      "difficulty": 3
     },
     {
       "id": "fdn_075",
-      "text": "In which part of the body does digestion begin? (variant 75)",
+      "text": "Which process converts starch into sugar during bread making?",
       "options": [
-        "Large",
-        "Mouth",
-        "Stomach",
-        "Small intestine"
+        "Fermentation",
+        "Osmosis",
+        "Evaporation",
+        "Distillation"
       ],
-      "correct_index": 1,
-      "explanation": "Mouth.",
-      "difficulty": 1
+      "correct_index": 0,
+      "explanation": "Fermentation by yeast converts starch and sugar into alcohol and carbon dioxide.",
+      "difficulty": 3
     },
     {
       "id": "fdn_076",
-      "text": "What does NAFDAC regulate in Nigeria? (variant 76)",
+      "text": "The Maillard reaction in cooking is responsible for",
       "options": [
-        "Food and drug",
-        "No control",
-        "Only oil",
-        "Only gas"
+        "Making food mushy",
+        "Browning and flavour development on cooked surfaces",
+        "Cooling food quickly",
+        "Making food transparent"
       ],
-      "correct_index": 0,
-      "explanation": "Food drug.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "The Maillard reaction causes browning and complex flavour development when proteins and sugars react under heat.",
+      "difficulty": 3
     },
     {
       "id": "fdn_077",
-      "text": "What does the acronym BMI stand for? (variant 77)",
+      "text": "Which of these foods has the highest protein content per 100g?",
       "options": [
-        "No index",
-        "Only body",
-        "Only mass",
-        "Body Mass Index"
+        "Rice",
+        "Lean beef",
+        "Cassava",
+        "Palm oil"
       ],
-      "correct_index": 3,
-      "explanation": "BMI.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Lean beef contains approximately 26g of protein per 100g, which is very high.",
+      "difficulty": 3
     },
     {
       "id": "fdn_078",
-      "text": "What is the normal range for Body Mass Index? (variant 78)",
+      "text": "A foodborne illness caused by Salmonella is most commonly associated with",
       "options": [
-        "10-15",
-        "No range",
-        "18.5-24.9",
-        "30-40"
+        "Undercooked eggs and poultry",
+        "Fresh fruits",
+        "Clean drinking water",
+        "Well-cooked vegetables"
       ],
-      "correct_index": 2,
-      "explanation": "18.5-24.9.",
-      "difficulty": 2
+      "correct_index": 0,
+      "explanation": "Salmonella infection is commonly associated with undercooked eggs and poultry products.",
+      "difficulty": 3
     },
     {
       "id": "fdn_079",
-      "text": "What does the term food security mean? (variant 79)",
+      "text": "The process by which the body uses nutrients for growth and maintenance is called",
       "options": [
-        "Only safe",
-        "Access sufficient safe nutritious",
-        "No access",
-        "Only sufficient"
+        "Digestion",
+        "Metabolism",
+        "Absorption",
+        "Assimilation"
       ],
       "correct_index": 1,
-      "explanation": "Access sufficient.",
-      "difficulty": 2
+      "explanation": "Metabolism is the sum of all chemical processes by which the body uses nutrients.",
+      "difficulty": 3
     },
     {
       "id": "fdn_080",
-      "text": "What is the primary purpose of a kitchen? (variant 80)",
+      "text": "Which of the following is a disadvantage of canning as a preservation method?",
       "options": [
-        "Cooking",
-        "No cooking",
-        "Only eating",
-        "Only sleeping"
+        "It is too expensive for all foods",
+        "It may alter the texture and nutrient content of food",
+        "It cannot preserve fruits",
+        "It requires constant refrigeration"
       ],
-      "correct_index": 0,
-      "explanation": "Cooking.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Canning can alter food texture and reduce heat-sensitive nutrient content.",
+      "difficulty": 3
     },
     {
       "id": "fdn_081",
-      "text": "How many classes of food are there? (variant 81)",
+      "text": "Which of these is a characteristic of a well-planned menu?",
       "options": [
-        "3",
-        "2",
-        "4",
-        "6"
+        "It includes only dessert items",
+        "It has variety and nutritional balance",
+        "It repeats the same dish daily",
+        "It excludes all fats"
       ],
-      "correct_index": 3,
-      "explanation": "6 classes.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "A well-planned menu offers variety and ensures nutritional balance.",
+      "difficulty": 3
     },
     {
       "id": "fdn_082",
-      "text": "What does carbohydrate primarily provide to the body? (variant 82)",
+      "text": "Fermentation in food production is carried out by",
       "options": [
-        "No energy",
-        "Only protection",
-        "Energy",
-        "Building"
+        "Viruses",
+        "Beneficial microorganisms such as yeast and bacteria",
+        "Insects",
+        "Fungi only"
       ],
-      "correct_index": 2,
-      "explanation": "Energy.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Fermentation is carried out by beneficial microorganisms like yeast and bacteria.",
+      "difficulty": 3
     },
     {
       "id": "fdn_083",
-      "text": "What is the primary function of protein in the body? (variant 83)",
+      "text": "Iodized salt was introduced primarily to prevent",
       "options": [
-        "Only protection",
-        "Body building",
-        "Energy only",
-        "No building"
+        "Scurvy",
+        "Goitre and iodine deficiency disorders",
+        "Rickets",
+        "Anaemia"
       ],
       "correct_index": 1,
-      "explanation": "Body building.",
-      "difficulty": 1
+      "explanation": "Iodized salt was introduced to prevent goitre and other iodine deficiency disorders.",
+      "difficulty": 3
     },
     {
       "id": "fdn_084",
-      "text": "Scurvy is caused by the deficiency of which vitamin? (variant 84)",
+      "text": "Which of these best describes bioavailability of a nutrient?",
       "options": [
-        "Vitamin C",
-        "A",
-        "D",
-        "K"
+        "The amount of nutrient in the food",
+        "The proportion of nutrient absorbed and used by the body",
+        "The weight of the food",
+        "The cooking time of the food"
       ],
-      "correct_index": 0,
-      "explanation": "Vit C.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Bioavailability refers to the proportion of a nutrient that is absorbed and utilised by the body.",
+      "difficulty": 3
     },
     {
       "id": "fdn_085",
-      "text": "Rickets is caused by the deficiency of which vitamin? (variant 85)",
+      "text": "Complete the statement: \"Rancidity of fats occurs when\" by choosing the correct option.",
       "options": [
-        "C",
-        "A",
-        "K",
-        "Vitamin D"
+        "Fats are heated to boiling point",
+        "Fats react with oxygen and undergo oxidation",
+        "Fats are mixed with sugar",
+        "Fats are refrigerated"
       ],
-      "correct_index": 3,
-      "explanation": "Vit D.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Rancidity occurs when fats and oils undergo oxidation, producing unpleasant odours and flavours.",
+      "difficulty": 3
     },
     {
       "id": "fdn_086",
-      "text": "Night blindness is caused by the deficiency of which vitamin? (variant 86)",
+      "text": "Which of these is a role of phosphorus in the body?",
       "options": [
-        "D",
-        "K",
-        "Vitamin A",
-        "C"
+        "Prevents goitre",
+        "Works with calcium for bone formation",
+        "Prevents scurvy",
+        "Carries oxygen"
       ],
-      "correct_index": 2,
-      "explanation": "Vit A.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Phosphorus works alongside calcium in bone and teeth formation.",
+      "difficulty": 3
     },
     {
       "id": "fdn_087",
-      "text": "What does a balanced diet contain? (variant 87)",
+      "text": "A child who is both malnourished and has oedema most likely suffers from",
       "options": [
-        "Only two",
-        "All nutrients right proportion",
-        "Only one",
-        "No balance"
+        "Marasmus",
+        "Kwashiorkor",
+        "Rickets",
+        "Scurvy"
       ],
       "correct_index": 1,
-      "explanation": "All right proportion.",
-      "difficulty": 1
+      "explanation": "Kwashiorkor is characterised by protein deficiency and often presents with oedema (swelling).",
+      "difficulty": 3
     },
     {
       "id": "fdn_088",
-      "text": "What is used as the cooking medium in boiling? (variant 88)",
+      "text": "Which of these is a food additive used as a preservative?",
       "options": [
-        "Water",
-        "Oil",
-        "No water",
-        "Only oil"
+        "Sunset yellow",
+        "Sodium benzoate",
+        "MSG",
+        "Aspartame"
       ],
-      "correct_index": 0,
-      "explanation": "Water.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Sodium benzoate is a common food preservative used to prevent microbial growth.",
+      "difficulty": 3
     },
     {
       "id": "fdn_089",
-      "text": "What is used as the cooking medium in frying? (variant 89)",
+      "text": "The process of blanching vegetables involves",
       "options": [
-        "Water",
-        "No oil",
-        "Only water",
-        "Oil"
+        "Drying them in the sun",
+        "Briefly boiling then plunging into cold water",
+        "Deep frying them",
+        "Freezing them raw"
       ],
-      "correct_index": 3,
-      "explanation": "Oil.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Blanching involves briefly boiling vegetables and then plunging them into ice water to stop cooking.",
+      "difficulty": 3
     },
     {
       "id": "fdn_090",
-      "text": "What type of heat is used in baking? (variant 90)",
+      "text": "Which of these is an advantage of food irradiation?",
       "options": [
-        "Frying",
-        "No dry heat",
-        "Dry heat oven",
-        "Boiling"
+        "It makes food radioactive",
+        "It kills harmful bacteria and extends shelf life",
+        "It increases the calorie content",
+        "It changes the food's taste completely"
       ],
-      "correct_index": 2,
-      "explanation": "Dry heat oven.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Food irradiation kills harmful microorganisms and extends shelf life without making food radioactive.",
+      "difficulty": 3
     },
     {
       "id": "fdn_091",
-      "text": "What is colostrum in the context of infant nutrition? (variant 91)",
+      "text": "Which vitamin is synthesised in the skin upon exposure to sunlight?",
       "options": [
-        "Only water",
-        "First milk",
-        "Normal milk",
-        "No milk"
-      ],
-      "correct_index": 1,
-      "explanation": "First milk.",
-      "difficulty": 1
-    },
-    {
-      "id": "fdn_092",
-      "text": "How many calories does one gram of carbohydrate provide? (variant 92)",
-      "options": [
-        "4 calories",
-        "9 calories",
-        "0",
-        "2"
-      ],
-      "correct_index": 0,
-      "explanation": "4 cal.",
-      "difficulty": 2
-    },
-    {
-      "id": "fdn_093",
-      "text": "How many calories does one gram of fat provide? (variant 93)",
-      "options": [
-        "4",
-        "0",
-        "2",
-        "9 calories"
-      ],
-      "correct_index": 3,
-      "explanation": "9 cal.",
-      "difficulty": 2
-    },
-    {
-      "id": "fdn_094",
-      "text": "What is the primary function of roughage in the diet? (variant 94)",
-      "options": [
-        "Fat",
-        "No nutrient",
-        "Bowel movement",
-        "Protein"
-      ],
-      "correct_index": 2,
-      "explanation": "Bowel.",
-      "difficulty": 2
-    },
-    {
-      "id": "fdn_095",
-      "text": "In which part of the body does digestion begin? (variant 95)",
-      "options": [
-        "Large",
-        "Mouth",
-        "Stomach",
-        "Small intestine"
-      ],
-      "correct_index": 1,
-      "explanation": "Mouth.",
-      "difficulty": 1
-    },
-    {
-      "id": "fdn_096",
-      "text": "What does NAFDAC regulate in Nigeria? (variant 96)",
-      "options": [
-        "Food and drug",
-        "No control",
-        "Only oil",
-        "Only gas"
-      ],
-      "correct_index": 0,
-      "explanation": "Food drug.",
-      "difficulty": 1
-    },
-    {
-      "id": "fdn_097",
-      "text": "What does the acronym BMI stand for? (variant 97)",
-      "options": [
-        "No index",
-        "Only body",
-        "Only mass",
-        "Body Mass Index"
-      ],
-      "correct_index": 3,
-      "explanation": "BMI.",
-      "difficulty": 2
-    },
-    {
-      "id": "fdn_098",
-      "text": "What is the normal range for Body Mass Index? (variant 98)",
-      "options": [
-        "10-15",
-        "No range",
-        "18.5-24.9",
-        "30-40"
-      ],
-      "correct_index": 2,
-      "explanation": "18.5-24.9.",
-      "difficulty": 2
-    },
-    {
-      "id": "fdn_099",
-      "text": "What does the term food security mean? (variant 99)",
-      "options": [
-        "Only safe",
-        "Access sufficient safe nutritious",
-        "No access",
-        "Only sufficient"
-      ],
-      "correct_index": 1,
-      "explanation": "Access sufficient.",
-      "difficulty": 2
-    },
-    {
-      "id": "fdn_100",
-      "text": "What is the primary purpose of a kitchen? (variant 100)",
-      "options": [
-        "Cooking",
-        "No cooking",
-        "Only eating",
-        "Only sleeping"
-      ],
-      "correct_index": 0,
-      "explanation": "Cooking.",
-      "difficulty": 1
-    },
-    {
-      "id": "fdn_101",
-      "text": "How many classes of food are there? (variant 101)",
-      "options": [
-        "3",
-        "2",
-        "4",
-        "6"
-      ],
-      "correct_index": 3,
-      "explanation": "6 classes.",
-      "difficulty": 1
-    },
-    {
-      "id": "fdn_102",
-      "text": "What does carbohydrate primarily provide to the body? (variant 102)",
-      "options": [
-        "No energy",
-        "Only protection",
-        "Energy",
-        "Building"
-      ],
-      "correct_index": 2,
-      "explanation": "Energy.",
-      "difficulty": 1
-    },
-    {
-      "id": "fdn_103",
-      "text": "What is the primary function of protein in the body? (variant 103)",
-      "options": [
-        "Only protection",
-        "Body building",
-        "Energy only",
-        "No building"
-      ],
-      "correct_index": 1,
-      "explanation": "Body building.",
-      "difficulty": 1
-    },
-    {
-      "id": "fdn_104",
-      "text": "Scurvy is caused by the deficiency of which vitamin? (variant 104)",
-      "options": [
+        "Vitamin A",
+        "Vitamin B",
         "Vitamin C",
-        "A",
-        "D",
-        "K"
-      ],
-      "correct_index": 0,
-      "explanation": "Vit C.",
-      "difficulty": 1
-    },
-    {
-      "id": "fdn_105",
-      "text": "Rickets is caused by the deficiency of which vitamin? (variant 105)",
-      "options": [
-        "C",
-        "A",
-        "K",
         "Vitamin D"
       ],
       "correct_index": 3,
-      "explanation": "Vit D.",
+      "explanation": "Vitamin D is synthesised in the skin when exposed to ultraviolet rays from sunlight.",
+      "difficulty": 3
+    },
+    {
+      "id": "fdn_092",
+      "text": "The recommended daily allowance (RDA) of protein for a healthy adult is approximately",
+      "options": [
+        "0.5g per kg body weight",
+        "0.8 to 1g per kg body weight",
+        "5g per kg body weight",
+        "10g per kg body weight"
+      ],
+      "correct_index": 1,
+      "explanation": "The RDA for protein for healthy adults is about 0.8 to 1g per kilogram of body weight.",
+      "difficulty": 3
+    },
+    {
+      "id": "fdn_093",
+      "text": "Which of these is a symptom of vitamin A deficiency other than night blindness?",
+      "options": [
+        "Dry, rough skin (follicular hyperkeratosis)",
+        "Bleeding gums",
+        "Swollen joints",
+        "Hair loss only"
+      ],
+      "correct_index": 0,
+      "explanation": "Vitamin A deficiency causes dry, rough skin known as follicular hyperkeratosis.",
+      "difficulty": 3
+    },
+    {
+      "id": "fdn_094",
+      "text": "Cross-contamination in the kitchen occurs when",
+      "options": [
+        "Food is cooked at the right temperature",
+        "Pathogens transfer from raw food to cooked food",
+        "Food is stored in clean containers",
+        "Fresh vegetables are washed"
+      ],
+      "correct_index": 1,
+      "explanation": "Cross-contamination happens when harmful organisms transfer from raw to ready-to-eat foods.",
+      "difficulty": 3
+    },
+    {
+      "id": "fdn_095",
+      "text": "Which of these is a source of preformed vitamin A (retinol)?",
+      "options": [
+        "Carrot",
+        "Liver",
+        "Spinach",
+        "Mango"
+      ],
+      "correct_index": 1,
+      "explanation": "Liver is a rich source of preformed vitamin A (retinol), while plants provide beta-carotene.",
+      "difficulty": 3
+    },
+    {
+      "id": "fdn_096",
+      "text": "Gelatinisation of starch occurs when",
+      "options": [
+        "Starch is mixed with cold water",
+        "Starch granules swell and burst in hot water, thickening the mixture",
+        "Starch is dried completely",
+        "Starch is frozen"
+      ],
+      "correct_index": 1,
+      "explanation": "Gelatinisation occurs when starch granules absorb hot water, swell, and thicken the mixture.",
+      "difficulty": 3
+    },
+    {
+      "id": "fdn_097",
+      "text": "Which of these is a characteristic of a good dietary plan for a pregnant woman?",
+      "options": [
+        "Restrict all fat intake",
+        "Increase intake of iron, folic acid, and calcium",
+        "Eat only raw foods",
+        "Skip breakfast daily"
+      ],
+      "correct_index": 1,
+      "explanation": "Pregnant women need increased iron, folic acid, and calcium for healthy foetal development.",
+      "difficulty": 3
+    },
+    {
+      "id": "fdn_098",
+      "text": "Which of these fats is considered the healthiest for cooking?",
+      "options": [
+        "Margarine with trans fats",
+        "Olive oil",
+        "Hydrogenated vegetable oil",
+        "Animal lard"
+      ],
+      "correct_index": 1,
+      "explanation": "Olive oil is rich in monounsaturated fats and is considered one of the healthiest cooking oils.",
+      "difficulty": 3
+    },
+    {
+      "id": "fdn_099",
+      "text": "The glycemic index (GI) of a food measures",
+      "options": [
+        "How much protein it contains",
+        "How quickly it raises blood sugar levels",
+        "How much fat it contains",
+        "How many vitamins it has"
+      ],
+      "correct_index": 1,
+      "explanation": "The glycemic index measures how quickly a carbohydrate-containing food raises blood glucose levels.",
+      "difficulty": 3
+    },
+    {
+      "id": "fdn_100",
+      "text": "Which of these is a principle of menu planning for a school canteen?",
+      "options": [
+        "Serve only fried food",
+        "Provide nutritious, affordable, and child-friendly meals",
+        "Use only imported ingredients",
+        "Serve meals at midnight"
+      ],
+      "correct_index": 1,
+      "explanation": "School canteen menus should be nutritious, affordable, and appealing to children.",
+      "difficulty": 3
+    },
+    {
+      "id": "fdn_101",
+      "text": "Which class of food provides the MOST energy per gram?",
+      "options": [
+        "Carbohydrates",
+        "Proteins",
+        "Fats",
+        "Vitamins"
+      ],
+      "correct_index": 2,
+      "explanation": "Fats provide 9 kcal per gram, more than carbohydrates or proteins which provide 4 kcal each.",
+      "difficulty": 3
+    },
+    {
+      "id": "fdn_102",
+      "text": "The process of tempering chocolate involves",
+      "options": [
+        "Melting it completely and letting it set",
+        "Carefully heating and cooling to form stable cocoa butter crystals",
+        "Boiling it in water",
+        "Mixing it with milk only"
+      ],
+      "correct_index": 1,
+      "explanation": "Tempering chocolate involves controlled heating and cooling to form stable crystals for a smooth finish.",
+      "difficulty": 3
+    },
+    {
+      "id": "fdn_103",
+      "text": "Which of these is a characteristic of vitamin E?",
+      "options": [
+        "Water soluble",
+        "Acts as an antioxidant protecting cell membranes",
+        "Prevents night blindness",
+        "Needed for blood clotting"
+      ],
+      "correct_index": 1,
+      "explanation": "Vitamin E is a fat-soluble antioxidant that protects cell membranes from oxidative damage.",
+      "difficulty": 3
+    },
+    {
+      "id": "fdn_104",
+      "text": "What does the term Mise en place in cooking refer to in animal husbandry?",
+      "options": [
+        "Cleaning up after cooking",
+        "Preparing and organising all ingredients before cooking",
+        "Setting the dining table",
+        "Eating a meal"
+      ],
+      "correct_index": 1,
+      "explanation": "Mise en place means having everything in place - preparing and organising all ingredients before cooking.",
+      "difficulty": 3
+    },
+    {
+      "id": "fdn_105",
+      "text": "Which of these is a source of complex carbohydrates?",
+      "options": [
+        "Table sugar",
+        "Honey",
+        "Whole wheat",
+        "Soft drinks"
+      ],
+      "correct_index": 2,
+      "explanation": "Whole wheat is a good source of complex carbohydrates (starch and fibre).",
       "difficulty": 1
     },
     {
       "id": "fdn_106",
-      "text": "Night blindness is caused by the deficiency of which vitamin? (variant 106)",
+      "text": "Vitamin K is important in the body for",
       "options": [
-        "D",
-        "K",
-        "Vitamin A",
-        "C"
+        "Good eyesight",
+        "Blood clotting",
+        "Strong bones only",
+        "Energy production"
       ],
-      "correct_index": 2,
-      "explanation": "Vit A.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Vitamin K is essential for proper blood clotting.",
+      "difficulty": 2
     },
     {
       "id": "fdn_107",
-      "text": "What does a balanced diet contain? (variant 107)",
+      "text": "Which of these is a function of the liver in relation to nutrition?",
       "options": [
-        "Only two",
-        "All nutrients right proportion",
-        "Only one",
-        "No balance"
+        "It absorbs vitamins directly from food",
+        "It stores vitamins and regulates blood sugar",
+        "It grinds food like the teeth",
+        "It produces hydrochloric acid"
       ],
       "correct_index": 1,
-      "explanation": "All right proportion.",
-      "difficulty": 1
+      "explanation": "The liver stores vitamins, detoxifies harmful substances, and helps regulate blood sugar.",
+      "difficulty": 3
     },
     {
       "id": "fdn_108",
-      "text": "What is used as the cooking medium in boiling? (variant 108)",
+      "text": "Which of these is an example of a legume?",
       "options": [
-        "Water",
-        "Oil",
-        "No water",
-        "Only oil"
+        "Maize",
+        "Cowpea (black-eyed pea)",
+        "Yam",
+        "Cassava"
       ],
-      "correct_index": 0,
-      "explanation": "Water.",
+      "correct_index": 1,
+      "explanation": "Cowpea is a legume, part of the pulse family which includes beans and lentils.",
       "difficulty": 1
     },
     {
       "id": "fdn_109",
-      "text": "What is used as the cooking medium in frying? (variant 109)",
+      "text": "The primary role of carbohydrates in the diet is to",
       "options": [
-        "Water",
-        "No oil",
-        "Only water",
-        "Oil"
+        "Build new muscle tissue",
+        "Supply the body with energy",
+        "Regulate hormone production",
+        "Absorb fat-soluble vitamins"
       ],
-      "correct_index": 3,
-      "explanation": "Oil.",
+      "correct_index": 1,
+      "explanation": "Carbohydrates are the body's primary and most efficient source of energy.",
       "difficulty": 1
     },
     {
       "id": "fdn_110",
-      "text": "What type of heat is used in baking? (variant 110)",
+      "text": "Which of these kitchen tools is used for measuring small amounts of liquid?",
       "options": [
-        "Frying",
-        "No dry heat",
-        "Dry heat oven",
-        "Boiling"
+        "Measuring cup",
+        "Measuring spoon",
+        "Mixing bowl",
+        "Colander"
       ],
-      "correct_index": 2,
-      "explanation": "Dry heat oven.",
+      "correct_index": 1,
+      "explanation": "Measuring spoons are used to measure small quantities of liquid or dry ingredients.",
       "difficulty": 1
     },
     {
       "id": "fdn_111",
-      "text": "What is colostrum in the context of infant nutrition? (variant 111)",
+      "text": "Which of these is a method of moist heat cooking?",
       "options": [
-        "Only water",
-        "First milk",
-        "Normal milk",
-        "No milk"
+        "Grilling",
+        "Baking",
+        "Stewing",
+        "Roasting"
       ],
-      "correct_index": 1,
-      "explanation": "First milk.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Stewing is a moist heat cooking method where food is cooked slowly in liquid.",
+      "difficulty": 2
     },
     {
       "id": "fdn_112",
-      "text": "How many calories does one gram of carbohydrate provide? (variant 112)",
+      "text": "Complete the statement: \"Scurvy is characterised by\" by choosing the correct option.",
       "options": [
-        "4 calories",
-        "9 calories",
-        "0",
-        "2"
+        "Brittle bones",
+        "Bleeding gums and poor wound healing",
+        "Enlarged thyroid gland",
+        "Muscle cramps"
       ],
-      "correct_index": 0,
-      "explanation": "4 cal.",
+      "correct_index": 1,
+      "explanation": "Scurvy symptoms include bleeding gums, bruising, and poor wound healing.",
       "difficulty": 2
     },
     {
       "id": "fdn_113",
-      "text": "How many calories does one gram of fat provide? (variant 113)",
+      "text": "The process of digestion begins in the",
       "options": [
-        "4",
-        "0",
-        "2",
-        "9 calories"
+        "Stomach",
+        "Small intestine",
+        "Mouth",
+        "Oesophagus"
       ],
-      "correct_index": 3,
-      "explanation": "9 cal.",
-      "difficulty": 2
+      "correct_index": 2,
+      "explanation": "Digestion begins in the mouth where mechanical and chemical digestion starts.",
+      "difficulty": 1
     },
     {
       "id": "fdn_114",
-      "text": "What is the primary function of roughage in the diet? (variant 114)",
+      "text": "Which of these is NOT a food preservation method?",
       "options": [
-        "Fat",
-        "No nutrient",
-        "Bowel movement",
-        "Protein"
+        "Pickling",
+        "Pasteurisation",
+        "Fermentation",
+        "Emulsification"
       ],
-      "correct_index": 2,
-      "explanation": "Bowel.",
+      "correct_index": 3,
+      "explanation": "Emulsification is a mixing technique, not a food preservation method.",
       "difficulty": 2
     },
     {
       "id": "fdn_115",
-      "text": "In which part of the body does digestion begin? (variant 115)",
+      "text": "Which of these is a source of unsaturated fat?",
       "options": [
-        "Large",
-        "Mouth",
-        "Stomach",
-        "Small intestine"
+        "Butter",
+        "Cheese",
+        "Avocado",
+        "Lard"
       ],
-      "correct_index": 1,
-      "explanation": "Mouth.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Avocado is rich in healthy monounsaturated fats, unlike butter and lard which are high in saturated fats.",
+      "difficulty": 2
     },
     {
       "id": "fdn_116",
-      "text": "What does NAFDAC regulate in Nigeria? (variant 116)",
+      "text": "Scurvy was historically common among sailors because they",
       "options": [
-        "Food and drug",
-        "No control",
-        "Only oil",
-        "Only gas"
+        "Ate too much meat",
+        "Had no access to fresh fruits and vegetables for long periods",
+        "Drank too much water",
+        "Exercised too much"
       ],
-      "correct_index": 0,
-      "explanation": "Food drug.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Sailors on long voyages lacked fresh fruits and vegetables, leading to vitamin C deficiency.",
+      "difficulty": 2
     },
     {
       "id": "fdn_117",
-      "text": "What does the acronym BMI stand for? (variant 117)",
+      "text": "Which food group should form the base of a food-based dietary guideline pyramid?",
       "options": [
-        "No index",
-        "Only body",
-        "Only mass",
-        "Body Mass Index"
+        "Proteins",
+        "Fats and oils",
+        "Carbohydrate-rich staple foods",
+        "Dairy products"
       ],
-      "correct_index": 3,
-      "explanation": "BMI.",
+      "correct_index": 2,
+      "explanation": "Carbohydrate-rich staples form the base of dietary guideline pyramids as they should be consumed in the largest amounts.",
       "difficulty": 2
     },
     {
       "id": "fdn_118",
-      "text": "What is the normal range for Body Mass Index? (variant 118)",
+      "text": "Which of these is an example of a fermented food?",
       "options": [
-        "10-15",
-        "No range",
-        "18.5-24.9",
-        "30-40"
+        "Boiled rice",
+        "Ogi (fermented maize pap)",
+        "Fried plantain",
+        "Roasted yam"
       ],
-      "correct_index": 2,
-      "explanation": "18.5-24.9.",
+      "correct_index": 1,
+      "explanation": "Ogi is a traditional Nigerian fermented food made from maize.",
       "difficulty": 2
     },
     {
       "id": "fdn_119",
-      "text": "What does the term food security mean? (variant 119)",
+      "text": "Which of these is a function of water in cooking?",
       "options": [
-        "Only safe",
-        "Access sufficient safe nutritious",
-        "No access",
-        "Only sufficient"
+        "It makes food crispy",
+        "It transfers heat to food during boiling and steaming",
+        "It acts as a preservative only",
+        "It adds fat to food"
       ],
       "correct_index": 1,
-      "explanation": "Access sufficient.",
+      "explanation": "Water transfers heat to food during moist heat cooking methods like boiling and steaming.",
       "difficulty": 2
     },
     {
       "id": "fdn_120",
-      "text": "What is the primary purpose of a kitchen? (variant 120)",
+      "text": "The main source of energy for the brain is",
       "options": [
-        "Cooking",
-        "No cooking",
-        "Only eating",
-        "Only sleeping"
+        "Protein",
+        "Fat",
+        "Glucose from carbohydrates",
+        "Vitamins"
       ],
-      "correct_index": 0,
-      "explanation": "Cooking.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "The brain primarily uses glucose derived from carbohydrates as its energy source.",
+      "difficulty": 2
     },
     {
       "id": "fdn_121",
-      "text": "How many classes of food are there? (variant 121)",
+      "text": "Which of these is an example of a foodborne pathogen?",
       "options": [
-        "3",
-        "2",
-        "4",
-        "6"
+        "Saccharomyces",
+        "Escherichia coli (E. coli)",
+        "Lactobacillus",
+        "Rhizopus"
       ],
-      "correct_index": 3,
-      "explanation": "6 classes.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "E. coli is a well-known foodborne pathogen that can cause severe illness.",
+      "difficulty": 2
     },
     {
       "id": "fdn_122",
-      "text": "What does carbohydrate primarily provide to the body? (variant 122)",
+      "text": "Which of these is a function of roughage in the diet?",
       "options": [
-        "No energy",
-        "Only protection",
-        "Energy",
-        "Building"
+        "Provides direct energy",
+        "Adds bulk to stool and aids bowel movement",
+        "Builds new cells",
+        "Regulates blood sugar directly"
       ],
-      "correct_index": 2,
-      "explanation": "Energy.",
+      "correct_index": 1,
+      "explanation": "Roughage adds bulk to stool and helps promote regular bowel movements.",
       "difficulty": 1
     },
     {
       "id": "fdn_123",
-      "text": "What is the primary function of protein in the body? (variant 123)",
+      "text": "Complete the statement: \"Toasting is a form of\" by choosing the correct option.",
       "options": [
-        "Only protection",
-        "Body building",
-        "Energy only",
-        "No building"
+        "Moist heat cooking",
+        "Dry heat cooking",
+        "Chemical cooking",
+        "Cold cooking"
       ],
       "correct_index": 1,
-      "explanation": "Body building.",
+      "explanation": "Toasting is a dry heat cooking method that uses direct heat to brown food surfaces.",
       "difficulty": 1
     },
     {
       "id": "fdn_124",
-      "text": "Scurvy is caused by the deficiency of which vitamin? (variant 124)",
+      "text": "Which of these is a consequence of vitamin D deficiency in children?",
       "options": [
-        "Vitamin C",
-        "A",
-        "D",
-        "K"
+        "Scurvy",
+        "Rickets",
+        "Goitre",
+        "Pellagra"
       ],
-      "correct_index": 0,
-      "explanation": "Vit C.",
+      "correct_index": 1,
+      "explanation": "Vitamin D deficiency in children leads to rickets, characterised by soft and weak bones.",
       "difficulty": 1
     },
     {
       "id": "fdn_125",
-      "text": "Rickets is caused by the deficiency of which vitamin? (variant 125)",
+      "text": "Which of these is used to make garri, a popular Nigerian food?",
       "options": [
-        "C",
-        "A",
-        "K",
-        "Vitamin D"
+        "Yam",
+        "Cassava",
+        "Maize",
+        "Rice"
       ],
-      "correct_index": 3,
-      "explanation": "Vit D.",
+      "correct_index": 1,
+      "explanation": "Garri is made from cassava tubers that are peeled, grated, fermented, and fried.",
       "difficulty": 1
     },
     {
       "id": "fdn_126",
-      "text": "Night blindness is caused by the deficiency of which vitamin? (variant 126)",
+      "text": "The food group that provides the most variety of vitamins is the",
       "options": [
-        "D",
-        "K",
-        "Vitamin A",
-        "C"
+        "Staple food group",
+        "Fruits and vegetables group",
+        "Fats and oils group",
+        "Sugar group"
       ],
-      "correct_index": 2,
-      "explanation": "Vit A.",
+      "correct_index": 1,
+      "explanation": "Fruits and vegetables provide the widest variety of vitamins and minerals.",
       "difficulty": 1
     },
     {
       "id": "fdn_127",
-      "text": "What does a balanced diet contain? (variant 127)",
+      "text": "Milk is a good source of which mineral?",
       "options": [
-        "Only two",
-        "All nutrients right proportion",
-        "Only one",
-        "No balance"
+        "Iron",
+        "Calcium",
+        "Zinc",
+        "Iodine"
       ],
       "correct_index": 1,
-      "explanation": "All right proportion.",
+      "explanation": "Milk is one of the best dietary sources of calcium.",
       "difficulty": 1
     },
     {
       "id": "fdn_128",
-      "text": "What is used as the cooking medium in boiling? (variant 128)",
+      "text": "Which of these is NOT a kitchen safety practice?",
       "options": [
-        "Water",
-        "Oil",
-        "No water",
-        "Only oil"
+        "Keeping floor dry and clean",
+        "Leaving knife edges blunt",
+        "Using oven mitts for hot trays",
+        "Turning pot handles inward on the stove"
       ],
-      "correct_index": 0,
-      "explanation": "Water.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Blunt knives are more dangerous than sharp ones as they require more force and can slip.",
+      "difficulty": 2
     },
     {
       "id": "fdn_129",
-      "text": "What is used as the cooking medium in frying? (variant 129)",
+      "text": "Which of these is a symptom of food poisoning?",
       "options": [
-        "Water",
-        "No oil",
-        "Only water",
-        "Oil"
+        "Improved appetite",
+        "Nausea, vomiting, and diarrhoea",
+        "Weight gain",
+        "Increased energy levels"
       ],
-      "correct_index": 3,
-      "explanation": "Oil.",
+      "correct_index": 1,
+      "explanation": "Food poisoning commonly causes nausea, vomiting, diarrhoea, and abdominal pain.",
       "difficulty": 1
     },
     {
       "id": "fdn_130",
-      "text": "What type of heat is used in baking? (variant 130)",
+      "text": "Which of these foods is the best source of iron?",
       "options": [
-        "Frying",
-        "No dry heat",
-        "Dry heat oven",
-        "Boiling"
+        "White bread",
+        "Red meat (liver)",
+        "Sugar",
+        "Table salt"
       ],
-      "correct_index": 2,
-      "explanation": "Dry heat oven.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Red meat and liver are excellent sources of heme iron, which is easily absorbed.",
+      "difficulty": 2
     },
     {
       "id": "fdn_131",
-      "text": "What is colostrum in the context of infant nutrition? (variant 131)",
+      "text": "Starch belongs to which class of carbohydrate?",
       "options": [
-        "Only water",
-        "First milk",
-        "Normal milk",
-        "No milk"
+        "Monosaccharides",
+        "Disaccharides",
+        "Polysaccharides",
+        "Oligosaccharides"
       ],
-      "correct_index": 1,
-      "explanation": "First milk.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Starch is a polysaccharide, a complex carbohydrate made of many glucose units.",
+      "difficulty": 3
     },
     {
       "id": "fdn_132",
-      "text": "How many calories does one gram of carbohydrate provide? (variant 132)",
+      "text": "Which of these is a function of potassium in the body?",
       "options": [
-        "4 calories",
-        "9 calories",
-        "0",
-        "2"
+        "Bone formation only",
+        "Maintains fluid balance and nerve function",
+        "Carries oxygen",
+        "Prevents goitre"
       ],
-      "correct_index": 0,
-      "explanation": "4 cal.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Potassium helps maintain fluid balance, nerve function, and muscle contraction.",
+      "difficulty": 3
     },
     {
       "id": "fdn_133",
-      "text": "How many calories does one gram of fat provide? (variant 133)",
+      "text": "The Maillard reaction requires the presence of",
       "options": [
-        "4",
-        "0",
-        "2",
-        "9 calories"
+        "Only water",
+        "Reducing sugars and amino acids under heat",
+        "Only salt",
+        "Only fat"
       ],
-      "correct_index": 3,
-      "explanation": "9 cal.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "The Maillard reaction is a chemical reaction between reducing sugars and amino acids at high temperatures.",
+      "difficulty": 3
     },
     {
       "id": "fdn_134",
-      "text": "What is the primary function of roughage in the diet? (variant 134)",
+      "text": "Which of these is a function of the enzyme pepsin in digestion?",
       "options": [
-        "Fat",
-        "No nutrient",
-        "Bowel movement",
-        "Protein"
+        "Breaks down carbohydrates in the mouth",
+        "Breaks down proteins in the stomach",
+        "Absorbs nutrients in the intestine",
+        "Produces bile in the liver"
       ],
-      "correct_index": 2,
-      "explanation": "Bowel.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Pepsin is a stomach enzyme that breaks down proteins into peptides.",
+      "difficulty": 3
     },
     {
       "id": "fdn_135",
-      "text": "In which part of the body does digestion begin? (variant 135)",
+      "text": "What does Enrichment of food involve in the context of fishing?",
       "options": [
-        "Large",
-        "Mouth",
-        "Stomach",
-        "Small intestine"
+        "Removing nutrients from food",
+        "Adding back nutrients lost during processing",
+        "Adding preservatives only",
+        "Changing the food's colour"
       ],
       "correct_index": 1,
-      "explanation": "Mouth.",
-      "difficulty": 1
+      "explanation": "Enrichment means adding back nutrients that were lost during food processing.",
+      "difficulty": 3
     },
     {
       "id": "fdn_136",
-      "text": "What does NAFDAC regulate in Nigeria? (variant 136)",
+      "text": "Which of these is a reason for food fortification?",
       "options": [
-        "Food and drug",
-        "No control",
-        "Only oil",
-        "Only gas"
+        "To make food weigh more",
+        "To improve the nutritional quality of the food supply",
+        "To change the taste of food",
+        "To make food last longer"
       ],
-      "correct_index": 0,
-      "explanation": "Food drug.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Food fortification aims to improve the nutritional quality of the overall food supply.",
+      "difficulty": 3
     },
     {
       "id": "fdn_137",
-      "text": "What does the acronym BMI stand for? (variant 137)",
+      "text": "Which of these is an example of emulsification in cooking?",
       "options": [
-        "No index",
-        "Only body",
-        "Only mass",
-        "Body Mass Index"
+        "Boiling water",
+        "Making mayonnaise from oil, egg, and vinegar",
+        "Roasting meat",
+        "Steaming vegetables"
       ],
-      "correct_index": 3,
-      "explanation": "BMI.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Mayonnaise is an emulsion where oil is dispersed in water (vinegar) using egg yolk as an emulsifier.",
+      "difficulty": 3
     },
     {
       "id": "fdn_138",
-      "text": "What is the normal range for Body Mass Index? (variant 138)",
+      "text": "The term 'al dente' in cooking pasta means",
       "options": [
-        "10-15",
-        "No range",
-        "18.5-24.9",
-        "30-40"
+        "Overcooked and very soft",
+        "Cooked to be firm when bitten",
+        "Raw and uncooked",
+        "Burnt on the outside"
       ],
-      "correct_index": 2,
-      "explanation": "18.5-24.9.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Al dente means the pasta is cooked to be firm when bitten, not mushy.",
+      "difficulty": 3
     },
     {
       "id": "fdn_139",
-      "text": "What does the term food security mean? (variant 139)",
+      "text": "Which of these is an effect of overcooking vegetables?",
       "options": [
-        "Only safe",
-        "Access sufficient safe nutritious",
-        "No access",
-        "Only sufficient"
+        "Increased vitamin content",
+        "Loss of heat-sensitive vitamins like vitamin C and B",
+        "Improved texture",
+        "Increased mineral content"
       ],
       "correct_index": 1,
-      "explanation": "Access sufficient.",
+      "explanation": "Overcooking destroys heat-sensitive vitamins such as vitamin C and B vitamins.",
       "difficulty": 2
     },
     {
       "id": "fdn_140",
-      "text": "What is the primary purpose of a kitchen? (variant 140)",
+      "text": "What does the term \"The term 'sauteing'\" mean?",
       "options": [
-        "Cooking",
-        "No cooking",
-        "Only eating",
-        "Only sleeping"
+        "Cooking food in a large amount of water",
+        "Quickly frying small pieces of food in a small amount of hot fat",
+        "Slow cooking in an oven",
+        "Cooking by boiling in salt water"
       ],
-      "correct_index": 0,
-      "explanation": "Cooking.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Sauteing involves quickly frying small pieces of food in a small amount of hot fat while stirring.",
+      "difficulty": 2
     },
     {
       "id": "fdn_141",
-      "text": "How many classes of food are there? (variant 141)",
+      "text": "Which of these is a symptom of vitamin B12 deficiency?",
       "options": [
-        "3",
-        "2",
-        "4",
-        "6"
+        "Night blindness",
+        "Pernicious anaemia",
+        "Scurvy",
+        "Rickets"
       ],
-      "correct_index": 3,
-      "explanation": "6 classes.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Vitamin B12 deficiency causes pernicious anaemia, affecting red blood cell formation.",
+      "difficulty": 3
     },
     {
       "id": "fdn_142",
-      "text": "What does carbohydrate primarily provide to the body? (variant 142)",
+      "text": "Sprouting increases the nutritional value of grains mainly by",
       "options": [
-        "No energy",
-        "Only protection",
-        "Energy",
-        "Building"
+        "Increasing the fat content",
+        "Increasing vitamin content and improving protein quality",
+        "Removing all carbohydrates",
+        "Adding minerals artificially"
       ],
-      "correct_index": 2,
-      "explanation": "Energy.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Sprouting increases vitamin content (especially B vitamins) and improves the digestibility of proteins.",
+      "difficulty": 3
     },
     {
       "id": "fdn_143",
-      "text": "What is the primary function of protein in the body? (variant 143)",
+      "text": "Which of these is a principle of food storage?",
       "options": [
-        "Only protection",
-        "Body building",
-        "Energy only",
-        "No building"
+        "Store raw food above cooked food",
+        "Store food in a cool, dry, and clean place",
+        "Leave food uncovered at room temperature",
+        "Store cleaning chemicals with food"
       ],
       "correct_index": 1,
-      "explanation": "Body building.",
-      "difficulty": 1
+      "explanation": "Food should be stored in a cool, dry, and clean place away from contaminants.",
+      "difficulty": 2
     },
     {
       "id": "fdn_144",
-      "text": "Scurvy is caused by the deficiency of which vitamin? (variant 144)",
+      "text": "Which of these is a source of prebiotics in the diet?",
       "options": [
-        "Vitamin C",
-        "A",
-        "D",
-        "K"
+        "Refined sugar",
+        "Garlic and onions",
+        "Cooking oil",
+        "Table salt"
       ],
-      "correct_index": 0,
-      "explanation": "Vit C.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Garlic, onions, and bananas are good sources of prebiotics that feed beneficial gut bacteria.",
+      "difficulty": 3
     },
     {
       "id": "fdn_145",
-      "text": "Rickets is caused by the deficiency of which vitamin? (variant 145)",
+      "text": "In setting a formal table, the fork is placed",
       "options": [
-        "C",
-        "A",
-        "K",
-        "Vitamin D"
+        "To the right of the plate",
+        "To the left of the plate",
+        "Above the plate",
+        "Under the plate"
       ],
-      "correct_index": 3,
-      "explanation": "Vit D.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "In formal table setting, the fork is placed to the left of the dinner plate.",
+      "difficulty": 2
     },
     {
       "id": "fdn_146",
-      "text": "Night blindness is caused by the deficiency of which vitamin? (variant 146)",
+      "text": "The number of food groups in a basic food classification system is",
       "options": [
-        "D",
-        "K",
-        "Vitamin A",
-        "C"
+        "3",
+        "4",
+        "6",
+        "10"
       ],
       "correct_index": 2,
-      "explanation": "Vit A.",
+      "explanation": "The basic food classification system has 6 food groups.",
       "difficulty": 1
     },
     {
       "id": "fdn_147",
-      "text": "What does a balanced diet contain? (variant 147)",
+      "text": "Which of these is a characteristic of a good kitchen layout?",
       "options": [
-        "Only two",
-        "All nutrients right proportion",
-        "Only one",
-        "No balance"
+        "Cluttered work surfaces",
+        "Efficient work triangle between stove, sink, and refrigerator",
+        "No ventilation system",
+        "Only one light source"
       ],
       "correct_index": 1,
-      "explanation": "All right proportion.",
-      "difficulty": 1
-    },
-    {
-      "id": "fdn_148",
-      "text": "What is used as the cooking medium in boiling? (variant 148)",
-      "options": [
-        "Water",
-        "Oil",
-        "No water",
-        "Only oil"
-      ],
-      "correct_index": 0,
-      "explanation": "Water.",
-      "difficulty": 1
-    },
-    {
-      "id": "fdn_149",
-      "text": "What is used as the cooking medium in frying? (variant 149)",
-      "options": [
-        "Water",
-        "No oil",
-        "Only water",
-        "Oil"
-      ],
-      "correct_index": 3,
-      "explanation": "Oil.",
-      "difficulty": 1
-    },
-    {
-      "id": "fdn_150",
-      "text": "What type of heat is used in baking? (variant 150)",
-      "options": [
-        "Frying",
-        "No dry heat",
-        "Dry heat oven",
-        "Boiling"
-      ],
-      "correct_index": 2,
-      "explanation": "Dry heat oven.",
-      "difficulty": 1
-    },
-    {
-      "id": "fdn_151",
-      "text": "What is colostrum in the context of infant nutrition? (variant 151)",
-      "options": [
-        "Only water",
-        "First milk",
-        "Normal milk",
-        "No milk"
-      ],
-      "correct_index": 1,
-      "explanation": "First milk.",
-      "difficulty": 1
-    },
-    {
-      "id": "fdn_152",
-      "text": "How many calories does one gram of carbohydrate provide? (variant 152)",
-      "options": [
-        "4 calories",
-        "9 calories",
-        "0",
-        "2"
-      ],
-      "correct_index": 0,
-      "explanation": "4 cal.",
+      "explanation": "A good kitchen layout follows the work triangle principle for efficiency between stove, sink, and refrigerator.",
       "difficulty": 2
     },
     {
-      "id": "fdn_153",
-      "text": "How many calories does one gram of fat provide? (variant 153)",
+      "id": "fdn_148",
+      "text": "Which of these is a function of the enzyme amylase?",
       "options": [
-        "4",
-        "0",
-        "2",
-        "9 calories"
+        "Breaks down fats in the stomach",
+        "Breaks down starch into sugar in the mouth",
+        "Kills bacteria in the stomach",
+        "Absorbs water in the intestine"
       ],
-      "correct_index": 3,
-      "explanation": "9 cal.",
+      "correct_index": 1,
+      "explanation": "Amylase, found in saliva, begins the chemical digestion of starch into maltose.",
+      "difficulty": 3
+    },
+    {
+      "id": "fdn_149",
+      "text": "Which of these is a health risk of consuming too much saturated fat?",
+      "options": [
+        "Weight loss",
+        "Increased risk of heart disease",
+        "Improved vision",
+        "Stronger bones"
+      ],
+      "correct_index": 1,
+      "explanation": "Excessive saturated fat intake raises LDL cholesterol and increases the risk of heart disease.",
+      "difficulty": 2
+    },
+    {
+      "id": "fdn_150",
+      "text": "Complete the statement: \"Ceviche is a dish prepared by\" by choosing the correct option.",
+      "options": [
+        "Boiling fish for hours",
+        "Cooking fish in citrus juice (acid denaturation)",
+        "Deep frying fish",
+        "Smoking fish for days"
+      ],
+      "correct_index": 1,
+      "explanation": "Ceviche involves 'cooking' fish by marinating it in citrus juice, where the acid denatures the proteins.",
+      "difficulty": 3
+    },
+    {
+      "id": "fdn_151",
+      "text": "Which of these is a benefit of eating a balanced diet during pregnancy?",
+      "options": [
+        "Prevents all infections completely",
+        "Supports healthy foetal development and maternal health",
+        "Guarantees a painless delivery",
+        "Eliminates the need for antenatal care"
+      ],
+      "correct_index": 1,
+      "explanation": "A balanced diet during pregnancy supports healthy foetal development and maintains maternal health.",
+      "difficulty": 2
+    },
+    {
+      "id": "fdn_152",
+      "text": "Which of these is an example of a disaccharide?",
+      "options": [
+        "Glucose",
+        "Fructose",
+        "Lactose",
+        "Starch"
+      ],
+      "correct_index": 2,
+      "explanation": "Lactose is a disaccharide found in milk, composed of glucose and galactose.",
+      "difficulty": 3
+    },
+    {
+      "id": "fdn_153",
+      "text": "Which of these is an advantage of using a pressure cooker?",
+      "options": [
+        "Food cooks at lower temperatures",
+        "Food cooks faster due to increased boiling point of water",
+        "It uses less energy but takes longer",
+        "It is only used for making soups"
+      ],
+      "correct_index": 1,
+      "explanation": "A pressure cooker raises the boiling point of water, cooking food faster than normal boiling.",
       "difficulty": 2
     },
     {
       "id": "fdn_154",
-      "text": "What is the primary function of roughage in the diet? (variant 154)",
+      "text": "Which of these is a major component of a good feeding programme for an institution?",
       "options": [
-        "Fat",
-        "No nutrient",
-        "Bowel movement",
-        "Protein"
+        "Serving only snacks",
+        "A planned menu that meets the nutritional needs of the target group",
+        "Using only canned foods",
+        "Ignoring dietary restrictions"
       ],
-      "correct_index": 2,
-      "explanation": "Bowel.",
+      "correct_index": 1,
+      "explanation": "An institutional feeding programme must have a planned menu meeting the nutritional needs of its target group.",
       "difficulty": 2
     },
     {
       "id": "fdn_155",
-      "text": "In which part of the body does digestion begin? (variant 155)",
+      "text": "The process of denaturation of protein involves",
       "options": [
-        "Large",
-        "Mouth",
-        "Stomach",
-        "Small intestine"
+        "Breaking the peptide bonds completely",
+        "Unfolding the protein structure due to heat, acid, or alkali",
+        "Adding more amino acids",
+        "Converting protein to fat"
       ],
       "correct_index": 1,
-      "explanation": "Mouth.",
-      "difficulty": 1
+      "explanation": "Denaturation unfolds the protein structure due to heat, acid, or physical action without breaking peptide bonds.",
+      "difficulty": 3
     },
     {
       "id": "fdn_156",
-      "text": "What does NAFDAC regulate in Nigeria? (variant 156)",
+      "text": "Which of these foods would be most suitable for a diabetic patient?",
       "options": [
-        "Food and drug",
-        "No control",
-        "Only oil",
-        "Only gas"
+        "White bread with sugary drink",
+        "Brown rice with vegetables and lean protein",
+        "Fried chips with ketchup",
+        "Sweet pastry with fruit juice"
       ],
-      "correct_index": 0,
-      "explanation": "Food drug.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Brown rice with vegetables and lean protein has a lower glycemic index and better nutritional value.",
+      "difficulty": 2
     },
     {
       "id": "fdn_157",
-      "text": "What does the acronym BMI stand for? (variant 157)",
+      "text": "The main difference between baking and roasting is that",
       "options": [
-        "No index",
-        "Only body",
-        "Only mass",
-        "Body Mass Index"
+        "Baking uses moisture while roasting does not",
+        "Baking is mainly for bread and pastries while roasting is for meats and vegetables",
+        "They are exactly the same",
+        "Baking uses oil while roasting uses water"
       ],
-      "correct_index": 3,
-      "explanation": "BMI.",
+      "correct_index": 1,
+      "explanation": "Baking is typically for bread, cakes, and pastries, while roasting is for meats, poultry, and vegetables.",
       "difficulty": 2
     },
     {
       "id": "fdn_158",
-      "text": "What is the normal range for Body Mass Index? (variant 158)",
+      "text": "Which of these is a source of thiamine (vitamin B1)?",
       "options": [
-        "10-15",
-        "No range",
-        "18.5-24.9",
-        "30-40"
+        "Citrus fruits",
+        "Whole grains and lean pork",
+        "Carrots",
+        "Milk"
       ],
-      "correct_index": 2,
-      "explanation": "18.5-24.9.",
+      "correct_index": 1,
+      "explanation": "Whole grains and lean pork are excellent sources of thiamine (vitamin B1).",
       "difficulty": 2
     },
     {
       "id": "fdn_159",
-      "text": "What does the term food security mean? (variant 159)",
+      "text": "Which of these is a factor that affects the nutrient content of food?",
       "options": [
-        "Only safe",
-        "Access sufficient safe nutritious",
-        "No access",
-        "Only sufficient"
+        "The brand of the cooking pot",
+        "Method of cooking and duration of cooking",
+        "The colour of the kitchen",
+        "The day of the week"
       ],
       "correct_index": 1,
-      "explanation": "Access sufficient.",
+      "explanation": "Cooking method and duration significantly affect the nutrient content of food.",
       "difficulty": 2
     },
     {
       "id": "fdn_160",
-      "text": "What is the primary purpose of a kitchen? (variant 160)",
+      "text": "An appetiser served before a meal is intended to",
       "options": [
-        "Cooking",
-        "No cooking",
-        "Only eating",
-        "Only sleeping"
+        "Replace the main course",
+        "Stimulate the appetite",
+        "Provide all the day's nutrition",
+        "Cure diseases"
       ],
-      "correct_index": 0,
-      "explanation": "Cooking.",
+      "correct_index": 1,
+      "explanation": "An appetiser is a small dish served before the main meal to stimulate the appetite.",
       "difficulty": 1
     },
     {
       "id": "fdn_161",
-      "text": "How many classes of food are there? (variant 161)",
+      "text": "Which of these is a characteristic of a healthy eating pattern?",
       "options": [
-        "3",
-        "2",
-        "4",
-        "6"
+        "Skipping meals regularly",
+        "Eating a variety of foods from all food groups",
+        "Eating only one type of food daily",
+        "Avoiding all fats completely"
       ],
-      "correct_index": 3,
-      "explanation": "6 classes.",
+      "correct_index": 1,
+      "explanation": "Healthy eating involves consuming a variety of foods from all food groups in appropriate amounts.",
       "difficulty": 1
     },
     {
       "id": "fdn_162",
-      "text": "What does carbohydrate primarily provide to the body? (variant 162)",
+      "text": "Folate (folic acid) is especially important for",
       "options": [
-        "No energy",
-        "Only protection",
-        "Energy",
-        "Building"
+        "Preventing rickets in children",
+        "Preventing neural tube defects in developing foetuses",
+        "Improving eyesight",
+        "Building muscle mass"
       ],
-      "correct_index": 2,
-      "explanation": "Energy.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Folic acid is crucial during pregnancy to prevent neural tube defects in the developing foetus.",
+      "difficulty": 3
     },
     {
       "id": "fdn_163",
-      "text": "What is the primary function of protein in the body? (variant 163)",
+      "text": "Which of these is a safe food thawing method?",
       "options": [
-        "Only protection",
-        "Body building",
-        "Energy only",
-        "No building"
+        "Boiling the frozen food directly",
+        "Thawing at room temperature on the counter",
+        "Thawing in the refrigerator",
+        "Leaving frozen food in the sun"
       ],
-      "correct_index": 1,
-      "explanation": "Body building.",
-      "difficulty": 1
+      "correct_index": 2,
+      "explanation": "Thawing in the refrigerator is the safest method as it keeps food out of the temperature danger zone.",
+      "difficulty": 2
     },
     {
       "id": "fdn_164",
-      "text": "Scurvy is caused by the deficiency of which vitamin? (variant 164)",
+      "text": "The main reason for adding salt during cooking is to",
       "options": [
-        "Vitamin C",
-        "A",
-        "D",
-        "K"
+        "Increase the calorie content",
+        "Enhance flavour and taste of food",
+        "Preserve the food permanently",
+        "Increase the vitamin content"
       ],
-      "correct_index": 0,
-      "explanation": "Vit C.",
+      "correct_index": 1,
+      "explanation": "Salt is primarily added to enhance the flavour and taste of food during cooking.",
       "difficulty": 1
     },
     {
       "id": "fdn_165",
-      "text": "Rickets is caused by the deficiency of which vitamin? (variant 165)",
+      "text": "Which of these is a Nigerian fermented beverage?",
       "options": [
-        "C",
-        "A",
-        "K",
-        "Vitamin D"
+        "Coca-Cola",
+        "Pito",
+        "Fanta",
+        "Mineral water"
       ],
-      "correct_index": 3,
-      "explanation": "Vit D.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Pito is a traditional Nigerian fermented beverage made from millet or sorghum.",
+      "difficulty": 2
     },
     {
       "id": "fdn_166",
-      "text": "Night blindness is caused by the deficiency of which vitamin? (variant 166)",
+      "text": "Which of these is a function of lymph nodes in relation to nutrition?",
       "options": [
-        "D",
-        "K",
-        "Vitamin A",
-        "C"
+        "Digest carbohydrates",
+        "Filter pathogens from food absorbed through the gut",
+        "Produce digestive enzymes",
+        "Store excess glucose"
       ],
-      "correct_index": 2,
-      "explanation": "Vit A.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Lymph nodes help filter pathogens from substances absorbed through the digestive tract.",
+      "difficulty": 3
     },
     {
       "id": "fdn_167",
-      "text": "What does a balanced diet contain? (variant 167)",
+      "text": "The best way to preserve the vitamin C content of vegetables is to",
       "options": [
-        "Only two",
-        "All nutrients right proportion",
-        "Only one",
-        "No balance"
+        "Boil them for a long time",
+        "Cook them quickly with minimal water",
+        "Fry them at high heat",
+        "Dry them in the sun for days"
       ],
       "correct_index": 1,
-      "explanation": "All right proportion.",
-      "difficulty": 1
+      "explanation": "Quick cooking with minimal water helps preserve heat-sensitive and water-soluble vitamin C.",
+      "difficulty": 2
     },
     {
       "id": "fdn_168",
-      "text": "What is used as the cooking medium in boiling? (variant 168)",
+      "text": "Complete the statement: \"A weaning food should be\" by choosing the correct option.",
       "options": [
-        "Water",
-        "Oil",
-        "No water",
-        "Only oil"
+        "Hard and crunchy",
+        "Soft, smooth, and nutrient-dense",
+        "Very spicy",
+        "Low in calories"
       ],
-      "correct_index": 0,
-      "explanation": "Water.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Weaning foods should be soft, smooth in texture, and rich in nutrients for the transitioning infant.",
+      "difficulty": 2
     },
     {
       "id": "fdn_169",
-      "text": "What is used as the cooking medium in frying? (variant 169)",
+      "text": "Which of these is a cause of food waste in the kitchen?",
       "options": [
-        "Water",
-        "No oil",
-        "Only water",
-        "Oil"
+        "Proper meal planning",
+        "Over-preparing food and poor storage practices",
+        "Buying only what is needed",
+        "Using fresh ingredients"
       ],
-      "correct_index": 3,
-      "explanation": "Oil.",
+      "correct_index": 1,
+      "explanation": "Over-preparing food and poor storage are major causes of food waste in the kitchen.",
       "difficulty": 1
     },
     {
       "id": "fdn_170",
-      "text": "What type of heat is used in baking? (variant 170)",
+      "text": "Which of these is a characteristic of a good cookbook?",
       "options": [
-        "Frying",
-        "No dry heat",
-        "Dry heat oven",
-        "Boiling"
+        "No measurements are given",
+        "Clear ingredients list and step-by-step instructions",
+        "Only pictures with no text",
+        "Recipes written in a foreign language only"
       ],
-      "correct_index": 2,
-      "explanation": "Dry heat oven.",
+      "correct_index": 1,
+      "explanation": "A good cookbook provides a clear ingredients list and detailed step-by-step instructions.",
       "difficulty": 1
     },
     {
       "id": "fdn_171",
-      "text": "What is colostrum in the context of infant nutrition? (variant 171)",
+      "text": "Which of these is a source of selenium in the diet?",
       "options": [
-        "Only water",
-        "First milk",
-        "Normal milk",
-        "No milk"
+        "White rice",
+        "Brazil nuts and seafood",
+        "Table sugar",
+        "Cooking oil"
       ],
       "correct_index": 1,
-      "explanation": "First milk.",
-      "difficulty": 1
+      "explanation": "Brazil nuts and seafood are among the richest dietary sources of selenium.",
+      "difficulty": 3
     },
     {
       "id": "fdn_172",
-      "text": "How many calories does one gram of carbohydrate provide? (variant 172)",
+      "text": "Dietary reference intake (DRI) is a set of",
       "options": [
-        "4 calories",
-        "9 calories",
-        "0",
-        "2"
+        "Cooking temperatures for food",
+        "Reference values for nutrient intake to maintain health",
+        "List of prohibited foods",
+        "Food prices in the market"
       ],
-      "correct_index": 0,
-      "explanation": "4 cal.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "DRI provides reference values for nutrient intake needed to maintain health in different age groups.",
+      "difficulty": 3
     },
     {
       "id": "fdn_173",
-      "text": "How many calories does one gram of fat provide? (variant 173)",
+      "text": "Which of these is an example of a monosaccharide?",
       "options": [
-        "4",
-        "0",
-        "2",
-        "9 calories"
+        "Sucrose",
+        "Lactose",
+        "Fructose",
+        "Maltose"
       ],
-      "correct_index": 3,
-      "explanation": "9 cal.",
-      "difficulty": 2
+      "correct_index": 2,
+      "explanation": "Fructose is a monosaccharide (simple sugar) found naturally in fruits.",
+      "difficulty": 3
     },
     {
       "id": "fdn_174",
-      "text": "What is the primary function of roughage in the diet? (variant 174)",
+      "text": "The role of sebum produced by the skin in relation to vitamin D is to",
       "options": [
-        "Fat",
-        "No nutrient",
-        "Bowel movement",
-        "Protein"
+        "Block UV light completely",
+        "Help absorb UV light for vitamin D synthesis",
+        "Prevent all vitamin absorption",
+        "Store excess vitamins"
       ],
-      "correct_index": 2,
-      "explanation": "Bowel.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Sebum on the skin helps facilitate the absorption of UV light needed for vitamin D synthesis.",
+      "difficulty": 3
     },
     {
       "id": "fdn_175",
-      "text": "In which part of the body does digestion begin? (variant 175)",
+      "text": "Which of these is a health benefit of dietary fibre?",
       "options": [
-        "Large",
-        "Mouth",
-        "Stomach",
-        "Small intestine"
+        "Increases blood cholesterol levels",
+        "Reduces the risk of colon cancer and heart disease",
+        "Raises blood pressure",
+        "Causes weight gain"
       ],
       "correct_index": 1,
-      "explanation": "Mouth.",
-      "difficulty": 1
-    },
-    {
-      "id": "fdn_176",
-      "text": "What does NAFDAC regulate in Nigeria? (variant 176)",
-      "options": [
-        "Food and drug",
-        "No control",
-        "Only oil",
-        "Only gas"
-      ],
-      "correct_index": 0,
-      "explanation": "Food drug.",
-      "difficulty": 1
-    },
-    {
-      "id": "fdn_177",
-      "text": "What does the acronym BMI stand for? (variant 177)",
-      "options": [
-        "No index",
-        "Only body",
-        "Only mass",
-        "Body Mass Index"
-      ],
-      "correct_index": 3,
-      "explanation": "BMI.",
+      "explanation": "Adequate dietary fibre intake reduces the risk of colon cancer, heart disease, and helps manage weight.",
       "difficulty": 2
     },
     {
-      "id": "fdn_178",
-      "text": "What is the normal range for Body Mass Index? (variant 178)",
+      "id": "fdn_176",
+      "text": "Which of these is a correct food safety temperature for holding hot food?",
       "options": [
-        "10-15",
-        "No range",
-        "18.5-24.9",
-        "30-40"
+        "Below 5C",
+        "Between 5C and 63C",
+        "Above 63C",
+        "At room temperature"
       ],
       "correct_index": 2,
-      "explanation": "18.5-24.9.",
+      "explanation": "Hot food should be held above 63C to prevent bacterial growth.",
+      "difficulty": 2
+    },
+    {
+      "id": "fdn_177",
+      "text": "Which of these is a characteristic of good food presentation?",
+      "options": [
+        "Food piled randomly on the plate",
+        "Neat arrangement with attention to colour and garnish",
+        "No attention to plate cleanliness",
+        "Using dirty utensils"
+      ],
+      "correct_index": 1,
+      "explanation": "Good food presentation involves neat arrangement with attention to colour, garnish, and plate cleanliness.",
+      "difficulty": 1
+    },
+    {
+      "id": "fdn_178",
+      "text": "Which of these is a property of proteins in cooking?",
+      "options": [
+        "They dissolve completely in cold water",
+        "They coagulate (set) when heated",
+        "They evaporate at room temperature",
+        "They only provide energy"
+      ],
+      "correct_index": 1,
+      "explanation": "Proteins coagulate (set and harden) when heated, which is why eggs solidify when cooked.",
       "difficulty": 2
     },
     {
       "id": "fdn_179",
-      "text": "What does the term food security mean? (variant 179)",
+      "text": "A person who avoids all animal products is following a",
       "options": [
-        "Only safe",
-        "Access sufficient safe nutritious",
-        "No access",
-        "Only sufficient"
+        "Omnivore diet",
+        "Vegetarian diet",
+        "Vegan diet",
+        "Keto diet"
       ],
-      "correct_index": 1,
-      "explanation": "Access sufficient.",
+      "correct_index": 2,
+      "explanation": "A vegan diet excludes all animal products including meat, dairy, and eggs.",
       "difficulty": 2
     },
     {
       "id": "fdn_180",
-      "text": "What is the primary purpose of a kitchen? (variant 180)",
+      "text": "Which of these is a source of simple sugars in the diet?",
       "options": [
-        "Cooking",
-        "No cooking",
-        "Only eating",
-        "Only sleeping"
+        "Brown rice",
+        "Honey and table sugar",
+        "Whole wheat bread",
+        "Boiled yam"
       ],
-      "correct_index": 0,
-      "explanation": "Cooking.",
+      "correct_index": 1,
+      "explanation": "Honey and table sugar are sources of simple sugars (monosaccharides and disaccharides).",
       "difficulty": 1
     },
     {
       "id": "fdn_181",
-      "text": "How many classes of food are there? (variant 181)",
+      "text": "Which of these is a disadvantage of deep frying as a cooking method?",
       "options": [
-        "3",
-        "2",
-        "4",
-        "6"
+        "Food cooks too slowly",
+        "It uses large amounts of oil which adds excess calories",
+        "It cannot be used for any food",
+        "It requires no heat"
       ],
-      "correct_index": 3,
-      "explanation": "6 classes.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Deep frying uses large amounts of oil, which can significantly increase the calorie content of food.",
+      "difficulty": 2
     },
     {
       "id": "fdn_182",
-      "text": "What does carbohydrate primarily provide to the body? (variant 182)",
+      "text": "What does The process of making tofu involve in the context of fishing?",
       "options": [
-        "No energy",
-        "Only protection",
-        "Energy",
-        "Building"
+        "Frying soybeans until crispy",
+        "Coagulating soy milk to form curds",
+        "Boiling soybeans for hours",
+        "Drying soybeans in the sun"
       ],
-      "correct_index": 2,
-      "explanation": "Energy.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Tofu is made by coagulating soy milk and pressing the resulting curds into solid blocks.",
+      "difficulty": 3
     },
     {
       "id": "fdn_183",
-      "text": "What is the primary function of protein in the body? (variant 183)",
+      "text": "Which of these is a symptom of dehydration?",
       "options": [
-        "Only protection",
-        "Body building",
-        "Energy only",
-        "No building"
+        "Excessive sweating that stops",
+        "Dark-coloured urine and thirst",
+        "Clear and frequent urination",
+        "Weight gain"
       ],
       "correct_index": 1,
-      "explanation": "Body building.",
+      "explanation": "Dehydration symptoms include dark-coloured urine, excessive thirst, and dry mouth.",
       "difficulty": 1
     },
     {
       "id": "fdn_184",
-      "text": "Scurvy is caused by the deficiency of which vitamin? (variant 184)",
+      "text": "Which of these is a recommended practice for knife safety?",
       "options": [
-        "Vitamin C",
-        "A",
-        "D",
-        "K"
+        "Test blade sharpness with fingers",
+        "Cut on a stable, non-slip cutting board",
+        "Carry knives with the blade facing outward",
+        "Leave knives soaking in water"
       ],
-      "correct_index": 0,
-      "explanation": "Vit C.",
+      "correct_index": 1,
+      "explanation": "Always cut on a stable, non-slip cutting board to prevent accidents.",
       "difficulty": 1
     },
     {
       "id": "fdn_185",
-      "text": "Rickets is caused by the deficiency of which vitamin? (variant 185)",
+      "text": "Which of these is a major nutrient found in eggs?",
       "options": [
-        "C",
-        "A",
-        "K",
-        "Vitamin D"
+        "Vitamin C only",
+        "High-quality protein and healthy fats",
+        "Only carbohydrates",
+        "Only fibre"
       ],
-      "correct_index": 3,
-      "explanation": "Vit D.",
+      "correct_index": 1,
+      "explanation": "Eggs are an excellent source of high-quality protein and contain healthy fats and various vitamins.",
       "difficulty": 1
     },
     {
       "id": "fdn_186",
-      "text": "Night blindness is caused by the deficiency of which vitamin? (variant 186)",
+      "text": "Which of these is a characteristic of a malnourished child?",
       "options": [
-        "D",
-        "K",
-        "Vitamin A",
-        "C"
+        "Excessive energy and activity",
+        "Stunted growth, weakened immunity, and developmental delays",
+        "Improved academic performance",
+        "Above-average weight"
       ],
-      "correct_index": 2,
-      "explanation": "Vit A.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Malnutrition causes stunted growth, weakened immunity, and delayed physical and cognitive development.",
+      "difficulty": 2
     },
     {
       "id": "fdn_187",
-      "text": "What does a balanced diet contain? (variant 187)",
+      "text": "Which of these is a benefit of eating breakfast?",
       "options": [
-        "Only two",
-        "All nutrients right proportion",
-        "Only one",
-        "No balance"
+        "It causes weight gain",
+        "It provides energy and improves concentration for the day's activities",
+        "It is not necessary for adults",
+        "It replaces the need for lunch"
       ],
       "correct_index": 1,
-      "explanation": "All right proportion.",
+      "explanation": "Eating breakfast provides essential energy and improves concentration and productivity.",
       "difficulty": 1
     },
     {
       "id": "fdn_188",
-      "text": "What is used as the cooking medium in boiling? (variant 188)",
+      "text": "The process of caramelisation involves",
       "options": [
-        "Water",
-        "Oil",
-        "No water",
-        "Only oil"
+        "Boiling sugar in water until it turns brown",
+        "Freezing sugar at very low temperatures",
+        "Mixing sugar with protein only",
+        "Dissolving sugar in cold water"
       ],
       "correct_index": 0,
-      "explanation": "Water.",
-      "difficulty": 1
+      "explanation": "Caramelisation is the browning of sugar when heated, producing a distinctive flavour and colour.",
+      "difficulty": 3
     },
     {
       "id": "fdn_189",
-      "text": "What is used as the cooking medium in frying? (variant 189)",
+      "text": "Which of these is an important principle of menu pricing?",
       "options": [
-        "Water",
-        "No oil",
-        "Only water",
-        "Oil"
+        "Always set the highest possible price",
+        "Consider food cost, labour, overhead, and profit margin",
+        "Ignore the cost of ingredients",
+        "Use random prices"
       ],
-      "correct_index": 3,
-      "explanation": "Oil.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Menu pricing should consider food cost, labour, overhead costs, and a reasonable profit margin.",
+      "difficulty": 2
     },
     {
       "id": "fdn_190",
-      "text": "What type of heat is used in baking? (variant 190)",
+      "text": "The role of folate in the body includes",
       "options": [
-        "Frying",
-        "No dry heat",
-        "Dry heat oven",
-        "Boiling"
+        "Building strong bones",
+        "Cell division and formation of red blood cells",
+        "Improving eyesight",
+        "Providing quick energy"
       ],
-      "correct_index": 2,
-      "explanation": "Dry heat oven.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Folate plays a crucial role in cell division and the formation of red blood cells.",
+      "difficulty": 3
     },
     {
       "id": "fdn_191",
-      "text": "What is colostrum in the context of infant nutrition? (variant 191)",
+      "text": "Which of these is an example of a complete meal?",
       "options": [
-        "Only water",
-        "First milk",
-        "Normal milk",
-        "No milk"
+        "A bowl of plain rice",
+        "Jollof rice with chicken, vegetables, and fruit salad",
+        "A cup of tea alone",
+        "A slice of bread alone"
       ],
       "correct_index": 1,
-      "explanation": "First milk.",
+      "explanation": "Jollof rice with chicken, vegetables, and fruit salad provides carbohydrates, protein, vitamins, and minerals.",
       "difficulty": 1
     },
     {
       "id": "fdn_192",
-      "text": "How many calories does one gram of carbohydrate provide? (variant 192)",
+      "text": "Which of these is a food preservation method that uses salt?",
       "options": [
-        "4 calories",
-        "9 calories",
-        "0",
-        "2"
+        "Irradiation",
+        "Curing",
+        "Pasteurisation",
+        "Freeze-drying"
       ],
-      "correct_index": 0,
-      "explanation": "4 cal.",
+      "correct_index": 1,
+      "explanation": "Curing uses salt (and sometimes sugar and nitrates) to preserve meats and fish.",
       "difficulty": 2
     },
     {
       "id": "fdn_193",
-      "text": "How many calories does one gram of fat provide? (variant 193)",
+      "text": "The food safety management system used in food industries is called",
       "options": [
-        "4",
-        "0",
-        "2",
-        "9 calories"
+        "HACCP (Hazard Analysis Critical Control Points)",
+        "WAEC",
+        "JAMB",
+        "SSCE"
       ],
-      "correct_index": 3,
-      "explanation": "9 cal.",
-      "difficulty": 2
+      "correct_index": 0,
+      "explanation": "HACCP is a systematic food safety management system used in food industries to identify and control hazards.",
+      "difficulty": 3
     },
     {
       "id": "fdn_194",
-      "text": "What is the primary function of roughage in the diet? (variant 194)",
+      "text": "Which of these foods is rich in vitamin E?",
       "options": [
-        "Fat",
-        "No nutrient",
-        "Bowel movement",
-        "Protein"
+        "Milk",
+        "Sunflower seeds and wheat germ",
+        "Carrots",
+        "Chicken"
       ],
-      "correct_index": 2,
-      "explanation": "Bowel.",
+      "correct_index": 1,
+      "explanation": "Sunflower seeds and wheat germ are excellent sources of vitamin E.",
       "difficulty": 2
     },
     {
       "id": "fdn_195",
-      "text": "In which part of the body does digestion begin? (variant 195)",
+      "text": "The purpose of garnishing food is to",
       "options": [
-        "Large",
-        "Mouth",
-        "Stomach",
-        "Small intestine"
+        "Increase the food's calorie content",
+        "Enhance visual appeal and add complementary flavours",
+        "Conceal spoiled food",
+        "Replace seasoning in the dish"
       ],
       "correct_index": 1,
-      "explanation": "Mouth.",
+      "explanation": "Garnishing enhances the visual appeal of food and can add complementary flavours.",
       "difficulty": 1
     },
     {
       "id": "fdn_196",
-      "text": "What does NAFDAC regulate in Nigeria? (variant 196)",
+      "text": "Which of these is a risk of consuming excessive vitamin A?",
       "options": [
-        "Food and drug",
-        "No control",
-        "Only oil",
-        "Only gas"
+        "Night blindness",
+        "Hypervitaminosis A causing liver damage and headaches",
+        "Scurvy",
+        "Anaemia"
       ],
-      "correct_index": 0,
-      "explanation": "Food drug.",
-      "difficulty": 1
+      "correct_index": 1,
+      "explanation": "Excessive vitamin A intake can cause hypervitaminosis A, leading to liver damage, nausea, and headaches.",
+      "difficulty": 3
     },
     {
       "id": "fdn_197",
-      "text": "What does the acronym BMI stand for? (variant 197)",
+      "text": "Which of these is a role of magnesium in the body?",
       "options": [
-        "No index",
-        "Only body",
-        "Only mass",
-        "Body Mass Index"
+        "Carries oxygen in blood",
+        "Supports muscle and nerve function and bone health",
+        "Prevents scurvy",
+        "Provides energy directly"
       ],
-      "correct_index": 3,
-      "explanation": "BMI.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Magnesium supports muscle and nerve function, blood sugar regulation, and bone health.",
+      "difficulty": 3
     },
     {
       "id": "fdn_198",
-      "text": "What is the normal range for Body Mass Index? (variant 198)",
+      "text": "Which of these is a characteristic of a food handler's hygiene?",
       "options": [
-        "10-15",
-        "No range",
-        "18.5-24.9",
-        "30-40"
+        "Wearing jewellery while cooking",
+        "Wearing clean uniforms, hairnets, and washing hands regularly",
+        "Handling money and food with the same hands",
+        "Working while sick without precautions"
       ],
-      "correct_index": 2,
-      "explanation": "18.5-24.9.",
-      "difficulty": 2
+      "correct_index": 1,
+      "explanation": "Food handlers must wear clean uniforms and hairnets, and wash hands regularly to prevent contamination.",
+      "difficulty": 1
     },
     {
       "id": "fdn_199",
-      "text": "What does the term food security mean? (variant 199)",
+      "text": "The importance of reading food labels includes",
       "options": [
-        "Only safe",
-        "Access sufficient safe nutritious",
-        "No access",
-        "Only sufficient"
+        "Checking the brand logo only",
+        "Knowing ingredients, nutritional values, expiry dates, and allergens",
+        "Just looking at the price",
+        "Checking the packaging colour only"
       ],
       "correct_index": 1,
-      "explanation": "Access sufficient.",
-      "difficulty": 2
+      "explanation": "Food labels provide essential information about ingredients, nutrition, expiry dates, and potential allergens.",
+      "difficulty": 1
     },
     {
       "id": "fdn_200",
-      "text": "What is the primary purpose of a kitchen? (variant 200)",
+      "text": "Which of these is the correct order of the digestive system?",
       "options": [
-        "Cooking",
-        "No cooking",
-        "Only eating",
-        "Only sleeping"
+        "Stomach, mouth, intestine, oesophagus",
+        "Mouth, oesophagus, stomach, small intestine, large intestine",
+        "Mouth, stomach, intestine, oesophagus",
+        "Oesophagus, mouth, stomach, large intestine"
       ],
-      "correct_index": 0,
-      "explanation": "Cooking.",
+      "correct_index": 1,
+      "explanation": "The correct order is mouth, oesophagus, stomach, small intestine, and large intestine.",
       "difficulty": 1
     }
   ]
