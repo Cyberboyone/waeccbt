@@ -1,6 +1,6 @@
 name: waec_cbt
 description: A complete CBT practice app for the West African Senior School Certificate Examination (WASSCE) — 22 WAEC subjects, 200 original syllabus-aligned questions each, offline-first with local Hive storage.
-version: 1.0.0+1
+version: 1.0.0+2
 
 environment:
   sdk: '>=3.2.0 <4.0.0'
