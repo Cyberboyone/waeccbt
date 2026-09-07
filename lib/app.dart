@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+﻿import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'config/theme.dart';
 import 'config/routes.dart';
@@ -20,9 +20,9 @@ import 'screens/shop_screen.dart';
 import 'screens/badges_screen.dart';
 class WaecCbtApp extends StatefulWidget { const WaecCbtApp({super.key}); @override State<WaecCbtApp> createState() => _WaecCbtAppState(); }
 class _WaecCbtAppState extends State<WaecCbtApp> with WidgetsBindingObserver {
-  @override void initState() { super.initState(); WidgetsBinding.instance.addObserver(this); }
+  @override void initState() { super.initState(); WidgetsBinding.instance.addObserver(this); Future.delayed(const Duration(seconds: 2), () { if (mounted) AdService.instance.handleAppOpened(); }); }
   @override void dispose() { WidgetsBinding.instance.removeObserver(this); super.dispose(); }
-  @override void didChangeAppLifecycleState(AppLifecycleState state) { if (state == AppLifecycleState.resumed) { AdService.instance.onAppResume(); } }
+  @override void didChangeAppLifecycleState(AppLifecycleState state) { if (state == AppLifecycleState.resumed) {       AdService.instance.handleAppOpened(); } }
   @override Widget build(BuildContext context) {
     return MultiProvider(
       providers: [ChangeNotifierProvider(create: (_) => ProfileProvider()), ChangeNotifierProvider(create: (_) => SettingsProvider()), ChangeNotifierProvider(create: (_) => CourseProvider()), ChangeNotifierProvider(create: (_) => QuizProvider())],
